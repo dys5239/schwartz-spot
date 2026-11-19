@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-08",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "PSI reports an AI-made proof of the Aaronson-Ambainis conjecture",
+          "summary": "PSI reported an AI-made proof of the Aaronson-Ambainis quantum conjecture, produced on a non-public Anthropic model.",
+          "source": "Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "Amazon adds text-to-shop Alexa for Shopping",
+          "summary": "Amazon introduced a text-to-shop Alexa for Shopping.",
+          "source": "Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "Microsoft ends its Oracle AI cloud deal",
+          "summary": "Microsoft is ending its Oracle AI cloud deal.",
+          "source": "Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "AMD calls itself 'data center first'",
+          "summary": "AMD called itself “data center first.”",
+          "source": "Techpresso",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

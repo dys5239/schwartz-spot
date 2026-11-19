@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    (function () {
+      var path = location.pathname;
+      if (path.charAt(path.length - 1) !== "/" && path.indexOf(".") === -1) {
+        location.replace(path + "/" + location.search + location.hash);
+      }
+    })();
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4efe6" id="themeColorMeta">
+  <meta name="color-scheme" content="light dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="">
+  <meta name="description" content="">
+  <title></title>
+  <script src="config.js"></script>
+  <script>window.applySiteBranding && window.applySiteBranding();</script>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="masthead">
+    <div class="masthead-bar">
+      <a class="mark" href="#/" id="siteHome" aria-label="Home"></a>
+      <div class="masthead-actions">
+        <button type="button" class="icon-btn" id="themeToggle" aria-label="Switch to dark mode">
+          <span class="theme-icon" aria-hidden="true"></span>
+        </button>
+        <a class="text-btn" href="#/archive" id="archiveNav">Archive</a>
+      </div>
+    </div>
+    <div class="nameplate-wrap">
+      <h1 class="nameplate" id="siteNameplate"></h1>
+      <p class="dateline" id="dateline">Loading…</p>
+      <p class="updated-stamp" id="updatedStamp" hidden></p>
+    </div>
+  </header>
+  <script>window.applySiteBranding && window.applySiteBranding();</script>
+
+  <nav class="section-nav" id="sectionNav" hidden aria-label="Edition sections">
+    <div class="section-nav-scroller" id="sectionNavScroller"></div>
+  </nav>
+
+  <div class="install-tip" id="installTip" hidden>
+    <p>Add this to your iPhone home screen: tap the Share button, then <strong>Add to Home Screen</strong>.</p>
+    <button type="button" class="text-btn" id="dismissTip">Dismiss</button>
+  </div>
+
+  <main id="main">
+    <p class="status">Loading today’s edition…</p>
+  </main>
+
+  <footer class="site-foot">
+    <p>The Schwartz Spot is a personal news desk. Unknown details are left blank rather than guessed.</p>
+    <p><a href="#/archive">Browse the archive</a></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

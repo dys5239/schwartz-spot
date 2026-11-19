@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-30",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "Mistral releases Large 4 open weights",
+          "summary": "Mistral released Large 4 as open weights.",
+          "source": "The Neuron, The Rundown, and The Code",
+          "url": ""
+        },
+        {
+          "headline": "NYT reports an alleged Chinese spy close to Jensen Huang",
+          "summary": "The New York Times reported an alleged Chinese spy close to Nvidia's Jensen Huang.",
+          "source": "The New York Times, via The Neuron, The Rundown, and The Code",
+          "url": ""
+        },
+        {
+          "headline": "Anthropic adds Claude self-assessment misuse monitoring",
+          "summary": "Anthropic described Claude self-assessment misuse monitoring.",
+          "source": "The Neuron, The Rundown, and The Code",
+          "url": ""
+        },
+        {
+          "headline": "AWS grows 39% as AI spending swings free cash flow by $57 billion",
+          "summary": "Amazon reported 39% AWS growth and a $57 billion free-cash-flow swing from AI spending.",
+          "source": "The Neuron, The Rundown, and The Code",
+          "url": ""
+        },
+        {
+          "headline": "GitHub Copilot adds multi-repo project agents",
+          "summary": "GitHub's Copilot projects added multi-repo agents.",
+          "source": "The Neuron, The Rundown, and The Code",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

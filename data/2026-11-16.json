@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "Nvidia's Asian partners rented chips to Chinese firms, WSJ reports",
+          "summary": "The Wall Street Journal reported that Nvidia's Asian partners rented chips to Chinese firms, including about $12 billion through Megaspeed.",
+          "source": "The Wall Street Journal, via The Neuron and The Rundown",
+          "url": ""
+        },
+        {
+          "headline": "Jensen Huang is weighing a comeback, FT reports",
+          "summary": "A petition and a Financial Times report said Jensen Huang is weighing a comeback.",
+          "source": "Financial Times, via The Neuron and The Rundown",
+          "url": ""
+        },
+        {
+          "headline": "Samsung courts Anthropic and OpenAI as data-center tenants",
+          "summary": "Samsung is courting Anthropic and OpenAI as data-center tenants.",
+          "source": "The Neuron and The Rundown",
+          "url": ""
+        },
+        {
+          "headline": "GPT-6 Astra helps prove a Standard Model lattice construction",
+          "summary": "OpenAI's GPT-6 Astra helped prove a Standard Model lattice construction.",
+          "source": "The Neuron and The Rundown",
+          "url": ""
+        },
+        {
+          "headline": "Apple launches a Health AI Study app",
+          "summary": "Apple released a Health AI Study app.",
+          "source": "The Neuron and The Rundown",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

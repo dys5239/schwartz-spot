@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-31",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "OpenAI rebuilds its Model Spec around five values",
+          "summary": "OpenAI rebuilt its Model Spec around five values.",
+          "source": "TLDR AI and Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "Google's AI Mode cuts ad revenue; shares drop 13%",
+          "summary": "Google's AI Mode was reported to be cutting ad revenue, and the stock dropped 13%.",
+          "source": "TLDR AI and Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "GitHub expands infrastructure for the AI code flood",
+          "summary": "GitHub announced an infrastructure expansion for the flood of AI-generated code.",
+          "source": "TLDR AI and Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "Reddit requires logins to curb AI scraping",
+          "summary": "Reddit began requiring logins to curb AI scraping.",
+          "source": "TLDR AI and Techpresso",
+          "url": ""
+        },
+        {
+          "headline": "Epoch: open-weight models turn unshipped fixes into exploits",
+          "summary": "Epoch found that open-weight models can turn unshipped security fixes into exploits.",
+          "source": "TLDR AI and Techpresso",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-18",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "OpenAI's GPT-6.2 Astra and Sol launch to rough reviews",
+          "summary": "OpenAI's GPT-6.2 Astra and Sol launched to rough reviews.",
+          "source": "The Rundown and The Neuron",
+          "url": ""
+        },
+        {
+          "headline": "Jensen Huang says he's open to returning; Nvidia's board says no",
+          "summary": "Jensen Huang made his first statement since resigning, saying he is open to returning. The board says no.",
+          "source": "The Rundown and The Neuron",
+          "url": ""
+        },
+        {
+          "headline": "Microsoft releases seven MAI models, including Code 2",
+          "summary": "Microsoft released seven MAI models, including Code 2.",
+          "source": "The Rundown and The Neuron",
+          "url": ""
+        },
+        {
+          "headline": "Isomorphic Labs raises a $5 billion Series C",
+          "summary": "Isomorphic Labs raised a $5 billion Series C.",
+          "source": "The Rundown and The Neuron",
+          "url": ""
+        },
+        {
+          "headline": "Google opens Gemini Tasks to free users",
+          "summary": "Google opened Gemini Tasks to free users.",
+          "source": "The Rundown and The Neuron",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

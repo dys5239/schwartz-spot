@@ -1,0 +1,10 @@
+# Local X API dumps used by scripts/fetch_x.py. Public posts, but bulky and
+# unneeded on the published site. Refresh runs keep them on the box only.
+data/x-raw/
+
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+.venv/
+venv/
