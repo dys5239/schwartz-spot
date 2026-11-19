@@ -6,8 +6,14 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+        },
+        {
           "headline": "Anthropic’s IPO could deliver $156 billion to charity",
-          "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $156 billion.",
+          "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
         },
@@ -24,12 +30,6 @@
           "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
         },
         {
-          "headline": "Anthropic shares soar in Nasdaq trading debut, surging 39%",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
-        },
-        {
           "headline": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
           "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
           "source": "TechCrunch",
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Photos, videos show devastating South Florida flooding",
-          "summary": "Significant flooding devastated some South Florida communities this week.",
+          "headline": "Iran may be working on biological weapons, Trump says",
+          "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
         },
         {
-          "headline": "Anthropic begins public trading in major test for AI",
-          "summary": "The company behind popular chatbot Claude immediately vaulted into rarefied air among some of the largest public companies in the world.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/anthropic-public/story?id=138174650"
-        },
-        {
-          "headline": "Diapers are often cited in child injury reports, but not recalled",
-          "summary": "Despite hundreds of rash reports and a handful of lawsuits against different brands, the Consumer Product Safety Commission has never announced a diaper recall and does not have dedicated standards for diapers.",
+          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/diapers-child-injury-reports-no-recalls/"
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         },
         {
-          "headline": "Cost of War Update: Gold Star husband briefed on wife's death",
-          "summary": "After the 60 Minutes report Cost of War, CBS News' Jonah Kaplan follows Joey Amor to an Army briefing on the Port Shuaiba attack that killed six U.S. soldiers, including his wife Master Sgt.",
+          "headline": "Obama rallies newly elected House Democrats",
+          "summary": "President Obama met with House Democrats on Wednesday amid Rep. Hakeem Jeffries' nomination for House Speaker.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/following-up-on-the-cost-of-war-60-minutes/"
+          "url": "https://www.cbsnews.com/video/obama-rallies-newly-elected-house-democrats/"
         },
         {
-          "headline": "Trump-Putin-Xi meeting updates: Schumer calls trip a 'historical embarrassment'",
-          "summary": "Trump participated on Thursday in the first-ever trilateral meeting with Putin and Xi.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702"
+          "headline": "These Democrats don't want Hakeem Jeffries to lead the House",
+          "summary": "Rep. Hakeem Jeffries won the nomination for House speaker, but not every Democrat supported him.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/these-democrats-dont-want-hakeem-jeffries-to-lead-the-house/"
+        },
+        {
+          "headline": "South Florida severe weather and flooding live updates",
+          "summary": "After more than 15 inches of rain flooded parts of South Florida, schools remain closed and roads underwater Thursday as another round of heavy rain threatens to worsen conditions.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
         }
       ]
     },
@@ -79,32 +79,122 @@
       "stories": [],
       "posts": [
         {
+          "id": "2123501828642074670",
+          "created_at": "2026-11-19T19:41:03.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "\"Crimea is Ukraine, and we can do whatever we want with what belongs to us.\"\n\nZelensky, responding to the Crimea Bridge strike.",
+          "url": "https://x.com/i/status/2123501828642074670",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123501332334276956",
+          "created_at": "2026-11-19T19:39:05.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "DEMS DEFINITION OF AFFORDABILITY: $212 TRILLION  WORTH OF PROPOSALS!\n\nDr. Oz: \"If you CRUSH the system, you will devastate the systems we have and leave NOTHING in their place!\"\n\nhttps://t.co/9EoXs6wJ9c",
+          "url": "https://x.com/i/status/2123501332334276956",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123501291020419387",
+          "created_at": "2026-11-19T19:38:55.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🇺🇸 FAITH. FAMILY. FREEDOM. AMERICAN VALUES!\n\nCountry music artist @tashaowensmusic is back with her brand-new single, “American Values,” celebrating the principles that bring Americans together!\n\n“We can beg to differ, as long as we both agree on American values!” 🎶\n\n🎵 PRE-SAVE https://t.co/9eqY1fUXBZ",
+          "url": "https://x.com/i/status/2123501291020419387",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123501198326321278",
+          "created_at": "2026-11-19T19:38:33.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: Trump says Putin is ready to reach a deal and expressed hope that Zelenskyy would be willing to do the same.\n\n(I think we heard this before)",
+          "url": "https://x.com/i/status/2123501198326321278",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123499599847678194",
+          "created_at": "2026-11-19T19:32:11.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "\"PEACE IS THE PRIZE\": @POTUS IN CHINA\n\n@JackPosobiec on his way out of the trilateral summit...\"the NEW YALTA.\" https://t.co/ZM5smu2Tt6",
+          "url": "https://x.com/i/status/2123499599847678194",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123499036212887733",
+          "created_at": "2026-11-19T19:29:57.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "He's done WHAT https://t.co/KIMrMIpJDk",
+          "url": "https://x.com/i/status/2123499036212887733",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123498770360889516",
+          "created_at": "2026-11-19T19:28:54.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "He’s not. I know many highly qualified Jewish Trump Loyalists who have been blocked from the admin because of his bias. \n\nHe’s a horrible person and a Tucker sycophant and he will get what he deserves. \n\nEveryone knows what the watermelon emoji on posts about October 7 mean. https://t.co/tLXZDMTfrP",
+          "url": "https://x.com/i/status/2123498770360889516",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123498600651203049",
+          "created_at": "2026-11-19T19:28:13.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Former U.S. Secretary of State Mike Pompeo on the APEC summit:\n\n\"You can't trust a thing Putin or Xi Jinping says.\n\nI don't expect a major breakthrough as a result of this.\"",
+          "url": "https://x.com/i/status/2123498600651203049",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123498288569528629",
+          "created_at": "2026-11-19T19:26:59.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Any U.S. Navy action against an Iranian oil tanker flotilla would be met with attacks on oil and gas infrastructure in other Middle Eastern countries, according to the IRGC-affiliated Fars News Agency. The outlet confirmed Tehran plans to send the tankers to break the U.S. naval https://t.co/q1hARoPblo",
+          "url": "https://x.com/i/status/2123498288569528629",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123495933770162458",
+          "created_at": "2026-11-19T19:17:37.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "SCHUMER TRIES TO SAY TRILATERAL MEETING WAS AN \"EMBARRASMENT\"\n\nPerhaps the Senator is just jealous? Many are calling this a HISTORIC MEETING. Sitting down with leaders to discuss diplomacy, talking to all - friends and foes.\n\n https://t.co/eNoFJItx1t",
+          "url": "https://x.com/i/status/2123495933770162458",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123495832997789944",
+          "created_at": "2026-11-19T19:17:13.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Germany's Chancellor Merz:\n\nWe will support Kyiv for as long as necessary. If peace negotiations take place, we will be involved. \n\nNegotiations can only succeed with Ukraine and Europe together. \n\nA Yalta-style format will not bring peace.",
+          "url": "https://x.com/i/status/2123495832997789944",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2123495219975123363",
           "created_at": "2026-11-19T19:14:47.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "HERE WE GO AGAIN! DEMS TO PROTECT ILLEGAL MIGRANTS WITH FINAL REMOVAL ORDERS\n\nThese illegal migrants were issued deportation orders, but DEMS want them to stay. 😑\n\nhttps://t.co/4tZg7syNuD",
-          "url": "https://x.com/RealAmVoice/status/2123495219975123363",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123492922012442669",
-          "created_at": "2026-11-19T19:05:39.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "SCHUMER TRIES TO SAY TRILATERAL MEETING WAS AN \"EMBARRASMENT\"\n\nPerhaps the Senator is just jealopus? Many are calling this a HISTORIC MEETING. Sitting down with leaders to discuss diplomacy, talking to all - friends and foes.\n\nhttps://t.co/rFbFdjVj80",
-          "url": "https://x.com/RealAmVoice/status/2123492922012442669",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123491695077577110",
-          "created_at": "2026-11-19T19:00:47.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Here’s your Daily dose of Human Events with @JackPosobiec. Tune in every M-F at 2PM ET. @HumanEventsLive https://t.co/z9qm0pXNG4",
-          "url": "https://x.com/RealAmVoice/status/2123491695077577110",
+          "url": "https://x.com/i/status/2123495219975123363",
           "verified": true,
           "verified_type": "business"
         },
@@ -114,17 +204,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: MicroStrategy, $MSTR, and Bitmine, $BMNR, extend losses to their lowest level of the day as Bitcoin falls below $63,000.\n\nThe stocks are now down -88% and -91%, respectively, from their record highs. https://t.co/BgxojZPDps",
-          "url": "https://x.com/KobeissiLetter/status/2123491505872797719",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123490646023713279",
-          "created_at": "2026-11-19T18:56:37.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DEMS TRY TO ATTACK SENATOR OVER SOCIAL SECURITY: NEW ACT PROPOSAL\n\n\"I AM NOT PROPOSING SHUTTING DOWN Social Security. I ask my Dem colleagues...did you read the chairman's hearing memo? I've suggested...STOP SCARING SENIORS ACT.\" @senronjohnson https://t.co/x8Fi9mQb0K",
-          "url": "https://x.com/RealAmVoice/status/2123490646023713279",
+          "url": "https://x.com/i/status/2123491505872797719",
           "verified": true,
           "verified_type": "business"
         },
@@ -134,7 +214,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "The past 3 national champs are from the Big Ten, yet the CFP committee is still using magic 8-ball metrics to prop up SEC mediocrity. \n\n@kayceeunplugged breaks down why the West Coast’s overlooked unbeatens Utah and UCLA will just have to settle it on the field:",
-          "url": "https://x.com/SportNState/status/2123490623546433916",
+          "url": "https://x.com/i/status/2123490623546433916",
           "verified": true,
           "verified_type": "blue"
         },
@@ -144,57 +224,7 @@
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "VP of Strategic Communications for the new groyper aligned organization “American Ascent” is naturally simping for Tucker Qatarlson and is defending the Indian born Palestinian sympathizer inside PPO who posted a watermelon on a post about October 7. \n\nWe all know what the https://t.co/4afB8AqjnW",
-          "url": "https://x.com/LauraLoomer/status/2123489020994801977",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123488869790183519",
-          "created_at": "2026-11-19T18:49:33.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NATO's Rutte on the leaders' meeting in China:\n\n\"I think it is important that leaders meet, as this meeting, the meeting in China. I think this is normal. And so I'm absolutely not worried. I mean, don't forget, Russia and the U.S. are big nuclear powers. China is an upcoming",
-          "url": "https://x.com/Osint613/status/2123488869790183519",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123488415656063482",
-          "created_at": "2026-11-19T18:47:45.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "CNN: Marco Rubio is weighing a run for president in 2028.\n\nRubio previously pledged to support JD Vance. He has now declined to renew that commitment.\n\nHis allies and Republican donors are increasingly pushing him to consider a bid. Doubts over Vance have grown since the party's",
-          "url": "https://x.com/Osint613/status/2123488415656063482",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123488021668311192",
-          "created_at": "2026-11-19T18:46:11.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "According to Axios, President Trump will not decide on his next move in the Iran war before the new year.\n\nTake this report as you want.",
-          "url": "https://x.com/Osint613/status/2123488021668311192",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123486634914066639",
-          "created_at": "2026-11-19T18:40:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Finnish President Alexander Stubb:\n\nAt the end of the day, I think there's no way in which this peace can be forged if Zelensky and Putin don't meet.",
-          "url": "https://x.com/Osint613/status/2123486634914066639",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123486344316100925",
-          "created_at": "2026-11-19T18:39:31.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Germany's Chancellor Merz:\n\nIn October alone, Moscow lost more than 50,000 soldiers. That is comparable to the number of Americans lost during the entire Vietnam War.\n\nRussia loses that many in a single month. Russia must therefore understand that it is time to make peace and lay",
-          "url": "https://x.com/Osint613/status/2123486344316100925",
+          "url": "https://x.com/i/status/2123489020994801977",
           "verified": true,
           "verified_type": "blue"
         },
@@ -204,7 +234,7 @@
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "The Nasdaq has erased a 2% gain and is now down 1.1% on the day of the biggest IPO in history\n\nThe S&amp;P 500 swung 222 points from its high of 7,415.64 at the open to a low of 7,193.83, and is now down 1.0%\n\nThe Dow fell as much as 1,106 points from Wednesday's close, the VIX https://t.co/G8RxMjzXwu",
-          "url": "https://x.com/_Investinq/status/2123485871215378867",
+          "url": "https://x.com/i/status/2123485871215378867",
           "verified": true,
           "verified_type": "blue"
         },
@@ -214,7 +244,7 @@
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "lol. Keep dreaming! \n\nIt’s never going to happen. https://t.co/ZS0fxAQVwM",
-          "url": "https://x.com/LauraLoomer/status/2123485606520979784",
+          "url": "https://x.com/i/status/2123485606520979784",
           "verified": true,
           "verified_type": "blue"
         },
@@ -224,19 +254,9 @@
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "Because everyone knows Heritage is a cesspool of Jew haters. https://t.co/4vJnDN3odc",
-          "url": "https://x.com/LauraLoomer/status/2123485367059812646",
+          "url": "https://x.com/i/status/2123485367059812646",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123485264865882115",
-          "created_at": "2026-11-19T18:35:14.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "REP. AL GREEN GIFTS MASSIE A FLAG DURING TRUMP IMPEACHMENT RANT\n\nGreen ranted in \"the name of Rosa Parks\" on proceeding with impeaching POTUS, yet again.\n\nAt the end he gifted Rep. Massie an American flag that flew over congress and praised him for pursuing impeachment of Sec.",
-          "url": "https://x.com/RealAmVoice/status/2123485264865882115",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123482697809154486",
@@ -244,7 +264,7 @@
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "The Baltimore Ravens suspended Marlon Humphrey this week for saying, in a joking manner, that Baltimore was best known for producing criminals. NFL teams have regularly played players charged with felonies! NFLPA should file a grievance. Outrageous.",
-          "url": "https://x.com/ClayTravis/status/2123482697809154486",
+          "url": "https://x.com/i/status/2123482697809154486",
           "verified": true,
           "verified_type": "blue"
         },
@@ -254,7 +274,7 @@
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "Nobody is doing the vetting.\n\nThat’s why disgusting people and Tucker Carlson aligned Jew haters work in the admin. https://t.co/gvuWZnkNFi",
-          "url": "https://x.com/LauraLoomer/status/2123482587297612007",
+          "url": "https://x.com/i/status/2123482587297612007",
           "verified": true,
           "verified_type": "blue"
         },
@@ -264,7 +284,7 @@
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Anthropic $ANT just opened at $111.50 in its Nasdaq debut, up 34.3% from its $83 IPO price\n\nThat values the Claude maker at about $2.02 trillion fully diluted on day one\n\n$ANT priced Wednesday above its $70 to $78 range after upsizing to 980 million shares\n\nThe $81.34 billion https://t.co/YrhiqEK8IJ",
-          "url": "https://x.com/_Investinq/status/2123479424901468577",
+          "url": "https://x.com/i/status/2123479424901468577",
           "verified": true,
           "verified_type": "blue"
         },
@@ -274,7 +294,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Marlon Humphrey took a shot at Baltimore. The Ravens responded by sending him home.\n\nAfter saying the city is best at making “criminals,” Humphrey will miss the rest of the week and Sunday’s game against Carolina.  His deleted podcast clip came with a pretty real consequence,",
-          "url": "https://x.com/SportNState/status/2123478006706364753",
+          "url": "https://x.com/i/status/2123478006706364753",
           "verified": true,
           "verified_type": "blue"
         },
@@ -284,7 +304,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: AMD, $AMD, officially denies claims made by Hunterbrook Media that sent the stock -13% lower, saying that the claims \"misrepresent AMD's business practices and relationships,\" per Bloomberg.\n\n\"AMD complies with applicable US export control laws and regulations and",
-          "url": "https://x.com/KobeissiLetter/status/2123476690873847984",
+          "url": "https://x.com/i/status/2123476690873847984",
           "verified": true,
           "verified_type": "business"
         },
@@ -294,7 +314,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️We’re working on a deeper macro outlook for 2027 and beyond for Inner Ring.\n\nA lot has been shifting across markets over the last few weeks.\n\nRates. Liquidity. Inflation. The dollar. Assets.\n\nThis is exactly the kind of environment where signal matters most.\n\nMore soon. https://t.co/7bW3xvweWW",
-          "url": "https://x.com/_The_Prophet__/status/2123476284043047083",
+          "url": "https://x.com/i/status/2123476284043047083",
           "verified": true,
           "verified_type": "blue"
         },
@@ -304,7 +324,7 @@
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "You can create an entire company made of Grok Bots! https://t.co/qLl5REpV2h",
-          "url": "https://x.com/elonmusk/status/2123475464043786417",
+          "url": "https://x.com/i/status/2123475464043786417",
           "verified": true,
           "verified_type": "blue"
         },
@@ -314,17 +334,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Bummer. https://t.co/laW7h91Pe2",
-          "url": "https://x.com/_The_Prophet__/status/2123475033842675812",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123475014850683009",
-          "created_at": "2026-11-19T17:54:30.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Where the hell is Markwayne Mullin?\n\nOh that’s right. He’s reportedly headed to the Middle East today .\n\nMaybe he’s going back to Qatar to see his Muslim Brotherhood friends he spent New Year with. \n\n@sneako should be apprehended when he returns to the US. \n\nI have reached out to https://t.co/FUqwKI96Ht",
-          "url": "https://x.com/LauraLoomer/status/2123475014850683009",
+          "url": "https://x.com/i/status/2123475033842675812",
           "verified": true,
           "verified_type": "blue"
         },
@@ -334,7 +344,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️This is exactly the cohort that gets crushed first if people misunderstand what “50% of tasks automated” actually means.\n\nThe 48-year-old accountant is not automatically unemployed in 2029.\n\nBut the labor market around him changes violently.\n\nA department that once needed 20 https://t.co/q096NvPYUi",
-          "url": "https://x.com/_The_Prophet__/status/2123474444291387513",
+          "url": "https://x.com/i/status/2123474444291387513",
           "verified": true,
           "verified_type": "blue"
         },
@@ -344,7 +354,7 @@
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "https://t.co/g1Z2H1DnQg CEO Peter Smith says a couple hundred billion dollars of crypto positions have been liquidated\n\n\"What we've gotten into over the last couple of weeks is a liquidation cascade\"\n\n\"There have been a couple hundred billion worth of crypto positions liquidated\" https://t.co/mXlZMZWij9",
-          "url": "https://x.com/_Investinq/status/2123473910398324947",
+          "url": "https://x.com/i/status/2123473910398324947",
           "verified": true,
           "verified_type": "blue"
         },
@@ -354,7 +364,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️The danger is a world that creates abundance while still forcing people to prove they deserve access to it through employment.\n\nFor most of history, work did three jobs at once:\n\nIt produced what society needed.\nIt distributed income.\nIt gave people status and purpose.\n\nAI can https://t.co/Uv45mWCciJ",
-          "url": "https://x.com/_The_Prophet__/status/2123473222754865336",
+          "url": "https://x.com/i/status/2123473222754865336",
           "verified": true,
           "verified_type": "blue"
         },
@@ -364,7 +374,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "🚨 KNOXVILLE! 🚨\n\nHutton &amp; Withrow are LIVE at Cool Beans tomorrow night from 7–8 PM ET to preview Tennessee vs. LSU!\n\nThe first 100 fans get a FREE Six Pack Coverdge hoodie and more!\n\nCome hang out, talk college football, and get ready for a huge SEC showdown! 🍊🏈 https://t.co/IpAXNxPEO1",
-          "url": "https://x.com/SportNState/status/2123468310138568990",
+          "url": "https://x.com/i/status/2123468310138568990",
           "verified": true,
           "verified_type": "blue"
         },
@@ -374,7 +384,7 @@
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Walmart CEO John Furner says the consumer is pretty resilient and the early read on Thanksgiving is good\n\n\"The customer, I would say, is pretty resilient, pretty consistent\"\n\n\"Back to school was strong. We had a strong Halloween\"\n\n\"Good early read for Thanksgiving is what we're https://t.co/6hILN24wJU",
-          "url": "https://x.com/_Investinq/status/2123467619458265380",
+          "url": "https://x.com/i/status/2123467619458265380",
           "verified": true,
           "verified_type": "blue"
         },
@@ -384,7 +394,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: Anthropic, $ANT, officially begins trading on the Nasdaq and surges to $115/share, up +39% from its $83 IPO price.\n\nThis officially pushes the company's fully diluted valuation above $2 trillion, making it the 6th most valuable publicly traded company in the world on",
-          "url": "https://x.com/KobeissiLetter/status/2123465131501736418",
+          "url": "https://x.com/i/status/2123465131501736418",
           "verified": true,
           "verified_type": "business"
         },
@@ -394,7 +404,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "“I know Joe’s always wanted a one-man booth.\"\n\nTroy Aikman doesn't give a SHIT anymore 😳https://t.co/LBlFpUWqnH",
-          "url": "https://x.com/Outkick/status/2123465056512008312",
+          "url": "https://x.com/i/status/2123465056512008312",
           "verified": true,
           "verified_type": "business"
         },
@@ -404,7 +414,7 @@
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "Democrats will impeach Trump and Kamala will be the 2028 nominee. Discussion with @seanhannity.  https://t.co/U7uz0IJI17",
-          "url": "https://x.com/ClayTravis/status/2123463366698017266",
+          "url": "https://x.com/i/status/2123463366698017266",
           "verified": true,
           "verified_type": "blue"
         },
@@ -414,7 +424,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: The S&amp;P 500 falls over -230 points from its high of the day as the Anthropic, $ANT, IPO debuts and technology stocks sell off.\n\nThe S&amp;P 500 is now trading below 7200 for the first time since May 5th. https://t.co/GNVVM63OuK",
-          "url": "https://x.com/KobeissiLetter/status/2123462999839302085",
+          "url": "https://x.com/i/status/2123462999839302085",
           "verified": true,
           "verified_type": "business"
         },
@@ -424,7 +434,7 @@
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Imagine paying over $2 trillion for a company operating in an industry where its biggest competitive advantage could become obsolete overnight.\n\nAnthropic is an incredible company, but I think investors are confusing an incredible business with an incredible investment.\n\nMy https://t.co/d9eZC6clk6 https://t.co/nq150sqCY7",
-          "url": "https://x.com/_Investinq/status/2123462700399309308",
+          "url": "https://x.com/i/status/2123462700399309308",
           "verified": true,
           "verified_type": "blue"
         },
@@ -434,7 +444,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Bet The Board - CFB Week 12 Best Bets 💰\n\n@BradPowers7  and @KegsnEggs return to break down the biggest matchups, coaching edges, and injuries while analyzing the latest betting odds on @HardRockBet.\n\nThe guys are on a 28-10 run 🔥\n\nhttps://t.co/nf1d8XOU7T",
-          "url": "https://x.com/SportNState/status/2123461307777085535",
+          "url": "https://x.com/i/status/2123461307777085535",
           "verified": true,
           "verified_type": "blue"
         },
@@ -444,7 +454,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: Anthropic, $ANT, is now indicated to open at a $2 trillion market cap, up +33% from its IPO price.\n\nThis would mark a +57% increase from the bottom end of its initial IPO pricing range announced earlier this week.\n\nTotal demand for this IPO hit a massive $500 billion.",
-          "url": "https://x.com/KobeissiLetter/status/2123456600174219499",
+          "url": "https://x.com/i/status/2123456600174219499",
           "verified": true,
           "verified_type": "business"
         },
@@ -454,7 +464,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Stephen A. Smith and Jay Williams got into a heated public back-and-forth after Smith challenged the NBA’s “brothers” to stop a Lakers team led by Luka Dončić, Austin Reaves and Walker Kessler.\n\nWilliams called out the racial double standard, and Smith continued to doubled down.",
-          "url": "https://x.com/SportNState/status/2123456530309578804",
+          "url": "https://x.com/i/status/2123456530309578804",
           "verified": true,
           "verified_type": "blue"
         },
@@ -464,7 +474,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Looking at the beer in my fridge ahead of this garbage Thursday Night Football game https://t.co/lZSerM6tp2",
-          "url": "https://x.com/Outkick/status/2123446538060136561",
+          "url": "https://x.com/i/status/2123446538060136561",
           "verified": true,
           "verified_type": "business"
         },
@@ -474,7 +484,7 @@
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "Santa Clay is coming to town early. Tennessee is beating LSU. @HardRockBet is offering new users up to a $1500 wager on this game as a promo, if you win, boom, I’m a genius, if you lose, you get $1500 back in bonus bets. No brainer. Go Vols. Go play: https://t.co/gRmp9mcoPG",
-          "url": "https://x.com/ClayTravis/status/2123446507894382688",
+          "url": "https://x.com/i/status/2123446507894382688",
           "verified": true,
           "verified_type": "blue"
         },
@@ -484,7 +494,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "ufos and hulk\n\nwas gta always a sci fi fantasy game? https://t.co/eM79cCfqEd",
-          "url": "https://x.com/Timcast/status/2123445502910083111",
+          "url": "https://x.com/i/status/2123445502910083111",
           "verified": true,
           "verified_type": "blue"
         },
@@ -494,7 +504,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Art imitates life https://t.co/xP1NeZYC25",
-          "url": "https://x.com/Outkick/status/2123441138694570317",
+          "url": "https://x.com/i/status/2123441138694570317",
           "verified": true,
           "verified_type": "business"
         },
@@ -504,7 +514,7 @@
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "I’m sorry I shared a story about UCLA cheerleaders. When I see attractive women on TV at football games, I don’t immediately think about Israel and Palestine. I’ll try to do better and make sure it’s all I think about all day long. https://t.co/7ZMwkIEcDZ",
-          "url": "https://x.com/ClayTravis/status/2123426395808583941",
+          "url": "https://x.com/i/status/2123426395808583941",
           "verified": true,
           "verified_type": "blue"
         },
@@ -514,7 +524,7 @@
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "The SEC continues to dominate TV ratings. Why? Because many SEC fans don’t just watch their favorite team, they watch the entire league. More league games and less cupcakes is a TV bonanza. https://t.co/pjArS2uPja",
-          "url": "https://x.com/ClayTravis/status/2123424049242198315",
+          "url": "https://x.com/i/status/2123424049242198315",
           "verified": true,
           "verified_type": "blue"
         },
@@ -524,7 +534,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Trevor Lawrence's football IQ? High.\n\nHis Waffle House order? Also elite. https://t.co/4OtlkD1pde",
-          "url": "https://x.com/Outkick/status/2123419333170811101",
+          "url": "https://x.com/i/status/2123419333170811101",
           "verified": true,
           "verified_type": "business"
         },
@@ -534,7 +544,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/19/26 https://t.co/uvJLf0tR49",
-          "url": "https://x.com/glennbeck/status/2123415807346557213",
+          "url": "https://x.com/i/status/2123415807346557213",
           "verified": true,
           "verified_type": "blue"
         },
@@ -544,7 +554,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Thanks for the response, congresswoman. Quick question while I have you: does it bother you at all that you're 83 years old, you've been in congress for 35 years, and now the end of your life is rapidly approaching and you have not a single accomplishment of any kind to your name https://t.co/8bxBKvjkEb",
-          "url": "https://x.com/MattWalshBlog/status/2123399890914967867",
+          "url": "https://x.com/i/status/2123399890914967867",
           "verified": true,
           "verified_type": "blue"
         },
@@ -554,7 +564,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "What the ever living fuck https://t.co/3X1ov3HKt5",
-          "url": "https://x.com/Timcast/status/2123399236213415947",
+          "url": "https://x.com/i/status/2123399236213415947",
           "verified": true,
           "verified_type": "blue"
         },
@@ -564,7 +574,7 @@
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Extend consciousness to the stars https://t.co/vRKCpiPqyV",
-          "url": "https://x.com/elonmusk/status/2123337655731826810",
+          "url": "https://x.com/i/status/2123337655731826810",
           "verified": true,
           "verified_type": "blue"
         },
@@ -574,7 +584,7 @@
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Starlink started with a speech in Seattle https://t.co/y8QLexDwnu",
-          "url": "https://x.com/elonmusk/status/2123333341932052749",
+          "url": "https://x.com/i/status/2123333341932052749",
           "verified": true,
           "verified_type": "blue"
         },
@@ -584,7 +594,7 @@
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Remember to cast your Tesla votes! https://t.co/41fHEGryzP",
-          "url": "https://x.com/elonmusk/status/2123320336544649485",
+          "url": "https://x.com/i/status/2123320336544649485",
           "verified": true,
           "verified_type": "blue"
         },
@@ -594,19 +604,9 @@
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Moving all text conversations to be encrypted to ensure user privacy https://t.co/6Qbz2gmqPp",
-          "url": "https://x.com/elonmusk/status/2123319956381339961",
+          "url": "https://x.com/i/status/2123319956381339961",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123278201699041723",
-          "created_at": "2026-11-19T04:52:26.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Ref was really about to square up with Luka 😭 https://t.co/XuNHZAPlXM",
-          "url": "https://x.com/Outkick/status/2123278201699041723",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123248203466428499",
@@ -614,7 +614,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Geoffrey Hinton is warning Congress that AI has reached the point of helping design better AI, while humanity still lacks a reliable way to control systems that surpass human intelligence.\n\nWe are approaching a threshold unlike anything in the history of technological progress.",
-          "url": "https://x.com/_The_Prophet__/status/2123248203466428499",
+          "url": "https://x.com/i/status/2123248203466428499",
           "verified": true,
           "verified_type": "blue"
         },
@@ -624,7 +624,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Alliance PvP\n\nWoW Forever\n\nAdd Moonlord Crossland to join our guild \n\nGuildcast\n\nIm running a rogue, Cydaris Vin\n\nAdd me",
-          "url": "https://x.com/Timcast/status/2123244652392259647",
+          "url": "https://x.com/i/status/2123244652392259647",
           "verified": true,
           "verified_type": "blue"
         },
@@ -634,7 +634,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Are We Under Cyberattack? Everything You Need To Know About The Tech Outages | Ep. 1876\n\nhttps://t.co/pIHaU2mFwa",
-          "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
+          "url": "https://x.com/i/status/2123238776176800237",
           "verified": true,
           "verified_type": "blue"
         },
@@ -644,7 +644,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "CYBER ATTACKS CONFIRMED, Elon Musk Warns Of WW3 On Trip With Trump To China https://t.co/1Z1LiJN43T",
-          "url": "https://x.com/Timcast/status/2123219812117606895",
+          "url": "https://x.com/i/status/2123219812117606895",
           "verified": true,
           "verified_type": "blue"
         },
@@ -654,7 +654,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
-          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
+          "url": "https://x.com/i/status/2123212911640223945",
           "verified": true,
           "verified_type": "blue"
         },
@@ -664,7 +664,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
-          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
+          "url": "https://x.com/i/status/2123205567728722236",
           "verified": true,
           "verified_type": "blue"
         },
@@ -674,7 +674,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "People said I was wrong for pointing out Nick is ascendant \n\nMock him all day he's a cultural force https://t.co/KogzzMLC7R",
-          "url": "https://x.com/Timcast/status/2123200033650618825",
+          "url": "https://x.com/i/status/2123200033650618825",
           "verified": true,
           "verified_type": "blue"
         },
@@ -684,7 +684,7 @@
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "As Texas communities consider major supercomputing investments, careful long-term tax planning is essential. Under Texas’s no-new-revenue tax framework, rising property values generally drive tax rates down. But as expensive computing equipment rapidly depreciates, this can https://t.co/CeBqjWOIZK",
-          "url": "https://x.com/SpaceX/status/2123193048574419212",
+          "url": "https://x.com/i/status/2123193048574419212",
           "verified": true,
           "verified_type": "business"
         },
@@ -694,7 +694,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "When you win a Senate seat, you get instant access to classified information without a single background check. @seanspicer is trying to change that, starting with a petition calling on Senate leadership to properly vet Abdul El-Sayed before handing him access to some of https://t.co/xICif3Z5m3",
-          "url": "https://x.com/glennbeck/status/2123186336278696260",
+          "url": "https://x.com/i/status/2123186336278696260",
           "verified": true,
           "verified_type": "blue"
         },
@@ -704,7 +704,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "I think these outages and crashes will continue. Whether it’s the start of a different kind of war or the massive growing pains of an AI transition, we’re at the beginning of something.\n\nIf you’re part of my audience, you’ve probably already prepared.\n\nNow, I’m asking you to help https://t.co/FShCa3ON2L",
-          "url": "https://x.com/glennbeck/status/2123170168977432946",
+          "url": "https://x.com/i/status/2123170168977432946",
           "verified": true,
           "verified_type": "blue"
         },
@@ -714,7 +714,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Doesn’t matter how you personally feel about the Iran War. The fact is that it’s wildly politically unpopular and was one of the main reasons why Republicans just got wiped out. No credible person debates either of those points. The logical conclusion is that no Republican who",
-          "url": "https://x.com/MattWalshBlog/status/2123156070398849191",
+          "url": "https://x.com/i/status/2123156070398849191",
           "verified": true,
           "verified_type": "blue"
         },
@@ -724,7 +724,7 @@
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "The Starbase tower team on location with the first caught Starship🍌 https://t.co/ar7y6ccgZr",
-          "url": "https://x.com/SpaceX/status/2123097995679867195",
+          "url": "https://x.com/i/status/2123097995679867195",
           "verified": true,
           "verified_type": "business"
         },
@@ -734,7 +734,7 @@
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad https://t.co/hjfcnVpxLn",
-          "url": "https://x.com/SpaceX/status/2122814338893332591",
+          "url": "https://x.com/i/status/2122814338893332591",
           "verified": true,
           "verified_type": "business"
         },
@@ -744,7 +744,7 @@
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "Watch @BretWJ at the @TomorrowXSummit talking about Starship unlocking the future of @Starlink broadband, mobile and ultimately supercompute in space https://t.co/wnjEneecQ3",
-          "url": "https://x.com/SpaceX/status/2122802167212098047",
+          "url": "https://x.com/i/status/2122802167212098047",
           "verified": true,
           "verified_type": "business"
         },
@@ -754,7 +754,7 @@
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th  Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18 → https://t.co/tnMukzSxui https://t.co/OhkzWO1fRh",
-          "url": "https://x.com/SpaceX/status/2122793780810264837",
+          "url": "https://x.com/i/status/2122793780810264837",
           "verified": true,
           "verified_type": "business"
         }
@@ -801,10 +801,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
-          "summary": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say.",
+          "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+          "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html"
+          "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
         },
         {
           "headline": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
@@ -813,22 +813,22 @@
           "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html"
         },
         {
-          "headline": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
-          "summary": "From chips to industrials and banks, we have companies that stand to gain from Anthropic's blockbuster debut.",
+          "headline": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+          "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html"
+          "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html"
         },
         {
-          "headline": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-          "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html"
+          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         },
         {
-          "headline": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
-          "summary": "Netflix, Amazon and Fox are among those bidding on the 2030 men's World Cup media rights. Disney has decided not to bid, sources told CNBC.",
+          "headline": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+          "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html"
+          "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html"
         }
       ]
     },
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "New manager Frick to take Aberdeen back to basics",
-          "summary": "Head coach Mario Frick says his track record proves he can produce exciting football - but a back-to-basics approach is needed at Aberdeen.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&at_campaign=rss"
+          "headline": "WTC 2025-27 Points Table: South Africa dethrone New Zealand to claim No.1 spot; where does India stand?",
+          "summary": "The Proteas South Africa moved past New Zealand to claim the No.1 position, taking their points percentage (PCT) to 75 per cent after their latest triumph against Bangladesh. The Black Caps, who are currently involved in a two-match Test series against India, slipped to second place with 72.22 per cent.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/wtc-2025-27-points-table-194400999.html"
         },
         {
-          "headline": "Michigan football tickets could drop as low as $10 for final home game",
-          "summary": "ANN ARBOR — There are several ways to gauge the level of lethargy within the Michigan fan base, but one needs only look to the secondary ticket market to get a tangible read on the situation. Michigan is 5-5 overall, 2-5 Big Ten in Kyle Whittingham’s first season as head coach, and an ugly season grew uglier last Saturday, Nov.",
+          "headline": "ESPN predicts winner of Georgia football vs. South Carolina",
+          "summary": "The No. 1 Georgia Bulldogs (9-1, 7-1 SEC) play the No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/michigan-football-tickets-could-drop-190905127.html"
+          "url": "https://sports.yahoo.com/articles/espn-predicts-winner-georgia-football-193918053.html"
         },
         {
-          "headline": "Harrisburg moves to AA semifinals after ripping past SF Jefferson",
-          "summary": "No. 1 Harrisburg did what it does best, running over No.",
+          "headline": "Ryan Hall leaves UFC roster nearly five years after his last fight",
+          "summary": "Ryan Hall is no longer on the Ultimate Fighting Championship roster, ending his run with the promotion nearly five years after his last fight. MMA Fighting reported Wednesday that the 41-year-old jiu-jitsu specialist had been removed from the roster.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/harrisburg-moves-aa-semifinals-ripping-190827656.html"
+          "url": "https://sports.yahoo.com/articles/ryan-hall-leaves-ufc-roster-193916826.html"
         },
         {
-          "headline": "NFL odds, betting, storylines: 2 underdogs to back in Week 11",
-          "summary": "What do NFL underdog bettors have in common with a certain billionaire tech-company CEO? Let's just say both have had a brutal couple of weeks.",
+          "headline": "WATCH: Stephen McGee sounds off on NIL, social media and bad optics",
+          "summary": "Texas A&M's 2026 season reached disastrous levels after the Aggies failed to score a touchdown in their third SEC game during the 17-9 road loss to South Carolina, and after falling to Tennessee 22-7 at home in Week 11, it's clear as day that first-year offensive coordinator Holmon Wiggins and senior quarterback Marcel Reed have engineered one of the…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/betting/article/nfl-odds-betting-storylines-2-underdogs-to-back-in-week-11-190810015.html"
+          "url": "https://sports.yahoo.com/articles/watch-stephen-mcgee-sounds-off-193909599.html"
         },
         {
-          "headline": "'It is baffling': Sunil Gavaskar slams India's decision to leave Mohammed Siraj out",
-          "summary": "NEW DELHI: Former India captain Sunil Gavaskar and head coach Ravi Shastri have questioned Mohammed Siraj's exclusion from the playing XI for the first Test against New Zealand. Both felt that India's team management should have given the experienced pacer a place in the side, especially considering his past performances and ability to deliver in…",
+          "headline": "Korda Closes Gap On Sörenstam’s Career Earnings Record",
+          "summary": "James Maclennan-Imagn Images Nelly Korda stands on the brink of history at the 2026 CME Group Tour Championship. The world’s top-ranked golfer teed off Thursday at Tiburon Golf Club in Naples, Florida, needing just a sixth-place finish to surpass Annika Sörenstam’s career earnings record.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/baffling-sunil-gavaskar-slams-indias-190700148.html"
+          "url": "https://sports.yahoo.com/articles/korda-closes-gap-renstam-career-193825394.html"
         }
       ]
     },
@@ -873,10 +873,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Watermelon Pictures Buys Zach Woods’ ‘The Accompanist,’ Starring Susan Sarandon and Aubrey Plaza",
-          "summary": "Watermelon Pictures has acquired North American distribution rights to “The Accompanist,” co-written and directed by actor, writer and comedian Zach Woods in his directorial debut. The film, which premiered at the Tribeca Film Festival, stars Oscar winner Susan Sarandon (“Dead Man Walking,” “Bull Durham”), alongside Emmy and Golden Globe nominee Aubrey…",
+          "headline": "Sequels, Subtitles and Spring Releases: How the Best Picture Race Is Rewriting the Academy’s Playbook",
+          "summary": "Somebody at every awards season party, and everybody on the internet, will tell you why a movie can’t grab a best picture nomination — or even win the prize. It opened too early.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474/"
+          "url": "https://variety.com/2026/film/awards/the-odyssey-dune-you-can-see-everything-best-picture-race-1236952487/"
+        },
+        {
+          "headline": "New ‘Serendipity’ Movie Casts Auli‘i Cravalho (EXCLUSIVE)",
+          "summary": "Auli‘i Cravalho is the latest addition to the new “Serendipity” movie in the works at Amazon MGM Studios and Miramax, Variety has learned exclusively. The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411/"
         },
         {
           "headline": "Brooks Nader Joins ‘Playmates’ Movie at Searchlight (EXCLUSIVE)",
@@ -885,22 +891,16 @@
           "url": "https://variety.com/2026/film/news/brooks-nader-playmates-movie-searchlight-1236952489/"
         },
         {
+          "headline": "Watermelon Pictures Buys Zach Woods’ ‘The Accompanist,’ Starring Susan Sarandon and Aubrey Plaza",
+          "summary": "Watermelon Pictures has acquired North American distribution rights to “The Accompanist,” co-written and directed by actor, writer and comedian Zach Woods in his directorial debut. The film, which premiered at the Tribeca Film Festival, stars Oscar winner Susan Sarandon (“Dead Man Walking,” “Bull Durham”), alongside Emmy and Golden Globe nominee Aubrey…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474/"
+        },
+        {
           "headline": "Lance Broadway, Pitcher Turned ‘Olympus Has Fallen’ Actor, Dies at 43",
           "summary": "He starred at Texas Christian University before a brief stint in the big leagues with the White Sox and Mets.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/lance-broadway-dead-olympus-has-fallen-mets-white-sox-1236759442/"
-        },
-        {
-          "headline": "Elle and Dakota Fanning Share Screen for First Time, Playing Sisters in ‘The Nightingale’ Trailer",
-          "summary": "Set during World War II, director Michael Morris' feature adaptation of the Kristin Hannah novel hits theaters next year from Sony.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-nightingale-trailer-elle-fanning-dakota-fanning-hannah-1236759409/"
-        },
-        {
-          "headline": "‘I Play Rocky’ Stars Unite With Original ‘Rocky’ Producer for Film’s 50th Anniversary Celebration",
-          "summary": "Irwin Winkler, who was behind Sylvester Stallone's 1976 hit, joined Anthony Ippolito, AnnaSophia Robb and director Peter Farrelly at the Academy Museum event.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/i-play-rocky-stars-rocky-producer-50th-anniversary-1236758733/"
         }
       ]
     },
@@ -909,6 +909,24 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "American Society Of Cinematographers Focuses In On 2027 Career Honorees",
+          "summary": "The American Society of Cinematographers has its 2027 career award recipients. Newton Thomas Sigel will receive the organization’s Lifetime Achievement Award, Robert McLachlan will be honored with the Career Achievement in Television Award, and Dejan Georgevich is set with the President’s Award.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/american-society-of-cinematographers-2027-career-honorees-1237229325/"
+        },
+        {
+          "headline": "Nat Geo Explores The Unabomber’s Brother, Somali Pirates & Hantavirus In New Doc Slate",
+          "summary": "EXCLUSIVE: National Geographic is exploring the people and decisions behind pivotal events of the past three decades with its latest documentary slate. The Disney-owned brand has greenlit three documentaries about the brother of the Unabomber, Somali pirates and the Hantavirus.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/unabombers-brother-somali-pirates-hantavirus-nat-geo-slate-1237228342/"
+        },
+        {
+          "headline": "Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66",
+          "summary": "Larry Poindexter, an actor who appeared in more than 175 film and TV shows including “The Lincoln Lawyer,” “S.W.A.T” and more, died Wednesday, his rep confirmed. He was 66.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/larry-poindexter-dead-swat-days-of-our-lives-1236952702/"
+        },
+        {
           "headline": "‘The Gilded Age’ Renewed For Season 5 At HBO",
           "summary": "HBO has renewed The Gilded Age, the company’s hit period drama from creator Julian Fellowes, for a fifth season. Season 4 is currently airing new episodes on Sunday nights on HBO and streaming via HBO Max.",
           "source": "Deadline",
@@ -919,24 +937,6 @@
           "summary": "The Lost Boys, The Rocky Horror Show and Schmigadoon! are among the Broadway newcomers that will celebrate Thanksgiving as part of an all-star performance at this year’s Macy’s Thanksgiving Day Parade, with long-running stalwarts The Book of Mormon, Chicago, Disney’s Aladdin, Hamilton, Rent and Wicked also coming together for the 10-minute medley.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/macys-thanksgiving-parade-all-star-broadway-celebration-1237229216/"
-        },
-        {
-          "headline": "Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios",
-          "summary": "If you’ve been following our reporting closely, you might have noticed a footnote in an October story surrounding restructuring at Netflix: the launch of Netflix Is a Joke Studios, an in-house incubator and production studio that will develop scripted projects and original formats alongside both emerging and established comedy talent. Now, Netflix has…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/nikki-glaser-netflix-partnership-netflix-is-a-joke-studios-1237229256/"
-        },
-        {
-          "headline": "‘Gilded Age’ Scores Early Season 5 Renewal at HBO",
-          "summary": "“The Gilded Age” has been renewed for Season 5 at HBO, Variety has learned. The news comes after the period drama has aired just three of its eight episodes for Season 4.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/gilded-age-renewed-season-5-hbo-1236953443/"
-        },
-        {
-          "headline": "Nikki Glaser to Develop Scripted Series at Netflix, Inks Partnership With New Netflix Is a Joke Studios",
-          "summary": "Nikki Glaser has formed a major partnership with Netflix. The Emmy-nominated comedian will develop a scripted series to star in, as well as deliver two new stand-up specials, for the streamer as part of its newly announced Netflix Is a Joke Studios.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/nikki-glaser-netflix-scripted-series-specials-1236952642/"
         }
       ]
     },
@@ -945,34 +945,34 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Sequels, Subtitles and Spring Releases: How the Best Picture Race Is Rewriting the Academy’s Playbook",
+          "summary": "Somebody at every awards season party, and everybody on the internet, will tell you why a movie can’t grab a best picture nomination — or even win the prize. It opened too early.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/awards/the-odyssey-dune-you-can-see-everything-best-picture-race-1236952487/"
+        },
+        {
+          "headline": "American Society Of Cinematographers Focuses In On 2027 Career Honorees",
+          "summary": "The American Society of Cinematographers has its 2027 career award recipients. Newton Thomas Sigel will receive the organization’s Lifetime Achievement Award, Robert McLachlan will be honored with the Career Achievement in Television Award, and Dejan Georgevich is set with the President’s Award.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/american-society-of-cinematographers-2027-career-honorees-1237229325/"
+        },
+        {
+          "headline": "Meta Launches 150-Plus 3D Movies to Rent and Buy on Quest VR Headsets, With Thousands More Coming in 2027",
+          "summary": "If your idea of an awesome movie-watching experience involves strapping a VR headset to your head, Meta has got you. On Thursday, Meta announced that it has launched over 150 3D movies available to rent or purchase in the TV app for Meta Quest 3 and 3S virtual-reality headsets.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/digital/news/meta-3d-movies-rent-buy-quest-vr-headsets-1236953488/"
+        },
+        {
+          "headline": "Nat Geo Explores The Unabomber’s Brother, Somali Pirates & Hantavirus In New Doc Slate",
+          "summary": "EXCLUSIVE: National Geographic is exploring the people and decisions behind pivotal events of the past three decades with its latest documentary slate. The Disney-owned brand has greenlit three documentaries about the brother of the Unabomber, Somali pirates and the Hantavirus.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/unabombers-brother-somali-pirates-hantavirus-nat-geo-slate-1237228342/"
+        },
+        {
           "headline": "‘The Gilded Age’ Renewed For Season 5 At HBO",
           "summary": "HBO has renewed The Gilded Age, the company’s hit period drama from creator Julian Fellowes, for a fifth season. Season 4 is currently airing new episodes on Sunday nights on HBO and streaming via HBO Max.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/the-gilded-age-renewed-season-5-hbo-1237229344/"
-        },
-        {
-          "headline": "Macy’s Thanksgiving Parade To Feature All-Star Broadway Medley With ‘The Lost Boys’, ‘The Rocky Horror Show’, ‘Schmigadoon!’, ‘Wicked’ & More",
-          "summary": "The Lost Boys, The Rocky Horror Show and Schmigadoon! are among the Broadway newcomers that will celebrate Thanksgiving as part of an all-star performance at this year’s Macy’s Thanksgiving Day Parade, with long-running stalwarts The Book of Mormon, Chicago, Disney’s Aladdin, Hamilton, Rent and Wicked also coming together for the 10-minute medley.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/macys-thanksgiving-parade-all-star-broadway-celebration-1237229216/"
-        },
-        {
-          "headline": "Nikki Glaser Sets Netflix Partnership As Streamer Officially Unveils Netflix Is A Joke Studios",
-          "summary": "If you’ve been following our reporting closely, you might have noticed a footnote in an October story surrounding restructuring at Netflix: the launch of Netflix Is a Joke Studios, an in-house incubator and production studio that will develop scripted projects and original formats alongside both emerging and established comedy talent. Now, Netflix has…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/nikki-glaser-netflix-partnership-netflix-is-a-joke-studios-1237229256/"
-        },
-        {
-          "headline": "Watermelon Pictures Buys Zach Woods’ ‘The Accompanist,’ Starring Susan Sarandon and Aubrey Plaza",
-          "summary": "Watermelon Pictures has acquired North American distribution rights to “The Accompanist,” co-written and directed by actor, writer and comedian Zach Woods in his directorial debut. The film, which premiered at the Tribeca Film Festival, stars Oscar winner Susan Sarandon (“Dead Man Walking,” “Bull Durham”), alongside Emmy and Golden Globe nominee Aubrey…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474/"
-        },
-        {
-          "headline": "Susan Sarandon & Aubrey Plaza Drama ‘The Accompanist’ Gets North American Deal With Watermelon Pictures",
-          "summary": "Watermelon Pictures has picked up North American distribution rights to The Accompanist, co-written and directed by actor, writer and comedian Zach Woods, starring Oscar winner Susan Sarandon alongside Aubrey Plaza and Everly Carganilla. The Tribeca world premiere, which also played at festivals including Rome and Deauville, is due for release in the U.S.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/susan-sarandon-film-accompanist-us-deal-watermelon-pictures-1237229354/"
         }
       ]
     },
@@ -980,6 +980,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Doja Cat Blasts Rockstar Games for Leaving Her Music Out of ‘GTA 6’: ‘I’m So F–kin Bitter’",
+          "summary": "Doja Cat was looking forward to a call from Rockstar Games, but the phone never rang. The Grammy-winning rapper vented on X on Thursday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-slams-rockstar-games-grand-theft-auto-6-music-1236385746/"
+        },
+        {
+          "headline": "Tinashe Crashes a Plane and Belts Out ‘Melatonin’ During Hilarious ‘GTA VI’ Stream",
+          "summary": "The pop star cracked fans up as she wreaked havoc in Vice City",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901/"
+        },
         {
           "headline": "Foo Fighters, Noah Kahan, the Who Lead New Orleans Jazz and Heritage Festival Lineup",
           "summary": "Brandi Carlile, Gwen Stefani, James Taylor, Jack White, and the Red Clay Strays also set to perform in 2027",
@@ -997,21 +1009,9 @@
           "summary": "Now’s your chance to hear Jeremy Irons DJ",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/a-guide-to-the-gta-vi-radio-stations/"
-        },
-        {
-          "headline": "Brothers Osborne & Cody Johnson Celebrate Teen Rebellion in ‘Born And Raised Hell’: ‘It’s Kind of Our Story as a Town’",
-          "summary": "The new Brothers Osborne single is a big Deale. Not just because it features a Country Music Association male vocalist of the year winner, though having Cody Johnson as a guest deserves high fives.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/country/brothers-osborne-cody-johnson-makin-tracks-1236385736/"
-        },
-        {
-          "headline": "Chris Brown Agrees to Increase Child Support — For Now — to Ex Diamond in Bitter Custody Fight",
-          "summary": "Chris Brown has agreed to temporarily boost his child support payments to his ex Diamond Brown amid a bitter legal battle over their four-year-old daughter, Lovely. In legal filings obtained by Billboard , the star singer agreed Wednesday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/business/legal/chris-brown-to-increase-child-support-to-ex-diamond-1236385727/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T14:15:54-05:00"
+  "updatedAt": "2026-11-19T14:47:19-05:00"
 }
