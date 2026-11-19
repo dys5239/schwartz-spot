@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Gemini on Mac can now use your computer",
+          "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says . Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+        },
+        {
           "headline": "Google gives Gemini the ability to use your Mac for you",
           "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
           "source": "Wired",
           "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
-        },
-        {
-          "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "WATCH: Trump calls Putin, Xi his friends after meeting",
+          "summary": "Doug Lute, former U.S. ambassador to NATO, says President Donald Trump referring to Putin and Xi as friends is \"concerning for America's allies.\"",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138294590/"
+        },
+        {
+          "headline": "CBS to air Kennedy Center Honors in December",
+          "summary": "CBS has reached a one-year deal to air the awards ceremony next month, sources said.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kennedy-center-honors-cbs-2026/"
+        },
+        {
           "headline": "Iran may be working on biological weapons, Trump says",
           "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
         },
         {
-          "headline": "Woman runs 7 marathons while pregnant this year: \"I am very stubborn\"",
-          "summary": "Deirdre Keane, a 38-year-old nurse and management consultant, achieved her goal of completing all seven World Marathon Majors while pregnant with her first child.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/deirdre-keane-world-marathon-majors-pregnant/"
+          "headline": "The 'Magic Six': How to strengthen your marriage in midlife",
+          "summary": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships"
         },
         {
-          "headline": "UK to provide Ukraine with 1,000 long-range strike drones",
-          "summary": "The prime minister made the announcement at a meeting of the Coalition of the Willing in Berlin.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Anthony Zurcher: Trilateral summit high on spectacle, short on substance",
-          "summary": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "WATCH: Trump calls Putin, Xi his friends after meeting",
-          "summary": "Doug Lute, former U.S. ambassador to NATO, says President Donald Trump referring to Putin and Xi as friends is \"concerning for America's allies.\"",
+          "headline": "Barack Obama tells newly elected Democrats to value 'ideological diversity'",
+          "summary": "Former President Barack Obama told Democratic U.S. House members-elect on Wednesday that they should value their ideological diversity even if they have disagreements.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138294590/"
+          "url": "https://abcnews.com/Politics/barack-obama-tells-newly-elected-democrats-ideological-diversity/story?id=138290488"
         }
       ]
     },
@@ -79,22 +79,122 @@
       "stories": [],
       "posts": [
         {
+          "id": "2123486634914066639",
+          "created_at": "2026-11-19T18:40:40.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Finnish President Alexander Stubb:\n\nAt the end of the day, I think there's no way in which this peace can be forged if Zelensky and Putin don't meet.",
+          "url": "https://x.com/Osint613/status/2123486634914066639",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123486344316100925",
+          "created_at": "2026-11-19T18:39:31.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Germany's Chancellor Merz:\n\nIn October alone, Moscow lost more than 50,000 soldiers. That is comparable to the number of Americans lost during the entire Vietnam War.\n\nRussia loses that many in a single month. Russia must therefore understand that it is time to make peace and lay",
+          "url": "https://x.com/Osint613/status/2123486344316100925",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123485871215378867",
+          "created_at": "2026-11-19T18:37:38.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "The Nasdaq has erased a 2% gain and is now down 1.1% on the day of the biggest IPO in history\n\nThe S&amp;P 500 swung 222 points from its high of 7,415.64 at the open to a low of 7,193.83, and is now down 1.0%\n\nThe Dow fell as much as 1,106 points from Wednesday's close, the VIX https://t.co/G8RxMjzXwu",
+          "url": "https://x.com/_Investinq/status/2123485871215378867",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123485606520979784",
+          "created_at": "2026-11-19T18:36:35.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "lol. Keep dreaming! \n\nIt’s never going to happen. https://t.co/ZS0fxAQVwM",
+          "url": "https://x.com/LauraLoomer/status/2123485606520979784",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123485367059812646",
+          "created_at": "2026-11-19T18:35:38.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Because everyone knows Heritage is a cesspool of Jew haters. https://t.co/4vJnDN3odc",
+          "url": "https://x.com/LauraLoomer/status/2123485367059812646",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123485264865882115",
+          "created_at": "2026-11-19T18:35:14.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "REP. AL GREEN GIFTS MASSIE A FLAG DURING TRUMP IMPEACHMENT RANT\n\nGreen ranted in \"the name of Rosa Parks\" on proceeding with impeaching POTUS, yet again.\n\nAt the end he gifted Rep. Massie an American flag that flew over congress and praised him for pursuing impeachment of Sec.",
+          "url": "https://x.com/RealAmVoice/status/2123485264865882115",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123484494615495106",
+          "created_at": "2026-11-19T18:32:10.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "U.S. officials: Iran's chemical weapons threat is not \"imminent.\"\n\nN12",
+          "url": "https://x.com/Osint613/status/2123484494615495106",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123482697809154486",
+          "created_at": "2026-11-19T18:25:02.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The Baltimore Ravens suspended Marlon Humphrey this week for saying, in a joking manner, that Baltimore was best known for producing criminals. NFL teams have regularly played players charged with felonies! NFLPA should file a grievance. Outrageous.",
+          "url": "https://x.com/ClayTravis/status/2123482697809154486",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123482587297612007",
+          "created_at": "2026-11-19T18:24:35.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Nobody is doing the vetting.\n\nThat’s why disgusting people and Tucker Carlson aligned Jew haters work in the admin. https://t.co/gvuWZnkNFi",
+          "url": "https://x.com/LauraLoomer/status/2123482587297612007",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123481253219320022",
+          "created_at": "2026-11-19T18:19:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NYC Mayor Mamdani is now fundraising for the Democratic Socialists of America. \n\nThe DSA’s platform calls for abolishing the Senate and Electoral College, putting the president and Supreme Court under Congress, and drafting a constitution for a “democratic socialist republic.”",
+          "url": "https://x.com/Osint613/status/2123481253219320022",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123480960620470711",
+          "created_at": "2026-11-19T18:18:08.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Hezbollah operatives had recently returned to a former missile production and weapons storage site in Lebanon's Beqaa Valley, according to the IDF. Israeli forces struck the site's entrances to prevent it from being restored. The facility was hit several times during the war. https://t.co/8TYPCmkrgr",
+          "url": "https://x.com/Osint613/status/2123480960620470711",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2123479424901468577",
           "created_at": "2026-11-19T18:12:01.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Anthropic $ANT just opened at $111.50 in its Nasdaq debut, up 34.3% from its $83 IPO price\n\nThat values the Claude maker at about $2.02 trillion fully diluted on day one\n\n$ANT priced Wednesday above its $70 to $78 range after upsizing to 980 million shares\n\nThe $81.34 billion https://t.co/YrhiqEK8IJ",
           "url": "https://x.com/_Investinq/status/2123479424901468577",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123478868619366548",
-          "created_at": "2026-11-19T18:09:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump on an Iran decision: He's in no rush.\n\nChannel 12",
-          "url": "https://x.com/Osint613/status/2123478868619366548",
           "verified": true,
           "verified_type": "blue"
         },
@@ -129,16 +229,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123475815510032800",
-          "created_at": "2026-11-19T17:57:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian state TV aired footage showing Shahed drones being launched during the recent war. https://t.co/c2qAQwIoum",
-          "url": "https://x.com/Osint613/status/2123475815510032800",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123475464043786417",
           "created_at": "2026-11-19T17:56:17.000Z",
           "author_name": "Elon Musk",
@@ -169,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123474575325266276",
-          "created_at": "2026-11-19T17:52:45.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: USS Makin Island (LHD 8) is heading to U.S. Central Command’s area of responsibility with the 13th Marine Expeditionary Unit aboard.\n\nMarineTraffic AIS data showed the U.S. Navy amphibious assault ship off Malaysia’s east coast, northeast of Singapore, moving at 14 to 18 https://t.co/cnCGUy4lL1",
-          "url": "https://x.com/Osint613/status/2123474575325266276",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123474561970934100",
           "created_at": "2026-11-19T17:52:42.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -195,16 +275,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️This is exactly the cohort that gets crushed first if people misunderstand what “50% of tasks automated” actually means.\n\nThe 48-year-old accountant is not automatically unemployed in 2029.\n\nBut the labor market around him changes violently.\n\nA department that once needed 20 https://t.co/q096NvPYUi",
           "url": "https://x.com/_The_Prophet__/status/2123474444291387513",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123474220067815640",
-          "created_at": "2026-11-19T17:51:20.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "FOOTAGE: A Hezbollah weapons smuggling corridor near the Syrian border was hit by 4 Israeli airstrikes.\n\nThe strikes landed on the Eastern Mountain Range near Shaara, Beqaa region. https://t.co/jxW2zXHjV9 https://t.co/8TYPCmkrgr",
-          "url": "https://x.com/Osint613/status/2123474220067815640",
           "verified": true,
           "verified_type": "blue"
         },
@@ -239,16 +309,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123470911160394210",
-          "created_at": "2026-11-19T17:38:12.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Israel hit the Beqaa Valley 4 times, deep inside Lebanon. It is the second attack of this kind in the past week.\n\nOver the past day, Saudi channel Al-Hadath published footage of the remains of a weapons truck Israel hit earlier this week. The truck was on the border between https://t.co/EDmEbkFPbi",
-          "url": "https://x.com/Osint613/status/2123470911160394210",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123470191950479828",
           "created_at": "2026-11-19T17:35:20.000Z",
           "author_name": "Laura Loomer",
@@ -279,16 +339,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123467954616475840",
-          "created_at": "2026-11-19T17:26:27.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Oh. What’s this? \n\nSaurabh Sharma @ssharmaUS, the Jew hater and Palestinian sympathizer who works for President Trump’s administration in the White House advising on Personnel (I assume in PPO) is also a Tucker Qatarlson fan. \n\nMultiple Jews have reached out to me today to tell https://t.co/jlvZRnHIHQ https://t.co/7hKp0ugoKn",
-          "url": "https://x.com/LauraLoomer/status/2123467954616475840",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123467619458265380",
           "created_at": "2026-11-19T17:25:07.000Z",
           "author_name": "StockMarket.News",
@@ -305,16 +355,6 @@
           "author_handle": "RealAmVoice",
           "text": "NOW: @POTUS IS COMING HOME, HOLDING PRESS CONFERENCE TOMORROW!\n\nhttps://t.co/a1tSTc0Sjk",
           "url": "https://x.com/RealAmVoice/status/2123466668320112966",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123465733636317667",
-          "created_at": "2026-11-19T17:17:37.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: CHICAGO MAYOR RECEIVES VOTES TO BE INVESTIGATED!\n\nChicago City Council has voted to launch an investigation into Chicago Mayor Brandon Johnson's city FINANCES.\n\nhttps://t.co/L6WLMMtuor",
-          "url": "https://x.com/RealAmVoice/status/2123465733636317667",
           "verified": true,
           "verified_type": "business"
         },
@@ -365,16 +405,6 @@
           "author_handle": "_Investinq",
           "text": "Imagine paying over $2 trillion for a company operating in an industry where its biggest competitive advantage could become obsolete overnight.\n\nAnthropic is an incredible company, but I think investors are confusing an incredible business with an incredible investment.\n\nMy https://t.co/d9eZC6clk6 https://t.co/nq150sqCY7",
           "url": "https://x.com/_Investinq/status/2123462700399309308",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123461686694969470",
-          "created_at": "2026-11-19T17:01:32.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Freedom Capital Markets' Paul Meeks says Anthropic is on the hook for $120 billion of compute with SpaceX\n\n\"Anthropic has about $900 billion in commitments over the years to various companies for compute\"\n\n\"They're on the hook for $120 billion for SpaceX\"\n\n\"It should help Nvidia. https://t.co/wDbr6vTS8P",
-          "url": "https://x.com/_Investinq/status/2123461686694969470",
           "verified": true,
           "verified_type": "blue"
         },
@@ -459,26 +489,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123429776786633082",
-          "created_at": "2026-11-19T14:54:44.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Why is this piece of shit working in the White House? https://t.co/7hKp0ugWzV",
-          "url": "https://x.com/LauraLoomer/status/2123429776786633082",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123428492381684130",
-          "created_at": "2026-11-19T14:49:38.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Because there are zero standards when it comes to the hiring in this administration.\n\nWe have a plumber as our DHS Secretary. Lmao \n\nNo disrespect to plumbers, but how is a plumber qualified to be DHS Secretary? \n\nIt’s just so insane. We have some of the dumbest people working in https://t.co/VQPnV6KFxa",
-          "url": "https://x.com/LauraLoomer/status/2123428492381684130",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123426395808583941",
           "created_at": "2026-11-19T14:41:18.000Z",
           "author_name": "Clay Travis",
@@ -495,16 +505,6 @@
           "author_handle": "ClayTravis",
           "text": "The SEC continues to dominate TV ratings. Why? Because many SEC fans don’t just watch their favorite team, they watch the entire league. More league games and less cupcakes is a TV bonanza. https://t.co/pjArS2uPja",
           "url": "https://x.com/ClayTravis/status/2123424049242198315",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123422954990243994",
-          "created_at": "2026-11-19T14:27:38.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "People over exaggerate what a couple of million dollars does. First, you pay 40% to the government, at least. That leaves you with $1.2. Even if you don’t spend a dollar of this and are brilliant at how you invest, you’re working a normal life. https://t.co/HbzSVEYSST",
-          "url": "https://x.com/ClayTravis/status/2123422954990243994",
           "verified": true,
           "verified_type": "blue"
         },
@@ -719,16 +719,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123123887328358515",
-          "created_at": "2026-11-18T18:39:15.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Three major stories happened in the last few days that nobody has put into the same picture… and if you line them up, they all point straight toward digital ID.\n\nFirst, in Manila, eleven Southeast Asian nations just signed a trade deal with a regional digital ID tucked inside, https://t.co/iRoM2prazD",
-          "url": "https://x.com/glennbeck/status/2123123887328358515",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123097995679867195",
           "created_at": "2026-11-18T16:56:22.000Z",
           "author_name": "SpaceX",
@@ -775,6 +765,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "CBS to air Kennedy Center Honors in December",
+          "summary": "CBS has reached a one-year deal to air the awards ceremony next month, sources said.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kennedy-center-honors-cbs-2026/"
+        },
+        {
           "headline": "Putin says Russia won't negotiate with Ukraine after bridge strike",
           "summary": "Russian President Vladimir Putin said Russia will not negotiate any limited ceasefire now with Ukraine, citing a Ukrainian strike on a highly symbolic bridge this week.",
           "source": "CBS News",
@@ -797,12 +793,6 @@
           "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
-        },
-        {
-          "headline": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-          "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
         }
       ]
     },
@@ -810,6 +800,18 @@
       "id": "economy",
       "title": "Economy",
       "stories": [
+        {
+          "headline": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+          "summary": "Netflix, Amazon and Fox are among those bidding on the 2030 men's World Cup media rights. Disney has decided not to bid, sources told CNBC.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html"
+        },
+        {
+          "headline": "AMD dives on short-seller report of alleged China exposure",
+          "summary": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+        },
         {
           "headline": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
           "summary": "Recent outages are prompting a rethink of cash. At the very least, your money should be diversified, top advisors say.",
@@ -827,18 +829,6 @@
           "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
-        },
-        {
-          "headline": "Average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide",
-          "summary": "The average long-term U.S. mortgage rate rose this week for the first time since early October, reflecting a ramp-up in U.S.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/average-us-30-year-mortgage-rate-rises-728-138293216"
-        },
-        {
-          "headline": "Anthropic shares soar in Nasdaq trading debut, surging 39%",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         }
       ]
     },
@@ -847,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Jayson Tatum owns late technical that sealed Boston's loss to Denver",
-          "summary": "To be clear: Jayson Tatum's technical foul with 6.4 seconds left in regulation wasn't the reason Boston lost to Denver on Wednesday night. The Nuggets dominated the second half, and when they doubled Tatum, the Celtics' offense struggled to be efficient, especially when their 3-point shooting went cold.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/jayson-tatum-owns-technical-sealed-180734176.html"
+          "headline": "Florida-West Virginia prediction, odds, Players Era 8 pick: Use Polymarket promo code CBSSPORTS for $25 bonus",
+          "summary": "Use the best Polymarket promo code CBSSPORTS for a $25 bonus, which you can use on West Virginia vs. Florida in the Players Era 8 tournament",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/prediction/news/florida-west-virginia-prediction-odds-players-era-8-pick-use-polymarket-promo-code-cbssports-25-bonus/"
         },
         {
-          "headline": "Undisputed title fights, a Deontay Wilder free-for-all and more: 5 boxing storylines to watch this weekend",
-          "summary": "Wanna hear something crazy?! The last time an edition of the popular Grand Theft Auto video game was released, we were warming up for the potential crowning of a new king in boxing.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/boxing/article/undisputed-title-fights-a-deontay-wilder-free-for-all-and-more-5-boxing-storylines-to-watch-this-weekend-180730286.html"
+          "headline": "Tandy thanks 'amazing' family after All Blacks win",
+          "summary": "Wales head coach Steve Tandy praises the sacrifice of his family after he masterminded a first Welsh victory against New Zealand since 1953.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqly43n1e5nmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "With PGA Tour privileges on the line, this former winner had to WD from RSM Classic",
-          "summary": "ST. SIMONS ISLAND, GA — Erik van Rooyen picked a bad time for an injury.",
+          "headline": "Oilers’ Evan Bouchard on verge of tying Paul Coffey’s historic streak",
+          "summary": "Sam Navarro-Imagn Images Oilers’ Evan Bouchard on verge of tying Paul Coffey’s historic streak appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/pga-tour-privileges-line-former-181121257.html"
+          "url": "https://sports.yahoo.com/articles/oilers-evan-bouchard-verge-tying-183232571.html"
         },
         {
-          "headline": "Tom Coughlin fails to make Hall of Fame cut; Bill Belichick advances",
-          "summary": "Inaugural Jacksonville Jaguars coach Tom Coughlin failed to make the cut in the Coaches' Category for the Pro Football Hall of Fame. Coughlin, who led the Jaguars to four playoff appearances between 1996 and 1999, then coached the New York Giants to two Super Bowl victories, was among five coaches considered for election.",
+          "headline": "Assumption football and field hockey teams win conference championships",
+          "summary": "WORCESTER – The Assumption field hockey team was walking onto the field at Brian Kelly ’83 Stadium for its first-round Northeast-10 Conference Tournament game against Southern New Hampshire and the Greyhounds football team, which had just finished practice, was coming off it while giving the field hockey squad a warm welcome to their shared home turf…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tom-coughlin-fails-hall-fame-180356648.html"
+          "url": "https://sports.yahoo.com/articles/assumption-football-field-hockey-teams-183026898.html"
         },
         {
-          "headline": "Colts' Seth McGowan named Week 11 fantasy sleeper before Texans game",
-          "summary": "Indianapolis Colts running back Seth McGowan has played his way into the Week 11 fantasy football conversation. Bleacher Report’s Moe Moton named McGowan a sleeper for Thursday night’s game against the Houston Texans , noting his increased workload and touchdowns in consecutive games.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/colts-seth-mcgowan-named-week-180317572.html"
+          "headline": "Liberty and Sparks coaching candidates: Seven names that make sense for WNBA's two openings",
+          "summary": "Will these teams lean on WNBA experience this time around? Or will they go outside the box again?",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/wnba/news/liberty-sparks-coaching-candidates-wnba-job-openings/"
         }
       ]
     },
@@ -882,6 +872,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Parker Posey Knows Career Highs and Lows. Right Now, She’s Having a Blast",
+          "summary": "The indie legend, Emmy nominee and ‘Wild Horse Nine’ scene-stealer gets candid about money troubles, industry sexism and the wildest press tour of her career: “I just got a publicist.”",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/parker-posey-feature-wild-horse-nine-1236758987/"
+        },
         {
           "headline": "Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join ‘Twenty-Seven’ (EXCLUSIVE)",
           "summary": "“Twenty-Seven,” the indie drama starring Levon Hawke and Anthony Hopkins, has rounded out its ensemble cast. Poorna Jagannathan (“Lanterns”), Clark Gregg (“Agents of S.H.I.E.L.D.”), Isabela Ferrer (“Evil”), Christopher Rodriguez Marquette (“Reacher”) and Paul Ben-Victor (“The Wire”) have boarded the film written and directed by Gregory Caruso.",
@@ -905,12 +901,6 @@
           "summary": "The director of Sundance audience winner on casting a first-time actress, shooting a night scene in a freezing sea and her films’ love stories.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-videos/cyprus-oscar-film-hold-onto-me-myrsini-aristidou-1236757084/"
-        },
-        {
-          "headline": "It Girl India Amarteifo’s Queen’s Gambit",
-          "summary": "The 25-year-old actress followed her 'Bridgerton' breakthrough with a long, thoughtful pause. Now she’s making her move with ‘Clarissa.’",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/india-amarteifio-interview-queen-charlotte-clarissa-1236757825/"
         }
       ]
     },
@@ -919,34 +909,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘The Further Mis-Adventures Of Cliff Booth’ Review: Pitt, Fincher, And Tarantino Team Up For A Rollicking Good Wild Ride Of A ‘Hollywood’ Follow-Up",
-          "summary": "Whenever people ask me what my favorite movie of all time is I always have a hard time answering that impossible question, but if you want to know my favorite of the past ten years or so it’s simply. I can easily say Quentin Tarantino’s 2019 Once Upon A Time In Hollywood.",
+          "headline": "Siegfried & Roy Series ‘Wild Things’ Gets Spring Release; Apple TV Teases Jude Law & Andrew Garfield As “Masters Of The Impossible”",
+          "summary": "Apple TV’s upcoming Siegfried and Roy series starring Jude Law and Andrew Garfield has landed a spring premiere date. Wild Things will debut on April 16, 2027, the streamer revealed Thursday, alongside a very fitting promo outside the Las Vegas Sphere.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1237229009/"
+          "url": "https://deadline.com/2026/11/siegfried-roy-wild-things-release-date-apple-tv-1237229337/"
         },
         {
-          "headline": "Gabriel Iglesias Sets Fifth Netflix Special ‘Lone Star Fluffy’ For Christmas Eve Release",
-          "summary": "EXCLUSIVE: Comedian Gabriel “Fluffy” Iglesias has hit on a major milestone with Lone Star Fluffy, a new hour special marking his fifth for Netflix and 10th overall. Directed by Manny Rodriguez, the special premieres globally on December 24.",
+          "headline": "CBS And Paramount+ To Air Next Kennedy Center Honors",
+          "summary": "CBS will broadcast this year’s Kennedy Center Honors, which will be held offsite amid the closure of the main facility. The network’s rights deal for the ceremony expired last year, and is said to have signed a one-year agreement for this year’s ceremony.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gabriel-iglesias-new-netflix-special-premiere-date-1237229082/"
+          "url": "https://deadline.com/2026/11/kennedy-center-honors-cbs-1237229052/"
         },
         {
-          "headline": "Dean Koontz’s Jane Hawk Books to Be Developed as TV Series by Monarch Media (EXCLUSIVE)",
-          "summary": "Monarch Media has secured the rights to the Jane Hawk books by Dean Koontz with plans to develop them into a TV series, Variety has learned exclusively. The search is now on for a showrunner to helm the project before it is taken out to market.",
+          "headline": "How TV Personality Keltie Knight Turned a Reality Show Flop Into a Masterclass in Redirection (EXCLUSIVE)",
+          "summary": "Keltie Knight is a three-time Emmy–winning television personality, New York Times bestselling author, and People’s Choice Award–nominated podcast host (“LadyGang”). She currently hosts “E!",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/dean-koontz-jane-hawk-books-tv-series-monarch-media-1236953222/"
+          "url": "https://variety.com/2026/tv/news/keltie-knight-superfan-new-book-f-them-theory-1236952695/"
         },
         {
-          "headline": "‘Jeopardy!’ Sets Inaugural Fan Convention in Washington, D.C.",
-          "summary": "What is Jeopardy!Con? America’s favorite quiz show is welcoming fans to Washington, D.C., for a three-day event celebrating all things “Jeopardy!” Taking place May 7 to 9, 2027, the convention will feature live programming, engaging panels, interactive quizzes and exclusive merchandise.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/jeopardy-fan-convention-washington-dc-1236953378/"
-        },
-        {
-          "headline": "Indie Distribution Exec Kyle Greenberg Exiting Utopia To Launch New Consultancy, Greenhouse",
-          "summary": "EXCLUSIVE: Kyle Greenberg, longtime head of marketing and distribution at Utopia, is departing the company to launch a consulting startup called Greenhouse. His new venture plans to develop highly curated, hands-on release strategies for filmmakers, artists, labels and brands to support their own efforts in self-distribution, something an increasing…",
+          "headline": "Chris Kattan Launches Production & Distribution Company Kattan Films",
+          "summary": "EXCLUSIVE: Chris Kattan is opening the doors to Kattan Films, an independent production and distribution company focused on acquiring films for theatrical release while developing its own slate of original productions. Kattan Films will pursue a theatrical-first distribution model.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/kyle-greenberg-exiting-utopia-indie-film-distribution-1237228710/"
+          "url": "https://deadline.com/2026/11/chris-kattan-launches-kattan-films-1237229283/"
+        },
+        {
+          "headline": "Anthropic Shares Pop, Then Pull Back In Volatile Debut As AI Giant Goes Public",
+          "summary": "Anthropic shares jumped over 30% in the first minutes of trade at their Nasdaq debut before backtracking as the AI pioneer splashed down with the largest ever initial public offering in corporate history. The first publicly traded, pure play AI company priced its hotly anticipated IPO last night at $83 a share, well above the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/anthropic-ai-volatile-ipo-shares-trading-nasdaq-market-1237229045/"
         }
       ]
     },
@@ -955,34 +945,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Poorna Jagannathan, Clark Gregg, Isabela Ferrer, Christopher Rodriguez Marquette and Paul Ben-Victor Join ‘Twenty-Seven’ (EXCLUSIVE)",
-          "summary": "“Twenty-Seven,” the indie drama starring Levon Hawke and Anthony Hopkins, has rounded out its ensemble cast. Poorna Jagannathan (“Lanterns”), Clark Gregg (“Agents of S.H.I.E.L.D.”), Isabela Ferrer (“Evil”), Christopher Rodriguez Marquette (“Reacher”) and Paul Ben-Victor (“The Wire”) have boarded the film written and directed by Gregory Caruso.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/twenty-seven-cast-poorna-jagannathan-clark-gregg-isabela-ferrer-1236952647/"
-        },
-        {
-          "headline": "Bond Girl Lea Seydoux Says ‘I Don’t Really Care’ Who Becomes 007’s New Female Lead: ‘It’s Become American’ Now",
-          "summary": "While the news of Robert Pattinson’s casting as the new James Bond has sparked a frenzy on social media, Léa Seydoux, who starred opposite Daniel Craig in two James Bond movies, has little interest in finding out who will play the next Bond girl. Speaking on a recent episode of The Runthrough podcast which was […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/bond-girl-lea-seydoux-dont-really-care-007-1236953369/"
-        },
-        {
-          "headline": "‘The Further Mis-Adventures of Cliff Booth’ Review: Brad Pitt Hits the Aura Jackpot in a Very Fun Tarantino Hangout Movie That Feels Like QT TV",
-          "summary": "\"The Further Mis-Adventures of Cliff Booth\" gives you a highly pleasurable, shaggy heat-of-the-moment buzz. I’m not sure what I was expecting from a sequel to \"Once Upon a Time in Hollywood,\" but I dug just about every ambling, low-down minute of this one.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/reviews/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1236952037/"
-        },
-        {
-          "headline": "‘The Further Mis-Adventures Of Cliff Booth’ Review: Pitt, Fincher, And Tarantino Team Up For A Rollicking Good Wild Ride Of A ‘Hollywood’ Follow-Up",
-          "summary": "Whenever people ask me what my favorite movie of all time is I always have a hard time answering that impossible question, but if you want to know my favorite of the past ten years or so it’s simply. I can easily say Quentin Tarantino’s 2019 Once Upon A Time In Hollywood.",
+          "headline": "Siegfried & Roy Series ‘Wild Things’ Gets Spring Release; Apple TV Teases Jude Law & Andrew Garfield As “Masters Of The Impossible”",
+          "summary": "Apple TV’s upcoming Siegfried and Roy series starring Jude Law and Andrew Garfield has landed a spring premiere date. Wild Things will debut on April 16, 2027, the streamer revealed Thursday, alongside a very fitting promo outside the Las Vegas Sphere.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-further-mis-adventures-of-cliff-booth-review-brad-pitt-1237229009/"
+          "url": "https://deadline.com/2026/11/siegfried-roy-wild-things-release-date-apple-tv-1237229337/"
         },
         {
-          "headline": "Gabriel Iglesias Sets Fifth Netflix Special ‘Lone Star Fluffy’ For Christmas Eve Release",
-          "summary": "EXCLUSIVE: Comedian Gabriel “Fluffy” Iglesias has hit on a major milestone with Lone Star Fluffy, a new hour special marking his fifth for Netflix and 10th overall. Directed by Manny Rodriguez, the special premieres globally on December 24.",
+          "headline": "Former Cineworld CEO Mooky Greidinger Leads Acquisition of Showcase Cinemas in U.K., Inks Major Imax Deal",
+          "summary": "Mooky Greidinger, the former CEO of cinema giant Cineworld who stepped away from the company in 2023 as it emerged from post-pandemic bankruptcy, is back in the U.K. exhibition space.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/global/mooky-greidinger-acquisitionshowcase-cinemas-uk-imax-1236953380/"
+        },
+        {
+          "headline": "CBS to air Kennedy Center Honors in December",
+          "summary": "CBS has reached a one-year deal to air the awards ceremony next month, sources said.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kennedy-center-honors-cbs-2026/"
+        },
+        {
+          "headline": "CBS And Paramount+ To Air Next Kennedy Center Honors",
+          "summary": "CBS will broadcast this year’s Kennedy Center Honors, which will be held offsite amid the closure of the main facility. The network’s rights deal for the ceremony expired last year, and is said to have signed a one-year agreement for this year’s ceremony.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gabriel-iglesias-new-netflix-special-premiere-date-1237229082/"
+          "url": "https://deadline.com/2026/11/kennedy-center-honors-cbs-1237229052/"
+        },
+        {
+          "headline": "Chris Kattan Launches Production & Distribution Company Kattan Films",
+          "summary": "EXCLUSIVE: Chris Kattan is opening the doors to Kattan Films, an independent production and distribution company focused on acquiring films for theatrical release while developing its own slate of original productions. Kattan Films will pursue a theatrical-first distribution model.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/chris-kattan-launches-kattan-films-1237229283/"
         }
       ]
     },
@@ -1023,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19T13:17:28-05:00"
+  "updatedAt": "2026-11-19T13:44:10-05:00"
 }
