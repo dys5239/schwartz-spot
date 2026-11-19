@@ -6,6 +6,18 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you.",
+          "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+        },
+        {
+          "headline": "Apple is hiring engineers to build its own AI agent",
+          "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+        },
+        {
           "headline": "A brief history of Nvidia’s recent stock fluctuations",
           "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
           "source": "The Verge",
@@ -22,18 +34,6 @@
           "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
           "source": "Wired",
           "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
-        },
-        {
-          "headline": "These tech outages are giving Y2K, AI agent style",
-          "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
-        },
-        {
-          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Fiona the hippo has died, Cincinnati Zoo says",
-          "summary": "Fiona the hippo, who survived being born prematurely and rose to global fame, has died, the Cincinnati Zoo & Botanical Garden announced Thursday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/"
-        },
-        {
-          "headline": "Former White House chief information officer on banking hack, tech outages",
-          "summary": "Personal information belonging to thousands of JPMorgan Chase customers was leaked on Thursday following a cyberattack. Max Everett, former White House chief information officer, joins CBS News to discuss this news and the wave of tech outages that hit many other U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/former-white-house-chief-information-officer-on-banking-hack-tech-outages/"
-        },
-        {
-          "headline": "Fiona the hippo dies at Cincinnati Zoo after swallowing hat",
+          "headline": "Cincinnati Zoo mourns Fiona the hippo after fatal incident involving hat",
           "summary": "The beloved hippo died after swallowing a hat that accidentally fell into her habitat last week, the zoo said Thursday.",
           "source": "ABC News",
           "url": "https://abcnews.com/GMA/Living/fiona-hippo-dies-cincinnati-zoo-after-swallowing-hat/story?id=138301411"
-        },
-        {
-          "headline": "William and Catherine's India tour was 'particularly special', aide says",
-          "summary": "Prince William's most senior advisor described the royal couple as \"very much a team\".",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Consumers stock doomsday pantries as tech outages cause jitters",
           "summary": "Companies such as Costco and Walmart are seeing a surge in sales for generators, canned goods and other disaster-preparedness staples.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/doomsday-prepping-scenarios-walmart-costco-technology-outages/"
+        },
+        {
+          "headline": "Trump says he's pardoned deceased MLB slugger Pete Rose",
+          "summary": "President Trump said Thursday he has granted a \"Complete and Total Pardon\" to Pete Rose, MLB's late all-time hits leader who was banned from the league for gambling.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/"
+        },
+        {
+          "headline": "'Clearer' approach has lifted England mood - Itoje",
+          "summary": "Captain Maro Itoje says a clearer sense of purpose and unity has coincided with improved performances from England this autumn.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckge31np9ew7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "EU-UK talks going down to the wire, says No 10",
+          "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -79,14 +79,144 @@
       "stories": [],
       "posts": [
         {
-          "id": "2123539448050634896",
-          "created_at": "2026-11-19T22:10:32.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Coming out at 7:30 EST tonight 👇🏻 https://t.co/SuqLQyFPNm",
-          "url": "https://x.com/Osint613/status/2123539448050634896",
+          "id": "2123548572486365395",
+          "created_at": "2026-11-19T22:46:47.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NAVARRO UNLOADS ON THE FED: “THE DATA DOES NOT SUPPORT ANYTHING THEY’VE BEEN DOING”\n\n@RealPNavarro says the Federal Reserve has repeatedly gotten the timing wrong — raising or holding rates when economic conditions called for something else.\n\n“The Fed's performance has arguably https://t.co/IxkWFREp04",
+          "url": "https://x.com/RealAmVoice/status/2123548572486365395",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123547133911425389",
+          "created_at": "2026-11-19T22:41:04.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Marlon Humphrey being sent home over a joke about Baltimore crime is outrageous. The Ravens have a statue of Ray Lewis outside their stadium, but Humphrey can't play over a podcast joke? The NFLPA should file a huge complaint. This is absurd. https://t.co/GBkfYBgOxS",
+          "url": "https://x.com/ClayTravis/status/2123547133911425389",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123546884161618009",
+          "created_at": "2026-11-19T22:40:05.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Axios: White House national cyber director Sean Cairncross is leaving his post. https://t.co/tXsshI7bQd",
+          "url": "https://x.com/i/status/2123546884161618009",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123546128188637289",
+          "created_at": "2026-11-19T22:37:05.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Thanks for proving my point that you are a man child with zero substance and no actual response to what I said. \n\nI can’t wait to help make an example out of all of you Woke Reich lunatics come 2028. https://t.co/0msxxAaFrM",
+          "url": "https://x.com/LauraLoomer/status/2123546128188637289",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123545632552165479",
+          "created_at": "2026-11-19T22:35:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Marc Thiessen says if America falls behind China in AI early, it will never catch up\n\n\"If you start to fall behind early, you'll never catch up because the AI that you have builds the next generation of AI for you\"\n\n\"We need to win the AI arms race both so that we can dominate https://t.co/ebit06fnlx",
+          "url": "https://x.com/_Investinq/status/2123545632552165479",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123545523600982290",
+          "created_at": "2026-11-19T22:34:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "President Trump just posted https://t.co/xeyZfF1tWx",
+          "url": "https://x.com/i/status/2123545523600982290",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123545172856263060",
+          "created_at": "2026-11-19T22:33:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "ICE says Ayan Ahmed Aidid, wife of Minnesota lawmaker-elect Abdi Daisane, entered the U.S. illegally in April 2023 and was released by the Biden administration. ICE says she remains in the country illegally.\n\n“We will continue to enforce the law, regardless of political status or https://t.co/omeTfsUhC8",
+          "url": "https://x.com/i/status/2123545172856263060",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123544175543308701",
+          "created_at": "2026-11-19T22:29:19.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: White House Cyber Director Sean Cairncross is stepping down",
+          "url": "https://x.com/i/status/2123544175543308701",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123543948409074104",
+          "created_at": "2026-11-19T22:28:25.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Amnesty International: \n\nToday is a dark day for Italy, the antisemitism bill is now law https://t.co/dFDfJftQ8v",
+          "url": "https://x.com/i/status/2123543948409074104",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123543087527993743",
+          "created_at": "2026-11-19T22:25:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Apple, $AAPL, is developing its own autonomous AI agent as it aims to rival Anthropic, OpenAI, and Meta, per Bloomberg.\n\nThe system will write code, browse the web, control apps, and navigate devices on a user’s behalf.\n\nShares of Meta, $META, and Anthropic, $ANT, are",
+          "url": "https://x.com/i/status/2123543087527993743",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123542768500830583",
+          "created_at": "2026-11-19T22:23:44.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "America First, before it became hijacked by the Woke Reich to push Israel derangement syndrome means putting the American people first in all policies.\n\nWhat it doesn’t mean is amplifying your friend Tucker Carlson who wants everyone to think America First means demonizing https://t.co/ckwjAiYO2J",
+          "url": "https://x.com/LauraLoomer/status/2123542768500830583",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123541577670783435",
+          "created_at": "2026-11-19T22:19:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: BROWARD COUNTY DECLARES STATE OF EMERGENCY AFTER RECORD RAIN\n\nTorrential rain has swamped parts of South Florida, with serious flooding reported around Hollywood and Aventura.\n\nBroward County is now under a state of emergency as streets and drainage systems struggle to",
+          "url": "https://x.com/RealAmVoice/status/2123541577670783435",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123540703385186404",
+          "created_at": "2026-11-19T22:15:31.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Last week in Brussels, about 50 Muslim imams walked into a European Parliament building and begged Europe to wake up. They told lawmakers straight up that they’ve confused “openness with blindness” and that radical Islam is taking advantage of it.\n\nThe radical Islamists responded https://t.co/xFyMc8mDXy",
+          "url": "https://x.com/i/status/2123540703385186404",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123540572598071641",
+          "created_at": "2026-11-19T22:15:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ONE YEAR LATER — MARK KELLY STILL CAN’T NAME A SINGLE “ILLEGAL ORDER”\n\nA reporter pressed Sen. Mark Kelly for one specific example of an illegal order President Trump supposedly gave the military.\n\n“Is there a specific illegal order that the President gave?”\n\nKelly’s response?",
+          "url": "https://x.com/RealAmVoice/status/2123540572598071641",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2123539402567675914",
@@ -134,7 +264,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "Tech Stocks From Record Highs:\n\n1. CoreWeave, $CRWV: -76%\n2. Oracle, $ORCL: -68%\n3. SanDisk, $SNDK: -68%\n4. Nebius, $NBIS: -66%\n5. Intel, $INTC: -61%\n6. Western Digital, $WDC: -60%\n7. Arm, $ARM: -60%\n8. Robinhood, $HOOD: -55%\n9. Marvell Technology, $MRVL: -56%\n10. Seagate, $STX:",
-          "url": "https://x.com/KobeissiLetter/status/2123536801813963184",
+          "url": "https://x.com/i/status/2123536801813963184",
           "verified": true,
           "verified_type": "business"
         },
@@ -144,7 +274,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "President Trump has announced he’s issued a “complete and total pardon” for the late Pete Rose. \n\nIs a Hall of Fame plaque next for baseball's all-time hits king? https://t.co/gFnRsIlV42",
-          "url": "https://x.com/Outkick/status/2123536778292564076",
+          "url": "https://x.com/i/status/2123536778292564076",
           "verified": true,
           "verified_type": "business"
         },
@@ -199,36 +329,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123531363974332489",
-          "created_at": "2026-11-19T21:38:25.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "I’m not wrong about him. \n\nThe fact that anyone who works in the WH for the Vice President and the President on personnel matters is sharing clips of Tucker Carlson and posting watermelon emojis on tweets about October 7 tells me everything I need to know. \n\nI have absolutely had https://t.co/5XV0n9JzlZ",
-          "url": "https://x.com/LauraLoomer/status/2123531363974332489",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123531055252541884",
-          "created_at": "2026-11-19T21:37:11.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Georgia’s newly elected Secretary of State Jackson is drawing attention after emphasizing the makeup of her incoming team.\n\n“The diversity here is intentional.”\n\nHer team appears to be overwhelmingly Black — roughly 90%. https://t.co/GuoMpHlK2x",
-          "url": "https://x.com/RealAmVoice/status/2123531055252541884",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123529739499446402",
-          "created_at": "2026-11-19T21:31:57.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "And of course the president of American Ascent @AmAscent_ is the same guy who wrote the Heritage Foundation President’s speech defending Tucker Carlson and Nick Fuentes. The same speech that got him fired as CoS at Heritage Foundation. \n\nThe only thing these people care about and https://t.co/VdM01SZfLk https://t.co/eNqPMfVC7f",
-          "url": "https://x.com/LauraLoomer/status/2123529739499446402",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123529575091282055",
           "created_at": "2026-11-19T21:31:18.000Z",
           "author_name": "StockMarket.News",
@@ -237,26 +337,6 @@
           "url": "https://x.com/_Investinq/status/2123529575091282055",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123528633855914413",
-          "created_at": "2026-11-19T21:27:34.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST NOW: @POTUS pardons baseball legend Pete Rose. https://t.co/0i2lQQ5zbP",
-          "url": "https://x.com/RealAmVoice/status/2123528633855914413",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123527317423366359",
-          "created_at": "2026-11-19T21:22:20.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MIRACLE: A small plane lost power and came down on a busy highway in Apodaca, Mexico, on Wednesday.\n\nDespite the terrifying crash, all six people on board — two crew members and four passengers — escaped with only minor injuries.\n\nThey were treated at the scene, and none required",
-          "url": "https://x.com/RealAmVoice/status/2123527317423366359",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123526902732226889",
@@ -284,7 +364,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "RIP FIONA 😔 https://t.co/bMzt7EvlQZ",
-          "url": "https://x.com/Outkick/status/2123522666418340307",
+          "url": "https://x.com/i/status/2123522666418340307",
           "verified": true,
           "verified_type": "business"
         },
@@ -304,7 +384,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "Yesterday my inbox blew up with two totally different reactions to my GTA VI monologue. I had longtime listeners telling me I sold my soul to the devil for praising a violent video game just to get clicks. But I also had thousands of young guys saying, wait a second. He actually https://t.co/DjVdiEYGPM",
-          "url": "https://x.com/glennbeck/status/2123521882276454849",
+          "url": "https://x.com/i/status/2123521882276454849",
           "verified": true,
           "verified_type": "blue"
         },
@@ -314,19 +394,9 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: The S&amp;P 500 closes down for the 6th-straight day, now down -$6 trillion since the October 6th high.\n\nThe Nasdaq 100 is now down -15% from its record high. https://t.co/QGhhjBEHvP",
-          "url": "https://x.com/KobeissiLetter/status/2123521706731897192",
+          "url": "https://x.com/i/status/2123521706731897192",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123520209839440189",
-          "created_at": "2026-11-19T20:54:05.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Okay, anonymous mailbag is tomorrow on @SportNState. Fire away with all your questions here. Only I see them. And thanks in advance, as always. https://t.co/eZW2JGbKMz",
-          "url": "https://x.com/ClayTravis/status/2123520209839440189",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123516375805379040",
@@ -349,54 +419,14 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123511297224417435",
-          "created_at": "2026-11-19T20:18:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Zelensky: Europe will get all of Ukraine's technologies.\n\n\"There will be a lot of co-production, and they know that we have some systems, really some systems, which nobody has for today. Nobody.\"\n\n\"Of course, now we are sharing, but there are some things which we will share after",
-          "url": "https://x.com/Osint613/status/2123511297224417435",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123509606219645222",
-          "created_at": "2026-11-19T20:11:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Ukrainian President Volodymyr Zelensky on having U.S. bases in Ukraine:\n\n\"We would be happy if our American partners would trust us, if their bases would be in Ukraine, like in the Middle East, by the way.\n\nThey are not in NATO, but there are some bases.\"",
-          "url": "https://x.com/Osint613/status/2123509606219645222",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123507388896715141",
-          "created_at": "2026-11-19T20:03:09.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "According to NBC News, Trump did not meet North Korean leader Kim Jong Un during his Asia trip because there were too many other meetings. Trump added that the two still have a relationship and that a meeting with Kim will take place \"at some point.\"",
-          "url": "https://x.com/Osint613/status/2123507388896715141",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123506602015887795",
           "created_at": "2026-11-19T20:00:01.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: US technology stock valuations have hit their lowest level since March 2020 amid the market correction.\n\nThe S&amp;P 500 Info Tech Index P/E ratio is now at its lowest since March 20th, 2020, at 16.4x. https://t.co/KMxsZxBlql",
-          "url": "https://x.com/KobeissiLetter/status/2123506602015887795",
+          "url": "https://x.com/i/status/2123506602015887795",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123506516242071663",
-          "created_at": "2026-11-19T19:59:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "UK Prime Minister Andy Burnham:\n\nThis is a lose-lose situation, but perhaps the biggest losers are Russia.\n\nThey are losing as many men every two to three months as they lost in the whole nine years of the conflict between the Soviet Union and Afghanistan all of those years ago. https://t.co/LkHqLKl7XJ",
-          "url": "https://x.com/Osint613/status/2123506516242071663",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123503856705523798",
@@ -404,7 +434,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️The white-collar compression thesis we published for Signal Core back in March is moving much faster into reality now.\n\nLayoffs, hiring compression, AI substitution, and the repricing of professional work are no longer isolated signals.\n\nWe’re working on the next update for https://t.co/GYSuNKBNXC",
-          "url": "https://x.com/_The_Prophet__/status/2123503856705523798",
+          "url": "https://x.com/i/status/2123503856705523798",
           "verified": true,
           "verified_type": "blue"
         },
@@ -414,7 +444,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️The real phase change in cyber is that the attacker is no longer constrained by attention.\n\nHuman hackers had to choose targets.\n\nAI agents do not.\n\nThey can scan thousands of systems, test weaknesses, learn from failed attempts, and return immediately with a modified strategy. https://t.co/7tEemb8B3u",
-          "url": "https://x.com/_The_Prophet__/status/2123502635701666013",
+          "url": "https://x.com/i/status/2123502635701666013",
           "verified": true,
           "verified_type": "blue"
         },
@@ -424,7 +454,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: MicroStrategy, $MSTR, and Bitmine, $BMNR, extend losses to their lowest level of the day as Bitcoin falls below $63,000.\n\nThe stocks are now down -88% and -91%, respectively, from their record highs. https://t.co/BgxojZPDps",
-          "url": "https://x.com/KobeissiLetter/status/2123491505872797719",
+          "url": "https://x.com/i/status/2123491505872797719",
           "verified": true,
           "verified_type": "business"
         },
@@ -469,22 +499,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123476690873847984",
-          "created_at": "2026-11-19T18:01:10.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: AMD, $AMD, officially denies claims made by Hunterbrook Media that sent the stock -13% lower, saying that the claims \"misrepresent AMD's business practices and relationships,\" per Bloomberg.\n\n\"AMD complies with applicable US export control laws and regulations and",
-          "url": "https://x.com/KobeissiLetter/status/2123476690873847984",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123476284043047083",
           "created_at": "2026-11-19T17:59:33.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️We’re working on a deeper macro outlook for 2027 and beyond for Inner Ring.\n\nA lot has been shifting across markets over the last few weeks.\n\nRates. Liquidity. Inflation. The dollar. Assets.\n\nThis is exactly the kind of environment where signal matters most.\n\nMore soon. https://t.co/7bW3xvweWW",
-          "url": "https://x.com/_The_Prophet__/status/2123476284043047083",
+          "url": "https://x.com/i/status/2123476284043047083",
           "verified": true,
           "verified_type": "blue"
         },
@@ -504,7 +524,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Bummer. https://t.co/laW7h91Pe2",
-          "url": "https://x.com/_The_Prophet__/status/2123475033842675812",
+          "url": "https://x.com/i/status/2123475033842675812",
           "verified": true,
           "verified_type": "blue"
         },
@@ -514,17 +534,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️This is exactly the cohort that gets crushed first if people misunderstand what “50% of tasks automated” actually means.\n\nThe 48-year-old accountant is not automatically unemployed in 2029.\n\nBut the labor market around him changes violently.\n\nA department that once needed 20 https://t.co/q096NvPYUi",
-          "url": "https://x.com/_The_Prophet__/status/2123474444291387513",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123473910398324947",
-          "created_at": "2026-11-19T17:50:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "https://t.co/g1Z2H1DnQg CEO Peter Smith says a couple hundred billion dollars of crypto positions have been liquidated\n\n\"What we've gotten into over the last couple of weeks is a liquidation cascade\"\n\n\"There have been a couple hundred billion worth of crypto positions liquidated\" https://t.co/mXlZMZWij9",
-          "url": "https://x.com/_Investinq/status/2123473910398324947",
+          "url": "https://x.com/i/status/2123474444291387513",
           "verified": true,
           "verified_type": "blue"
         },
@@ -534,7 +544,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "“I know Joe’s always wanted a one-man booth.\"\n\nTroy Aikman doesn't give a SHIT anymore 😳https://t.co/LBlFpUWqnH",
-          "url": "https://x.com/Outkick/status/2123465056512008312",
+          "url": "https://x.com/i/status/2123465056512008312",
           "verified": true,
           "verified_type": "business"
         },
@@ -544,7 +554,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Looking at the beer in my fridge ahead of this garbage Thursday Night Football game https://t.co/lZSerM6tp2",
-          "url": "https://x.com/Outkick/status/2123446538060136561",
+          "url": "https://x.com/i/status/2123446538060136561",
           "verified": true,
           "verified_type": "business"
         },
@@ -554,7 +564,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "ufos and hulk\n\nwas gta always a sci fi fantasy game? https://t.co/eM79cCfqEd",
-          "url": "https://x.com/Timcast/status/2123445502910083111",
+          "url": "https://x.com/i/status/2123445502910083111",
           "verified": true,
           "verified_type": "blue"
         },
@@ -564,7 +574,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Art imitates life https://t.co/xP1NeZYC25",
-          "url": "https://x.com/Outkick/status/2123441138694570317",
+          "url": "https://x.com/i/status/2123441138694570317",
           "verified": true,
           "verified_type": "business"
         },
@@ -574,7 +584,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/19/26 https://t.co/uvJLf0tR49",
-          "url": "https://x.com/glennbeck/status/2123415807346557213",
+          "url": "https://x.com/i/status/2123415807346557213",
           "verified": true,
           "verified_type": "blue"
         },
@@ -584,7 +594,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Thanks for the response, congresswoman. Quick question while I have you: does it bother you at all that you're 83 years old, you've been in congress for 35 years, and now the end of your life is rapidly approaching and you have not a single accomplishment of any kind to your name https://t.co/8bxBKvjkEb",
-          "url": "https://x.com/MattWalshBlog/status/2123399890914967867",
+          "url": "https://x.com/i/status/2123399890914967867",
           "verified": true,
           "verified_type": "blue"
         },
@@ -594,7 +604,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "What the ever living fuck https://t.co/3X1ov3HKt5",
-          "url": "https://x.com/Timcast/status/2123399236213415947",
+          "url": "https://x.com/i/status/2123399236213415947",
           "verified": true,
           "verified_type": "blue"
         },
@@ -644,7 +654,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Alliance PvP\n\nWoW Forever\n\nAdd Moonlord Crossland to join our guild \n\nGuildcast\n\nIm running a rogue, Cydaris Vin\n\nAdd me",
-          "url": "https://x.com/Timcast/status/2123244652392259647",
+          "url": "https://x.com/i/status/2123244652392259647",
           "verified": true,
           "verified_type": "blue"
         },
@@ -654,7 +664,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Are We Under Cyberattack? Everything You Need To Know About The Tech Outages | Ep. 1876\n\nhttps://t.co/pIHaU2mFwa",
-          "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
+          "url": "https://x.com/i/status/2123238776176800237",
           "verified": true,
           "verified_type": "blue"
         },
@@ -664,7 +674,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "CYBER ATTACKS CONFIRMED, Elon Musk Warns Of WW3 On Trip With Trump To China https://t.co/1Z1LiJN43T",
-          "url": "https://x.com/Timcast/status/2123219812117606895",
+          "url": "https://x.com/i/status/2123219812117606895",
           "verified": true,
           "verified_type": "blue"
         },
@@ -674,7 +684,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
-          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
+          "url": "https://x.com/i/status/2123212911640223945",
           "verified": true,
           "verified_type": "blue"
         },
@@ -684,7 +694,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
-          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
+          "url": "https://x.com/i/status/2123205567728722236",
           "verified": true,
           "verified_type": "blue"
         },
@@ -694,7 +704,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "People said I was wrong for pointing out Nick is ascendant \n\nMock him all day he's a cultural force https://t.co/KogzzMLC7R",
-          "url": "https://x.com/Timcast/status/2123200033650618825",
+          "url": "https://x.com/i/status/2123200033650618825",
           "verified": true,
           "verified_type": "blue"
         },
@@ -714,7 +724,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "When you win a Senate seat, you get instant access to classified information without a single background check. @seanspicer is trying to change that, starting with a petition calling on Senate leadership to properly vet Abdul El-Sayed before handing him access to some of https://t.co/xICif3Z5m3",
-          "url": "https://x.com/glennbeck/status/2123186336278696260",
+          "url": "https://x.com/i/status/2123186336278696260",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,6 +765,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump says he's pardoned deceased MLB slugger Pete Rose",
+          "summary": "President Trump said Thursday he has granted a \"Complete and Total Pardon\" to Pete Rose, MLB's late all-time hits leader who was banned from the league for gambling.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/"
+        },
+        {
           "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
           "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
           "source": "CBS News",
@@ -777,12 +793,6 @@
           "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
-        },
-        {
-          "headline": "CBS to air Kennedy Center Honors in December",
-          "summary": "CBS has reached a one-year deal to air the awards ceremony next month, sources said.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kennedy-center-honors-cbs-2026/"
         }
       ]
     },
@@ -795,6 +805,12 @@
           "summary": "Companies such as Costco and Walmart are seeing a surge in sales for generators, canned goods and other disaster-preparedness staples.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/doomsday-prepping-scenarios-walmart-costco-technology-outages/"
+        },
+        {
+          "headline": "Congress passes bill to protect older investors from financial fraud",
+          "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html"
         },
         {
           "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -813,12 +829,6 @@
           "summary": "Social Security's trust funds face a looming shortfall. But AARP says Sen.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html"
-        },
-        {
-          "headline": "Stocks plunge as investors take cover amid growing uncertainty",
-          "summary": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
         }
       ]
     },
@@ -827,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils",
-          "summary": "World number one Alexander Zverev says he will do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/c64gne03ykjro?at_medium=RSS&at_campaign=rss"
+          "headline": "How shift out wide helped UTSA's Mekhi Anderson develop into No. 1 target",
+          "summary": "UTSA Roadrunners wide receiver Mekhi Anderson (14) reacts after scoring a touchdown during the fourth quarter against the Colorado State Rams in San Antonio, Texas, Saturday, Sept., 26, 2026. (Zach Del Bello/San Antonio Express-News) Sometimes arriving around 5 a.m.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/shift-wide-helped-utsas-mekhi-224104648.html"
         },
         {
-          "headline": "Week 11 lineup questions? Fantasy Football Live has you covered on Sunday morning with last-minute start/sit advice",
-          "summary": "Week 11 of the 2026 NFL season is here — and there's no better place to get last-minute start-sit advice this Sunday than Fantasy Football Live ! Our top-notch fantasy analysts will cover last-minute pickups, inactives news and answer your lineup questions during the 2.5-hour AMA-style show, starting at 10:30 a.m.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/fantasy/article/week-11-lineup-questions-fantasy-football-live-has-you-covered-on-sunday-morning-with-last-minute-startsit-advice-221358416.html"
+          "headline": "Texans vs. Colts prediction, odds, time: NFL Week 11 'Thursday Night Football' picks from advanced model",
+          "summary": "SportsLine's model has revealed its Indianapolis Colts vs. Houston Texans picks for 'Thursday Night Football' matchup",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/texans-colts-prediction-odds-time-nfl-week-11-thursday-night-football-picks-tnf-line-bets/"
         },
         {
-          "headline": "Fantasy Football Rankings: Hayden Winks' WR Blueprint for Week 11",
-          "summary": "The Blueprint is my weekly column and basically everything that I use to build out the most accurate rankings I can. There will be an RB column , this WR column and a combination column on the onesie positions .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-wr-blueprint-for-week-11-221227817.html"
+          "headline": "Fantasy football Week 11 PPR cheat sheet: Caleb Douglas primed to build on budding rapport with Kyle McCord",
+          "summary": "Dave Richard breaks down every viable starting option across every game using a 1-10 confidence scale to help managers navigate injuries, byes and tricky lineup decisions",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-ppr-cheat-sheet-caleb-douglas-primed-to-build-on-budding-rapport-with-kyle-mccord/"
         },
         {
-          "headline": "Ex-Steelers Player Calls on Pittsburgh to Bench DK Metcalf",
-          "summary": "originally appeared on SportsNet Pittsburgh . Add SportsNet Pittsburgh as a Preferred Source by clicking here .",
+          "headline": "What Juke Harris brings to Tennessee basketball, even during shooting slump",
+          "summary": "Juke Harris is off to a sluggish start with Tennessee basketball. After averaging 21.4 points per game last season at Wake Forest, Harris has scored only 29 points in four games for the No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ex-steelers-player-calls-pittsburgh-221107552.html"
+          "url": "https://sports.yahoo.com/articles/juke-harris-brings-tennessee-basketball-223823802.html"
         },
         {
-          "headline": "USC getting set to face Maryland team led by interim head coach",
-          "summary": "This week, the USC football team will be back at the Coliseum to take on Maryland . It will be the final home game of the season for the Trojans , who are currently 7-3 on the year and 4-3 in Big Ten play.",
+          "headline": "Packers cut Pierre Strong to clear roster spot for Micah Parsons’ imminent return",
+          "summary": "GREEN BAY – With Micah Parsons ’ return imminent, the Green Bay Packers are clearing the way on their roster. The Packers waived running back Pierre Strong Jr.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/usc-getting-set-face-maryland-220935749.html"
+          "url": "https://sports.yahoo.com/articles/packers-cut-pierre-strong-clear-223817619.html"
         }
       ]
     },
@@ -862,6 +872,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "‘Madden’: Why Christian Bale Ranks Raiders Owner Al Davis as One of His Favorite Characters and the Jewelry He Took Home From Set",
+          "summary": "Christian Bale says portraying Oakland Raiders owner Al Davis in “Madden” is one of his favorite roles from his four-decade career. That’s extremely high praise considering Bale’s resume is longer than a CVS receipt, and includes winning an Oscar (for “The Fighter”) and playing Batman three times.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/events/christian-bale-al-davis-madden-nicolas-cage-heat-2-1236953563/"
+        },
         {
           "headline": "‘Survivor 51’ Star Lewis Kelly on His $1 Million Coin Flip and Joining the Cast at the Last Minute",
           "summary": "Kelly explains why he felt doomed heading into Tribal Council, how Exile Island set him back and which major threat his tribemates are overlooking.",
@@ -885,12 +901,6 @@
           "summary": "Don Murphy and Susan Montford of Angry Films and Philippe Maigret and Lucianne Papon of ITV will executive produce a modern update based on the British cult classic from the 1960s.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/new-the-prisoner-series-in-the-works-amazon-1236759554/"
-        },
-        {
-          "headline": "Mariko Tamaki Writing Sexy Vampire Thriller ‘Royal Blood’ for Skybound, Image Comics (Exclusive)",
-          "summary": "Rossi Gifford is drawing the ongoing series that will debut early next year.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/mariko-tamaki-writing-sexy-vampire-thriller-royal-blood-1236759480/"
         }
       ]
     },
@@ -899,34 +909,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Anthropic Shares End First Day Of Trading Up 17% In Volatile Session As AI Giant Goes Public",
-          "summary": "UPDATED after market close: Anthropic shares ended their first day of trading at $97.17, up 17% from their $83 IPO price, but off their high for the day, in a volatile session. Early investors in the company behind the Claude chatbot cleaned up with the WSJ reporting that the majority of the AI lab’s more […]",
+          "headline": "Judge Weighs Whether To Allow Kennedy Center To Proceed With Closure Plan",
+          "summary": "A federal judge said that he will issue a ruling “as soon as I can” as to whether the Kennedy Center can proceed with its plan to close the arts complex for two years for renovations, amid fears that President Donald Trump ultimately will move to demolish the 55-year-old arts complex. U.S.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/anthropic-ai-volatile-ipo-shares-trading-nasdaq-market-1237229045/"
+          "url": "https://deadline.com/2026/11/kennedy-center-closure-judge-injunction-trump-1237229582/"
         },
         {
-          "headline": "Lance Broadway Dies: ‘Agents Of S.H.I.E.L.D.’, ‘Olympus Has Fallen’ Actor Was 43",
-          "summary": "Lance Broadway, a former MLB pitcher turned actor who appeared in Marvel’s Agents Of S.H.I.E.L.D., Lucifer and the 2013 film Olympus Has Fallen, among others, has died unexpectedly. He was 43.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lance-broadway-dead-agents-of-shield-olympus-has-fallen-1237229540/"
-        },
-        {
-          "headline": "NYC Book Publishing Mainstay Farrar, Straus & Giroux Marks 80th Anniversary",
-          "summary": "As NBC marks its 100th anniversary this year, another mainstay of the media landscape is turning 80: book publisher Farrar, Straus & Giroux. The literary division of Macmillan Publishers has grown from a small boutique into a home for Nobel laureates, Pulitzer Prize winners, and National Book Award recipients.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/book-publisher-farrar-straus-giroux-marks-80th-anniversary-1237228484/"
-        },
-        {
-          "headline": "Everything We Know About ‘The Nightingale’ Movie So Far: Release Date, Stars & More",
-          "summary": "Kristin Hannah’s best-selling historical fiction book The Nightingale will be made into a movie after all. The project was first sparked before the COVID-19 pandemic, which slowed momentum on the making of the film.",
-          "source": "Deadline",
-          "url": "https://deadline.com/feature/the-nightingale-movie-news-updates-kristin-hannah-book-1236690359/"
-        },
-        {
-          "headline": "The Best Gifts to Shop at Best Buy: From Home Theater Upgrades to Espresso Machines",
-          "summary": "Finding the perfect holiday gift is easier when you take a cue from Hollywood. From the rise of AI-powered eyewear among celebrities to the growing appeal of elaborate home theater setups, some of this year’s most coveted gifts take inspiration from the screen.",
+          "headline": "‘Madden’: Why Christian Bale Ranks Raiders Owner Al Davis as One of His Favorite Characters and the Jewelry He Took Home From Set",
+          "summary": "Christian Bale says portraying Oakland Raiders owner Al Davis in “Madden” is one of his favorite roles from his four-decade career. That’s extremely high praise considering Bale’s resume is longer than a CVS receipt, and includes winning an Oscar (for “The Fighter”) and playing Batman three times.",
           "source": "Variety",
-          "url": "https://variety.com/2026/shopping/news/best-buy-gift-guide-best-deals-shop-online-1236953639/"
+          "url": "https://variety.com/2026/film/events/christian-bale-al-davis-madden-nicolas-cage-heat-2-1236953563/"
+        },
+        {
+          "headline": "‘From’ Lures Over 5 Billion Minutes Viewed In 3 Weeks After MGM+ Series Lands On Netflix",
+          "summary": "Netflix is bringing a massive audience to yet another series that originated on a smaller streamer. MGM+ sci-fi horror series From raked in 1.69 billion minutes viewed from November 2 to 8, easily putting it atop Nielsen’s streaming charts for the week.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607/"
+        },
+        {
+          "headline": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show",
+          "summary": "As Netflix’s The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers. Criticizing the “blasphemous anti-Christian series” from creator Quinn Shephard ahead of its release last week, the CitizenGo petition has accumulated more than 126K signatures calling on Netflix to “stop defiling […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/"
+        },
+        {
+          "headline": "‘Glee’ Reboot: ‘Sadness’ Over Naya Rivera and Cory Monteith’s Deaths Is ‘Going to Be a Part’ of the Show, Says Co-Creator Ian Brennan",
+          "summary": "“Glee” co-creator Ian Brennan admits he wasn’t always open to the upcoming “Glee” reboot. “I wasn’t that excited about it,” he told me earlier this week at an FYC event for his latest television project “Monster: The Lizzie Borden Story.” “Every time it came up, it was like, ‘Why would you do that again?’ For […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/columns/glee-reboot-naya-rivera-cory-monteith-death-ian-brennan-monster-lizzie-borden-1236953562/"
         }
       ]
     },
@@ -935,6 +945,24 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Judge Weighs Whether To Allow Kennedy Center To Proceed With Closure Plan",
+          "summary": "A federal judge said that he will issue a ruling “as soon as I can” as to whether the Kennedy Center can proceed with its plan to close the arts complex for two years for renovations, amid fears that President Donald Trump ultimately will move to demolish the 55-year-old arts complex. U.S.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/kennedy-center-closure-judge-injunction-trump-1237229582/"
+        },
+        {
+          "headline": "‘From’ Lures Over 5 Billion Minutes Viewed In 3 Weeks After MGM+ Series Lands On Netflix",
+          "summary": "Netflix is bringing a massive audience to yet another series that originated on a smaller streamer. MGM+ sci-fi horror series From raked in 1.69 billion minutes viewed from November 2 to 8, easily putting it atop Nielsen’s streaming charts for the week.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607/"
+        },
+        {
+          "headline": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show",
+          "summary": "As Netflix’s The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers. Criticizing the “blasphemous anti-Christian series” from creator Quinn Shephard ahead of its release last week, the CitizenGo petition has accumulated more than 126K signatures calling on Netflix to “stop defiling […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/"
+        },
+        {
           "headline": "Anthropic Shares End First Day Of Trading Up 17% In Volatile Session As AI Giant Goes Public",
           "summary": "UPDATED after market close: Anthropic shares ended their first day of trading at $97.17, up 17% from their $83 IPO price, but off their high for the day, in a volatile session. Early investors in the company behind the Claude chatbot cleaned up with the WSJ reporting that the majority of the AI lab’s more […]",
           "source": "Deadline",
@@ -945,24 +973,6 @@
           "summary": "Lance Broadway, a former MLB pitcher turned actor who appeared in Marvel’s Agents Of S.H.I.E.L.D., Lucifer and the 2013 film Olympus Has Fallen, among others, has died unexpectedly. He was 43.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/lance-broadway-dead-agents-of-shield-olympus-has-fallen-1237229540/"
-        },
-        {
-          "headline": "NYC Book Publishing Mainstay Farrar, Straus & Giroux Marks 80th Anniversary",
-          "summary": "As NBC marks its 100th anniversary this year, another mainstay of the media landscape is turning 80: book publisher Farrar, Straus & Giroux. The literary division of Macmillan Publishers has grown from a small boutique into a home for Nobel laureates, Pulitzer Prize winners, and National Book Award recipients.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/book-publisher-farrar-straus-giroux-marks-80th-anniversary-1237228484/"
-        },
-        {
-          "headline": "Everything We Know About ‘The Nightingale’ Movie So Far: Release Date, Stars & More",
-          "summary": "Kristin Hannah’s best-selling historical fiction book The Nightingale will be made into a movie after all. The project was first sparked before the COVID-19 pandemic, which slowed momentum on the making of the film.",
-          "source": "Deadline",
-          "url": "https://deadline.com/feature/the-nightingale-movie-news-updates-kristin-hannah-book-1236690359/"
-        },
-        {
-          "headline": "IDFA Awards Ceremony: ‘The Year Of The Ghost’ And ‘Memories Of Lightning’ Earn Top Prizes",
-          "summary": "Director Louis HotHotHot is living up to his name. His feature documentary The Year of the Ghost won Best Film in International Competition Thursday as the 39th International Documentary Festival Amsterdam presented its awards.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/2026-idfa-awards-announcement-1237229526/"
         }
       ]
     },
@@ -971,37 +981,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Willie Nelson’s Memoir Explains How His Wife Inspires His Creative Spirit: Here’s Where to Get Your Copy Online",
+          "headline": "Nex Playground Adds New BTS Game: Here’s Where to Shop the Active Play System Online",
           "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/culture/product-recommendations/willie-nelson-the-last-leaf-memoir-book-shop-buy-online-1236384774/"
+          "url": "https://www.billboard.com/culture/product-recommendations/nex-playground-gaming-active-play-system-buy-shop-online-1236385905/"
         },
         {
-          "headline": "Grimes & Elon Musk Feud Over AI ‘Sex Slave,’ Singer Urges Ex to ‘Step Up’ and Be ‘the King He Used to Be’",
-          "summary": "Grimes and Elon Musk are just like any pair of exes with lingering disagreements. They just so happen to be hashing them out on a social media platform that one of them owns, and the root of their conflict just so happens to be about controversial technology that the musician’s former partner has plans to invest billions in.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/elon-musk-grimes-feud-ai-sex-slave-he-should-be-king-1236384843/"
-        },
-        {
-          "headline": "Why the President (Any President) Shouldn’t Meddle In Who Receives Kennedy Center Honors: Critic’s Take",
-          "summary": "In December 2008, Barbra Streisand received the Kennedy Center Honors, one of the most prestigious honors in the arts and entertainment. Streisand, a staunch Democrat, had been close to Presidents Clinton and Obama, but as fate would have it, she received the award near the end of Republican George W.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/awards/president-kennedy-center-honors-say-1236385920/"
-        },
-        {
-          "headline": "Michelle Salas Has the Look and the Chisme to Go With It | Presented by Shark Beauty",
-          "summary": "This is partner content. Presented by Shark Beauty.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/video/michelle-salas-has-the-look-and-the-chisme-to-go-with-it/"
-        },
-        {
-          "headline": "‘Grand Theft Auto VI’ Drops for Sony PlayStation 5 and Xbox Series X/S: Here’s Where to Shop the Game Online",
+          "headline": "Paramount+ Black Friday Deal Drops Monthly Plans Down to $2.99 for Movies, Shows & Live Sports",
           "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/culture/product-recommendations/grand-theft-auto-6-gta-6-ps5-xbox-how-to-buy-shop-online-1236385610/"
+          "url": "https://www.billboard.com/culture/product-recommendations/paramount-plus-black-friday-sale-streaming-deal-tv-sports-1236384914/"
+        },
+        {
+          "headline": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis: ‘God Has Me’",
+          "summary": "Marlon Jackson , member of The Jackson 5 and brother of Michael Jackson , announced that he’s currently battling stage 4 prostate cancer. During a recent appearance on the Farah Shammas Podcast , Marlon revealed that he’s been undergoing treatment and had his prostate gland removed.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/marlon-jackson-stage-4-prostate-cancer-diagnosis-1236385892/"
+        },
+        {
+          "headline": "Billie Eilish & FINNEAS Follow Lucy Dickins to CAA for Global Touring, WME to Share in North America",
+          "summary": "Billie Eilish and FINNEAS have followed Lucy Dickins to CAA for international booking, while Dickins will share representation of Eilish in North America with WME’s Kirk Sommer , Billboard can confirm. Sommer will continue booking FINNEAS in North America, and the siblings will continue to be represented by WME’s Max Maulitz for film and TV.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billie-eilish-moves-caa-global-booking-share-us-wme/"
+        },
+        {
+          "headline": "‘Thursday Night Football’ 2026: How to Watch Indianapolis Colts vs. Houston Texans Live Online",
+          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T17:18:11-05:00"
+  "updatedAt": "2026-11-19T17:50:54-05:00"
 }
