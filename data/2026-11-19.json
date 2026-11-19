@@ -12,13 +12,19 @@
           "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         },
         {
+          "headline": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+          "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+        },
+        {
           "headline": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
           "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
           "source": "Wired",
           "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
         },
         {
-          "headline": "Anthropic hits NASDAQ exchanges at $111, 33% above IPO price",
+          "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
           "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
@@ -28,12 +34,6 @@
           "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images Anthropic has officially gone public.",
           "source": "The Verge",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
-        },
-        {
-          "headline": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-          "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Anthropic shares soar in Nasdaq trading debut, surging 39%",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
-        },
-        {
-          "headline": "Law firm that cut deal with Trump has done $11.8M in pro bono work",
-          "summary": "A lawyer representing the law firm Kirkland & Ellis said it has provided nearly $12 million in free legal services for the Trump administration.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kirkland-ellis-law-firm-trump-deal-12-million-free-legal-work/"
-        },
-        {
           "headline": "Men guilty of abusing woman drugged and advertised for sex by husband",
           "summary": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
+          "headline": "Anthropic shares soar in Nasdaq trading debut, surging 39%",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         },
         {
-          "headline": "Anthropic begins public trading in major test for AI",
-          "summary": "The company behind popular chatbot Claude immediately vaulted into rarefied air among some of the largest public companies in the world.",
+          "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+          "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Auditors concerned about billions ICE is spending to expand immigration detention",
+          "summary": "Federal auditors warn that ICE is spending billions of dollars to expand immigration detention without \"determining the cost effectiveness\" of new initiatives.",
           "source": "ABC News",
-          "url": "https://abcnews.com/Business/anthropic-public/story?id=138174650"
+          "url": "https://abcnews.com/US/federal-auditors-raise-concerns-billions-ice-spending-expand/story?id=138293636"
+        },
+        {
+          "headline": "What did Trump, Xi and Putin get out of their historic meeting?",
+          "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123473172830044666",
+          "created_at": "2026-11-19T17:47:11.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS POSTS ABOUT JAMES O'KEEFE AND CAM HIGBY TRIAL\n\n\"President Trump publishes my post on the Minneapolis Criminal Case against myself and Cam Higby. We are going to win.\"\n\nhttps://t.co/wZ40KHiTAM",
+          "url": "https://x.com/RealAmVoice/status/2123473172830044666",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123470911160394210",
+          "created_at": "2026-11-19T17:38:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Israel hit the Beqaa Valley 4 times, deep inside Lebanon. It is the second attack of this kind in the past week.\n\nOver the past day, Saudi channel Al-Hadath published footage of the remains of a weapons truck Israel hit earlier this week. The truck was on the border between https://t.co/EDmEbkFPbi",
+          "url": "https://x.com/Osint613/status/2123470911160394210",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123470191950479828",
+          "created_at": "2026-11-19T17:35:20.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "For no reason whatsoever, Nazi lover Tucker Qatarlson is now attacking @marcorubio and is saying Marco doesn’t actually work.\n\nTucker is obviously trying to sabotage Marco Rubio’s possible 2028 Presidential campaign by smearing the hardest working cabinet member in the Trump https://t.co/yTYZzOT31u",
+          "url": "https://x.com/LauraLoomer/status/2123470191950479828",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123469225851588831",
+          "created_at": "2026-11-19T17:31:30.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Kushner: NATO will be a fundamental pillar for the settlement in the post-war phase in Ukraine",
+          "url": "https://x.com/Osint613/status/2123469225851588831",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123469119819559226",
+          "created_at": "2026-11-19T17:31:04.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "AMERICAN MINOR RELEASED FROM HAITI! ❤️\n\n@SecRubio writes: \"Thank you to the Haitian National Police, the Anti-Kidnapping Unit, and U.S. law enforcement for securing the release of a kidnapped American minor.  Protecting Americans abroad is @StateDept's top priority, and President",
+          "url": "https://x.com/RealAmVoice/status/2123469119819559226",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123469094074847366",
+          "created_at": "2026-11-19T17:30:58.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jared Kushner:\n\nRussia has agreed to engage in a multilateral format with the Europeans.",
+          "url": "https://x.com/Osint613/status/2123469094074847366",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123468499007717875",
+          "created_at": "2026-11-19T17:28:36.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Earlier today in Baghdad, PMF leader Falah al-Fayyadh met Iraqi National Security Adviser Qassem al-Abudi.\n\nTomorrow, Popular Mobilization Forces units and local official security forces will take over Jurf al-Sakhar on the Iraqi prime minister's orders. They will replace the",
+          "url": "https://x.com/Osint613/status/2123468499007717875",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123468310138568990",
+          "created_at": "2026-11-19T17:27:51.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "🚨 KNOXVILLE! 🚨\n\nHutton &amp; Withrow are LIVE at Cool Beans tomorrow night from 7–8 PM ET to preview Tennessee vs. LSU!\n\nThe first 100 fans get a FREE Six Pack Coverdge hoodie and more!\n\nCome hang out, talk college football, and get ready for a huge SEC showdown! 🍊🏈 https://t.co/IpAXNxPEO1",
+          "url": "https://x.com/SportNState/status/2123468310138568990",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123467954616475840",
+          "created_at": "2026-11-19T17:26:27.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Oh. What’s this? \n\nSaurabh Sharma @ssharmaUS, the Jew hater and Palestinian sympathizer who works for President Trump’s administration in the White House advising on Personnel (I assume in PPO) is also a Tucker Qatarlson fan. \n\nMultiple Jews have reached out to me today to tell https://t.co/jlvZRnHIHQ https://t.co/7hKp0ugoKn",
+          "url": "https://x.com/LauraLoomer/status/2123467954616475840",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123467619458265380",
+          "created_at": "2026-11-19T17:25:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Walmart CEO John Furner says the consumer is pretty resilient and the early read on Thanksgiving is good\n\n\"The customer, I would say, is pretty resilient, pretty consistent\"\n\n\"Back to school was strong. We had a strong Halloween\"\n\n\"Good early read for Thanksgiving is what we're https://t.co/6hILN24wJU",
+          "url": "https://x.com/_Investinq/status/2123467619458265380",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123466668320112966",
+          "created_at": "2026-11-19T17:21:20.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NOW: @POTUS IS COMING HOME, HOLDING PRESS CONFERENCE TOMORROW!\n\nhttps://t.co/a1tSTc0Sjk",
+          "url": "https://x.com/RealAmVoice/status/2123466668320112966",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123465733636317667",
           "created_at": "2026-11-19T17:17:37.000Z",
@@ -169,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123461643879485707",
-          "created_at": "2026-11-19T17:01:22.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS and President Xi watch a performance of YMCA \n\nhttps://t.co/ixq3QofqjK",
-          "url": "https://x.com/RealAmVoice/status/2123461643879485707",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123461307777085535",
           "created_at": "2026-11-19T17:00:02.000Z",
           "author_name": "Sport & State",
@@ -187,26 +287,6 @@
           "url": "https://x.com/SportNState/status/2123461307777085535",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123459338111205430",
-          "created_at": "2026-11-19T16:52:12.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Welt: President Trump argued that Putin wants to reach a deal and voiced skepticism about military aid to Ukraine.\n\nHe made the remarks by phone from Air Force One, calling into the Coalition of the Willing meeting in Berlin after wrapping his summit in China.",
-          "url": "https://x.com/Osint613/status/2123459338111205430",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123458575112777899",
-          "created_at": "2026-11-19T16:49:10.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "\"DISASTER\" AND \"HUMILIATION\" FOR XI AND A \"TREMENDOUS SUCCESS FOR US\": TRILATERAL MEETING\n\n@bradthayer: Manila...humiliated Xi Jinping..in his own region then on his own territory. We need to reflect what happened there. Meeting with Putin was almost...long as trilateral. https://t.co/GLD5p16zDv",
-          "url": "https://x.com/RealAmVoice/status/2123458575112777899",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123456600174219499",
@@ -237,56 +317,6 @@
           "url": "https://x.com/KobeissiLetter/status/2123454759118024840",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123453654162174236",
-          "created_at": "2026-11-19T16:29:37.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Japan’s Prime Minister Sanae Takaichi:\n\nJapan's strengthening of its defense capabilities is solely necessary to protect the lives and peaceful livelihoods of the Japanese people.",
-          "url": "https://x.com/Osint613/status/2123453654162174236",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123453125520498975",
-          "created_at": "2026-11-19T16:27:31.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump to NBC News:\n\nI would not make any final decisions regarding the war in Ukraine without Zelensky.",
-          "url": "https://x.com/Osint613/status/2123453125520498975",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123452623089017103",
-          "created_at": "2026-11-19T16:25:31.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Anthropic, $ANT, is now indicated to open at $110/share, up +32.5% from its IPO price of $83/share.\n\nThis implies a market cap of $1.44 trillion at the open.\n\nShares are set to begin trading shortly.",
-          "url": "https://x.com/KobeissiLetter/status/2123452623089017103",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123449637227151456",
-          "created_at": "2026-11-19T16:13:39.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST IN: WSJ REPORTS HACKERS BREACHED THIRD PARTY SERVICE PROVIDER\n\nThe data is linked to Visa, Mastercard, and JPMorgan - it is reported to have EXPOSED customer data.\n\nhttps://t.co/xjoTKJr5Ar",
-          "url": "https://x.com/RealAmVoice/status/2123449637227151456",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123449437460799871",
-          "created_at": "2026-11-19T16:12:52.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump: Putin said he's angry about the bridge attack",
-          "url": "https://x.com/Osint613/status/2123449437460799871",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123446538060136561",
@@ -349,16 +379,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123434950875861014",
-          "created_at": "2026-11-19T15:15:18.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Former IMF deputy chief Gita Gopinath says Fed Chair Kevin Warsh is a hawk and closer to Waller's 50bp call than to Williams\n\n\"I think this is a situation where the Fed has to walk the talk\"\n\n\"I can see why Waller is pushing for 50 basis points, but there's clearly disagreement\" https://t.co/k7Ev3XPLlz",
-          "url": "https://x.com/_Investinq/status/2123434950875861014",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123429776786633082",
           "created_at": "2026-11-19T14:54:44.000Z",
           "author_name": "Laura Loomer",
@@ -409,26 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123422954990243994",
-          "created_at": "2026-11-19T14:27:38.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "People over exaggerate what a couple of million dollars does. First, you pay 40% to the government, at least. That leaves you with $1.2. Even if you don’t spend a dollar of this and are brilliant at how you invest, you’re working a normal life. https://t.co/HbzSVEYSST",
-          "url": "https://x.com/ClayTravis/status/2123422954990243994",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123422458606936211",
-          "created_at": "2026-11-19T14:25:40.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "🚨 EXCLUSIVE 🚨 \n\nSaurabh Sharma @ssharmaUS, who works at the White House @WhiteHouse as a Special Assistant to President Trump for Personnel under PPO is watermelon posting in support of the Palestinian response (Hamas) on October 7 on top of @jpodhoretz’s tweet about how he https://t.co/koQSv3jt6j",
-          "url": "https://x.com/LauraLoomer/status/2123422458606936211",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123421651144458487",
           "created_at": "2026-11-19T14:22:27.000Z",
           "author_name": "Sport & State",
@@ -455,16 +455,6 @@
           "author_handle": "glennbeck",
           "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/19/26 https://t.co/uvJLf0tR49",
           "url": "https://x.com/glennbeck/status/2123415807346557213",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123412403635499255",
-          "created_at": "2026-11-19T13:45:42.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "“American” Muslim Streamer @sneako is currently in Afghanistan hanging out with the Taliban making propaganda videos. \n\nSneako qualifies for the Anwar al-Awlaki precedent. \n\nHe has a multi-million dollar streaming deal with @kick, which was co-founded by Bijan Tehrani, who is https://t.co/uWE9sJpVNK",
-          "url": "https://x.com/LauraLoomer/status/2123412403635499255",
           "verified": true,
           "verified_type": "blue"
         },
@@ -529,26 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123319956381339961",
-          "created_at": "2026-11-19T07:38:21.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Moving all text conversations to be encrypted to ensure user privacy https://t.co/6Qbz2gmqPp",
-          "url": "https://x.com/elonmusk/status/2123319956381339961",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123317934747746611",
-          "created_at": "2026-11-19T07:30:19.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "𝕏 Money is growing fast https://t.co/ZB5kTS6V3p",
-          "url": "https://x.com/elonmusk/status/2123317934747746611",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123278201699041723",
           "created_at": "2026-11-19T04:52:26.000Z",
           "author_name": "OutKick",
@@ -557,16 +527,6 @@
           "url": "https://x.com/Outkick/status/2123278201699041723",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123257023093408149",
-          "created_at": "2026-11-19T03:28:17.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "No, you’re not having déjà vu, Nick Wright is still talking about @ClayTravis. \n\nClay is officially upping the ante: A $2 million lie detector challenge on Colin Cowherd’s \"The Herd\" during Super Bowl Week. Will @getnickwright accept?\nhttps://t.co/ECVW3Ki3L3",
-          "url": "https://x.com/SportNState/status/2123257023093408149",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123248203466428499",
@@ -747,26 +707,6 @@
           "url": "https://x.com/SpaceX/status/2122814338893332591",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2122802167212098047",
-          "created_at": "2026-11-17T21:20:51.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Watch @BretWJ at the @TomorrowXSummit talking about Starship unlocking the future of @Starlink broadband, mobile and ultimately supercompute in space https://t.co/wnjEneecQ3",
-          "url": "https://x.com/SpaceX/status/2122802167212098047",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2122793780810264837",
-          "created_at": "2026-11-17T20:47:31.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "After 34 days docked to the @Space_Station, the Dragon spacecraft supporting SpaceX’s 35th  Commercial Resupply Services mission for @NASA is targeted to undock from the orbiting lab as soon as Wednesday, November 18 → https://t.co/tnMukzSxui https://t.co/OhkzWO1fRh",
-          "url": "https://x.com/SpaceX/status/2122793780810264837",
-          "verified": true,
-          "verified_type": "business"
         }
       ]
     },
@@ -774,6 +714,18 @@
       "id": "politics",
       "title": "Politics",
       "stories": [
+        {
+          "headline": "Putin says Russia won't negotiate with Ukraine after bridge strike",
+          "summary": "Russian President Vladimir Putin said Russia will not negotiate any limited ceasefire now with Ukraine, citing a Ukrainian strike on a highly symbolic bridge this week.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/"
+        },
+        {
+          "headline": "Trump, Xi and Putin sit down for a rare 3-way meeting in China",
+          "summary": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+        },
         {
           "headline": "Law firm that cut deal with Trump has done $11.8M in pro bono work",
           "summary": "A lawyer representing the law firm Kirkland & Ellis said it has provided nearly $12 million in free legal services for the Trump administration.",
@@ -791,18 +743,6 @@
           "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race"
-        },
-        {
-          "headline": "Meet the 19 new senators set to be sworn in to Congress",
-          "summary": "From a former wheelchair basketball Paralympian to a Methodist pastor and one senator returning after defeat, the new class hails from different backgrounds and parts of the country.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/meet-the-new-senators-120th-congress/"
-        },
-        {
-          "headline": "DOJ taps prosecutor for probes into Mar-a-Lago raid, docs case",
-          "summary": "The Justice Department has tapped the top federal prosecutor in Los Angeles to work on probes into the FBI's raid on Mar-a-Lago and the Trump documents case.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/bill-essayli-justice-department-mar-a-lago-trump-documents-case/"
         }
       ]
     },
@@ -811,34 +751,34 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide",
+          "summary": "The average long-term U.S. mortgage rate rose this week for the first time since early October, reflecting a ramp-up in U.S.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/average-us-30-year-mortgage-rate-rises-728-138293216"
+        },
+        {
           "headline": "Anthropic shares soar in Nasdaq trading debut, surging 39%",
           "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         },
         {
-          "headline": "We're adding to a consumer stock as the market enters oversold territory",
-          "summary": "The S&P Oscillator officially moved into oversold territory after Wednesday's session.",
+          "headline": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+          "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/19/were-adding-to-a-consumer-stock-as-the-market-enters-oversold-territory.html"
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html"
+        },
+        {
+          "headline": "Jim Cramer says to buy stock in this sleeping tech giant 'aggressively, aggressively'",
+          "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/investingclub/2026/11/19/jim-cramer-says-to-buy-stock-in-this-sleeping-tech-giant-aggressively.html"
         },
         {
           "headline": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
           "summary": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
-        },
-        {
-          "headline": "AMD falls on short-seller report of alleged China exposure",
-          "summary": "AMD was slumping Wednesday after a short-seller alleged that its firmware showed up at blacklisted Chinese company",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
-        },
-        {
-          "headline": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
-          "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html"
         }
       ]
     },
@@ -847,34 +787,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "We'll only sell if offer makes club blink - McInnes",
-          "summary": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\".",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss"
+          "headline": "SJSCA announces Senior All-Star Game rosters for Nov. 24 event",
+          "summary": "The South Jersey Soccer Coaches Association will hold its annual Senior All-Star Games on Nov. 24 at Rutgers University-Camden.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/sjsca-announces-senior-star-game-174555330.html"
         },
         {
-          "headline": "These 2 Rookies Have Fantasy Value for Thursday Night Football",
-          "summary": "Dallas Cowboys cornerback DaRon Bland tackles Indianapolis Colts wide receiver Deion Burks | USA TODAY Network via Reuters Connect Week 11 of the fantasy football season kicks off with a Thursday Night Football matchup between the Houston Texans and Indianapolis Colts. The matchup presents a number of key fantasy contributors, including Jonathan Taylor,…",
+          "headline": "Houston Preview",
+          "summary": "LAS VEGAS, NEVADA - NOVEMBER 18: Chase McCarty #24 and Braden East #4 of the Houston Cougars react after their team defeated the Florida Gators in a Semifinal game of the Players Era 8 bracket of The 2026 Players Era Men’s Championship at Michelob ULTRA Arena on November 18, 2026 in Las Vegas, Nevada. The Cougars defeated the Gators 86-76.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/2-rookies-fantasy-value-thursday-170903982.html"
+          "url": "https://sports.yahoo.com/articles/houston-preview-174513186.html"
         },
         {
-          "headline": "Tyler Herro on getting booed by Heat crowd: 'It was fine, I expected it a little bit'",
-          "summary": "The Miami Heat welcomed guard Tyler Herro back to Kaseya Center with a tribute video. But the South Florida crowd and Heat center Bam Adebayo weren’t as welcoming in Herro’s first game in Miami since being traded to the Milwaukee Bucks as part of the Giannis Antetokounmpo deal in July.",
+          "headline": "NFL predictions: Our picks for Giants-Jaguars, the full Week 11 slate",
+          "summary": "The New York Giants face major test this week when they face the Jacksonville Jaguars. It is also a game that will provide a huge swing in the Giants’ expected chances to make the playoffs.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tyler-herro-getting-booed-heat-170859074.html"
+          "url": "https://sports.yahoo.com/articles/nfl-predictions-picks-giants-jaguars-161006920.html"
         },
         {
-          "headline": "Kawhi Leonard's knee injury a 'mystery': 'You could find five guys on any team that have what he has'",
-          "summary": "The plan was that Leonard would be the software upgrade that would unlock the peak of the Raptors' potential. Instead, he might be the patch that makes the system work at all.",
+          "headline": "Washington Commanders Winning NFC East Won’t Save Dan Quinn? Surprising Rumor Emerges",
+          "summary": "IMAGN IMAGES via Reuters Connect A new rumor suggests that even if Dan Quinn can guide the Washington Commanders to the NFC East title this season, he is still unlikely to hold on to his job as the team’s head coach. The Commanders got a big lifeline for their season last Thursday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/kawhi-leonards-knee-injury-mystery-170858973.html"
+          "url": "https://sports.yahoo.com/articles/washington-commanders-winning-nfc-east-174315520.html"
         },
         {
-          "headline": "Multiple league sources, speaking on the condition of …",
-          "summary": "Firing Griffin was understandable, but hiring Dumars without conducting any sort of comprehensive search was baffling. Multiple league sources, speaking on the condition of anonymity to discuss team strategy, have reached out to me wondering why Dumars’ son, Jordan, is so involved in the day-to-day decision-making with the Pelicans.",
+          "headline": "CFP committee needs to show its work after Alabama over UCLA ranking",
+          "summary": "(Photo by Sean M. Haffey/Getty Images) | Getty Images Alabama is 8-2.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/multiple-league-sources-speaking-condition-170852531.html"
+          "url": "https://sports.yahoo.com/articles/cfp-committee-needs-show-alabama-174303337.html"
         }
       ]
     },
@@ -883,34 +823,34 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Stephen Colbert Signs With UTA",
-          "summary": "The former ‘Late Show’ host and current ‘Lord of the Rings’ writer will be represented by the Beverly Hills-based talent agency.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/stephen-colbert-signs-uta-1236759011/"
+          "headline": "‘Jeopardy!’ Sets Inaugural Fan Convention in Washington, D.C.",
+          "summary": "What is Jeopardy!Con? America’s favorite quiz show is welcoming fans to Washington, D.C., for a three-day event celebrating all things “Jeopardy!” Taking place May 7 to 9, 2027, the convention will feature live programming, engaging panels, interactive quizzes and exclusive merchandise.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/jeopardy-fan-convention-washington-dc-1236953378/"
         },
         {
-          "headline": "‘Birthright,’ About Differing Attitudes on Israel, Set For Broadway",
-          "summary": "The play follows seven friends through 18 years, starting just after their Birthright trip to Israel.",
+          "headline": "Josh Server and Yasmine Sahid Join Tubi Horror-Comedy ‘Do You Like Me?’ — Film News in Brief",
+          "summary": "Tubi’s upcoming horror-comedy “Do You Like Me?” has cast Josh Server (“All That,” “The Neighborhood”), Yasmine Sahid (“Never Have I Ever Spent the Winter with the Romano Brothers”), Tyler Gaca and Alexander Huntley. Set to release in 2027, the film follows friends-with-benefits Owen (Gaca) and Sam (Huntley) whose camping trip takes a deadly turn when […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-16-2026-1236949296/"
+        },
+        {
+          "headline": "Jamie and Corinne Foxx Developing Horror Series ‘Buried’ as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)",
+          "summary": "Fox Entertainment Studios has extended its first-look agreement with Foxxhole Productions, the company led by Corinne Foxx and Jamie Foxx, to 2028. Jamie Foxx signed the first-look deal last year; terms of the extension specify that he will serve as an executive producer and content originator for scripted programming spanning comedy, drama and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/jamie-corinne-foxx-horror-series-buried-foxxhole-fox-deal-1236952466/"
+        },
+        {
+          "headline": "A Pop-Star Acting Newbie, the Afterlife and “Dirty Energy”: The Making of ‘La Bola Negra’",
+          "summary": "Directing duo Javier Ambrossi and Javier Calvo stretch a love story across the Spanish Civil War, three generations and.the great beyond.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/lifestyle/arts/birthright-israel-set-for-broadway-1236759359/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/making-of-la-bola-negra-directors-cast-love-story-1236757823/"
         },
         {
           "headline": "Queen Latifah, Bone Thugs-N-Harmony, MC Lyte and More to Lead 2027 Rock the Bells Cruise",
           "summary": "Rock and Roll Hall of Famer Queen Latifah, Bone Thugs-N-Harmony, MC Lyte, Rakim, Trina, Talib Kweli and more lead the lineup for the fifth annual Rock the Bells Cruise, launching October 27 in Miami, continuing to Harvest Caye, Belize, and finally Cozumel, Mexico, where it concludes on November 1. “Four sold-out sailings later, we’re raising […]",
           "source": "Variety",
           "url": "https://variety.com/2026/music/news/queen-latifah-2027-rock-the-bells-cruise-1236953159/"
-        },
-        {
-          "headline": "Imax Inks Largest Cinema Deal In U.K. For New Locations",
-          "summary": "The agreement for U.K. and European theater locations with Moshe “Mooky” Greidinger's Showcase Cinemas gets Imax back in business with the former Cineworld Group CEO.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/imax-showcase-cinemas-deal-1236759341/"
-        },
-        {
-          "headline": "‘Invincible’ Season 5 Sets Release Date, Drops Burger Mart Teaser Trailer",
-          "summary": "Prime Video has set the release date for Season 5 of “Invincible” alongside a teaser trailer featuring the series’ beloved fast food chain, Burger Mart. Premiering on the streamer Feb.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/invincible-season-5-release-date-teaser-1236952556/"
         }
       ]
     },
@@ -919,34 +859,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Stephen Colbert Signs With UTA",
-          "summary": "EXCLUSIVE: Multiple Emmy Award winner Stephen Colbert and his production company Spartina Industries have signed with United Talent Agency for representation across film, TV, publishing, and more. Colbert will continue to be managed by James ‘Baby Doll’ Dixon of DixonTalent, whom he has worked with for over 20 years.",
+          "headline": "‘Jeopardy!’ Sets Inaugural Fan Convention in Washington, D.C.",
+          "summary": "What is Jeopardy!Con? America’s favorite quiz show is welcoming fans to Washington, D.C., for a three-day event celebrating all things “Jeopardy!” Taking place May 7 to 9, 2027, the convention will feature live programming, engaging panels, interactive quizzes and exclusive merchandise.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/jeopardy-fan-convention-washington-dc-1236953378/"
+        },
+        {
+          "headline": "Indie Distribution Exec Kyle Greenberg Exiting Utopia To Launch New Consultancy, Greenhouse",
+          "summary": "EXCLUSIVE: Kyle Greenberg, longtime head of marketing and distribution at Utopia, is departing the company to launch a consulting startup called Greenhouse. His new venture plans to develop highly curated, hands-on release strategies for filmmakers, artists, labels and brands to support their own efforts in self-distribution, something an increasing…",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/stephen-colbert-uta-agency-1237228801/"
+          "url": "https://deadline.com/2026/11/kyle-greenberg-exiting-utopia-indie-film-distribution-1237228710/"
+        },
+        {
+          "headline": "Jamie and Corinne Foxx Developing Horror Series ‘Buried’ as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)",
+          "summary": "Fox Entertainment Studios has extended its first-look agreement with Foxxhole Productions, the company led by Corinne Foxx and Jamie Foxx, to 2028. Jamie Foxx signed the first-look deal last year; terms of the extension specify that he will serve as an executive producer and content originator for scripted programming spanning comedy, drama and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/jamie-corinne-foxx-horror-series-buried-foxxhole-fox-deal-1236952466/"
+        },
+        {
+          "headline": "TelevisaUnivision Ups Alyssa Bernstein To Head Of Corporate Communications",
+          "summary": "TelevisaUnivision has promoted Alyssa Bernstein to Head of Corporate Communications. She is taking on the top role in a restructuring that followed the exit of former Chief Communications Officer Oscar Suris last August.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/televisaunivision-alyssa-bernstein-head-of-corporate-communications-1237229060/"
         },
         {
           "headline": "Shudder Renews ‘The Boulet Brothers’ Dragula’ For Season 8, ‘Dragula: Titans’ For Season 3",
           "summary": "EXCLUSIVE: Hello Uglies! The Boulet Brothers are back for another round of glam nightmare fuel at Shudder, which has given the drag duo’s reality competition franchise a renewal.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/shudder-renews-boulet-brother-dragula-season-8-titans-3-1237228732/"
-        },
-        {
-          "headline": "‘Aurora’ Short Film Team Angad Aulakh And Guy Kent On Tapping Into The Emotional Weight Of Self & Outer Space",
-          "summary": "Angad Aulakh’s lifelong fascination with space inspired Aurora, a sci-fi short about an astronaut left stranded after a mission goes catastrophically wrong. Freddie Ballard (Guy Kent) is sent to investigate a mysterious signal, but an accident makes him the sole survivor, with no way home and growing doubts about what his superiors have told him.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/aurora-short-film-interview-guy-kent-angad-aulakh-1237228367/"
-        },
-        {
-          "headline": "‘The Traitors: New Blood’ Renewed For Season 2 At NBC",
-          "summary": "Ahead of its season one finale, NBC is staying faithful to The Traitors: New Blood after renewing it for a second season. The renewal comes ahead of the two-part finale, which airs tonight (Thursday, November 19) on NBC.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-traitors-new-blood-renewed-season-2-nbc-1237229085/"
-        },
-        {
-          "headline": "‘The Watcher’: Luke David Blumm Returns, Veronica Dunne Among Quartet Joining Season 2 Cast",
-          "summary": "EXCLUSIVE: The prodigal son returns. Luke David Blumm, who was part of The Watcher‘s Season 1 main cast, will be back for Season 2, reprising his role as Carter Brannock.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-watcher-luke-david-blumm-returns-veronica-dunne-cast-1237228825/"
         }
       ]
     },
@@ -955,34 +895,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Stephen Colbert Signs With UTA",
-          "summary": "EXCLUSIVE: Multiple Emmy Award winner Stephen Colbert and his production company Spartina Industries have signed with United Talent Agency for representation across film, TV, publishing, and more. Colbert will continue to be managed by James ‘Baby Doll’ Dixon of DixonTalent, whom he has worked with for over 20 years.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/stephen-colbert-uta-agency-1237228801/"
+          "headline": "‘Jeopardy!’ Sets Inaugural Fan Convention in Washington, D.C.",
+          "summary": "What is Jeopardy!Con? America’s favorite quiz show is welcoming fans to Washington, D.C., for a three-day event celebrating all things “Jeopardy!” Taking place May 7 to 9, 2027, the convention will feature live programming, engaging panels, interactive quizzes and exclusive merchandise.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/jeopardy-fan-convention-washington-dc-1236953378/"
         },
         {
-          "headline": "Shudder Renews ‘The Boulet Brothers’ Dragula’ For Season 8, ‘Dragula: Titans’ For Season 3",
-          "summary": "EXCLUSIVE: Hello Uglies! The Boulet Brothers are back for another round of glam nightmare fuel at Shudder, which has given the drag duo’s reality competition franchise a renewal.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/shudder-renews-boulet-brother-dragula-season-8-titans-3-1237228732/"
+          "headline": "Josh Server and Yasmine Sahid Join Tubi Horror-Comedy ‘Do You Like Me?’ — Film News in Brief",
+          "summary": "Tubi’s upcoming horror-comedy “Do You Like Me?” has cast Josh Server (“All That,” “The Neighborhood”), Yasmine Sahid (“Never Have I Ever Spent the Winter with the Romano Brothers”), Tyler Gaca and Alexander Huntley. Set to release in 2027, the film follows friends-with-benefits Owen (Gaca) and Sam (Huntley) whose camping trip takes a deadly turn when […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-16-2026-1236949296/"
         },
         {
-          "headline": "‘Aurora’ Short Film Team Angad Aulakh And Guy Kent On Tapping Into The Emotional Weight Of Self & Outer Space",
-          "summary": "Angad Aulakh’s lifelong fascination with space inspired Aurora, a sci-fi short about an astronaut left stranded after a mission goes catastrophically wrong. Freddie Ballard (Guy Kent) is sent to investigate a mysterious signal, but an accident makes him the sole survivor, with no way home and growing doubts about what his superiors have told him.",
+          "headline": "Indie Distribution Exec Kyle Greenberg Exiting Utopia To Launch New Consultancy, Greenhouse",
+          "summary": "EXCLUSIVE: Kyle Greenberg, longtime head of marketing and distribution at Utopia, is departing the company to launch a consulting startup called Greenhouse. His new venture plans to develop highly curated, hands-on release strategies for filmmakers, artists, labels and brands to support their own efforts in self-distribution, something an increasing…",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/aurora-short-film-interview-guy-kent-angad-aulakh-1237228367/"
+          "url": "https://deadline.com/2026/11/kyle-greenberg-exiting-utopia-indie-film-distribution-1237228710/"
         },
         {
-          "headline": "‘The Traitors: New Blood’ Renewed For Season 2 At NBC",
-          "summary": "Ahead of its season one finale, NBC is staying faithful to The Traitors: New Blood after renewing it for a second season. The renewal comes ahead of the two-part finale, which airs tonight (Thursday, November 19) on NBC.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-traitors-new-blood-renewed-season-2-nbc-1237229085/"
+          "headline": "Jamie and Corinne Foxx Developing Horror Series ‘Buried’ as Foxxhole Productions Extends First-Look Deal at Fox Entertainment Studios (EXCLUSIVE)",
+          "summary": "Fox Entertainment Studios has extended its first-look agreement with Foxxhole Productions, the company led by Corinne Foxx and Jamie Foxx, to 2028. Jamie Foxx signed the first-look deal last year; terms of the extension specify that he will serve as an executive producer and content originator for scripted programming spanning comedy, drama and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/jamie-corinne-foxx-horror-series-buried-foxxhole-fox-deal-1236952466/"
         },
         {
-          "headline": "‘The Watcher’: Luke David Blumm Returns, Veronica Dunne Among Quartet Joining Season 2 Cast",
-          "summary": "EXCLUSIVE: The prodigal son returns. Luke David Blumm, who was part of The Watcher‘s Season 1 main cast, will be back for Season 2, reprising his role as Carter Brannock.",
+          "headline": "TelevisaUnivision Ups Alyssa Bernstein To Head Of Corporate Communications",
+          "summary": "TelevisaUnivision has promoted Alyssa Bernstein to Head of Corporate Communications. She is taking on the top role in a restructuring that followed the exit of former Chief Communications Officer Oscar Suris last August.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-watcher-luke-david-blumm-returns-veronica-dunne-cast-1237228825/"
+          "url": "https://deadline.com/2026/11/televisaunivision-alyssa-bernstein-head-of-corporate-communications-1237229060/"
         }
       ]
     },
@@ -990,6 +930,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Billboard’s Music Industry Events Calendar",
+          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
+        },
+        {
+          "headline": "Here Are All the Surprise Star Cameos in Taylor Swift’s 2026 CMA Awards Performance",
+          "summary": "Man, it’s been awhile – 13 years to be exact – since Taylor Swift last performed at the CMA Awards, but when she returned to take the stage at the Bridgestone Arena in Nashville on Wednesday (Nov. 18), she did it in style and made sure it sparkled not only thanks to her sequined outfit, but with literal stars – country music stars, that is.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/taylor-swift-2026-cma-awards-performance-country-star-cameos-1236385677/"
+        },
         {
           "headline": "Phoebe Bridgers Covers Adrianne Lenker’s “Anything” for the Holidays",
           "summary": "Proceeds from the track will benefit Palestine Children’s Relief Fund",
@@ -1007,21 +959,9 @@
           "summary": "Busta Rhymes takes us through his Billboard Chart History , from the “Woo Hah!! Got You All in Check” breakthrough to hitmaking moments such as “I Know What You Want” and “Touch It.” Busta breaks down how a Sugarhill Gang lyric sparked the “Woo Hah!!” hook, why he sat on the record for months and how his album visuals helped define the iconic Hype…",
           "source": "Billboard",
           "url": "https://www.billboard.com/video/busta-rhymes-billboard-chart-history/"
-        },
-        {
-          "headline": "Erykah Badu Engineers 2026 Soul Train Cypher Featuring Rapsody & More",
-          "summary": "Erykah Badu, Rapsody, CeeLo Green, Dave Hollister and Avery Wilson are the featured performers cast in the 2026 Badu Cypher — this year’s edition of the generational showcase that’s a staple of the Soul Train Awards. Making its return after a two-year hiatus , the upcoming celebration will air Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/erykah-badu-2026-soul-train-cypher-rapsody-lineup-1236385535/"
-        },
-        {
-          "headline": "Warner Music Group Yearly Revenue Rises 9% on Streaming, Digital Growth",
-          "summary": "Warner Music Group said on Thursday (Nov. 19) revenue for its full fiscal year rose by nearly 9% to $7.4 billion, driven by double-digit growth in digital and streaming revenue.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/warner-q4-fiscal-year-earnings-2026/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T12:20:36-05:00"
+  "updatedAt": "2026-11-19T12:49:31-05:00"
 }
