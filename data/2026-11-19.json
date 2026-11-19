@@ -12,12 +12,6 @@
           "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
         },
         {
-          "headline": "Apple is hiring engineers to build its own AI agent",
-          "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-        },
-        {
           "headline": "A brief history of Nvidia’s recent stock fluctuations",
           "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
           "source": "The Verge",
@@ -34,6 +28,12 @@
           "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
           "source": "Wired",
           "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
+        },
+        {
+          "headline": "These tech outages are giving Y2K, AI agent style",
+          "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "South Florida severe weather and flooding live updates",
-          "summary": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
+          "headline": "AI fueling \"disturbingly high\" inflation, Chicago Fed president says",
+          "summary": "A boom in data center construction across the U.S. and broader investment in AI are contributing to hot inflation, according to Chicago Fed President Austan Goolsbee.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
+          "url": "https://www.cbsnews.com/news/ai-boom-inflation-chicago-fed-goolsbee/"
         },
         {
-          "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
-          "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
+          "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
+          "headline": "Rahm Emanuel says Trump \"confuses friend with foe\" amid meeting with Xi, Putin",
+          "summary": "Rahm Emanuel, who served as President Obama's chief of staff and was mayor of Chicago for two terms, sits down with Major Garrett to discuss President Trump's summit with Xi Jinping and Vladimir Putin.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+          "url": "https://www.cbsnews.com/video/rahm-emanuel-says-trump-confuses-friend-with-foe/"
         },
         {
-          "headline": "At China summit, Trump calls Putin 'my friend' amid Ukraine war",
-          "summary": "The West has been trying to isolate the Russian leader for years.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/china-summit-trump-calls-putin-friend-amid-ukraine/story?id=138282642"
+          "headline": "White House national cyber director leaving his post, official says",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
         },
         {
-          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+          "headline": "Takeaways from Anthropic's record IPO",
+          "summary": "Claude maker Anthropic went public on Thursday with the largest IPO in American history. CBS News' Jo Ling Kent has more.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+          "url": "https://www.cbsnews.com/video/anthropic-record-ipo-takeaways/"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123560963513180364",
+          "created_at": "2026-11-19T23:36:02.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Several Department of Agriculture applications have been taken offline over multiple days following a cybersecurity incident disclosed internally earlier this week, according to sources and emails reviewed by Nextgov/FCW and Government Executive. https://t.co/wRTHk7B25s",
+          "url": "https://x.com/Osint613/status/2123560963513180364",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123559484534759694",
+          "created_at": "2026-11-19T23:30:09.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "The underlying order\nThe underlying structure\nThe underlying signal\n\nIs already inside your cognition.\n\nYour job is to strip distortion until you can perceive it. ⚡️",
+          "url": "https://x.com/_The_Prophet__/status/2123559484534759694",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123558213215977545",
+          "created_at": "2026-11-19T23:25:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "President Trump says the US spies on China, China spies on the US, and he won't ask Xi to stop\n\n\"We spy on them too. I think we spy better than they do\"\n\n\"I can't tell you what we do, but let's put it this way. I know everything\"\n\n\"You're not going to ask them to stop doing that. https://t.co/9wuDG5mR1p",
+          "url": "https://x.com/_Investinq/status/2123558213215977545",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123556764788588809",
+          "created_at": "2026-11-19T23:19:21.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Why do all of you Jew hating Tucker sycophants and Tucker employees accuse everyone who exposes you of being “mentally ill”? \n\nI save the tweets because it’s important for the public to see we aren’t making it up when we say people like you in the Woke Reich ecosystem hate Jews https://t.co/q454cRE9U2",
+          "url": "https://x.com/LauraLoomer/status/2123556764788588809",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123556312290337250",
+          "created_at": "2026-11-19T23:17:33.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Stephen A. Smith asked whether black NBA players are really going to let white guys lead the Lakers to a championship. Reverse the races and whoever said it would immediately get fired. We can't have different standards for speech based on race. Somebody should have pushed back. https://t.co/PwdyPoPQFe",
+          "url": "https://x.com/ClayTravis/status/2123556312290337250",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123555891983343973",
           "created_at": "2026-11-19T23:15:53.000Z",
@@ -95,16 +145,6 @@
           "author_handle": "RealAmVoice",
           "text": "14 CHARGED IN $22.5 MILLION TRAIN CARGO THEFT RING\n\nTwenty-one-year-old Nathan Daniel Angel of East Los Angeles and 13 co-defendants have been federally charged in an alleged $22.5 million cargo theft conspiracy targeting at least 36 freight trains across Southern California.",
           "url": "https://x.com/RealAmVoice/status/2123555671111012721",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123552528256110700",
-          "created_at": "2026-11-19T23:02:31.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "GOP TIMIDITY DESTROYS MAJORITY, TEXAS SLIDES TOWARD CALIFORNIA | JUST THE NEWS https://t.co/3PhYvyqOnV",
-          "url": "https://x.com/RealAmVoice/status/2123552528256110700",
           "verified": true,
           "verified_type": "business"
         },
@@ -229,16 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123543331065974862",
-          "created_at": "2026-11-19T22:25:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Zelensky: “We need $45 + $70 billion for next year, so $115 billion.”",
-          "url": "https://x.com/Osint613/status/2123543331065974862",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123543087527993743",
           "created_at": "2026-11-19T22:25:00.000Z",
           "author_name": "The Kobeissi Letter",
@@ -279,6 +309,16 @@
           "verified_type": "blue"
         },
         {
+          "id": "2123540572598071641",
+          "created_at": "2026-11-19T22:15:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ONE YEAR LATER — MARK KELLY STILL CAN’T NAME A SINGLE “ILLEGAL ORDER”\n\nA reporter pressed Sen. Mark Kelly for one specific example of an illegal order President Trump supposedly gave the military.\n\n“Is there a specific illegal order that the President gave?”\n\nKelly’s response?",
+          "url": "https://x.com/RealAmVoice/status/2123540572598071641",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2123539402567675914",
           "created_at": "2026-11-19T22:10:21.000Z",
           "author_name": "Laura Loomer",
@@ -305,16 +345,6 @@
           "author_handle": "ClayTravis",
           "text": "The Clay Travis Special is live in the @HardRockBet app. I've got Tennessee to win and the Under for Saturdays game. If I'm right, you win. If I'm wrong, you get up to $1,500 back in bonus bets. Pretty good deal. https://t.co/6TEbfjBhUA",
           "url": "https://x.com/ClayTravis/status/2123537639479328855",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123537371249467565",
-          "created_at": "2026-11-19T22:02:17.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "I’m not apologizing to anyone. \n\nIn fact, let me be the first to say there isn’t a line too far for me to cross. \n\nI’ll do whatever it takes to make a point. \n\nI don’t care about optics. Let that be known to anyone who thinks about fucking with me. https://t.co/ryRfHIwkn7",
-          "url": "https://x.com/LauraLoomer/status/2123537371249467565",
           "verified": true,
           "verified_type": "blue"
         },
@@ -399,16 +429,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123522201341342111",
-          "created_at": "2026-11-19T21:02:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Yes, great take. You nailed it. The KKK was well known for its outspoken support of black men being able to share their opinions. https://t.co/2gRqpFOgf8",
-          "url": "https://x.com/ClayTravis/status/2123522201341342111",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123521882276454849",
           "created_at": "2026-11-19T21:00:44.000Z",
           "author_name": "Glenn Beck",
@@ -489,16 +509,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123485871215378867",
-          "created_at": "2026-11-19T18:37:38.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "The Nasdaq has erased a 2% gain and is now down 1.1% on the day of the biggest IPO in history\n\nThe S&amp;P 500 swung 222 points from its high of 7,415.64 at the open to a low of 7,193.83, and is now down 1.0%\n\nThe Dow fell as much as 1,106 points from Wednesday's close, the VIX https://t.co/G8RxMjzXwu",
-          "url": "https://x.com/_Investinq/status/2123485871215378867",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123476284043047083",
           "created_at": "2026-11-19T17:59:33.000Z",
           "author_name": "SightBringer",
@@ -525,16 +535,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Bummer. https://t.co/laW7h91Pe2",
           "url": "https://x.com/_The_Prophet__/status/2123475033842675812",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123474444291387513",
-          "created_at": "2026-11-19T17:52:14.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️This is exactly the cohort that gets crushed first if people misunderstand what “50% of tasks automated” actually means.\n\nThe 48-year-old accountant is not automatically unemployed in 2029.\n\nBut the labor market around him changes violently.\n\nA department that once needed 20 https://t.co/q096NvPYUi",
-          "url": "https://x.com/_The_Prophet__/status/2123474444291387513",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,6 +755,18 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "White House national cyber director leaving his post, official says",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+        },
+        {
+          "headline": "Judge says agriculture secretary's religious emails were unconstitutional",
+          "summary": "A federal judge has ruled that U.S. Agriculture Secretary Brooke Rollins' religious emails to 100,000 employees were unconstitutional",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/judge-agriculture-secretarys-religious-emails-unconstitutional-138305215"
+        },
+        {
           "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
           "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
           "source": "CBS News",
@@ -771,18 +783,6 @@
           "summary": "Michael LoSapio, President Donald Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, says he doesn't consider the Jan_ 6 Capitol insurrection an \"attack.\"",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268"
-        },
-        {
-          "headline": "Iran war powers measure again falls short in Senate",
-          "summary": "The Senate rejected a resolution aimed at reining in President Trump's ability to strike Iran, despite GOP frustration with the war following the party's losses in the midterm elections.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iran-war-powers-vote-senate-republicans/"
-        },
-        {
-          "headline": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-          "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
         }
       ]
     },
@@ -791,16 +791,22 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+          "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+        },
+        {
           "headline": "Anthropic was supposed to save the AI trade. What went wrong?",
           "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html"
         },
         {
-          "headline": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-          "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+          "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
+          "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
         },
         {
           "headline": "Consumers stock doomsday pantries as tech outages cause jitters",
@@ -813,12 +819,6 @@
           "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html"
-        },
-        {
-          "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-          "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         }
       ]
     },
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Kentucky pulls out of recruitment for C.J. Rosser",
-          "summary": "Mark Pope has worked hard to land two elite recruits in the 2027 class for Kentucky basketball . Ryan Hampton and Cherif Millogo are both major talents, and two of his best commitments ever.",
+          "headline": "'Hungry' Detroit Clutch players hit ice as PWHL team opens first camp",
+          "summary": "DETROIT — Little Caesars Arena gets plenty of use this time of year. Between the Red Wings losing to the Boston Bruins on Wednesday, Nov.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/kentucky-pulls-recruitment-c-j-230839438.html"
+          "url": "https://sports.yahoo.com/articles/hungry-detroit-clutch-players-hit-233653628.html"
         },
         {
-          "headline": "Bucs injury report: Mayfield returns, Winfield still sidelined",
-          "summary": "The Tampa Bay Buccaneers received encouraging news Thursday as quarterback Baker Mayfield returned to practice ahead of Sunday's matchup against the Detroit Lions . Mayfield was limited after sitting out Wednesday, while safety Antoine Winfield Jr.",
+          "headline": "Cowboys insider sets record straight on Quinnen Williams incident that got blown out of proportion",
+          "summary": "Eric Hartline-Imagn Images Cowboys insider sets record straight on Quinnen Williams incident that got blown out of proportion appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bucs-injury-report-mayfield-returns-230530700.html"
+          "url": "https://sports.yahoo.com/articles/cowboys-insider-sets-record-straight-233604365.html"
         },
         {
-          "headline": "LSU president says he's told Will Wade not to play RJ Luis amid fight with SEC",
-          "summary": "The LSU career of RJ Luis is on hold. For now, anyway.",
+          "headline": "Why Spurs' trade of Dejounte Murray keeps looking better",
+          "summary": "New Orleans Pelicans guard Dejounte Murray (5) stands during the first half of an NBA basketball game in New Orleans, La., Wednesday, Oct. 28, 2026.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/lsu-president-says-hes-told-will-wade-not-to-play-rj-luis-amid-fight-with-sec-230527386.html"
+          "url": "https://sports.yahoo.com/articles/why-spurs-trade-dejounte-murray-233519211.html"
         },
         {
-          "headline": "Hornets guard Sion James talks NBA journey after five years in college",
-          "summary": "Charlotte Hornets swingman Sion James is set to have his jersey retired Thursday night in Georgia at Lanier High School, ahead of Charlotte's matchup Friday against the Hawks. James, who was a three-star prospect coming out of high school, had an unusual path to the NBA.",
+          "headline": "The Untold Story of How the Lakers Landed Kobe Bryant",
+          "summary": "Support Local Media - Click to Add LA Sports Report as a Preferred Source on Google Kobe Bryant put together a Hall of Fame career during his 20-year career with the Los Angeles Lakers, but for 15 days after he got drafted, his rights sat with another team. The Charlotte Hornets drafted Bryant with the 13th pick in the 1996 Draft, 11 picks before the…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/hornets-guard-sion-james-talks-230511009.html"
+          "url": "https://sports.yahoo.com/articles/untold-story-lakers-landed-kobe-233414781.html"
         },
         {
-          "headline": "Cardinals find troubling injury report surprise ahead of Chiefs game",
-          "summary": "The Arizona Cardinals have added quarterback Carson Beck to the injury report, a potentially concerning development ahead of their Week 11 trip to face the Kansas City Chiefs. Beck was officially listed as limited for practice on Thursday, Nov.",
+          "headline": "2. Bundesliga Preview: Arminia Bielefeld vs. 1. FC Magdeburg",
+          "summary": "Arminia Bielefeld host Magdeburg in the opening day of matchday 12 in 2. Bundesliga.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/cardinals-troubling-injury-report-surprise-230445600.html"
+          "url": "https://sports.yahoo.com/articles/2-bundesliga-preview-arminia-bielefeld-233200672.html"
         }
       ]
     },
@@ -899,6 +899,24 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Abbott Elementary’s Janelle James Says She “Bullied” Her Way To ‘GTA 6’: “I Pursued, Conceptualized, Pitched, Scripted & Voice Acted”",
+          "summary": "Janelle James is a Grand Theft Auto fan celebrating being part of GTA VI as users worldwide get their hands on the long-awaited game. In a new social media post, the Abbott Elementary star explained how she got involved in the game.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/abbott-elementary-janelle-james-gta-vi-1237229560/"
+        },
+        {
+          "headline": "‘Hunger Games: Sunrise on the Reaping’ Cast Guide: All the Tributes, Mentors and Younger Versions of Characters in Prequel",
+          "summary": "Before Katniss Everdeen ever volunteered as tribute for the Hunger Games, another District 12 victor made his way out of the arena, but with much fewer odds in his favor. “The Hunger Games: Sunrise on the Reaping” is set 24 years before the first “Hunger Games” film (and 40 years after “The Ballad of Songbird […]",
+          "source": "Variety",
+          "url": "https://variety.com/lists/hunger-games-sunrise-on-the-reaping-cast-tributes-mentors/"
+        },
+        {
+          "headline": "Trump administration urges judge to lift order blocking Kennedy Center's closure",
+          "summary": "President Donald Trump’s administration has urged a federal judge to lift a court order blocking its plans to close the Kennedy Center for two years of renovation work on the cultural and arts venue",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/trump-administration-urges-judge-lift-order-blocking-kennedy-138303376"
+        },
+        {
           "headline": "Edward Burns Lines Up Awards Push For Black-And-White Indie Movie ‘Beneath The Blue Suburban Skies’ & Star Jennifer Ehle Seven Years After It Debuted At Toronto",
           "summary": "EXCLUSIVE: Edward Burns’ micro-budget black-and-white family drama Beneath the Blue Suburban Skies debuted at the Toronto Film Festival in 2019. Seven years later, the film is finally getting a release with a one-week awards-qualifying theatrical run in New York from December 25, ahead of a rollout in major cities in January.",
           "source": "Deadline",
@@ -909,24 +927,6 @@
           "summary": "A federal judge said that he will issue a ruling “as soon as I can” as to whether the Kennedy Center can proceed with its plan to close the arts complex for two years for renovations, amid fears that President Donald Trump ultimately will move to demolish the 55-year-old arts complex. U.S.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/kennedy-center-closure-judge-injunction-trump-1237229582/"
-        },
-        {
-          "headline": "‘Madden’: Why Christian Bale Ranks Raiders Owner Al Davis as One of His Favorite Characters and the Jewelry He Took Home From Set",
-          "summary": "Christian Bale says portraying Oakland Raiders owner Al Davis in “Madden” is one of his favorite roles from his four-decade career. That’s extremely high praise considering Bale’s resume is longer than a CVS receipt, and includes winning an Oscar (for “The Fighter”) and playing Batman three times.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/events/christian-bale-al-davis-madden-nicolas-cage-heat-2-1236953563/"
-        },
-        {
-          "headline": "‘From’ Lures Over 5 Billion Minutes Viewed In 3 Weeks After MGM+ Series Lands On Netflix",
-          "summary": "Netflix is bringing a massive audience to yet another series that originated on a smaller streamer. MGM+ sci-fi horror series From raked in 1.69 billion minutes viewed from November 2 to 8, easily putting it atop Nielsen’s streaming charts for the week.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607/"
-        },
-        {
-          "headline": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show",
-          "summary": "As Netflix’s The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers. Criticizing the “blasphemous anti-Christian series” from creator Quinn Shephard ahead of its release last week, the CitizenGo petition has accumulated more than 126K signatures calling on Netflix to “stop defiling […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/"
         }
       ]
     },
@@ -934,6 +934,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "‘Abbott Elementary’s Janelle James Says She “Bullied” Her Way To ‘GTA 6’: “I Pursued, Conceptualized, Pitched, Scripted & Voice Acted”",
+          "summary": "Janelle James is a Grand Theft Auto fan celebrating being part of GTA VI as users worldwide get their hands on the long-awaited game. In a new social media post, the Abbott Elementary star explained how she got involved in the game.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/abbott-elementary-janelle-james-gta-vi-1237229560/"
+        },
         {
           "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
           "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
@@ -957,12 +963,6 @@
           "summary": "Netflix is bringing a massive audience to yet another series that originated on a smaller streamer. MGM+ sci-fi horror series From raked in 1.69 billion minutes viewed from November 2 to 8, easily putting it atop Nielsen’s streaming charts for the week.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/from-mgm-series-netflix-streaming-viewership-1237229607/"
-        },
-        {
-          "headline": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show",
-          "summary": "As Netflix’s The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers. Criticizing the “blasphemous anti-Christian series” from creator Quinn Shephard ahead of its release last week, the CitizenGo petition has accumulated more than 126K signatures calling on Netflix to “stop defiling […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19T18:19:11-05:00"
+  "updatedAt": "2026-11-19T18:42:43-05:00"
 }
