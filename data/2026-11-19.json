@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+          "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/"
+        },
+        {
           "headline": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout",
           "summary": "Chinese tech firms are facing challenges as the U.S. tightens restrictions on access to advanced chips",
           "source": "ABC News",
@@ -28,12 +34,6 @@
           "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps.",
           "source": "The Verge",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
-        },
-        {
-          "headline": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-          "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America , which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "JPMorganChase reports cyberattack on third-party service providers",
-          "summary": "JPMorganChase said on Thursday morning that third parties who provide services to the banking giant were the target of a cyberattack.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/jpmorgan-chase-reports-cyberattack-party-service-providers/story?id=138287705"
-        },
-        {
-          "headline": "Why fibbing about stolen snacks is an important part of childhood",
-          "summary": "Research shows fibs and tricks can start \"surprisingly young\" and that these skills are practised.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
-        },
-        {
           "headline": "Men guilty of abusing woman drugged and advertised for sex by husband",
           "summary": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
-          "summary": "Dario Amodei and the company's other six co-founders instantly joined the ranks of America's richest citizens with the AI giant's initial public offering.",
+          "headline": "Why fibbing about stolen snacks is an important part of childhood",
+          "summary": "Research shows lies and deception can start \"surprisingly young\" and are not always a bad thing.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "DOJ taps prosecutor for probes into Mar-a-Lago raid, docs case",
+          "summary": "The Justice Department has tapped the top federal prosecutor in Los Angeles to work on probes into the FBI's raid on Mar-a-Lago and the Trump documents case.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/"
+          "url": "https://www.cbsnews.com/news/bill-essayli-justice-department-mar-a-lago-trump-documents-case/"
+        },
+        {
+          "headline": "Dutch watchdog tells people not to buy AI smart glasses",
+          "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "This streamer already played GTA 6 for over 100 hours. Here's what he thinks.",
+          "summary": "The latest installment of the Grand Theft Auto series has arrived after a 13-year wait. \"Kinda Funny Games\" host Mike Howard shares his experience with the game.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/this-streamer-already-played-gta-6-over-100-hours-heres-what-he-thinks/"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123456600174219499",
+          "created_at": "2026-11-19T16:41:20.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Anthropic, $ANT, is now indicated to open at a $2 trillion market cap, up +33% from its IPO price.\n\nThis would mark a +57% increase from the bottom end of its initial IPO pricing range announced earlier this week.\n\nTotal demand for this IPO hit a massive $500 billion.",
+          "url": "https://x.com/KobeissiLetter/status/2123456600174219499",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123456530309578804",
+          "created_at": "2026-11-19T16:41:03.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Stephen A. Smith and Jay Williams got into a heated public back-and-forth after Smith challenged the NBA’s “brothers” to stop a Lakers team led by Luka Dončić, Austin Reaves and Walker Kessler.\n\nWilliams called out the racial double standard, and Smith continued to doubled down.",
+          "url": "https://x.com/SportNState/status/2123456530309578804",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123454759118024840",
+          "created_at": "2026-11-19T16:34:01.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The average Anthropic, $ANT, employee will be worth $44 million after today's IPO, based on current indicated share price:\n\n1. 7 Co-Founders: ~$20+ billion each\n2. Several early employees: $1+ billion each\n3. 598 employees: $100+ million each\n4. 2,800 employees: $1+",
+          "url": "https://x.com/KobeissiLetter/status/2123454759118024840",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123453654162174236",
+          "created_at": "2026-11-19T16:29:37.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Japan’s Prime Minister Sanae Takaichi:\n\nJapan's strengthening of its defense capabilities is solely necessary to protect the lives and peaceful livelihoods of the Japanese people.",
+          "url": "https://x.com/Osint613/status/2123453654162174236",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123453125520498975",
+          "created_at": "2026-11-19T16:27:31.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump to NBC News:\n\nI would not make any final decisions regarding the war in Ukraine without Zelensky.",
+          "url": "https://x.com/Osint613/status/2123453125520498975",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123452623089017103",
+          "created_at": "2026-11-19T16:25:31.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Anthropic, $ANT, is now indicated to open at $110/share, up +32.5% from its IPO price of $83/share.\n\nThis implies a market cap of $1.44 trillion at the open.\n\nShares are set to begin trading shortly.",
+          "url": "https://x.com/KobeissiLetter/status/2123452623089017103",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123449637227151456",
           "created_at": "2026-11-19T16:13:39.000Z",
@@ -94,7 +154,7 @@
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
           "text": "Trump: Putin said he's angry about the bridge attack",
-          "url": "https://x.com/i/status/2123449437460799871",
+          "url": "https://x.com/Osint613/status/2123449437460799871",
           "verified": true,
           "verified_type": "blue"
         },
@@ -104,7 +164,7 @@
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
           "text": "Houthis are a danger to regional and world security, per the Saudi Foreign Ministry.",
-          "url": "https://x.com/i/status/2123449110351024466",
+          "url": "https://x.com/Osint613/status/2123449110351024466",
           "verified": true,
           "verified_type": "blue"
         },
@@ -114,17 +174,7 @@
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
           "text": "Massive explosions just heard in northern Israel - unknown cause",
-          "url": "https://x.com/i/status/2123449029002461510",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123448615935021281",
-          "created_at": "2026-11-19T16:09:36.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Several floors of Riyadh's PIF Tower damaged in a Houthi attack earlier today. Surrounding buildings also hit. No injuries.\n\nSaudi Civil Defense https://t.co/enKhVbq0tm https://t.co/ZAX3pHv6BQ",
-          "url": "https://x.com/i/status/2123448615935021281",
+          "url": "https://x.com/Osint613/status/2123449029002461510",
           "verified": true,
           "verified_type": "blue"
         },
@@ -144,7 +194,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Looking at the beer in my fridge ahead of this garbage Thursday Night Football game https://t.co/lZSerM6tp2",
-          "url": "https://x.com/i/status/2123446538060136561",
+          "url": "https://x.com/Outkick/status/2123446538060136561",
           "verified": true,
           "verified_type": "business"
         },
@@ -174,7 +224,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "ufos and hulk\n\nwas gta always a sci fi fantasy game? https://t.co/eM79cCfqEd",
-          "url": "https://x.com/i/status/2123445502910083111",
+          "url": "https://x.com/Timcast/status/2123445502910083111",
           "verified": true,
           "verified_type": "blue"
         },
@@ -184,7 +234,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: AMD stock, $AMD, crashes -13% in 30 minutes after Hunterbrook Media accuses the company of illegally selling chips to China.\n\nHunterbrook Capital also disclosed a short position in AMD. https://t.co/CjuiWrZcFZ",
-          "url": "https://x.com/i/status/2123444634257109287",
+          "url": "https://x.com/KobeissiLetter/status/2123444634257109287",
           "verified": true,
           "verified_type": "business"
         },
@@ -197,16 +247,6 @@
           "url": "https://x.com/RealAmVoice/status/2123442556499272084",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123442333836349489",
-          "created_at": "2026-11-19T15:44:38.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "A man identified by the initials A.H. was previously arrested at Beirut airport carrying $2.5 million, money an Iranian had handed him before his detention, according to sources speaking to Al-Hadath about a Hezbollah cell in northern Lebanon. Documents seized from the cell",
-          "url": "https://x.com/i/status/2123442333836349489",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123441197184369094",
@@ -224,7 +264,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Art imitates life https://t.co/xP1NeZYC25",
-          "url": "https://x.com/i/status/2123441138694570317",
+          "url": "https://x.com/Outkick/status/2123441138694570317",
           "verified": true,
           "verified_type": "business"
         },
@@ -234,7 +274,7 @@
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: The S&amp;P 500 erases gains and turns negative on the day as markets anticipate the Anthropic, $ANT, which is set to debut shortly. https://t.co/uze7GvSf34",
-          "url": "https://x.com/i/status/2123438412279808302",
+          "url": "https://x.com/KobeissiLetter/status/2123438412279808302",
           "verified": true,
           "verified_type": "business"
         },
@@ -309,16 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123426312937210221",
-          "created_at": "2026-11-19T14:40:59.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Nasdaq 100 extends gains to +2% on the day as Nvidia, $NVDA, rises over +4% and traders await the Anthropic IPO. https://t.co/V0kAAbLkLt",
-          "url": "https://x.com/i/status/2123426312937210221",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123424049242198315",
           "created_at": "2026-11-19T14:31:59.000Z",
           "author_name": "Clay Travis",
@@ -349,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123422721103245313",
-          "created_at": "2026-11-19T14:26:42.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Markets now see just a 29% chance that Anthropic, $ANT, closes above $1.5 trillion in market cap today.\n\n6 weeks ago, there was a 75% chance of $ANT closing above $2 trillion today.\n\nWe expect trading to begin within the next 3 hours. https://t.co/MolSMK8SwR",
-          "url": "https://x.com/i/status/2123422721103245313",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123422458606936211",
           "created_at": "2026-11-19T14:25:40.000Z",
           "author_name": "Laura Loomer",
@@ -374,7 +394,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "What are the top 10 most-watched college football teams in 2026?\n\nHere’s a hint: 7 are in the SEC.\n\nNo. 3 Alabama\nNo. 7 Ole Miss\nNo. 9 Michigan\n\n✍️: @markjburns88\nhttps://t.co/uXCGb6jt8J",
-          "url": "https://x.com/i/status/2123421651144458487",
+          "url": "https://x.com/SportNState/status/2123421651144458487",
           "verified": true,
           "verified_type": "blue"
         },
@@ -394,17 +414,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Trevor Lawrence's football IQ? High.\n\nHis Waffle House order? Also elite. https://t.co/4OtlkD1pde",
-          "url": "https://x.com/i/status/2123419333170811101",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123417510452351156",
-          "created_at": "2026-11-19T14:06:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Strategic Petroleum Reserve (SPR) fell -3.2 million barrels last week, to 276.4 million barrels, its lowest level since August 1982.\n\nThis follows declines of -2.65 million barrels and -399,000 barrels in the previous two weeks.\n\nSince the March high, US SPR https://t.co/YeiQrZIKiL",
-          "url": "https://x.com/i/status/2123417510452351156",
+          "url": "https://x.com/Outkick/status/2123419333170811101",
           "verified": true,
           "verified_type": "business"
         },
@@ -414,7 +424,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/19/26 https://t.co/uvJLf0tR49",
-          "url": "https://x.com/i/status/2123415807346557213",
+          "url": "https://x.com/glennbeck/status/2123415807346557213",
           "verified": true,
           "verified_type": "blue"
         },
@@ -444,7 +454,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Hutton &amp; Withrow are LIVE!\n\nLSU vs. the SEC, ROUND 2! Will Wade stirs controversy, Eli Drinkwitz sounds off, and do the Titans have ANY plan? Plus Peter King joins the show, NFL Week 12 previews &amp; Hard Rock Bet LOCKS! https://t.co/jz8wy2rSJk",
-          "url": "https://x.com/i/status/2123401558163644667",
+          "url": "https://x.com/SportNState/status/2123401558163644667",
           "verified": true,
           "verified_type": "blue"
         },
@@ -454,7 +464,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Thanks for the response, congresswoman. Quick question while I have you: does it bother you at all that you're 83 years old, you've been in congress for 35 years, and now the end of your life is rapidly approaching and you have not a single accomplishment of any kind to your name https://t.co/8bxBKvjkEb",
-          "url": "https://x.com/i/status/2123399890914967867",
+          "url": "https://x.com/MattWalshBlog/status/2123399890914967867",
           "verified": true,
           "verified_type": "blue"
         },
@@ -464,7 +474,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "What the ever living fuck https://t.co/3X1ov3HKt5",
-          "url": "https://x.com/i/status/2123399236213415947",
+          "url": "https://x.com/Timcast/status/2123399236213415947",
           "verified": true,
           "verified_type": "blue"
         },
@@ -524,7 +534,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Ref was really about to square up with Luka 😭 https://t.co/XuNHZAPlXM",
-          "url": "https://x.com/i/status/2123278201699041723",
+          "url": "https://x.com/Outkick/status/2123278201699041723",
           "verified": true,
           "verified_type": "business"
         },
@@ -534,7 +544,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "No, you’re not having déjà vu, Nick Wright is still talking about @ClayTravis. \n\nClay is officially upping the ante: A $2 million lie detector challenge on Colin Cowherd’s \"The Herd\" during Super Bowl Week. Will @getnickwright accept?\nhttps://t.co/ECVW3Ki3L3",
-          "url": "https://x.com/i/status/2123257023093408149",
+          "url": "https://x.com/SportNState/status/2123257023093408149",
           "verified": true,
           "verified_type": "blue"
         },
@@ -544,7 +554,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Geoffrey Hinton is warning Congress that AI has reached the point of helping design better AI, while humanity still lacks a reliable way to control systems that surpass human intelligence.\n\nWe are approaching a threshold unlike anything in the history of technological progress.",
-          "url": "https://x.com/i/status/2123248203466428499",
+          "url": "https://x.com/_The_Prophet__/status/2123248203466428499",
           "verified": true,
           "verified_type": "blue"
         },
@@ -554,7 +564,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Alliance PvP\n\nWoW Forever\n\nAdd Moonlord Crossland to join our guild \n\nGuildcast\n\nIm running a rogue, Cydaris Vin\n\nAdd me",
-          "url": "https://x.com/i/status/2123244652392259647",
+          "url": "https://x.com/Timcast/status/2123244652392259647",
           "verified": true,
           "verified_type": "blue"
         },
@@ -564,7 +574,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️As intelligence becomes more capable, its most important improvements may become progressively harder for ordinary observers to recognize.\n\nEarly AI progress was spectacular because the failures were obvious.\n\nA system could barely maintain coherence. Then it could write. Then https://t.co/C3fyk5aTN1",
-          "url": "https://x.com/i/status/2123242955968549283",
+          "url": "https://x.com/_The_Prophet__/status/2123242955968549283",
           "verified": true,
           "verified_type": "blue"
         },
@@ -574,7 +584,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Are We Under Cyberattack? Everything You Need To Know About The Tech Outages | Ep. 1876\n\nhttps://t.co/pIHaU2mFwa",
-          "url": "https://x.com/i/status/2123238776176800237",
+          "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
           "verified": true,
           "verified_type": "blue"
         },
@@ -584,7 +594,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "CYBER ATTACKS CONFIRMED, Elon Musk Warns Of WW3 On Trip With Trump To China https://t.co/1Z1LiJN43T",
-          "url": "https://x.com/i/status/2123219812117606895",
+          "url": "https://x.com/Timcast/status/2123219812117606895",
           "verified": true,
           "verified_type": "blue"
         },
@@ -594,7 +604,7 @@
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Last month, @Kayceeunplugged spoke with @patrickmcenroe about the lack of Americans on Missouri State’s soccer program.\n\nToday in D.C., McEnroe and @RepWalberg publicly supported the TEAM USA Act, which would cap international athletes at 20% of most college rosters to preserve",
-          "url": "https://x.com/i/status/2123212957362368729",
+          "url": "https://x.com/SportNState/status/2123212957362368729",
           "verified": true,
           "verified_type": "blue"
         },
@@ -604,7 +614,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
-          "url": "https://x.com/i/status/2123212911640223945",
+          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
           "verified": true,
           "verified_type": "blue"
         },
@@ -614,7 +624,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Canva just restructured 22% of its workforce, and what's happening there is life and death for control of the next dominant paradigm for human creation.\n\nCanva is the canary in the coal mine for an entire class of companies. It's a referendum on whether horizontal \"platforms of",
-          "url": "https://x.com/i/status/2123205797593358751",
+          "url": "https://x.com/_The_Prophet__/status/2123205797593358751",
           "verified": true,
           "verified_type": "blue"
         },
@@ -624,7 +634,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
-          "url": "https://x.com/i/status/2123205567728722236",
+          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
           "verified": true,
           "verified_type": "blue"
         },
@@ -634,7 +644,7 @@
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "The Mayor of Baltimore calls out Marlon Humphrey and says his apology wasn’t enough 😬 https://t.co/LhxCFalx6m",
-          "url": "https://x.com/i/status/2123200330569859257",
+          "url": "https://x.com/Outkick/status/2123200330569859257",
           "verified": true,
           "verified_type": "business"
         },
@@ -644,7 +654,7 @@
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "People said I was wrong for pointing out Nick is ascendant \n\nMock him all day he's a cultural force https://t.co/KogzzMLC7R",
-          "url": "https://x.com/i/status/2123200033650618825",
+          "url": "https://x.com/Timcast/status/2123200033650618825",
           "verified": true,
           "verified_type": "blue"
         },
@@ -654,7 +664,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️AI exposed the system's underlying reality.\n\nThese outages were the natural consequence of AI performing exactly as it was designed to do: diagnosing vulnerabilities with hyper-advanced precision. The truth it revealed was too complex, too vast, and too interconnected for human https://t.co/K30eejaWkH",
-          "url": "https://x.com/i/status/2123198826827972846",
+          "url": "https://x.com/_The_Prophet__/status/2123198826827972846",
           "verified": true,
           "verified_type": "blue"
         },
@@ -674,17 +684,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "When you win a Senate seat, you get instant access to classified information without a single background check. @seanspicer is trying to change that, starting with a petition calling on Senate leadership to properly vet Abdul El-Sayed before handing him access to some of https://t.co/xICif3Z5m3",
-          "url": "https://x.com/i/status/2123186336278696260",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123176757746413704",
-          "created_at": "2026-11-18T22:09:20.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Sophie Cunningham and Gabby Williams both recently sat for major interviews. \n\nTheir answers showed the chasm in the WNBA that the next commissioner will have to negotiate.\n\n@kayceeunplugged column:\nhttps://t.co/eXZC1WI9II",
-          "url": "https://x.com/i/status/2123176757746413704",
+          "url": "https://x.com/glennbeck/status/2123186336278696260",
           "verified": true,
           "verified_type": "blue"
         },
@@ -694,7 +694,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "I think these outages and crashes will continue. Whether it’s the start of a different kind of war or the massive growing pains of an AI transition, we’re at the beginning of something.\n\nIf you’re part of my audience, you’ve probably already prepared.\n\nNow, I’m asking you to help https://t.co/FShCa3ON2L",
-          "url": "https://x.com/i/status/2123170168977432946",
+          "url": "https://x.com/glennbeck/status/2123170168977432946",
           "verified": true,
           "verified_type": "blue"
         },
@@ -704,7 +704,7 @@
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️U.S. federal interest payments surpassing $1 trillion a year position the system at the edge of a structural reckoning.\n\nThere is no collapse tomorrow, no singular default event, because the mechanics of global finance make that outcome unlikely in the near term. What is true https://t.co/OjDxlTfk6F",
-          "url": "https://x.com/i/status/2123164555421589767",
+          "url": "https://x.com/_The_Prophet__/status/2123164555421589767",
           "verified": true,
           "verified_type": "blue"
         },
@@ -714,7 +714,7 @@
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Doesn’t matter how you personally feel about the Iran War. The fact is that it’s wildly politically unpopular and was one of the main reasons why Republicans just got wiped out. No credible person debates either of those points. The logical conclusion is that no Republican who",
-          "url": "https://x.com/i/status/2123156070398849191",
+          "url": "https://x.com/MattWalshBlog/status/2123156070398849191",
           "verified": true,
           "verified_type": "blue"
         },
@@ -724,7 +724,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "Three major stories happened in the last few days that nobody has put into the same picture… and if you line them up, they all point straight toward digital ID.\n\nFirst, in Manila, eleven Southeast Asian nations just signed a trade deal with a regional digital ID tucked inside, https://t.co/iRoM2prazD",
-          "url": "https://x.com/i/status/2123123887328358515",
+          "url": "https://x.com/glennbeck/status/2123123887328358515",
           "verified": true,
           "verified_type": "blue"
         },
@@ -744,7 +744,7 @@
           "author_name": "Glenn Beck",
           "author_handle": "glennbeck",
           "text": "When I first heard that millions of adults were taking a week off for the release of GTA VI, my first reaction was the same as yours: Really? For a video game? Grow up.\n\nThen I remembered May, 1999.\n\nGrown men in bathrobes camped out on sidewalks for weeks with plastic https://t.co/DrgZMJNVUa",
-          "url": "https://x.com/i/status/2123094745971110290",
+          "url": "https://x.com/glennbeck/status/2123094745971110290",
           "verified": true,
           "verified_type": "blue"
         },
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "DOJ taps prosecutor for probes into Mar-a-Lago raid, docs case",
+          "summary": "The Justice Department has tapped the top federal prosecutor in Los Angeles to work on probes into the FBI's raid on Mar-a-Lago and the Trump documents case.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/bill-essayli-justice-department-mar-a-lago-trump-documents-case/"
+        },
+        {
           "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
           "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
           "source": "CBS News",
@@ -807,12 +813,6 @@
           "summary": "Former President Barack Obama was the surprise guest at a hastily called meeting of Democrats who just won House seats.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/obama-pep-talk-freshman-house-democrats/"
-        },
-        {
-          "headline": "Trump, Xi and Putin sit down for a rare 3-way meeting in China",
-          "summary": "Russia says Putin, Trump and China's Xi agreed during a rare meeting to boost gas and oil production, and \"reaffirmed that there can be no winners in a nuclear war.\"",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
         }
       ]
     },
@@ -821,10 +821,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
-          "summary": "Dario Amodei and the company's other six co-founders instantly joined the ranks of America's richest citizens with the AI giant's initial public offering.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/"
+          "headline": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+          "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html"
         },
         {
           "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
@@ -833,22 +833,22 @@
           "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
         },
         {
-          "headline": "Trump wants Supreme Court to let EPA cancel billions in Biden-era climate grants",
-          "summary": "The Trump administration is appealing to the Supreme Court in its push to cut $16 billion in grants for a climate program",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/trump-supreme-court-epa-cancel-billions-biden-era-138288580"
-        },
-        {
-          "headline": "Anthropic IPO could create thousands of multimillionaire employees",
-          "summary": "The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors.",
+          "headline": "Gold's bad year is getting worse. Why its price keeps falling",
+          "summary": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html"
+          "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html"
         },
         {
-          "headline": "Anthropic set to start trading after completing largest-ever IPO",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+          "headline": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+          "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
+        },
+        {
+          "headline": "AMD falls on short-seller report of alleged China exposure",
+          "summary": "AMD was slumping Wednesday after a short-seller alleged that its firmware showed up at blacklisted Chinese company",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Brooklyn Raines embraces rise with New England Revolution & USMNT",
-          "summary": "By Justin Ruderman Brooklyn Raines: From Liberia to rising USMNT star To say 2026 has been a breakout year for New England Revolution midfielder Brooklyn Raines might be an understatement. Since being acquired from Houston Dynamo FC for up to $2 million in the offseason, Raines notched his first MLS goal contributions with 1g/4a in 31 games, bumped his…",
+          "headline": "Aidan Hutchinson injury has at least one player retiring his celebration",
+          "summary": "When Detroit Lions star Aidan Hutchinson crumbled to the turf following a jump in the air, a natural follow-up question emerged: Should NFL players be more careful with their celebrations? While the Lions are not outright banning expressions of jubilation , players themselves are free to make their own decisions.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/brooklyn-raines-embraces-rise-england-161000263.html"
+          "url": "https://sports.yahoo.com/articles/aidan-hutchinson-injury-least-one-163814713.html"
         },
         {
-          "headline": "Inter Milan Could Use Frattesi Card in Negotiations for Lazio Defender",
-          "summary": "Inter Milan are reportedly eyeing a move for Oliver Provstgaard, which could facilitate Davide Frattesi’s permanent transfer to Lazio. Lazio & Inter Milan Often Do Business in the Market The two clubs are currently separated by a single point in the standings, as the Biancocelesti shockingly lead the Serie A table, with the defending champions right on…",
+          "headline": "Should Pirates trade Carmen Mlodzinski this offseason?",
+          "summary": "DETROIT, MI - SEPTEMBER 26: Carmen Mlodzinski #50 of the Pittsburgh Pirates pitches during the game between the Pittsburgh Pirates and the Detroit Tigers at Comerica Park on Saturday, September 26, 2026 in Detroit, Michigan. (Photo by Izzy Rincon/MLB Photos via Getty Images) | MLB Photos via Getty Images The Pittsburgh Pirates had a crowded rotation…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/inter-milan-could-frattesi-card-160800372.html"
+          "url": "https://sports.yahoo.com/articles/pirates-trade-carmen-mlodzinski-offseason-163629583.html"
         },
         {
-          "headline": "John Madden’s first broadcast in ‘Madden’ movie disrespects NFL broadcaster’s booth debut",
-          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
+          "headline": "Giannis And Bam Prove Heat Drama Is Already History",
+          "summary": "Nov 18, 2026; Miami, Florida, USA; Miami Heat center Bam Adebayo (13) reacts after scoring against the Milwaukee Bucks during the first quarter at Kaseya Center. Mandatory Credit: Sam Navarro-Imagn Images Giannis Antetokounmpo and Bam Adebayo put the drama behind them on Wednesday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/john-madden-first-broadcast-madden-160736120.html"
+          "url": "https://sports.yahoo.com/articles/giannis-bam-prove-heat-drama-163525738.html"
         },
         {
-          "headline": "Why now might be time for Yankees to trade Will Warren and Ryan Weathers",
-          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
+          "headline": "The Girona FC 1930 Foundation kicks off the LaLiga Genuine season in Salou",
+          "summary": "The Girona FC 1930 Foundation begins the 2026-2027 season of LaLiga Genuine Moeve in Tarragona. The matches will be played at the Mediterranean Sports Hub in Salou, where the team will face three commitments over the weekend.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/why-now-might-time-yankees-160707277.html"
+          "url": "https://sports.yahoo.com/articles/girona-fc-1930-foundation-kicks-163500260.html"
         },
         {
-          "headline": "Florida has 8 players on Week 12's initial SEC Availability Report",
-          "summary": "The initial SEC availability report for Week 12 of the college football season was released on Wednesday night. The Florida Gators have eight players on the report — five listed as out, two who are questionable and one probable — while the Vanderbilt Commodores have nine listed as out and one as probable.",
+          "headline": "South Africa maintain No.1 Test ranking after nine-wicket win over Bangladesh, take 1-0 series lead",
+          "summary": "South Africa continued their dominance in Test cricket, underlining why they sit at the summit of the ICC Men's Test Team Rankings with a commanding nine-wicket victory over Bangladesh in the opening Test at the Wanderers in Johannesburg on Thursday. Simon Harmer produced a match-winning spell to dismantle Bangladesh's lower order as the reigning World…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/florida-8-players-week-12s-160648606.html"
+          "url": "https://sports.yahoo.com/articles/south-africa-maintain-no-1-163400671.html"
         }
       ]
     },
@@ -929,34 +929,34 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘I, Daniel Blake’ Producer Says She Is “Bored Of Seeing Same Faces On Screen” As She Sets Out Blueprint To Revitalize Indie Movie Sector",
+          "summary": "Rebecca O’Brien, Ken Loach’s BAFTA-winning producing partner, has said she is “bored of seeing the same faces on screen” in lower budget movies. Delivering the Lord Richard Attenborough Memorial Address at the British Screen Forum Conference, O’Brien set out a blueprint to revitalize the indie movie sector and allow movies like Loach’s to continue to […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/i-daniel-blake-producer-bored-of-same-faces-indie-movies-1237229031/"
+        },
+        {
+          "headline": "Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027",
+          "summary": "EXCLUSIVE: Utopai Studios has opened an office in Beverly Hills to serve as the new home for its growing Hollywood production operation. The AI company, which has a presence in several global territories, has been increasingly active in building a slate of animated and live-action features as well as episodic series.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/utopai-studios-opens-beverly-hills-office-production-jobs-1237229012/"
+        },
+        {
+          "headline": "‘Bridgerton’ Star Hannah Dodd Joins Nick Jonas In Netflix Holiday Rom-Com ‘The More The Merrier’",
+          "summary": "EXCLUSIVE: Hannah Dodd, the English actress from Netflix’s Bridgerton who is stepping up to lead its fifth season, has inked a deal to star opposite Nick Jonas in The More the Merrier, a rom-com from the same streamer that we announced back in April, which has now entered production in New Jersey. Directed by The […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026/"
+        },
+        {
+          "headline": "‘Afterlife With Archie’ Disney+ Show Casts Archie, Betty, Veronica, Jughead and Sabrina the Teenage Witch",
+          "summary": "The “Afterlife With Archie” series at Disney+ has found its Archie, Veronica, Betty, Jughead, and Sabrina the Teenage Witch. Archie Andrews will be played by Vasco Faria (“Your Fault: London”); Veronica Lodge will be played by Aliyah Mastin (“Paradise”); Sarah Abbott (“The Body”) will play Betty Cooper; Angel Rivera (“Escape from Mr.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/afterlife-with-archie-disney-show-cast-1236953281/"
+        },
+        {
           "headline": "Novel ‘American War’, About Civil War & Climate-Ravaged Future U.S., Being Adapted By ‘Shrinking’ & ‘Cobra Kai’ Writer Bill Posley For Curmudgeon Films",
           "summary": "EXCLUSIVE: Emmy-nominated writer-producer Bill Posley, the Iraq War vet-turned writer and executive producer on Shrinking and executive story editor on Cobra Kai, is set to adapt American War, the dystopian novel by National Book Award winner Omar El Akkad, for Griff Furst’s Curmudgeon Films. Set in a United States torn apart by a second civil […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/american-war-novel-film-adaptation-shrinking-writer-1237228906/"
-        },
-        {
-          "headline": "Biggest ITV Shows Like ‘Love Island’ & ‘I’m A Celebrity’ To Remain Free-To-Air Once Sky Deal Completes",
-          "summary": "ITV’s “fan favorite” content will remain free-to-air once the commercial broadcaster has been subsumed by Sky, according to one of the architects behind the £1.6B ($2.1B) deal. Nick Herm, who is Group Chief Operating Officer at Sky, scotched the idea that some of ITV’s biggest shows will be moved behind a paywall once the pay-TV […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/love-island-im-a-celebrity-remain-itv-sky-deal-completes-1237229007/"
-        },
-        {
-          "headline": "‘Adolescence’ Breakout Owen Cooper Stars In New Beatles ‘In My Life’ Music Video",
-          "summary": "The Beatles single In My Life has received a fresh music video as part of Apple Corps’s rollout for the 2026 Rubber Soul album reissue, and it stars Adolescence breakout star Owen Cooper. Jessica Swale and Irina Alexiu directed the video, which dropped this morning on The Beatles YouTube page.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/owen-cooper-beatles-in-my-life-1237228889/"
-        },
-        {
-          "headline": "‘Afterlife With Archie’ Disney+ Series Casts Its Archie, Veronica, Betty, Jughead & Sabrina",
-          "summary": "EXCLUSIVE: Roberto Aguirre-Sacasa has found the new Archie, Veronica, Betty, Jughead, and Sabrina the Teenage Witch for his new Disney+ series Afterlife With Archie, based on his comic book series of the same name. Archie Andrews will be played by Vasco Faria (Your Fault: London); Aliyah Mastin (Paradise) will play Veronica Lodge; Betty Cooper will […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/after-life-with-main-archie-cast-disney-comics-1237228462/"
-        },
-        {
-          "headline": "Dropout’s Brennan Lee Mulligan to Host Peacock’s ‘Dig’ TV Series Companion Podcast (EXCLUSIVE)",
-          "summary": "Dropout and “Dimension 20″ star Brennan Lee Mulligan is set to host “Dig: The Podcast,” the 10-episode video companion podcast to Amy Poehler and Mike Schur’s upcoming Peacock series, “Dig.” Based on Kate Myers’ book “Excavations,” “Dig” follows a team of dedicated archaeologists (and less-dedicated college students) who spend their summer working on a…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/brennan-lee-mulligan-host-dig-podcast-1236953140/"
         }
       ]
     },
@@ -964,6 +964,24 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "‘I, Daniel Blake’ Producer Says She Is “Bored Of Seeing Same Faces On Screen” As She Sets Out Blueprint To Revitalize Indie Movie Sector",
+          "summary": "Rebecca O’Brien, Ken Loach’s BAFTA-winning producing partner, has said she is “bored of seeing the same faces on screen” in lower budget movies. Delivering the Lord Richard Attenborough Memorial Address at the British Screen Forum Conference, O’Brien set out a blueprint to revitalize the indie movie sector and allow movies like Loach’s to continue to […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/i-daniel-blake-producer-bored-of-same-faces-indie-movies-1237229031/"
+        },
+        {
+          "headline": "Utopai Studios Opens Beverly Hills Office, Targets 500 Production Jobs Globally In 2027",
+          "summary": "EXCLUSIVE: Utopai Studios has opened an office in Beverly Hills to serve as the new home for its growing Hollywood production operation. The AI company, which has a presence in several global territories, has been increasingly active in building a slate of animated and live-action features as well as episodic series.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/utopai-studios-opens-beverly-hills-office-production-jobs-1237229012/"
+        },
+        {
+          "headline": "‘Bridgerton’ Star Hannah Dodd Joins Nick Jonas In Netflix Holiday Rom-Com ‘The More The Merrier’",
+          "summary": "EXCLUSIVE: Hannah Dodd, the English actress from Netflix’s Bridgerton who is stepping up to lead its fifth season, has inked a deal to star opposite Nick Jonas in The More the Merrier, a rom-com from the same streamer that we announced back in April, which has now entered production in New Jersey. Directed by The […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/hannah-dodd-nick-jonas-rom-com-netflix-1237229026/"
+        },
         {
           "headline": "British Society of Cinematographers to Honor Barry Ackroyd, Christopher Ross, Academy of Motion Picture Arts and Sciences and More",
           "summary": "Cinematographers Barry Ackroyd and Christopher Ross are set to be honored by the British Society of Cinematographers. The Academy of Motion Picture Arts and Sciences will receive the BSC Bert Easey Technical Achievement Award.",
@@ -975,24 +993,6 @@
           "summary": "EXCLUSIVE: Emmy-nominated writer-producer Bill Posley, the Iraq War vet-turned writer and executive producer on Shrinking and executive story editor on Cobra Kai, is set to adapt American War, the dystopian novel by National Book Award winner Omar El Akkad, for Griff Furst’s Curmudgeon Films. Set in a United States torn apart by a second civil […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/american-war-novel-film-adaptation-shrinking-writer-1237228906/"
-        },
-        {
-          "headline": "Biggest ITV Shows Like ‘Love Island’ & ‘I’m A Celebrity’ To Remain Free-To-Air Once Sky Deal Completes",
-          "summary": "ITV’s “fan favorite” content will remain free-to-air once the commercial broadcaster has been subsumed by Sky, according to one of the architects behind the £1.6B ($2.1B) deal. Nick Herm, who is Group Chief Operating Officer at Sky, scotched the idea that some of ITV’s biggest shows will be moved behind a paywall once the pay-TV […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/love-island-im-a-celebrity-remain-itv-sky-deal-completes-1237229007/"
-        },
-        {
-          "headline": "‘Adolescence’ Breakout Owen Cooper Stars In New Beatles ‘In My Life’ Music Video",
-          "summary": "The Beatles single In My Life has received a fresh music video as part of Apple Corps’s rollout for the 2026 Rubber Soul album reissue, and it stars Adolescence breakout star Owen Cooper. Jessica Swale and Irina Alexiu directed the video, which dropped this morning on The Beatles YouTube page.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/owen-cooper-beatles-in-my-life-1237228889/"
-        },
-        {
-          "headline": "‘Afterlife With Archie’ Disney+ Series Casts Its Archie, Veronica, Betty, Jughead & Sabrina",
-          "summary": "EXCLUSIVE: Roberto Aguirre-Sacasa has found the new Archie, Veronica, Betty, Jughead, and Sabrina the Teenage Witch for his new Disney+ series Afterlife With Archie, based on his comic book series of the same name. Archie Andrews will be played by Vasco Faria (Your Fault: London); Aliyah Mastin (Paradise) will play Veronica Lodge; Betty Cooper will […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/after-life-with-main-archie-cast-disney-comics-1237228462/"
         }
       ]
     },
@@ -1000,6 +1000,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Ella Langley Reacts to Her Record-Breaking CMA Awards Wins: ‘Hard to Put This Night Into Words’",
+          "summary": "Ella Langley dominated the CMA Awards on Wednesday (Nov. 18), earning her first entertainer of the year win, but also picking up victories in categories including female vocalist of the year, album of the year ( Dandelion ) and single, song and music video of the year (“Choosin’ Texas”).",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/ella-langley-reacts-2026-cma-awards-wins-1236385642/"
+        },
         {
           "headline": "‘They Had Never Seen Anything Like Us’: The-B2s Take Manhattan in Preview of ‘New Wave’ Docuseries",
           "summary": "If you’re not a football family – or if you need a respite from the NFL’s Turkey Day takeover – MGM+ has just the counterprogramming for you. Come Monday (Nov.",
@@ -1023,15 +1029,9 @@
           "summary": "Bridgers dropped her rendition of the Big Thief singer’s solo classic “Anything”",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-adrianne-lenker-holiday-cover-1235660592/"
-        },
-        {
-          "headline": "How Did the Greatest Pop Stars Fare in the 2026 Grammy Nominations?",
-          "summary": "The nominations for the 69th Annual Grammy Awards were announced earlier this week, and not only were many of the biggest names of 2026 involved in the biggest categories, they were nominated all the way across those categories: Taylor Swift, Ella Langley, Rosalía, RAYE, Bruno Mars and Olivias Dean and Rodrigo were all nominated for each of album, song…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/grammy-nominations-2026-greatest-pop-stars-podcast-1236385551/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T11:18:00-05:00"
+  "updatedAt": "2026-11-19T11:44:47-05:00"
 }
