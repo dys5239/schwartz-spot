@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+        },
+        {
           "headline": "Meta’s Muse Charm might cost $300",
           "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information . CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time.",
           "source": "The Verge",
@@ -24,12 +30,6 @@
           "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
         },
         {
-          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
-        },
-        {
           "headline": "Anthropic’s IPO could deliver $156 billion to charity",
           "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
           "source": "TechCrunch",
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
-        },
-        {
-          "headline": "Iran may be working on biological weapons, Trump says",
-          "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
-        },
-        {
-          "headline": "South Florida severe weather and flooding live updates",
-          "summary": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
-        },
-        {
-          "headline": "What to know as nearly 10K pounds of lead azide to be blasted at Army plant",
-          "summary": "Two rapid controlled detonations are scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613"
-        },
-        {
-          "headline": "Frank happy to be 'back in the circus' at Palace",
-          "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+          "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+          "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Photos, videos show devastating South Florida flooding",
+          "summary": "Significant flooding devastated some South Florida communities this week.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/"
+        },
+        {
+          "headline": "Fiona the hippo dies at Cincinnati Zoo after swallowing hat",
+          "summary": "The beloved hippo died after swallowing a hat that accidentally fell into her habitat last week, the zoo said Thursday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/GMA/Living/fiona-hippo-dies-cincinnati-zoo-after-swallowing-hat/story?id=138301411"
+        },
+        {
+          "headline": "Fiona the hippo has died, Cincinnati Zoo says",
+          "summary": "Fiona the hippo, who survived being born prematurely and rose to global fame, has died, the Cincinnati Zoo & Botanical Garden announced Thursday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/"
+        },
+        {
+          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123522666418340307",
+          "created_at": "2026-11-19T21:03:51.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "RIP FIONA 😔 https://t.co/bMzt7EvlQZ",
+          "url": "https://x.com/Outkick/status/2123522666418340307",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123522201341342111",
+          "created_at": "2026-11-19T21:02:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Yes, great take. You nailed it. The KKK was well known for its outspoken support of black men being able to share their opinions. https://t.co/2gRqpFOgf8",
+          "url": "https://x.com/ClayTravis/status/2123522201341342111",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123521950609986026",
+          "created_at": "2026-11-19T21:01:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "COMFORT KITS FOR AUTISM: 9 YR OLD MAKES TIME KIDS FRONT COVER!\n\nSensory bags are being delivered to help children on the spectrum in times of sensory overload. The community has been very receptive to 9 year old Ledger's compassion for wanting to help others like him! https://t.co/gQm9rGjoM8",
+          "url": "https://x.com/RealAmVoice/status/2123521950609986026",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123521882276454849",
+          "created_at": "2026-11-19T21:00:44.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Yesterday my inbox blew up with two totally different reactions to my GTA VI monologue. I had longtime listeners telling me I sold my soul to the devil for praising a violent video game just to get clicks. But I also had thousands of young guys saying, wait a second. He actually https://t.co/DjVdiEYGPM",
+          "url": "https://x.com/glennbeck/status/2123521882276454849",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123521706731897192",
+          "created_at": "2026-11-19T21:00:02.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The S&amp;P 500 closes down for the 6th-straight day, now down -$6 trillion since the October 6th high.\n\nThe Nasdaq 100 is now down -15% from its record high. https://t.co/QGhhjBEHvP",
+          "url": "https://x.com/KobeissiLetter/status/2123521706731897192",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123521013581226230",
+          "created_at": "2026-11-19T20:57:17.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Yes. Everyone knows this. \n\n@ssharmaUS posted a watermelon on a tweet about post October 7 Jew hatred and yet he works inside the White House for the Vice President where he plays a role in personnel decisions. \n\n@Scavino47 how is it that Sharma is allowed to have a role in https://t.co/gfcYOiNMBd",
+          "url": "https://x.com/LauraLoomer/status/2123521013581226230",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123520209839440189",
+          "created_at": "2026-11-19T20:54:05.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Okay, anonymous mailbag is tomorrow on @SportNState. Fire away with all your questions here. Only I see them. And thanks in advance, as always. https://t.co/eZW2JGbKMz",
+          "url": "https://x.com/ClayTravis/status/2123520209839440189",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123518764293456091",
+          "created_at": "2026-11-19T20:48:21.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Hey @calvinrobinson \n\nHow about you and your Afro go back to Africa?\n\nAm I doing this right?\n\nA source told me that Calvin recently applied for a green card. His comments are in violation of @marcorubio’s state department policies.\n\nI will be reporting Calvin to the US State https://t.co/vDkeEsvjff",
+          "url": "https://x.com/LauraLoomer/status/2123518764293456091",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123517768918352269",
           "created_at": "2026-11-19T20:44:23.000Z",
@@ -177,6 +257,16 @@
           "url": "https://x.com/ClayTravis/status/2123508600463147463",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123507457012232281",
+          "created_at": "2026-11-19T20:03:25.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HISTORIC AIR FORCE ONE FLIGHT FOLLOWS HISTORIC MEETINGS!\n\nA 15-hour haul, AF1 will not be stopping once to refuel. The plane has 1 million pounds of jet fuel. President Trump says his trip back to \"will be the longest continuous flight in Air Force One history.\" https://t.co/6HIhRWCxbG",
+          "url": "https://x.com/RealAmVoice/status/2123507457012232281",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2123507388896715141",
@@ -279,32 +369,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123489020994801977",
-          "created_at": "2026-11-19T18:50:09.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "VP of Strategic Communications for the new groyper aligned organization “American Ascent” is naturally simping for Tucker Qatarlson and is defending the Indian born Palestinian sympathizer inside PPO who posted a watermelon on a post about October 7. \n\nWe all know what the https://t.co/4afB8AqjnW",
-          "url": "https://x.com/LauraLoomer/status/2123489020994801977",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123485871215378867",
           "created_at": "2026-11-19T18:37:38.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "The Nasdaq has erased a 2% gain and is now down 1.1% on the day of the biggest IPO in history\n\nThe S&amp;P 500 swung 222 points from its high of 7,415.64 at the open to a low of 7,193.83, and is now down 1.0%\n\nThe Dow fell as much as 1,106 points from Wednesday's close, the VIX https://t.co/G8RxMjzXwu",
           "url": "https://x.com/_Investinq/status/2123485871215378867",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123485606520979784",
-          "created_at": "2026-11-19T18:36:35.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "lol. Keep dreaming! \n\nIt’s never going to happen. https://t.co/ZS0fxAQVwM",
-          "url": "https://x.com/LauraLoomer/status/2123485606520979784",
           "verified": true,
           "verified_type": "blue"
         },
@@ -379,6 +449,16 @@
           "verified_type": "blue"
         },
         {
+          "id": "2123474444291387513",
+          "created_at": "2026-11-19T17:52:14.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️This is exactly the cohort that gets crushed first if people misunderstand what “50% of tasks automated” actually means.\n\nThe 48-year-old accountant is not automatically unemployed in 2029.\n\nBut the labor market around him changes violently.\n\nA department that once needed 20 https://t.co/q096NvPYUi",
+          "url": "https://x.com/_The_Prophet__/status/2123474444291387513",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2123473910398324947",
           "created_at": "2026-11-19T17:50:07.000Z",
           "author_name": "StockMarket.News",
@@ -439,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123462999839302085",
-          "created_at": "2026-11-19T17:06:45.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The S&amp;P 500 falls over -230 points from its high of the day as the Anthropic, $ANT, IPO debuts and technology stocks sell off.\n\nThe S&amp;P 500 is now trading below 7200 for the first time since May 5th. https://t.co/GNVVM63OuK",
-          "url": "https://x.com/KobeissiLetter/status/2123462999839302085",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123462700399309308",
           "created_at": "2026-11-19T17:05:34.000Z",
           "author_name": "StockMarket.News",
@@ -479,16 +549,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123446507894382688",
-          "created_at": "2026-11-19T16:01:13.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Santa Clay is coming to town early. Tennessee is beating LSU. @HardRockBet is offering new users up to a $1500 wager on this game as a promo, if you win, boom, I’m a genius, if you lose, you get $1500 back in bonus bets. No brainer. Go Vols. Go play: https://t.co/gRmp9mcoPG",
-          "url": "https://x.com/ClayTravis/status/2123446507894382688",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123445502910083111",
           "created_at": "2026-11-19T15:57:14.000Z",
           "author_name": "Tim Pool",
@@ -505,16 +565,6 @@
           "author_handle": "Outkick",
           "text": "Art imitates life https://t.co/xP1NeZYC25",
           "url": "https://x.com/Outkick/status/2123441138694570317",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123419333170811101",
-          "created_at": "2026-11-19T14:13:14.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Trevor Lawrence's football IQ? High.\n\nHis Waffle House order? Also elite. https://t.co/4OtlkD1pde",
-          "url": "https://x.com/Outkick/status/2123419333170811101",
           "verified": true,
           "verified_type": "business"
         },
@@ -565,6 +615,26 @@
           "author_handle": "elonmusk",
           "text": "Starlink started with a speech in Seattle https://t.co/y8QLexDwnu",
           "url": "https://x.com/elonmusk/status/2123333341932052749",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123320336544649485",
+          "created_at": "2026-11-19T07:39:52.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Remember to cast your Tesla votes! https://t.co/41fHEGryzP",
+          "url": "https://x.com/elonmusk/status/2123320336544649485",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123319956381339961",
+          "created_at": "2026-11-19T07:38:21.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Moving all text conversations to be encrypted to ensure user privacy https://t.co/6Qbz2gmqPp",
+          "url": "https://x.com/elonmusk/status/2123319956381339961",
           "verified": true,
           "verified_type": "blue"
         },
@@ -659,22 +729,32 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123156070398849191",
-          "created_at": "2026-11-18T20:47:08.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "Doesn’t matter how you personally feel about the Iran War. The fact is that it’s wildly politically unpopular and was one of the main reasons why Republicans just got wiped out. No credible person debates either of those points. The logical conclusion is that no Republican who",
-          "url": "https://x.com/MattWalshBlog/status/2123156070398849191",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123097995679867195",
           "created_at": "2026-11-18T16:56:22.000Z",
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "The Starbase tower team on location with the first caught Starship🍌 https://t.co/ar7y6ccgZr",
           "url": "https://x.com/SpaceX/status/2123097995679867195",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2122814338893332591",
+          "created_at": "2026-11-17T22:09:13.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad https://t.co/hjfcnVpxLn",
+          "url": "https://x.com/SpaceX/status/2122814338893332591",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2122802167212098047",
+          "created_at": "2026-11-17T21:20:51.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Watch @BretWJ at the @TomorrowXSummit talking about Starship unlocking the future of @Starlink broadband, mobile and ultimately supercompute in space https://t.co/wnjEneecQ3",
+          "url": "https://x.com/SpaceX/status/2122802167212098047",
           "verified": true,
           "verified_type": "business"
         }
@@ -721,34 +801,34 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
+          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+        },
+        {
+          "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+          "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
+        },
+        {
+          "headline": "AMD dives on short-seller report of alleged China exposure",
+          "summary": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+        },
+        {
           "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
           "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         },
         {
-          "headline": "Congress passes bill to protect older investors from financial fraud",
-          "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html"
-        },
-        {
-          "headline": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
-          "summary": "Social Security's trust funds face a looming shortfall. But AARP says Sen.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html"
-        },
-        {
-          "headline": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
-          "summary": "Payward, the owner of crypto exchange Kraken, is pushing into private markets with its purchase of venture capital and asset management provider Tribe Capital.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html"
-        },
-        {
-          "headline": "3-step method to influence people and win them over, from a Stanford expert: ‘Your voice is like a muscle’",
-          "summary": "Stanford University communications lecturer Matt Abrahams teaches current and future leaders how to train their voices to be more engaging and persuasive.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html"
+          "headline": "Suspects charged in brazen train heist ring that netted $22 million in cargo from major retailers",
+          "summary": "Authorities have charged more than a dozen people for allegedly orchestrating a massive train heist operation",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/suspects-charged-brazen-train-heist-ring-netted-22-138300957"
         }
       ]
     },
@@ -757,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Mark Walter Could Sell The WNBA’s Los Angeles Sparks For Record $750 Million, Reports Say",
-          "summary": "Topline Billionaire Mark Walter is preparing to sell the WNBA’s Los Angeles Sparks to billionaire Jose Feliciano and his wife Kwanza Jones, according to multiple reports on Thursday, who will buy the team for $750 million—a record sum for a WNBA franchise. The billionaire owner of the Los Angeles Dodgers is preparing to sell the WNBA team to Jose…",
+          "headline": "As Yaxel Lendeborg adapts to life, losing in the NBA, Kyrie Irving has advice for Warriors' rookie",
+          "summary": "Mavericks guard Kyrie Irving (right) battles Golden State Warriors forward Yaxel Lendeborg for a rebound at American Airlines Center in Dallas, November 18, 2026. (Tom Fox/The Dallas Morning News) DALLAS - An hour and a half after first sharing a court with one of his greatest admirers, Kyrie Irving sat at his locker, perched with a Sharpie over his No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/mark-walter-could-sell-wnba-203714308.html"
+          "url": "https://sports.yahoo.com/articles/yaxel-lendeborg-adapts-life-losing-211307953.html"
         },
         {
-          "headline": "Brooks Koepka’s PGA Tour Return Falls Short Of Expectations",
-          "summary": "Dan Hamilton-Imagn Images Brooks Koepka’s return to the PGA Tour has not matched the high expectations set for a five-time major champion. The golfer who once dominated the world stage now faces a steep climb to regain his form.",
+          "headline": "3 Reasons South Carolina Could Cover Against Georgia In SEC Showdown",
+          "summary": "Oct 31, 2026; Norman, Oklahoma, USA; South Carolina Gamecocks quarterback LaNorris Sellers (16) rolls out and throws a touchdown pass during the fourth quarter against the Oklahoma Sooners at Gaylord Family-Oklahoma Memorial Stadium. Mandatory Credit: Kevin Jairaj-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters) South Carolina faces one of…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/brooks-koepka-pga-tour-return-203620060.html"
+          "url": "https://sports.yahoo.com/articles/3-reasons-south-carolina-could-211229116.html"
         },
         {
-          "headline": "Kings captain Drew Doughty makes major agent move in contract year",
-          "summary": "Mandatory Credit: Griffin Hooper-Imagn Images Kings captain Drew Doughty makes major agent move in contract year appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Nine players could miss Chelsea's match against Leeds United with João Pedro a concern",
+          "summary": "João Pedro's status for Chelsea's game against Leeds United remains unclear -Credit:Darren Walsh, Chelsea FC via Getty Images As Chelsea prepare to return to competitive action on Saturday, Xabi Alonso and his squad face the start of a grueling fixture run. Between now and the end of 2026, the Blues have eight games on the schedule - all in the Premier…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/kings-captain-drew-doughty-makes-203551038.html"
+          "url": "https://sports.yahoo.com/articles/nine-players-could-miss-chelseas-211201822.html"
         },
         {
-          "headline": "Puka Nacua suspended by the NFL",
-          "summary": "Los Angeles Rams WR Puka Nacua has been suspended for three games for violating the league’s personal conduct policy. SOURCE: ESPN's Adam Schefter Why It Matters: Nacua will suspended for games he was going to miss anyway, so this won't affect the Rams plans at the moment.",
+          "headline": "How the Spurs aim to stop the bleeding with Wemby on the bench",
+          "summary": "San Antonio Spurs center Victor Wembanyama, right, celebrates with center/forward Luke Kornet during the second half of an NBA basketball game against the Chicago Bulls in Chicago, Wednesday, Nov. 11, 2026.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/puka-nacua-suspended-nfl-203518733.html"
+          "url": "https://sports.yahoo.com/articles/spurs-aim-stop-bleeding-wemby-211200072.html"
         },
         {
-          "headline": "Detroit Tigers Face Major Zach McKinstry Decision Before Friday Deadline",
-          "summary": "The Detroit Tigers have until Friday at 5 p.m. ET to tender a 2027 contract to infielder Zach McKinstry , and the price is what makes the deadline real.",
+          "headline": "Impressive FCB women celebrate hard-fought victory in Vienna",
+          "summary": "Harder scores her 70th goal for FC Bayern First competitive match against an Austrian side Still unbeaten in the Champions League FC Bayern Women have continued their good form on the road in Europe by winning third away game in the Champions League to remain unbeaten. Head coach José Barcala ’s side won their first ever meeting with an Austrian team 4–0…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/detroit-tigers-face-major-zach-203500562.html"
+          "url": "https://sports.yahoo.com/articles/impressive-fcb-women-celebrate-hard-211100608.html"
         }
       ]
     },
@@ -792,6 +872,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President",
+          "summary": "Veteran executive and producer Tendo Nagenda will join Proximity Media as president, company founders Ryan Coogler, Zinzi Coogler and Sev Ohanian announced on Thursday. “Tendo has spent his career working alongside talented filmmakers, championing original ideas and helping make projects that resonate with audiences around the world,” the Cooglers and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/tendo-nagenda-ryan-coogler-proximity-media-president-1236952410/"
+        },
         {
           "headline": "How the Steadicam sprinted up the stairs along with Rocky",
           "summary": "Rocky. '/> A new movie about the making of Sylvester Stallone's 1976 film Rocky opens nationwide this week.",
@@ -815,12 +901,6 @@
           "summary": "Somebody at every awards season party, and everybody on the internet, will tell you why a movie can’t grab a best picture nomination — or even win the prize. It opened too early.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/awards/the-odyssey-dune-you-can-see-everything-best-picture-race-1236952487/"
-        },
-        {
-          "headline": "New ‘Serendipity’ Movie Casts Auli‘i Cravalho (EXCLUSIVE)",
-          "summary": "Auli‘i Cravalho is the latest addition to the new “Serendipity” movie in the works at Amazon MGM Studios and Miramax, Variety has learned exclusively. The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411/"
         }
       ]
     },
@@ -829,34 +909,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
-          "summary": "EXCLUSIVE: Brandon T. Jackson (I’m Beginning To See The Light) has been tapped for a recurring role in The Rockford Files, NBC’s upcoming reboot starring David Boreanaz in the role originated by James Garner on the 1974 series.",
+          "headline": "‘Spider-Man: Brand New Day’ Re-Release: First Look At Rosario Dawson As Night Nurse In Deleted Scene",
+          "summary": "Rosario Dawson has shared a first look at her Spider-Man: Brand New Day cameo as Claire Temple (Night Nurse). The scene originally didn’t make the cut that Marvel fans saw in theaters earlier this year, but it will be included in the re-release of the film slated for December 4.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/"
+          "url": "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-nurse-deleted-scene-1237229518/"
         },
         {
-          "headline": "Teagan Meredith & Jacob Batalon Join Disney’s ‘Lilo & Stitch 2’",
-          "summary": "EXCLUSIVE: Disney Live Action has added two to the cast of Lilo & Stitch 2: young up-and-comer Teagan Meredith (Fallout) and the Spider-Man franchise’s Jacob Batalon. The studio also confirmed returning cast, including Maia Kealoha as Lilo, along with Courtney B.",
+          "headline": "Playbill Apologizes Over ‘George Floyd Musical’ Ad; Show’s Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights",
+          "summary": "Playbill, the ubiquitous and indispensable New York-based theater publication that features show synopsis, cast biographies and, on its website, stage-related job listings, apologized today for one such ad: a listing calling for singers interested in auditioning for a new concept stage musical album. The cast album’s title: George Floyd: The Musical.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336/"
+          "url": "https://deadline.com/2026/11/playbill-george-floyd-musical-busted-broadway-kevin-lynch-1237229358/"
         },
         {
-          "headline": "Zooey Deschanel & Caleb Hearon TIFF World Premiere ‘Trash Mountain’ Acquired By Magnolia Pictures",
-          "summary": "EXCLUSIVE: The TIFF world premiere, Trash Mountain, starring Zooey Deschanel and Caleb Hearon, is seeing its North American rights go to Magnolia Pictures for a theatrical release next year. The Kris Rey directed, Hearon co-written, Colin Trevorrow produced feature follows the story of Gavin (Hearon), a young gay Chicago man who is forced to return […]",
+          "headline": "Tendo Nagenda Tapped As President Of Proximity Media",
+          "summary": "Veteran industry exec Tendo Nagenda is joining Proximity Media, as its new President. In this role, Nagenda will oversee all aspects of creative development and production across the company’s film, television and nonfiction divisions, reporting directly to the founders, to advance Proximity’s creative strategy and deliver their slate of projects.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457/"
+          "url": "https://deadline.com/2026/11/tendo-nagenda-ryan-coogler-proximity-media-1237228818/"
         },
         {
-          "headline": "Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B ‘Lucky Loser’ Defamation Suit",
-          "summary": "Donald Trump’s never ending war against what the former Apprentice host loves to term “fake news” just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.",
+          "headline": "Justin Hartley & ChangeUp Productions Developing Medical Drama ‘Dr. Lucia’ At NBC",
+          "summary": "EXCLUSIVE: Justin Hartley and his production company, ChangeUp Productions, are developing the new medical drama Dr. Lucia at NBC.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384/"
+          "url": "https://deadline.com/2026/11/justin-hartley-developing-dr-lucia-series-nbc-1237229428/"
         },
         {
-          "headline": "Edgar Barrera Signs With Fortress Talent Management",
-          "summary": "Grammy winner Edgar Barrera has signed with Fortress Talent Management for film and television representation. Barrera’s signing comes after he recently made history as the most-awarded individual at the Latin Grammys, with a record 33 wins.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241/"
+          "headline": "Netflix and Disney Alum Tendo Nagenda Joins Proximity Media as President",
+          "summary": "Veteran executive and producer Tendo Nagenda will join Proximity Media as president, company founders Ryan Coogler, Zinzi Coogler and Sev Ohanian announced on Thursday. “Tendo has spent his career working alongside talented filmmakers, championing original ideas and helping make projects that resonate with audiences around the world,” the Cooglers and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/tendo-nagenda-ryan-coogler-proximity-media-president-1236952410/"
         }
       ]
     },
@@ -865,34 +945,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
-          "summary": "EXCLUSIVE: Brandon T. Jackson (I’m Beginning To See The Light) has been tapped for a recurring role in The Rockford Files, NBC’s upcoming reboot starring David Boreanaz in the role originated by James Garner on the 1974 series.",
+          "headline": "‘Spider-Man: Brand New Day’ Re-Release: First Look At Rosario Dawson As Night Nurse In Deleted Scene",
+          "summary": "Rosario Dawson has shared a first look at her Spider-Man: Brand New Day cameo as Claire Temple (Night Nurse). The scene originally didn’t make the cut that Marvel fans saw in theaters earlier this year, but it will be included in the re-release of the film slated for December 4.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/"
+          "url": "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-nurse-deleted-scene-1237229518/"
         },
         {
-          "headline": "Teagan Meredith & Jacob Batalon Join Disney’s ‘Lilo & Stitch 2’",
-          "summary": "EXCLUSIVE: Disney Live Action has added two to the cast of Lilo & Stitch 2: young up-and-comer Teagan Meredith (Fallout) and the Spider-Man franchise’s Jacob Batalon. The studio also confirmed returning cast, including Maia Kealoha as Lilo, along with Courtney B.",
+          "headline": "Playbill Apologizes Over ‘George Floyd Musical’ Ad; Show’s Controversial Creator Previously Sued Off Broadway Venue Over BIPOC Nights",
+          "summary": "Playbill, the ubiquitous and indispensable New York-based theater publication that features show synopsis, cast biographies and, on its website, stage-related job listings, apologized today for one such ad: a listing calling for singers interested in auditioning for a new concept stage musical album. The cast album’s title: George Floyd: The Musical.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336/"
+          "url": "https://deadline.com/2026/11/playbill-george-floyd-musical-busted-broadway-kevin-lynch-1237229358/"
         },
         {
-          "headline": "Zooey Deschanel & Caleb Hearon TIFF World Premiere ‘Trash Mountain’ Acquired By Magnolia Pictures",
-          "summary": "EXCLUSIVE: The TIFF world premiere, Trash Mountain, starring Zooey Deschanel and Caleb Hearon, is seeing its North American rights go to Magnolia Pictures for a theatrical release next year. The Kris Rey directed, Hearon co-written, Colin Trevorrow produced feature follows the story of Gavin (Hearon), a young gay Chicago man who is forced to return […]",
+          "headline": "Tendo Nagenda Tapped As President Of Proximity Media",
+          "summary": "Veteran industry exec Tendo Nagenda is joining Proximity Media, as its new President. In this role, Nagenda will oversee all aspects of creative development and production across the company’s film, television and nonfiction divisions, reporting directly to the founders, to advance Proximity’s creative strategy and deliver their slate of projects.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457/"
+          "url": "https://deadline.com/2026/11/tendo-nagenda-ryan-coogler-proximity-media-1237228818/"
         },
         {
-          "headline": "Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B ‘Lucky Loser’ Defamation Suit",
-          "summary": "Donald Trump’s never ending war against what the former Apprentice host loves to term “fake news” just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.",
+          "headline": "Justin Hartley & ChangeUp Productions Developing Medical Drama ‘Dr. Lucia’ At NBC",
+          "summary": "EXCLUSIVE: Justin Hartley and his production company, ChangeUp Productions, are developing the new medical drama Dr. Lucia at NBC.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384/"
+          "url": "https://deadline.com/2026/11/justin-hartley-developing-dr-lucia-series-nbc-1237229428/"
         },
         {
-          "headline": "Edgar Barrera Signs With Fortress Talent Management",
-          "summary": "Grammy winner Edgar Barrera has signed with Fortress Talent Management for film and television representation. Barrera’s signing comes after he recently made history as the most-awarded individual at the Latin Grammys, with a record 33 wins.",
+          "headline": "‘The Odyssey’s Christopher Nolan Explains Why “No One Will Ever See” Deleted Scenes Of Epic",
+          "summary": "Christopher Nolan has revealed that The Odyssey has many deleted scenes, but no one will ever get a chance to see them. In a new interview, the filmmaker explained why he doesn’t believe in a director’s cut of his work.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241/"
+          "url": "https://deadline.com/2026/11/the-odyssey-christopher-nolan-deleted-scenes-1237229494/"
         }
       ]
     },
@@ -901,6 +981,24 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Michelle Salas Has the Look and the Chisme to Go With It | Presented by Shark Beauty",
+          "summary": "This is partner content. Presented by Shark Beauty.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/michelle-salas-has-the-look-and-the-chisme-to-go-with-it/"
+        },
+        {
+          "headline": "‘Grand Theft Auto VI’ Drops for Sony PlayStation 5 and Xbox Series X/S: Here’s Where to Shop the Game Online",
+          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/grand-theft-auto-6-gta-6-ps5-xbox-how-to-buy-shop-online-1236385610/"
+        },
+        {
+          "headline": "2026 CMA Awards: 6 Things You Didn’t See on TV",
+          "summary": "Typically, when someone wins multiple trophies during the CMA Awards, they end up holding all of the crystal hardware in their arms in the press room backstage, providing a visual image of their bounty for photographers covering the event. Related Best Photos From 2026 CMA Awards Red Carpet: Taylor Swift, Lainey Wilson, Megan Moroney & More When Ella…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/cma-awards-2026-best-moments-behind-scenes/"
+        },
+        {
           "headline": "Here’s the Date the 2026 Kennedy Center Honors Will Air on CBS",
           "summary": "The Kennedy Center Honors will air on Sunday, Dec. 27 (8:30-10:30 p.m.",
           "source": "Billboard",
@@ -908,30 +1006,12 @@
         },
         {
           "headline": "50 Cent Beats Lawsuit From Ex-Exec Who Says She Was Fired for Refusing to Join in Illegal Conduct",
-          "summary": "50 Cent has won a ruling dismissing a lawsuit that claimed he threatened and harassed a former exec at his company — but the battle might not be over just yet. Monique Mayers , who worked at Fifty’s companies for more than a decade, sued the rapper earlier this year , claiming he had “waged a years‑long campaign of retaliation, harassment, and…",
+          "summary": "50 Cent has won a ruling dismissing a lawsuit that claimed he threatened and harassed a former exec at his company — but the battle likely isn’t over just yet. Monique Mayers , who worked at Fifty’s companies for more than a decade, sued the rapper earlier this year , claiming he had “waged a years‑long campaign of retaliation, harassment, and…",
           "source": "Billboard",
           "url": "https://www.billboard.com/pro/50-cent-lawsuit-dismissed-fired-exec-case-tossed-judge/"
-        },
-        {
-          "headline": "Bad Bunny’s Adidas BadBo Sneakers Get Two New Puerto Rico-Inspired Colorways — Here’s Where to Buy",
-          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/product-recommendations/bad-bunny-adidas-badbo-sneakers-where-to-buy-nov-2026-1236385850/"
-        },
-        {
-          "headline": "Armand Hammer has what it takes to outlast the end times",
-          "summary": "Snakes & Ladders. '/> Their new album makes the case for rappers Elucid and billy woods as an era-defining team: attuned to a dark sociopolitical moment, yet powered by a humans-first creative ethic.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/19/nx-s1-6044229/armand-hammer-snakes-ladders-review"
-        },
-        {
-          "headline": "Tatsuya Endo’s ‘SPY×FAMILY’ Vol. 18 Holds at No. 1 on Billboard Japan Book Hot 100",
-          "summary": "Tatsuya Endo’s SPY×FAMILY Vol. 18 logs its second week at No.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/chart-beat/tatsuya-endo-spyfamily-18-holds-atop-japan-book-hot-100-1236385853/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T15:46:01-05:00"
+  "updatedAt": "2026-11-19T16:19:15-05:00"
 }
