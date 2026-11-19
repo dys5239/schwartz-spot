@@ -6,6 +6,18 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Meta’s Muse Charm might cost $300",
+          "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information . CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+        },
+        {
+          "headline": "The unfolding Jensen Huang scandal: a timeline",
+          "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        },
+        {
           "headline": "Google is putting AI chats right on the homepage",
           "summary": "Google is updating its homepage to include AI searches. In a post on X , Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats.",
           "source": "The Verge",
@@ -22,18 +34,6 @@
           "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-        },
-        {
-          "headline": "Gemini on Mac can now use your computer",
-          "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says . Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
-        },
-        {
-          "headline": "Google gives Gemini the ability to use your Mac for you",
-          "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
         }
       ]
     },
@@ -42,16 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "South Florida severe weather and flooding live updates",
-          "summary": "After more than 15 inches of rain flooded parts of South Florida, schools remain closed and roads underwater Thursday as another round of heavy rain threatens to worsen conditions.",
+          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
+          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
-        },
-        {
-          "headline": "Trump’s CISA pick rejects Jan. 6 as an 'attack,' won't name 2020 election winner",
-          "summary": "Michael LoSapio, President Donald Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, says he doesn't consider the Jan_ 6 Capitol insurrection an \"attack.\"",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268"
+          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
         },
         {
           "headline": "Iran may be working on biological weapons, Trump says",
@@ -60,16 +54,22 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
         },
         {
-          "headline": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
-          "summary": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss"
+          "headline": "South Florida severe weather and flooding live updates",
+          "summary": "After more than 15 inches of rain flooded parts of South Florida, a flood watch has been extended into Friday morning as schools announce reopening plans.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
         },
         {
-          "headline": "Gamers, start your engines. Grand Theft Auto 6 is ready to roll.",
-          "summary": "The latest, long-awaited version of the hit video game franchise launches at midnight local time on Nov. 19 in countries worldwide.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
+          "headline": "What to know as nearly 10K pounds of lead azide to be blasted at Army plant",
+          "summary": "Two rapid controlled detonations are scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613"
+        },
+        {
+          "headline": "Frank happy to be 'back in the circus' at Palace",
+          "summary": "Thomas Frank is happy to be \"back in the circus\" after speaking at his first news conference as Crystal Palace manager.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123517768918352269",
+          "created_at": "2026-11-19T20:44:23.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BASED! @POTUS DOES NOT SLEEP, ALWAYS WORKING! 💪\n\nWhen asked on his trip back from China, \"why aren't you asleep?\", President Trump replied...\n\n\"I don't sleep until I get back to the White House.” \n\nhttps://t.co/i8gR8N3Ou0",
+          "url": "https://x.com/RealAmVoice/status/2123517768918352269",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123516375805379040",
+          "created_at": "2026-11-19T20:38:51.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the https://t.co/ERtoYN9tcU",
+          "url": "https://x.com/SpaceX/status/2123516375805379040",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123515943435620781",
+          "created_at": "2026-11-19T20:37:08.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TEXAS: \"WE HAVE BEEN INVADED BY LIBERAL STATES. MY HOME STATE IS UNRECOGNIZABLE\"\n\n\"Do not bring the very policies you are trying to ESCAPE. Just doesn't feel like Texas. Our CULTURE is worth PRESERVING.\" @tashaowensmusic discusses her new song, \"American Values\". https://t.co/iZRIryTmrP",
+          "url": "https://x.com/RealAmVoice/status/2123515943435620781",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123514694090862678",
+          "created_at": "2026-11-19T20:32:10.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: SENATE REJECTS IRAN WAR POWERS RESOLTUION, 48-51\n\nDemocrat Sen. Fetterman voted with Republicans against it.  Three Republicans, Susan Collins, Lisa Murkowski and Rand Paul, voted in favor. \n\nhttps://t.co/M2Utwrypd5",
+          "url": "https://x.com/RealAmVoice/status/2123514694090862678",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123513923198394663",
+          "created_at": "2026-11-19T20:29:06.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Will ESPN’s broadcast duo of Joe Buck and Troy Aikman make it to the network’s first Super Bowl in February?\n\nAfter his last public shot at Buck, it seems like Aikman could be angling for a breakup, writes @mattyfoles \nhttps://t.co/llAdHDLt3T",
+          "url": "https://x.com/SportNState/status/2123513923198394663",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123511529068757117",
+          "created_at": "2026-11-19T20:19:36.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I have no problem with Indians. I do have a problem with @ssharmaUS sabotaging personnel hires inside the WH and at DoW and DoJ. It’s simply a fact that he was born in India. \n\nBut I’m not shocked to see you come to the defense of your watermelon emoji posting friend, Amber https://t.co/YVbx9yhVes https://t.co/e9vwjsMCPg",
+          "url": "https://x.com/LauraLoomer/status/2123511529068757117",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123511297224417435",
+          "created_at": "2026-11-19T20:18:40.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Zelensky: Europe will get all of Ukraine's technologies.\n\n\"There will be a lot of co-production, and they know that we have some systems, really some systems, which nobody has for today. Nobody.\"\n\n\"Of course, now we are sharing, but there are some things which we will share after",
+          "url": "https://x.com/Osint613/status/2123511297224417435",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123509606219645222",
           "created_at": "2026-11-19T20:11:57.000Z",
@@ -109,16 +179,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123507457012232281",
-          "created_at": "2026-11-19T20:03:25.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "HISTORIC AIR FORCE ONE FLIGHT FOLLOWS HISTORIC MEETINGS!\n\nA 15-hour haul, AF1 will not be stopping once to refuel. The plane has 1 million pounds of jet fuel. President Trump says his trip back to \"will be the longest continuous flight in Air Force One history.\" https://t.co/6HIhRWCxbG",
-          "url": "https://x.com/RealAmVoice/status/2123507457012232281",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123507388896715141",
           "created_at": "2026-11-19T20:03:09.000Z",
           "author_name": "Open Source Intel",
@@ -127,16 +187,6 @@
           "url": "https://x.com/Osint613/status/2123507388896715141",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123507285645287592",
-          "created_at": "2026-11-19T20:02:44.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BUKELE CRUSHES HAITI GANGS, TRUMP FORGES NUCLEAR PACT | AMERICAS VOICE LIVE\nGood afternoon! We invite you to join us for America's Voice Live with your host, Steve Gruber. Watch AVL M-F AT 3PM ET. @SteveGruberShow\n https://t.co/NjOGhiD9Wr",
-          "url": "https://x.com/RealAmVoice/status/2123507285645287592",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123506602015887795",
@@ -187,36 +237,6 @@
           "url": "https://x.com/_The_Prophet__/status/2123502635701666013",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123501828642074670",
-          "created_at": "2026-11-19T19:41:03.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "\"Crimea is Ukraine, and we can do whatever we want with what belongs to us.\"\n\nZelensky, responding to the Crimea Bridge strike.",
-          "url": "https://x.com/Osint613/status/2123501828642074670",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123501332334276956",
-          "created_at": "2026-11-19T19:39:05.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DEMS DEFINITION OF AFFORDABILITY: $212 TRILLION  WORTH OF PROPOSALS!\n\nDr. Oz: \"If you CRUSH the system, you will devastate the systems we have and leave NOTHING in their place!\"\n\nhttps://t.co/9EoXs6wJ9c",
-          "url": "https://x.com/RealAmVoice/status/2123501332334276956",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123501291020419387",
-          "created_at": "2026-11-19T19:38:55.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🇺🇸 FAITH. FAMILY. FREEDOM. AMERICAN VALUES!\n\nCountry music artist @tashaowensmusic is back with her brand-new single, “American Values,” celebrating the principles that bring Americans together!\n\n“We can beg to differ, as long as we both agree on American values!” 🎶\n\n🎵 PRE-SAVE https://t.co/9eqY1fUXBZ",
-          "url": "https://x.com/RealAmVoice/status/2123501291020419387",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123499036212887733",
@@ -289,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123485367059812646",
-          "created_at": "2026-11-19T18:35:38.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Because everyone knows Heritage is a cesspool of Jew haters. https://t.co/4vJnDN3odc",
-          "url": "https://x.com/LauraLoomer/status/2123485367059812646",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123482697809154486",
           "created_at": "2026-11-19T18:25:02.000Z",
           "author_name": "Clay Travis",
@@ -365,16 +375,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Bummer. https://t.co/laW7h91Pe2",
           "url": "https://x.com/_The_Prophet__/status/2123475033842675812",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123474444291387513",
-          "created_at": "2026-11-19T17:52:14.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️This is exactly the cohort that gets crushed first if people misunderstand what “50% of tasks automated” actually means.\n\nThe 48-year-old accountant is not automatically unemployed in 2029.\n\nBut the labor market around him changes violently.\n\nA department that once needed 20 https://t.co/q096NvPYUi",
-          "url": "https://x.com/_The_Prophet__/status/2123474444291387513",
           "verified": true,
           "verified_type": "blue"
         },
@@ -465,16 +465,6 @@
           "author_handle": "SportNState",
           "text": "Bet The Board - CFB Week 12 Best Bets 💰\n\n@BradPowers7  and @KegsnEggs return to break down the biggest matchups, coaching edges, and injuries while analyzing the latest betting odds on @HardRockBet.\n\nThe guys are on a 28-10 run 🔥\n\nhttps://t.co/nf1d8XOU7T",
           "url": "https://x.com/SportNState/status/2123461307777085535",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123456530309578804",
-          "created_at": "2026-11-19T16:41:03.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Stephen A. Smith and Jay Williams got into a heated public back-and-forth after Smith challenged the NBA’s “brothers” to stop a Lakers team led by Luka Dončić, Austin Reaves and Walker Kessler.\n\nWilliams called out the racial double standard, and Smith continued to doubled down.",
-          "url": "https://x.com/SportNState/status/2123456530309578804",
           "verified": true,
           "verified_type": "blue"
         },
@@ -687,16 +677,6 @@
           "url": "https://x.com/SpaceX/status/2123097995679867195",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2122814338893332591",
-          "created_at": "2026-11-17T22:09:13.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad https://t.co/hjfcnVpxLn",
-          "url": "https://x.com/SpaceX/status/2122814338893332591",
-          "verified": true,
-          "verified_type": "business"
         }
       ]
     },
@@ -704,6 +684,12 @@
       "id": "politics",
       "title": "Politics",
       "stories": [
+        {
+          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
+          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+        },
         {
           "headline": "Trump’s CISA pick rejects Jan. 6 as an 'attack,' won't name 2020 election winner",
           "summary": "Michael LoSapio, President Donald Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, says he doesn't consider the Jan_ 6 Capitol insurrection an \"attack.\"",
@@ -727,12 +713,6 @@
           "summary": "CBS has reached a one-year deal to air the awards ceremony next month, sources said.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/kennedy-center-honors-cbs-2026/"
-        },
-        {
-          "headline": "Putin says Russia won't negotiate with Ukraine after bridge strike",
-          "summary": "Russian President Vladimir Putin said Russia will not negotiate any limited ceasefire now with Ukraine, citing a Ukrainian strike on a highly symbolic bridge this week.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/"
         }
       ]
     },
@@ -741,34 +721,34 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
-          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+          "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+          "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html"
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         },
         {
-          "headline": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-          "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+          "headline": "Congress passes bill to protect older investors from financial fraud",
+          "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+          "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html"
         },
         {
-          "headline": "Gamers, start your engines. Grand Theft Auto 6 is ready to roll.",
-          "summary": "The latest, long-awaited version of the hit video game franchise launches at midnight local time on Nov. 19 in countries worldwide.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
-        },
-        {
-          "headline": "Hardcore GTA fans ditch work so they have time to play",
-          "summary": "Some employees locked in their time off months ago, so they're free to start playing Grand Theft Auto 6 as soon as it launches on Nov. 19.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/"
-        },
-        {
-          "headline": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-          "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+          "headline": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
+          "summary": "Social Security's trust funds face a looming shortfall. But AARP says Sen.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
+          "url": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html"
+        },
+        {
+          "headline": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+          "summary": "Payward, the owner of crypto exchange Kraken, is pushing into private markets with its purchase of venture capital and asset management provider Tribe Capital.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html"
+        },
+        {
+          "headline": "3-step method to influence people and win them over, from a Stanford expert: ‘Your voice is like a muscle’",
+          "summary": "Stanford University communications lecturer Matt Abrahams teaches current and future leaders how to train their voices to be more engaging and persuasive.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/make-it/2026/11/19/matt-abrahams-persuasive-speaking-tips.html"
         }
       ]
     },
@@ -777,34 +757,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Spurs guard Dylan Harper diagnosed with left rotator hip strain, expected to sideline him up to 3 weeksx",
-          "summary": "San Antonio Spurs guard Dylan Harper has reportedly been diagnosed with a left hip rotator strain, ESPN’s Shams Charania reports . The recovery timetable for that injury is one to three weeks, depending on how Harper’s rehabilitation progresses.",
+          "headline": "Mark Walter Could Sell The WNBA’s Los Angeles Sparks For Record $750 Million, Reports Say",
+          "summary": "Topline Billionaire Mark Walter is preparing to sell the WNBA’s Los Angeles Sparks to billionaire Jose Feliciano and his wife Kwanza Jones, according to multiple reports on Thursday, who will buy the team for $750 million—a record sum for a WNBA franchise. The billionaire owner of the Los Angeles Dodgers is preparing to sell the WNBA team to Jose…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/spurs-guard-dylan-harper-diagnosed-with-left-rotator-hip-strain-expected-to-sideline-him-up-to-3-weeksx-201237563.html"
+          "url": "https://sports.yahoo.com/articles/mark-walter-could-sell-wnba-203714308.html"
         },
         {
-          "headline": "Bears QB Caleb Williams has top-selling jersey for 2026 season",
-          "summary": "It's been quite the year for Chicago Bears quarterback Caleb Williams. He has graced the cover of EA's Madden 27 video game, entered the NFL's Top 100 players of 2026, and has overcome injury to lead the Bears to a 7-2 record at the midway point of the season.",
+          "headline": "Brooks Koepka’s PGA Tour Return Falls Short Of Expectations",
+          "summary": "Dan Hamilton-Imagn Images Brooks Koepka’s return to the PGA Tour has not matched the high expectations set for a five-time major champion. The golfer who once dominated the world stage now faces a steep climb to regain his form.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bears-qb-caleb-williams-top-201028131.html"
+          "url": "https://sports.yahoo.com/articles/brooks-koepka-pga-tour-return-203620060.html"
         },
         {
-          "headline": "Five-star Landen Wade honored as a 2027 Navy All-American",
-          "summary": "Defensive lineman Landen Wade (Chandler, Arizona/ Basha High School) was officially honored as a 2027 Navy All-American during a virtual jersey presentation as part of the Road to the Dome tour. Navy All-American Bowl Defensive lineman Landen Wade (Chandler, Arizona/ Basha High School) was officially honored as a 2027 Navy All-American during a virtual…",
+          "headline": "Kings captain Drew Doughty makes major agent move in contract year",
+          "summary": "Mandatory Credit: Griffin Hooper-Imagn Images Kings captain Drew Doughty makes major agent move in contract year appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/five-star-landen-wade-honored-201004853.html"
+          "url": "https://sports.yahoo.com/articles/kings-captain-drew-doughty-makes-203551038.html"
         },
         {
-          "headline": "Timberwolves star Anthony Edwards speaks on decision to undergo knee surgery, has no clear return timeline: 'Whenever my knee tells me it’s ready, then I’ll be ready'",
-          "summary": "Three weeks after undergoing arthroscopic surgery on his ailing knee , Minnesota Timberwolves star Anthony Edwards is speaking out about his recovery. On Thursday, the guard talked to reporters for the first time since the procedure, saying that the rehabilitation process was “going great” and that he was focused on improving the strength in his leg…",
+          "headline": "Puka Nacua suspended by the NFL",
+          "summary": "Los Angeles Rams WR Puka Nacua has been suspended for three games for violating the league’s personal conduct policy. SOURCE: ESPN's Adam Schefter Why It Matters: Nacua will suspended for games he was going to miss anyway, so this won't affect the Rams plans at the moment.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/timberwolves-star-anthony-edwards-speaks-on-decision-to-undergo-knee-surgery-has-no-clear-return-timeline-whenever-my-knee-tells-me-its-ready-then-ill-be-ready-200950484.html"
+          "url": "https://sports.yahoo.com/articles/puka-nacua-suspended-nfl-203518733.html"
         },
         {
-          "headline": "Fantasy Football Rankings: Hayden Winks' QB/TE/DEF/K Blueprint for Week 11",
-          "summary": "The Blueprint is my weekly column and basically everything that I use to build out the most accurate rankings I can. There will be an RB column, a WR column and this combination column on the onesie positions .",
+          "headline": "Detroit Tigers Face Major Zach McKinstry Decision Before Friday Deadline",
+          "summary": "The Detroit Tigers have until Friday at 5 p.m. ET to tender a 2027 contract to infielder Zach McKinstry , and the price is what makes the deadline real.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-rankings-hayden-winks-qbtedefk-blueprint-for-week-11-200938137.html"
+          "url": "https://sports.yahoo.com/articles/detroit-tigers-face-major-zach-203500562.html"
         }
       ]
     },
@@ -812,6 +792,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "How the Steadicam sprinted up the stairs along with Rocky",
+          "summary": "Rocky. '/> A new movie about the making of Sylvester Stallone's 1976 film Rocky opens nationwide this week.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6027243/rocky-steadicam-garrett-brown"
+        },
         {
           "headline": "Rosario Dawson Drops First Look at Night Nurse in ‘Spider-Man: Brand New Day’ Re-Release as Her Cut Scenes Are Restored",
           "summary": "“Spider-Man: Brand New Day” broke box office records when it hit theaters over the summer, but several scenes were left on the cutting room floor. One of those included Rosario Dawson’s character Claire Temple, aka the Night Nurse, from Netflix’s Marvel shows.",
@@ -835,12 +821,6 @@
           "summary": "Auli‘i Cravalho is the latest addition to the new “Serendipity” movie in the works at Amazon MGM Studios and Miramax, Variety has learned exclusively. The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411/"
-        },
-        {
-          "headline": "Watermelon Pictures Buys Zach Woods’ ‘The Accompanist,’ Starring Susan Sarandon and Aubrey Plaza",
-          "summary": "Watermelon Pictures has acquired North American distribution rights to “The Accompanist,” co-written and directed by actor, writer and comedian Zach Woods in his directorial debut. The film, which premiered at the Tribeca Film Festival, stars Oscar winner Susan Sarandon (“Dead Man Walking,” “Bull Durham”), alongside Emmy and Golden Globe nominee Aubrey…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/zach-woods-the-accompanist-bought-by-watermelon-pictures-1236953474/"
         }
       ]
     },
@@ -849,8 +829,26 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
+          "summary": "EXCLUSIVE: Brandon T. Jackson (I’m Beginning To See The Light) has been tapped for a recurring role in The Rockford Files, NBC’s upcoming reboot starring David Boreanaz in the role originated by James Garner on the 1974 series.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/"
+        },
+        {
+          "headline": "Teagan Meredith & Jacob Batalon Join Disney’s ‘Lilo & Stitch 2’",
+          "summary": "EXCLUSIVE: Disney Live Action has added two to the cast of Lilo & Stitch 2: young up-and-comer Teagan Meredith (Fallout) and the Spider-Man franchise’s Jacob Batalon. The studio also confirmed returning cast, including Maia Kealoha as Lilo, along with Courtney B.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336/"
+        },
+        {
+          "headline": "Zooey Deschanel & Caleb Hearon TIFF World Premiere ‘Trash Mountain’ Acquired By Magnolia Pictures",
+          "summary": "EXCLUSIVE: The TIFF world premiere, Trash Mountain, starring Zooey Deschanel and Caleb Hearon, is seeing its North American rights go to Magnolia Pictures for a theatrical release next year. The Kris Rey directed, Hearon co-written, Colin Trevorrow produced feature follows the story of Gavin (Hearon), a young gay Chicago man who is forced to return […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457/"
+        },
+        {
           "headline": "Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B ‘Lucky Loser’ Defamation Suit",
-          "summary": "Donald Trump’s never ending war against what the former Apprentice host loves to term fake news just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.",
+          "summary": "Donald Trump’s never ending war against what the former Apprentice host loves to term “fake news” just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384/"
         },
@@ -859,24 +857,6 @@
           "summary": "Grammy winner Edgar Barrera has signed with Fortress Talent Management for film and television representation. Barrera’s signing comes after he recently made history as the most-awarded individual at the Latin Grammys, with a record 33 wins.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241/"
-        },
-        {
-          "headline": "Mary Steenburgen, Kyra Sedgwick & Sophia Bush Set For Indie ‘Kindred Spirits’; Hilary Swank Among Producers",
-          "summary": "EXCLUSIVE: Academy Award winner Hilary Swank is among the producers of Kindred Spirits, an indie starring Mary Steenburgen (The Dink), Kyra Sedgwick (Family Movie) and Sophia Bush (Grey’s Anatomy) that has entered production in England. Directed by Grant S.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419/"
-        },
-        {
-          "headline": "American Society Of Cinematographers Focuses In On 2027 Career Honorees",
-          "summary": "The American Society of Cinematographers has its 2027 career award recipients. Newton Thomas Sigel will receive the organization’s Lifetime Achievement Award, Robert McLachlan will be honored with the Career Achievement in Television Award, and Dejan Georgevich is set with the President’s Award.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/american-society-of-cinematographers-2027-career-honorees-1237229325/"
-        },
-        {
-          "headline": "Nat Geo Explores The Unabomber’s Brother, Somali Pirates & Hantavirus In New Doc Slate",
-          "summary": "EXCLUSIVE: National Geographic is exploring the people and decisions behind pivotal events of the past three decades with its latest documentary slate. The Disney-owned brand has greenlit three documentaries about the brother of the Unabomber, Somali pirates and the Hantavirus.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/unabombers-brother-somali-pirates-hantavirus-nat-geo-slate-1237228342/"
         }
       ]
     },
@@ -885,8 +865,26 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Brandon T. Jackson Joins ‘The Rockford Files’ In Recurring Role",
+          "summary": "EXCLUSIVE: Brandon T. Jackson (I’m Beginning To See The Light) has been tapped for a recurring role in The Rockford Files, NBC’s upcoming reboot starring David Boreanaz in the role originated by James Garner on the 1974 series.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/brandon-t-jackson-the-rockford-files-recurring-cast-1237229451/"
+        },
+        {
+          "headline": "Teagan Meredith & Jacob Batalon Join Disney’s ‘Lilo & Stitch 2’",
+          "summary": "EXCLUSIVE: Disney Live Action has added two to the cast of Lilo & Stitch 2: young up-and-comer Teagan Meredith (Fallout) and the Spider-Man franchise’s Jacob Batalon. The studio also confirmed returning cast, including Maia Kealoha as Lilo, along with Courtney B.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/lilo-and-stitch-2-cast-jacob-batalon-teagan-meredith-1237229336/"
+        },
+        {
+          "headline": "Zooey Deschanel & Caleb Hearon TIFF World Premiere ‘Trash Mountain’ Acquired By Magnolia Pictures",
+          "summary": "EXCLUSIVE: The TIFF world premiere, Trash Mountain, starring Zooey Deschanel and Caleb Hearon, is seeing its North American rights go to Magnolia Pictures for a theatrical release next year. The Kris Rey directed, Hearon co-written, Colin Trevorrow produced feature follows the story of Gavin (Hearon), a young gay Chicago man who is forced to return […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/zooey-deschanel-caleb-hearon-trash-mountain-1237229457/"
+        },
+        {
           "headline": "Grand Trump Accomplisment: POTUS Defeats NYT Move To Toss $15B ‘Lucky Loser’ Defamation Suit",
-          "summary": "Donald Trump’s never ending war against what the former Apprentice host loves to term fake news just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.",
+          "summary": "Donald Trump’s never ending war against what the former Apprentice host loves to term “fake news” just scored a win against the New York Times in the Florida courts. A win that could come with a $15 billion price tag down the legal line.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/trump-new-york-times-lawsuit-latest-1237229384/"
         },
@@ -895,24 +893,6 @@
           "summary": "Grammy winner Edgar Barrera has signed with Fortress Talent Management for film and television representation. Barrera’s signing comes after he recently made history as the most-awarded individual at the Latin Grammys, with a record 33 wins.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/edgar-barrera-signs-fortress-talent-management-1237229241/"
-        },
-        {
-          "headline": "Doha Film Festival Opens With Message of Resilience Amongst Geopolitical Turmoil: Filmmaking ‘Brings Humanity to the Headlines’",
-          "summary": "The second edition of the revamped Doha Film Festival opened with a screening of Sara Ishaq’s “The Station” and a strong message of resilience. For the past few weeks, there was speculation on whether or not the Qatari festival would move ahead given the tense geopolitical situation in the region, which has escalated since the […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/doha-film-festival-resilience-geopolitical-turmoil-1236953326/"
-        },
-        {
-          "headline": "Gamers, start your engines. Grand Theft Auto 6 is ready to roll.",
-          "summary": "The latest, long-awaited version of the hit video game franchise launches at midnight local time on Nov. 19 in countries worldwide.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
-        },
-        {
-          "headline": "Mary Steenburgen, Kyra Sedgwick & Sophia Bush Set For Indie ‘Kindred Spirits’; Hilary Swank Among Producers",
-          "summary": "EXCLUSIVE: Academy Award winner Hilary Swank is among the producers of Kindred Spirits, an indie starring Mary Steenburgen (The Dink), Kyra Sedgwick (Family Movie) and Sophia Bush (Grey’s Anatomy) that has entered production in England. Directed by Grant S.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/hilary-swank-kindred-spirits-mary-steenburgen-kyra-sedgwick-1237229419/"
         }
       ]
     },
@@ -920,6 +900,24 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Here’s the Date the 2026 Kennedy Center Honors Will Air on CBS",
+          "summary": "The Kennedy Center Honors will air on Sunday, Dec. 27 (8:30-10:30 p.m.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-kennedy-center-honors-airdate-cbs-1236385879/"
+        },
+        {
+          "headline": "50 Cent Beats Lawsuit From Ex-Exec Who Says She Was Fired for Refusing to Join in Illegal Conduct",
+          "summary": "50 Cent has won a ruling dismissing a lawsuit that claimed he threatened and harassed a former exec at his company — but the battle might not be over just yet. Monique Mayers , who worked at Fifty’s companies for more than a decade, sued the rapper earlier this year , claiming he had “waged a years‑long campaign of retaliation, harassment, and…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/50-cent-lawsuit-dismissed-fired-exec-case-tossed-judge/"
+        },
+        {
+          "headline": "Bad Bunny’s Adidas BadBo Sneakers Get Two New Puerto Rico-Inspired Colorways — Here’s Where to Buy",
+          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/bad-bunny-adidas-badbo-sneakers-where-to-buy-nov-2026-1236385850/"
+        },
         {
           "headline": "Armand Hammer has what it takes to outlast the end times",
           "summary": "Snakes & Ladders. '/> Their new album makes the case for rappers Elucid and billy woods as an era-defining team: attuned to a dark sociopolitical moment, yet powered by a humans-first creative ethic.",
@@ -931,27 +929,9 @@
           "summary": "Tatsuya Endo’s SPY×FAMILY Vol. 18 logs its second week at No.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/chart-beat/tatsuya-endo-spyfamily-18-holds-atop-japan-book-hot-100-1236385853/"
-        },
-        {
-          "headline": "Doja Cat Blasts Rockstar Games for Leaving Her Music Out of ‘GTA 6’: ‘I’m So F–kin Bitter’",
-          "summary": "Doja Cat was looking forward to a call from Rockstar Games, but the phone never rang. The Grammy-winning rapper vented on X on Thursday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-slams-rockstar-games-grand-theft-auto-6-music-1236385746/"
-        },
-        {
-          "headline": "Tinashe Crashes a Plane and Belts Out ‘Melatonin’ During Hilarious ‘GTA VI’ Stream",
-          "summary": "The pop star cracked fans up as she wreaked havoc in Vice City",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901/"
-        },
-        {
-          "headline": "Foo Fighters, Noah Kahan, the Who Lead New Orleans Jazz and Heritage Festival Lineup",
-          "summary": "Brandi Carlile, Gwen Stefani, James Taylor, Jack White, and the Red Clay Strays also set to perform in 2027",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/foo-fighters-noah-kahan-the-who-new-orleans-jazz-fest-1235661091/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T15:15:21-05:00"
+  "updatedAt": "2026-11-19T15:46:01-05:00"
 }
