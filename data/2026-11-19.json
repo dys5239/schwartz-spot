@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Judge further delays Trump's plan for D.C. arch",
+          "summary": "A federal judge is putting President Trump's plans for a triumphal arch on hold for another two weeks. With a Democrat-led Congress coming into session in 2027, lawmakers could throw a wrench into Mr.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/judge-further-delays-trumps-plan-for-dc-arch/"
+        },
+        {
+          "headline": "No major agreements from Trump summit with Putin, Xi",
+          "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin held a historic summit this week in China, but they didn't reach any major agreements. Zeke Miller, deputy Washington bureau chief at the Associated Press, joins CBS News to discuss.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/no-major-agreements-from-trump-summit-with-putin-xi/"
+        },
+        {
+          "headline": "Anthropic's 7 co-founders now worth about $20 billion each after record IPO",
+          "summary": "Anthropic on Thursday posted the largest IPO on record and ended the day with shares up 17%, putting its valuation at $1.7 trillion. Miles Kruppa, technology correspondent for the Economist, joins CBS News with more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/anthropics-7-co-founders-now-worth-about-20-billion-each-after-record-ipo/"
+        },
+        {
+          "headline": "What to know after hackers target Visa, Mastercard and JPMorgan Chase",
+          "summary": "JPMorgan Chase, Visa and Mastercard announced Thursday that a ransomware group hacked into third-party systems used by the firms and accessed data from potentially thousands of customers. CBS News' Ann Berry has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/what-to-know-after-hackers-target-visa-mastercard-and-jpmorgan-chase/"
+        },
+        {
           "headline": "Susan Smith denied parole again, 32 years after drowning sons",
           "summary": "More than 30 years after killing her two young sons, Susan Smith was denied parole for a second time on Thursday. CBS News' Shanelle Kaul has more.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/susan-smith-denied-parole-again-32-years-after-drowning-sons/"
-        },
-        {
-          "headline": "Does our ethnicity change how we experience dying?",
-          "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Trump to speak Friday about summit with Xi and Putin; Zelenskyy meets with U.S. envoys",
-          "summary": "President Trump will speak Friday about the meeting he had this week with Russia's Vladimir Putin and China's Xi Jinping. CBS News' Aidan Stretch has more on that and Ukrainian President Volodymyr Zelenskyy's meeting with U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-to-speak-friday-about-summit-with-xi-and-putin/"
-        },
-        {
-          "headline": "Husband of American detained in Russia says case was not mentioned during Trump meeting with Putin",
-          "summary": "Harold Jezler is the husband of Olga Jezler, an American who has been detained in Russia for over four years. He joins \"The Takeout\" to share details on his wife's condition and call for her safe return.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/husband-of-american-detained-in-russia-speaks-out/"
-        },
-        {
-          "headline": "Trump calls Putin his friend at summit, prompting backlash from some world leaders",
-          "summary": "President Trump insisted that Russian President Vladimir Putin wants to end his war with Ukraine as the two leaders met with Chinese President Xi Jinping. But Putin later told reporters he plans to halt negotiations with the country he invaded in 2022.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/"
         }
       ]
     },
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123599743074865333",
+          "created_at": "2026-11-20T02:10:07.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🚨🚨🚨 https://t.co/EF1mx060tD",
+          "url": "https://x.com/RealAmVoice/status/2123599743074865333",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123598098882847157",
+          "created_at": "2026-11-20T02:03:35.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Hi @grok https://t.co/gTpGpTMFG4",
+          "url": "https://x.com/LauraLoomer/status/2123598098882847157",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123596824497799415",
+          "created_at": "2026-11-20T01:58:32.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A man fatally shot his wife and their three young children, ages 1, 3 and 5, before killing himself in Plant City, Florida, according to the sheriff.\n\nA 911 dispatcher reportedly heard one of the children pleading with their father before gunshots were heard, the sheriff said.",
+          "url": "https://x.com/Osint613/status/2123596824497799415",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123596673926496425",
+          "created_at": "2026-11-20T01:57:56.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "President Trump is back home  https://t.co/U2asSyE5KE",
+          "url": "https://x.com/Osint613/status/2123596673926496425",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123595971838029834",
+          "created_at": "2026-11-20T01:55:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "AEI's Derek Scissors says Nvidia chips should not go to China, and Trump's summit with Xi isn't doing anything that matters\n\n\"Nothing ever happens at these meetings\"\n\n\"NVIDIA chips, AMD chips, those chips should not go to China\"\n\n\"I think there's a hit to NVIDIA revenue coming\" https://t.co/p5ZDQVRid9",
+          "url": "https://x.com/_Investinq/status/2123595971838029834",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123595741578854631",
+          "created_at": "2026-11-20T01:54:13.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "“Trust me bro. Saurabh @ssharmaUS doesn’t hate Jews. Trust me bro. He just likes mocking October 7.”\n\nGee. If only there was a warning sign that this Woke Reich lunatic was bad news. 🤔 \n\nNow he’s making decisions in the White House as it pertains to hiring. \n\nThe White House https://t.co/qkfPLiRDLf https://t.co/7hKp0ugoKn",
+          "url": "https://x.com/LauraLoomer/status/2123595741578854631",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123595581448712570",
+          "created_at": "2026-11-20T01:53:35.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "President Trump is back at the White House after his China trip — and his first words were already focused on what comes next.\n\n“We have a news conference at 12 PM TOMORROW!”\n\nTrump called the trip “really HISTORIC” before heading inside.\n\nAnd the diplomacy isn’t slowing down:",
+          "url": "https://x.com/RealAmVoice/status/2123595581448712570",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123595577522901159",
+          "created_at": "2026-11-20T01:53:34.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "C.J. Stroud drops a bomb to Nico Collins 🔥 https://t.co/lRt1JlCsKZ",
+          "url": "https://x.com/Outkick/status/2123595577522901159",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123595334312194322",
+          "created_at": "2026-11-20T01:52:36.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Me, seven beers deep in the backyard on Thanksgiving 😂 https://t.co/oLxwPpErFQ",
+          "url": "https://x.com/Outkick/status/2123595334312194322",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123595128220647903",
+          "created_at": "2026-11-20T01:51:47.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "VINCE BUTTA: THE GOP WILL RECOVER — “WE’VE BEEN HERE BEFORE”\n\nVince Butta points to new polling showing Marco Rubio surging in the 2028 Republican field, including an Emerson poll putting him at 44%, well ahead of the rest of the pack.\n\n“Marco Rubio significantly ahead from the https://t.co/POje8YKvEO",
+          "url": "https://x.com/RealAmVoice/status/2123595128220647903",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123592943307018638",
+          "created_at": "2026-11-20T01:43:06.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "TNF or GTA 6 🤔 https://t.co/hgTQLWfyc6",
+          "url": "https://x.com/Outkick/status/2123592943307018638",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123592774310338895",
+          "created_at": "2026-11-20T01:42:26.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "This play sums up the Colts defense 😭 https://t.co/kyp5X9wjDO",
+          "url": "https://x.com/Outkick/status/2123592774310338895",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123591773167702298",
           "created_at": "2026-11-20T01:38:27.000Z",
@@ -139,16 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123584834266419277",
-          "created_at": "2026-11-20T01:10:53.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Black woman claims that black people invented almost every modern invention, including the cell phone &amp; air conditioning.\n\nhttps://t.co/Joc9YToFLj",
-          "url": "https://x.com/RealAmVoice/status/2123584834266419277",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123583385121796241",
           "created_at": "2026-11-20T01:05:07.000Z",
           "author_name": "StockMarket.News",
@@ -189,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123580335229370574",
-          "created_at": "2026-11-20T00:53:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP IS BOXING CHINA IN WITHOUT FIRING A SHOT\n\n@JoshJPhilipp says the real story behind the historic Trump-Xi-Putin meeting is Trump’s effort to stop wars before they spread — especially around Taiwan and Iran.\n\n“I think behind the scenes, Trump's main interest is to stop the https://t.co/maQzRAKPXh",
-          "url": "https://x.com/RealAmVoice/status/2123580335229370574",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123580203922518349",
           "created_at": "2026-11-20T00:52:29.000Z",
           "author_name": "Laura Loomer",
@@ -215,26 +315,6 @@
           "author_handle": "ClayTravis",
           "text": "Acting is harder than people think. Ray Allen was a great basketball player, but watching him act alongside Denzel Washington in He Got Game was like watching me play against Michael Jordan. Sophie Cunningham would struggle as a Bond girl. Sydney Sweeney is the obvious choice. https://t.co/BadBROZXLc",
           "url": "https://x.com/ClayTravis/status/2123579829463536039",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123578440561434806",
-          "created_at": "2026-11-20T00:45:29.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST IN: STEPHEN MILLER NAMES KIRSTEN DAVIES TO LEAD WHITE HOUSE CYBER OFFICE\n\nChief of Staff Stephen Miller has named Pentagon CIO Kirsten Davies to lead the White House Office of the National Cyber Director after Sean Cairncross was removed from the position.\n\nThe move comes as",
-          "url": "https://x.com/RealAmVoice/status/2123578440561434806",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123577975081996499",
-          "created_at": "2026-11-20T00:43:38.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Poor Fiona.\n\nZoos need to idiot proof their enclosures.",
-          "url": "https://x.com/LauraLoomer/status/2123577975081996499",
           "verified": true,
           "verified_type": "blue"
         },
@@ -299,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123570465906274400",
-          "created_at": "2026-11-20T00:13:47.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "The leader of the free world on Truth Social today. \n\nHe knows who has his back and who is here to subvert him.\n\nHe knows. President Trump also knows how depraved these Woke Reich Islamic sympathizers are. \n\nIt’s time to rip the bandaid off. https://t.co/BO4g0pBWF8",
-          "url": "https://x.com/LauraLoomer/status/2123570465906274400",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123569790753407272",
           "created_at": "2026-11-20T00:11:06.000Z",
           "author_name": "Clay Travis",
@@ -355,16 +425,6 @@
           "author_handle": "ClayTravis",
           "text": "Sophie Cunningham wants to be a Bond girl, but Sydney Sweeney is the obvious choice. Put her in the next James Bond movie and you'll make hundreds of millions of dollars. We've seen what she can do for brands. Amazon MGM, don't overthink this. Just mint money. https://t.co/E7VDkxmN9B",
           "url": "https://x.com/ClayTravis/status/2123564778207523268",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123564553456029748",
-          "created_at": "2026-11-19T23:50:18.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Sen. John Kennedy says the genesis of the recent outages is AI and asks why the US isn't using it to shut down Iran's air conditioners\n\n\"The genesis of all this stuff is AI\"\n\n\"People are using AI on their own systems to tell them where they have weak spots, and then they're https://t.co/ClV3bZRRQY",
-          "url": "https://x.com/_Investinq/status/2123564553456029748",
           "verified": true,
           "verified_type": "blue"
         },
@@ -429,26 +489,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123545523600982290",
-          "created_at": "2026-11-19T22:34:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "President Trump just posted https://t.co/xeyZfF1tWx",
-          "url": "https://x.com/Osint613/status/2123545523600982290",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123545172856263060",
-          "created_at": "2026-11-19T22:33:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "ICE says Ayan Ahmed Aidid, wife of Minnesota lawmaker-elect Abdi Daisane, entered the U.S. illegally in April 2023 and was released by the Biden administration. ICE says she remains in the country illegally.\n\n“We will continue to enforce the law, regardless of political status or https://t.co/omeTfsUhC8",
-          "url": "https://x.com/Osint613/status/2123545172856263060",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123543087527993743",
           "created_at": "2026-11-19T22:25:00.000Z",
           "author_name": "The Kobeissi Letter",
@@ -479,16 +519,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123536778292564076",
-          "created_at": "2026-11-19T21:59:56.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "President Trump has announced he’s issued a “complete and total pardon” for the late Pete Rose. \n\nIs a Hall of Fame plaque next for baseball's all-time hits king? https://t.co/gFnRsIlV42",
-          "url": "https://x.com/Outkick/status/2123536778292564076",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123533493078536702",
           "created_at": "2026-11-19T21:46:52.000Z",
           "author_name": "Sport & State",
@@ -507,16 +537,6 @@
           "url": "https://x.com/SportNState/status/2123526902732226889",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123522666418340307",
-          "created_at": "2026-11-19T21:03:51.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "RIP FIONA 😔 https://t.co/bMzt7EvlQZ",
-          "url": "https://x.com/Outkick/status/2123522666418340307",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123521882276454849",
@@ -587,26 +607,6 @@
           "url": "https://x.com/elonmusk/status/2123475464043786417",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123465056512008312",
-          "created_at": "2026-11-19T17:14:56.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "“I know Joe’s always wanted a one-man booth.\"\n\nTroy Aikman doesn't give a SHIT anymore 😳https://t.co/LBlFpUWqnH",
-          "url": "https://x.com/Outkick/status/2123465056512008312",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123446538060136561",
-          "created_at": "2026-11-19T16:01:21.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Looking at the beer in my fridge ahead of this garbage Thursday Night Football game https://t.co/lZSerM6tp2",
-          "url": "https://x.com/Outkick/status/2123446538060136561",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123445502910083111",
@@ -821,6 +821,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+        },
+        {
           "headline": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
           "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
           "source": "CNBC",
@@ -839,12 +845,6 @@
           "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         },
         {
-          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
-        },
-        {
           "headline": "Market hit by major stock selloff after Anthropic's record-breaking IPO",
           "summary": "The three big market indexes all posted losses on Thursday amid AI fears linked to Nvidia's recent scandal, despite Anthropic's record-breaking IPO. Jo Ling Kent reports.",
           "source": "CBS News",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Indiana HC Curt Cignetti’s social media rampage continues with rip on SEC writers for ‘fake news’",
-          "summary": "Robert Goddin-Imagn Images Indiana HC Curt Cignetti’s social media rampage continues with rip on SEC writers for ‘fake news’ appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Indiana's Curt Cignetti calls report listing him as candidate for potential Michigan opening as 'fake news'",
+          "summary": "Before orchestrating one of the greatest turnarounds in sports, Indiana head coach Curt Cignetti famously uttered the line , “It’s pretty simple, I win — Google me.” More than two years later, and after his Hoosiers won the program’s first-ever national championship , people apparently need to do something else: Check his X account. Because, at this…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/indiana-hc-curt-cignetti-social-013806668.html"
+          "url": "https://sports.yahoo.com/college-football/breaking-news/article/indianas-curt-cignetti-calls-report-listing-him-as-candidate-for-potential-michigan-opening-as-fake-news-020645803.html"
         },
         {
-          "headline": "Watch high school football live: Steele, Johnson, Brennan and other playoff games",
-          "summary": "Brennan's Jayshawn Mitchell rushes for a first down during the third quarter of a District 29-6A game against Harlan on Friday, November 6, 2026 at Farris Stadium in San Antonio. (Charlie Blalock/For the Express-News) Many San Antonio schools still have dreams of reaching the Texas high school football state championships, and they'll take the next step…",
+          "headline": "Availability Report: Who's out for the UCLA-Michigan Week 12 showdown",
+          "summary": "A win on Saturday would go a long way for the UCLA Bruins’ chances at reaching the College Football Playoff . Bob Chesney and the Bruins are 10-0 heading into their trip to the Big House this Saturday against the 5-5 Michigan Wolverines .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-high-school-football-live-013742257.html"
+          "url": "https://sports.yahoo.com/articles/availability-report-whos-ucla-michigan-020429326.html"
         },
         {
-          "headline": "Travis Kelce takes part in practice Thursday",
-          "summary": "Kansas City Chiefs TE Travis Kelce (ankle, calf) fully participated in practice Friday, Nov. 19.",
+          "headline": "WATCH: C.J. Stroud makes throw of the year to Nico Collins for must-see TD vs. Colts",
+          "summary": "After the Houston Texans ’ first drive against the Indianapolis Colts ended in an interception, quarterback C.J. Stroud bounced back with an incredible 43-yard touchdown to wide receiver Nico Collins to give them a 7-3 lead near the end of the first quarter.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/travis-kelce-takes-part-practice-013649980.html"
+          "url": "https://sports.yahoo.com/articles/watch-c-j-stroud-makes-020339341.html"
         },
         {
-          "headline": "Chris Braswell injury update: Texans player carted off after being hurt on opening kickoff",
-          "summary": "Chris Braswell suffered a serious injury on the first play of the Houston Texans vs. Indianapolis Colts game .",
+          "headline": "C.J. Stroud connects with Nico Collins to give Texans 7-3 lead",
+          "summary": "The Texans were outplayed for most of the first quarter, but they have a 7-3 lead. Spencer Shrader kicked a 34-yard field but missed from 56, giving the Colts an early 3-0 lead.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/chris-braswell-injury-texans-player-013641757.html"
+          "url": "https://sports.yahoo.com/articles/c-j-stroud-connects-nico-020230117.html"
         },
         {
-          "headline": "Courtland Sutton turns in full practice",
-          "summary": "Denver Broncos WR Courtland Sutton (non-injury) was a full participant in practice Thursday, Nov. 19.",
+          "headline": "Six-Time Champ Manny Lettenbichler Extends Contract With Red Bull KTM",
+          "summary": "As the saying goes, \"if it ain't broke, don't fix it,\" and that's exactly what Manny Lettenbichler has in mind as he looks to add to his six championships by re-signing with the Red Bull KTM factory team. Begin press release: SIX-TIME WORLD CHAMPION MANUEL LETTENBICHLER EXTENDS RED BULL KTM FACTORY RACING CONTRACT Red Bull KTM Factory Racing and Manuel…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/courtland-sutton-turns-full-practice-013546766.html"
+          "url": "https://sports.yahoo.com/articles/six-time-champ-manny-lettenbichler-020200252.html"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Billy Evans Will Secure His Cut of ‘You Can See Everything’ Profits After All — and Give It to Charity (Exclusive)",
+          "summary": "After relinquishing his backend, the villain of A24's smash documentary negotiated a deal and arranged for the payout to go to a children's nonprofit.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/billy-evans-profits-you-can-see-everything-ycse-charity-1236759761/"
+        },
         {
           "headline": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
           "summary": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year. Founded in 2015 by Geena Davis, the festival fosters and celebrates authentic storytelling through film screenings, industry conversations and community experiences.",
@@ -915,12 +921,6 @@
           "summary": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/"
-        },
-        {
-          "headline": "“I’m in Preparation for the End of Our World”: Golshifteh Farahani on Art, War and Her Tallinn Premiere",
-          "summary": "After a thriller set as Kabul braces for the Taliban, the actress says her mind is on the state of the world and not on her next role.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/iran-star-golshifteh-farahani-when-she-hears-the-bells-film-1236759198/"
         }
       ]
     },
@@ -930,7 +930,7 @@
       "stories": [
         {
           "headline": "Jorrybell Agoto Dies: Filipiñana Breakout Actress Was 32",
-          "summary": "Philippines actress Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, has died aged 32. Her family announced that she passed away on Tuesday, November 17, following a battle with lymphoma.",
+          "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689/"
         },
@@ -966,7 +966,7 @@
       "stories": [
         {
           "headline": "Jorrybell Agoto Dies: Filipiñana Breakout Actress Was 32",
-          "summary": "Philippines actress Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, has died aged 32. Her family announced that she passed away on Tuesday, November 17, following a battle with lymphoma.",
+          "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689/"
         },
@@ -1001,6 +1001,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More",
+          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/"
+        },
+        {
           "headline": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
           "summary": "Bruno Mars has announced that his father, Peter Hernandez, passed away. The Grammy-winning superstar broke the tragic news with a heartbreaking tribute post to Instagram on Thursday (Nov.",
           "source": "Billboard",
@@ -1023,15 +1029,9 @@
           "summary": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/"
-        },
-        {
-          "headline": "Here’s Every Rapper Who Appears in GTA VI",
-          "summary": "You’ll run into Sexyy Red, Gucci Mane, Trina, JT, and many more in Vice City",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/heres-every-rapper-who-appears-in-gta-vi/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T20:42:52-05:00"
+  "updatedAt": "2026-11-19T21:14:53-05:00"
 }
