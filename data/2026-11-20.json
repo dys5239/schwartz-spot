@@ -7,7 +7,7 @@
       "stories": [
         {
           "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+          "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
           "source": "The Verge",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
         },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
-          "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
+          "headline": "LIVE: President Trump to hold news conference following Asia trip",
+          "summary": "24/7 coverage of breaking news and live events",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/41463246/"
         },
         {
-          "headline": "Daniel Thomas jailed for 15 months for slashing dinghy",
-          "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
+          "headline": "White House national cyber director leaving his post",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
         },
         {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "High-yield savings accounts: Best rates and top picks of November 2026",
+          "summary": "Today's high-yield savings accounts offer hefty returns on your deposits. Here's where your money belongs now.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/best-high-yield-savings-account/"
+        },
+        {
+          "headline": "Trump to hold news conference Friday on his Asia trip",
+          "summary": "Trump is expected to hold news conference on Friday on his trip to Asia and his meeting in China with presidents Xi Jinping of China and Vladimir Putin of Russia.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456"
         },
         {
           "headline": "Mum's fatal BBL an accident - but risk of more deaths",
           "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm0jxgvep0j7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "WATCH: Reporter goes undercover as porch pirate",
-          "summary": "A New York Times reporter went undercover as a porch pirate to help identify the best ways to keep your home and packages safe as package deliveries ramp up this holiday season.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138316025/"
         }
       ]
     },
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123827346482299253",
+          "created_at": "2026-11-20T17:14:32.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "RJ Luis Jr. spent months fighting to get back on a college basketball court. His return lasted 15 minutes.\n\nAfter lawsuits, injunctions and a standoff between LSU and the SEC, Luis played one game before deciding the “juice is not worth the squeeze.”\nhttps://t.co/TJEaetTDaU",
+          "url": "https://x.com/SportNState/status/2123827346482299253",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123826032260399331",
+          "created_at": "2026-11-20T17:09:19.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "This is who @GenFlynn General Flynn just decided to reply to by the way. \n\n👇🏻 https://t.co/Ib8mv7EFVa https://t.co/2ich8ykZl9",
+          "url": "https://x.com/LauraLoomer/status/2123826032260399331",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123825853008122336",
+          "created_at": "2026-11-20T17:08:36.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Separation confirmed! Dragon is performing four departure burns to move away from the @Space_Station. Splashdown in ~29 hours off the coast of California",
+          "url": "https://x.com/SpaceX/status/2123825853008122336",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123824635225448625",
+          "created_at": "2026-11-20T17:03:46.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Zohran just announced they are KEEPING RIKERS OPEN For 5 MORE Years\n\nIts supposed to shutter in less than a year\n\nHe wants to build FOUR MORE JAILS\n\nAND MENTAL ASYLUMS\n\nYou dont have to trust him but this is based https://t.co/t4fDYii76X",
+          "url": "https://x.com/Timcast/status/2123824635225448625",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123824363002601924",
+          "created_at": "2026-11-20T17:02:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump dancing to \"YMCA\" performed by a Chinese choir at Xi's state banquet in Shenzhen.\n\n https://t.co/iFkRvRUIyQ",
+          "url": "https://x.com/Osint613/status/2123824363002601924",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123823915910811813",
+          "created_at": "2026-11-20T17:00:54.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NOW: Full House awaiting @POTUS Press Conference \n\n@davezere https://t.co/RhnAFthNpW",
+          "url": "https://x.com/RealAmVoice/status/2123823915910811813",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123821486142276036",
+          "created_at": "2026-11-20T16:51:15.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The S&amp;P 500 and Dow Jones Industrial Average officially enter correction territory, now down -10% from their record highs. https://t.co/oorEyzTAsb",
+          "url": "https://x.com/KobeissiLetter/status/2123821486142276036",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123821137490493806",
+          "created_at": "2026-11-20T16:49:52.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "All cargo is loaded, the hatch is closed, and Dragon is ready for an on-time departure from the @Space_Station at 12:05 p.m. ET",
+          "url": "https://x.com/SpaceX/status/2123821137490493806",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123821057853501856",
+          "created_at": "2026-11-20T16:49:33.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "ISIS in Georgia. \n\nOur DHS Secretary should be working everyday to mass deport Muslims from the US, but he’s reportedly in the Middle East today instead.\n\nDoing what exactly? \n\nFixing the Emir of Qatar’s clogged toilet?\n\nFinally something Markwayne Muslim is actually qualified to https://t.co/Y4wET4KQBD",
+          "url": "https://x.com/LauraLoomer/status/2123821057853501856",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123820409174839322",
+          "created_at": "2026-11-20T16:46:58.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS dances to YMCA in China 🤣🇺🇸\n\nhttps://t.co/RUuk3E3fbJ",
+          "url": "https://x.com/RealAmVoice/status/2123820409174839322",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123819769312969144",
           "created_at": "2026-11-20T16:44:26.000Z",
@@ -299,16 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123804086126661717",
-          "created_at": "2026-11-20T15:42:07.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "US Treasury Secretary Bessent: \n\nChina’s President Xi and Trump to have fourth meeting at the G20 in Florida.",
-          "url": "https://x.com/Osint613/status/2123804086126661717",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123803266794557480",
           "created_at": "2026-11-20T15:38:51.000Z",
           "author_name": "Sport & State",
@@ -359,16 +449,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123796895147381142",
-          "created_at": "2026-11-20T15:13:32.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MAJOR BREAKTHROUGH IN PANCREATIC CANCER RESEARCH\n\nA promising new drug has reportedly halted tumor growth in 90% of patients in a study, according to the Financial Times.\n\nA potentially significant development against one of the deadliest cancers—but larger trials are needed to https://t.co/4NoGVdbrLx",
-          "url": "https://x.com/RealAmVoice/status/2123796895147381142",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123795019673026679",
           "created_at": "2026-11-20T15:06:05.000Z",
           "author_name": "Tim Pool",
@@ -379,16 +459,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123794398349766976",
-          "created_at": "2026-11-20T15:03:37.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "\"American Values\" - @tashaowensmusic - Official Music Video\n\nDOWNLOAD it now at the link in the comments. https://t.co/3mHtQX2hoh",
-          "url": "https://x.com/RealAmVoice/status/2123794398349766976",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123790878607380983",
           "created_at": "2026-11-20T14:49:38.000Z",
           "author_name": "Laura Loomer",
@@ -397,16 +467,6 @@
           "url": "https://x.com/LauraLoomer/status/2123790878607380983",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123789428862660980",
-          "created_at": "2026-11-20T14:43:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "https://t.co/ubdBnd42ES",
-          "url": "https://x.com/KobeissiLetter/status/2123789428862660980",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123789147752018017",
@@ -499,26 +559,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123768608694083843",
-          "created_at": "2026-11-20T13:21:08.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Gee. Who told you all that Muslims wanted to get elected to office so they could defund police and release violent criminals back onto the streets?\n\nI believe I did. \n\nAmerica is going to only become more and more violent until our leaders use military force to remove Muslims https://t.co/zyHWMCphKr",
-          "url": "https://x.com/LauraLoomer/status/2123768608694083843",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123765547133194388",
-          "created_at": "2026-11-20T13:08:58.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "100%%%%%\n\nHave you not been paying attention to some of the freaks in the administration?\n\nWhy would this idea be so foreign to you?\n\nAfter all, we had Joe Kent as our Director of the National Counterterrorism Center and he spent his time on taxpayer dime locking himself in his https://t.co/pKS4BNMXOa",
-          "url": "https://x.com/LauraLoomer/status/2123765547133194388",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123764527925760367",
           "created_at": "2026-11-20T13:04:55.000Z",
           "author_name": "Sport & State",
@@ -609,16 +649,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123582273849069995",
-          "created_at": "2026-11-20T01:00:42.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "WE WERE ATTACKED, AI Cyber Attack CONFIRMED, Head Of Cyber RESIGNS https://t.co/pfW8ssphQN",
-          "url": "https://x.com/Timcast/status/2123582273849069995",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123581635480478139",
           "created_at": "2026-11-20T00:58:10.000Z",
           "author_name": "Glenn Beck",
@@ -669,16 +699,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123555891983343973",
-          "created_at": "2026-11-19T23:15:53.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "President Donald Trump pardoned MLB hit king Pete Rose on Thursday, more than two years after Rose's death at age 83. Rose pleaded guilty to federal tax crimes in 1990.\nhttps://t.co/oJm6DnEURh",
-          "url": "https://x.com/SportNState/status/2123555891983343973",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123540703385186404",
           "created_at": "2026-11-19T22:15:31.000Z",
           "author_name": "Glenn Beck",
@@ -707,36 +727,6 @@
           "url": "https://x.com/SpaceX/status/2123516375805379040",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123193048574419212",
-          "created_at": "2026-11-18T23:14:04.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "As Texas communities consider major supercomputing investments, careful long-term tax planning is essential. Under Texas’s no-new-revenue tax framework, rising property values generally drive tax rates down. But as expensive computing equipment rapidly depreciates, this can https://t.co/CeBqjWOIZK",
-          "url": "https://x.com/SpaceX/status/2123193048574419212",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123097995679867195",
-          "created_at": "2026-11-18T16:56:22.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "The Starbase tower team on location with the first caught Starship🍌 https://t.co/ar7y6ccgZr",
-          "url": "https://x.com/SpaceX/status/2123097995679867195",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2122814338893332591",
-          "created_at": "2026-11-17T22:09:13.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad https://t.co/hjfcnVpxLn",
-          "url": "https://x.com/SpaceX/status/2122814338893332591",
-          "verified": true,
-          "verified_type": "business"
         }
       ]
     },
@@ -745,16 +735,22 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "New UFO files show contractor planned vault for \"exotic material\"",
-          "summary": "The Pentagon's latest batch of UFO files includes a report from a government contractor detailing plans for an underground vault to store \"exotic material or tissue\" it was seeking.",
+          "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
+          "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/"
+          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
         },
         {
-          "headline": "White House national cyber director leaving his post",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+          "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling. (Image credit: Spencer Platt)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
+        },
+        {
+          "headline": "Man who plotted to kill Sikh dissident in NYC is sentenced",
+          "summary": "Nikhil Gupta, who pleaded guilty earlier this year to conspiracy to commit murder-for-hire and other charges, was allegedly recruited in 2023 to assassinate Gurpatwant Singh Pannun.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+          "url": "https://www.cbsnews.com/news/plot-assassinate-sikh-dissident-nyc-prison-sentence/"
         },
         {
           "headline": "Trump to hold press conference after meeting with Xi and Putin",
@@ -767,12 +763,6 @@
           "summary": "Georgia Democrat Stacey Abrams is retooling the Fair Fight organization that she started to advocate for voter protection and ballot access after she lost the governor's race in 2018",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/stacey-abrams-plans-refocus-fair-fight-voting-rights-138316451"
-        },
-        {
-          "headline": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-          "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year. (Image credit: Texas Department of Criminal Justice)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
         }
       ]
     },
@@ -781,16 +771,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+          "summary": "Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
+        },
+        {
           "headline": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
           "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
-        },
-        {
-          "headline": "Property Play: Data center construction costs soar 13% in 2026",
-          "summary": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html"
         },
         {
           "headline": "6 reasons stocks are falling, and what you should do about it",
@@ -817,28 +807,64 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Week 11 Fantasy Football Start 'Em, Sit 'Em: Courtland Sutton or Pat Bryant?",
-          "summary": "Sep 14, 2026; Kansas City, Missouri, USA; Denver Broncos wide receiver Pat Bryant (13) celebrates after a run against the Kansas City Chiefs during the game at GEHA Field at Arrowhead Stadium. Mandatory Credit: Denny Medley-Imagn Images | IMAGN IMAGES via Reuters Connect Choosing between two fantasy football wide receivers from the same offense is always…",
+          "headline": "Fantasy Football: Jaylen Waddle finally shows up, Bears' backfield goes off and more bold predictions for Week 11",
+          "summary": "There aren’t many weeks left in the fantasy football regular season; you can’t hold anything back. That means you need to be bold to come out on top.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/week-11-fantasy-football-start-164159487.html"
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-jaylen-waddle-finally-shows-up-bears-backfield-goes-off-and-more-bold-predictions-for-week-11-171149139.html"
         },
         {
-          "headline": "Early collapse! Abhishek Sharma, Vaibhav Sooryavanshi flop as Nepal put India A under pressure at Asia Cup Rising Stars",
-          "summary": "NEW DELHI: India A suffered early setbacks in their opening match of the ACC Men's Asia Cup Rising Stars 2026 as both explosive openers, Abhishek Sharma and Vaibhav Sooryavanshi, fell cheaply against Nepal in Doha. The highly rated batting duo failed to make the most of their starts as Nepal's bowlers exploited a tricky surface to put the Indian side on…",
+          "headline": "Brandon Royval sees two ways Joshua Van vs. Manel Kape plays out at UFC 336",
+          "summary": "Brandon Royval recently fought both Joshua Van and Manel Kape. Van (18-2 MMA, 11-1 UFC) defends his flyweight title against Kape (23-7 MMA, 8-3 UFC) in the UFC 336 main event on Jan.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/early-collapse-abhishek-sharma-vaibhav-164100288.html"
+          "url": "https://sports.yahoo.com/articles/brandon-royval-sees-two-ways-171016254.html"
         },
         {
-          "headline": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-          "summary": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss"
+          "headline": "NWSL Championship to bring fans \"the best soccer in the world\"",
+          "summary": "The next frontier in growing women's soccer in the U.S. is where the players train and play their games.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/2026-nwsl-championship-washington-spirit-kc-current-womens-soccer/"
         },
         {
-          "headline": "Mowbray support no surprise, says interim boss Johnson",
-          "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
+          "headline": "Matos accepts Swansea fans' anger over shock exit",
+          "summary": "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Man Utd fan criticism has gone too far at times - Berrada",
+          "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "stories": [
+        {
+          "headline": "Golden Globes Category Chaos: When ‘The Drama’ Is a Comedy…",
+          "summary": "Ahead of the deliberations of the Globes’ eligibility committee, The Hollywood Reporter dissects a host of eyebrow-raising category submissions — ‘Club Kid’ as a drama, ‘Obsession’ as a comedy, and more.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/golden-globes-category-chaos-the-drama-comedy-1236757819/"
+        },
+        {
+          "headline": "‘Hunger Games: Sunrise on the Reaping’ Hunts Down $21M in Box Office Previews",
+          "summary": "Joseph Zada leads the cast for the sixth film in the Lionsgate franchise that last hit theaters with 2023 prequel 'The Ballad of Songbirds & Snakes.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-previews-1236760000/"
+        },
+        {
+          "headline": "Jennifer Lopez Wears 186-Carat Diamond Necklace to ‘JLo Show’ Premiere: ‘There’s Security All Around’",
+          "summary": "Jennifer Lopez famously sings, “Don’t be fooled by the rocks that I got, I’m still, I’m still Jenny from the block.” She certainly had a lot of rock at the Thursday night premiere of her concert film “The JLo Show.” Lopez was not only wearing a Chantilly lace gown and a satin shawl-coat from Dolce […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/columns/jennifer-lopez-186-carat-diamond-necklace-jlo-show-premiere-dolce-gabbana-1236953996/"
+        },
+        {
+          "headline": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
+          "summary": "Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I’m a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/"
         },
         {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
@@ -849,56 +875,20 @@
       ]
     },
     {
-      "id": "movies",
-      "title": "Movies",
-      "stories": [
-        {
-          "headline": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
-          "summary": "Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I’m a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/"
-        },
-        {
-          "headline": "Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee’s Style Is Her ‘Form of Defiance Against the Capitol’",
-          "summary": "Mckenna Grace has been on a red carpet run for the ages during the global press tour for “The Hunger Games: Sunrise on the Reaping.” Over the last few weeks, the 20-year-old actress (and certified “Hunger Games” fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484/"
-        },
-        {
-          "headline": "Prince Harry Approves of Robert Pattinson’s Bond Casting",
-          "summary": "\"I want to make sure it's in good hands,\" said the Duke of Sussex, making his first daytime television appearance since moving back to Britain with Meghan Markle, Prince Archie and Prince Lilibet.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/prince-harry-james-bond-robert-pattinson-1236759950/"
-        },
-        {
-          "headline": "Bo Derek Is Still a ‘10’ at 70: “It All Worked Out, Didn’t It?”",
-          "summary": "Forty-seven years after the racy rom-com made her a generational sex symbol, Derek opens up about the surprising origins of her iconic braids, her scandalous first marriage and the Hollywood career she never really wanted.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/bo-derek-interview-fame-love-life-10-1236757273/"
-        },
-        {
-          "headline": "Andrew Scott is incredible in 'Elsinore.' Why isn't the movie better?",
-          "summary": "Andrew Scott plays real-life actor Ian Charleson, playing his final role — Hamlet, at the National Theatre in London — while dying of AIDS. (Image credit: Anthony Dickenson)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6046179/elsinore-review"
-        }
-      ]
-    },
-    {
       "id": "tv",
       "title": "TV",
       "stories": [
         {
-          "headline": "Lili Reinhart Circling Amazon MGM Studios & Mattel’s ‘Polly Pocket’ Post Lily Collins Exit",
-          "summary": "Lili Reinhart is in talks to star in and executive produce Amazon MGM Studios and Mattel Studios’ Polly Pocket, we understand. The news follows Emily in Paris star Lily Collins departure from the project a while ago due to a scheduling conflict.",
+          "headline": "Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller ‘Cupid’",
+          "summary": "EXCLUSIVE: The Project Hail Mary star and AT&T spokeswoman, Milana Vayntrub, is boarding Tate Taylor’s marriage counselor thriller which we first told you about, Cupid. Vayntrub will star opposite previously announced Daisy Ridley, Catherine Zeta-Jones, Judy Greer, Travis Fimmel and Darren Criss.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
+          "url": "https://deadline.com/2026/11/milana-vayntrub-cupid-1237230124/"
         },
         {
-          "headline": "All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried",
-          "summary": "Netflix’s animated Cinderella retelling Steps focuses on the perspective of the princesses supposedly “wicked” and “evil” stepsisters, Lilith (voiced by Ali Wong) and Margot (Stephanie Hsu). Amanda Seyfried voices Cinderella in the film, and she gets the chance to show off her vocals and sing some songs alongside needle drops from Olivia Rodrigo, Benson…",
+          "headline": "Tracy Oliver & Issa Rae Drama ‘Open’ Lands At HBO",
+          "summary": "EXCLUSIVE: In a competitive situation, HBO has landed Tracy Oliver and Issa Rae’s provocative drama Open for development. The deal, which is said to include penalty, caps a lengthy sales process that started in August when the open marriage drama was taken out by Paramount Television Studios, quickly garnering seven offers.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/steps-songs-soundtrack-netflix-cinderella-movie-animated-1237229486/"
+          "url": "https://deadline.com/2026/11/tracy-oliver-issa-rae-drama-open-hbo-open-marriage-1237229921/"
         },
         {
           "headline": "Rich Eisen’s ‘Beautiful Day’: Landing All Four Members of U2 as Guests",
@@ -925,34 +915,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Tony Winner Ivy Lion Productions Gets Development Capital For Film & TV Push, Switches From Zero Gravity To Gotham Group For Management",
-          "summary": "EXCLUSIVE: Tony-winning Ivy Lion Productions has secured development capital for IP acquisitions and recently switched management from Zero Gravity to the Gotham Group. Last season, at the age of 33, Ivy Lion’s Lamar Richardson became the youngest Black lead producer to win a Tony (Best Revival of Musical for Ragtime).",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/ivy-lion-productions-development-funding-gotham-group-1237230021/"
+          "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
+          "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
         },
         {
-          "headline": "‘Hunger Games: Sunrise On The Reaping’ 2nd Best Previews YTD & For Franchise With $21M; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office Update",
-          "summary": "FRIDAY AM AFTER THURSDAY EXCLUSIVE: Lionsgate’s Francis Lawrence directed The Hunger Games: Sunrise on the Reaping came in with $21M in overall previews since Wednesday. As we told you, that’s the second best for the Suzanne Collins franchise behind Catching Fire‘s $25.2M in 2013 and the second best for 2026 behind Spider-Man: Brand New Day‘s […]",
+          "headline": "Lili Reinhart Circling Amazon MGM Studios & Mattel’s ‘Polly Pocket’ Post Lily Collins Exit",
+          "summary": "Lili Reinhart is in talks to star in and executive produce Amazon MGM Studios and Mattel Studios’ Polly Pocket, we understand. The news follows Emily in Paris star Lily Collins departure from the project a while ago due to a scheduling conflict.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          "url": "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
+        },
+        {
+          "headline": "All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried",
+          "summary": "Netflix’s animated Cinderella retelling Steps focuses on the perspective of the princesses supposedly “wicked” and “evil” stepsisters, Lilith (voiced by Ali Wong) and Margot (Stephanie Hsu). Amanda Seyfried voices Cinderella in the film, and she gets the chance to show off her vocals and sing some songs alongside needle drops from Olivia Rodrigo, Benson…",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/steps-songs-soundtrack-netflix-cinderella-movie-animated-1237229486/"
+        },
+        {
+          "headline": "Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq",
+          "summary": "French actor Gérard Depardieu is facing a new complaint alleging rape and sexual assault during the filming of Guillaume Nicloux’s “Thalasso” in 2018, according to an investigation published by Mediapart on Thursday. The complaint also names Nicloux, who directed the film, and Michel Houellebecq, one of France’s most celebrated novelists who starred…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/gerard-depardieu-rape-complaint-guillaume-nicloux-houellebecq-1236954229/"
         },
         {
           "headline": "Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’",
           "summary": "Sofia Coppola paid tribute to her late mother, Eleanor Coppola, at the Paris premiere of the documentary “Making Marie Antoinette,” which she directed, charting the making of her daughter’s 2006 cult film starring Kirsten Dunst. While she was unable to attend after coming down with the flu, Coppola sent a heartfelt note honoring her mother, […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/sofia-coppola-pays-tribute-eleanor-making-marie-antoinette-1236954157/"
-        },
-        {
-          "headline": "Melissa Etheridge is cheering for the Kansas City Current in the NWSL final",
-          "summary": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/"
-        },
-        {
-          "headline": "Megan Rapinoe says it's a \"huge honor\" to be elected to National Soccer Hall of Fame",
-          "summary": "U.S. soccer legend Megan Rapinoe shares what it means to her to be elected to the National Soccer Hall of Fame, who she's rooting for in the NWSL Championship and more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/megan-rapinoe-says-its-a-huge-honor-to-be-elected-to-national-soccer-hall-of-fame/"
         }
       ]
     },
@@ -960,6 +950,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "How two musicians found inspiration among the trees",
+          "summary": "Sage Bava grew up on a nature preserve in New York. Julieta Eugenio found inspiration on daily walks through Brooklyn's Prospect Park.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6044283/jazz-night-sage-bava-julieta-eugenio-nature"
+        },
+        {
+          "headline": "‘Glee’ Cocreator: ‘Sadness’ Over Cory Monteith & Naya Rivera’s Deaths Will ‘Be a Part of’ Show Reboot",
+          "summary": "Gleeks may have been delighted when Glee ‘s official social media channels announced on Oct. 21 that the musical dramedy would be returning for a reboot.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/glee-cory-monteith-naya-rivera-deaths-sadness-in-reboot-1236386442/"
+        },
         {
           "headline": "Selena Gomez Recalls How Martin Short Accidentally Cut Her Wedding Cake Early: ‘He Looked Like a Little Dog’",
           "summary": "Selena Gomez , Martin Short and Steve Martin are the trio that keeps on giving! Related Tickets for the Highly Anticipated KPop Demon Hunters Golden World Tour Are Finally On Sale: Get Yours Here A Full List of Current 2026 K-Pop Concerts (Updating) Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More…",
@@ -977,21 +979,9 @@
           "summary": "Six songs include covers, a collaboration, and originals",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/"
-        },
-        {
-          "headline": "Atlas Sound Returns With Surprise New Album ‘Thanatos,’ First LP in 15 Years",
-          "summary": "After a lengthy musical hiatus, Deerhunter singer Bradford Cox revives his long-dormant solo project",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/"
-        },
-        {
-          "headline": "Billie Eilish to Headline BST Hyde Park for First Time: ‘She Inspires Fans, Challenges Our Industry to Be Better’",
-          "summary": "Billie Eilish will headline BST’s Hyde Park festival in 2027, joining the London festival’s stacked slate for next summer. Related Harry Styles, Sam Fender & Billie Eilish to Headline Glastonbury Festival 2027: See The Lineup Billie Eilish & FINNEAS Follow Lucy Dickins to CAA for Global Touring, WME to Share in North America Harry Styles Hits Festivals &…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/billie-eilish-bst-hyde-park-2027-headliner-1236386423/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-20T11:47:31-05:00"
+  "updatedAt": "2026-11-20T12:16:20-05:00"
 }
