@@ -1,6 +1,12 @@
 {
   "dates": [
     {
+      "date": "2026-11-20",
+      "storyCount": 44,
+      "postCount": 68,
+      "updatedAt": "2026-11-20T07:16:26-05:00"
+    },
+    {
       "date": "2026-11-19",
       "storyCount": 45,
       "postCount": 66,
@@ -27,5 +33,5 @@
       "storyCount": 5
     }
   ],
-  "updatedAt": "2026-11-19T23:42:44-05:00"
+  "updatedAt": "2026-11-20T07:16:26-05:00"
 }
