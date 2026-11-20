@@ -163,8 +163,14 @@ AI_RE = re.compile(
     r"copilot|midjourney|stable diffusion|neural net|generative)\b",
     re.I,
 )
-# Editor: Sports stays national; drop Philadelphia team-specific stories.
-PHILLY_RE = re.compile(r"\b(philadelphia|philly|eagles|phillies|76ers|sixers|flyers)\b", re.I)
+# Sports stays national: Philly teams are fine, but skip local Philadelphia-area outlets (Dave, Nov 20, 2026).
+LOCAL_OUTLET_RE = re.compile(
+    r"(inquirer\.com|phillyvoice\.com|nbcphiladelphia\.com|6abc\.com|fox29\.com|cbsnews\.com/philadelphia|"
+    r"phillymag\.com|billypenn\.com|whyy\.org|audacy\.com/kyw|audacy\.com/941wip|crossingbroad\.com|"
+    r"phillysportsnetwork\.com|nbcsportsphiladelphia\.com|delcotimes\.com|dailylocal\.com|"
+    r"Philadelphia Inquirer|PhillyVoice|NBC10|6abc|FOX 29|KYW|94WIP|Crossing Broad|Philly Sports Network)",
+    re.I,
+)
 # Editor: shopping/deal roundups are not news.
 JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide", re.I)
 JUNK_HEAD_RE = re.compile(r"black friday|cyber monday|gift guide|prime day|promo code|bonus code", re.I)
@@ -348,9 +354,10 @@ def is_junk(story: dict) -> bool:
 
 
 def is_philly(story: dict) -> bool:
-    """Sports-only guard: Philadelphia team stories or local prep roundups."""
+    """Sports-only guard: local Philadelphia-area outlets or local prep roundups (Philly teams themselves are allowed)."""
     blob = f"{story.get('headline') or ''} {story.get('summary') or ''} {story.get('url') or ''}"
-    return bool(PHILLY_RE.search(blob) or LOCAL_SPORTS_RE.search(blob))
+    outlet = f"{story.get('url') or ''} {story.get('source') or ''}"
+    return bool(LOCAL_OUTLET_RE.search(outlet) or LOCAL_SPORTS_RE.search(blob))
 
 
 def verify_url(url: str, timeout: int = 12) -> bool:
