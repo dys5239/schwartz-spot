@@ -42,6 +42,24 @@
       "title": "News",
       "stories": [
         {
+          "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+          "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Marine Corps hero under federal investigation",
+          "summary": "Retired Sgt. Maj.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
+        },
+        {
+          "headline": "White House national cyber director leaving his post, official says",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+        },
+        {
           "headline": "Judge further delays Trump's plan for D.C. arch",
           "summary": "A federal judge is putting President Trump's plans for a triumphal arch on hold for another two weeks. With a Democrat-led Congress coming into session in 2027, lawmakers could throw a wrench into Mr.",
           "source": "CBS News",
@@ -52,24 +70,6 @@
           "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin held a historic summit this week in China, but they didn't reach any major agreements. Zeke Miller, deputy Washington bureau chief at the Associated Press, joins CBS News to discuss.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/no-major-agreements-from-trump-summit-with-putin-xi/"
-        },
-        {
-          "headline": "Anthropic's 7 co-founders now worth about $20 billion each after record IPO",
-          "summary": "Anthropic on Thursday posted the largest IPO on record and ended the day with shares up 17%, putting its valuation at $1.7 trillion. Miles Kruppa, technology correspondent for the Economist, joins CBS News with more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/anthropics-7-co-founders-now-worth-about-20-billion-each-after-record-ipo/"
-        },
-        {
-          "headline": "What to know after hackers target Visa, Mastercard and JPMorgan Chase",
-          "summary": "JPMorgan Chase, Visa and Mastercard announced Thursday that a ransomware group hacked into third-party systems used by the firms and accessed data from potentially thousands of customers. CBS News' Ann Berry has more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/what-to-know-after-hackers-target-visa-mastercard-and-jpmorgan-chase/"
-        },
-        {
-          "headline": "Susan Smith denied parole again, 32 years after drowning sons",
-          "summary": "More than 30 years after killing her two young sons, Susan Smith was denied parole for a second time on Thursday. CBS News' Shanelle Kaul has more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/susan-smith-denied-parole-again-32-years-after-drowning-sons/"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123605930541453401",
+          "created_at": "2026-11-20T02:34:43.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "If people can’t be honest about the sickness that has consumed the GOP, then we are so screwed.\n\nYou’re a gaslighter or in denial if you can’t honestly admit the GOP has a Neo-Nazi and Islamic sympathizer problem and that some of these people have infiltrated government.\n\nIt",
+          "url": "https://x.com/LauraLoomer/status/2123605930541453401",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123604746401394698",
+          "created_at": "2026-11-20T02:30:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "New edition of Thunderdome out now. A hippo disembowels a groom on his honeymoon, his bride fights back, an elephant stomps a motorcyclist, an elk knocks out a dog, and 100 million red crabs invade Christmas Island. Wild episode with @DannyGradio \nhttps://t.co/WTUhda0wy9",
+          "url": "https://x.com/ClayTravis/status/2123604746401394698",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123602258663444916",
+          "created_at": "2026-11-20T02:20:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Anthropic CEO Dario Amodei says AI models are now building themselves, and Anthropic is choosing to drive at 90 miles an hour instead of 200\n\n\"This is models building themselves, recursive self-improvement\"\n\n\"We could drive at 200 miles an hour, maybe let's only drive at 90 miles https://t.co/bG2LPKoS3D",
+          "url": "https://x.com/_Investinq/status/2123602258663444916",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123601545434710165",
+          "created_at": "2026-11-20T02:17:17.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Gold falls below $3,550/oz and silver falls below $42/oz as the selloff gains momentum.\n\nGold and silver have now lost a combined -$15 trillion in market cap from their record highs. https://t.co/A5PZIATMSI",
+          "url": "https://x.com/KobeissiLetter/status/2123601545434710165",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123600436548735417",
+          "created_at": "2026-11-20T02:12:53.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "C.J. Stroud and the Texans came ready to play with this touchdown 🤯 https://t.co/wMRTOwIx8D",
+          "url": "https://x.com/Outkick/status/2123600436548735417",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123599743074865333",
           "created_at": "2026-11-20T02:10:07.000Z",
@@ -199,16 +249,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123591773167702298",
-          "created_at": "2026-11-20T01:38:27.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Puka Nacua is on IR and still catching an NFL suspension 😭 https://t.co/WVOzZYw6c9",
-          "url": "https://x.com/Outkick/status/2123591773167702298",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123590718631424185",
           "created_at": "2026-11-20T01:34:16.000Z",
           "author_name": "Laura Loomer",
@@ -299,16 +339,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123580203922518349",
-          "created_at": "2026-11-20T00:52:29.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Parents need to teach their children boundaries. \n\nI know people will get angry by me saying this, but you take your children to the zoo to see animals, not to behave like animals.\n\nFiona the Hippo should still be alive. Poor parenting killed a beautiful Hippo. \n\nHow tragic. https://t.co/oHNJFVkJO5",
-          "url": "https://x.com/LauraLoomer/status/2123580203922518349",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123579829463536039",
           "created_at": "2026-11-20T00:51:00.000Z",
           "author_name": "Clay Travis",
@@ -365,16 +395,6 @@
           "author_handle": "Osint613",
           "text": "It’s out https://t.co/SuqLQyGnCU",
           "url": "https://x.com/Osint613/status/2123572052770856961",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123570797394755735",
-          "created_at": "2026-11-20T00:15:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Altimeter's Brad Gerstner says it's increasingly clear there may not have been a violation of law at Nvidia, and the board will have to explain why it moved so fast\n\n\"It's increasingly clear to me that there may not be a violation of law\"\n\n\"There are a lot of people who will have https://t.co/483I4UsyfH",
-          "url": "https://x.com/_Investinq/status/2123570797394755735",
           "verified": true,
           "verified_type": "blue"
         },
@@ -479,16 +499,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123547133911425389",
-          "created_at": "2026-11-19T22:41:04.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Marlon Humphrey being sent home over a joke about Baltimore crime is outrageous. The Ravens have a statue of Ray Lewis outside their stadium, but Humphrey can't play over a podcast joke? The NFLPA should file a huge complaint. This is absurd. https://t.co/GBkfYBgOxS",
-          "url": "https://x.com/ClayTravis/status/2123547133911425389",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123543087527993743",
           "created_at": "2026-11-19T22:25:00.000Z",
           "author_name": "The Kobeissi Letter",
@@ -547,16 +557,6 @@
           "url": "https://x.com/glennbeck/status/2123521882276454849",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123521706731897192",
-          "created_at": "2026-11-19T21:00:02.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The S&amp;P 500 closes down for the 6th-straight day, now down -$6 trillion since the October 6th high.\n\nThe Nasdaq 100 is now down -15% from its record high. https://t.co/QGhhjBEHvP",
-          "url": "https://x.com/KobeissiLetter/status/2123521706731897192",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123516375805379040",
@@ -689,16 +689,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123244652392259647",
-          "created_at": "2026-11-19T02:39:07.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Alliance PvP\n\nWoW Forever\n\nAdd Moonlord Crossland to join our guild \n\nGuildcast\n\nIm running a rogue, Cydaris Vin\n\nAdd me",
-          "url": "https://x.com/Timcast/status/2123244652392259647",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123238776176800237",
           "created_at": "2026-11-19T02:15:46.000Z",
           "author_name": "Matt Walsh",
@@ -785,22 +775,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump calls Putin his friend at summit, prompting backlash from some world leaders",
-          "summary": "President Trump insisted that Russian President Vladimir Putin wants to end his war with Ukraine as the two leaders met with Chinese President Xi Jinping. But Putin later told reporters he plans to halt negotiations with the country he invaded in 2022.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/"
-        },
-        {
           "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
           "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
         },
         {
-          "headline": "Musk says he's \"not MAGA,\" feels \"foolish\" about midterm spending",
-          "summary": "After opening his wallet to assist GOP candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars in the race.",
+          "headline": "Marine Corps hero under federal investigation",
+          "summary": "Retired Sgt. Maj.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
+          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
         },
         {
           "headline": "White House national cyber director leaving his post, official says",
@@ -809,10 +793,16 @@
           "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
         },
         {
-          "headline": "Judge says agriculture secretary's religious emails were unconstitutional",
-          "summary": "A federal judge has ruled that U.S. Agriculture Secretary Brooke Rollins' religious emails to 100,000 employees were unconstitutional",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/judge-agriculture-secretarys-religious-emails-unconstitutional-138305215"
+          "headline": "Trump calls Putin his friend at summit, prompting backlash from some world leaders",
+          "summary": "President Trump insisted that Russian President Vladimir Putin wants to end his war with Ukraine as the two leaders met with Chinese President Xi Jinping. But Putin later told reporters he plans to halt negotiations with the country he invaded in 2022.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/"
+        },
+        {
+          "headline": "Musk says he's \"not MAGA,\" feels \"foolish\" about midterm spending",
+          "summary": "After opening his wallet to assist GOP candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars in the race.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
         }
       ]
     },
@@ -821,16 +811,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+          "headline": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+          "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
         },
         {
           "headline": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
           "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+        },
+        {
+          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
         },
         {
           "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
@@ -843,12 +839,6 @@
           "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
-        },
-        {
-          "headline": "Market hit by major stock selloff after Anthropic's record-breaking IPO",
-          "summary": "The three big market indexes all posted losses on Thursday amid AI fears linked to Nvidia's recent scandal, despite Anthropic's record-breaking IPO. Jo Ling Kent reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/market-hit-by-major-stock-selloff-after-anthropics-record-breaking-ipo/"
         }
       ]
     },
@@ -857,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Indiana's Curt Cignetti calls report listing him as candidate for potential Michigan opening as 'fake news'",
-          "summary": "Before orchestrating one of the greatest turnarounds in sports, Indiana head coach Curt Cignetti famously uttered the line , “It’s pretty simple, I win — Google me.” More than two years later, and after his Hoosiers won the program’s first-ever national championship , people apparently need to do something else: Check his X account. Because, at this…",
+          "headline": "Aidan Hutchinson Breaks Silence After Devastating Injury",
+          "summary": "On Thursday, Aidan Hutchinson took to Instagram and published a message acknowledging how difficult it has been to process an injury that occurred during a routine celebration. The Lions defensive end explained that he had performed similar movements countless times throughout his career without incident.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/breaking-news/article/indianas-curt-cignetti-calls-report-listing-him-as-candidate-for-potential-michigan-opening-as-fake-news-020645803.html"
+          "url": "https://sports.yahoo.com/articles/aidan-hutchinson-breaks-silence-devastating-023652107.html"
         },
         {
-          "headline": "Availability Report: Who's out for the UCLA-Michigan Week 12 showdown",
-          "summary": "A win on Saturday would go a long way for the UCLA Bruins’ chances at reaching the College Football Playoff . Bob Chesney and the Bruins are 10-0 heading into their trip to the Big House this Saturday against the 5-5 Michigan Wolverines .",
+          "headline": "Max Verstappen enters the Las Vegas GP second in F1 standings after a late-season surge",
+          "summary": "LAS VEGAS (AP) — Max Verstappen is back to performing like the driver who ruled Formula 1 not long ago. Though he won't win the title this year — that honor belongs to 20-year-old Kimi Antonelli — perhaps Verstappen is setting himself up to return to the top next season.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/availability-report-whos-ucla-michigan-020429326.html"
+          "url": "https://sports.yahoo.com/articles/max-verstappen-enters-las-vegas-023424839.html"
         },
         {
-          "headline": "WATCH: C.J. Stroud makes throw of the year to Nico Collins for must-see TD vs. Colts",
-          "summary": "After the Houston Texans ’ first drive against the Indianapolis Colts ended in an interception, quarterback C.J. Stroud bounced back with an incredible 43-yard touchdown to wide receiver Nico Collins to give them a 7-3 lead near the end of the first quarter.",
+          "headline": "Day off for Bucky Irving",
+          "summary": "Tampa Bay Buccaneers RB Bucky Irving (rest) did not participate in practice Thursday, Nov. 19.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-c-j-stroud-makes-020339341.html"
+          "url": "https://sports.yahoo.com/articles/day-off-bucky-irving-023149049.html"
         },
         {
-          "headline": "C.J. Stroud connects with Nico Collins to give Texans 7-3 lead",
-          "summary": "The Texans were outplayed for most of the first quarter, but they have a 7-3 lead. Spencer Shrader kicked a 34-yard field but missed from 56, giving the Colts an early 3-0 lead.",
+          "headline": "WATCH: Texans extend lead with Kayshon Boutte TD on TNF vs Colts",
+          "summary": "The Houston Texans already had a 7-3 lead after quarterback C.J. Stroud connected with Nico Collins in the first quarter.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/c-j-stroud-connects-nico-020230117.html"
+          "url": "https://sports.yahoo.com/articles/watch-texans-extend-lead-kayshon-023147788.html"
         },
         {
-          "headline": "Six-Time Champ Manny Lettenbichler Extends Contract With Red Bull KTM",
-          "summary": "As the saying goes, \"if it ain't broke, don't fix it,\" and that's exactly what Manny Lettenbichler has in mind as he looks to add to his six championships by re-signing with the Red Bull KTM factory team. Begin press release: SIX-TIME WORLD CHAMPION MANUEL LETTENBICHLER EXTENDS RED BULL KTM FACTORY RACING CONTRACT Red Bull KTM Factory Racing and Manuel…",
+          "headline": "Ravens’ Derrick Henry gives honest opinion on wild Marlon Humphrey situation",
+          "summary": "James Lang-Imagn Images Ravens’ Derrick Henry gives honest opinion on wild Marlon Humphrey situation appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/six-time-champ-manny-lettenbichler-020200252.html"
+          "url": "https://sports.yahoo.com/articles/ravens-derrick-henry-gives-honest-023126781.html"
         }
       ]
     },
@@ -929,10 +919,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Jorrybell Agoto Dies: Filipiñana Breakout Actress Was 32",
+          "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
+          "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/"
+        },
+        {
+          "headline": "Jorrybell Agoto Dies: ‘Filipiñana’ Breakout Actress Was 32",
           "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689/"
+          "url": "https://deadline.com/2026/11/jorrybell-agoto-dead-filipinana-star-1237229689/"
         },
         {
           "headline": "Patrick Stewart Cause Of Death Revealed",
@@ -951,12 +947,6 @@
           "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
-        },
-        {
-          "headline": "Tyra Banks Taps Andy Vallentine To Direct Sally Hansen Film",
-          "summary": "EXCLUSIVE: Tyra Banks’ Smize Productions has tapped Andy Vallentine (The Mattachine Family) to direct its Sally Hansen feature film, which Deadline announced was in development last year. In addition to his directing work for Hollywood, Vallentine has a background creating visually bold work for major beauty brands including Sephora and MAC Cosmetics,…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/tyra-banks-sally-hansen-film-andy-vallentine-director-1237229673/"
         }
       ]
     },
@@ -965,10 +955,16 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Jorrybell Agoto Dies: Filipiñana Breakout Actress Was 32",
+          "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
+          "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/"
+        },
+        {
+          "headline": "Jorrybell Agoto Dies: ‘Filipiñana’ Breakout Actress Was 32",
           "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jorrybell-agoto-obituary-filipinana-star-1237229689/"
+          "url": "https://deadline.com/2026/11/jorrybell-agoto-dead-filipinana-star-1237229689/"
         },
         {
           "headline": "Patrick Stewart Cause Of Death Revealed",
@@ -987,12 +983,6 @@
           "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
-        },
-        {
-          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
-          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
         }
       ]
     },
@@ -1033,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19T21:14:53-05:00"
+  "updatedAt": "2026-11-19T21:45:52-05:00"
 }
