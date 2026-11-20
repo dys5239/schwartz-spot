@@ -6,12 +6,6 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
-          "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
-        },
-        {
           "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
           "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
           "source": "Wired",
@@ -34,6 +28,12 @@
           "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
           "source": "Wired",
           "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
+        },
+        {
+          "headline": "Apple may be developing its own AI agent that runs your Mac",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-          "summary": "Prime Minister Donald Tusk said it did not appear to be an accident when Western military exercises were taking place in the region.",
+          "headline": "Southampton give head coach Eckert new deal",
+          "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "4.4-magnitude earthquake rattles Los Angeles area",
-          "summary": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
+          "headline": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+          "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "More than 140 sick on cruise ship that departed Fort Lauderdale, CDC says",
+          "summary": "The Princess Cruises ship Caribbean Princess departed Port Everglades in Fort Lauderdale on Nov. 11 on a 12-night journey.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/"
+          "url": "https://www.cbsnews.com/news/princess-cruises-caribbean-princess-mystery-illness-cdc-november-2026/"
         },
         {
-          "headline": "'Dishonest' police officers guilty of misconduct over fatal crash",
-          "summary": "PC Richard Hardwick and PC Lauren Livingstone faced allegations over their actions around a 2023 crash in St Mellons.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&at_campaign=rss"
+          "headline": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
+          "summary": "Dario Amodei and the company's other six co-founders instantly joined the ranks of America's richest citizens with the AI giant's initial public offering.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/"
         },
         {
-          "headline": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-          "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year. (Image credit: Texas Department of Criminal Justice)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
-        },
-        {
-          "headline": "WATCH: Riverboat captain celebrates more than 50 years on the Mississippi River",
-          "summary": "ABC News' Danny New talks to riverboat captain Robbie Mitchell, who is marking a major milestone aboard the legendary steamboat Natchez.",
+          "headline": "House Democrat probes agencies' use of messaging apps to discuss official business",
+          "summary": "A top House Democrat is investigating the use of encrypted messaging apps by Justice Department employees to communicate official business",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138315419/"
+          "url": "https://abcnews.com/Technology/wireStory/house-democrat-investigates-government-agencies-messaging-apps-discuss-138315690"
         }
       ]
     },
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123764478705652027",
+          "created_at": "2026-11-20T13:04:44.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "We invite you to join us for the American Sunrise show with your hosts, Terrance Bates, Dr. Gina Loudon, and David Brody! Watch M-F at 8AM ET. @DBrodyReports @RealDrGina @TBatesNews @thebeaudavidson https://t.co/dWfNGmSl1I",
+          "url": "https://x.com/RealAmVoice/status/2123764478705652027",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123758779086836067",
           "created_at": "2026-11-20T12:42:05.000Z",
@@ -199,16 +209,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123733071002472578",
-          "created_at": "2026-11-20T10:59:55.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DAYBREAK WITH STEVE &amp; IVEY GRUBER https://t.co/gMjThMJVGN",
-          "url": "https://x.com/RealAmVoice/status/2123733071002472578",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123726569206415815",
           "created_at": "2026-11-20T10:34:05.000Z",
           "author_name": "Elon Musk",
@@ -227,16 +227,6 @@
           "url": "https://x.com/elonmusk/status/2123695317375992288",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123642474015125816",
-          "created_at": "2026-11-20T04:59:55.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/qcDtqQA2dX",
-          "url": "https://x.com/RealAmVoice/status/2123642474015125816",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123640006287954184",
@@ -369,16 +359,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123612275361902983",
-          "created_at": "2026-11-20T02:59:55.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TURNING POINT TONIGHT https://t.co/LJ1EZKSTY8",
-          "url": "https://x.com/RealAmVoice/status/2123612275361902983",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123605930541453401",
           "created_at": "2026-11-20T02:34:43.000Z",
           "author_name": "Laura Loomer",
@@ -437,6 +417,26 @@
           "url": "https://x.com/LauraLoomer/status/2123595741578854631",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123595581448712570",
+          "created_at": "2026-11-20T01:53:35.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "President Trump is back at the White House after his China trip — and his first words were already focused on what comes next.\n\n“We have a news conference at 12 PM TOMORROW!”\n\nTrump called the trip “really HISTORIC” before heading inside.\n\nAnd the diplomacy isn’t slowing down:",
+          "url": "https://x.com/RealAmVoice/status/2123595581448712570",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123595128220647903",
+          "created_at": "2026-11-20T01:51:47.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "VINCE BUTTA: THE GOP WILL RECOVER — “WE’VE BEEN HERE BEFORE”\n\nVince Butta points to new polling showing Marco Rubio surging in the 2028 Republican field, including an Emerson poll putting him at 44%, well ahead of the rest of the pack.\n\n“Marco Rubio significantly ahead from the https://t.co/POje8YKvEO",
+          "url": "https://x.com/RealAmVoice/status/2123595128220647903",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2123582573435920820",
@@ -765,6 +765,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+          "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year. (Image credit: Texas Department of Criminal Justice)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain"
+        },
+        {
           "headline": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
           "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
           "source": "NPR",
@@ -775,12 +781,6 @@
           "summary": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/"
-        },
-        {
-          "headline": "New York City unveils a bold plan to move its jails off Rikers Island",
-          "summary": "'/> New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model"
         },
         {
           "headline": "From MAGA stardom to a U-Haul: Lauren Boebert considers her own and GOP's losses",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-          "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
-        },
-        {
           "headline": "Cathie Wood's ARK Invest was a big buyer of Anthropic, tells CNBC she's 'quite optimistic'",
           "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"
+        },
+        {
+          "headline": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+          "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
         },
         {
           "headline": "Just how vulnerable are we to cyberattacks?",
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Sophie Cunningham wants ‘credit’ for NBA guard’s breakout after comparison",
-          "summary": "It was quite a week of hoops for Los Angeles Lakers guard Quentin Grimes who had a 22-point game, followed by a wild 47-point explosion , and then 20 against Utah on Wednesday. And maybe he has Sophie Cunningham to thank?",
+          "headline": "Predictions for Oklahoma vs. Texas A&M in Week 12",
+          "summary": "The Oklahoma Sooners (6-4, 4-3 SEC) welcome the Texas A&M Aggies (4-6, 1-6 SEC) to Owen Field for the first time since they were Big 12 league mates back in 2011. The Sooners hold a 19-12 edge in the all-time series.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/sophie-cunningham-wants-credit-nba-123650301.html"
+          "url": "https://sports.yahoo.com/articles/predictions-oklahoma-vs-texas-m-130204207.html"
         },
         {
-          "headline": "Nick Wright says one NFL player is sneakily having an MVP level season",
-          "summary": "Photo by Perry Knotts/Getty Images Nick Wright has floated the idea that Jaxon Smith-Njigba could be in contention for the 2026 NFL MVP award. The Seattle Seahawks as a team have declined this year, already losing four games after going 14-3 en route to the Super Bowl in the previous campaign.",
+          "headline": "Everything Ohio State head coach Ryan Day said in previewing Nebraska",
+          "summary": "Ohio State is all set to travel to Lincoln to take on a very good Nebraska team. The 'Huskers might be only 6-4, but the games they lost were competitive, and before that, it was clear that this was head coach Matt Rhule's best team since he took the job.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/nick-wright-says-one-nfl-123500146.html"
+          "url": "https://sports.yahoo.com/articles/everything-ohio-state-head-coach-130156681.html"
         },
         {
-          "headline": "Southampton give head coach Eckert new deal",
-          "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Oregon vs. Michigan State prediction, odds, time: Week 12 Friday college football picks from proven model",
-          "summary": "SportsLine's model revealed its best bets for Friday's Big Ten contest between the Oregon Ducks and Michigan State Spartans",
+          "headline": "NFL odds, picks, predictions: Cowboys, Vikings part of Week 11 parlays involving favorites, underdogs",
+          "summary": "SportsLine football expert Mike Tierney locks in his top parlays for Week 11 NFL games",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/oregon-michigan-state-prediction-odds-time-week-12-friday-college-football-picks/"
+          "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-cowboys-vikings-part-of-week-11-parlays-involving-favorites-underdogs/"
         },
         {
-          "headline": "GB's Davis Cup-winning captain ends 17-year stint",
-          "summary": "Leon Smith says helping Britain end a 79-year wait to win the Davis Cup is \"one of the proudest moments\" of his career.",
+          "headline": "McDowall goes from farm hand to captain after Darge blow",
+          "summary": "Stafford McDowall was working on his dad's farm when he got the call to play for Scotland against Australia on Sunday - and six days later will be captain against Japan after Rory Darge suffered a late injury blow.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Clemson vs. Duke betting preview: Odds picks, start time, spread for Friday college football Week 12",
+          "summary": "The Blue Devils will try to deal the Tigers another blow on Friday in an ACC clash",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/clemson-vs-duke-betting-preview-odds-picks-start-time-spread-for-friday-college-football-week-12/"
         }
       ]
     },
@@ -909,16 +909,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Meet Some of the Unsung Heroes Who Keep NBC Moving as It Celebrates 100 Years",
+          "summary": "As NBC celebrates its 100th anniversary this year, the company has been recognizing some of its most memorable stars, TV shows, producers and even executives. But NBC couldn’t run without some of its unsung heroes — the staffers who do the day-to-day work behind the scenes, usually with very little fanfare.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/nbc-unsung-heroes-celebrate-100-years-1236953820/"
+        },
+        {
           "headline": "Candle Media’s Kevin Mayer Says ‘Urge to Merge’ Will Last Several Years as Revenue Growth Stalls",
           "summary": "If there is one thing Candle Media founder Kevin Mayer understands, it is mergers. The exec oversaw Disney’s 2019 acquisition of 21st Century Fox during his term as the company’s chief strategy officer, where he was also involved in Disney’s acquisition of Pixar, Marvel, Lucasfilm and BAMTech.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/candle-media-kevin-mayer-mergers-1236954047/"
-        },
-        {
-          "headline": "Kieran Culkin Says He’s Reuniting With ‘Succession’ Creator Jesse Armstrong on New Movie",
-          "summary": "Kieran Culkin has let slip that he’s reuniting with Jesse Armstrong for the first time since “Succession” came to an end three years ago — but that it’s got nothing to do with Roman Roy. “I’m about to work with Jesse on a movie — he wrote something,” he told the U.K.’s Heart Breakfast radio on […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/"
         },
         {
           "headline": "DramaBox Ties Knot With Toyota’s Indian Wedding Microdrama ‘3 Days Till I Do’",
@@ -945,6 +945,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Kieran Culkin Says He’s Reuniting With ‘Succession’ Creator Jesse Armstrong on New Movie",
+          "summary": "Kieran Culkin has let slip that he’s reuniting with Jesse Armstrong for the first time since “Succession” came to an end three years ago — but that it’s got nothing to do with Roman Roy. “I’m about to work with Jesse on a movie — he wrote something,” he told the U.K.’s Heart Breakfast radio on […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/"
+        },
+        {
           "headline": "‘The Big Boom!’: Doc About a Bulgarian Village With a Massive Weapons Factory ‘Anticipates the Future World We’ll Inhabit’",
           "summary": "IDFA Frontlight title “The Big Boom!” is rife with contrasts. The fifth documentary from Swiss filmmaker Gabriel Tejedor (“Svetlana: My Father is J.",
           "source": "Variety",
@@ -961,12 +967,6 @@
           "summary": "Quentin Tarantino has rounded out the cast for his first West End stage show, The Popinjay Cavalier. The Sony Pictures Entertainment and Sonia Friedman Productions play has already cast Sacha Baron Cohen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/quentin-tarantino-popinjay-cavalier-cast-1237229997/"
-        },
-        {
-          "headline": "Quentin Tarantino Play ‘The Popinjay Cavalier,’ Starring Sacha Baron Cohen, Unveils Full Cast as West End Run Extended",
-          "summary": "Quentin Tarantino looks like he’s staying in London’s theater district longer than expected. The Oscar-winning filmmaker’s first ever stage-play, “The Popinjay Cavalier” — from Sony Pictures Entertainment and Sonia Friedman Productions — has extended its West End run, and will now perform at the Phoenix Theatre until Sept.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/theater/global/quentin-tarantino-the-popinjay-cavalier-full-cast-1236954081/"
         },
         {
           "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T07:46:39-05:00"
+  "updatedAt": "2026-11-20T08:12:35-05:00"
 }
