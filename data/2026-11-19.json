@@ -42,6 +42,24 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Iran may be working on biological weapons, Trump says",
+          "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        },
+        {
+          "headline": "White House national cyber director leaving his post",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+        },
+        {
+          "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
+          "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+        },
+        {
           "headline": "UK and EU to agree youth mobility scheme, BBC understands",
           "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
           "source": "BBC News",
@@ -52,24 +70,6 @@
           "summary": "Retired Sgt. Maj.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
-        },
-        {
-          "headline": "White House national cyber director leaving his post, official says",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
-        },
-        {
-          "headline": "Judge further delays Trump's plan for D.C. arch",
-          "summary": "A federal judge is putting President Trump's plans for a triumphal arch on hold for another two weeks. With a Democrat-led Congress coming into session in 2027, lawmakers could throw a wrench into Mr.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/judge-further-delays-trumps-plan-for-dc-arch/"
-        },
-        {
-          "headline": "No major agreements from Trump summit with Putin, Xi",
-          "summary": "President Trump, Chinese President Xi Jinping and Russian President Vladimir Putin held a historic summit this week in China, but they didn't reach any major agreements. Zeke Miller, deputy Washington bureau chief at the Associated Press, joins CBS News to discuss.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/no-major-agreements-from-trump-summit-with-putin-xi/"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123614841210536294",
+          "created_at": "2026-11-20T03:10:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Elon Musk says he feels pretty foolish about how much money he spent on the midterms\n\n\"Obviously the Republicans were routed in this election\"\n\n\"I feel pretty foolish about having spent so much money and not seeing much for it\"\n\n\"You could put a lot of money into an election and https://t.co/O7VU5kUctm",
+          "url": "https://x.com/_Investinq/status/2123614841210536294",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123614699703226727",
+          "created_at": "2026-11-20T03:09:33.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "GTA 6 is too much 😂 https://t.co/mtezosbO6m",
+          "url": "https://x.com/Outkick/status/2123614699703226727",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123614224228421674",
+          "created_at": "2026-11-20T03:07:40.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "What kind of celebration is this.... https://t.co/c1CyIF7Xg1",
+          "url": "https://x.com/Outkick/status/2123614224228421674",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123612275361902983",
+          "created_at": "2026-11-20T02:59:55.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TURNING POINT TONIGHT https://t.co/LJ1EZKSTY8",
+          "url": "https://x.com/RealAmVoice/status/2123612275361902983",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123608550236938472",
+          "created_at": "2026-11-20T02:45:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Anthropic CFO Krishna Rao says the company went from its first dollar of revenue in Q1 2023 to over $81 billion run rate last month\n\n\"The first dollar of revenue in the business was Q1 of 2023\"\n\n\"We had, you know, over $81 billion of run rate revenues\"\n\n\"Their Claude spend https://t.co/veRIsWVO5H",
+          "url": "https://x.com/_Investinq/status/2123608550236938472",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123605930541453401",
           "created_at": "2026-11-20T02:34:43.000Z",
@@ -229,26 +279,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123592943307018638",
-          "created_at": "2026-11-20T01:43:06.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "TNF or GTA 6 🤔 https://t.co/hgTQLWfyc6",
-          "url": "https://x.com/Outkick/status/2123592943307018638",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123592774310338895",
-          "created_at": "2026-11-20T01:42:26.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "This play sums up the Colts defense 😭 https://t.co/kyp5X9wjDO",
-          "url": "https://x.com/Outkick/status/2123592774310338895",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123590718631424185",
           "created_at": "2026-11-20T01:34:16.000Z",
           "author_name": "Laura Loomer",
@@ -285,26 +315,6 @@
           "author_handle": "LauraLoomer",
           "text": "I doubt the kid feels bad. Sounds like the kid doesn’t even know how to behave in Public, let alone feel bad for murdering an innocent animal. \n\nWhy is a kid throwing their hat into a fan? Where is the parent to tell them to behave? \n\nWhere was the parent? On their phone? \n\nWhy https://t.co/HiwjSPlbqw",
           "url": "https://x.com/LauraLoomer/status/2123587314425164115",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123586878511137139",
-          "created_at": "2026-11-20T01:19:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST NOW: @POTUS is back in Washington, D.C. https://t.co/nBvySKKurL",
-          "url": "https://x.com/RealAmVoice/status/2123586878511137139",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123583385121796241",
-          "created_at": "2026-11-20T01:05:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "George Noble says Nvidia is probably the biggest case of industrial espionage and fraud in US stock market history\n\n\"I believe NVIDIA is probably the biggest case of industrial espionage, stroke, fraud in the history of the U.S. stock market\"\n\n\"It's very clear that billions and https://t.co/w5onWuqVhZ",
-          "url": "https://x.com/_Investinq/status/2123583385121796241",
           "verified": true,
           "verified_type": "blue"
         },
@@ -355,16 +365,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Awareness is not personal.\n\nIt only appears personal because it is passing through a personal structure.\n\nYour brain is a filter.\n\nNot a generator.\n\nNot a container.\n\nA filter.\n\nIt shapes raw, undifferentiated awareness into something that looks like a self. \n\nA personality. A",
           "url": "https://x.com/_The_Prophet__/status/2123577772698464647",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123577095368646662",
-          "created_at": "2026-11-20T00:40:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Anthropic CEO Dario Amodei says the company will pace AI and will not bend to business or political pressure, on its first day as a public company\n\n\"We will pace the training deployment of AI systems, taking as long as is necessary to have confidence that they are safe\"\n\n\"We will https://t.co/ajKixQjiPj",
-          "url": "https://x.com/_Investinq/status/2123577095368646662",
           "verified": true,
           "verified_type": "blue"
         },
@@ -775,6 +775,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "White House national cyber director leaving his post",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+        },
+        {
           "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
           "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
           "source": "CBS News",
@@ -785,12 +791,6 @@
           "summary": "Retired Sgt. Maj.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
-        },
-        {
-          "headline": "White House national cyber director leaving his post, official says",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
         },
         {
           "headline": "Trump calls Putin his friend at summit, prompting backlash from some world leaders",
@@ -847,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Aidan Hutchinson Breaks Silence After Devastating Injury",
-          "summary": "On Thursday, Aidan Hutchinson took to Instagram and published a message acknowledging how difficult it has been to process an injury that occurred during a routine celebration. The Lions defensive end explained that he had performed similar movements countless times throughout his career without incident.",
+          "headline": "Steelers part ways with veteran wide receiver in flurry of roster moves",
+          "summary": "The Pittsburgh Steelers have officially parted ways with a veteran wide receiver ahead of the Week 11 matchup against the Philadelphia Eagles . In an assortment of roster moves on Wednesday, the Steelers cut ties with veteran wide receiver Isaiah Hodgins in order to make room for wide receiver Max Hurleman, who was restored to the active practice squad.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/aidan-hutchinson-breaks-silence-devastating-023652107.html"
+          "url": "https://sports.yahoo.com/articles/steelers-part-ways-veteran-wide-030151960.html"
         },
         {
-          "headline": "Max Verstappen enters the Las Vegas GP second in F1 standings after a late-season surge",
-          "summary": "LAS VEGAS (AP) — Max Verstappen is back to performing like the driver who ruled Formula 1 not long ago. Though he won't win the title this year — that honor belongs to 20-year-old Kimi Antonelli — perhaps Verstappen is setting himself up to return to the top next season.",
+          "headline": "Hutson strikes twice late, including for the OT winner, as Canadiens beat Hurricanes 2-1",
+          "summary": "RALEIGH, N.C. (AP) — Lane Hutson scored twice in the final 5-plus minutes, including the finish on a perfect give-and-go feed from Nick Suzuki in the first minute of overtime, to help the Montreal Canadiens rally past the Carolina Hurricanes 2-1 on Thursday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/max-verstappen-enters-las-vegas-023424839.html"
+          "url": "https://sports.yahoo.com/articles/hutson-strikes-twice-including-ot-030118186.html"
         },
         {
-          "headline": "Day off for Bucky Irving",
-          "summary": "Tampa Bay Buccaneers RB Bucky Irving (rest) did not participate in practice Thursday, Nov. 19.",
+          "headline": "Report: Padres Meet With No. 1 Free Agent Tarik Skubal",
+          "summary": "Sep 25, 2026; San Francisco, California, USA; Los Angeles Dodgers pitcher Tarik Skubal (29) pitches during the first inning against the San Francisco Giants at Oracle Park. Mandatory Credit: Stan Szeto-Imagn Images | Source: Lastwordonsports.com - Augustus Oswald, Site Editor The San Diego Padres reportedly hosted top free agent Tarik Skubal on Wednesday…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/day-off-bucky-irving-023149049.html"
+          "url": "https://sports.yahoo.com/articles/report-padres-meet-no-1-030100943.html"
         },
         {
-          "headline": "WATCH: Texans extend lead with Kayshon Boutte TD on TNF vs Colts",
-          "summary": "The Houston Texans already had a 7-3 lead after quarterback C.J. Stroud connected with Nico Collins in the first quarter.",
+          "headline": "Carroll has 19 points, 11 rebounds and Drake knocks off Charleston 86-70",
+          "summary": "DES MOINES, Iowa (AP) — Jon Carroll scored 19 points and grabbed 11 rebounds as Drake beat Charleston 86-70 on Thursday. Dre Kindell shot 6 for 13 (2 for 3 from 3-point range) and 5 of 5 from the free-throw line to add 19 points for the Bulldogs (4-1).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-texans-extend-lead-kayshon-023147788.html"
+          "url": "https://sports.yahoo.com/articles/carroll-19-points-11-rebounds-030059753.html"
         },
         {
-          "headline": "Ravens’ Derrick Henry gives honest opinion on wild Marlon Humphrey situation",
-          "summary": "James Lang-Imagn Images Ravens’ Derrick Henry gives honest opinion on wild Marlon Humphrey situation appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Five players David Ferrer could call upon to replace Carlos Alcaraz if he withdraws from Davis Cup Finals with injury",
+          "summary": "Carlos Alcaraz could miss the Davis Cup Finals in Bologna. After requiring treatment against Daniil Medvedev at the ATP Finals, Alcaraz underwent an MRI .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ravens-derrick-henry-gives-honest-023126781.html"
+          "url": "https://sports.yahoo.com/articles/five-players-david-ferrer-could-030000534.html"
         }
       ]
     },
@@ -919,6 +919,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Much Ado About Nothing’ Broadway Review: Tom Hiddleston, Hayley Atwell & Jamie Lloyd Throw An Irresistible Party Of Shakespeare’s Great Comedy",
+          "summary": "Outside of ticker tape parades and New Year’s Eve in Times Square, you might be hard-pressed to think of a better, more joyous use of floating paper than the confetti that piles up nightly on the stage of Broadway’s Winter Garden Theatre these days. We’re talking blizzards of the pink stuff, so deep that the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924/"
+        },
+        {
+          "headline": "‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’",
+          "summary": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845/"
+        },
+        {
           "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
           "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
           "source": "Deadline",
@@ -935,18 +947,6 @@
           "summary": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Men film franchise and much more died October 28 from Alzheimer’s disease and Lewy body dementia, according to his death certificate obtained by TMZ.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/"
-        },
-        {
-          "headline": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
-          "summary": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year. Founded in 2015 by Geena Davis, the festival fosters and celebrates authentic storytelling through film screenings, industry conversations and community experiences.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/"
-        },
-        {
-          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
-          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
         }
       ]
     },
@@ -955,6 +955,18 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "‘Much Ado About Nothing’ Broadway Review: Tom Hiddleston, Hayley Atwell & Jamie Lloyd Throw An Irresistible Party Of Shakespeare’s Great Comedy",
+          "summary": "Outside of ticker tape parades and New Year’s Eve in Times Square, you might be hard-pressed to think of a better, more joyous use of floating paper than the confetti that piles up nightly on the stage of Broadway’s Winter Garden Theatre these days. We’re talking blizzards of the pink stuff, so deep that the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924/"
+        },
+        {
+          "headline": "‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’",
+          "summary": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845/"
+        },
+        {
           "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
           "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
           "source": "Deadline",
@@ -971,18 +983,6 @@
           "summary": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Men film franchise and much more died October 28 from Alzheimer’s disease and Lewy body dementia, according to his death certificate obtained by TMZ.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/"
-        },
-        {
-          "headline": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
-          "summary": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year. Founded in 2015 by Geena Davis, the festival fosters and celebrates authentic storytelling through film screenings, industry conversations and community experiences.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/"
-        },
-        {
-          "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
-          "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
         }
       ]
     },
@@ -990,6 +990,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "A Full List of Current 2026 K-Pop Concerts (Updating)",
+          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/"
+        },
+        {
+          "headline": "The Deals: Yamaha Acquires Visual Technology Company Disguise for $280 Million & More",
+          "summary": "Yamaha Corporation , the musical instruments and audio products company, acquired Disguise , which provides visual technology for live events, location-based experiences and virtual production spanning software, hardware and creative and technical services. A public notice published by Yamaha on Friday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/yamaha-acquires-visual-technology-company-disguise-deals/"
+        },
         {
           "headline": "Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More",
           "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
@@ -1007,21 +1019,9 @@
           "summary": "Don’t call Molly Santana “The Queen of the Underground.” The West Coast rapper recently sat down with Bootleg Kev to promote her upcoming album Black Punk and pushed back when Kev referred to her as “The Queen of the Underground.” “I don’t want to be queen of the underground,” she said before expressing that she feels like that particular scene isn’t…",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/rb-hip-hop/molly-santana-queen-of-the-underground-1236386051/"
-        },
-        {
-          "headline": "Summer Walker’s Interscope Lawsuit Heats Up as Star Accuses Label of Misusing Her IP",
-          "summary": "As Summer Walker and Interscope Records continue to hash out a contract dispute, the R&B singer is now accusing the Universal Music Group (UMG) label of wrongly monetizing her intellectual property. Walker’s countersuit, submitted to Los Angeles court on Wednesday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/summer-walker-interscope-lawsuit-new-claims/"
-        },
-        {
-          "headline": "Bruno Mars Mourns His Father’s Death: ‘The Man That Taught Me Everything I Know’",
-          "summary": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T21:45:52-05:00"
+  "updatedAt": "2026-11-19T22:12:36-05:00"
 }
