@@ -18,22 +18,22 @@
           "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
         },
         {
-          "headline": "Anthropic rival says companies can (mostly) skip the pricey models",
-          "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
-        },
-        {
-          "headline": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-          "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
-        },
-        {
           "headline": "Apple is hiring engineers to build its own AI agent",
           "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+        },
+        {
+          "headline": "A brief history of Nvidia’s recent stock fluctuations",
+          "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
+        },
+        {
+          "headline": "What’s With All These Outages?",
+          "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Iran may be working on biological weapons, Trump says",
-          "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war drags on toward its ninth month.",
+          "headline": "Behind the scenes look of Huntington Beach's new e-bike safety program",
+          "summary": "Sgt. Brad Smith, of the Huntington Beach Police Department, said the main concern is safety.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+          "url": "https://www.cbsnews.com/news/huntington-beach-ebike-safety-program-injuries-deaths/"
         },
         {
-          "headline": "White House national cyber director leaving his post",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "headline": "Senate passes bipartisan permitting bill designed to boost energy projects",
+          "summary": "The Senate approved a long-sought bipartisan permitting reform bill on Thursday, following a major breakthrough on legislation that aims to cut costs by ramping up the speed of infrastructure and energy projects.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+          "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/"
         },
         {
-          "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
-          "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
-        },
-        {
-          "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+          "headline": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
           "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Marine Corps hero under federal investigation",
-          "summary": "Retired Sgt. Maj.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
+          "headline": "Does our ethnicity change how we experience dying?",
+          "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Army postpones plan to detonate nearly 10,000 pounds of lead azide until Monday",
+          "summary": "Two rapid controlled detonations scheduled to take place at the Iowa Army Ammunition Plant in Middletown on Friday have been postponed by three days.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123621132087775238",
+          "created_at": "2026-11-20T03:35:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Fundstrat's Tom Lee says this tech selloff looks like Cisco in 1997 and it feels like max pain\n\n\"I think that this is a pretty healthy correction in tech and it's allowing the narratives to reset\"\n\n\"Very similar to 1997 when Cisco fell almost 50% in three months... the year later https://t.co/lz3wdOdar5",
+          "url": "https://x.com/_Investinq/status/2123621132087775238",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123619712911520224",
+          "created_at": "2026-11-20T03:29:29.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Appreciate you.\n\nMarkets are only one battlefield.\n\nThe deeper dives are where we go looking for what nobody has named yet.\n\nWelcome to the signal. https://t.co/I3LNYdvvgv",
+          "url": "https://x.com/_The_Prophet__/status/2123619712911520224",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123617104322576881",
+          "created_at": "2026-11-20T03:19:07.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I am not defending @jpodhoretz. I am pointing out that a White House official who works in the Personnel office and with the Vice President found it necessary to reply to @jpodhoretz (who is Jewish) on a tweet in which he said he’s leaving X after he made the choice to only https://t.co/Dc23ith2qK",
+          "url": "https://x.com/LauraLoomer/status/2123617104322576881",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123616214148681780",
+          "created_at": "2026-11-20T03:15:34.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: South Korea’s KOSPI falls over -5% as the US tech selloff extends into Asian markets. https://t.co/OIvvCHJAY9",
+          "url": "https://x.com/KobeissiLetter/status/2123616214148681780",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123615687134282201",
+          "created_at": "2026-11-20T03:13:29.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Game of fingers......literally 👆 https://t.co/f7WERF6NyG",
+          "url": "https://x.com/Outkick/status/2123615687134282201",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123615357273288982",
+          "created_at": "2026-11-20T03:12:10.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "The Colts can never help Daniel Jones out. SMH  https://t.co/BKH81lJJzO",
+          "url": "https://x.com/Outkick/status/2123615357273288982",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123614841210536294",
           "created_at": "2026-11-20T03:10:07.000Z",
@@ -249,26 +309,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123595577522901159",
-          "created_at": "2026-11-20T01:53:34.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "C.J. Stroud drops a bomb to Nico Collins 🔥 https://t.co/lRt1JlCsKZ",
-          "url": "https://x.com/Outkick/status/2123595577522901159",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123595334312194322",
-          "created_at": "2026-11-20T01:52:36.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Me, seven beers deep in the backyard on Thanksgiving 😂 https://t.co/oLxwPpErFQ",
-          "url": "https://x.com/Outkick/status/2123595334312194322",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123595128220647903",
           "created_at": "2026-11-20T01:51:47.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -297,26 +337,6 @@
           "url": "https://x.com/RealAmVoice/status/2123590327801892982",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123589686426034251",
-          "created_at": "2026-11-20T01:30:10.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Altimeter's Brad Gerstner says Anthropic gets to about $3 trillion in enterprise value by the end of 2027\n\n\"Google hit $100 billion in revenue when they had 105,000 employees. Anthropic did it when they had 5,000 employees\"\n\n\"You get to about $3 trillion in total enterprise https://t.co/Qc3YV8usqd",
-          "url": "https://x.com/_Investinq/status/2123589686426034251",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123587314425164115",
-          "created_at": "2026-11-20T01:20:44.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "I doubt the kid feels bad. Sounds like the kid doesn’t even know how to behave in Public, let alone feel bad for murdering an innocent animal. \n\nWhy is a kid throwing their hat into a fan? Where is the parent to tell them to behave? \n\nWhere was the parent? On their phone? \n\nWhy https://t.co/HiwjSPlbqw",
-          "url": "https://x.com/LauraLoomer/status/2123587314425164115",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123582573435920820",
@@ -519,16 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123536801813963184",
-          "created_at": "2026-11-19T22:00:01.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Tech Stocks From Record Highs:\n\n1. CoreWeave, $CRWV: -76%\n2. Oracle, $ORCL: -68%\n3. SanDisk, $SNDK: -68%\n4. Nebius, $NBIS: -66%\n5. Intel, $INTC: -61%\n6. Western Digital, $WDC: -60%\n7. Arm, $ARM: -60%\n8. Robinhood, $HOOD: -55%\n9. Marvell Technology, $MRVL: -56%\n10. Seagate, $STX:",
-          "url": "https://x.com/KobeissiLetter/status/2123536801813963184",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123533493078536702",
           "created_at": "2026-11-19T21:46:52.000Z",
           "author_name": "Sport & State",
@@ -575,16 +585,6 @@
           "author_handle": "SportNState",
           "text": "Will ESPN’s broadcast duo of Joe Buck and Troy Aikman make it to the network’s first Super Bowl in February?\n\nAfter his last public shot at Buck, it seems like Aikman could be angling for a breakup, writes @mattyfoles \nhttps://t.co/llAdHDLt3T",
           "url": "https://x.com/SportNState/status/2123513923198394663",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123503856705523798",
-          "created_at": "2026-11-19T19:49:06.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️The white-collar compression thesis we published for Signal Core back in March is moving much faster into reality now.\n\nLayoffs, hiring compression, AI substitution, and the repricing of professional work are no longer isolated signals.\n\nWe’re working on the next update for https://t.co/GYSuNKBNXC",
-          "url": "https://x.com/_The_Prophet__/status/2123503856705523798",
           "verified": true,
           "verified_type": "blue"
         },
@@ -787,22 +787,22 @@
           "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
         },
         {
-          "headline": "Marine Corps hero under federal investigation",
-          "summary": "Retired Sgt. Maj.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
+          "headline": "Judge says agriculture secretary's religious emails were unconstitutional",
+          "summary": "A federal judge has ruled that U.S. Agriculture Secretary Brooke Rollins' religious emails to 100,000 employees were unconstitutional",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/judge-agriculture-secretarys-religious-emails-unconstitutional-138305215"
         },
         {
-          "headline": "Trump calls Putin his friend at summit, prompting backlash from some world leaders",
-          "summary": "President Trump insisted that Russian President Vladimir Putin wants to end his war with Ukraine as the two leaders met with Chinese President Xi Jinping. But Putin later told reporters he plans to halt negotiations with the country he invaded in 2022.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/"
+          "headline": "Trump’s CISA pick rejects Jan. 6 as an 'attack,' won't name 2020 election winner",
+          "summary": "Michael LoSapio, President Donald Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, says he doesn't consider the Jan_ 6 Capitol insurrection an \"attack.\"",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268"
         },
         {
-          "headline": "Musk says he's \"not MAGA,\" feels \"foolish\" about midterm spending",
-          "summary": "After opening his wallet to assist GOP candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars in the race.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
+          "headline": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+          "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
         }
       ]
     },
@@ -811,34 +811,34 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+          "headline": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
           "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
         },
         {
-          "headline": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-          "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+          "headline": "Senate backs bill to speed up permitting reviews, force data centers to pay for energy costs",
+          "summary": "The Senate has approved bipartisan legislation aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek to increase the nation’s energy supplies to meet surging demand and lower...",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/senate-backs-bill-speed-permitting-reviews-force-data-138308461"
         },
         {
-          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+          "headline": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
+          "summary": "Asian shares are dropping during a wide selloff in issues related to artificial intelligence and computer chips",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523"
+        },
+        {
+          "headline": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+          "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
         },
         {
           "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
           "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
-        },
-        {
-          "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-          "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         }
       ]
     },
@@ -847,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Steelers part ways with veteran wide receiver in flurry of roster moves",
-          "summary": "The Pittsburgh Steelers have officially parted ways with a veteran wide receiver ahead of the Week 11 matchup against the Philadelphia Eagles . In an assortment of roster moves on Wednesday, the Steelers cut ties with veteran wide receiver Isaiah Hodgins in order to make room for wide receiver Max Hurleman, who was restored to the active practice squad.",
+          "headline": "Vokietaitis and Punch lead No. 6 Texas to a 92-68 win over Southern Utah",
+          "summary": "AUSTIN, Texas (AP) — Matas Vokietaitis scored 26 points, David Punch added 22 and No. 6 Texas pulled away from Southern Utah for a 92-68 victory Thursday night after struggling for much of the first half.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/steelers-part-ways-veteran-wide-030151960.html"
+          "url": "https://sports.yahoo.com/articles/vokietaitis-punch-lead-no-6-033428168.html"
         },
         {
-          "headline": "Hutson strikes twice late, including for the OT winner, as Canadiens beat Hurricanes 2-1",
-          "summary": "RALEIGH, N.C. (AP) — Lane Hutson scored twice in the final 5-plus minutes, including the finish on a perfect give-and-go feed from Nick Suzuki in the first minute of overtime, to help the Montreal Canadiens rally past the Carolina Hurricanes 2-1 on Thursday night.",
+          "headline": "Bidunga and Wooley lead No. 23 Louisville to an 83-69 victory over Stetson",
+          "summary": "LOUISVILLE, Ky. (AP) — Flory Bidunga scored 17 of his career high-tying 25 points in the first half and No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/hutson-strikes-twice-including-ot-030118186.html"
+          "url": "https://sports.yahoo.com/articles/bidunga-wooley-lead-no-23-033233585.html"
         },
         {
-          "headline": "Report: Padres Meet With No. 1 Free Agent Tarik Skubal",
-          "summary": "Sep 25, 2026; San Francisco, California, USA; Los Angeles Dodgers pitcher Tarik Skubal (29) pitches during the first inning against the San Francisco Giants at Oracle Park. Mandatory Credit: Stan Szeto-Imagn Images | Source: Lastwordonsports.com - Augustus Oswald, Site Editor The San Diego Padres reportedly hosted top free agent Tarik Skubal on Wednesday…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/report-padres-meet-no-1-030100943.html"
+          "headline": "If RJ Luis Jr.'s career at LSU is over, he will be remembered for one of biggest bag fumbles of the NIL era",
+          "summary": "Luis could’ve decided to have stayed in college, gotten paid and been a legit draft prospect in 2026",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/rj-luis-lsu-president-will-wade-sec-threat-expulsion/"
         },
         {
-          "headline": "Carroll has 19 points, 11 rebounds and Drake knocks off Charleston 86-70",
-          "summary": "DES MOINES, Iowa (AP) — Jon Carroll scored 19 points and grabbed 11 rebounds as Drake beat Charleston 86-70 on Thursday. Dre Kindell shot 6 for 13 (2 for 3 from 3-point range) and 5 of 5 from the free-throw line to add 19 points for the Bulldogs (4-1).",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/carroll-19-points-11-rebounds-030059753.html"
+          "headline": "Kentucky vs. Indiana prediction, pick, odds, spread: Wildcats face Hooisers in blue-blood clash",
+          "summary": "Indiana's revamped frontcourt and balanced scoring attack give the unbeaten Hoosiers a decisive edge against a Wildcats squad still searching for an identity",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/kentucky-indiana-prediction-picks-odds-spread-where-to-watch-live/"
         },
         {
-          "headline": "Five players David Ferrer could call upon to replace Carlos Alcaraz if he withdraws from Davis Cup Finals with injury",
-          "summary": "Carlos Alcaraz could miss the Davis Cup Finals in Bologna. After requiring treatment against Daniil Medvedev at the ATP Finals, Alcaraz underwent an MRI .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/five-players-david-ferrer-could-030000534.html"
+          "headline": "Arsenal 'have ingredients' but Europe's elite on another level",
+          "summary": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -882,6 +882,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "‘Hanuman Ansh,’ ‘Pyre’ and Shah Rukh Khan Classics Lead International Film Festival of India’s Inflatable Cinema Lineup as NFDC, ESG Renew PictureTime Partnership",
+          "summary": "Vishal Chaturvedi’s hit “Hanuman Ansh” and Vinod Kapri’s “Pyre” will headline a pop-up inflatable cinema at the International Film Festival of India (IFFI) in Goa, where the National Film Development Corporation (NFDC) and the Entertainment Society of Goa (ESG) have teamed with PictureTime Digiplex again. The mobile auditorium is going up on the Kala…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/hanuman-ansh-pyre-iffi-inflatable-cinema-lineup-goa-1236952961/"
+        },
         {
           "headline": "Billy Evans Will Secure His Cut of ‘You Can See Everything’ Profits After All — and Give It to Charity (Exclusive)",
           "summary": "After relinquishing his backend, the villain of A24's smash documentary negotiated a deal and arranged for the payout to go to a children's nonprofit.",
@@ -895,22 +901,16 @@
           "url": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/"
         },
         {
-          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
-          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
+          "headline": "“I’m in Preparation for the End of Our World”: Golshifteh Farahani on Art, War and Her Tallinn Premiere",
+          "summary": "After a thriller set as Kabul braces for the Taliban, the actress says her mind is on the state of the world and not on her next role.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/iran-star-golshifteh-farahani-when-she-hears-the-bells-film-1236759198/"
         },
         {
-          "headline": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
-          "summary": "Black Bear has acquired the North American rights to Bill Hader’s feature directorial debut “They Know.” Hader also wrote and stars in the horror-thriller with Linda Cardellini. Based on an idea from Hader and his “Barry” collaborator Duffy Boudreau, “‘They Know’ follows a divorced dad who becomes increasingly suspicious and paranoid that his ex-wife’s…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/"
-        },
-        {
-          "headline": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
-          "summary": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/"
+          "headline": "How the Steadicam sprinted up the stairs along with Rocky",
+          "summary": "Rocky. '/> A new movie about the making of Sylvester Stallone's 1976 film Rocky opens nationwide this week.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6027243/rocky-steadicam-garrett-brown"
         }
       ]
     },
@@ -937,16 +937,16 @@
           "url": "https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/"
         },
         {
-          "headline": "Jorrybell Agoto Dies: ‘Filipiñana’ Breakout Actress Was 32",
-          "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jorrybell-agoto-dead-filipinana-star-1237229689/"
+          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
+          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
         },
         {
-          "headline": "Patrick Stewart Cause Of Death Revealed",
-          "summary": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Men film franchise and much more died October 28 from Alzheimer’s disease and Lewy body dementia, according to his death certificate obtained by TMZ.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/"
+          "headline": "Trump administration urges judge to lift order blocking Kennedy Center's closure",
+          "summary": "President Donald Trump’s administration has urged a federal judge to lift a court order blocking its plans to close the Kennedy Center for two years of renovation work on the cultural and arts venue",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/trump-administration-urges-judge-lift-order-blocking-kennedy-138303376"
         }
       ]
     },
@@ -955,24 +955,6 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "‘Much Ado About Nothing’ Broadway Review: Tom Hiddleston, Hayley Atwell & Jamie Lloyd Throw An Irresistible Party Of Shakespeare’s Great Comedy",
-          "summary": "Outside of ticker tape parades and New Year’s Eve in Times Square, you might be hard-pressed to think of a better, more joyous use of floating paper than the confetti that piles up nightly on the stage of Broadway’s Winter Garden Theatre these days. We’re talking blizzards of the pink stuff, so deep that the […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924/"
-        },
-        {
-          "headline": "‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’",
-          "summary": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845/"
-        },
-        {
-          "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
-          "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/"
-        },
-        {
           "headline": "Jorrybell Agoto Dies: ‘Filipiñana’ Breakout Actress Was 32",
           "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
           "source": "Deadline",
@@ -983,6 +965,24 @@
           "summary": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Men film franchise and much more died October 28 from Alzheimer’s disease and Lewy body dementia, according to his death certificate obtained by TMZ.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/"
+        },
+        {
+          "headline": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
+          "summary": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/"
+        },
+        {
+          "headline": "Gamers, start your engines. Grand Theft Auto 6 is ready to roll.",
+          "summary": "The latest, long-awaited version of the hit video game franchise launches at midnight local time on Nov. 19 in countries worldwide.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
+        },
+        {
+          "headline": "CBS to air Kennedy Center Honors in December",
+          "summary": "CBS has reached a one-year deal to air the awards ceremony next month, sources said.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kennedy-center-honors-cbs-2026/"
         }
       ]
     },
@@ -991,37 +991,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "A Full List of Current 2026 K-Pop Concerts (Updating)",
-          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
+          "headline": "P1Harmony Earns First No. 1 on Top Album Sales Chart With ‘BLOW UP’",
+          "summary": "P1Harmony earns its first No. 1 on Billboard ’s Top Album Sales chart as BLOW UP bows atop the chart dated Nov.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/"
+          "url": "https://www.billboard.com/music/chart-beat/p1harmony-first-no1-top-album-sales-blow-up-1236386121/"
         },
         {
-          "headline": "The Deals: Yamaha Acquires Visual Technology Company Disguise for $280 Million & More",
-          "summary": "Yamaha Corporation , the musical instruments and audio products company, acquired Disguise , which provides visual technology for live events, location-based experiences and virtual production spanning software, hardware and creative and technical services. A public notice published by Yamaha on Friday (Nov.",
+          "headline": "Darren Hayes Launches the 2026 ARIA Awards With Savage Garden’s ‘Affirmation’: Watch",
+          "summary": "Savage Garden is, sadly, long gone. But when Darren Hayes took the stage at the 2026 ARIA Awards on Wednesday night (Nov.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/lists/yamaha-acquires-visual-technology-company-disguise-deals/"
+          "url": "https://www.billboard.com/music/awards/darren-hayes-2026-aria-awards-savage-gardens-affirmation-1236386147/"
         },
         {
-          "headline": "Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More",
-          "summary": "All products and services featured are independently chosen by editors. However, Billboard may receive a commission on orders placed through its retail links, and the retailer may receive certain auditable data for accounting purposes.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/product-recommendations/prime-video-black-friday-cyber-monday-streaming-deals-2026-1236385908/"
+          "headline": "Bruno Mars Mourns His Father’s Death: ‘The Man That Taught Me Everything I Know’",
+          "summary": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/bruno-mars-mourns-father-death-peter-hernandez-1235661510/"
         },
         {
-          "headline": "Bruno Mars Mourns Death of Father Peter Hernandez: ‘The Man That Taught Me Everything I Know’",
-          "summary": "Bruno Mars has announced that his father, Peter Hernandez, passed away. The Grammy-winning superstar broke the tragic news with a heartbreaking tribute post to Instagram on Thursday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/bruno-mars-father-death-peter-hernandez-1236386082/"
+          "headline": "Here’s Every Rapper Who Appears in GTA VI",
+          "summary": "You’ll run into Sexyy Red, Gucci Mane, Trina, JT, and many more in Vice City",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/heres-every-rapper-who-appears-in-gta-vi/"
         },
         {
-          "headline": "Molly Santana Pushes Back at ‘Queen of the Underground’ Title: ‘The Underground Doesn’t Really Like Women’",
-          "summary": "Don’t call Molly Santana “The Queen of the Underground.” The West Coast rapper recently sat down with Bootleg Kev to promote her upcoming album Black Punk and pushed back when Kev referred to her as “The Queen of the Underground.” “I don’t want to be queen of the underground,” she said before expressing that she feels like that particular scene isn’t…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/molly-santana-queen-of-the-underground-1236386051/"
+          "headline": "Armand Hammer has what it takes to outlast the end times",
+          "summary": "Snakes & Ladders. '/> Their new album makes the case for rappers Elucid and billy woods as an era-defining team: attuned to a dark sociopolitical moment, yet powered by a humans-first creative ethic.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6044229/armand-hammer-snakes-ladders-review"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T22:12:36-05:00"
+  "updatedAt": "2026-11-19T22:43:11-05:00"
 }
