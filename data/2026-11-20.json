@@ -42,16 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "headline": "Mum's fatal BBL an accident - but risk of more deaths",
+          "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0jxgvep0j7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Russia missiles pummel Ukraine and hit NATO soil in Poland",
-          "summary": "Missiles flew into Poland overnight as Russia hit Ukraine with \"one of the largest attacks\" since the war began, killing at least 8 people.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+          "headline": "WATCH: Reporter goes undercover as porch pirate",
+          "summary": "A New York Times reporter went undercover as a porch pirate to help identify the best ways to keep your home and packages safe as package deliveries ramp up this holiday season.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138316025/"
+        },
+        {
+          "headline": "How Orchestra Noir turned classical music into a cultural movement",
+          "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be. (Image credit: Andre Calder)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music"
         },
         {
           "headline": "WATCH: New health warning on doomscrolling",
@@ -60,16 +66,10 @@
           "url": "https://abcnews.com/video/138316910/"
         },
         {
-          "headline": "Why injured Joao Pedro may be Chelsea's most important player",
-          "summary": "With Joao Pedro missing again for Chelsea on Saturday, BBC Sport looks at the importance of the Brazilian to the Blues.",
+          "headline": "What is the EU-UK youth experience scheme and when will it start?",
+          "summary": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr62p7x23vg3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Anthropic shares fall a day after blockbuster opening",
-          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123813520244605100",
+          "created_at": "2026-11-20T16:19:36.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "𝕏 is the global town square https://t.co/PZAFHJSWz7",
+          "url": "https://x.com/elonmusk/status/2123813520244605100",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123812557836173493",
+          "created_at": "2026-11-20T16:15:46.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "MIKE DAVIS WARNS DEMOCRATS THEIR REVENGE INVESTIGATIONS COULD BACKFIRE\n\n@mrddmia says Democrats threatening to target Trump officials may be exposing themselves to federal civil rights violations. https://t.co/q8fGRGwBk2",
+          "url": "https://x.com/RealAmVoice/status/2123812557836173493",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123811822537155021",
+          "created_at": "2026-11-20T16:12:51.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "He’s not. Also, I have nothing against Indian people, but you have to love the irony in a guy named “Saurabh Sharma” (sounds like Shawarma) who was literally born in India thinking that he of all people should be allowed to decide what is and isn’t America First as it pertains to https://t.co/RoxR0KyGwN",
+          "url": "https://x.com/LauraLoomer/status/2123811822537155021",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123810352768995482",
+          "created_at": "2026-11-20T16:07:01.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A tanker leaving the Strait of Hormuz was hit by an unknown projectile 8NM north of Khasab, Oman.\n\nFire onboard. No casualties.\n\nUKMTO https://t.co/0aQ9B33sVC",
+          "url": "https://x.com/Osint613/status/2123810352768995482",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123810146006532136",
+          "created_at": "2026-11-20T16:06:11.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Nasdaq Composite officially turns negative for 2026, erasing a gain of +19%. https://t.co/yPDb7Ul9ds",
+          "url": "https://x.com/KobeissiLetter/status/2123810146006532136",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123809787649425904",
+          "created_at": "2026-11-20T16:04:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "CENTCOM:\n\n“A U.S. Marine Corps F-35C Lightning II is refueled by a U.S. Air Force KC-135 Stratotanker while operating over the Middle East”. https://t.co/nml5GxDqYa",
+          "url": "https://x.com/Osint613/status/2123809787649425904",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123809508187078839",
+          "created_at": "2026-11-20T16:03:39.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Members of the Starship production team with Starship 42 before its launch https://t.co/1yPiV8h5Zu",
+          "url": "https://x.com/SpaceX/status/2123809508187078839",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123808782367261115",
+          "created_at": "2026-11-20T16:00:46.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Even CNN can't spin this bad news for Jeffries and Schumer.\n\nhttps://t.co/4VNP4QPrqb",
+          "url": "https://x.com/RealAmVoice/status/2123808782367261115",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123808105062646216",
+          "created_at": "2026-11-20T15:58:05.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nvidia, $NVDA, is set to post the largest 45-day loss in market cap by any stock in history, down -$2.55 trillion from the October 6th high.\n\nNearly 40% of the total market cap lost by the S&amp;P 500 since October 6th has come from Nvidia alone. https://t.co/1oV5BPumu4 https://t.co/ldwtJLIe7l",
+          "url": "https://x.com/KobeissiLetter/status/2123808105062646216",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123807811154903117",
+          "created_at": "2026-11-20T15:56:55.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "The EU has just admitted they were hit by a AI coordinated cyberattack. The attack occurred in October and they COVERED IT UP. They are lying about it. https://t.co/H3yzy7uyqt",
+          "url": "https://x.com/Timcast/status/2123807811154903117",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123807362834473193",
+          "created_at": "2026-11-20T15:55:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Peter Boockvar says the Fed risks hiking straight into an AI capex slowdown, and he doesn't see how it can hike again after December\n\n\"CoreWeave's unsecured debt went to 15%. All the suppliers into the data center construction started to roll over\"\n\n\"I don't know what battle the https://t.co/zs9SMT0kHz",
+          "url": "https://x.com/_Investinq/status/2123807362834473193",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123804455057408108",
           "created_at": "2026-11-20T15:43:35.000Z",
@@ -115,26 +225,6 @@
           "author_handle": "SportNState",
           "text": "What if all the bluster about a salary cap from MLB owners is just a high-profile, big-swing negotiating tactic and nothing more? \n\nA fantasy, perhaps, but it's a thought worth considering, says @ByJasonFoster.\nhttps://t.co/ZqubAUr9yT",
           "url": "https://x.com/SportNState/status/2123803266794557480",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123803161471132052",
-          "created_at": "2026-11-20T15:38:26.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Treasury Secretary Scott Bessent told CNBC he continues to live on a military base. \n\nHe added that if Iranians are pursuing him, it shows they are being squeezed.",
-          "url": "https://x.com/Osint613/status/2123803161471132052",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123802802334171628",
-          "created_at": "2026-11-20T15:37:01.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Saudi air defenses shot down two Houthi ballistic missiles over the Jazan area, with interception debris falling in Al-Shuqaiq, according to the Saudi coalition. The launches set off alerts in Najran and Jazan provinces and followed Saudi strikes on key Houthi targets in Yemen. https://t.co/BTBqPl6kOs",
-          "url": "https://x.com/Osint613/status/2123802802334171628",
           "verified": true,
           "verified_type": "blue"
         },
@@ -259,16 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123786977250046458",
-          "created_at": "2026-11-20T14:34:08.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WATCH: Video from Los Angeles International Airport (LAX) shows the moment a M 4.4 earthquake struck this morning.\n\nhttps://t.co/gDSRqku9vI",
-          "url": "https://x.com/RealAmVoice/status/2123786977250046458",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123786349975134400",
           "created_at": "2026-11-20T14:31:38.000Z",
           "author_name": "Sport & State",
@@ -329,16 +409,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123770239028531589",
-          "created_at": "2026-11-20T13:27:37.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🇺🇸 FAITH. FAMILY. FREEDOM. THAT'S WHAT AMERICAN VALUES ARE ALL ABOUT! 🎶\n\n@tashaowensmusic is back with her brand-new single, “American Values”—a celebration of the principles that unite us and the people who make America great!\n\n🎵 Turn it UP, share the message, and help spread https://t.co/il6JY8fi7v",
-          "url": "https://x.com/RealAmVoice/status/2123770239028531589",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123769448196706704",
           "created_at": "2026-11-20T13:24:28.000Z",
           "author_name": "OutKick",
@@ -375,16 +445,6 @@
           "author_handle": "SportNState",
           "text": "Hutton &amp; Withrow are LIVE on this Friday!\n\nLSU backs down in the RJ Luis saga, Troy Aikman takes another shot at Joe Buck, Missouri's AD calls out the SEC, Top 10 CFB games, worst NFL fanbases &amp; more! https://t.co/47nxy5Il7Q",
           "url": "https://x.com/SportNState/status/2123764527925760367",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123761168393392172",
-          "created_at": "2026-11-20T12:51:34.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "“Migrant influx”\n\nThey are all Muslim. https://t.co/AFYlKuwPFL",
-          "url": "https://x.com/LauraLoomer/status/2123761168393392172",
           "verified": true,
           "verified_type": "blue"
         },
@@ -429,16 +489,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123733071992422408",
-          "created_at": "2026-11-20T10:59:56.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Take a look at the comments on this post.\n\nThey proved the exact point we made in the post itself.\n\nThe number of people who are convinced that the world is over and \"everything is going to zero\" is incredible.\n\nSentiment is our favorite leading indicator. https://t.co/X1XIaFkZvG",
-          "url": "https://x.com/KobeissiLetter/status/2123733071992422408",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123726569206415815",
           "created_at": "2026-11-20T10:34:05.000Z",
           "author_name": "Elon Musk",
@@ -455,16 +505,6 @@
           "author_handle": "elonmusk",
           "text": "This is not AI 😂 https://t.co/7QlYzcVszJ",
           "url": "https://x.com/elonmusk/status/2123695317375992288",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123640006287954184",
-          "created_at": "2026-11-20T04:50:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Hyundai CEO José Muñoz says companies don't depend on one person, even Nvidia without Jensen Huang\n\n\"I don't think that's my call, right? So I think the board should decide that\"\n\n\"We trust NVIDIA will definitely fulfill their commitment to us\"\n\n\"I think the companies are not https://t.co/Xs6QyKAzEt",
-          "url": "https://x.com/_Investinq/status/2123640006287954184",
           "verified": true,
           "verified_type": "blue"
         },
@@ -495,16 +535,6 @@
           "author_handle": "Outkick",
           "text": "You know it’s an L when Anthony Richardson comes into the game  https://t.co/0tC7Fe2SvY",
           "url": "https://x.com/Outkick/status/2123631075792502937",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123628399998521610",
-          "created_at": "2026-11-20T04:04:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "It's clear now more than ever:\n\nUltimately, this bear market in tech stocks will be remembered as the best buying opportunity of the last decade.\n\nUnless your view is that the AI is worthless and the AI Revolution is over, many key parts of this market are extremely cheap.",
-          "url": "https://x.com/KobeissiLetter/status/2123628399998521610",
           "verified": true,
           "verified_type": "business"
         },
@@ -585,16 +615,6 @@
           "author_handle": "ClayTravis",
           "text": "I'm taking the Texans -12.5 on @HardRockBet in TNF. Adding the Over 44 and Nico Collins Anytime TD for a boosted SGP on the app as well. The Texans aren’t awful and the Colts are. That’s the basic thesis here. Indy has sold on the season already. Make your picks below. https://t.co/FnTlGrGEx2",
           "url": "https://x.com/ClayTravis/status/2123569790753407272",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123565641567220130",
-          "created_at": "2026-11-19T23:54:37.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Jeez wtf https://t.co/QyBopLOa0M",
-          "url": "https://x.com/Timcast/status/2123565641567220130",
           "verified": true,
           "verified_type": "blue"
         },
@@ -717,16 +737,6 @@
           "url": "https://x.com/SpaceX/status/2122814338893332591",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2122802167212098047",
-          "created_at": "2026-11-17T21:20:51.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Watch @BretWJ at the @TomorrowXSummit talking about Starship unlocking the future of @Starlink broadband, mobile and ultimately supercompute in space https://t.co/wnjEneecQ3",
-          "url": "https://x.com/SpaceX/status/2122802167212098047",
-          "verified": true,
-          "verified_type": "business"
         }
       ]
     },
@@ -735,10 +745,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "White House national cyber director leaving his post",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "headline": "New UFO files show contractor planned vault for \"exotic material\"",
+          "summary": "The Pentagon's latest batch of UFO files includes a report from a government contractor detailing plans for an underground vault to store \"exotic material or tissue\" it was seeking.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+          "url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/"
+        },
+        {
+          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
           "headline": "Trump to hold press conference after meeting with Xi and Putin",
@@ -753,12 +769,6 @@
           "url": "https://abcnews.com/Politics/wireStory/stacey-abrams-plans-refocus-fair-fight-voting-rights-138316451"
         },
         {
-          "headline": "Musk said he'd \"look into\" this disclosure law. Now it heads to court.",
-          "summary": "Two county prosecutors say the Trump administration broke the law when it exempted U.S. companies from ownership reporting.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-corporate-disclosure-lawsuit/"
-        },
-        {
           "headline": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
           "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year. (Image credit: Texas Department of Criminal Justice)",
           "source": "NPR",
@@ -771,16 +781,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-          "summary": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
+          "headline": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
+          "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
+          "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"
         },
         {
-          "headline": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-          "summary": "Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
+          "headline": "Data center construction costs soar 13% in 2026",
+          "summary": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
+          "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html"
         },
         {
           "headline": "Stocks plunge as investors take cover amid growing uncertainty",
@@ -807,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Melissa Etheridge is cheering for the Kansas City Current in the NWSL final",
-          "summary": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/"
+          "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
+          "summary": "The Hunger Games: Sunrise on the Reaping. '/> This prequel tells the origin story of Haymitch Abernathy.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6046181/hunger-games-sunrise-on-the-reaping-review"
         },
         {
-          "headline": "Yahoo Fantasy x BreakingT: Joe Burrow, JSN are among the fantasy football MV-Tees",
-          "summary": "Yahoo Fantasy has teamed up with BreakingT to launch the Yahoo Fantasy Shirt of the Week. Now, you can own shirts of the MV-Tees.",
+          "headline": "Rob Gronkowsi not shying away from truth about Patriots defense",
+          "summary": "New England Patriots great Rob Gronkowski wasn't impressed with what he saw from the team's defense against the Detroit Lions in Week 10. As a recent guest on \"Up & Adams,\" Gronkowski criticized New England's defense for looking like it was giving up during its Week 10 loss to Detroit, particularly on Lions' wide receiver Amon-Ra St.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/fantasy/article/yahoo-fantasy-x-breakingt-joe-burrow-jsn-are-among-the-fantasy-football-mv-tees-153558018.html"
+          "url": "https://sports.yahoo.com/articles/rob-gronkowsi-not-shying-away-161421772.html"
         },
         {
-          "headline": "Rams rumors: Puka Nacua’s suspension falling during IR stint is ‘100% a coincidence,’ per insider",
-          "summary": "Kirby Lee-Imagn Images Rams rumors: Puka Nacua’s suspension falling during IR stint is ‘100% a coincidence,’ per insider appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Parekh Is Showing the Calgary Flames Just How Special He Could Become",
+          "summary": "IMAGN IMAGES via Reuters Connect Zayne Parekh might not be putting up the kind of point totals Calgary Flames fans became accustomed to while watching him during his junior career, but the 20-year-old defenseman is already giving them plenty of reasons to be excited. The ninth overall pick in the 2024 NHL Draft has been generating offensive opportunities…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/rams-rumors-puka-nacua-suspension-153508511.html"
+          "url": "https://sports.yahoo.com/articles/parekh-showing-calgary-flames-just-161332470.html"
         },
         {
-          "headline": "NFL has a big divide between the top teams and the worst teams",
-          "summary": "The Indianapolis Colts never had a chance against the Houston Texans",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/nfl-big-divide-top-teams-worst-teams-138319613"
+          "headline": "We want to have a positive impact - Pochettino",
+          "summary": "Mauricio Pochettino talks for the first time about his arrival at Manchester United and what his goals are ahead of his first game.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw20xd2zgl0xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Megan Rapinoe says it's a \"huge honor\" to be elected to National Soccer Hall of Fame",
-          "summary": "U.S. soccer legend Megan Rapinoe shares what it means to her to be elected to the National Soccer Hall of Fame, who she's rooting for in the NWSL Championship and more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/megan-rapinoe-says-its-a-huge-honor-to-be-elected-to-national-soccer-hall-of-fame/"
+          "headline": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge",
+          "summary": "It's both business and personal Saturday for the Volunteers when Lane Kiffin comes to town intent on taking away their playoff hopes",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/anxiety-rankings-tennessee-nightmare-big-12/"
         }
       ]
     },
@@ -843,16 +853,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’",
-          "summary": "Sofia Coppola paid tribute to her late mother, Eleanor Coppola, at the Paris premiere of the documentary “Making Marie Antoinette,” which she directed, charting the making of her daughter’s 2006 cult film starring Kirsten Dunst. While she was unable to attend after coming down with the flu, Coppola sent a heartfelt note honoring her mother, […]",
+          "headline": "Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee’s Style Is Her ‘Form of Defiance Against the Capitol’",
+          "summary": "Mckenna Grace has been on a red carpet run for the ages during the global press tour for “The Hunger Games: Sunrise on the Reaping.” Over the last few weeks, the 20-year-old actress (and certified “Hunger Games” fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sofia-coppola-pays-tribute-eleanor-making-marie-antoinette-1236954157/"
+          "url": "https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484/"
         },
         {
-          "headline": "Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007",
-          "summary": "What does an actor do in the quiet moments before the announcement that will change his life? For Robert Pattinson, there were about 12 hours between the Sunday phone call confirming he’d landed the role of James Bond and Amazon MGM’s Monday-morning release of the first image of the actor rocking a tuxedo and pistol.",
+          "headline": "‘Ramayana’ Star Sai Pallavi, Ravi Kishan’s ‘Spider-Man’ Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa",
+          "summary": "The 57th International Film Festival of India opened in Goa on Friday, with “Lagaan” director Ashutosh Gowariker setting out a “Stories Without Borders” program in his first year as festival director and Goa Chief Minister Pramod Sawant renewing his push for a film city in the state. Paweł Pawlikowski’s “Fatherland,” which shared the best director […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/bond-robert-pattinson-screen-test-amazon-execs-1236954194/"
+          "url": "https://variety.com/2026/film/festivals/sai-pallavi-ravi-kishan-ricky-kej-iffi-opening-goa-1236954225/"
         },
         {
           "headline": "Prince Harry Approves of Robert Pattinson’s Bond Casting",
@@ -879,22 +889,22 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Tony Winner Ivy Lion Productions Gets Development Capital For Film & TV Push, Switches From Zero Gravity To Gotham Group For Management",
+          "summary": "EXCLUSIVE: Tony-winning Ivy Lion Productions has secured development capital for IP acquisitions and recently switched management from Zero Gravity to the Gotham Group. Last season, at the age of 33, Ivy Lion’s Lamar Richardson became the youngest Black lead producer to win a Tony (Best Revival of Musical for Ragtime).",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ivy-lion-productions-development-funding-gotham-group-1237230021/"
+        },
+        {
+          "headline": "‘Hunger Games: Sunrise On The Reaping’ 2nd Best Previews YTD & For Franchise With $21M; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office Update",
+          "summary": "FRIDAY AM AFTER THURSDAY EXCLUSIVE: Lionsgate’s Francis Lawrence directed The Hunger Games: Sunrise on the Reaping came in with $21M in overall previews since Wednesday. As we told you that’s the second best for the Suzanne Collins franchise behind Catching Fire‘s $25.2M and the second best for 2026 behind Spider-Man: Brand New Day‘s $72M.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+        },
+        {
           "headline": "Rich Eisen’s ‘Beautiful Day’: Landing All Four Members of U2 as Guests",
           "summary": "Rich Eisen came out on to the set of his long-running talk show the other day, only to find Bono from U2 doing an impression of the running-man logo that has long been a part of the program’s identifying marks. When Eisen went to take part, he discovered the person taking pictures of the encounter […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/rich-eisen-u2-beautiful-day-1236954135/"
-        },
-        {
-          "headline": "‘MobLand’ Season 3 Starts Shooting As Season 2 Finale Drops On Paramount+",
-          "summary": "The Harrigans are back in business on Paramount+. MobLand Season 3 is officially in production, with Tom Hardy, Pierce Brosnan, and Helen Mirren all reprising their roles for the crime family saga.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/mobland-season-3-starts-shooting-finale-paramount-1237230065/"
-        },
-        {
-          "headline": "‘Killing Castro’ Movie Starring Diego Boneta Drops First Trailer",
-          "summary": "Lionsgate has released the first trailer for its upcoming pic Killing Castro starring Diego Boneta. The film also stars Al Pacino, Xolo Maridueña, KiKi Layne, Alexander Ludwig, Ron Livingston, Kendrick Sampson, Nicole Beharie, Logan Marshall Green and Titus Welliver.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/killing-castro-diego-boneta-trailer-1237230063/"
         },
         {
           "headline": "‘MobLand’ Season 3 Starts Shooting With Tom Hardy, Helen Mirren and Pierce Brosnan",
@@ -915,34 +925,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "MAMA Awards Crowns BTS & Enhypen As K-Pop Show’s Producer Says “Lines Are Blurring Between Music, Film, TV & Fashion”",
-          "summary": "Giant K-pop show the MAMA Awards 2026 is taking place in Osaka, Japan this weekend, and the first winners have been crowed. BTS won the coveted Artist of the Year category for the eighth time, and Enhypen won three: Fans’ Choice of the Year, Favorite M-Countdown Stage and Fan’s Choice Top 10 – Male.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/mama-awards-2026-night-one-bts-enhypen-win-mnet-interview-1237230016/"
-        },
-        {
-          "headline": "Sam Mewis, Roger Bennett look ahead to Washington vs. Kansas City NWSL final",
-          "summary": "The Washington Spirit and the Kansas City Current face off for a NWSL championship title. Soccer legend Sam Mewis and Men in Blazers Media Network CEO Roger Bennett share their thoughts on the final match and the current state of women's soccer.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/sam-mewis-roger-bennett-look-ahead-to-washington-vs-kansas-city-nwsl-final/"
-        },
-        {
-          "headline": "NWSL commissioner on Washington Spirit, Kansas City Current championship match, league's success",
-          "summary": "NWSL commissioner Jessica Berman gives a preview of Saturday's championship match and discusses the investment into women's soccer.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/nwsl-commissioner-on-washington-spirit-kansas-city-current-championship-match-leagues-success/"
-        },
-        {
-          "headline": "Content Chiefs At Denmark’s TV2 Step Down To “Restore Trust” After Backlash Over ‘Truman Show’-Style Reality Series",
-          "summary": "Denmark’s TV2 will replace its content chief and program director after a public backlash over reality series Alle Elsker Rasmus (Everybody Loves Rasmus). Content Director Ulla Pors and Program Director Dorthe Thirstrup have today stepped down to allow TV2 to “begin restoring trust in the broadcaster’s content operations,” according to a statement from…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/denmark-tv2-content-program-directors-exit-reality-series-1237230030/"
-        },
-        {
-          "headline": "Prince Harry Gives New James Bond Robert Pattinson the Royal Seal of Approval: ‘I Want to Make Sure That It’s in Good Hands’",
-          "summary": "Prince Harry has given Robert Pattinson his royal seal of approval as the new 007. Appearing on daytime show “This Morning” on Friday, the British royal, who recently moved back to the U.K.",
+          "headline": "Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq",
+          "summary": "French actor Gérard Depardieu is facing a new complaint alleging rape and sexual assault during the filming of Guillaume Nicloux’s “Thalasso” in 2018, according to an investigation published by Mediapart on Thursday. The complaint also names Nicloux, who directed the film, and Michel Houellebecq, one of France’s most celebrated novelists who starred…",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/prince-harry-james-bond-robert-pattinson-1236954165/"
+          "url": "https://variety.com/2026/film/global/gerard-depardieu-rape-complaint-guillaume-nicloux-houellebecq-1236954229/"
+        },
+        {
+          "headline": "Women In Vertical Media: Execs From Shorties Studios, aTwist & Eris Join Inaugural Advisory Circle",
+          "summary": "EXCLUSIVE: Women in Vertical Media (WVM) has unveiled its inaugural advisory circle, with execs from Shorties Studios, aTwist and Eris Talent Agency on board. The L.A.-based organization, which seeks to amplify women’s achievements in the burgeoning U.S.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/women-in-vertical-media-inaugural-advisory-circle-1237229953/"
+        },
+        {
+          "headline": "Don’t Tell Comedy & Cash App Partner On Slate Of Half-Hour Stand-Up Specials",
+          "summary": "EXCLUSIVE: Half-hour specials have long been “an important milestone for working comics,” observes Brett Kushner, COO of stand-up producer Don’t Tell Comedy. Major platforms such as Comedy Central once backed them consistently as a way to break new talent.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/dont-tell-comedy-cash-app-partner-half-hour-special-slate-1237229481/"
+        },
+        {
+          "headline": "Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’",
+          "summary": "Sofia Coppola paid tribute to her late mother, Eleanor Coppola, at the Paris premiere of the documentary “Making Marie Antoinette,” which she directed, charting the making of her daughter’s 2006 cult film starring Kirsten Dunst. While she was unable to attend after coming down with the flu, Coppola sent a heartfelt note honoring her mother, […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/sofia-coppola-pays-tribute-eleanor-making-marie-antoinette-1236954157/"
+        },
+        {
+          "headline": "Melissa Etheridge is cheering for the Kansas City Current in the NWSL final",
+          "summary": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/"
         }
       ]
     },
@@ -951,37 +961,37 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Tom Waits’ Rare ‘Orphans: Bonus’ EP, Previously Vinyl-Only, Now Streaming",
+          "summary": "Six songs include covers, a collaboration, and originals",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/"
+        },
+        {
+          "headline": "Atlas Sound Returns With Surprise New Album ‘Thanatos,’ First LP in 15 Years",
+          "summary": "After a lengthy musical hiatus, Deerhunter singer Bradford Cox revives his long-dormant solo project",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/"
+        },
+        {
+          "headline": "Billie Eilish to Headline BST Hyde Park for First Time: ‘She Inspires Fans, Challenges Our Industry to Be Better’",
+          "summary": "Billie Eilish will headline BST’s Hyde Park festival in 2027, joining the London festival’s stacked slate for next summer. Related Harry Styles, Sam Fender & Billie Eilish to Headline Glastonbury Festival 2027: See The Lineup Billie Eilish & FINNEAS Follow Lucy Dickins to CAA for Global Touring, WME to Share in North America Harry Styles Hits Festivals &…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/billie-eilish-bst-hyde-park-2027-headliner-1236386423/"
+        },
+        {
+          "headline": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+          "summary": "The keenly awaited loosie has found a home on the blockbuster game’s soundtrack",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/"
+        },
+        {
           "headline": "Trump, Putin & Xi’s New Photo Op Looks Like This Classic ’90s Album: Here’s How the Internet Is Reacting",
           "summary": "Ever since its 1994 release, the album art for Weezer ‘s self-titled debut, commonly known as The Blue Album, has been meme fodder. Whenever a group of people stands before a blue background, observers note the resemblance to the famous record’s cover.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/music-news/trump-putin-xi-photo-weezer-blue-album-internet-reacts-1236386400/"
-        },
-        {
-          "headline": "‘Choosin’ Texas’ Is the 7th CMA Single of the Year Winner to Be Nominated for the Equivalent Grammy: Full List",
-          "summary": "Ella Langley is winding up the biggest week of her career to date. On Monday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/cma-single-of-the-year-winners-nominated-equivalent-grammy/"
-        },
-        {
-          "headline": "5 New Albums You Should Listen to Now: Atlas Sound, Toro y Moi, and More",
-          "summary": "Stream new releases from Atlas Sound, Toro y Moi, and Lorenzo Senni",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/5-new-albums-you-should-listen-to-now-atlas-sound-toro-y-moi-and-more/"
-        },
-        {
-          "headline": "Mike D: Tiny Desk Concert",
-          "summary": "Mike D's beats and bars bristle with reflections on the vast mysteries of life. The Beastie Boy is joined by an energetic band, which includes his sons, at the Desk.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/g-s1-150985/mike-d-tiny-desk-concert"
-        },
-        {
-          "headline": "Blackpink’s Jisoo Debuts Buoyant Single ‘Sun Showers’",
-          "summary": "The song was written and recorded for upcoming animated film The Angry Birds Movie 3",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/blackpink-jisoo-sun-showers-single-angry-birds-movie-1235661547/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-20T10:45:11-05:00"
+  "updatedAt": "2026-11-20T11:20:50-05:00"
 }
