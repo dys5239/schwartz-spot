@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+          "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following…",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+        },
+        {
           "headline": "Trump says he plans to penalize companies that build data centers in other countries",
           "summary": "President Donald Trump says U.S. tech companies will face “a tremendous tax” if they build artificial intelligence data centers in other countries",
           "source": "ABC News",
@@ -28,12 +34,6 @@
           "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
           "source": "Wired",
           "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
-        },
-        {
-          "headline": "Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions",
-          "summary": "A mere five years before breaking the record for the biggest public stock offering ever, Anthropic began as a Silicon Valley startup when its founders broke away from OpenAI with their own ideas about how to develop artificial intelligence",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/anthropics-ipo-caps-explosive-growth-period-ai-startup-138312291"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Incarcerated man says he feels free at prison rodeo",
-          "summary": "60 Minutes goes inside a prison rodeo dubbed \"The Wildest Show in the South.\" Watch Sunday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/incarcerated-man-says-he-feels-free-at-prison-rodeo/"
-        },
-        {
-          "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
-          "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
-        },
-        {
-          "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-          "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
-        },
-        {
-          "headline": "Trump touts relationships with Putin and Xi after historic Asia trip",
-          "summary": "The president met with Chinese President Xi and Russian President Putin.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456"
+          "headline": "Mum's fatal BBL an accident - but risk of more deaths",
+          "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0jxgvep0j7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Iran live updates: Trump says Iran doesn't want to make a deal 'acceptable' to him",
           "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
           "source": "ABC News",
           "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+        },
+        {
+          "headline": "Trump touts Asia trip, meeting with Putin and Xi at news conference",
+          "summary": "President Trump touted his trip to Asia this week and his meetings with China's Xi Jinping and Russia's Vladimir Putin at a press conference at the White House.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+        },
+        {
+          "headline": "4.2-magnitude earthquake rattles Los Angeles area",
+          "summary": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/"
+        },
+        {
+          "headline": "LIVE: ABC News Live",
+          "summary": "24/7 coverage of breaking news and live events",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/41463246/"
         }
       ]
     },
@@ -78,6 +78,136 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123857762027471187",
+          "created_at": "2026-11-20T19:15:24.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The S&amp;P 500 falls below 7,000 for the first time since April 15th on reports that the US Securities and Exchange Commission (SEC) is launching an investigation into Nvidia, $NVDA.\n\nThe Nasdaq 100 is now down -4.3% today. https://t.co/l6pdwfqbxW",
+          "url": "https://x.com/KobeissiLetter/status/2123857762027471187",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123857123398549909",
+          "created_at": "2026-11-20T19:12:52.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The US Securities and Exchange Commission (SEC) is launching an investigation into \"potential accounting issues\" at Nvidia.\n\nNvidia stock, $NVDA, extends losses to over -8% on the day and -45% since October 6th. https://t.co/Z1yUJrCypF",
+          "url": "https://x.com/KobeissiLetter/status/2123857123398549909",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123855631824347605",
+          "created_at": "2026-11-20T19:06:56.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": ".@craigcartonlive woke up and chose violence 😳 https://t.co/nzQLeNgshK",
+          "url": "https://x.com/Outkick/status/2123855631824347605",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123855362101031081",
+          "created_at": "2026-11-20T19:05:52.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Sophie Cunningham is calling out the keyboard warriors “probably eating potato chips.”\n\nHer challenge: a 3-point contest vs. some Average Joes.\n\n“I’m going to smack that ass,” she said.\n\nDo we have any takers?\n\n✍️: @markjburns88\nhttps://t.co/L1KJmiTUlj",
+          "url": "https://x.com/SportNState/status/2123855362101031081",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123854705076187488",
+          "created_at": "2026-11-20T19:03:15.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Stephen A. firing back at me this morning over black guys can’t let white Laker players win the title. He’s wrong, I’m right. Rooting for or against someone in sports based on race is racist. A white guy who said this about black athletes would get fired. https://t.co/jQA3t1sVGp",
+          "url": "https://x.com/ClayTravis/status/2123854705076187488",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123854172965495077",
+          "created_at": "2026-11-20T19:01:08.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS NUKES MSNBC REPORTER: \"You're REALLY a RUDE person!\" https://t.co/a1ebRJS8Us",
+          "url": "https://x.com/RealAmVoice/status/2123854172965495077",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123853983705931804",
+          "created_at": "2026-11-20T19:00:23.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Here’s your Daily dose of Human Events with @JackPosobiec. Tune in every M-F at 2PM ET. @HumanEventsLive https://t.co/jv8XkXmRev",
+          "url": "https://x.com/RealAmVoice/status/2123853983705931804",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123852660688494744",
+          "created_at": "2026-11-20T18:55:08.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …",
+          "url": "https://x.com/elonmusk/status/2123852660688494744",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123852608041324924",
+          "created_at": "2026-11-20T18:54:55.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP SAYS CHINA AND RUSSIA ARE OUT OF VENEZUELA:\n\nAsked by @davezere how his moves against Chinese influence strengthened his position with Xi, Trump says he pushed China out of Venezuela and the Panama Canal.\n\n“You have to leave. And they left.”\n\nTrump's reaction to the https://t.co/ThU9sglBpR",
+          "url": "https://x.com/RealAmVoice/status/2123852608041324924",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123852408149131469",
+          "created_at": "2026-11-20T18:54:08.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP REVEALS SURPRISE CALL FROM TEXAS GOVERNOR-ELECT!\n\nTrump says the incoming governor wants a strong border and believes they can work together.\n\nHe also takes a shot at Biden's border policies:\n\n“Remember when Biden said, I need legislation? I said, no, you just need a new https://t.co/SqzOaVyiUl",
+          "url": "https://x.com/RealAmVoice/status/2123852408149131469",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123851620467490859",
+          "created_at": "2026-11-20T18:51:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "The US equity market is experiencing a historic losing streak:\n\nThe S&amp;P 500 has declined for 6 consecutive trading sessions, its longest streak since the 2020 pandemic sell-off.\n\nOver this period, the S&amp;P 500 has declined -5.8%, to its lowest level since April.\n\nToday, the S&amp;P https://t.co/Ezu8Ni2VmL",
+          "url": "https://x.com/KobeissiLetter/status/2123851620467490859",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123850851282497876",
+          "created_at": "2026-11-20T18:47:56.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "The calls are getting louder! \n\nWill the board cave in and bring Jensen back?? https://t.co/0hsta2elGx",
+          "url": "https://x.com/_Investinq/status/2123850851282497876",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123850122530558290",
+          "created_at": "2026-11-20T18:45:03.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Labeling Trump a traitor because he called Putin a friend right before a meeting is one of the most short-sighted takes I’ve seen. He knows Putin is an adversary. That’s just how he talks when the cameras are on, especially when he’s trying to negotiate the end of a war.\n\nThe https://t.co/33ASFSWKFP",
+          "url": "https://x.com/glennbeck/status/2123850122530558290",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123849141751275525",
           "created_at": "2026-11-20T18:41:09.000Z",
@@ -129,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123846454494011634",
-          "created_at": "2026-11-20T18:30:28.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "The Bush Center wants America to roll out the welcome mat for migrants. \n\nIts immigration director says Congress should build capacity now for the next migrant wave because \"America needs workers.\" https://t.co/P5abhtfKwb",
-          "url": "https://x.com/RealAmVoice/status/2123846454494011634",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123845867526574261",
           "created_at": "2026-11-20T18:28:08.000Z",
           "author_name": "Elon Musk",
@@ -169,16 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123844314262298803",
-          "created_at": "2026-11-20T18:21:58.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP SAYS HE'D GO TO WAR WITH IRAN AGAIN — EVEN AFTER REPUBLICAN MIDTERM LOSSES!\n\nTrump rejects reports of a rift with VP Vance over the war's political fallout and says he stands by the decision.\n\n“Would you do it again? And absolutely. The answer is yes, because we cannot https://t.co/uCh5VZg5w4",
-          "url": "https://x.com/RealAmVoice/status/2123844314262298803",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123843959340310871",
           "created_at": "2026-11-20T18:20:33.000Z",
           "author_name": "Tim Pool",
@@ -187,26 +297,6 @@
           "url": "https://x.com/Timcast/status/2123843959340310871",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123843663419867586",
-          "created_at": "2026-11-20T18:19:23.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "RUBIO: KEEPING TRUMP, PUTIN AND XI FROM TALKING IS “DANGEROUS!”\n\nSecretary of State Marco Rubio defends direct diplomacy between the world's three major nuclear powers.\n\n“The idea that these three leaders should not engage on a regular basis is not just absurd, it's dangerous.” https://t.co/sLse7XM6Qo",
-          "url": "https://x.com/RealAmVoice/status/2123843663419867586",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123843063139188749",
-          "created_at": "2026-11-20T18:17:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: 137-year-old church in Galestown, Maryland, just burned to the ground. Cause still “unknown.” https://t.co/LbpazlTOqR",
-          "url": "https://x.com/RealAmVoice/status/2123843063139188749",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123842985422975329",
@@ -299,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123828297469723006",
-          "created_at": "2026-11-20T17:18:19.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Anthropic, $ANT, extends losses to -27% from its post-IPO high.\n\nThe stock is now less than 2% away from falling below its IPO price of $83/share. https://t.co/mTToB2fXOj",
-          "url": "https://x.com/KobeissiLetter/status/2123828297469723006",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123827993382687217",
           "created_at": "2026-11-20T17:17:07.000Z",
           "author_name": "Elon Musk",
@@ -359,16 +439,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123821486142276036",
-          "created_at": "2026-11-20T16:51:15.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The S&amp;P 500 and Dow Jones Industrial Average officially enter correction territory, now down -10% from their record highs. https://t.co/oorEyzTAsb",
-          "url": "https://x.com/KobeissiLetter/status/2123821486142276036",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123821137490493806",
           "created_at": "2026-11-20T16:49:52.000Z",
           "author_name": "SpaceX",
@@ -395,36 +465,6 @@
           "author_handle": "SportNState",
           "text": "The Anonymous Mailbag is Live: @ClayTravis answers questions on: \n\n• Taking a husband's last name \n• Living Apart Together (LAT) setups \n• Dads &amp; former athletes vs. WNBA \n• BAC tolerance tests &amp; driverless cars \n• AI, college degrees &amp; skilled trades\nhttps://t.co/VrcQXFmGSk",
           "url": "https://x.com/SportNState/status/2123818680945443282",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123818401453965560",
-          "created_at": "2026-11-20T16:39:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Fear &amp; Greed Index falls to 14, \"Extreme Fear,\" its lowest level since the March 30th bottom.\n\nThis puts the index down -26 points in 8 days. https://t.co/4hplLBWe4e https://t.co/ldwtJLIe7l",
-          "url": "https://x.com/KobeissiLetter/status/2123818401453965560",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123817869679214838",
-          "created_at": "2026-11-20T16:36:53.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "In the year 2026, Wemby has officially given us the “shunk.” 😭 https://t.co/Bh72munLFr",
-          "url": "https://x.com/Outkick/status/2123817869679214838",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123817232849567933",
-          "created_at": "2026-11-20T16:34:21.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Neuralink’s Blindsight product is now just waiting for regulatory approval https://t.co/iEquMbbx8g",
-          "url": "https://x.com/elonmusk/status/2123817232849567933",
           "verified": true,
           "verified_type": "blue"
         },
@@ -549,16 +589,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123801083739058189",
-          "created_at": "2026-11-20T15:30:11.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Bessemer's Sameer Dholakia says Anthropic is the best return in the firm's history\n\n\"Largest investment, and over $840 million\"\n\n\"Series D was when we started, when they were $18 billion valuation... relative to a $2 billion OpenAI at the time. We were 20 times smaller\"\n\n\"We are https://t.co/R7EHv0ZMvw",
-          "url": "https://x.com/_Investinq/status/2123801083739058189",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123795019673026679",
           "created_at": "2026-11-20T15:06:05.000Z",
           "author_name": "Tim Pool",
@@ -599,16 +629,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123764527925760367",
-          "created_at": "2026-11-20T13:04:55.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Hutton &amp; Withrow are LIVE on this Friday!\n\nLSU backs down in the RJ Luis saga, Troy Aikman takes another shot at Joe Buck, Missouri's AD calls out the SEC, Top 10 CFB games, worst NFL fanbases &amp; more! https://t.co/47nxy5Il7Q",
-          "url": "https://x.com/SportNState/status/2123764527925760367",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123755931272093751",
           "created_at": "2026-11-20T12:30:46.000Z",
           "author_name": "Matt Walsh",
@@ -625,16 +645,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Appreciate you.\n\nMarkets are only one battlefield.\n\nThe deeper dives are where we go looking for what nobody has named yet.\n\nWelcome to the signal. https://t.co/I3LNYdvvgv",
           "url": "https://x.com/_The_Prophet__/status/2123619712911520224",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123604746401394698",
-          "created_at": "2026-11-20T02:30:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "New edition of Thunderdome out now. A hippo disembowels a groom on his honeymoon, his bride fights back, an elephant stomps a motorcyclist, an elk knocks out a dog, and 100 million red crabs invade Christmas Island. Wild episode with @DannyGradio \nhttps://t.co/WTUhda0wy9",
-          "url": "https://x.com/ClayTravis/status/2123604746401394698",
           "verified": true,
           "verified_type": "blue"
         },
@@ -709,16 +719,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123521882276454849",
-          "created_at": "2026-11-19T21:00:44.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Yesterday my inbox blew up with two totally different reactions to my GTA VI monologue. I had longtime listeners telling me I sold my soul to the devil for praising a violent video game just to get clicks. But I also had thousands of young guys saying, wait a second. He actually https://t.co/DjVdiEYGPM",
-          "url": "https://x.com/glennbeck/status/2123521882276454849",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123516375805379040",
           "created_at": "2026-11-19T20:38:51.000Z",
           "author_name": "SpaceX",
@@ -734,6 +734,12 @@
       "id": "politics",
       "title": "Politics",
       "stories": [
+        {
+          "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+          "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+        },
         {
           "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
           "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
@@ -753,12 +759,6 @@
           "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
         },
         {
-          "headline": "Trump holds press conference after meeting with Xi and Putin",
-          "summary": "'/> Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips. (Image credit: Kevin Dietsch)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
-        },
-        {
           "headline": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy",
           "summary": "Georgia Democrat Stacey Abrams is retooling the Fair Fight organization that she started to advocate for voter protection and ballot access after she lost the governor's race in 2018",
           "source": "ABC News",
@@ -771,16 +771,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-          "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+          "headline": "Trump says he still has confidence in Lutnick",
+          "summary": "",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html"
+          "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
         },
         {
-          "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-          "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+          "headline": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
+          "summary": "Trump said he discussed Jensen Huang with China's Xi, hours after Bessent said the ousted Nvidia CEO didn't come up in the talks.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
         },
         {
           "headline": "6 reasons stocks are falling, and what you should do about it",
@@ -807,34 +807,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Cardinals QB Carson Beck misses practice with back spasms, Mike LaFleur says team is preparing for Josh Johnson start",
-          "summary": "Arizona Cardinals might be turning to their fourth quarterback of the season. In a press conference on Friday, Cardinals head coach Mike LaFleur said that Carson Beck is dealing with back spasms and will be designated as DNP on the injury report.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/article/cardinals-qb-carson-beck-misses-practice-with-back-spasms-mike-lafleur-says-team-is-preparing-for-josh-johnson-start-183403498.html"
-        },
-        {
-          "headline": "Angel Reese’s celebrity status in Atlanta reaches ‘Michael Vick’ levels",
-          "summary": "Angel Reese was well on her way to becoming the queen of Chicago until the Sky opted to trade her to the Atlanta Dream in exchange for first-round draft picks in 2027 and 2028. It didn’t take long for Reese to find her footing in Atlanta, either.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/angel-reese-celebrity-status-atlanta-183311546.html"
-        },
-        {
-          "headline": "Everyone underrated Houston. Again. And now Kelvin Sampson has his most dangerous offense yet",
-          "summary": "The Cougars won the Players Era 8 and clearly seem like the best team in the first month of this season",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/underrated-houston-kelvin-sampson-offense/"
-        },
-        {
-          "headline": "Golazo 11/20/2026",
-          "summary": "Elsewhere on the Golazo Starting XI newsletter",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/"
-        },
-        {
-          "headline": "Wales players gaining confidence in Prem - Williams",
-          "summary": "Exposure to the English Prem has boosted the confidence of Wales' players, says scrum-half Tomos Williams.",
+          "headline": "F1 bosses close to V8 engines deal from 2030",
+          "summary": "Formula 1 bosses reach a deal that means V8 turbo hybrid engines will replace the current controversial units in 2030.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvg253z8x30o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Patriots QB Drake Maye reportedly suffered fractured right fibula, could return later this season",
+          "summary": "Following testing, New England Patriots quarterback Drake Maye reportedly suffered a fractured right fibula in Week 10, according to ESPN’s Adam Schefter and Mike Reiss . Maye will not require surgery and there is a small chance he could be back for the Patriots late in the regular season if they are contending for an AFC playoff spot.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-qb-drake-maye-reportedly-suffered-fractured-right-fibula-could-return-later-this-season-191106946.html"
+        },
+        {
+          "headline": "Wife of new Ravens player’s apologizes for calling Baltimore 'scary'",
+          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/wife-ravens-player-apologizes-calling-191038289.html"
+        },
+        {
+          "headline": "Five European teams to watch as Mauricio Pochettino begins Manchester United era",
+          "summary": "A daunting debut at Anfield awaits a struggling Red Devils side, while Jose Mourinho chases a LaLiga crown and Cesc Fabregas balances European dreams",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/five-european-teams-to-watch-as-mauricio-pochettino-begins-manchester-united-era/"
+        },
+        {
+          "headline": "Week 11 NFL picks, best bets from proven model: This 5-leg parlay returns over 20-1",
+          "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 11 NFL parlay",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/nfl-parlay-picks-spreads-lines-predictions-best-bets-week-11-2026/"
         }
       ]
     },
@@ -844,7 +844,7 @@
       "stories": [
         {
           "headline": "‘Home Alone’ Reboot in the Works at Disney from Macaulay Culkin, Seth Rogen and Evan Goldberg",
-          "summary": "A “Home Alone” sequel is in early development at Disney, Variety has confirmed. Seth Rogen and Evan Goldberg are shaping the script with original star Macaulay Culkin and will produce through their Point Grey banner.",
+          "summary": "A “Home Alone” sequel is in early development at Disney, Variety has learned. Seth Rogen and Evan Goldberg are shaping the script with original star Macaulay Culkin and will produce through their Point Grey banner.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/home-alone-reboot-disney-macaulay-culkin-seth-rogen-1236954344/"
         },
@@ -879,16 +879,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Donald Trump Touts “Unbelievable” Bipartisan Support For Federal Film & TV Incentive, Vows “It’s Going To Happen”",
+          "headline": "‘Novocaine’s Dan Berk & Robert Olsen To Helm Contained Action Thriller For Lionsgate",
+          "summary": "EXCLUSIVE: Dan Berk & Robert Olsen, the writer-directors of Paramount’s high-concept action comedy Novocaine, have sold an untitled pitch for a contained action thriller to Lionsgate, Deadline has learned. The duo are writing the script and will also direct.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/dan-berk-robert-olsen-sell-pitch-lionsgate-1237230188/"
+        },
+        {
+          "headline": "Donald Trump Touts “Unbelievable” Bipartisan Support For Federal Film & TV Incentive, Says Theaters May Be Added: “It’s Going To Happen”",
           "summary": "Donald Trump touted the bipartisan support for a a film & TV incentive and vowed that it was “going to happen” as he spoke to reporters on Friday, in an effort to show that bipartisan legislation is possible with Democrats about to take control of both chambers of Congress. At the press conference, Trump noted […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/trump-federal-film-incentive-congress-1237230241/"
-        },
-        {
-          "headline": "Candle Media’s Kevin Mayer Says Company Caught Out By Drop In Streamer Demand: “We Didn’t See That Contraction Coming”",
-          "summary": "Candle Media cofounder Kevin Mayer told an industry conference in Doha on Friday that he had not foreseen the impending contraction in demand for streaming content in 2023, ahead of the company’s launch in 2021. He was speaking six weeks after Candle Media hit the trade headlines for its sale of Reece Witherspoon’s Hello Sunshine […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/candle-medias-kevin-mayer-drop-streamer-demand-contraction-1237230294/"
         },
         {
           "headline": "Bowen Yang Apologizes for Calling Regina Spektor an Antisemitic Slur, Didn’t Know It Was ‘Popularized by Far-Right Movements’",
@@ -915,16 +915,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Candle Media’s Kevin Mayer Says Company Caught Out By Drop In Streamer Demand: “We Didn’t See That Contraction Coming”",
+          "summary": "Candle Media cofounder Kevin Mayer told an industry conference in Doha on Friday that he had not foreseen the impending contraction in demand for streaming content in 2023, ahead of the company’s launch in 2021. He was speaking six weeks after Candle Media hit the trade headlines for its sale of Reece Witherspoon’s Hello Sunshine […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/candle-medias-kevin-mayer-drop-streamer-demand-contraction-1237230294/"
+        },
+        {
           "headline": "‘Home Alone’ Sequel With Macaulay Culkin In Early Works With Seth Rogen & Evan Goldberg Writing & Producing",
           "summary": "Ever since Macaulay Culkin pitched his idea for a Home Alone sequel to Disney Motion Pictures Boss David Greenbaum, that being from an older dad’s POV, there’s been some heat on a continuation of the Christmas comedy franchise which has been a gold mine for 20th Century Studios since its inception 36 years ago. Culkin, […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/"
-        },
-        {
-          "headline": "Elin Hilderbrand’s ’28 Summers’ & ‘The Rumor’ Series Adaptations In Works At 20th Television With ‘Five Star Weekend’ EPs & ‘Perfect Couple’ Creator",
-          "summary": "EXCLUSIVE: Elin Hilderbrand’s Nantucket TV universe is expanding to a new studio. 20th Television has optioned two popular novels by the bestselling author, 28 Summers and The Rumor, for Sue Naegle and Ali Krug’s studio-based Dinner Party, which is behind Peacock’s popular adaptation of Hilderbrand’s The Five Star Weekend starring Jennifer Garner.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/elin-hilderbrand-28-summers-the-rumor-tv-series-adaptation-1237229505/"
         },
         {
           "headline": "Actor Awards 2027 Preview: Breaking Down the Top Film and TV Contenders",
@@ -951,10 +951,16 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Inside Slayyyter’s Big Year: From ‘WOR$T GIRL’ Breakthrough to Best New Artist Grammy Nomination",
-          "summary": "When Slayyyter released her third album, WOR$T GIRL IN AMERICA , in March, she considered it to be her swan song. Her previous two albums, 2021’s Troubled Paradise and 2023’s Starfucker , hadn’t charted on the Billboard 200 , and the pop singer admitted in countless interviews that she believed her most recent effort would be her last .",
+          "headline": "JISOO Brightens the Day With Bubbly ‘Sun Showers’ Single From ‘The Angry Birds Movie 3’ Soundtrack: Stream It Now",
+          "summary": "JISOO returned on Friday (Nov. 20) to unleash her bubbly new single, “Sun Showers,” which is set to land on the soundtrack for The Angry Birds Movie 3 .",
           "source": "Billboard",
-          "url": "https://www.billboard.com/pro/slayyyter-big-year-worst-girl-grammy-nominations-strategy/"
+          "url": "https://www.billboard.com/music/pop/blackpink-jisoo-sun-showers-angry-birds-movie-3-1236386578/"
+        },
+        {
+          "headline": "Billboard’s Music Industry Events Calendar",
+          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
         },
         {
           "headline": "Listen to Two New Grimes Songs",
@@ -969,12 +975,6 @@
           "url": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/"
         },
         {
-          "headline": "Executive Turntable: Melissa Victor-Burkhardt Joins HYBE Global Label Services",
-          "summary": "HYBE has appointed Melissa Victor-Burkhardt as executive vp of global artist services for HYBE Global Label Services. Within the newly created role, Victor-Burkhardt will work with the company’s worldwide teams to help with project management.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/executive-turntable-melissa-victor-burkhardt-hybe/"
-        },
-        {
           "headline": "Megan Moroney and Alex Warren Know a Good Song When They Hear It in the Car",
           "summary": "For two artists whose lives revolve around music, the road offers a different kind of listening experience.",
           "source": "Rolling Stone",
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T13:44:35-05:00"
+  "updatedAt": "2026-11-20T14:19:09-05:00"
 }
