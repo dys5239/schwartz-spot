@@ -6,10 +6,10 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-          "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following…",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+          "headline": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+          "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
         },
         {
           "headline": "Trump says he plans to penalize companies that build data centers in other countries",
@@ -30,10 +30,10 @@
           "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
         },
         {
-          "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
-          "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/"
+          "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+          "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
         }
       ]
     },
@@ -42,10 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Mum's fatal BBL an accident - but risk of more deaths",
-          "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
+          "headline": "6 reasons stocks are falling, and what you should do about it",
+          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
+        },
+        {
+          "headline": "South Florida severe weather and flooding live updates",
+          "summary": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
+        },
+        {
+          "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm0jxgvep0j7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Iran live updates: Trump says Iran doesn't want to make a deal 'acceptable' to him",
@@ -54,22 +66,10 @@
           "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
         },
         {
-          "headline": "Trump touts Asia trip, meeting with Putin and Xi at news conference",
-          "summary": "President Trump touted his trip to Asia this week and his meetings with China's Xi Jinping and Russia's Vladimir Putin at a press conference at the White House.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
-        },
-        {
-          "headline": "4.2-magnitude earthquake rattles Los Angeles area",
-          "summary": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/"
-        },
-        {
-          "headline": "LIVE: ABC News Live",
-          "summary": "24/7 coverage of breaking news and live events",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/41463246/"
+          "headline": "Mum's fatal BBL an accident - but risk of more deaths",
+          "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0jxgvep0j7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123865782887333951",
+          "created_at": "2026-11-20T19:47:16.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CHANG: TRUMP'S ASIAN ALLIANCES SENT CHINA A POWERFUL MESSAGE!\n\n@GordonGChang says Trump's agreements with Indo-Pacific allies changed Beijing's calculus BEFORE he even met with Xi Jinping.\n\n“The United States was going to remain a strong and vital presence in Asia, whether the https://t.co/hnWwXug7Hw",
+          "url": "https://x.com/RealAmVoice/status/2123865782887333951",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123865713509024141",
+          "created_at": "2026-11-20T19:47:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "What's rather unique about the market correction over the last 45 days is that the market is no longer waiting on President Trump to intervene.\n\nIn every major market downturn since January 2025, President Trump has had the ability to intervene and mark a bottom. And, that's",
+          "url": "https://x.com/KobeissiLetter/status/2123865713509024141",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123864222694302037",
+          "created_at": "2026-11-20T19:41:04.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "In September, I brought the animal abuse happening at Ali Meats International to the attention of Florida’s Attorney General and the office of Florida’s Commissioner of Agriculture @WiltonSimpson. \n\nToday, Ali Meats International, a Halal Islamic slaughterhouse, was just raided https://t.co/nMoDBwBRZF",
+          "url": "https://x.com/LauraLoomer/status/2123864222694302037",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123862327691026443",
+          "created_at": "2026-11-20T19:33:33.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "POSOBIEC: TRUMP'S HISTORIC SUMMIT SIGNALS A “GREAT REALIGNMENT!”\n\nBack from China aboard Air Force One, @JackPosobiec shares his behind-the-scenes account of Trump's meeting with Xi and Putin, calling it a potential new path toward world peace.\n\n“There's another way forward with https://t.co/PzqNWZxz1t",
+          "url": "https://x.com/RealAmVoice/status/2123862327691026443",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123859779068276777",
+          "created_at": "2026-11-20T19:23:25.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Resurfaced video shows Zohran Mamdani being zip-tied by the NYPD's elite Strategic Response Group at a 2021 Brooklyn protest. Now he's the mayor, and he's disbanding that unit. Coincidence? https://t.co/qusW9kfKjX",
+          "url": "https://x.com/RealAmVoice/status/2123859779068276777",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123859560863592794",
+          "created_at": "2026-11-20T19:22:33.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "From transgender controversy to a ninth-place finish.\n\nSJSU volleyball went 9-20, missed the conference tournament AGAIN and remains mired in legal battles, coach allegations and its fight with the Trump administration.\n\nWhat a nasty mess.\nhttps://t.co/PbGztfu3pI",
+          "url": "https://x.com/Outkick/status/2123859560863592794",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123859466600763829",
+          "created_at": "2026-11-20T19:22:10.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "🚨 KNOXVILLE! 🚨\n\n@Hutton_Withrow is LIVE at Cool Beans TONIGHT from 7–8 PM ET to preview Tennessee vs. LSU!  \n\nThe first 100 fans get a FREE @SixPackCoverage hoodie and more!  \n\nCome hang out, talk college football, and get ready for a huge SEC showdown! 🍊🏈 https://t.co/eZJFhMkkmW",
+          "url": "https://x.com/SportNState/status/2123859466600763829",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123859414440689967",
+          "created_at": "2026-11-20T19:21:58.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "BREAKING:\n\nAli Meat International, the Orlando, Florida based Islamic Halal Slaughterhouse I reported on earlier this year, is currently being raided by @FDACS officers who have made multiple arrests on site. \n\nAccording to a statement released moments ago by Florida Attorney https://t.co/lmfvxwShdl https://t.co/PaKMxZAblM",
+          "url": "https://x.com/LauraLoomer/status/2123859414440689967",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123857762027471187",
           "created_at": "2026-11-20T19:15:24.000Z",
@@ -159,26 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123852608041324924",
-          "created_at": "2026-11-20T18:54:55.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP SAYS CHINA AND RUSSIA ARE OUT OF VENEZUELA:\n\nAsked by @davezere how his moves against Chinese influence strengthened his position with Xi, Trump says he pushed China out of Venezuela and the Panama Canal.\n\n“You have to leave. And they left.”\n\nTrump's reaction to the https://t.co/ThU9sglBpR",
-          "url": "https://x.com/RealAmVoice/status/2123852608041324924",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123852408149131469",
-          "created_at": "2026-11-20T18:54:08.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP REVEALS SURPRISE CALL FROM TEXAS GOVERNOR-ELECT!\n\nTrump says the incoming governor wants a strong border and believes they can work together.\n\nHe also takes a shot at Biden's border policies:\n\n“Remember when Biden said, I need legislation? I said, no, you just need a new https://t.co/SqzOaVyiUl",
-          "url": "https://x.com/RealAmVoice/status/2123852408149131469",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123851620467490859",
           "created_at": "2026-11-20T18:51:00.000Z",
           "author_name": "The Kobeissi Letter",
@@ -237,16 +297,6 @@
           "url": "https://x.com/elonmusk/status/2123847352582897719",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123847207417753910",
-          "created_at": "2026-11-20T18:33:28.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP: AMERICA'S AIR TRAFFIC CONTROL SYSTEM IS “ANCIENT!”\n\nTrump demands Congress fund a $50.1 BILLION overhaul of FAA technology, arguing modern systems could have prevented the deadly helicopter-plane collision.\n\n“Bells and whistles would have gone off three minutes before that https://t.co/yrFpMW3iG6",
-          "url": "https://x.com/RealAmVoice/status/2123847207417753910",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123846481488789866",
@@ -329,52 +379,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123838580594557141",
-          "created_at": "2026-11-20T17:59:11.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "How come the US State Department, @DHSgov and @FBIDirectorKash haven’t taken action against Muslim streamer @sneako, who lives in NYC and is now in Afghanistan meeting with Taliban leaders? He has been promoting Islamic terrorists on @kick, a streaming platform that was cofounded https://t.co/PZ8okYDELl",
-          "url": "https://x.com/LauraLoomer/status/2123838580594557141",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123837357950644369",
           "created_at": "2026-11-20T17:54:19.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "My mom watching me crack open a beer at 8:15 a.m. on Thanksgiving  https://t.co/mr6QIzXztW",
           "url": "https://x.com/Outkick/status/2123837357950644369",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123835323037958606",
-          "created_at": "2026-11-20T17:46:14.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Why is Ilhan Omar still walking the halls of Congress?",
-          "url": "https://x.com/LauraLoomer/status/2123835323037958606",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123834118299349003",
-          "created_at": "2026-11-20T17:41:27.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says he will impose a “tremendous tax” on any US company that attempts to build data centers outside of the US.\n\nTrump says he will not allow data center construction outside the US because “China will take all of them.”\n\nThe Nasdaq 100 extends losses to",
-          "url": "https://x.com/KobeissiLetter/status/2123834118299349003",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123832997732651511",
-          "created_at": "2026-11-20T17:37:00.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Is this the best play call ever?! https://t.co/EJ4DU9nnoG",
-          "url": "https://x.com/Outkick/status/2123832997732651511",
           "verified": true,
           "verified_type": "business"
         },
@@ -599,16 +609,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123786349975134400",
-          "created_at": "2026-11-20T14:31:38.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": ". @ClayTravis says Notre Dame may have to join a conference soon.\n\nBut what if college football's next realignment earthquake is about conferences breaking apart?\n\n@mattyfoles explains why big brand programs like Miami could be eyeing independence. \nhttps://t.co/tvPbWrliAG",
-          "url": "https://x.com/SportNState/status/2123786349975134400",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123778249238946036",
           "created_at": "2026-11-20T13:59:27.000Z",
           "author_name": "Tim Pool",
@@ -735,22 +735,22 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Too many House Republicans are missing work, Mike Johnson says",
+          "summary": "Dozens of House members didn't show up to vote this week. They're still getting paid.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/johnson-house-republican-absences/"
+        },
+        {
+          "headline": "Trump touts Asia trip, meeting with Putin and Xi at news conference",
+          "summary": "President Trump touted his trip to Asia this week and his meetings with China's Xi Jinping and Russia's Vladimir Putin at a press conference at the White House.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+        },
+        {
           "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
           "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
-        },
-        {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
-          "headline": "Marine Corps hero under federal investigation",
-          "summary": "Retired Sgt. Maj.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
         },
         {
           "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
@@ -771,28 +771,28 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Trump says he still has confidence in Lutnick",
-          "summary": "",
+          "headline": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+          "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
+          "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html"
         },
         {
-          "headline": "Trump says he discussed Jensen Huang with Xi, apparently contradicting Bessent",
-          "summary": "Trump said he discussed Jensen Huang with China's Xi, hours after Bessent said the ousted Nvidia CEO didn't come up in the talks.",
+          "headline": "A massive bearish trade just happened in the chip stocks",
+          "summary": "Options traders place big bets that semiconductor stocks have further to fall",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
-        },
-        {
-          "headline": "6 reasons stocks are falling, and what you should do about it",
-          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
+          "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html"
         },
         {
           "headline": "Stocks plunge as investors take cover amid growing uncertainty",
           "summary": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+        },
+        {
+          "headline": "Trump ousts top cybersecurity official; Anthropic's record debut",
+          "summary": "President Trump picked Kirsten Davies to serve as White House national cyber director after removing Sean Cairncross, sources say. Meanwhile, Anthropic's initial public offering turned some employees into millionaires and billionaires.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/trump-ousts-top-cybersecurity-official-anthropics-record-debut/"
         },
         {
           "headline": "UN climate talks in Turkey risk being ‘worst COP ever’ as fossil fuels go unmentioned",
@@ -807,22 +807,22 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "‘I would be afraid not to take Arch Manning’: Skip Bayless issues a warning to NFL teams about passing up Arch Manning",
+          "summary": "Oct 11, 2025; Dallas, Texas, USA; Texas Longhorns quarterback Arch Manning (16) looks on before the game against the Oklahoma Sooners at the Cotton Bowl. Mandatory Credit: Jerome Miron-Imagn Images Texas Longhorns quarterback Arch Manning has had an up-and-down season, and many NFL scouts have soured on him as a 2027 draft prospect.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/afraid-not-arch-manning-skip-194114752.html"
+        },
+        {
+          "headline": "The team is in safe hands, we want to delight Chivahermanos - Omar Govea",
+          "summary": "Finishing the Apertura 2026 regular season with a win alongside the Red-and-White Nation is the goal for Guadalajara as they prepare to face Cruz Azul at Estadio AKRON . There is plenty at stake on Matchday 17 of the top flight, as the Guadalajara side and the Cement Makers will decide who finishes top of the table.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/team-safe-hands-want-delight-194100209.html"
+        },
+        {
           "headline": "F1 bosses close to V8 engines deal from 2030",
           "summary": "Formula 1 bosses reach a deal that means V8 turbo hybrid engines will replace the current controversial units in 2030.",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Patriots QB Drake Maye reportedly suffered fractured right fibula, could return later this season",
-          "summary": "Following testing, New England Patriots quarterback Drake Maye reportedly suffered a fractured right fibula in Week 10, according to ESPN’s Adam Schefter and Mike Reiss . Maye will not require surgery and there is a small chance he could be back for the Patriots late in the regular season if they are contending for an AFC playoff spot.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/patriots-qb-drake-maye-reportedly-suffered-fractured-right-fibula-could-return-later-this-season-191106946.html"
-        },
-        {
-          "headline": "Wife of new Ravens player’s apologizes for calling Baltimore 'scary'",
-          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/wife-ravens-player-apologizes-calling-191038289.html"
         },
         {
           "headline": "Five European teams to watch as Mauricio Pochettino begins Manchester United era",
@@ -843,6 +843,18 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Teyana Taylor Sells Female-Driven Comedy to Warner Bros. (Exclusive)",
+          "summary": "The Oscar-nominated actress will co-write and produce the project, with an eye to direct.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/teyana-taylor-sells-comedy-warner-bros-1236759425/"
+        },
+        {
+          "headline": "‘The Mummy’: Top Artifact Props From 1999 Film Heading to Auction Ahead of Franchise Revival (Exclusive)",
+          "summary": "Also hitting the block from Propstore is the Batpod, with the vehicle from Christopher Nolan's Batman movies having received an opening bid of $598,000.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/the-mummy-artifact-auction-1999-brendan-fraser-propstore-1236760045/"
+        },
+        {
           "headline": "‘Home Alone’ Reboot in the Works at Disney from Macaulay Culkin, Seth Rogen and Evan Goldberg",
           "summary": "A “Home Alone” sequel is in early development at Disney, Variety has learned. Seth Rogen and Evan Goldberg are shaping the script with original star Macaulay Culkin and will produce through their Point Grey banner.",
           "source": "Variety",
@@ -853,18 +865,6 @@
           "summary": "Obscured Releasing has picked up North American distribution rights to “The Squirrel,” written and directed by Markus Lehmusruusu. The film reps Finland in the international feature Oscar race.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/obscured-releasing-squirrel-north-america-1236953813/"
-        },
-        {
-          "headline": "Yo, Academy! When ‘Rocky’ Was Crowned Best Picture Champ",
-          "summary": "Fifty years ago, Sylvester Stallone’s movie about an underdog boxer toppled films like ‘Taxi Driver’ and ‘All the President’s Men’ at the Oscars.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/rocky-best-picture-flashback-1236757348/"
-        },
-        {
-          "headline": "‘Best Pancakes in the County’ Review: Nicolas Cage Goes Gonzo, Again, in a Dismal Action-Comedy That Fails to Match His Energy",
-          "summary": "A remote diner is the setting for Ken Sanzel's movie featuring a stand-off between corrupt FBI agents and a gang of criminals.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/best-pancakes-in-the-county-review-nicolas-cage-1236759412/"
         },
         {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
@@ -879,16 +879,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘Novocaine’s Dan Berk & Robert Olsen To Helm Contained Action Thriller For Lionsgate",
-          "summary": "EXCLUSIVE: Dan Berk & Robert Olsen, the writer-directors of Paramount’s high-concept action comedy Novocaine, have sold an untitled pitch for a contained action thriller to Lionsgate, Deadline has learned. The duo are writing the script and will also direct.",
+          "headline": "Derval Whelan Exits Searchlight As Head Of U.S. Distribution, Had 17-Year Run With Label",
+          "summary": "EXCLUSIVE: Derval Whelan is set to retire at the end of the month from her role as US Head of Distribution for Searchlight Pictures. The exec’s overall run with the 20th Century Fox originated arthouse label counts 17 years.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/dan-berk-robert-olsen-sell-pitch-lionsgate-1237230188/"
+          "url": "https://deadline.com/2026/11/searchlight-pictures-derval-whelan-exits-1237230377/"
         },
         {
-          "headline": "Donald Trump Touts “Unbelievable” Bipartisan Support For Federal Film & TV Incentive, Says Theaters May Be Added: “It’s Going To Happen”",
-          "summary": "Donald Trump touted the bipartisan support for a a film & TV incentive and vowed that it was “going to happen” as he spoke to reporters on Friday, in an effort to show that bipartisan legislation is possible with Democrats about to take control of both chambers of Congress. At the press conference, Trump noted […]",
+          "headline": "Oregon-Based Laika Set To Give Thanks To Portland For Success Of ‘Wildwood’ By Offering Free Screenings At Theaters Citywide Over Thanksgiving Holiday Weekend",
+          "summary": "EXCLUSIVE: Portland-based Laika’s critically acclaimed animated feature, Wildwood, has grossed $50 million so far after its first month in release and still going strong. In an unprecedented move Laika is giving back to the Portland Oregon community where the film not only was made, but also is set.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/trump-federal-film-incentive-congress-1237230241/"
+          "url": "https://deadline.com/2026/11/oregon-based-laika-portland-wildwood-free-screenings-1237230371/"
         },
         {
           "headline": "Bowen Yang Apologizes for Calling Regina Spektor an Antisemitic Slur, Didn’t Know It Was ‘Popularized by Far-Right Movements’",
@@ -915,16 +915,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Donald Trump Touts “Unbelievable” Bipartisan Support For Federal Film & TV Incentive, Says Theaters May Be Added: “It’s Going To Happen”",
+          "summary": "Donald Trump touted the bipartisan support for a a film & TV incentive and vowed that it was “going to happen” as he spoke to reporters on Friday, in an effort to show that bipartisan legislation is possible with Democrats about to take control of both chambers of Congress. At the press conference, Trump noted […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/trump-federal-film-incentive-congress-1237230241/"
+        },
+        {
           "headline": "Candle Media’s Kevin Mayer Says Company Caught Out By Drop In Streamer Demand: “We Didn’t See That Contraction Coming”",
           "summary": "Candle Media cofounder Kevin Mayer told an industry conference in Doha on Friday that he had not foreseen the impending contraction in demand for streaming content in 2023, ahead of the company’s launch in 2021. He was speaking six weeks after Candle Media hit the trade headlines for its sale of Reece Witherspoon’s Hello Sunshine […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/candle-medias-kevin-mayer-drop-streamer-demand-contraction-1237230294/"
-        },
-        {
-          "headline": "‘Home Alone’ Sequel With Macaulay Culkin In Early Works With Seth Rogen & Evan Goldberg Writing & Producing",
-          "summary": "Ever since Macaulay Culkin pitched his idea for a Home Alone sequel to Disney Motion Pictures Boss David Greenbaum, that being from an older dad’s POV, there’s been some heat on a continuation of the Christmas comedy franchise which has been a gold mine for 20th Century Studios since its inception 36 years ago. Culkin, […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/home-alone-macaulay-culkin-seth-rogen-evan-goldberg-1237230258/"
         },
         {
           "headline": "Actor Awards 2027 Preview: Breaking Down the Top Film and TV Contenders",
@@ -951,16 +951,16 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "JISOO Brightens the Day With Bubbly ‘Sun Showers’ Single From ‘The Angry Birds Movie 3’ Soundtrack: Stream It Now",
-          "summary": "JISOO returned on Friday (Nov. 20) to unleash her bubbly new single, “Sun Showers,” which is set to land on the soundtrack for The Angry Birds Movie 3 .",
+          "headline": "Josh Groban Releases Deluxe Edition of His 2026 Album ‘Cinematic’",
+          "summary": "UPDATE (Nov. 20): Josh Groban has added two bonus tracks to his album Cinematic , a collection of film songs.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/blackpink-jisoo-sun-showers-angry-birds-movie-3-1236386578/"
+          "url": "https://www.billboard.com/music/music-news/josh-groban-new-album-cinematic-classic-film-songs-1236198762/"
         },
         {
-          "headline": "Billboard’s Music Industry Events Calendar",
-          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
+          "headline": "Zach John King Crowns the Country Airplay Chart for the First Time",
+          "summary": "Zach John King earns his first No. 1 on Billboard ’s Country Airplay chart with his first entry as “Get to Drinkin’” rises a spot to take the lead on the list dated Nov.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
+          "url": "https://www.billboard.com/music/chart-beat/zach-john-king-get-to-drinkin-number-1-country-airplay-chart-1236386741/"
         },
         {
           "headline": "Listen to Two New Grimes Songs",
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T14:19:09-05:00"
+  "updatedAt": "2026-11-20T14:49:43-05:00"
 }
