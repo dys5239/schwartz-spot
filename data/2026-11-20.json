@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "LIVE: President Trump to hold news conference following Asia trip",
-          "summary": "24/7 coverage of breaking news and live events",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/41463246/"
-        },
-        {
-          "headline": "White House national cyber director leaving his post",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "headline": "Marine Corps hero under federal investigation",
+          "summary": "Retired Sgt. Maj.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
         },
         {
-          "headline": "High-yield savings accounts: Best rates and top picks of November 2026",
-          "summary": "Today's high-yield savings accounts offer hefty returns on your deposits. Here's where your money belongs now.",
+          "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
+          "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/best-high-yield-savings-account/"
+          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
         },
         {
-          "headline": "Trump to hold news conference Friday on his Asia trip",
-          "summary": "Trump is expected to hold news conference on Friday on his trip to Asia and his meeting in China with presidents Xi Jinping of China and Vladimir Putin of Russia.",
+          "headline": "US man found guilty of British woman's murder",
+          "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump holds news conference Friday on his Asia trip",
+          "summary": "Trump is holding a news conference on Friday on his trip to Asia and his meeting in China with presidents Xi Jinping of China and Vladimir Putin of Russia.",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456"
-        },
-        {
-          "headline": "Mum's fatal BBL an accident - but risk of more deaths",
-          "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm0jxgvep0j7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123832997732651511",
+          "created_at": "2026-11-20T17:37:00.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Is this the best play call ever?! https://t.co/EJ4DU9nnoG",
+          "url": "https://x.com/Outkick/status/2123832997732651511",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123832621960474699",
+          "created_at": "2026-11-20T17:35:30.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP BLASTS THE FED: “WE HAVE A VERY POLITICAL FED”\n\nPresident Trump says the Federal Reserve is keeping interest rates too high despite strong economic numbers, arguing lower rates could unleash massive growth.\n\n“We'd have a GDP of 15 or 20%, not 4%. I would pay off the debt https://t.co/7tmHRHBJv1",
+          "url": "https://x.com/RealAmVoice/status/2123832621960474699",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123832446747643951",
+          "created_at": "2026-11-20T17:34:48.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP TOUTS PLUNGING OIL PRICES, SAYS GAS PRICES WILL DROP EVEN FURTHER!\n\nPresident Trump says crude oil has fallen 20%, gas prices are down 60 cents in a month, and manufacturing has grown for 10 straight months.\n\n“Soon you will have very, very low prices.” https://t.co/mFvxHfeIi9",
+          "url": "https://x.com/RealAmVoice/status/2123832446747643951",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123830435746889890",
+          "created_at": "2026-11-20T17:26:49.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CNN’s @kaitlancollins calls the White House Press Room “our briefing room” https://t.co/pB9N9W1Lnq",
+          "url": "https://x.com/RealAmVoice/status/2123830435746889890",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123828746839040112",
+          "created_at": "2026-11-20T17:20:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Barclays' Themos Fiotakis says $3.2 trillion of AI capex is almost as much as all of Biden's fiscal plans, and it will hit interest rates\n\n\"You're adding $3.2 trillion of AI capex over a course of four years. That, to put it in context, is 2.2 Netherlands\"\n\n\"This is almost as https://t.co/epZxYC8b6m",
+          "url": "https://x.com/_Investinq/status/2123828746839040112",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123828297469723006",
+          "created_at": "2026-11-20T17:18:19.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Anthropic, $ANT, extends losses to -27% from its post-IPO high.\n\nThe stock is now less than 2% away from falling below its IPO price of $83/share. https://t.co/mTToB2fXOj",
+          "url": "https://x.com/KobeissiLetter/status/2123828297469723006",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123827993382687217",
+          "created_at": "2026-11-20T17:17:07.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Made with Grok @Bot\nhttps://t.co/b1rXfw9h4K",
+          "url": "https://x.com/elonmusk/status/2123827993382687217",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123827346482299253",
           "created_at": "2026-11-20T17:14:32.000Z",
@@ -229,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123816542207184989",
-          "created_at": "2026-11-20T16:31:36.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "CHINESE OFFICIALS BAN U.S. REPORTER AFTER QUESTION ABOUT NVIDIA CEO\n\n@JackPosobiec says he witnessed Chinese security physically block a Bloomberg reporter after she asked Trump whether Jensen Huang had betrayed America.\n\n“This came from the top.”\n\nPosobiec says she was then https://t.co/h6XF4ffCC4",
-          "url": "https://x.com/RealAmVoice/status/2123816542207184989",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123816520002482305",
           "created_at": "2026-11-20T16:31:31.000Z",
           "author_name": "Elon Musk",
@@ -289,16 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123812557836173493",
-          "created_at": "2026-11-20T16:15:46.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MIKE DAVIS WARNS DEMOCRATS THEIR REVENGE INVESTIGATIONS COULD BACKFIRE\n\n@mrddmia says Democrats threatening to target Trump officials may be exposing themselves to federal civil rights violations. https://t.co/q8fGRGwBk2",
-          "url": "https://x.com/RealAmVoice/status/2123812557836173493",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123811822537155021",
           "created_at": "2026-11-20T16:12:51.000Z",
           "author_name": "Laura Loomer",
@@ -345,16 +395,6 @@
           "author_handle": "SpaceX",
           "text": "Members of the Starship production team with Starship 42 before its launch https://t.co/1yPiV8h5Zu",
           "url": "https://x.com/SpaceX/status/2123809508187078839",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123808782367261115",
-          "created_at": "2026-11-20T16:00:46.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Even CNN can't spin this bad news for Jeffries and Schumer.\n\nhttps://t.co/4VNP4QPrqb",
-          "url": "https://x.com/RealAmVoice/status/2123808782367261115",
           "verified": true,
           "verified_type": "business"
         },
@@ -417,16 +457,6 @@
           "url": "https://x.com/ClayTravis/status/2123801694601355558",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123801499725869438",
-          "created_at": "2026-11-20T15:31:50.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Bitcoin falls to $60,000 and ETH falls below $1,700, both hitting their lowest level since July 2nd.\n\nCrypto markets have now erased -$900 billion over the last 45 days. https://t.co/42OLRktSpb",
-          "url": "https://x.com/KobeissiLetter/status/2123801499725869438",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123801256678310379",
@@ -495,16 +525,6 @@
           "author_handle": "SportNState",
           "text": ". @ClayTravis says Notre Dame may have to join a conference soon.\n\nBut what if college football's next realignment earthquake is about conferences breaking apart?\n\n@mattyfoles explains why big brand programs like Miami could be eyeing independence. \nhttps://t.co/tvPbWrliAG",
           "url": "https://x.com/SportNState/status/2123786349975134400",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123779679421395124",
-          "created_at": "2026-11-20T14:05:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "ARK Invest's Cathie Wood says Anthropic is ARK's best performing equity by far, and in the dot-com bubble it would have tripled on day one\n\n\"We've owned Anthropic since early '23. It's our best performing equity by far in ARKVX, our venture fund\"\n\n\"We post our trades every day, https://t.co/JrAFcptAjg",
-          "url": "https://x.com/_Investinq/status/2123779679421395124",
           "verified": true,
           "verified_type": "blue"
         },
@@ -589,32 +609,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123726569206415815",
-          "created_at": "2026-11-20T10:34:05.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Tesla’s AI, running on our little AI4 computer, can now reach Torment II in Diablo",
-          "url": "https://x.com/elonmusk/status/2123726569206415815",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123631284777795618",
           "created_at": "2026-11-20T04:15:28.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Safety and Daniel Jones go together perfectly  https://t.co/LNolEOzMBu",
           "url": "https://x.com/Outkick/status/2123631284777795618",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123631201282044203",
-          "created_at": "2026-11-20T04:15:08.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "C.J. Stroud cooked the Colts 🔥 https://t.co/2W8uqtUymJ",
-          "url": "https://x.com/Outkick/status/2123631201282044203",
           "verified": true,
           "verified_type": "business"
         },
@@ -735,10 +735,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
-          "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
+          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
+          "headline": "White House national cyber director leaving his post",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
         },
         {
           "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
@@ -747,13 +753,7 @@
           "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
         },
         {
-          "headline": "Man who plotted to kill Sikh dissident in NYC is sentenced",
-          "summary": "Nikhil Gupta, who pleaded guilty earlier this year to conspiracy to commit murder-for-hire and other charges, was allegedly recruited in 2023 to assassinate Gurpatwant Singh Pannun.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/plot-assassinate-sikh-dissident-nyc-prison-sentence/"
-        },
-        {
-          "headline": "Trump to hold press conference after meeting with Xi and Putin",
+          "headline": "Trump holds press conference after meeting with Xi and Putin",
           "summary": "'/> Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips. (Image credit: Vyacheslav Prokofyev)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
@@ -777,10 +777,10 @@
           "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
         },
         {
-          "headline": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-          "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
+          "headline": "Here's why we want to buy the sharp decline in this chip stock",
+          "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/20/heres-why-we-want-to-buy-the-sharp-decline-in-this-chip-stock.html"
         },
         {
           "headline": "6 reasons stocks are falling, and what you should do about it",
@@ -807,34 +807,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Fantasy Football: Jaylen Waddle finally shows up, Bears' backfield goes off and more bold predictions for Week 11",
-          "summary": "There aren’t many weeks left in the fantasy football regular season; you can’t hold anything back. That means you need to be bold to come out on top.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-jaylen-waddle-finally-shows-up-bears-backfield-goes-off-and-more-bold-predictions-for-week-11-171149139.html"
+          "headline": "Clemson vs. Duke prediction, odds, time: Week 12 college football Friday picks from proven model",
+          "summary": "SportsLine's model revealed its best bets for Friday' ACC contest between the Clemson Tigers and Duke Blue Devils",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/clemson-duke-prediction-odds-time-2026-week-12-college-football-friday-picks-bets/"
         },
         {
-          "headline": "Brandon Royval sees two ways Joshua Van vs. Manel Kape plays out at UFC 336",
-          "summary": "Brandon Royval recently fought both Joshua Van and Manel Kape. Van (18-2 MMA, 11-1 UFC) defends his flyweight title against Kape (23-7 MMA, 8-3 UFC) in the UFC 336 main event on Jan.",
+          "headline": "Puka Nacua had surgery on MCL injury, will miss 'a couple of months,' Sean McVay says",
+          "summary": "Nacua suffered the injury on the final play of the Rams' Week 9 win over the Commanders",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-injury-surgery-sean-mcvay/"
+        },
+        {
+          "headline": "Rams hope to have Kobie Turner back for Week 12",
+          "summary": "Rams head coach Sean McVay shared a negative update on wide receiver Puka Nacua's health on Friday, but he had better news regarding defensive tackle Kobie Turner. McVay said that the team is planning to activate defensive tackle Kobie Turner from injured reserve ahead of next Wednesday's game against the Packers.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/brandon-royval-sees-two-ways-171016254.html"
+          "url": "https://sports.yahoo.com/articles/rams-hope-kobie-turner-back-173328375.html"
+        },
+        {
+          "headline": "Aiden Markram to captain South Africa in second Test against Bangladesh as Temba Bavuma ruled out",
+          "summary": "South Africa will have a change in leadership for the second and final Test against Bangladesh, with Aiden Markram set to captain the side in place of injured Temba Bavuma. Cricket South Africa (CSA) confirmed on Thursday that Bavuma has been ruled out of the series finale due to a right calf strain sustained during the opening Test at the Wanderers…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/aiden-markram-captain-south-africa-173200814.html"
         },
         {
           "headline": "NWSL Championship to bring fans \"the best soccer in the world\"",
           "summary": "The next frontier in growing women's soccer in the U.S. is where the players train and play their games.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/2026-nwsl-championship-washington-spirit-kc-current-womens-soccer/"
-        },
-        {
-          "headline": "Matos accepts Swansea fans' anger over shock exit",
-          "summary": "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Man Utd fan criticism has gone too far at times - Berrada",
-          "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -842,6 +842,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "‘Outer Banks’ Alum Madelyn Cline in Final Talks to Join New ‘Serendipity’ Movie (EXCLUSIVE)",
+          "summary": "Madelyn Cline is in final talks to join the new “Serendipity” film in the works at for Amazon MGM Studios and Miramax, Variety has learned exclusively from sources. The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/serendipity-reboot-cast-madelyn-cline-1236952550/"
+        },
         {
           "headline": "Golden Globes Category Chaos: When ‘The Drama’ Is a Comedy…",
           "summary": "Ahead of the deliberations of the Globes’ eligibility committee, The Hollywood Reporter dissects a host of eyebrow-raising category submissions — ‘Club Kid’ as a drama, ‘Obsession’ as a comedy, and more.",
@@ -861,12 +867,6 @@
           "url": "https://variety.com/2026/film/columns/jennifer-lopez-186-carat-diamond-necklace-jlo-show-premiere-dolce-gabbana-1236953996/"
         },
         {
-          "headline": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
-          "summary": "Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I’m a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/"
-        },
-        {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
           "summary": "The Hunger Games: Sunrise on the Reaping. '/> This prequel tells the origin story of Haymitch Abernathy.",
           "source": "NPR",
@@ -879,28 +879,28 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller ‘Cupid’",
-          "summary": "EXCLUSIVE: The Project Hail Mary star and AT&T spokeswoman, Milana Vayntrub, is boarding Tate Taylor’s marriage counselor thriller which we first told you about, Cupid. Vayntrub will star opposite previously announced Daisy Ridley, Catherine Zeta-Jones, Judy Greer, Travis Fimmel and Darren Criss.",
+          "headline": "UTA Hires Sam Yabrow As Talent Agent",
+          "summary": "EXCLUSIVE: UTA has hired Sam Yabrow as a talent agent based in its Los Angeles office. Yabrow joins from Buchwald, bringing nearly a decade of entertainment industry experience spanning casting and talent representation.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/milana-vayntrub-cupid-1237230124/"
+          "url": "https://deadline.com/2026/11/uta-hires-sam-yabrow-talent-agent-1237229460/"
         },
         {
-          "headline": "Tracy Oliver & Issa Rae Drama ‘Open’ Lands At HBO",
-          "summary": "EXCLUSIVE: In a competitive situation, HBO has landed Tracy Oliver and Issa Rae’s provocative drama Open for development. The deal, which is said to include penalty, caps a lengthy sales process that started in August when the open marriage drama was taken out by Paramount Television Studios, quickly garnering seven offers.",
+          "headline": "Louis Garrel And Harry Lawtey Join Jeremy Allen White In Ben Stiller-Directed ‘Airman’ From Laika Live-Action And A24",
+          "summary": "EXCLUSIVE: Louis Garrel and Harry Lawtey are set to join Jeremy Allen White in the Laika Live Action and A24 World War II survival thriller Airman directed by Ben Stiller. Based on the New York Times bestseller The Lost Airman: A True Story of Escape from Nazi-Occupied France by Seth Meyerowitz, the film recounts the […]",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/tracy-oliver-issa-rae-drama-open-hbo-open-marriage-1237229921/"
+          "url": "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602/"
         },
         {
-          "headline": "Rich Eisen’s ‘Beautiful Day’: Landing All Four Members of U2 as Guests",
-          "summary": "Rich Eisen came out on to the set of his long-running talk show the other day, only to find Bono from U2 doing an impression of the running-man logo that has long been a part of the program’s identifying marks. When Eisen went to take part, he discovered the person taking pictures of the encounter […]",
+          "headline": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
+          "summary": "Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I’m a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/rich-eisen-u2-beautiful-day-1236954135/"
+          "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/"
         },
         {
-          "headline": "‘MobLand’ Season 3 Starts Shooting With Tom Hardy, Helen Mirren and Pierce Brosnan",
-          "summary": "Tom Hardy is officially back on set for “MobLand” Season 3, with cameras rolling this week. The actor, who plays fixer Harry da Souza in the Paramount+ crime drama, was rumored to have been booted from the show earlier this year after “creative differences” with producer David Glasser and writer Jez Butterworth amid claims he […]",
+          "headline": "Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee’s Style Is Her ‘Form of Defiance Against the Capitol’",
+          "summary": "Mckenna Grace has been on a red carpet run for the ages during the global press tour for “The Hunger Games: Sunrise on the Reaping.” Over the last few weeks, the 20-year-old actress (and certified “Hunger Games” fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/mobland-season-3-tom-hardy-helen-mirren-1236954158/"
+          "url": "https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -915,22 +915,22 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller ‘Cupid’",
+          "summary": "EXCLUSIVE: The Project Hail Mary star and AT&T spokeswoman, Milana Vayntrub, is boarding Tate Taylor’s marriage counselor thriller which we first told you about, Cupid. Vayntrub will star opposite previously announced Daisy Ridley, Catherine Zeta-Jones, Judy Greer, Travis Fimmel and Darren Criss.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/milana-vayntrub-cupid-1237230124/"
+        },
+        {
+          "headline": "Tracy Oliver & Issa Rae Drama ‘Open’ Lands At HBO",
+          "summary": "EXCLUSIVE: In a competitive situation, HBO has landed Tracy Oliver and Issa Rae’s provocative drama Open for development. The deal, which is said to include penalty, caps a lengthy sales process that started in August when the open marriage drama was taken out by Paramount Television Studios, quickly garnering seven offers.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/tracy-oliver-issa-rae-drama-open-hbo-open-marriage-1237229921/"
+        },
+        {
           "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
           "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
-        },
-        {
-          "headline": "Lili Reinhart Circling Amazon MGM Studios & Mattel’s ‘Polly Pocket’ Post Lily Collins Exit",
-          "summary": "Lili Reinhart is in talks to star in and executive produce Amazon MGM Studios and Mattel Studios’ Polly Pocket, we understand. The news follows Emily in Paris star Lily Collins departure from the project a while ago due to a scheduling conflict.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
-        },
-        {
-          "headline": "All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried",
-          "summary": "Netflix’s animated Cinderella retelling Steps focuses on the perspective of the princesses supposedly “wicked” and “evil” stepsisters, Lilith (voiced by Ali Wong) and Margot (Stephanie Hsu). Amanda Seyfried voices Cinderella in the film, and she gets the chance to show off her vocals and sing some songs alongside needle drops from Olivia Rodrigo, Benson…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/steps-songs-soundtrack-netflix-cinderella-movie-animated-1237229486/"
         },
         {
           "headline": "Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq",
@@ -951,37 +951,37 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Brandy Believes a ‘Moesha’ Reboot ‘Can Really Be Something in Today’s Time’",
+          "summary": "Brandy may have just delivered the theme song for Netflix’s A Different World reboot, but she might return to the studio to cut a new version of her Moesha theme song for a possible reboot! Related Usher & Chris Brown Cancel 2 More R&B Tour Shows Brandy & Monica, Kes the Band & Tems Dazzle at Saint Lucia Jazz & Arts Festival 2026: 5 Best Moments Brandy &…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/brandy-moesha-reboot-usher-reuniting-1236386509/"
+        },
+        {
+          "headline": "Unreleased D’Angelo Song ‘Kamakazi’ Emerges in ‘GTA VI’",
+          "summary": "Late singer previously contributed \"Unshaken\" to Rockstar Games' Red Dead Redemption 2",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/"
+        },
+        {
+          "headline": "Harvey Mason, Rufus Reid & More Are Named 2027 NEA Jazz Masters: Full List",
+          "summary": "Harvey Mason has watched his son Harvey Mason Jr. become CEO of the Recording Academy and one of the most visible people in the music field.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2027-nea-jazz-masters-list-recipients-1236386436/"
+        },
+        {
           "headline": "How two musicians found inspiration among the trees",
           "summary": "Sage Bava grew up on a nature preserve in New York. Julieta Eugenio found inspiration on daily walks through Brooklyn's Prospect Park.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6044283/jazz-night-sage-bava-julieta-eugenio-nature"
         },
         {
-          "headline": "‘Glee’ Cocreator: ‘Sadness’ Over Cory Monteith & Naya Rivera’s Deaths Will ‘Be a Part of’ Show Reboot",
-          "summary": "Gleeks may have been delighted when Glee ‘s official social media channels announced on Oct. 21 that the musical dramedy would be returning for a reboot.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/tv-film/glee-cory-monteith-naya-rivera-deaths-sadness-in-reboot-1236386442/"
-        },
-        {
-          "headline": "Selena Gomez Recalls How Martin Short Accidentally Cut Her Wedding Cake Early: ‘He Looked Like a Little Dog’",
-          "summary": "Selena Gomez , Martin Short and Steve Martin are the trio that keeps on giving! Related Tickets for the Highly Anticipated KPop Demon Hunters Golden World Tour Are Finally On Sale: Get Yours Here A Full List of Current 2026 K-Pop Concerts (Updating) Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/tv-film/selena-gomez-martin-short-cut-her-wedding-cake-early-1236386422/"
-        },
-        {
           "headline": "How Orchestra Noir turned classical music into a cultural movement",
           "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be. (Image credit: Andre Calder)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music"
-        },
-        {
-          "headline": "Tom Waits’ Rare ‘Orphans: Bonus’ EP, Previously Vinyl-Only, Now Streaming",
-          "summary": "Six songs include covers, a collaboration, and originals",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/tom-waits-orphans-bonus-streaming-services-1235661577/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-20T12:16:20-05:00"
+  "updatedAt": "2026-11-20T12:41:13-05:00"
 }
