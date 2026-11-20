@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Behind the scenes look of Huntington Beach's new e-bike safety program",
-          "summary": "Sgt. Brad Smith, of the Huntington Beach Police Department, said the main concern is safety.",
+          "headline": "DOJ moves to dismiss lawsuit over Alaska Senate race",
+          "summary": "The Trump administration is moving to effectively drop its legal challenge to Democrat Mary Peltola's win in Alaska's Senate race.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/huntington-beach-ebike-safety-program-injuries-deaths/"
+          "url": "https://www.cbsnews.com/news/trump-administration-dismiss-alaska-senate-lawsuit/"
         },
         {
-          "headline": "Senate passes bipartisan permitting bill designed to boost energy projects",
-          "summary": "The Senate approved a long-sought bipartisan permitting reform bill on Thursday, following a major breakthrough on legislation that aims to cut costs by ramping up the speed of infrastructure and energy projects.",
+          "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
+          "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/"
+          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+        },
+        {
+          "headline": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+          "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
           "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Does our ethnicity change how we experience dying?",
-          "summary": "Death is the one certainty we all share - but could our ethnicity change how we go through it?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Army postpones plan to detonate nearly 10,000 pounds of lead azide until Monday",
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123628399998521610",
+          "created_at": "2026-11-20T04:04:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "It's clear now more than ever:\n\nUltimately, this bear market in tech stocks will be remembered as the best buying opportunity of the last decade.\n\nUnless your view is that the AI is worthless and the AI Revolution is over, many key parts of this market are extremely cheap.",
+          "url": "https://x.com/KobeissiLetter/status/2123628399998521610",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123627446016885082",
+          "created_at": "2026-11-20T04:00:12.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Dan Ives says tech is in a dark period but we're less than 15% through the AI buildout\n\n\"We're going through a dark period for tech\"\n\n\"It's a panic moment, but it's not stopping\"\n\n\"I think we're going to look back on this period, just like April 2025, Liberation Day, and March https://t.co/flVDJ1DSBR",
+          "url": "https://x.com/_Investinq/status/2123627446016885082",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123621132087775238",
           "created_at": "2026-11-20T03:35:07.000Z",
@@ -275,16 +295,6 @@
           "author_handle": "Osint613",
           "text": "President Trump is back home  https://t.co/U2asSyE5KE",
           "url": "https://x.com/Osint613/status/2123596673926496425",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123595971838029834",
-          "created_at": "2026-11-20T01:55:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "AEI's Derek Scissors says Nvidia chips should not go to China, and Trump's summit with Xi isn't doing anything that matters\n\n\"Nothing ever happens at these meetings\"\n\n\"NVIDIA chips, AMD chips, those chips should not go to China\"\n\n\"I think there's a hit to NVIDIA revenue coming\" https://t.co/p5ZDQVRid9",
-          "url": "https://x.com/_Investinq/status/2123595971838029834",
           "verified": true,
           "verified_type": "blue"
         },
@@ -515,16 +525,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: California is launching an investigation into whether Nvidia, $NVDA, “misled investors” amid the Jensen Huang situation.\n\n“We’re specifically investigating whether Nvidia’s advanced chips or their confidential information may have gone to China and whether Nvidia misled",
           "url": "https://x.com/KobeissiLetter/status/2123550451786518781",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123543087527993743",
-          "created_at": "2026-11-19T22:25:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Apple, $AAPL, is developing its own autonomous AI agent as it aims to rival Anthropic, OpenAI, and Meta, per Bloomberg.\n\nThe system will write code, browse the web, control apps, and navigate devices on a user’s behalf.\n\nShares of Meta, $META, and Anthropic, $ANT, are",
-          "url": "https://x.com/KobeissiLetter/status/2123543087527993743",
           "verified": true,
           "verified_type": "business"
         },
@@ -775,16 +775,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Senate passes bipartisan permitting bill designed to boost energy projects",
+          "summary": "The Senate approved a long-sought bipartisan permitting reform bill on Thursday, following a major breakthrough on legislation that aims to cut costs by ramping up the speed of infrastructure and energy projects.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/"
+        },
+        {
           "headline": "White House national cyber director leaving his post",
           "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
-        },
-        {
-          "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
-          "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
         },
         {
           "headline": "Judge says agriculture secretary's religious emails were unconstitutional",
@@ -811,16 +811,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
-          "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
-        },
-        {
-          "headline": "Senate backs bill to speed up permitting reviews, force data centers to pay for energy costs",
+          "headline": "Senate approves bill to speed up permitting reviews, force data centers to pay for energy costs",
           "summary": "The Senate has approved bipartisan legislation aimed at speeding up permitting reviews to build power plants, transmission lines and other energy infrastructure as lawmakers seek to increase the nation’s energy supplies to meet surging demand and lower...",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/senate-backs-bill-speed-permitting-reviews-force-data-138308461"
+        },
+        {
+          "headline": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+          "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
         },
         {
           "headline": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
@@ -829,10 +829,10 @@
           "url": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523"
         },
         {
-          "headline": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-          "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+          "headline": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+          "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
         },
         {
           "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
@@ -847,16 +847,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Vokietaitis and Punch lead No. 6 Texas to a 92-68 win over Southern Utah",
-          "summary": "AUSTIN, Texas (AP) — Matas Vokietaitis scored 26 points, David Punch added 22 and No. 6 Texas pulled away from Southern Utah for a 92-68 victory Thursday night after struggling for much of the first half.",
+          "headline": "For Brown, fights and wins have been hard to come by",
+          "summary": "Saturday What: FightWorld 47 Where: Revel ABQ When: 7 p.m. Who: Amber Brown vs.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/vokietaitis-punch-lead-no-6-033428168.html"
+          "url": "https://sports.yahoo.com/articles/brown-fights-wins-hard-come-040800979.html"
         },
         {
-          "headline": "Bidunga and Wooley lead No. 23 Louisville to an 83-69 victory over Stetson",
-          "summary": "LOUISVILLE, Ky. (AP) — Flory Bidunga scored 17 of his career high-tying 25 points in the first half and No.",
+          "headline": "Who's starting for the Lobos against Wyoming?",
+          "summary": "New Mexico at Wyoming Who: New Mexico (8-2, 5-1) vs. Wyoming (7-3, 6-1).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bidunga-wooley-lead-no-23-033233585.html"
+          "url": "https://sports.yahoo.com/articles/whos-starting-lobos-against-wyoming-040700747.html"
         },
         {
           "headline": "If RJ Luis Jr.'s career at LSU is over, he will be remembered for one of biggest bag fumbles of the NIL era",
@@ -919,6 +919,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Jennifer Love Hewitt “Had Not Seen” Ryan Phillippe Since ‘IKWYDLS’ When Reuniting For ‘9-1-1’ Crossover: “He Hadn’t Changed At All”",
+          "summary": "Nearly 30 summers later, Jennifer Love Hewitt recently had an onscreen reunion with Ryan Phillippe, courtesy of an upcoming 9-1-1 crossover. The actress, who plays 9-1-1 dispatcher Maddie Kendall in the ABC flagship series, noted that before reuniting in the crossover with 9-1-1: Nashville, she and Phillippe had “not seen each other” since starring…",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jennifer-love-hewitt-ryan-phillippe-ikwydls-reunion-9-1-1-1237229879/"
+        },
+        {
           "headline": "‘Much Ado About Nothing’ Broadway Review: Tom Hiddleston, Hayley Atwell & Jamie Lloyd Throw An Irresistible Party Of Shakespeare’s Great Comedy",
           "summary": "Outside of ticker tape parades and New Year’s Eve in Times Square, you might be hard-pressed to think of a better, more joyous use of floating paper than the confetti that piles up nightly on the stage of Broadway’s Winter Garden Theatre these days. We’re talking blizzards of the pink stuff, so deep that the […]",
           "source": "Deadline",
@@ -929,12 +935,6 @@
           "summary": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845/"
-        },
-        {
-          "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
-          "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/"
         },
         {
           "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
@@ -955,16 +955,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "‘Can’t Hardly Wait’ Stars Campaign For Sequel To 1998 Teen Movie: “Would Be So Fun”",
+          "summary": "After nearly 30 years, the cast of Can’t Hardly Wait is ready for a Huntington Hillside High reunion. Having reprised their roles from the cult classic 1998 teen film for Halloween, Peter Facinelli and Joel Michaely noted that fans “have been clamoring” for them to make a sequel for years, suggesting they make their interest […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/cant-hardly-wait-stars-campaign-sequel-1237229853/"
+        },
+        {
           "headline": "Jorrybell Agoto Dies: ‘Filipiñana’ Breakout Actress Was 32",
           "summary": "Jorrybell Agoto, the star of Rafael Manuel’s award-winning debut feature Filipiñana, died November 17 following a battle with lymphoma, her family said. She was 32.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jorrybell-agoto-dead-filipinana-star-1237229689/"
-        },
-        {
-          "headline": "Patrick Stewart Cause Of Death Revealed",
-          "summary": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Men film franchise and much more died October 28 from Alzheimer’s disease and Lewy body dementia, according to his death certificate obtained by TMZ.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/"
         },
         {
           "headline": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-19T22:43:11-05:00"
+  "updatedAt": "2026-11-19T23:15:50-05:00"
 }
