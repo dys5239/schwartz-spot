@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Trump says he plans to penalize companies that build data centers in other countries",
+          "summary": "President Donald Trump says U.S. tech companies will face “a tremendous tax” if they build artificial intelligence data centers in other countries",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831"
+        },
+        {
           "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
           "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
           "source": "The Verge",
@@ -16,12 +22,6 @@
           "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
-        },
-        {
-          "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
-          "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
         },
         {
           "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Marine Corps hero under federal investigation",
-          "summary": "Retired Sgt. Maj.",
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
         },
         {
-          "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
-          "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
+          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "US man found guilty of British woman's murder",
+          "headline": "Iran live updates: Trump says Iran doesn't want to make a deal 'acceptable' to him",
+          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
+        },
+        {
+          "headline": "A men's netball World Cup - not a question of if, but when?",
+          "summary": "England and Jamaica's men's netball teams will act as curtain-raisers for the women's sides in this weekend's Horizon Series in London - and as the sport grows, an inaugural men's World Cup is on the cards.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/netball/articles/c60evgr13deyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Man guilty of murdering woman he groomed on fetish site",
           "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Trump holds news conference Friday on his Asia trip",
-          "summary": "Trump is holding a news conference on Friday on his trip to Asia and his meeting in China with presidents Xi Jinping of China and Vladimir Putin of Russia.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123840594061733962",
+          "created_at": "2026-11-20T18:07:11.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Bomb Iran https://t.co/TDt7RpHZfI",
+          "url": "https://x.com/LauraLoomer/status/2123840594061733962",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123840064983609435",
+          "created_at": "2026-11-20T18:05:05.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "President Trump says preventing Iran from obtaining nuclear weapons was a major focus of diplomatic talks.\n\n“We’re not going to let them have a nuclear weapon.”\n\nAnd he made one thing clear: “I’m not George Bush.” https://t.co/4NIbTRKWEU",
+          "url": "https://x.com/RealAmVoice/status/2123840064983609435",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123838580594557141",
+          "created_at": "2026-11-20T17:59:11.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "How come the US State Department, @DHSgov and @FBIDirectorKash haven’t taken action against Muslim streamer @sneako, who lives in NYC and is now in Afghanistan meeting with Taliban leaders? He has been promoting Islamic terrorists on @kick, a streaming platform that was cofounded https://t.co/PZ8okYDELl",
+          "url": "https://x.com/LauraLoomer/status/2123838580594557141",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123838145011871803",
+          "created_at": "2026-11-20T17:57:27.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS says Putin told him they never would have went into Ukraine if Trump was President after the 2020 election. https://t.co/yPpkNPKFum",
+          "url": "https://x.com/RealAmVoice/status/2123838145011871803",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123837636297060645",
+          "created_at": "2026-11-20T17:55:26.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP: “THEY WERE GOING TO GO TO EUROPE… NOW THEY’RE BUYING FROM US!”\n\nTrump touts $17 BILLION in commercial deals, including a Boeing order he says will support thousands of American jobs.\n\nHe also says he pushed the Philippines to buy its agricultural products from American https://t.co/270fFXpbhE",
+          "url": "https://x.com/RealAmVoice/status/2123837636297060645",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123837357950644369",
+          "created_at": "2026-11-20T17:54:19.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "My mom watching me crack open a beer at 8:15 a.m. on Thanksgiving  https://t.co/mr6QIzXztW",
+          "url": "https://x.com/Outkick/status/2123837357950644369",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123835323037958606",
+          "created_at": "2026-11-20T17:46:14.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Why is Ilhan Omar still walking the halls of Congress?",
+          "url": "https://x.com/LauraLoomer/status/2123835323037958606",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123834295051776324",
+          "created_at": "2026-11-20T17:42:09.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS says he wants U.S. companies to build Data Centers in America https://t.co/MS1WqvviT0",
+          "url": "https://x.com/RealAmVoice/status/2123834295051776324",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123834118299349003",
+          "created_at": "2026-11-20T17:41:27.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says he will impose a “tremendous tax” on any US company that attempts to build data centers outside of the US.\n\nTrump says he will not allow data center construction outside the US because “China will take all of them.”\n\nThe Nasdaq 100 extends losses to",
+          "url": "https://x.com/KobeissiLetter/status/2123834118299349003",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123832997732651511",
           "created_at": "2026-11-20T17:37:00.000Z",
@@ -95,26 +185,6 @@
           "author_handle": "RealAmVoice",
           "text": "TRUMP BLASTS THE FED: “WE HAVE A VERY POLITICAL FED”\n\nPresident Trump says the Federal Reserve is keeping interest rates too high despite strong economic numbers, arguing lower rates could unleash massive growth.\n\n“We'd have a GDP of 15 or 20%, not 4%. I would pay off the debt https://t.co/7tmHRHBJv1",
           "url": "https://x.com/RealAmVoice/status/2123832621960474699",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123832446747643951",
-          "created_at": "2026-11-20T17:34:48.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP TOUTS PLUNGING OIL PRICES, SAYS GAS PRICES WILL DROP EVEN FURTHER!\n\nPresident Trump says crude oil has fallen 20%, gas prices are down 60 cents in a month, and manufacturing has grown for 10 straight months.\n\n“Soon you will have very, very low prices.” https://t.co/mFvxHfeIi9",
-          "url": "https://x.com/RealAmVoice/status/2123832446747643951",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123830435746889890",
-          "created_at": "2026-11-20T17:26:49.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "CNN’s @kaitlancollins calls the White House Press Room “our briefing room” https://t.co/pB9N9W1Lnq",
-          "url": "https://x.com/RealAmVoice/status/2123830435746889890",
           "verified": true,
           "verified_type": "business"
         },
@@ -199,16 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123823915910811813",
-          "created_at": "2026-11-20T17:00:54.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NOW: Full House awaiting @POTUS Press Conference \n\n@davezere https://t.co/RhnAFthNpW",
-          "url": "https://x.com/RealAmVoice/status/2123823915910811813",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123821486142276036",
           "created_at": "2026-11-20T16:51:15.000Z",
           "author_name": "The Kobeissi Letter",
@@ -237,16 +297,6 @@
           "url": "https://x.com/LauraLoomer/status/2123821057853501856",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123820409174839322",
-          "created_at": "2026-11-20T16:46:58.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS dances to YMCA in China 🤣🇺🇸\n\nhttps://t.co/RUuk3E3fbJ",
-          "url": "https://x.com/RealAmVoice/status/2123820409174839322",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123819769312969144",
@@ -349,16 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123811822537155021",
-          "created_at": "2026-11-20T16:12:51.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "He’s not. Also, I have nothing against Indian people, but you have to love the irony in a guy named “Saurabh Sharma” (sounds like Shawarma) who was literally born in India thinking that he of all people should be allowed to decide what is and isn’t America First as it pertains to https://t.co/RoxR0KyGwN",
-          "url": "https://x.com/LauraLoomer/status/2123811822537155021",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123810352768995482",
           "created_at": "2026-11-20T16:07:01.000Z",
           "author_name": "Open Source Intel",
@@ -395,16 +435,6 @@
           "author_handle": "SpaceX",
           "text": "Members of the Starship production team with Starship 42 before its launch https://t.co/1yPiV8h5Zu",
           "url": "https://x.com/SpaceX/status/2123809508187078839",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123808105062646216",
-          "created_at": "2026-11-20T15:58:05.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia, $NVDA, is set to post the largest 45-day loss in market cap by any stock in history, down -$2.55 trillion from the October 6th high.\n\nNearly 40% of the total market cap lost by the S&amp;P 500 since October 6th has come from Nvidia alone. https://t.co/1oV5BPumu4 https://t.co/ldwtJLIe7l",
-          "url": "https://x.com/KobeissiLetter/status/2123808105062646216",
           "verified": true,
           "verified_type": "business"
         },
@@ -489,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123790878607380983",
-          "created_at": "2026-11-20T14:49:38.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "“He is many many bad things”.\n\nExactly. So why does he work in the White House where he’s making personnel decisions? 🤔 https://t.co/FavU53z4aF",
-          "url": "https://x.com/LauraLoomer/status/2123790878607380983",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123789147752018017",
           "created_at": "2026-11-20T14:42:45.000Z",
           "author_name": "OutKick",
@@ -545,16 +565,6 @@
           "author_handle": "glennbeck",
           "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/20/26 https://t.co/sDQCjsRhGl",
           "url": "https://x.com/glennbeck/status/2123777868593582354",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123774922237563272",
-          "created_at": "2026-11-20T13:46:13.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Muslim Mayor of NYC is raising money for DSA, which wants to abolish the police and supports cop killers…\n\nDSA also calls for the assassination of capitalists. https://t.co/VSV7flv4Ul",
-          "url": "https://x.com/LauraLoomer/status/2123774922237563272",
           "verified": true,
           "verified_type": "blue"
         },
@@ -607,16 +617,6 @@
           "url": "https://x.com/elonmusk/status/2123737976710848580",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123631284777795618",
-          "created_at": "2026-11-20T04:15:28.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Safety and Daniel Jones go together perfectly  https://t.co/LNolEOzMBu",
-          "url": "https://x.com/Outkick/status/2123631284777795618",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123619712911520224",
@@ -735,16 +735,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "Watch Live: Trump holds news conference after meeting with Xi, Putin",
+          "summary": "President Trump is holding a news conference at the White House after his trip to the Philippines and China. Follow live updates here.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
         },
         {
-          "headline": "White House national cyber director leaving his post",
-          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
+          "headline": "Marine Corps hero under federal investigation",
+          "summary": "Retired Sgt. Maj.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
         },
         {
           "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
@@ -754,7 +754,7 @@
         },
         {
           "headline": "Trump holds press conference after meeting with Xi and Putin",
-          "summary": "'/> Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips. (Image credit: Vyacheslav Prokofyev)",
+          "summary": "'/> Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips. (Image credit: Kevin Dietsch)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
         },
@@ -771,16 +771,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-          "summary": "Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
+          "headline": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+          "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html"
+          "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html"
         },
         {
-          "headline": "Here's why we want to buy the sharp decline in this chip stock",
-          "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+          "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+          "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/20/heres-why-we-want-to-buy-the-sharp-decline-in-this-chip-stock.html"
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
         },
         {
           "headline": "6 reasons stocks are falling, and what you should do about it",
@@ -807,34 +807,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Clemson vs. Duke prediction, odds, time: Week 12 college football Friday picks from proven model",
-          "summary": "SportsLine's model revealed its best bets for Friday' ACC contest between the Clemson Tigers and Duke Blue Devils",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/clemson-duke-prediction-odds-time-2026-week-12-college-football-friday-picks-bets/"
-        },
-        {
-          "headline": "Puka Nacua had surgery on MCL injury, will miss 'a couple of months,' Sean McVay says",
-          "summary": "Nacua suffered the injury on the final play of the Rams' Week 9 win over the Commanders",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-injury-surgery-sean-mcvay/"
-        },
-        {
-          "headline": "Rams hope to have Kobie Turner back for Week 12",
-          "summary": "Rams head coach Sean McVay shared a negative update on wide receiver Puka Nacua's health on Friday, but he had better news regarding defensive tackle Kobie Turner. McVay said that the team is planning to activate defensive tackle Kobie Turner from injured reserve ahead of next Wednesday's game against the Packers.",
+          "headline": "Bold college fantasy football predictions for Week 12",
+          "summary": "Yahoo Sports College Football analysts Nick Bromberg and Eric Froton deliver their predictions for Week 12 — the first week of the default fantasy playoffs. Penn State’s Cam Wallace will continue to roll With Carson Hansen questionable for Saturday’s game against Rutgers, Cam Wallace could be in line for the bulk of the carries for the Nittany Lions.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/rams-hope-kobie-turner-back-173328375.html"
+          "url": "https://sports.yahoo.com/fantasy/article/bold-college-fantasy-football-predictions-for-week-12-180820489.html"
         },
         {
-          "headline": "Aiden Markram to captain South Africa in second Test against Bangladesh as Temba Bavuma ruled out",
-          "summary": "South Africa will have a change in leadership for the second and final Test against Bangladesh, with Aiden Markram set to captain the side in place of injured Temba Bavuma. Cricket South Africa (CSA) confirmed on Thursday that Bavuma has been ruled out of the series finale due to a right calf strain sustained during the opening Test at the Wanderers…",
+          "headline": "Texas A&M's Rylen Griffen's eligibility hearing rescheduled",
+          "summary": "Texas A&M Aggies guard Rylen Griffen's temporary injunction hearing has been rescheduled for Nov. 30 at 9 a.m.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/aiden-markram-captain-south-africa-173200814.html"
+          "url": "https://sports.yahoo.com/articles/texas-ms-rylen-griffens-eligibility-180546137.html"
         },
         {
-          "headline": "NWSL Championship to bring fans \"the best soccer in the world\"",
-          "summary": "The next frontier in growing women's soccer in the U.S. is where the players train and play their games.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/2026-nwsl-championship-washington-spirit-kc-current-womens-soccer/"
+          "headline": "Wales players gaining confidence in Prem - Williams",
+          "summary": "Exposure to the English Prem has boosted the confidence of Wales' players, says scrum-half Tomos Williams.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvg253z8x30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Shohei Ohtani and New Balance extend their deal through his playing career",
+          "summary": "Shohei Ohtani and New Balance have extended their contract for the rest of his playing career",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/shohei-ohtani-new-balance-extend-deal-playing-career-138324437"
+        },
+        {
+          "headline": "College basketball rankings: Houston cements place atop Top 25 And 1 after dominating Kansas",
+          "summary": "After taking down Florida and Kansas in back-to-back days, the Cougars emerge from the Players Era 8 tournament as the clear top team in college basketball",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/rankings-houston-cougars-top-25-and-1-kansas-kelvin-sampson/"
         }
       ]
     },
@@ -843,10 +843,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "‘Outer Banks’ Alum Madelyn Cline in Final Talks to Join New ‘Serendipity’ Movie (EXCLUSIVE)",
-          "summary": "Madelyn Cline is in final talks to join the new “Serendipity” film in the works at for Amazon MGM Studios and Miramax, Variety has learned exclusively from sources. The project is described not as a reboot of the 2001 romantic comedy but rather an update in a modern setting featuring new characters.",
+          "headline": "Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)",
+          "summary": "The latest way for comedians to find a second act: AI. Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/serendipity-reboot-cast-madelyn-cline-1236952550/"
+          "url": "https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233/"
+        },
+        {
+          "headline": "Lili Reinhart in Talks to Join ‘Polly Pocket’ Movie After Lily Collins Exit",
+          "summary": "Lili Reinhart is in discussions to star in and executive produce Amazon MGM and Mattel Studios’ “Polly Pocket.” Reinhart joins the film after Lilly Collins exited due to scheduling issues. Collins remains on as an executive producer.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/lili-reinhart-polly-pocket-movie-lily-collins-exit-1236954282/"
         },
         {
           "headline": "Golden Globes Category Chaos: When ‘The Drama’ Is a Comedy…",
@@ -861,12 +867,6 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-previews-1236760000/"
         },
         {
-          "headline": "Jennifer Lopez Wears 186-Carat Diamond Necklace to ‘JLo Show’ Premiere: ‘There’s Security All Around’",
-          "summary": "Jennifer Lopez famously sings, “Don’t be fooled by the rocks that I got, I’m still, I’m still Jenny from the block.” She certainly had a lot of rock at the Thursday night premiere of her concert film “The JLo Show.” Lopez was not only wearing a Chantilly lace gown and a satin shawl-coat from Dolce […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/columns/jennifer-lopez-186-carat-diamond-necklace-jlo-show-premiere-dolce-gabbana-1236953996/"
-        },
-        {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
           "summary": "The Hunger Games: Sunrise on the Reaping. '/> This prequel tells the origin story of Haymitch Abernathy.",
           "source": "NPR",
@@ -878,6 +878,18 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Bowen Yang Apologizes for Calling Regina Spektor an Antisemitic Slur, Didn’t Know It Was ‘Popularized by Far-Right Movements’",
+          "summary": "Bowen Yang has apologized after he received backlash recently for calling singer Regina Spektor an antisemitic slur on a past episode of his podcast, “Las Culturistas.” A resurfaced clip of the Oct. 14 episode of the podcast came under fire when Yang referred to Spektor as “Zio.” “I want to genuinely apologize for using a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bowen-yang-apologizes-regina-spektor-antisemitic-slur-1236954304/"
+        },
+        {
+          "headline": "Maleah Joi Moon on Netflix’s ‘A Different World,’ Debbie Allen’s Backstage Offer and Owning the Show’s ‘Complicated History’ With Cosby",
+          "summary": "Maleah Joi Moon didn’t audition her way into Hillman College. Debbie Allen walked backstage at “Hell’s Kitchen,” held the Tony winner’s face in her hands and decided she had found the daughter of Whitley Gilbert and Dwayne Wayne.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/awards/maleah-joi-moon-a-different-world-netflix-cosby-history-1236952490/"
+        },
         {
           "headline": "UTA Hires Sam Yabrow As Talent Agent",
           "summary": "EXCLUSIVE: UTA has hired Sam Yabrow as a talent agent based in its Los Angeles office. Yabrow joins from Buchwald, bringing nearly a decade of entertainment industry experience spanning casting and talent representation.",
@@ -891,18 +903,6 @@
           "url": "https://deadline.com/2026/11/louis-garrel-harry-lawtey-ben-stiller-airman-1237229602/"
         },
         {
-          "headline": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
-          "summary": "Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I’m a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/"
-        },
-        {
-          "headline": "Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee’s Style Is Her ‘Form of Defiance Against the Capitol’",
-          "summary": "Mckenna Grace has been on a red carpet run for the ages during the global press tour for “The Hunger Games: Sunrise on the Reaping.” Over the last few weeks, the 20-year-old actress (and certified “Hunger Games” fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484/"
-        },
-        {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
           "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
           "source": "ABC News",
@@ -914,6 +914,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Actor Awards 2027 Preview: Breaking Down the Top Film and TV Contenders",
+          "summary": "The awards season acting races are taking shape, and nothing will test them like the Actor Awards, the ceremony formerly known as the SAG Awards. There is a real possibility the season is barreling toward another edition of #OscarsSoWhite, and this is the stage where the nominating committee can exert the most influence.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/awards/actors/actor-awards-2027-preview-film-tv-contenders-1236952294/"
+        },
         {
           "headline": "Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller ‘Cupid’",
           "summary": "EXCLUSIVE: The Project Hail Mary star and AT&T spokeswoman, Milana Vayntrub, is boarding Tate Taylor’s marriage counselor thriller which we first told you about, Cupid. Vayntrub will star opposite previously announced Daisy Ridley, Catherine Zeta-Jones, Judy Greer, Travis Fimmel and Darren Criss.",
@@ -933,16 +939,10 @@
           "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
         },
         {
-          "headline": "Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq",
-          "summary": "French actor Gérard Depardieu is facing a new complaint alleging rape and sexual assault during the filming of Guillaume Nicloux’s “Thalasso” in 2018, according to an investigation published by Mediapart on Thursday. The complaint also names Nicloux, who directed the film, and Michel Houellebecq, one of France’s most celebrated novelists who starred…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/gerard-depardieu-rape-complaint-guillaume-nicloux-houellebecq-1236954229/"
-        },
-        {
-          "headline": "Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’",
-          "summary": "Sofia Coppola paid tribute to her late mother, Eleanor Coppola, at the Paris premiere of the documentary “Making Marie Antoinette,” which she directed, charting the making of her daughter’s 2006 cult film starring Kirsten Dunst. While she was unable to attend after coming down with the flu, Coppola sent a heartfelt note honoring her mother, […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sofia-coppola-pays-tribute-eleanor-making-marie-antoinette-1236954157/"
+          "headline": "Melissa Etheridge is cheering for the Kansas City Current in the NWSL final",
+          "summary": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/"
         }
       ]
     },
@@ -951,37 +951,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Brandy Believes a ‘Moesha’ Reboot ‘Can Really Be Something in Today’s Time’",
-          "summary": "Brandy may have just delivered the theme song for Netflix’s A Different World reboot, but she might return to the studio to cut a new version of her Moesha theme song for a possible reboot! Related Usher & Chris Brown Cancel 2 More R&B Tour Shows Brandy & Monica, Kes the Band & Tems Dazzle at Saint Lucia Jazz & Arts Festival 2026: 5 Best Moments Brandy &…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/tv-film/brandy-moesha-reboot-usher-reuniting-1236386509/"
-        },
-        {
-          "headline": "Unreleased D’Angelo Song ‘Kamakazi’ Emerges in ‘GTA VI’",
-          "summary": "Late singer previously contributed \"Unshaken\" to Rockstar Games' Red Dead Redemption 2",
+          "headline": "Beastie Boys’ Mike D Brings Solo Album — and His Sons — to Tiny Desk Concert",
+          "summary": "The former Beastie Boys member performed six tracks off his solo album with his sons",
           "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667/"
+          "url": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/"
         },
         {
-          "headline": "Harvey Mason, Rufus Reid & More Are Named 2027 NEA Jazz Masters: Full List",
-          "summary": "Harvey Mason has watched his son Harvey Mason Jr. become CEO of the Recording Academy and one of the most visible people in the music field.",
+          "headline": "Executive Turntable: Melissa Victor-Burkhardt Joins HYBE Global Label Services",
+          "summary": "HYBE has appointed Melissa Victor-Burkhardt as executive vp of global artist services for HYBE Global Label Services. Within the newly created role, Victor-Burkhardt will work with the company’s worldwide teams to help with project management.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/awards/2027-nea-jazz-masters-list-recipients-1236386436/"
+          "url": "https://www.billboard.com/lists/executive-turntable-melissa-victor-burkhardt-hybe/"
+        },
+        {
+          "headline": "U2’s ‘Carnaval De Luz’ Becomes Its 12th U.K. No. 1 Album, Moving Band Up All-Time Leaderboard",
+          "summary": "U2 is No. 1 on the U.K.’s Official Albums Chart published Friday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-uk-albums-chart-1236386368/"
+        },
+        {
+          "headline": "Megan Moroney and Alex Warren Know a Good Song When They Hear It in the Car",
+          "summary": "For two artists whose lives revolve around music, the road offers a different kind of listening experience.",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/megan-moroney-alex-warren-know-good-song-in-the-car-1235654145/"
         },
         {
           "headline": "How two musicians found inspiration among the trees",
           "summary": "Sage Bava grew up on a nature preserve in New York. Julieta Eugenio found inspiration on daily walks through Brooklyn's Prospect Park.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6044283/jazz-night-sage-bava-julieta-eugenio-nature"
-        },
-        {
-          "headline": "How Orchestra Noir turned classical music into a cultural movement",
-          "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be. (Image credit: Andre Calder)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-20T12:41:13-05:00"
+  "updatedAt": "2026-11-20T13:11:52-05:00"
 }
