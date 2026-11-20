@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Can Anthropic win hearts and minds by curing hearts and minds?",
+          "summary": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/"
+        },
+        {
           "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
           "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "President Donald Trump says U.S. tech companies will face “a tremendous tax” if they build artificial intelligence data centers in other countries",
           "source": "ABC News",
           "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831"
-        },
-        {
-          "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-          "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "WATCH: New health warning on doomscrolling: What to know and tips to break the habit",
+          "summary": "A Lancet Psychiatry report calls problematic internet use a global health concern, affecting more than 1 in 10 people. ABC News’ Dr.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138324954/"
+        },
+        {
+          "headline": "The deadliest drug threat the U.S. has ever faced",
+          "summary": "It's the deadliest threat the country has ever faced. This Sunday, 60 Minutes' seven-month investigation into synthetic opioids.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/the-deadliest-drug-threat-the-u-s-has-ever-faced/"
+        },
+        {
+          "headline": "Trump threatens ban on US firms building AI data centres overseas",
+          "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump says he and Xi agreed to \"joint guardrails\" on AI, comments on tech outages",
+          "summary": "President Trump told reporters Friday that he and Chinese President Xi Jinping had agreed to \"joint guardrails\" on AI during their summit this week. CBS News' Natalie Brand and Samantha Vinograd have more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/trump-says-he-and-xi-will-do-joint-guardrails-on-ai/"
+        },
+        {
           "headline": "LIVE: ABC News Live",
           "summary": "24/7 coverage of breaking news and live events",
           "source": "ABC News",
           "url": "https://abcnews.com/video/41463246/"
-        },
-        {
-          "headline": "Florida plastic surgeon sentenced to death for murdering missing lawyer",
-          "summary": "Tomasz Kosowski was found guilty of first-degree murder in the death of 41-year-old Steven Cozzi, who disappeared in March 2023.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/florida-plastic-surgeon-sentenced-death-murdering-missing-lawyer/story?id=138327475"
-        },
-        {
-          "headline": "Detonation of unstable explosives in Iowa paused indefinitely by court",
-          "summary": "The U.S. Army's plan to detonate five tons of unstable explosives containing lead azide at a munitions plant in Iowa has been put on indefinite hold by a federal court Friday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-azide-paused-indefinitely-court-order/"
-        },
-        {
-          "headline": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123880819093889243",
+          "created_at": "2026-11-20T20:47:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Albuquerque's council voted unanimously to protect rats, ignoring the New Mexico Restaurant Association, which says glue traps help prevent infestations. \n\nAnimal glue traps are now banned, and city facilities can't even use insect ones. Violators face a $100 fine. https://t.co/Fl9ZBcVM6e",
+          "url": "https://x.com/RealAmVoice/status/2123880819093889243",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123880567972474963",
+          "created_at": "2026-11-20T20:46:01.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Volatility Index, $VIX, extends gains to +35% on the day and rises above 38 for the first time since April 2025.\n\nThis puts the $VIX up +159% since October 6th. https://t.co/zqsO6DLAjK",
+          "url": "https://x.com/KobeissiLetter/status/2123880567972474963",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123880378696130759",
+          "created_at": "2026-11-20T20:45:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Unleash Prosperity co-founder Stephen Moore says Google is building a $7.5 billion data center campus in Malaysia instead of the US because of a \"forest fire of opposition\" at home\n\n\"The United States has to completely dominate this new AI age, the way that the United States has https://t.co/AnAMyTMBUW",
+          "url": "https://x.com/_Investinq/status/2123880378696130759",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123880032078635116",
+          "created_at": "2026-11-20T20:43:54.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🇺🇸 TRUMP AND DANA WHITE SURPRISE U.S. MARINE BAND WITH $500,000 DONATION!\n\nAt the first official event on the new White House helipad, Trump announces he and the UFC president @danawhite more than DOUBLED their original $200K donation.\n\n“I said, do you want to go and double up? https://t.co/tOa0X1jkcb",
+          "url": "https://x.com/RealAmVoice/status/2123880032078635116",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123878192620487005",
+          "created_at": "2026-11-20T20:36:35.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "MAJOR REVERSAL COMING IN TEXAS!\n\nAs CAIR prepares another Muslim Capitol Day in 2027, Democrat Governor-elect Gina Hinojosa vows to REVERSE Greg Abbott's terrorist designation of the organization.\n\nCAIR is celebrating the decision.\n\nhttps://t.co/wwEAxd0rgM",
+          "url": "https://x.com/RealAmVoice/status/2123878192620487005",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123874615449768331",
+          "created_at": "2026-11-20T20:22:22.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nvidia, $NVDA, sets a new record for the largest-ever loss of market cap in a stock in 45 days.\n\nThe stock has now lost -$2.8 trillion in market cap from its high seen on October 6th.\n\nThere have been 33 trading days since October 6th, meaning Nvidia has lost an average",
+          "url": "https://x.com/KobeissiLetter/status/2123874615449768331",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123874178851868876",
+          "created_at": "2026-11-20T20:20:38.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Israeli military:\n\n\"IDF: While meeting to advance terror attacks: The IDF struck several Hamas terrorists in the central Gaza Strip\n\nA short while ago, the IDF struck several terrorists from the military wing of the Hamas terrorist organization while they were meeting to advance",
+          "url": "https://x.com/Osint613/status/2123874178851868876",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123871645647429913",
           "created_at": "2026-11-20T20:10:34.000Z",
@@ -157,26 +227,6 @@
           "url": "https://x.com/LauraLoomer/status/2123864222694302037",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123862327691026443",
-          "created_at": "2026-11-20T19:33:33.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "POSOBIEC: TRUMP'S HISTORIC SUMMIT SIGNALS A “GREAT REALIGNMENT!”\n\nBack from China aboard Air Force One, @JackPosobiec shares his behind-the-scenes account of Trump's meeting with Xi and Putin, calling it a potential new path toward world peace.\n\n“There's another way forward with https://t.co/PzqNWZxz1t",
-          "url": "https://x.com/RealAmVoice/status/2123862327691026443",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123859779068276777",
-          "created_at": "2026-11-20T19:23:25.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Resurfaced video shows Zohran Mamdani being zip-tied by the NYPD's elite Strategic Response Group at a 2021 Brooklyn protest. Now he's the mayor, and he's disbanding that unit. Coincidence? https://t.co/qusW9kfKjX",
-          "url": "https://x.com/RealAmVoice/status/2123859779068276777",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123859560863592794",
@@ -259,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123854172965495077",
-          "created_at": "2026-11-20T19:01:08.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS NUKES MSNBC REPORTER: \"You're REALLY a RUDE person!\" https://t.co/a1ebRJS8Us",
-          "url": "https://x.com/RealAmVoice/status/2123854172965495077",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123852660688494744",
           "created_at": "2026-11-20T18:55:08.000Z",
           "author_name": "Elon Musk",
@@ -277,16 +317,6 @@
           "url": "https://x.com/elonmusk/status/2123852660688494744",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123851620467490859",
-          "created_at": "2026-11-20T18:51:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "The US equity market is experiencing a historic losing streak:\n\nThe S&amp;P 500 has declined for 6 consecutive trading sessions, its longest streak since the 2020 pandemic sell-off.\n\nOver this period, the S&amp;P 500 has declined -5.8%, to its lowest level since April.\n\nToday, the S&amp;P https://t.co/Ezu8Ni2VmL",
-          "url": "https://x.com/KobeissiLetter/status/2123851620467490859",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123850851282497876",
@@ -367,16 +397,6 @@
           "url": "https://x.com/LauraLoomer/status/2123845673087070481",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123844337717162044",
-          "created_at": "2026-11-20T18:22:03.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump calls on Jensen Huang to \"make an apology and go back\" to Nvidia, $NVDA, as CEO.\n\nTrump also says he discussed the situation with China's President Xi.\n\nNvidia would reinstate Jensen as CEO \"if they were smart,\" Trump says.",
-          "url": "https://x.com/KobeissiLetter/status/2123844337717162044",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123843959340310871",
@@ -519,16 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123816385881256126",
-          "created_at": "2026-11-20T16:30:59.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "The Nasdaq Composite just turned negative for 2026\n\nAt its October 6 record close of 27,599.79 the index was up 18.8% on the year\n\nToday it fell 2.8% to about 23,220, below its 2025 close of 23,241.99, and it now sits 15.9% below that record\n\n$NVDA is down 6.5% today to about https://t.co/C1vcDc207E",
-          "url": "https://x.com/_Investinq/status/2123816385881256126",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123815481219989972",
           "created_at": "2026-11-20T16:27:23.000Z",
           "author_name": "Clay Travis",
@@ -555,16 +565,6 @@
           "author_handle": "Osint613",
           "text": "A tanker leaving the Strait of Hormuz was hit by an unknown projectile 8NM north of Khasab, Oman.\n\nFire onboard. No casualties.\n\nUKMTO https://t.co/0aQ9B33sVC",
           "url": "https://x.com/Osint613/status/2123810352768995482",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123809787649425904",
-          "created_at": "2026-11-20T16:04:46.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "CENTCOM:\n\n“A U.S. Marine Corps F-35C Lightning II is refueled by a U.S. Air Force KC-135 Stratotanker while operating over the Middle East”. https://t.co/nml5GxDqYa",
-          "url": "https://x.com/Osint613/status/2123809787649425904",
           "verified": true,
           "verified_type": "blue"
         },
@@ -717,16 +717,6 @@
           "url": "https://x.com/glennbeck/status/2123540703385186404",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123516375805379040",
-          "created_at": "2026-11-19T20:38:51.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the https://t.co/ERtoYN9tcU",
-          "url": "https://x.com/SpaceX/status/2123516375805379040",
-          "verified": true,
-          "verified_type": "business"
         }
       ]
     },
@@ -735,16 +725,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Too many House Republicans are missing work, Mike Johnson says",
-          "summary": "Dozens of House members didn't show up to vote this week. They're still getting paid.",
+          "headline": "Musk said he'd \"look into\" this disclosure law. Now it heads to court.",
+          "summary": "Two county prosecutors say the Trump administration broke the law when it exempted U.S. companies from ownership reporting.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/johnson-house-republican-absences/"
+          "url": "https://www.cbsnews.com/news/elon-musk-corporate-disclosure-lawsuit/"
         },
         {
-          "headline": "Trump touts Asia trip, meeting with Putin and Xi at news conference",
-          "summary": "President Trump touted his trip to Asia this week and his meetings with China's Xi Jinping and Russia's Vladimir Putin at a press conference at the White House.",
+          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
           "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
@@ -771,16 +761,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
-          "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html"
-        },
-        {
           "headline": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
           "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html"
+        },
+        {
+          "headline": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
+          "summary": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
         },
         {
           "headline": "6 reasons stocks are falling, and what you should do about it",
@@ -807,34 +797,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Usman Nurmagomedov gives first statement since Merab Dvalishvili attack, release from Abu Dhabi jail",
-          "summary": "Usman Nurmagomedov gave his first public comment Friday since leading a group attack on former UFC champion Merab Dvalishvili and briefly landing in an Abu Dhabi jail. Nurmagomedov, the PFL lightweight champion, was one of eight individuals to be released from Abu Dhabi jail earlier this week following sentence reductions on what were otherwise going to…",
+          "headline": "Now what? Colts should have traded Daniel Jones when they had the chance",
+          "summary": "Here's the Daniel Jones timeline for the past eight months — and stick with us, because it's a wild ride. The Colts signed Jones to the largest two-year contract in NFL history despite coming off Achilles surgery a few months earlier.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mma/article/usman-nurmagomedov-gives-first-statement-since-merab-dvalishvili-attack-release-from-abu-dhabi-jail-200755000.html"
+          "url": "https://sports.yahoo.com/nfl/article/now-what-colts-should-have-traded-daniel-jones-when-they-had-the-chance-204423803.html"
         },
         {
-          "headline": "Tottenham boss Roberto De Zerbi addresses Mykhailo Mudryk's Arsenal comments",
-          "summary": "Mykhailo Mudryk is on a season-long loan at Tottenham Hotspur -Credit:Sportsphoto/Allstar, Getty Images Roberto De Zerbi has come to the defense of Mykhailo Mudryk following backlash from Tottenham Hotspur supporters after the winger acknowledged he had harbored aspirations of signing with Arsenal. Mudryk arrived at Spurs on a season-long loan deal from…",
+          "headline": "Pro Bowler among 3 kicker Raiders workouts in light of Matt Gay injury",
+          "summary": "Raiders kicker Matt Gay has been dealing with a hip injury that caused him to miss practice on Thursday. And head coach Klint Kubiak announced the veteran kicker will be Questionable for Sunday's game in Denver.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tottenham-boss-roberto-zerbi-addresses-200745108.html"
+          "url": "https://sports.yahoo.com/articles/pro-bowler-among-3-kicker-204104623.html"
+        },
+        {
+          "headline": "Drake Maye out indefinitely with fibula: Big picture questions now facing Patriots offseason, beyond",
+          "summary": "The lens of how the Patriots view the rest of 2026 and beyond has now changed",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/drake-maye-suffers-fibula-injury-big-picture-questions-now-facing-patriots-offseason-beyond/"
+        },
+        {
+          "headline": "Timberwolves, Grizzlies reportedly hope to move to Eastern Conference after expansion; who makes more sense?",
+          "summary": "Minnesota is more competitive, while Memphis has geography on its side",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nba/news/nba-expansion-timberwolves-grizzlies-eastern-conference/"
         },
         {
           "headline": "Osimhen keen on Man Utd move - Saturday's gossip",
           "summary": "Victor Osimhen is keen on a move to Manchester United, Aston Villa are interested in Amad Diallo and Ivan Toney is a target for Crystal Palace, plus more.",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/football/articles/c60qj1924wyeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Georgia vs. South Carolina prediction, pick, odds, spread: Bulldogs look to keep rolling against Gamecocks",
-          "summary": "Can South Carolina slow down a red-hot Georgia team?",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/georgia-south-carolina-prediction-picks-odds-spread-where-to-watch-live/"
-        },
-        {
-          "headline": "Miami vs. Virginia Tech prediction, pick, odds, spread: Hurricanes look to clinch ACC title game spot",
-          "summary": "No. 7 Miami would clinch just its second ACC Championship appearance with a win over the Hokies",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/miami-virginia-tech-prediction-picks-odds-spread-where-to-watch-live/"
         }
       ]
     },
@@ -843,28 +833,28 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "“The Secrecy Was Insane:” The Making of ‘The Hunger Games: Sunrise on the Reaping,’ From Locked Safes to Original Cast’s Return",
+          "summary": "Screenwriter Billy Ray, producer Nina Jacobson and director Francis Lawrence reveal how they adapted Suzanne Collins’ prequel before it was published, found their young Haymitch and brought back Jennifer Lawrence, Josh Hutcherson and Woody Harrelson.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/sunrise-on-the-reaping-making-hunger-games-prequel-1236746299/"
+        },
+        {
+          "headline": "Laura Poitras Turns Lens on ICE’s ‘Paramilitary Occupation’ of a U.S. City in ‘They’re Here’",
+          "summary": "Oscar-winning documentarian Laura Poitras is acutely aware of the importance of the weight of words when describing issues of great sensitivity. Her work has dealt with Edward Snowden’s NSA whistleblowing, the Sackler family’s role in the opioid crisis, and Iraq under U.S.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/laura-poitras-theyre-here-ice-1236954019/"
+        },
+        {
+          "headline": "‘Once Upon a Time in Harlem’ Duo Praise Neon’s Strategy to Reach Young Audiences",
+          "summary": "Half a century separates the height of the Harlem Renaissance movement from when lauded filmmaker William Greaves filmed some of its greatest luminaries at Duke Ellington’s apartment in 1972. A further half century passed before the footage met audiences through efforts by the filmmaker’s son, David, and granddaughter, Liani Greaves, the director and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/once-upon-a-time-in-harlem-neon-young-audiences-idfa-1236954016/"
+        },
+        {
           "headline": "‘Home Alone’ Sequel in Development at Disney With Macaulay Culkin, Seth Rogen and Evan Goldberg",
           "summary": "Culkin is expected to reprise his role as Kevin McCallister, while Rogen and Goldberg are writing and producing the sequel.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116/"
-        },
-        {
-          "headline": "‘Bridgerton’ and ‘Mad Men’ Costumers on the ‘Magic of Costume Design’ and Why the ‘Script Is Our Bible’",
-          "summary": "For costume designers Janie Bryant and John Glaser, outfitting a character is another form of storytelling. “When an actor appears on screen, you see the costume before they even say a word,” says Bryant, an Emmy winner whose credits include “Mad Men,” “Deadwood” and Taylor Sheridan shows including “Dutton Ranch” and other “Yellowstone” spinoffs.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/costume-designers-round-top-film-festival-1236952347/"
-        },
-        {
-          "headline": "Teyana Taylor Sells Female-Driven Comedy to Warner Bros. (Exclusive)",
-          "summary": "The Oscar-nominated actress will co-write and produce the project, with an eye to direct.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/teyana-taylor-sells-comedy-warner-bros-1236759425/"
-        },
-        {
-          "headline": "‘Home Alone’ Reboot in the Works at Disney from Macaulay Culkin, Seth Rogen and Evan Goldberg",
-          "summary": "A “Home Alone” sequel is in early development at Disney, Variety has learned. Seth Rogen and Evan Goldberg are shaping the script with original star Macaulay Culkin and will produce through their Point Grey banner.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/home-alone-reboot-disney-macaulay-culkin-seth-rogen-1236954344/"
         },
         {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
@@ -879,28 +869,28 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Jill Scott, Grammy Award-Winning Singer & Actress, Signs With Independent Artist Group",
+          "summary": "EXCLUSIVE: Three-time Grammy Award-winning singer, songwriter, actress, and producer Jill Scott has signed with Independent Artist Group for representation across film and TV, branding, literary, and international touring. The news arrives in the same week that Scott received five nominations for the 2027 Grammy Awards, recognizing her sixth studio…",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jill-scott-independent-artist-group-agency-1237230457/"
+        },
+        {
+          "headline": "Steven Paul Talks Up Federal Film & TV Tax Credit: “It’s Going To Be Good For The World” – Industry Days Doha",
+          "summary": "Hollywood veteran Steven Paul carried a flag for the push for a Hollywood film and TV incentive to Qatar on Friday. Speaking in a fireside chat at the Qatar Film Committee’s Industry Days event in Doha, Paul said the proposed tax credit, covering between 20 to 30% of the U.S.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/steven-paul-federal-film-tv-tax-credit-good-world-1237230531/"
+        },
+        {
           "headline": "Trump Suggests Theaters Could Be Added to Federal Film Credit Bill",
           "summary": "President Trump suggested on Friday that the bill to create a federal tax credit for film and TV production may also include support for theaters. Taking questions at the White House, Trump was asked about areas of cooperation with the incoming Democratic majority in Congress.",
           "source": "Variety",
           "url": "https://variety.com/2026/politics/news/trump-theaters-film-credit-bill-1236954402/"
         },
         {
-          "headline": "Jennifer Lawrence Teases Miss Piggy Movie Update: “I Always Get In Trouble For Saying Stuff”",
-          "summary": "A year after revealing a Miss Piggy movie in the works, Jennifer Lawrence has shared an update on the Muppet solo outing. The Oscar-winning actress, who is developing the project with fellow producer Emma Stone and screenwriter Cole Escola, teased the status of the script in response to a fan question on Watch What Happens […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jennifer-lawrence-miss-piggy-movie-update-1237230448/"
-        },
-        {
-          "headline": "‘Upgraded 2’ Film Casts Tanner Zagarino, Christopher McDonald, Andrea Arcangeli & Alessandro Preziosi",
-          "summary": "EXCLUSIVE: Andrea Arcangeli (Trust, The Saints), Alessandro Preziosi (ChiaroScuro), Tanner Zagarino (The Summer I Turned Pretty), and Christopher McDonald (Hacks, Happy Gilmore 2) have joined the cast of Upgraded 2 from director Becca Gleason, Gulfstream Pictures, and Honor Role. They join the previously announced returning star and producer Camila…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/upgraded-2-cast-tanner-zagarino-christopher-mcdonald-1237230367/"
-        },
-        {
-          "headline": "‘GTA 6’ Music Breakdown: More Than 700 Songs and 90 Years of Music Across 20 Radio Stations",
-          "summary": "You may never run out of music to listen to while playing “Grand Theft Auto VI.” The latest game in the “GTA” series, which officially released on Thursday and has already taken the world by storm, has a truly massive list of songs — nearly 750 individual tracks have been spotted online by players. You […]",
+          "headline": "‘Bridgerton’ and ‘Mad Men’ Costumers on the ‘Magic of Costume Design’ and Why the ‘Script Is Our Bible’",
+          "summary": "For costume designers Janie Bryant and John Glaser, outfitting a character is another form of storytelling. “When an actor appears on screen, you see the costume before they even say a word,” says Bryant, an Emmy winner whose credits include “Mad Men,” “Deadwood” and Taylor Sheridan shows including “Dutton Ranch” and other “Yellowstone” spinoffs.",
           "source": "Variety",
-          "url": "https://variety.com/2026/gaming/news/gta-6-music-songs-artists-radio-stations-tracks-1236954390/"
+          "url": "https://variety.com/2026/film/news/costume-designers-round-top-film-festival-1236952347/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -915,34 +905,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "SXSW, Deadline & The Improv Launching New Comedy Competition Circuit Breakers For 2027",
-          "summary": "Next spring, SXSW, Deadline and The Improv will present the first edition of Circuit Breakers, a new take on the Comics to Watch list and new form of comedy competition, all in one. With Circuit Breakers, we’re looking to help elevate a new generation of rising comedic talent — comics with unique voices and original, […]",
+          "headline": "Bruce Greenwood, Johnny Knoxville And Dylan Hawco Join ‘Fake Skating’ Adaptation At Sony",
+          "summary": "EXCLUSIVE: Bruce Greenwood, Johnny Knoxville and Dylan Hawco are set to round out the cast in Sony Pictures and Will Gluck’s Olive Bridge Entertainment’s Fake Skating based on Lynn Painter’s New York Times best-selling book with Amélie Hoeferle and Graham Campbell set to star. Josh Boone is directing from a screenplay written by Morgan Lehmann […]",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/circuit-breakers-competition-sxsw-deadline-the-improv-1237230243/"
+          "url": "https://deadline.com/2026/11/bruce-greenwood-johnny-knoxville-fake-skating-1237230348/"
         },
         {
-          "headline": "Paramount Eyeing Sterling K. Brown To Star in New ‘Longlegs’ Movie Opposite Nicolas Cage",
-          "summary": "EXCLUSIVE: Following the excitement that fans of the record-breaking hit Longlegs would be getting a new movie in the universe, Paramount Pictures looks to have now found the actor to lead that film as sources tell Deadline Sterling K. Brown is in negotiations to join Paramount Pictures’ upcoming Longlegs film.",
+          "headline": "‘GTA VI’ Sales Near $4B In First Day Of Launch; Yes, You Read That Correctly, Nearly $4B",
+          "summary": "Less than 48 hours after Grand Theft Auto VI went live, Rockstar Games has released sales figures for the long anticipated and heavily hyped misadventures out of the seedy fictional state of Leonida. Based on data from November 19, GTA VI has hit an astonishing $3.79 billion in day one retail sales.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/sterling-k-brown-new-longlegs-movie-1237230255/"
-        },
-        {
-          "headline": "‘GTA 6’ Hits Massive $3.79 Billion in First-Day Sales",
-          "summary": "Crime pays: Rockstar Games’ “Grand Theft Auto 6” preorder and first-day sales reached $3.79 billion, the game developer announced Friday. Per Rockstar Games parent company Take-Two Interactive, that total sets “a new record for entertainment across any medium” and makes “GTA 6” “the biggest entertainment launch in history.” A spokesperson for Take-Two…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/"
-        },
-        {
-          "headline": "Obscured Releasing Picks Up North American Distribution for Finland Oscar Entry ‘The Squirrel’ (EXCLUSIVE)",
-          "summary": "Obscured Releasing has picked up North American distribution rights to “The Squirrel,” written and directed by Markus Lehmusruusu. The film reps Finland in the international feature Oscar race.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/obscured-releasing-squirrel-north-america-1236953813/"
+          "url": "https://deadline.com/2026/11/gta6-first-day-sales-4-billion-1237230465/"
         },
         {
           "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
           "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
+        },
+        {
+          "headline": "Melissa Etheridge is cheering for the Kansas City Current in the NWSL final",
+          "summary": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/"
+        },
+        {
+          "headline": "Jennifer Lawrence Teases Miss Piggy Movie Update: “I Always Get In Trouble For Saying Stuff”",
+          "summary": "A year after revealing a Miss Piggy movie in the works, Jennifer Lawrence has shared an update on the Muppet solo outing. The Oscar-winning actress, who is developing the project with fellow producer Emma Stone and screenwriter Cole Escola, teased the status of the script in response to a fan question on Watch What Happens […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jennifer-lawrence-miss-piggy-movie-update-1237230448/"
         }
       ]
     },
@@ -951,16 +941,16 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Why Does The Mars Volta Think a Live Album Recorded in Michigan & Oklahoma Will Connect With Fans in Mexico?",
-          "summary": "The Mars Volta released a new official live album on Friday (Nov. 20), its first since Scabdates (2005).",
+          "headline": "Olivia Rodrigo’s ‘Stupid Song’ Hits No. 1 on Billboard’s Pop Airplay Chart",
+          "summary": "Having become a spark in the dark, and all dayparts, Olivia Rodrigo ’s “Stupid Song” reaches the top spot on Billboard ’s Pop Airplay chart (dated Nov. 28), jumping three places to No.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/the-mars-volta-album-lucro-sucio-unfinished-business-interview-1236386768/"
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-stupid-song-pop-airplay-number-one-1236385961/"
         },
         {
-          "headline": "Josh Groban Releases Deluxe Edition of His 2026 Album ‘Cinematic’",
-          "summary": "UPDATE (Nov. 20): Josh Groban has added two bonus tracks to his album Cinematic , a collection of film songs.",
+          "headline": "Boosie Badazz Charge Over Alleged Nightclub Assault Dismissed — But His Legal Troubles Aren’t Over",
+          "summary": "Boosie Badazz has defeated a felony case over an alleged violent altercation at a Houston nightclub this year — though the rapper’s legal troubles are not yet over. The Louisiana rapper (Torrence Hatch) was arrested in May for aggravated assault after being accused of smashing a club bouncer in the head with a glass hookah.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/josh-groban-new-album-cinematic-classic-film-songs-1236198762/"
+          "url": "https://www.billboard.com/pro/boosie-badazz-felony-charge-nightclub-assault-dismissed/"
         },
         {
           "headline": "Listen to Two New Grimes Songs",
@@ -983,5 +973,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T15:17:58-05:00"
+  "updatedAt": "2026-11-20T15:49:16-05:00"
 }
