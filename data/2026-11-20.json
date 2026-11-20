@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Mayor Mamdani announces plan to shut down Rikers Island",
+          "summary": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/"
+        },
+        {
+          "headline": "Trump signs Common Cents Act",
+          "summary": "The Common Cents Act established guidelines for businesses and consumers when conducting cash transactions.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/"
+        },
+        {
+          "headline": "USDA hit with cyberattack: Sources",
+          "summary": "One system affected is a tool for farmer payments, a source said.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014"
+        },
+        {
           "headline": "Tech stock sell-off drags markets down as Anthropic shares slide",
           "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "3.9-magnitude earthquake rattles Los Angeles area",
-          "summary": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/"
-        },
-        {
-          "headline": "NFL great Brady could buy Chelsea stake",
-          "summary": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+          "headline": "French police officers sentenced for beating of music producer Michel Zecler",
+          "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Detonation of unstable explosives in Iowa paused indefinitely by court",
-          "summary": "The U.S. Army's plan to detonate five tons of unstable explosives containing lead azide at a munitions plant in Iowa has been put on indefinite hold by a federal court Friday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-azide-paused-indefinitely-court-order/"
-        },
-        {
-          "headline": "WATCH: Is travel insurance worth it after the FAA ground stop?",
-          "summary": "Katy Nastro, travel correspondent at Flighty, shares what travelers can do to protect themselves.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138330689/"
+          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123915576515146040",
+          "created_at": "2026-11-20T23:05:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Treasury Secretary Scott Bessent says Jensen Huang never came up in the China talks and the H200 is the firm line for chip sales\n\n\"Not at all. Nothing about the spy allegations\"\n\n\"He drew a very firm line at the H200s, and believes that that is the level that China should be able https://t.co/8n9JZZboi0",
+          "url": "https://x.com/_Investinq/status/2123915576515146040",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123914295755051511",
+          "created_at": "2026-11-20T23:00:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "JENSEN HUANG FACES CONGRESSIONAL GAUNTLET — HOUSE, SENATE HEARINGS STACK UP\n\n@ReporterMcCabe reports Nvidia CEO Jensen Huang is expected on Capitol Hill December 1, followed by Nvidia General Counsel Tim Teter on December 2, then Huang again before the Senate Banking Committee on https://t.co/OVwfXGIUwV",
+          "url": "https://x.com/RealAmVoice/status/2123914295755051511",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123914229421937146",
+          "created_at": "2026-11-20T22:59:47.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "RED-GREEN ALLIANCE THREATENS AMERICA, NGOS FUEL THE CHAOS | JUST THE NEWS https://t.co/uOdwpaLRSr",
+          "url": "https://x.com/RealAmVoice/status/2123914229421937146",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123912390186303586",
+          "created_at": "2026-11-20T22:52:28.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The US Department of Agriculture was hit by a cyberattack this week, raising concerns that hackers accessed \"sensitive information\" at the agency, per NBC News.\n\nThe USDA informed employees on Thursday that a system the agency uses to facilitate payments to farmers was",
+          "url": "https://x.com/KobeissiLetter/status/2123912390186303586",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123912043237646568",
+          "created_at": "2026-11-20T22:51:06.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Somalian mother Awo Abdikarin Duale is charged with killing her 3-year-old daughter and 5-year-old son in Savage, Minnesota.\n\nShe was also reportedly under investigation in connection with a $5.7 million Medicaid fraud scheme. https://t.co/E1EVoQJzfv",
+          "url": "https://x.com/RealAmVoice/status/2123912043237646568",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123911408710832183",
+          "created_at": "2026-11-20T22:48:34.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "You know what I think is racist? Acting like people in Baltimore should just have to accept violent crime as a part of everyday life. Everyone deserves to live in a safe community. Instead of attacking people for pointing out the problem, why aren't we focused on fixing it? https://t.co/KnEORV7ZSl",
+          "url": "https://x.com/ClayTravis/status/2123911408710832183",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123910179137654894",
           "created_at": "2026-11-20T22:43:41.000Z",
@@ -169,16 +229,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123898194690023690",
-          "created_at": "2026-11-20T21:56:04.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TED NUGENT UNLOADS ON MAMDANI: “WE’RE IN THE FINAL TOILET FLUSH OF AMERICA”\n\n@TedNugent tells @ericbolling that New York City’s direction under Zohran Mamdani is a warning about what happens when leaders abandon law and order.\n\n“He's against law and order.”\n\nNugent blasts https://t.co/fMLX3wAYtW",
-          "url": "https://x.com/RealAmVoice/status/2123898194690023690",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123897210228392204",
           "created_at": "2026-11-20T21:52:09.000Z",
           "author_name": "OutKick",
@@ -229,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123891264932229190",
-          "created_at": "2026-11-20T21:28:32.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "EPIC view of the U.S. Marine Band playing on the helipad just now from RAV’s Zach Wanuga. https://t.co/K8uaGkZUq9",
-          "url": "https://x.com/RealAmVoice/status/2123891264932229190",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123888473581260980",
           "created_at": "2026-11-20T21:17:26.000Z",
           "author_name": "Sport & State",
@@ -247,16 +287,6 @@
           "url": "https://x.com/SportNState/status/2123888473581260980",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123888403217338373",
-          "created_at": "2026-11-20T21:17:09.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS edits the check being donated to “The President's Own\" U.S. Marine Band to $500,000! https://t.co/cuboKbhrOJ",
-          "url": "https://x.com/RealAmVoice/status/2123888403217338373",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123886980534612016",
@@ -299,16 +329,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123880567972474963",
-          "created_at": "2026-11-20T20:46:01.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Volatility Index, $VIX, extends gains to +35% on the day and rises above 38 for the first time since April 2025.\n\nThis puts the $VIX up +159% since October 6th. https://t.co/zqsO6DLAjK",
-          "url": "https://x.com/KobeissiLetter/status/2123880567972474963",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123880378696130759",
           "created_at": "2026-11-20T20:45:16.000Z",
           "author_name": "StockMarket.News",
@@ -329,32 +349,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123871526982390069",
-          "created_at": "2026-11-20T20:10:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Goldman Sachs' Timothy Moe says Nvidia has become the \"central bank of AI financing\" and investors are shooting first on AI\n\n\"Most recent ones, of course, are what's happened with Nvidia, and Nvidia acting as the, quote unquote, central bank of AI financing\"\n\n\"You've got the https://t.co/7l1XVdzmc2",
-          "url": "https://x.com/_Investinq/status/2123871526982390069",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123870619926430161",
           "created_at": "2026-11-20T20:06:30.000Z",
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Allie Neuzil, the wife of Ravens center Ryan Neuzil, apologized multiple times after calling Baltimore “scary” in a now-deleted TikTok.\n\nShe later posted a nearly seven-minute video explaining her comments and responding to accusations of racism.\nhttps://t.co/5jGdEuRVCA",
           "url": "https://x.com/SportNState/status/2123870619926430161",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123870451008995553",
-          "created_at": "2026-11-20T20:05:49.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Lakers/Stephen A, RJ Luis Out at LSU, Baltimore Ravens Disaster, &amp; Daniel Jones CUT https://t.co/29ObBd11Qi",
-          "url": "https://x.com/ClayTravis/status/2123870451008995553",
           "verified": true,
           "verified_type": "blue"
         },
@@ -735,6 +735,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Marine Corps hero under federal investigation",
+          "summary": "Retired Sgt. Maj.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
+        },
+        {
           "headline": "The latest from Trump's press conference",
           "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
           "source": "NPR",
@@ -745,12 +751,6 @@
           "summary": "The pace of the committee's investigations has come under scrutiny after several members were accused of sexual misconduct this year.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/house-ethics-committee-sexual-misconduct-investigations-changes/"
-        },
-        {
-          "headline": "Musk said he'd \"look into\" this disclosure law. Now it heads to court.",
-          "summary": "Two county prosecutors say the Trump administration broke the law when it exempted U.S. companies from ownership reporting.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-corporate-disclosure-lawsuit/"
         },
         {
           "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
@@ -770,6 +770,12 @@
       "id": "economy",
       "title": "Economy",
       "stories": [
+        {
+          "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+          "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        },
         {
           "headline": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
           "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
@@ -793,12 +799,6 @@
           "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant"
-        },
-        {
-          "headline": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-          "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"
         }
       ]
     },
@@ -807,34 +807,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "‘It will be difficult for him to get back to the level he has shown here’ — Bayern Munich legend unsure if Jamal Musiala can reach previous heights",
-          "summary": "(Photo by Adam Pretty/Getty Images) | Getty Images Jamal Musiala is finally back on the pitch for Bayern Munich after nearly two months on the sidelines, but there are still some significant questions about what comes next for the German international. Musiala recently made his return, logging approximately 20 minutes of playing tim e against 1.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/difficult-him-back-level-shown-223910953.html"
+          "headline": "UFC Fight Night start time for Jiri Prochazka vs. Navajo Stirling: Where to watch live on Paramount+",
+          "summary": "Top light heavyweights collide in the main event from Qatar",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/ufc/news/where-watch-ufc-fight-night-qatar-start-time-live-stream/"
         },
         {
-          "headline": "Dodgers reportedly acquire infielder Royce Lewis from Twins",
-          "summary": "The Los Angeles Dodgers have acquired infielder Royce Lewis from the Minnesota Twins, according to multiple reports. Lewis, 27, posted a slash average of .227/.287/.380 with 15 home runs, 24 doubles, 57 RBI and 16 stolen bases in 506 plate appearances.",
+          "headline": "Titans rumors: What Tennessee was demanding in Tony Pollard trade talks",
+          "summary": "Denny Simmons / The Tennessean / USA TODAY NETWORK via Imagn Images Titans rumors: What Tennessee was demanding in Tony Pollard trade talks appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/article/dodgers-reportedly-acquire-infielder-royce-lewis-from-twins-223801380.html"
+          "url": "https://sports.yahoo.com/articles/titans-rumors-tennessee-demanding-tony-231512164.html"
         },
         {
-          "headline": "Price survives match darts to reach Grand Slam semis",
-          "summary": "Gerwyn Price faces two match darts before winning a thrilling quarter-final against Nico Springer at the Grand Slam of Darts, as Luke Littler's conqueror Jermaine Wattimena is knocked out.",
+          "headline": "What's next for the Twins? Three things Minnesota must do to make a postseason push in 2027 season",
+          "summary": "Minnesota has already signed Sonny Gray and brought back Ryan Jeffers, but there's more to be done",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/whats-next-for-minnesota-twins-offseason-2027-season/"
+        },
+        {
+          "headline": "The Sporting Tribune partners with SPORT magazine to bring classic sportswriting back to life",
+          "summary": "The Sporting Tribune announced a partnership with SPORT magazine today. Under the deal, The Sporting Tribune will republish a classic story from SPORT's archive every month, along with original photos from the magazine's collection.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/sporting-tribune-partners-sport-magazine-230910734.html"
+        },
+        {
+          "headline": "Kim moves clear at LPGA finale after hole-in-one",
+          "summary": "South Korea's A-Lim Kim aces the par-three 16th on her way to claiming a three-shot lead after the second round of CME Group Tour Championship.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/darts/articles/ck7928yjd1dgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 12",
-          "summary": "A closer look at the top games on tap Saturday as college football Week 12 takes center stage",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-12-games/"
-        },
-        {
-          "headline": "Texas A&M expected to bench Marcel Reed: Aggies set to make QB change for Week 12 showdown vs. Oklahoma",
-          "summary": "With Reed struggling mightily in 2026, Texas A&M is likely turning over the reins to Brady Hart for the clash with the Sooners",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/texas-a-m-bench-marcel-reed-qb-brady-hart-oklahoma-game/"
+          "url": "https://www.bbc.co.uk/sport/golf/articles/ck62pzd7vjr0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -843,16 +843,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "‘Being Heumann’ Producers Team With Marc Furmie, Rezistor Films on Cult Comic ‘Deadworld’ Film — Film News in Brief",
-          "summary": "“Being Heumann” producers Kevin Cleary and John W. Beach, of Gravity Squared Entertainment, are joining with Marc Furmie of Rezistor Films to adapt and produce “Deadworld.” Furmie will direct from his own screenplay, an adaptation based on the original cult comic franchise from Caliber Entertainment.",
+          "headline": "‘Michael’ Won’t Be Submitted for BAFTA Awards as Filmmakers Pass on Billion-Dollar Biopic’s Entry (EXCLUSIVE)",
+          "summary": "The highest-grossing biopic ever made is sitting out one of the biggest stops on the road to the Oscars. “Michael,” Antoine Fuqua’s billion-dollar portrait of the King of Pop, will not be submitted for the 2027 EE BAFTA Film Awards, Variety has learned exclusively.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-16-2026-1236949296/"
+          "url": "https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/"
         },
         {
-          "headline": "‘He Walked So I Could Run’: ‘Project Hail Mary’ Breakout James Ortiz on Andy Serkis, Becoming Rocky and the Art of Puppetry",
-          "summary": "The reason so many of us cried at “Project Hail Mary” has five legs, no face and a voice that belongs to James Ortiz. And he’s so damn effective.",
+          "headline": "‘Home Alone’ Director Chris Columbus Said Minutes Before New Sequel Was Announced That Another Movie ‘Can’t Happen’ After Catherine O’Hara’s Death",
+          "summary": "Chris Columbus didn’t know a new “Home Alone” was coming. The director of the 1990 original spoke with Variety minutes before news broke that Disney is developing a new installment with Macaulay Culkin.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/james-ortiz-rocky-project-hail-mary-oscars-puppetry-serkis-1236954348/"
+          "url": "https://variety.com/2026/film/news/chris-columbus-home-alone-reboot-reaction-catherine-ohara-1236954497/"
         },
         {
           "headline": "Searchlight Pictures Casting Head Yesi Ramirez Leaving Division Amid Restructuring",
@@ -879,28 +879,28 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Hello Sunshine’s Lauren Neustadter to Leave Reese Witherspoon’s Company at End of Year",
-          "summary": "Lauren Neustadter, president of film and television at Reese Witherspoon’s Hello Sunshine, is set to step down from the company at the end of the year, the collaborators announced on Friday. Her exit comes after Hello Sunshine let go of about 50% of its staff last month after Witherspoon and Mediawan partnered to buy the […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/hello-sunshine-lauren-neustadter-exits-reese-witherspoon-1236954660/"
+          "headline": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
+          "summary": "EXCLUSIVE: Lionsgate’s sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in previews, and the global running cume is around $76M.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
         },
         {
-          "headline": "Lauren Neustadter Exits Reese Witherspoon’s Hello Sunshine",
-          "summary": "Lauren Neustadter, President of Film & Television at Hello Sunshine, is leaving Reese Witherspoon’s company after nearly a decade. It comes just over a month after French group Mediawan, which backs Chernin Entertainment, Slow Horses producer See-Saw Films and Brad Pitt’s Plan B, acquired the company alongside the Legally Blonde star.",
+          "headline": "Bassam Tariq On Exiting Marvel’s ‘Blade’: “Life’s Too Short To Make Sh** Films”",
+          "summary": "Bassam Tariq was once attached to direct Marvel’s Blade with Mahershala Ali, but eventually exited the project. In a new interview, the Your Mother Your Mother Your Mother director reveals why he decided not to helm the superhero movie.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lauren-neustadter-exits-reese-witherspoon-hello-sunshine-1237230709/"
+          "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728/"
+        },
+        {
+          "headline": "‘He Walked So I Could Run’: ‘Project Hail Mary’ Breakout James Ortiz on Andy Serkis, Becoming Rocky and the Art of Puppetry",
+          "summary": "The reason so many of us cried at “Project Hail Mary” has five legs, no face and a voice that belongs to James Ortiz. And he’s so damn effective.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/awards/james-ortiz-rocky-project-hail-mary-oscars-puppetry-serkis-1236954348/"
         },
         {
           "headline": "‘Four Minus Three’ Takes Cairo Film Festival’s Golden Pyramid, While ‘Summer Meadow’ Wins Three Awards and ‘The Day of Wrath’ Nabs Two",
           "summary": "Austrian filmmaker Adrian Goiginger’s “Four Minus Three” emerged as the big winner at the 47th Cairo Intl. Film Festival, taking home three awards, including the Golden Pyramid for best film, as the festival wrapped its 10-day run in the Egyptian capital on Friday.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/cairo-film-festival-2026-winners-four-minus-three-1236954657/"
-        },
-        {
-          "headline": "E.J. Carroll Dies: ‘The Deuce,’ ‘Boardwalk Empire,’ ‘Law & Order’ Actor Was 66",
-          "summary": "E.J. Carroll, a veteran character actor whose credits include The Deuce, Boardwalk Empire, Blue Bloods three Law & Order series and Grand Theft Auto V, died November 19.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -915,16 +915,16 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "CMA Awards Hit 7-Year Audience High With Taylor Swift’s Return",
-          "summary": "Taylor Swift certainly brought her fans with her back to Country Music’s Biggest Night. The 60th annual ceremony hit a seven-year audience high with 7.62 million total live + same-day viewers tuning in for the CMA Awards on Wednesday, per Nielsen Big Data + Panel.",
+          "headline": "Lauren Neustadter Exits Reese Witherspoon’s Hello Sunshine",
+          "summary": "Lauren Neustadter, President of Film & Television at Hello Sunshine, is leaving Reese Witherspoon’s company after nearly a decade. It comes just over a month after French group Mediawan, which backs Chernin Entertainment, Slow Horses producer See-Saw Films and Brad Pitt’s Plan B, acquired the company alongside the Legally Blonde star.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/cma-awards-60th-ratings-taylor-swift-abc-disney-1237230702/"
+          "url": "https://deadline.com/2026/11/lauren-neustadter-exits-reese-witherspoon-hello-sunshine-1237230709/"
         },
         {
-          "headline": "CBS News Staffers Take Buyout Offers; Less Than 10% Of Those Offered Take Package As Skydance Looks For Cost Savings",
-          "summary": "This week was a Skydance buyout deadline for employees to decide whether to accept a buyout offer, including at CBS News. The offer came following the closing of Skydance’s purchase of Warner Bros.",
+          "headline": "E.J. Carroll Dies: ‘The Deuce,’ ‘Boardwalk Empire,’ ‘Law & Order’ Actor Was 66",
+          "summary": "E.J. Carroll, a veteran character actor whose credits include The Deuce, Boardwalk Empire, Blue Bloods three Law & Order series and Grand Theft Auto V, died November 19.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/cbs-news-buyout-offers-skydance-1237230568/"
+          "url": "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599/"
         },
         {
           "headline": "‘War’ Creator George Kay on Writing the Celebrity Divorce Drama, That Shocking Season Finale and the Real Couple Who Inspired a Key Scene: ‘It’s Probably an Awful Moment in Someone’s Life’",
@@ -951,22 +951,22 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "In Canada: Billboard Canada’s 2026 Women in Music and 40 Under 40 Lists Are Out",
+          "summary": "The executive list for Billboard Canada Women in Music has dropped. The list spotlights changemaking women from across the music industry — from radio to streaming, labels, performance rights organizations, publishing, live production and more.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billboard-canada-women-in-music-40-under-40-2026-lists/"
+        },
+        {
+          "headline": "BTS & ENHYPEN Are Big Winners on Night 1 of 2026 MAMA Awards",
+          "summary": "BTS and ENHYPEN were the big winners on night 1 of the 2026 MAMA Awards , which were held Friday (Nov. 20) at the Kyocera Dome Osaka, in Japan .",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/"
+        },
+        {
           "headline": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
           "summary": "The Spanish singer said \"Wildest Dreams\" is \"one of the songs I’ve listened to the most in my entire life\"",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/"
-        },
-        {
-          "headline": "From LISA of BLACKPINK & Gracie Abrams to the ‘GTA VI’ Album, Which Music Release Is Your Favorite This Week? Vote!",
-          "summary": "The last New Music Friday before Thanksgiving is full of treats. Thirteen years after Grand Theft Auto V took over the gaming world, Rockstar Games has unleashed the sixth iteration of the wildly popular video game.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/gta-vi-lisa-blackpink-gracie-abrams-best-new-music-poll-1236386883/"
-        },
-        {
-          "headline": "Remi Wolf Earns First Billboard No. 1 as ‘Bottle’ Tops Adult Alternative Airplay",
-          "summary": "Remi Wolf scores the first Billboard No. 1 of her career as her single “Bottle” rises 2-1 on the Adult Alternative Airplay chart (dated Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/chart-beat/remi-wolf-bottle-adult-alternative-airplay-1236386842/"
         },
         {
           "headline": "Grimes Releases Two New Psy Opera Songs",
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T17:48:28-05:00"
+  "updatedAt": "2026-11-20T18:19:31-05:00"
 }
