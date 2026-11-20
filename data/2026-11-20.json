@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Six AI-powered gadgets that could make your home office smarter",
+          "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/"
+        },
+        {
           "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
           "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "A mere five years before breaking the record for the biggest public stock offering ever, Anthropic began as a Silicon Valley startup when its founders broke away from OpenAI with their own ideas about how to develop artificial intelligence",
           "source": "ABC News",
           "url": "https://abcnews.com/Technology/wireStory/anthropics-ipo-caps-explosive-growth-period-ai-startup-138312291"
-        },
-        {
-          "headline": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
-          "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "4.4-magnitude earthquake rattles Los Angeles area",
+          "headline": "4.2-magnitude earthquake rattles Los Angeles area",
           "summary": "According to the U.S. Geological Survey, the earthquake struck about a half mile north-northwest of Commerce, California, which is about 7 miles from downtown Los Angeles.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/earthquake-los-angeles-11-20-2026/"
-        },
-        {
-          "headline": "Mayor Mamdani announces plan to shut down Rikers Island",
-          "summary": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/"
-        },
-        {
-          "headline": "White House removes cyber-security chief after series of tech outages",
-          "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Pair charged over RAF Fairford plot to face trial next November",
-          "summary": "Mohmed Abdulkarim and Nouman Essghir are both charged under the National Security Act after vans filled with petrol were driven to the airbase.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr930nv52350o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "House Democrat probes agencies' use of messaging apps to discuss official business",
           "summary": "A top House Democrat is investigating the use of encrypted messaging apps by Justice Department employees to communicate official business",
           "source": "ABC News",
           "url": "https://abcnews.com/Technology/wireStory/house-democrat-investigates-government-agencies-messaging-apps-discuss-138315690"
+        },
+        {
+          "headline": "Arteta warns Arsenal players over FPL team news leak",
+          "summary": "Mikel Arteta says his Arsenal players have been warned against inadvertently leaking team news via Fantasy Premier League.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Flooding prompts hundreds of water rescues in Florida",
+          "summary": "The St. Johns River in Florida reached a new record high, crossing over 18 feet for the first time ever.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/florida-flooding-rain-brevard-county/"
+        },
+        {
+          "headline": "Calls for consent defence change after Joanne Young rape case",
+          "summary": "Joanne Young's daughter joins her mother in calling for a change to the law on consent.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123781565734130157",
+          "created_at": "2026-11-20T14:12:37.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jazan under a potential danger alert from Saudi Civil Defense.",
+          "url": "https://x.com/Osint613/status/2123781565734130157",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123779679421395124",
+          "created_at": "2026-11-20T14:05:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "ARK Invest's Cathie Wood says Anthropic is ARK's best performing equity by far, and in the dot-com bubble it would have tripled on day one\n\n\"We've owned Anthropic since early '23. It's our best performing equity by far in ARKVX, our venture fund\"\n\n\"We post our trades every day, https://t.co/JrAFcptAjg",
+          "url": "https://x.com/_Investinq/status/2123779679421395124",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123778249238946036",
+          "created_at": "2026-11-20T13:59:27.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "I'll spare no one on this\n\nVery few are the truth seekers\n\nI'd say 90% of politics is \"how can I convince you to give me your money\" https://t.co/59z9B0MLx8",
+          "url": "https://x.com/Timcast/status/2123778249238946036",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123777868593582354",
+          "created_at": "2026-11-20T13:57:56.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/20/26 https://t.co/sDQCjsRhGl",
+          "url": "https://x.com/glennbeck/status/2123777868593582354",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123777305839325534",
+          "created_at": "2026-11-20T13:55:42.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A bulk carrier's armed security team returned warning shots after a skiff with 6 armed individuals fired on the ship 95NM southwest of Al Mukalla, Yemen.\n\nThe skiff pulled away. No damage, no injuries.\n\nUKMTO https://t.co/3deCDgFnaW",
+          "url": "https://x.com/Osint613/status/2123777305839325534",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123776070239580596",
+          "created_at": "2026-11-20T13:50:47.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Board of Peace:\n\n 'The ISF welcomes additional officers from the Royal Moroccan Army. \n\nThey’ll add capacity to medical operations and logistics planning. Important contributions.'",
+          "url": "https://x.com/Osint613/status/2123776070239580596",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123774922237563272",
           "created_at": "2026-11-20T13:46:13.000Z",
@@ -105,16 +165,6 @@
           "author_handle": "Osint613",
           "text": "NYC Mayor Zohran Mamdani: Rikers Island will close by the end of 2032.\n\nFour smaller borough-based jails will replace it, opening from 2029.  https://t.co/BqGc4ThJfS",
           "url": "https://x.com/Osint613/status/2123771826610553047",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123770761433215403",
-          "created_at": "2026-11-20T13:29:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Footage claims Oil Tankers belonging to Iran are heading to China for export.\n\nIf true, things are about to get interesting. https://t.co/NnnfZLD5Hs",
-          "url": "https://x.com/Osint613/status/2123770761433215403",
           "verified": true,
           "verified_type": "blue"
         },
@@ -195,26 +245,6 @@
           "author_handle": "Osint613",
           "text": "Wondering if @SecRubio watched this yet. \n\nWhat an operation! https://t.co/KL3ghnYtR0",
           "url": "https://x.com/Osint613/status/2123761074424189435",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123760937714766155",
-          "created_at": "2026-11-20T12:50:39.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "CBS Report: Prime Minister Benjamin Netanyahu is pressing for a joint U.S.-Israeli campaign against Iran in the near term. President Trump has not decided whether to order new military action.",
-          "url": "https://x.com/Osint613/status/2123760937714766155",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123759803025498319",
-          "created_at": "2026-11-20T12:46:09.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hezbollah has asked Iran to exempt it from taking part in another war, citing a lack of the means needed to fight one, according to Lebanese newspaper Nidaa al-Watan. \n\nThe paper, which is aligned with Hezbollah's opponents, said the message was delivered during a recent",
-          "url": "https://x.com/Osint613/status/2123759803025498319",
           "verified": true,
           "verified_type": "blue"
         },
@@ -375,16 +405,6 @@
           "author_handle": "_Investinq",
           "text": "Dan Ives says tech is in a dark period but we're less than 15% through the AI buildout\n\n\"We're going through a dark period for tech\"\n\n\"It's a panic moment, but it's not stopping\"\n\n\"I think we're going to look back on this period, just like April 2025, Liberation Day, and March https://t.co/flVDJ1DSBR",
           "url": "https://x.com/_Investinq/status/2123627446016885082",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123621132087775238",
-          "created_at": "2026-11-20T03:35:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Fundstrat's Tom Lee says this tech selloff looks like Cisco in 1997 and it feels like max pain\n\n\"I think that this is a pretty healthy correction in tech and it's allowing the narratives to reset\"\n\n\"Very similar to 1997 when Cisco fell almost 50% in three months... the year later https://t.co/lz3wdOdar5",
-          "url": "https://x.com/_Investinq/status/2123621132087775238",
           "verified": true,
           "verified_type": "blue"
         },
@@ -669,16 +689,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123415807346557213",
-          "created_at": "2026-11-19T13:59:14.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/19/26 https://t.co/uvJLf0tR49",
-          "url": "https://x.com/glennbeck/status/2123415807346557213",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123399890914967867",
           "created_at": "2026-11-19T12:55:59.000Z",
           "author_name": "Matt Walsh",
@@ -765,6 +775,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy",
+          "summary": "Georgia Democrat Stacey Abrams is retooling the Fair Fight organization that she started to advocate for voter protection and ballot access after she lost the governor's race in 2018",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/stacey-abrams-plans-refocus-fair-fight-voting-rights-138316451"
+        },
+        {
           "headline": "Musk said he'd \"look into\" this disclosure law. Now it heads to court.",
           "summary": "Two county prosecutors say the Trump administration broke the law when it exempted U.S. companies from ownership reporting.",
           "source": "CBS News",
@@ -787,12 +803,6 @@
           "summary": "With Democrats set to take decisive House and Senate majorities, some members want to pressure the Trump administration to end the Iran war. The exact plan is not clear.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/"
-        },
-        {
-          "headline": "From MAGA stardom to a U-Haul: Lauren Boebert considers her own and GOP's losses",
-          "summary": "Rep. Lauren Boebert is packing up her congressional office after losing her seat in the midterm elections",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/maga-stardom-haul-lauren-boebert-considers-gops-losses-138305606"
         }
       ]
     },
@@ -801,16 +811,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-          "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
+          "headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+          "summary": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
         },
         {
-          "headline": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-          "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
+          "headline": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+          "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+        },
+        {
+          "headline": "UN climate talks in Turkey risk being ‘worst COP ever’ as fossil fuels go unmentioned",
+          "summary": "Negotiators are still seeking concrete commitments for nations to transition away from fossil fuels, as this year's U.N. climate summit reaches its final day",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/nations-seek-deeper-fossil-fuel-cuts-annual-climate-138313843"
         },
         {
           "headline": "Meet Anthropic's 7 co-founders, now worth about $20 billion each",
@@ -823,12 +839,6 @@
           "summary": "Employees empty freezers after a hacker attack raised the temperature in the freezers to 50 degrees Celsius (Photo by Johan NILSSON / TT NEWS AGENCY / AFP via Getty Images) / Sweden OUT '/> In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but…",
           "source": "NPR",
           "url": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks"
-        },
-        {
-          "headline": "Critics are worried about Anthropic's influence after first day of public trading",
-          "summary": "Anthropic's initial public offering was a success for shareholders, including its founders. But there were also protests about whether the company can be a responsible steward of AI technology.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6047539/critics-are-worried-about-anthropics-influence-after-first-day-of-public-trading"
         }
       ]
     },
@@ -837,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Rays non-tender deadline preview",
-          "summary": "ST PETERSBURG, FLORIDA - OCTOBER 05: Bryan Baker #47 and Jonathan Aranda #8 of the Tampa Bay Rays celebrate defeating the New York Yankees 5-2 in game two of the American League Division Series at Tropicana Field on October 05, 2026 in St Petersburg, Florida. (Photo by Mike Stobe/Getty Images) | Getty Images Today at 5:00pm, the deadline will pass for…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/rays-non-tender-deadline-preview-134251067.html"
-        },
-        {
-          "headline": "Panthers among playoff hopefuls with most at stake in Week 11",
-          "summary": "A lot may tilt, either one way or the other, for the Carolina Panthers and their postseason hopes this Sunday. According to Pro Football Focus, the reigning NFC South champions are one of several teams with the most at stake in Week 11.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/panthers-among-playoff-hopefuls-most-134028894.html"
-        },
-        {
-          "headline": "Durham appoint Gibson as head coach",
-          "summary": "Durham appoint Ottis Gibson as their new head coach on a three-year deal.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cq7829rd3z57o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Southampton give head coach Eckert new deal",
-          "summary": "Southampton head coach Tonda Eckert signs a new contract at the club through until 2029.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwm25yx3kj5lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "NFL odds, picks, predictions: Cowboys, Vikings part of Week 11 parlays involving favorites, underdogs",
-          "summary": "SportsLine football expert Mike Tierney locks in his top parlays for Week 11 NFL games",
+          "headline": "NFL Week 11 picks, best bets: Why 49ers beat Vikings in primetime, Bengals cover vs. Commanders",
+          "summary": "Jordan Dajani gives his picks for Week 11 of the 2026 NFL season",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-predictions-cowboys-vikings-part-of-week-11-parlays-involving-favorites-underdogs/"
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-picks-best-bets-49ers-vikings-bengals-commanders/"
+        },
+        {
+          "headline": "Mahela Jayawardene takes charge of Delhi Capitals' WPL cricket operations ahead of 2027 season",
+          "summary": "NEW DELHI: Sri Lankan great Mahela Jayawardene has joined Delhi Capitals as Director of Cricket for their Women's Premier League (WPL) team ahead of the 2027 season, bringing his considerable international and franchise cricket experience to the franchise's leadership setup. The JSW and GMR co-owned franchise announced the appointment on Friday, with…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mahela-jayawardene-takes-charge-delhi-140800739.html"
+        },
+        {
+          "headline": "Lions' Aidan Hutchinson says he'll make big change after season-ending injury",
+          "summary": "Aidan Hutchinson is keeping his feet on the ground going forward. The Detroit Lions star edge rusher saw his season come to an end during the team's 35-10 victory over the New England Patriots in Germany on Nov.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/lions-aidan-hutchinson-says-hell-140544763.html"
+        },
+        {
+          "headline": "Week 11 bold predictions: Fernando Mendoza upsets Broncos, Tony Pollard breaks Cowboys",
+          "summary": "Plus, Jahmyr Gibbs dominates Tampa Bay's No. 1 run defense",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-bold-predictions-fernando-mendoza-raiders-broncos/"
+        },
+        {
+          "headline": "Key questions as Scottish Premiership returns",
+          "summary": "The Scottish Premiership returns with managers to the fore - this is all you need to know about Saturday's games.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c50mdwnn90jyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -872,6 +882,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Bo Derek Is Still a ‘10’ at 70: “It All Worked Out, Didn’t It?”",
+          "summary": "Forty-seven years after the racy rom-com made her a generational sex symbol, Derek opens up about the surprising origins of her iconic braids, her scandalous first marriage and the Hollywood career she never really wanted",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/bo-derek-interview-fame-love-life-10-1236757273/"
+        },
         {
           "headline": "Layton Williams Joins Amazon MGM’s Racing Romance ‘Throttled’ Alongside Nicole Wallace, Josh Heuston and Mia McKenna-Bruce (EXCLUSIVE)",
           "summary": "Layton Williams is the latest to join the cast of Amazon MGM Studios’ upcoming romance film “Throttled,” based on the bestselling book from Lauren Asher’s “Dirty Air” series. Variety understands that the “Bad Education,” “Geek Girl” and “I Hate Suzie” star will play a new character not in the books called Dorian, who serves as […]",
@@ -895,12 +911,6 @@
           "summary": "Andrew Scott plays real-life actor Ian Charleson, playing his final role — Hamlet, at the National Theatre in London — while dying of AIDS. (Image credit: Anthony Dickenson)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6046179/elsinore-review"
-        },
-        {
-          "headline": "“Learn From the Mistakes of Mentors”: The Head of Tallinn’s Discovery Campus Is All About Bridging Film Education and Industry",
-          "summary": "Sri Lankan cinematographer Dhanushka Gunathilake took over the talent and industry platform of the Tallinn Black Nights Film Festival's Industry@Tallinn & Baltic Event this year. And he has ambitious plans.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-discovery-campus-head-dhanushka-gunathilake-plans-1236759902/"
         }
       ]
     },
@@ -909,34 +919,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Kieran Culkin Reveals He’s Reuniting With ‘Succession’ Creator Jesse Armstrong On Movie",
-          "summary": "Kieran Culkin and Jesse Armstrong are getting the rotten cabal back together. Culkin revealed that he is planning to reunite with the Succession creator on a new movie, though he didn’t disclose any further details about the project.",
+          "headline": "Venice Audience Award Winner ‘Ish’ Gets North American Deal With Watermelon Pictures",
+          "summary": "EXCLUSIVE: Watermelon Pictures has acquired North American distribution rights from Global Constellation to coming-of-age drama Ish out of the American Film Market. The feature directorial debut of British artist and filmmaker Imran Perretta won the Audience Award at the 2025 Venice International Film Festival’s Critics’ Week.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/kieran-culkin-reunite-succession-jesse-armstrong-movie-1237230018/"
+          "url": "https://deadline.com/2026/11/ish-british-film-venice-north-america-deal-watermelon-1237230036/"
         },
         {
-          "headline": "Meet Some of the Unsung Heroes Who Keep NBC Moving as It Celebrates 100 Years",
-          "summary": "As NBC celebrates its 100th anniversary this year, the company has been recognizing some of its most memorable stars, TV shows, producers and even executives. But NBC couldn’t run without some of its unsung heroes — the staffers who do the day-to-day work behind the scenes, usually with very little fanfare.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/nbc-unsung-heroes-celebrate-100-years-1236953820/"
-        },
-        {
-          "headline": "‘Best Pancakes in the County’ Review: Nicolas Cage Stars in a Thriller You Could Fairly Describe as Tarantino Lite",
-          "summary": "From “The Petrified Forest” to “When You Comin’ Back, Red Ryder?” to “Albino Alligator” and beyond, playwrights and filmmakers have long relied on the same claustrophobic premise: Disparate characters are stranded in a diner and pushed to extremes by cold-blooded, gun-toting bad guys. (OK, “Albino Alligator” actually was set in a New Orleans bar, but […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/reviews/best-pancakes-in-the-county-review-1236953984/"
-        },
-        {
-          "headline": "DramaBox Ties Knot With Toyota’s Indian Wedding Microdrama ‘3 Days Till I Do’",
-          "summary": "EXCLUSIVE: DramaBox’s latest microdrama original will be set around an Indian wedding. 3 Days Till I Do is now playing on the vertical video app.",
+          "headline": "Fremantle Group COO Andrea Scrosati Exiting After Eight Years",
+          "summary": "Andrea Scrosati is leaving Got Talent and Baywatch producer Fremantle after eight years to launch “a new entrepreneurial venture.” The exec will stay in his role as Fremantle Group COO and CEO of Continental Europe until the end of January 2027. Announcement of his exit comes three days after Deadline revealed Fremantle U.S.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/dramabox-toyota-3-days-till-i-do-microdrama-1237230006/"
+          "url": "https://deadline.com/2026/11/fremantle-group-coo-andrea-scrosati-exiting-1237230017/"
         },
         {
-          "headline": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
-          "summary": "Rockstar Games has finally revealed the cast behind \"Grand Theft Auto VI,\" ending years of secrecy",
+          "headline": "‘Presumed Innocent’ Season 2 Sets Premiere Date as Apple Releases Teaser With Rachel Brosnahan and Matthew Rhys",
+          "summary": "New season, new case, new lies. The Apple TV legal anthology thriller “Presumed Innocent” is back for Season 2 on Feb.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/presumed-innocent-season-2-release-date-trailer-1236953834/"
+        },
+        {
+          "headline": "Andrea Scrosati, Architect of Fremantle’s M&A Drive and Push Into Film, Leaving Company to Start New Venture",
+          "summary": "Andrea Scrosati, the Italian business exec was behind Fremantle’s aggressive expansion plan that saw it move into film with several high-profile investments, is set to leave the company after eight years to launch a new entrepreneurial venture. Currently Group OO and CEO of continental Europe, Scrosati will remain at Fremantle until the end of January […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/global/andrea-scrosati-leaving-fremantle-start-new-venture-1236954154/"
+        },
+        {
+          "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
+          "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
           "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/gta-vi-finally-reveals-actors-voices-familiar-names-138303553"
+          "url": "https://abcnews.com/Entertainment/wireStory/unflinching-josephine-beth-de-arajo-transmutes-tragedy-art-138317266"
         }
       ]
     },
@@ -944,6 +954,18 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Rachel Brosnahan-Led ‘Presumed Innocent’ Sets Season 2 Release Date, Unveils First Photos Of Matthew Rhys, Courtney B. Vance & More",
+          "summary": "Apple TV has slotted Friday, February 19 for the Season 2 premiere of its critically acclaimed anthology series Presumed Innocent, from David E. Kelley and J.J.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/presumed-innocent-season-2-release-date-photos-teaser-1237229678/"
+        },
+        {
+          "headline": "International Insider: Pattinson Becomes Bond; SkyShowtime Shutting Down; The Brit List",
+          "summary": "We’re shaken and stirred after this week in film and TV, Insiders. Jesse Whittock with you to recall events as the world was introduced to the latest James Bond.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/international-insider-robert-pattinson-james-bond-1237229978/"
+        },
         {
           "headline": "Candle Media’s Kevin Mayer Says ‘Urge to Merge’ Will Last Several Years as Revenue Growth Stalls",
           "summary": "If there is one thing Candle Media founder Kevin Mayer understands, it is mergers. The exec oversaw Disney’s 2019 acquisition of 21st Century Fox during his term as the company’s chief strategy officer, where he was also involved in Disney’s acquisition of Pixar, Marvel, Lucasfilm and BAMTech.",
@@ -955,18 +977,6 @@
           "summary": "Kieran Culkin has let slip that he’s reuniting with Jesse Armstrong for the first time since “Succession” came to an end three years ago — but that it’s got nothing to do with Roman Roy. “I’m about to work with Jesse on a movie — he wrote something,” he told the U.K.’s Heart Breakfast radio on […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/kieran-culkin-new-movie-succession-creator-jesse-armstrong-1236954101/"
-        },
-        {
-          "headline": "Criterion Channel Acquires Three Shorts By Tomisin Adepeju. The Filmmaker Talks Directing & His Popular Dailies Workshop Series",
-          "summary": "The Criterion Channel has acquired three short films by the London-based Nigerian British filmmaker Tomisin Adepeju. The three films, Appreciation (2019), Journey Mercies (2023), and Lift Me Up (2026), will be available to stream on Criterion from December 1.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/tomisin-adepeju-criterion-channel-dailies-1237229983/"
-        },
-        {
-          "headline": "‘Christina Aguilera: Christmas In Paris’ Producer Vertigo Live Faces Closure Over Unpaid Tax Bill",
-          "summary": "EXCLUSIVE: Vertigo Live Productions, the British company behind music specials like CBS’s Christina Aguilera: Christmas in Paris, is facing the threat of liquidation over an unpaid tax bill. HM Revenue & Customs is pursuing a “winding-up petition” against Vertigo Live Productions Limited, which in the UK is often the last resort taken by a creditor […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/christina-aguilera-cbs-producer-vertigo-live-closure-threat-1236971977/"
         },
         {
           "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
@@ -1013,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T08:49:24-05:00"
+  "updatedAt": "2026-11-20T09:16:38-05:00"
 }
