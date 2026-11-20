@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Apple may be developing its own AI agent that runs your Mac",
+          "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+        },
+        {
           "headline": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
           "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
           "source": "TechCrunch",
@@ -13,7 +19,7 @@
         },
         {
           "headline": "Anthropic rival says companies can (mostly) skip the pricey models",
-          "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+          "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/"
         },
@@ -28,12 +34,6 @@
           "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
-        },
-        {
-          "headline": "A brief history of Nvidia’s recent stock fluctuations",
-          "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-          "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+          "headline": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+          "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Next round of BBC cuts will be more noticeable to audiences, report warns",
-          "summary": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
+          "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
+          "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
         },
         {
-          "headline": "Trump pardons late baseball great Pete Rose after historic China trip",
-          "summary": "On the way back from his Asia trip, President Donald Trump said Thursday he issued a \"complete and total pardon\" to baseball legend Pete Rose, who died in 2024.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-pardons-late-baseball-great-pete-rose-after/story?id=138304528"
+          "headline": "2-year-old who went missing in desert found by volunteer",
+          "summary": "Jay Stewart was overcome with emotion during a news conference as he recalled the moment he found a missing 2-year-old curled up under a bush just after midnight on Wednesday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/missing-2-year-old-found-arizona-desert/"
         },
         {
-          "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-          "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+          "headline": "'The bravest woman in Britain' and 'Silence is not an option'",
+          "summary": "Joanne Young, whose husband drugged and advertised her for sex online, is pictured on a number of front pages.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck1wr0dg9vwxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "WATCH: Motorcyclist survives after fiery crash with Tesla",
+          "summary": "A motorcyclist walked away from a fiery crash on an L.A. freeway after suddenly being cut off by a Tesla in the left lane.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138305515/"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123584834266419277",
+          "created_at": "2026-11-20T01:10:53.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Black woman claims that black people invented almost every modern invention, including the cell phone &amp; air conditioning.\n\nhttps://t.co/Joc9YToFLj",
+          "url": "https://x.com/RealAmVoice/status/2123584834266419277",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123583385121796241",
+          "created_at": "2026-11-20T01:05:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "George Noble says Nvidia is probably the biggest case of industrial espionage and fraud in US stock market history\n\n\"I believe NVIDIA is probably the biggest case of industrial espionage, stroke, fraud in the history of the U.S. stock market\"\n\n\"It's very clear that billions and https://t.co/w5onWuqVhZ",
+          "url": "https://x.com/_Investinq/status/2123583385121796241",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123582573435920820",
+          "created_at": "2026-11-20T01:01:54.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Poetry in its oldest was compression of reality into form so sharp it carried mythic weight.\n\nThat’s because in the ancient world, poetry wasn’t “art” in the decorative sense, it was the operating system of culture. Before books, before mass literacy, before archives, the only",
+          "url": "https://x.com/_The_Prophet__/status/2123582573435920820",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123582273849069995",
+          "created_at": "2026-11-20T01:00:42.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "WE WERE ATTACKED, AI Cyber Attack CONFIRMED, Head Of Cyber RESIGNS https://t.co/pfW8ssphQN",
+          "url": "https://x.com/Timcast/status/2123582273849069995",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123581635480478139",
+          "created_at": "2026-11-20T00:58:10.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Every day, there’s something crashing now. First the FAA and Microsoft, then the banks and the NSA and now a power blip in South Carolina that sent a surge through the water system. \n\nHonestly, I don’t know why all of this is happening at once. I can’t tell you it’s an attack or https://t.co/AMwYX7A8Ij",
+          "url": "https://x.com/glennbeck/status/2123581635480478139",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123580335229370574",
+          "created_at": "2026-11-20T00:53:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP IS BOXING CHINA IN WITHOUT FIRING A SHOT\n\n@JoshJPhilipp says the real story behind the historic Trump-Xi-Putin meeting is Trump’s effort to stop wars before they spread — especially around Taiwan and Iran.\n\n“I think behind the scenes, Trump's main interest is to stop the https://t.co/maQzRAKPXh",
+          "url": "https://x.com/RealAmVoice/status/2123580335229370574",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123580203922518349",
+          "created_at": "2026-11-20T00:52:29.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Parents need to teach their children boundaries. \n\nI know people will get angry by me saying this, but you take your children to the zoo to see animals, not to behave like animals.\n\nFiona the Hippo should still be alive. Poor parenting killed a beautiful Hippo. \n\nHow tragic. https://t.co/oHNJFVkJO5",
+          "url": "https://x.com/LauraLoomer/status/2123580203922518349",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123579829463536039",
+          "created_at": "2026-11-20T00:51:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Acting is harder than people think. Ray Allen was a great basketball player, but watching him act alongside Denzel Washington in He Got Game was like watching me play against Michael Jordan. Sophie Cunningham would struggle as a Bond girl. Sydney Sweeney is the obvious choice. https://t.co/BadBROZXLc",
+          "url": "https://x.com/ClayTravis/status/2123579829463536039",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123578440561434806",
           "created_at": "2026-11-20T00:45:29.000Z",
@@ -219,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123565030159356164",
-          "created_at": "2026-11-19T23:52:11.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "KEITH SELF: HINOJOSA IS “GASLIGHTING TEXAS”\n\n@RepKeithSelf says Texans should not buy Gina Hinojosa’s promise to govern as a moderate.\n\n“When both she and Talarico were in the Texas House, she was to the left of Talarico.”\n\nSelf points to already-filed anti-gun legislation and https://t.co/Yy20TEOfYv",
-          "url": "https://x.com/RealAmVoice/status/2123565030159356164",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123565025311002889",
           "created_at": "2026-11-19T23:52:10.000Z",
           "author_name": "Glenn Beck",
@@ -309,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123556764788588809",
-          "created_at": "2026-11-19T23:19:21.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Why do all of you Jew hating Tucker sycophants and Tucker employees accuse everyone who exposes you of being “mentally ill”? \n\nI save the tweets because it’s important for the public to see we aren’t making it up when we say people like you in the Woke Reich ecosystem hate Jews https://t.co/q454cRE9U2",
-          "url": "https://x.com/LauraLoomer/status/2123556764788588809",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123556312290337250",
           "created_at": "2026-11-19T23:17:33.000Z",
           "author_name": "Clay Travis",
@@ -335,26 +395,6 @@
           "author_handle": "SportNState",
           "text": "President Donald Trump pardoned MLB hit king Pete Rose on Thursday, more than two years after Rose's death at age 83. Rose pleaded guilty to federal tax crimes in 1990.\nhttps://t.co/oJm6DnEURh",
           "url": "https://x.com/SportNState/status/2123555891983343973",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123555671111012721",
-          "created_at": "2026-11-19T23:15:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "14 CHARGED IN $22.5 MILLION TRAIN CARGO THEFT RING\n\nTwenty-one-year-old Nathan Daniel Angel of East Los Angeles and 13 co-defendants have been federally charged in an alleged $22.5 million cargo theft conspiracy targeting at least 36 freight trains across Southern California.",
-          "url": "https://x.com/RealAmVoice/status/2123555671111012721",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123551974327210238",
-          "created_at": "2026-11-19T23:00:19.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Partners Group's Anastasia Amoroso says the hyperscalers earn 25% to 50% returns on invested capital\n\n\"I am bullish on the hyperscalers\"\n\n\"They have performance obligations of $3.2 trillion, but guess what? They also have a backlog of revenues they expect, which is about the https://t.co/nLjA6Cb39x",
-          "url": "https://x.com/_Investinq/status/2123551974327210238",
           "verified": true,
           "verified_type": "blue"
         },
@@ -415,16 +455,6 @@
           "author_handle": "glennbeck",
           "text": "Last week in Brussels, about 50 Muslim imams walked into a European Parliament building and begged Europe to wake up. They told lawmakers straight up that they’ve confused “openness with blindness” and that radical Islam is taking advantage of it.\n\nThe radical Islamists responded https://t.co/xFyMc8mDXy",
           "url": "https://x.com/glennbeck/status/2123540703385186404",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123537639479328855",
-          "created_at": "2026-11-19T22:03:21.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The Clay Travis Special is live in the @HardRockBet app. I've got Tennessee to win and the Under for Saturdays game. If I'm right, you win. If I'm wrong, you get up to $1,500 back in bonus bets. Pretty good deal. https://t.co/6TEbfjBhUA",
-          "url": "https://x.com/ClayTravis/status/2123537639479328855",
           "verified": true,
           "verified_type": "blue"
         },
@@ -525,16 +555,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️The white-collar compression thesis we published for Signal Core back in March is moving much faster into reality now.\n\nLayoffs, hiring compression, AI substitution, and the repricing of professional work are no longer isolated signals.\n\nWe’re working on the next update for https://t.co/GYSuNKBNXC",
           "url": "https://x.com/_The_Prophet__/status/2123503856705523798",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123502635701666013",
-          "created_at": "2026-11-19T19:44:15.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️The real phase change in cyber is that the attacker is no longer constrained by attention.\n\nHuman hackers had to choose targets.\n\nAI agents do not.\n\nThey can scan thousands of systems, test weaknesses, learn from failed attempts, and return immediately with a modified strategy. https://t.co/7tEemb8B3u",
-          "url": "https://x.com/_The_Prophet__/status/2123502635701666013",
           "verified": true,
           "verified_type": "blue"
         },
@@ -689,16 +709,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123219812117606895",
-          "created_at": "2026-11-19T01:00:25.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "CYBER ATTACKS CONFIRMED, Elon Musk Warns Of WW3 On Trip With Trump To China https://t.co/1Z1LiJN43T",
-          "url": "https://x.com/Timcast/status/2123219812117606895",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123212911640223945",
           "created_at": "2026-11-19T00:33:00.000Z",
           "author_name": "Matt Walsh",
@@ -775,10 +785,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Iowa residents asked to evacuate Friday ahead of Army detonation",
-          "summary": "The Army plans to detonate 68 barrels of degraded lead azide in Middletown, Iowa, at noon Friday. Forecasts show a dust plume moving north and staying west of the Chicago area, but sampling will determine where lead lands.",
+          "headline": "Army delays detonation in Iowa that could send toxic dust into Illinois",
+          "summary": "The U.S. Army has delayed plans to detonate unstable explosives at a munition plant in Iowa, amid concerns about the risks of a plume of dust containing toxic lead particles that could spread across parts of Iowa and Illinois.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+        },
+        {
+          "headline": "Musk says he's \"not MAGA,\" feels \"foolish\" about midterm spending",
+          "summary": "After opening his wallet to assist GOP candidates in the 2026 midterms, billionaire Elon Musk said Wednesday he feels \"pretty foolish\" about spending hundreds of millions of dollars in the race.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
         },
         {
           "headline": "White House national cyber director leaving his post, official says",
@@ -797,12 +813,6 @@
           "summary": "President Trump said Thursday he has granted a \"Complete and Total Pardon\" to Pete Rose, MLB's late all-time hits leader who was banned from the league for gambling.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/pete-rose-pardoned-by-trump/"
-        },
-        {
-          "headline": "Trump’s CISA pick rejects Jan. 6 as an 'attack,' won't name 2020 election winner",
-          "summary": "Michael LoSapio, President Donald Trump's nominee to lead the Cybersecurity and Infrastructure Security Agency, says he doesn't consider the Jan_ 6 Capitol insurrection an \"attack.\"",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268"
         }
       ]
     },
@@ -811,22 +821,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+          "headline": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+          "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
         },
         {
-          "headline": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-          "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html"
-        },
-        {
-          "headline": "AMD dives on short seller report of alleged China exposure",
-          "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+          "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
+          "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
         },
         {
           "headline": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
@@ -835,10 +839,16 @@
           "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         },
         {
-          "headline": "Anthropic was supposed to save the AI trade. What went wrong?",
-          "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+          "headline": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+          "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html"
+          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+        },
+        {
+          "headline": "Market hit by major stock selloff after Anthropic's record-breaking IPO",
+          "summary": "The three big market indexes all posted losses on Thursday amid AI fears linked to Nvidia's recent scandal, despite Anthropic's record-breaking IPO. Jo Ling Kent reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/market-hit-by-major-stock-selloff-after-anthropics-record-breaking-ipo/"
         }
       ]
     },
@@ -847,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Rockies reportedly acquiring RHPs Luis Castillo, Davis Martin in trade that sends White Sox pair of prospects",
-          "summary": "The Colorado Rockies have finished with MLB’s worst ERA five seasons in a row. Their altitude problem isn’t going anywhere, but they’re hoping to ameliorate their pitching situation this offseason.",
+          "headline": "UTSA-UAB football: How to watch as Roadrunners continue to balance penalties with physicality",
+          "summary": "UTSA head coach Jeff Traylor disputes a call during a timeout in the game against Texas at Darrell K Royal?Texas Memorial Stadium on Saturday, Sep. 19, 2026 in Austin.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/breaking-news/article/rockies-reportedly-acquiring-rhps-luis-castillo-davis-martin-in-trade-that-sends-white-sox-pair-of-prospects-004514867.html"
+          "url": "https://sports.yahoo.com/articles/utsa-uab-football-watch-roadrunners-010622784.html"
         },
         {
-          "headline": "NFL Expert Names New York Jets’ Aaron Glenn as Head Coach in Most Danger to Get Fired",
-          "summary": "New York Jets coach Aaron Glenn is facing growing pressure after relinquishing defensive play-calling duties during a disappointing season. The decision to hand those responsibilities to coordinator Brian Duker has intensified questions about Glenn’s ability to fix the unit he identified as his strength.",
+          "headline": "Tom Brady’s Role May Block Bears-Jaguars Flex Plan",
+          "summary": "Kevin Jairaj-Imagn Images Chicago Bears fans have high hopes for the Week 13 matchup against the Jacksonville Jaguars. Both teams sit at 7-2 and look like serious playoff threats.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/nfl-expert-names-york-jets-004323675.html"
+          "url": "https://sports.yahoo.com/articles/tom-brady-role-may-block-010326098.html"
         },
         {
-          "headline": "Bhayshul Tuten not on practice field Thursday",
-          "summary": "Jacksonville Jaguars RB Bhayshul Tuten (ankle, foot) did not participate in practice Thursday, Nov. 19.",
+          "headline": "Midland College esports tournament combines gaming competition with holiday giving",
+          "summary": "MIDLAND Midland College is bringing competitive gaming and holiday giving together for its North Pole Brawl Esports Tournament on Saturday, Dec. 5.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bhayshul-tuten-not-practice-field-004152210.html"
+          "url": "https://sports.yahoo.com/articles/midland-college-esports-tournament-combines-010300782.html"
         },
         {
-          "headline": "Is Jim Harbaugh On the Hot Seat Amid Chargers’ Abysmal Season?",
-          "summary": "Jim Harbaugh has secured his first victory of the 2026 season, but the Los Angeles Chargers’ broader problems remain unresolved. The win ended the threat of an 0-17 campaign, yet it did little to erase the questions surrounding the coach and his team’s direction.",
+          "headline": "Jakobi Meyers remains limited at practice",
+          "summary": "Jacksonville Jaguars WR Jakobi Meyers (ankle) was limited during practice Thursday, Nov. 19.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/jim-harbaugh-hot-seat-amid-004138807.html"
+          "url": "https://sports.yahoo.com/articles/jakobi-meyers-remains-limited-practice-010146654.html"
         },
         {
-          "headline": "LSU Backtracks on Rostering Ex-NBA Player",
-          "summary": "On Wednesday, LSU exercised the nuclear option in its cold war with the SEC: the men’s basketball program allowed former G Leaguer RJ Luis Jr to play. Less than 24 hours later, the school indicated it won’t do so again.",
+          "headline": "Aron leaves Alpine and emerges as a contender for a coveted race seat",
+          "summary": "Paul Aron has parted ways with Alpine and appears to be preparing for a return as a full-time driver. The Estonian was already in action this week during the Formula E test in Madrid.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lsu-backtracks-rostering-ex-nba-003923536.html"
+          "url": "https://sports.yahoo.com/articles/aron-leaves-alpine-emerges-contender-010100285.html"
         }
       ]
     },
@@ -882,6 +892,18 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
+          "summary": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year. Founded in 2015 by Geena Davis, the festival fosters and celebrates authentic storytelling through film screenings, industry conversations and community experiences.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/"
+        },
+        {
+          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
+          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
+        },
         {
           "headline": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
           "summary": "Black Bear has acquired the North American rights to Bill Hader’s feature directorial debut “They Know.” Hader also wrote and stars in the horror-thriller with Linda Cardellini. Based on an idea from Hader and his “Barry” collaborator Duffy Boudreau, “‘They Know’ follows a divorced dad who becomes increasingly suspicious and paranoid that his ex-wife’s…",
@@ -899,18 +921,6 @@
           "summary": "After a thriller set as Kabul braces for the Taliban, the actress says her mind is on the state of the world and not on her next role.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-features/iran-star-golshifteh-farahani-when-she-hears-the-bells-film-1236759198/"
-        },
-        {
-          "headline": "‘American Doctor’ Director on Her Powerful Gaza Doc: “I Wanted to Do Something”",
-          "summary": "Poh Si Teng spent 22 years as a journalist and documentary facilitator before a calling to chronicle life and death in Gaza hospitals led to her directorial debut.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/savannah-film-festival-american-doctor-director-poh-si-teng-1236756738/"
-        },
-        {
-          "headline": "‘Madden’: Why Christian Bale Ranks Raiders Owner Al Davis as One of His Favorite Characters and the Jewelry He Took Home From Set",
-          "summary": "Christian Bale says portraying Oakland Raiders owner Al Davis in “Madden” is one of his favorite roles from his four-decade career. That’s extremely high praise considering Bale’s resume is longer than a CVS receipt, and includes winning an Oscar (for “The Fighter”) and playing Batman three times.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/events/christian-bale-al-davis-madden-nicolas-cage-heat-2-1236953563/"
         }
       ]
     },
@@ -919,6 +929,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
+          "summary": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year. Founded in 2015 by Geena Davis, the festival fosters and celebrates authentic storytelling through film screenings, industry conversations and community experiences.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/"
+        },
+        {
+          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
+          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
+        },
+        {
           "headline": "Tyra Banks Taps Andy Vallentine To Direct Sally Hansen Film",
           "summary": "EXCLUSIVE: Tyra Banks’ SMiZE Productions has tapped Andy Vallentine (The Mattachine Family) to direct the as-yet-untitled Sally Hansen feature, which Deadline announced was in development last year. In addition to his directing work for Hollywood, Vallentine also has a background creating visually bold work for major beauty brands including Sephora and…",
           "source": "Deadline",
@@ -935,18 +957,6 @@
           "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not…",
           "source": "Variety",
           "url": "https://variety.com/lists/2027-oscars-predictions/"
-        },
-        {
-          "headline": "‘GTA VI’ Sales Surge Over $2B On Launch Day As Vice City-Mania Takes Over",
-          "summary": "The long awaited and twice delayed launch of Grand Theft Auto VI has made a killing and taken over the zeitgeist. By killing, we don’t just mean the mayhem of Vice City.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/"
-        },
-        {
-          "headline": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
-          "summary": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/"
         }
       ]
     },
@@ -955,6 +965,24 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
+          "summary": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year. Founded in 2015 by Geena Davis, the festival fosters and celebrates authentic storytelling through film screenings, industry conversations and community experiences.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/"
+        },
+        {
+          "headline": "Here are the GTA 6 songs you'll hear cruising around Vice City",
+          "summary": "Grand Theft Auto 6 players carry out missions to songs by artists such as Cardi B, Lana Del Rey and Travis Scott.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/gta-6-soundtrack-songs-vice-city/"
+        },
+        {
+          "headline": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
+          "summary": "SPOILER ALERT: This article contains spoilers for the ending of “Hunger Games: Sunrise on the Reaping,” now playing in theaters. The mutt is out of the bag: Jennifer Lawrence, Josh Hutcherson and Woody Harrelson are back for a cameo scene at the end of “Hunger Games: Sunrise on the Reaping,” a prequel to their mega-hit […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
+        },
+        {
           "headline": "Tyra Banks Taps Andy Vallentine To Direct Sally Hansen Film",
           "summary": "EXCLUSIVE: Tyra Banks’ SMiZE Productions has tapped Andy Vallentine (The Mattachine Family) to direct the as-yet-untitled Sally Hansen feature, which Deadline announced was in development last year. In addition to his directing work for Hollywood, Vallentine also has a background creating visually bold work for major beauty brands including Sephora and…",
           "source": "Deadline",
@@ -965,24 +993,6 @@
           "summary": "Black Bear has acquired the North American rights to Bill Hader’s feature directorial debut “They Know.” Hader also wrote and stars in the horror-thriller with Linda Cardellini. Based on an idea from Hader and his “Barry” collaborator Duffy Boudreau, “‘They Know’ follows a divorced dad who becomes increasingly suspicious and paranoid that his ex-wife’s…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/"
-        },
-        {
-          "headline": "Oscar Predictions: Amanda Seyfried and Matt Damon Take the Top Spots for the First Time as Hollywood Heads Into Thanksgiving",
-          "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not…",
-          "source": "Variety",
-          "url": "https://variety.com/lists/2027-oscars-predictions/"
-        },
-        {
-          "headline": "‘GTA VI’ Sales Surge Over $2B On Launch Day As Vice City-Mania Takes Over",
-          "summary": "The long awaited and twice delayed launch of Grand Theft Auto VI has made a killing and taken over the zeitgeist. By killing, we don’t just mean the mayhem of Vice City.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/"
-        },
-        {
-          "headline": "Two Directors, One Oscar: Can Lord and Miller, Los Javis, Fielder and Oppenheim or the Esiri Brothers Break Through?",
-          "summary": "Are two directors better than one? Nathan Fielder and Lance Oppenheim, Javier Calvo and Javier Ambrossi, Phil Lord and Chris Miller and Nigeria’s Esiri brothers are chasing a prize the Academy’s Director Branch has handed to a duo only three times in its history.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/directing-duos-lord-miller-javis-fielder-oppenheim-oscars-1236952486/"
         }
       ]
     },
@@ -990,6 +1000,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Molly Santana Pushes Back at ‘Queen of the Underground’ Title: ‘The Underground Doesn’t Really Like Women’",
+          "summary": "Don’t call Molly Santana “The Queen of the Underground.” The West Coast rapper recently sat down with Bootleg Kev to promote her upcoming album Black Punk and pushed back when Kev referred to her as “The Queen of the Underground.” “I don’t want to be queen of the underground,” she said before expressing that she feels like that particular scene isn’t…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/molly-santana-queen-of-the-underground-1236386051/"
+        },
+        {
+          "headline": "Summer Walker’s Interscope Lawsuit Heats Up as Star Accuses Label of Misusing Her IP",
+          "summary": "As Summer Walker and Interscope Records continue to hash out a contract dispute, the R&B singer is now accusing the Universal Music Group (UMG) label of wrongly monetizing her intellectual property. Walker’s countersuit, submitted to Los Angeles court on Wednesday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/summer-walker-interscope-lawsuit-new-claims/"
+        },
         {
           "headline": "Bruno Mars Mourns His Father’s Death: ‘The Man That Taught Me Everything I Know’",
           "summary": "The singer praised his father, Peter “Dr. Doo-Wop” Hernandez, often during interviews and credited him for his signature style",
@@ -1007,21 +1029,9 @@
           "summary": "Robert Glasper breaks down why AI can’t copy the human “mistakes” that make music feel real. In this Billboard News interview, Glasper talks bridging jazz, hip-hop, R&B and soul — and what separates great musicians from artists who change culture.",
           "source": "Billboard",
           "url": "https://www.billboard.com/video/robert-glasper-billboard-news-interview/"
-        },
-        {
-          "headline": "Chucho Valdés Turns 85 & Keeps Rocking His 88 Keys",
-          "summary": "Chucho Valdés celebrated his 85th birthday on Oct. 9 with a party at his house (replete with musicians, of course); with a series of concerts across the U.S.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/chucho-valdes-85th-birthday-interview-uncut-album-1236385562/"
-        },
-        {
-          "headline": "Billboard’s Music Industry Events Calendar",
-          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-19T19:51:55-05:00"
+  "updatedAt": "2026-11-19T20:13:43-05:00"
 }
