@@ -27,6 +27,8 @@ python3 scripts/refresh_feeds.py
 
 This pulls the RSS/Atom feeds listed in the script, keeps at most five stories per section, and keeps a link only after a live fetch of the article URL succeeds. On X posts already on the day are left alone.
 
+Selection rules (editor, Nov 19, 2026): a story appears in only one section (first in site order wins, so News beats Politics and TV beats Media); at most two stories per source per section unless the section would otherwise be short; the newest four links per source per section are verified; shopping/deal roundups and betting promo-code posts are dropped; Sports drops Philadelphia team stories and high-school/prep roundups. Gzip-encoded feeds (FOX News Sports) are decompressed automatically.
+
 Feeds verified with curl from this box on Thu Nov 19, 2026 (America/New_York):
 
 **News:** NPR `https://feeds.npr.org/1001/rss.xml`, CBS News `https://www.cbsnews.com/latest/rss/main`, ABC News `https://abcnews.go.com/abcnews/topstories`, BBC News `https://feeds.bbci.co.uk/news/rss.xml`

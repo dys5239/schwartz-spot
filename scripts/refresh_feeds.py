@@ -26,6 +26,7 @@ add_day.py so data/index.json stays in sync.
 from __future__ import annotations
 
 import argparse
+import gzip
 import html
 import json
 import re
@@ -50,6 +51,9 @@ USER_AGENT = (
 )
 MAX_PER_SECTION = 5
 MIN_FRESH = 3
+# Editor: at most this many stories from one source per section, unless
+# the section would otherwise be short.
+MAX_PER_SOURCE = 2
 
 # section -> list of feeds. "prefer" is an optional URL-path substring
 # list; if set, items whose URL matches are preferred for that section.
@@ -159,6 +163,13 @@ AI_RE = re.compile(
     r"copilot|midjourney|stable diffusion|neural net|generative)\b",
     re.I,
 )
+# Editor: Sports stays national; drop Philadelphia team-specific stories.
+PHILLY_RE = re.compile(r"\b(philadelphia|philly|eagles|phillies|76ers|sixers|flyers)\b", re.I)
+# Editor: shopping/deal roundups are not news.
+JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide", re.I)
+JUNK_HEAD_RE = re.compile(r"black friday|cyber monday|gift guide|prime day|promo code|bonus code", re.I)
+# Editor: Sports stays national; drop high-school / local prep roundups.
+LOCAL_SPORTS_RE = re.compile(r"\b(high school|state playoffs?|prep (football|sports|basketball))\b", re.I)
 TAG_RE = re.compile(r"<[^>]+>", re.S)
 WS_RE = re.compile(r"\s+")
 SENTENCE_RE = re.compile(r"(?<=[.!?])\s+")
@@ -191,6 +202,9 @@ def fetch_bytes(url: str, timeout: int = 20) -> bytes:
         try:
             with urllib.request.urlopen(req, timeout=timeout) as res:
                 payload = res.read()
+            if payload[:2] == b"\x1f\x8b":
+                # Some feeds (e.g. FOX News) send gzip even when not asked.
+                payload = gzip.decompress(payload)
             if payload:
                 return payload
             last_error = ValueError("empty response")
@@ -329,6 +343,16 @@ def looks_like_ai(story: dict) -> bool:
     return bool(AI_RE.search(blob))
 
 
+def is_junk(story: dict) -> bool:
+    return bool(JUNK_URL_RE.search(story.get("url") or "") or JUNK_HEAD_RE.search(story.get("headline") or ""))
+
+
+def is_philly(story: dict) -> bool:
+    """Sports-only guard: Philadelphia team stories or local prep roundups."""
+    blob = f"{story.get('headline') or ''} {story.get('summary') or ''} {story.get('url') or ''}"
+    return bool(PHILLY_RE.search(blob) or LOCAL_SPORTS_RE.search(blob))
+
+
 def verify_url(url: str, timeout: int = 12) -> bool:
     parsed = urllib.parse.urlparse(url)
     if parsed.scheme not in ("http", "https") or not parsed.netloc:
@@ -415,6 +439,8 @@ def collect_candidates(feed: dict, items: list[dict]) -> list[dict]:
             continue
         if ai_only and not looks_like_ai(story):
             continue
+        if is_junk(story) or (feed["section"] == "sports" and is_philly(story)):
+            continue
         chosen.append(story)
     if prefer and len(chosen) < 2:
         # If path filters were too strict, fall back to unfiltered items
@@ -428,21 +454,37 @@ def collect_candidates(feed: dict, items: list[dict]) -> list[dict]:
                     "url": item["url"],
                     "published": item.get("published") or "",
                 }
+                if is_junk(story) or (feed["section"] == "sports" and is_philly(story)):
+                    continue
                 if story_key(story) not in {story_key(s) for s in chosen}:
                     chosen.append(story)
     return chosen
 
 
-def pick_section(candidates: list[dict], previous: list[dict], verified: set[str], failed: set[str]) -> list[dict]:
+def pick_section(
+    candidates: list[dict],
+    previous: list[dict],
+    verified: set[str],
+    failed: set[str],
+    used: set[str] | None = None,
+    section_id: str = "",
+) -> list[dict]:
     ranked = sorted(candidates, key=lambda s: s.get("published") or "", reverse=True)
+    used = used if used is not None else set()
     seen: set[str] = set()
     picked: list[dict] = []
+    per_source: dict[str, int] = {}
+    cap = [MAX_PER_SOURCE]
 
     def consider(story: dict, already_verified: bool) -> None:
         if len(picked) >= MAX_PER_SECTION:
             return
         key = story_key(story)
-        if not key or key in seen:
+        if not key or key in seen or key in used:
+            return
+        if per_source.get(story.get("source") or "", 0) >= cap[0]:
+            return
+        if is_junk(story) or (section_id == "sports" and is_philly(story)):
             return
         url = (story.get("url") or "").strip()
         if url:
@@ -459,29 +501,40 @@ def pick_section(candidates: list[dict], previous: list[dict], verified: set[str
         if not clean["headline"]:
             return
         seen.add(key)
+        per_source[clean["source"]] = per_source.get(clean["source"], 0) + 1
         picked.append(clean)
 
     for story in ranked:
         url = (story.get("url") or "").strip()
         if url and url in verified:
             consider(story, True)
+    if len(picked) < MAX_PER_SECTION:
+        # Not enough source variety: lift the per-source cap and refill.
+        cap[0] = MAX_PER_SECTION
+        for story in ranked:
+            url = (story.get("url") or "").strip()
+            if url and url in verified:
+                consider(story, True)
     # If we don't have enough, fill from previous verified/unverified-ok previous stories
     if len(picked) < MIN_FRESH:
         for story in previous:
             consider(story, True)
-    return picked[:MAX_PER_SECTION]
+    picked = picked[:MAX_PER_SECTION]
+    used.update(story_key(s) for s in picked)
+    return picked
 
 
 def build_sections(day: dict, by_section: dict[str, list[dict]], verified: set[str], failed: set[str]) -> list[dict]:
     sections = []
     posts = existing_posts(day)
+    used: set[str] = set()  # Editor: no story appears in two sections
     for sec_id in SECTION_ORDER:
         if sec_id == "x":
             if posts:
                 sections.append({"id": "x", "title": "On X", "stories": [], "posts": posts})
             continue
         previous = existing_stories(day, sec_id)
-        stories = pick_section(by_section.get(sec_id) or [], previous, verified, failed)
+        stories = pick_section(by_section.get(sec_id) or [], previous, verified, failed, used, sec_id)
         if not stories:
             continue
         sections.append({"id": sec_id, "title": SECTION_TITLES[sec_id], "stories": stories})
@@ -533,17 +586,18 @@ def main(argv: list[str] | None = None) -> None:
     seen_check = set()
     if not args.skip_verify:
         for sec_id in STORY_SECTIONS:
-            n = 0
+            # Editor: check the newest few per source (not just the newest 12
+            # overall) so one busy feed cannot crowd out the others.
+            per_src: dict[str, int] = {}
             ranked = sorted(by_section[sec_id], key=lambda s: s.get("published") or "", reverse=True)
             for story in ranked:
                 url = story.get("url") or ""
-                if not url or url in seen_check:
+                src = story.get("source") or ""
+                if not url or url in seen_check or per_src.get(src, 0) >= 4:
                     continue
                 seen_check.add(url)
                 to_check.append(url)
-                n += 1
-                if n >= 12:
-                    break
+                per_src[src] = per_src.get(src, 0) + 1
 
     verified: set[str] = set()
     failed: set[str] = set()
