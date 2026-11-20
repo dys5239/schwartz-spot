@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Mayor Mamdani announces plan to shut down Rikers Island",
-          "summary": "New York City Mayor Zohran Mamdani unveiled his strategy to shut down Rikers Island and replace it with four smaller jails across the city.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/zohran-mamdani-rikers-island-closing-plan-nyc/"
-        },
-        {
-          "headline": "Trump signs Common Cents Act",
-          "summary": "The Common Cents Act established guidelines for businesses and consumers when conducting cash transactions.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/"
-        },
-        {
-          "headline": "USDA hit with cyberattack: Sources",
-          "summary": "One system affected is a tool for farmer payments, a source said.",
+          "headline": "Man accused of starting blaze that became Palisades Fire found guilty of arson",
+          "summary": "The defendant was found guilty of two arson counts during a retrial.",
           "source": "ABC News",
-          "url": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014"
+          "url": "https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631"
         },
         {
-          "headline": "Tech stock sell-off drags markets down as Anthropic shares slide",
-          "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+          "headline": "Jonathan Rinderknecht found guilty in Palisades Fire case",
+          "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
         },
         {
-          "headline": "French police officers sentenced for beating of music producer Michel Zecler",
-          "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+          "headline": "Judge denies Alex Murdaugh's bid to dismiss murder charges",
+          "summary": "Murdaugh sought to throw out the case as he faces a retrial, after the South Carolina Supreme Court overturned his 2023 murder convictions.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/judge-denies-alex-murdaughs-bid-dismiss-murder-charges/story?id=138184686"
+        },
+        {
+          "headline": "Price beats Kotaskova to become undisputed champion",
+          "summary": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Poland accuses Russia of \"intentional provocation\" after missiles land in its territory",
+          "summary": "Russian missiles landed in Polish territory amid heavy strikes against Ukraine in what Polish Prime Minister Donald Tusk called \"an intentional ⁠provocation.\" CBS News' Charlie D'Agata has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/poland-accuses-russia-of-intentional-provocation-after-missiles-land-on-its-territory/"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123925413038895307",
+          "created_at": "2026-11-20T23:44:13.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "This week, I talked to the parents and grandparents about GTA 6. But today, I want to talk to the young men playing it. The men who have spent their entire lives being talked about rather than being talked to. These men have always heard the same story, that they are falling https://t.co/cpTA00xsj3",
+          "url": "https://x.com/glennbeck/status/2123925413038895307",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123925323872129328",
+          "created_at": "2026-11-20T23:43:52.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡Appreciate you, Jon. This one means a lot.\n\nThe psychological part is what people underrate. When you've worked out ahead of time what could break and why, a week like this stops being a shock. You already know what you're watching for, so the decisions get easier.\n\nThat's what https://t.co/vhtaT0yJrE",
+          "url": "https://x.com/_The_Prophet__/status/2123925323872129328",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123925184851722679",
+          "created_at": "2026-11-20T23:43:19.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "As if Markwayne Muslim @SecMullinDHS wasn’t disgraceful enough…. Get this.\n\nGuess where he is right now???\n\nMarkwayne Muslim is currently on an unannounced five-day trip to Jordan, Azerbaijan, and the United Arab Emirates that began on Wednesday, November 19. \n\nAmerica is still",
+          "url": "https://x.com/LauraLoomer/status/2123925184851722679",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123924876901642638",
+          "created_at": "2026-11-20T23:42:05.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: JONATHAN RINDERKNECHT FOUND GUILTY OF STARTING DEADLY PALISADES FIRE\n\nA federal jury has convicted Jonathan Rinderknecht of arson and destruction of property by fire for starting the Lachman Fire, which prosecutors said smoldered underground before reigniting as the",
+          "url": "https://x.com/RealAmVoice/status/2123924876901642638",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123924379751117266",
+          "created_at": "2026-11-20T23:40:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "ARK Invest's Cathie Wood says compute in orbit will be cheaper than data centers on Earth within the next two years\n\n\"It will have the lowest costs, we think, of almost any cloud provider out there\"\n\n\"We do believe orbital compute will drop in terms of the cost, drop below that https://t.co/E9jyYsLJsT",
+          "url": "https://x.com/_Investinq/status/2123924379751117266",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123921581462212883",
+          "created_at": "2026-11-20T23:29:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Mike Florio has attacked me for years, but I'm defending him here. He and Chris Simms made a joke about Mike Vrabel's mustache while he was in Germany, and somehow they had to apologize for it. There was nothing offensive about the joke. https://t.co/M6WHJoSDw6",
+          "url": "https://x.com/ClayTravis/status/2123921581462212883",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123919587377094897",
+          "created_at": "2026-11-20T23:21:04.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡We just sent Inner Ring subscribers another tactical note.\n\nThere was no safe place in markets this week.\n\nThe Nasdaq gave back its gains for the year, chips crashed, gold fell right along with them, and Taiwan's market had its worst week since the early 1990s.\n\nBitcoin was",
+          "url": "https://x.com/_The_Prophet__/status/2123919587377094897",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123919431172796557",
+          "created_at": "2026-11-20T23:20:27.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "The USDA was reportedly hit by a cyberattack, sources told ABC News. The attack impacted a tool used to process payments to farmers, forcing the shutdown of mapping, payment, and contracting systems until further notice. https://t.co/W8nvESURdc",
+          "url": "https://x.com/RealAmVoice/status/2123919431172796557",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123915576515146040",
           "created_at": "2026-11-20T23:05:08.000Z",
@@ -159,16 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123904217417122109",
-          "created_at": "2026-11-20T22:20:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ARIZONA GRANDFATHER HAILED AS HERO AFTER RESCUING MISSING 2-YEAR-OLD IN DESERT\n\n“Everybody out here last night was a hero. I just happen to be the person that found the little girl.”\n\nAn Arizona grandfather is being celebrated after finding a missing 2-year-old girl who spent",
-          "url": "https://x.com/RealAmVoice/status/2123904217417122109",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123901817138696243",
           "created_at": "2026-11-20T22:10:28.000Z",
           "author_name": "Clay Travis",
@@ -197,16 +267,6 @@
           "url": "https://x.com/LauraLoomer/status/2123899742409408524",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123899687703080974",
-          "created_at": "2026-11-20T22:02:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "A 36-year-old Cowboys fan from New Mexico has died after allegedly being pushed down a staircase by a 49ers fan before Sunday’s game in Arlington.\n\nMario Narro stayed for the game, but friends realized something was wrong after he developed severe bruising and swelling.\n\n“He said https://t.co/dFMbE9pYrq",
-          "url": "https://x.com/RealAmVoice/status/2123899687703080974",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123898633112445275",
@@ -289,16 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123886980534612016",
-          "created_at": "2026-11-20T21:11:30.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Stephen A. Smith fired back at me on First Take over his comments about the Lakers' white stars. I don't think Stephen A. is racist, but I think his argument is. If a white guy made the same comments about black players, he'd be fired. Someone should've pushed back. I will. https://t.co/jPpxzZzzi7",
-          "url": "https://x.com/ClayTravis/status/2123886980534612016",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123885395033100559",
           "created_at": "2026-11-20T21:05:12.000Z",
           "author_name": "The Kobeissi Letter",
@@ -325,16 +375,6 @@
           "author_handle": "glennbeck",
           "text": "While Charlie Sheen was going off in all directions and spiraling down, Rob Lowe was quietly praying for him in the background, and Charlie had no idea.\n\nWe all have those unseen blessings in our lives. There are people out there you’ll never even know about who are praying for https://t.co/1ufeSCzise",
           "url": "https://x.com/glennbeck/status/2123883831652679706",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123880378696130759",
-          "created_at": "2026-11-20T20:45:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Unleash Prosperity co-founder Stephen Moore says Google is building a $7.5 billion data center campus in Malaysia instead of the US because of a \"forest fire of opposition\" at home\n\n\"The United States has to completely dominate this new AI age, the way that the United States has https://t.co/AnAMyTMBUW",
-          "url": "https://x.com/_Investinq/status/2123880378696130759",
           "verified": true,
           "verified_type": "blue"
         },
@@ -485,16 +525,6 @@
           "author_handle": "elonmusk",
           "text": "I was just thinking that (for myself) stupidity doesn’t count unless I’m also really obstinate about it",
           "url": "https://x.com/elonmusk/status/2123845867526574261",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123845673087070481",
-          "created_at": "2026-11-20T18:27:22.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "But President Trump said Mamdani is his friend…\n\nHe should call the jihadist out instead and then maybe New York City wouldn’t look like a Muslim shit hole. \n\nNot sure why you’d want to be on good terms with a jihadist communist. But here we are. https://t.co/KrG47xvwrS",
-          "url": "https://x.com/LauraLoomer/status/2123845673087070481",
           "verified": true,
           "verified_type": "blue"
         },
@@ -697,36 +727,6 @@
           "url": "https://x.com/_The_Prophet__/status/2123577772698464647",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123565025311002889",
-          "created_at": "2026-11-19T23:52:10.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "“Because of @JohnCleese, my wife and daughter were not dead that night.”\n\n@kingkapoor72 and his wife @kapoorkhushi31 run a restaurant in the UK, and for months they have been dealing with violent Muslim protesters outside their doors simply because they refuse to serve halal https://t.co/zcFF3Fhmf2",
-          "url": "https://x.com/glennbeck/status/2123565025311002889",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123564826828169341",
-          "created_at": "2026-11-19T23:51:23.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Compression is the currency of intelligence.",
-          "url": "https://x.com/_The_Prophet__/status/2123564826828169341",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123559484534759694",
-          "created_at": "2026-11-19T23:30:09.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "The underlying order\nThe underlying structure\nThe underlying signal\n\nIs already inside your cognition.\n\nYour job is to strip distortion until you can perceive it. ⚡️",
-          "url": "https://x.com/_The_Prophet__/status/2123559484534759694",
-          "verified": true,
-          "verified_type": "blue"
         }
       ]
     },
@@ -771,6 +771,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Trump signs Common Cents Act",
+          "summary": "The Common Cents Act established guidelines for businesses and consumers when conducting cash transactions.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/"
+        },
+        {
           "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
           "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
           "source": "CNBC",
@@ -793,12 +799,6 @@
           "summary": "Lawmakers may face more pressure in 2027 to focus on bipartisan housing proposals that would lower the cost of buying a home.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/congress-housing-affordability-first-time-homebuyers/"
-        },
-        {
-          "headline": "Trump's impact on an Ohio steel plant",
-          "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant"
         }
       ]
     },
@@ -807,34 +807,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "UFC Fight Night start time for Jiri Prochazka vs. Navajo Stirling: Where to watch live on Paramount+",
-          "summary": "Top light heavyweights collide in the main event from Qatar",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/ufc/news/where-watch-ufc-fight-night-qatar-start-time-live-stream/"
-        },
-        {
-          "headline": "Titans rumors: What Tennessee was demanding in Tony Pollard trade talks",
-          "summary": "Denny Simmons / The Tennessean / USA TODAY NETWORK via Imagn Images Titans rumors: What Tennessee was demanding in Tony Pollard trade talks appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Kane out for 'few months' with ankle ligament tear",
+          "summary": "England captain Harry Kane will be out \"for the next few months\" after tearing ligaments in his left ankle during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday. The striker, who last month won the Ballon d'Or for the world's best player, was forced off after 20 minutes following a challenge from defender Joel Schmied.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/titans-rumors-tennessee-demanding-tony-231512164.html"
+          "url": "https://sports.yahoo.com/articles/kane-few-months-ankle-ligament-230418011.html"
         },
         {
-          "headline": "What's next for the Twins? Three things Minnesota must do to make a postseason push in 2027 season",
-          "summary": "Minnesota has already signed Sonny Gray and brought back Ryan Jeffers, but there's more to be done",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/whats-next-for-minnesota-twins-offseason-2027-season/"
-        },
-        {
-          "headline": "The Sporting Tribune partners with SPORT magazine to bring classic sportswriting back to life",
-          "summary": "The Sporting Tribune announced a partnership with SPORT magazine today. Under the deal, The Sporting Tribune will republish a classic story from SPORT's archive every month, along with original photos from the magazine's collection.",
+          "headline": "Kane out for 'few months' with ankle ligament tear",
+          "summary": "German Bundesliga Bayern Munich 1 - 1 Köln FT England captain Harry Kane will be out \"for the next few months\" after tearing ligaments in his left ankle during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday. The striker, who last month won the Ballon d'Or for the world's best player, was forced off after 20 minutes following a challenge from…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/sporting-tribune-partners-sport-magazine-230910734.html"
+          "url": "https://sports.yahoo.com/articles/kane-few-months-ankle-ligament-230418071.html"
         },
         {
-          "headline": "Kim moves clear at LPGA finale after hole-in-one",
-          "summary": "South Korea's A-Lim Kim aces the par-three 16th on her way to claiming a three-shot lead after the second round of CME Group Tour Championship.",
+          "headline": "MLB rumors: Yankees moves heating up, plus latest on Tarik Skubal, Mets, Padres, Red Sox, more",
+          "summary": "Here are the latest news and rumors in the MLB offseason on Friday, Nov. 20",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-yankees-moves-heating-up-tarik-skubal-padres-mets/"
+        },
+        {
+          "headline": "2026 NBA betting promos: Get almost $4,000 in bonuses from top online betting apps, sportsbooks for Nov. 20",
+          "summary": "Top NBA betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/2026-nba-betting-promos-get-almost-4000-in-bonuses-from-top-online-betting-apps-sportsbooks-nov-20/"
+        },
+        {
+          "headline": "Cost of Man Utd hiring and firing managers nears £100m",
+          "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/ck62pzd7vjr0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -879,6 +879,42 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "David Fincher Defends Use Of AI Amid ‘Cliff Booth’ Criticism: “Well, It Exists. Should We Not Use It?”",
+          "summary": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
+        },
+        {
+          "headline": "How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change",
+          "summary": "Rick Baker is a wealth management expert by profession, advising many of Hollywood’s A-list on managing the money and portfolios for the long term in a volatile industry. For Baker himself, the concept of wealth management means giving some of it away through a scholarship program that he launched more than 10 years ago in […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/rick-baker-alabama-tax-charity-sean-weissbart-strictly-1236954674/"
+        },
+        {
+          "headline": "Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year",
+          "summary": "A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq’s gains for the year. About $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia, Dell, […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137/"
+        },
+        {
+          "headline": "CMA Awards See a 55% Ratings Bump in Key Adults Demo With Taylor Swift’s Return to the Show",
+          "summary": "The CMA Awards’ producers knew it; they knew her. What they undoubtedly knew was that a performance by Taylor Swift would bring a ratings bonanza to the 60th annual telecast, with the only question being how big a boost.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677/"
+        },
+        {
+          "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
+          "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/unflinching-josephine-beth-de-arajo-transmutes-tragedy-art-138317266"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Media",
+      "stories": [
+        {
           "headline": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
           "summary": "EXCLUSIVE: Lionsgate’s sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in previews, and the global running cume is around $76M.",
           "source": "Deadline",
@@ -903,42 +939,6 @@
           "url": "https://variety.com/2026/film/global/cairo-film-festival-2026-winners-four-minus-three-1236954657/"
         },
         {
-          "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
-          "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/unflinching-josephine-beth-de-arajo-transmutes-tragedy-art-138317266"
-        }
-      ]
-    },
-    {
-      "id": "media",
-      "title": "Media",
-      "stories": [
-        {
-          "headline": "Lauren Neustadter Exits Reese Witherspoon’s Hello Sunshine",
-          "summary": "Lauren Neustadter, President of Film & Television at Hello Sunshine, is leaving Reese Witherspoon’s company after nearly a decade. It comes just over a month after French group Mediawan, which backs Chernin Entertainment, Slow Horses producer See-Saw Films and Brad Pitt’s Plan B, acquired the company alongside the Legally Blonde star.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lauren-neustadter-exits-reese-witherspoon-hello-sunshine-1237230709/"
-        },
-        {
-          "headline": "E.J. Carroll Dies: ‘The Deuce,’ ‘Boardwalk Empire,’ ‘Law & Order’ Actor Was 66",
-          "summary": "E.J. Carroll, a veteran character actor whose credits include The Deuce, Boardwalk Empire, Blue Bloods three Law & Order series and Grand Theft Auto V, died November 19.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/e-j-carroll-dead-deuce-boardwalk-empire-blue-bloods-1237230599/"
-        },
-        {
-          "headline": "‘War’ Creator George Kay on Writing the Celebrity Divorce Drama, That Shocking Season Finale and the Real Couple Who Inspired a Key Scene: ‘It’s Probably an Awful Moment in Someone’s Life’",
-          "summary": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/war-creator-george-kay-finale-spoilers-season-2-1236951842/"
-        },
-        {
-          "headline": "Egyptian Actor Asser Yassin on His Dark Role in Psychological Thriller ‘Asal Ahmar,’ Alongside Hend Sabry: ‘I Like to Indulge in Intense Characters’",
-          "summary": "Fresh off receiving the Faten Hamama Excellence Award at the 47th Cairo Intl. Film Festival, Egyptian actor Asser Yassin is looking ahead.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/asser-yassin-asal-ahmar-1236954598/"
-        },
-        {
           "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
           "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
           "source": "CBS News",
@@ -951,16 +951,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Watch Ice Spice’s Speechless Reaction to Seeing Her Madame Tussauds Wax Figure for the First Time: ‘This Is So Accurate’",
+          "summary": "Ice Spice got the wax-figure treatment at Madame Tussauds New York on Thursday (Nov. 19), and the Bronx rapper was gagged at seeing her waxy twin for the first time — to the point where she was a little spooked at how the artists nailed her look, leaving her briefly speechless.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/ice-spice-wax-figure-photos-video-reaction-1236386894/"
+        },
+        {
           "headline": "In Canada: Billboard Canada’s 2026 Women in Music and 40 Under 40 Lists Are Out",
           "summary": "The executive list for Billboard Canada Women in Music has dropped. The list spotlights changemaking women from across the music industry — from radio to streaming, labels, performance rights organizations, publishing, live production and more.",
           "source": "Billboard",
           "url": "https://www.billboard.com/pro/billboard-canada-women-in-music-40-under-40-2026-lists/"
-        },
-        {
-          "headline": "BTS & ENHYPEN Are Big Winners on Night 1 of 2026 MAMA Awards",
-          "summary": "BTS and ENHYPEN were the big winners on night 1 of the 2026 MAMA Awards , which were held Friday (Nov. 20) at the Kyocera Dome Osaka, in Japan .",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/"
         },
         {
           "headline": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T18:19:31-05:00"
+  "updatedAt": "2026-11-20T18:46:34-05:00"
 }
