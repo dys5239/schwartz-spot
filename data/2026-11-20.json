@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has solved the Riemann hypothesis, one of mathematics' most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        },
+        {
           "headline": "Six AI-powered gadgets that could make your home office smarter",
           "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "AI models are exposing the internet's longstanding insecurity, driving rapid change and technical outages.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6047374/ai-models-are-propelling-rapid-growth-and-revealing-vulnerabilities"
-        },
-        {
-          "headline": "Anthropic's IPO caps an explosive growth period for the AI startup, filled with contradictions",
-          "summary": "A mere five years before breaking the record for the biggest public stock offering ever, Anthropic began as a Silicon Valley startup when its founders broke away from OpenAI with their own ideas about how to develop artificial intelligence",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/anthropics-ipo-caps-explosive-growth-period-ai-startup-138312291"
         }
       ]
     },
@@ -41,6 +41,24 @@
       "id": "news",
       "title": "News",
       "stories": [
+        {
+          "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
+          "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
+        },
+        {
+          "headline": "Daniel Thomas jailed for 15 months for slashing dinghy",
+          "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
         {
           "headline": "Mum's fatal BBL an accident - but risk of more deaths",
           "summary": "Alice Webb was given seven times the recommended amount of filler before she died in 2024.",
@@ -52,24 +70,6 @@
           "summary": "A New York Times reporter went undercover as a porch pirate to help identify the best ways to keep your home and packages safe as package deliveries ramp up this holiday season.",
           "source": "ABC News",
           "url": "https://abcnews.com/video/138316025/"
-        },
-        {
-          "headline": "How Orchestra Noir turned classical music into a cultural movement",
-          "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be. (Image credit: Andre Calder)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music"
-        },
-        {
-          "headline": "WATCH: New health warning on doomscrolling",
-          "summary": "ABC News' Dr. Tara Narula breaks down a new report warning that problematic internet use should be considered a global public health concern.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138316910/"
-        },
-        {
-          "headline": "What is the EU-UK youth experience scheme and when will it start?",
-          "summary": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -751,10 +751,10 @@
           "url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/"
         },
         {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "White House national cyber director leaving his post",
+          "summary": "White House National Cyber Director Sean Cairncross will be leaving his position, a White House official told CBS News.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
         },
         {
           "headline": "Trump to hold press conference after meeting with Xi and Putin",
@@ -781,28 +781,28 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Cathie Wood’s Ark Invest was a big buyer of Anthropic as she tells CNBC she’s ‘quite optimistic’",
-          "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
+          "headline": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+          "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html"
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
         },
         {
-          "headline": "Data center construction costs soar 13% in 2026",
+          "headline": "Property Play: Data center construction costs soar 13% in 2026",
           "summary": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html"
+        },
+        {
+          "headline": "6 reasons stocks are falling, and what you should do about it",
+          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
         },
         {
           "headline": "Stocks plunge as investors take cover amid growing uncertainty",
           "summary": "The Dow tumbled 1,100 points, while other stock markets also swooned, as Wall Street frets over AI growth and other market risks.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
-        },
-        {
-          "headline": "Trump ousts top cybersecurity official; Anthropic's record debut",
-          "summary": "President Trump picked Kirsten Davies to serve as White House national cyber director after removing Sean Cairncross, sources say. Meanwhile, Anthropic's initial public offering turned some employees into millionaires and billionaires.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-ousts-top-cybersecurity-official-anthropics-record-debut/"
         },
         {
           "headline": "UN climate talks in Turkey risk being ‘worst COP ever’ as fossil fuels go unmentioned",
@@ -817,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Week 11 Fantasy Football Start 'Em, Sit 'Em: Courtland Sutton or Pat Bryant?",
+          "summary": "Sep 14, 2026; Kansas City, Missouri, USA; Denver Broncos wide receiver Pat Bryant (13) celebrates after a run against the Kansas City Chiefs during the game at GEHA Field at Arrowhead Stadium. Mandatory Credit: Denny Medley-Imagn Images | IMAGN IMAGES via Reuters Connect Choosing between two fantasy football wide receivers from the same offense is always…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/week-11-fantasy-football-start-164159487.html"
+        },
+        {
+          "headline": "Early collapse! Abhishek Sharma, Vaibhav Sooryavanshi flop as Nepal put India A under pressure at Asia Cup Rising Stars",
+          "summary": "NEW DELHI: India A suffered early setbacks in their opening match of the ACC Men's Asia Cup Rising Stars 2026 as both explosive openers, Abhishek Sharma and Vaibhav Sooryavanshi, fell cheaply against Nepal in Doha. The highly rated batting duo failed to make the most of their starts as Nepal's bowlers exploited a tricky surface to put the Indian side on…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/early-collapse-abhishek-sharma-vaibhav-164100288.html"
+        },
+        {
+          "headline": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
+          "summary": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Mowbray support no surprise, says interim boss Johnson",
+          "summary": "Blackburn Rovers interim boss Damien Johnson says the support shown for head coach Tony Mowbray shows the high regard he is held in.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5m2lnp387kmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
           "summary": "The Hunger Games: Sunrise on the Reaping. '/> This prequel tells the origin story of Haymitch Abernathy.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6046181/hunger-games-sunrise-on-the-reaping-review"
-        },
-        {
-          "headline": "Rob Gronkowsi not shying away from truth about Patriots defense",
-          "summary": "New England Patriots great Rob Gronkowski wasn't impressed with what he saw from the team's defense against the Detroit Lions in Week 10. As a recent guest on \"Up & Adams,\" Gronkowski criticized New England's defense for looking like it was giving up during its Week 10 loss to Detroit, particularly on Lions' wide receiver Amon-Ra St.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/rob-gronkowsi-not-shying-away-161421772.html"
-        },
-        {
-          "headline": "Parekh Is Showing the Calgary Flames Just How Special He Could Become",
-          "summary": "IMAGN IMAGES via Reuters Connect Zayne Parekh might not be putting up the kind of point totals Calgary Flames fans became accustomed to while watching him during his junior career, but the 20-year-old defenseman is already giving them plenty of reasons to be excited. The ninth overall pick in the 2024 NHL Draft has been generating offensive opportunities…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/parekh-showing-calgary-flames-just-161332470.html"
-        },
-        {
-          "headline": "We want to have a positive impact - Pochettino",
-          "summary": "Mauricio Pochettino talks for the first time about his arrival at Manchester United and what his goals are ahead of his first game.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cw20xd2zgl0xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge",
-          "summary": "It's both business and personal Saturday for the Volunteers when Lane Kiffin comes to town intent on taking away their playoff hopes",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/anxiety-rankings-tennessee-nightmare-big-12/"
         }
       ]
     },
@@ -853,16 +853,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "‘Bouchra’ Filmmakers Orian Barki and Meriem Bennani on Crafting the 3D-Animated, Autofiction Film: ‘Through Specificity, You Can Reach Truth’",
+          "summary": "Meriem Bennani never set out to make a movie quite as personal as “Bouchra.” “I’m a pretty private person — hard to believe, probably, after seeing this film,” Bennani joked, sitting with her co-director Orian Barki for a Variety’s Screening Series Q&A. Sure, the animated film was always a work of autofiction: “Bouchra” explores the […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/variety-events/bouchra-orian-barki-meriem-bennani-screening-series-1236952372/"
+        },
+        {
           "headline": "Mckenna Grace on Her ‘Hunger Games’ Press Tour Looks for ‘Sunrise on the Reaping’: Maysilee’s Style Is Her ‘Form of Defiance Against the Capitol’",
           "summary": "Mckenna Grace has been on a red carpet run for the ages during the global press tour for “The Hunger Games: Sunrise on the Reaping.” Over the last few weeks, the 20-year-old actress (and certified “Hunger Games” fangirl) has donned nearly two dozen looks that referenced the original trilogy or franchise star Jennifer Lawrence. Grace, […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/features/mckenna-grace-hunger-games-press-tour-book-details-1236953484/"
-        },
-        {
-          "headline": "‘Ramayana’ Star Sai Pallavi, Ravi Kishan’s ‘Spider-Man’ Anecdote, Grammy Winner Ricky Kej Light Up International Film Festival of India Opening in Goa",
-          "summary": "The 57th International Film Festival of India opened in Goa on Friday, with “Lagaan” director Ashutosh Gowariker setting out a “Stories Without Borders” program in his first year as festival director and Goa Chief Minister Pramod Sawant renewing his push for a film city in the state. Paweł Pawlikowski’s “Fatherland,” which shared the best director […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/sai-pallavi-ravi-kishan-ricky-kej-iffi-opening-goa-1236954225/"
         },
         {
           "headline": "Prince Harry Approves of Robert Pattinson’s Bond Casting",
@@ -872,7 +872,7 @@
         },
         {
           "headline": "Bo Derek Is Still a ‘10’ at 70: “It All Worked Out, Didn’t It?”",
-          "summary": "Forty-seven years after the racy rom-com made her a generational sex symbol, Derek opens up about the surprising origins of her iconic braids, her scandalous first marriage and the Hollywood career she never really wanted",
+          "summary": "Forty-seven years after the racy rom-com made her a generational sex symbol, Derek opens up about the surprising origins of her iconic braids, her scandalous first marriage and the Hollywood career she never really wanted.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-features/bo-derek-interview-fame-love-life-10-1236757273/"
         },
@@ -889,16 +889,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Tony Winner Ivy Lion Productions Gets Development Capital For Film & TV Push, Switches From Zero Gravity To Gotham Group For Management",
-          "summary": "EXCLUSIVE: Tony-winning Ivy Lion Productions has secured development capital for IP acquisitions and recently switched management from Zero Gravity to the Gotham Group. Last season, at the age of 33, Ivy Lion’s Lamar Richardson became the youngest Black lead producer to win a Tony (Best Revival of Musical for Ragtime).",
+          "headline": "Lili Reinhart Circling Amazon MGM Studios & Mattel’s ‘Polly Pocket’ Post Lily Collins Exit",
+          "summary": "Lili Reinhart is in talks to star in and executive produce Amazon MGM Studios and Mattel Studios’ Polly Pocket, we understand. The news follows Emily in Paris star Lily Collins departure from the project a while ago due to a scheduling conflict.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/ivy-lion-productions-development-funding-gotham-group-1237230021/"
+          "url": "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090/"
         },
         {
-          "headline": "‘Hunger Games: Sunrise On The Reaping’ 2nd Best Previews YTD & For Franchise With $21M; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office Update",
-          "summary": "FRIDAY AM AFTER THURSDAY EXCLUSIVE: Lionsgate’s Francis Lawrence directed The Hunger Games: Sunrise on the Reaping came in with $21M in overall previews since Wednesday. As we told you that’s the second best for the Suzanne Collins franchise behind Catching Fire‘s $25.2M and the second best for 2026 behind Spider-Man: Brand New Day‘s $72M.",
+          "headline": "All The Songs In Netflix’s ‘Steps’: Olivia Rodrigo To Amanda Seyfried",
+          "summary": "Netflix’s animated Cinderella retelling Steps focuses on the perspective of the princesses supposedly “wicked” and “evil” stepsisters, Lilith (voiced by Ali Wong) and Margot (Stephanie Hsu). Amanda Seyfried voices Cinderella in the film, and she gets the chance to show off her vocals and sing some songs alongside needle drops from Olivia Rodrigo, Benson…",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          "url": "https://deadline.com/2026/11/steps-songs-soundtrack-netflix-cinderella-movie-animated-1237229486/"
         },
         {
           "headline": "Rich Eisen’s ‘Beautiful Day’: Landing All Four Members of U2 as Guests",
@@ -925,22 +925,16 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Gérard Depardieu Faces New Rape and Sexual Assault Complaint Alongside Director Guillaume Nicloux and Writer Michel Houellebecq",
-          "summary": "French actor Gérard Depardieu is facing a new complaint alleging rape and sexual assault during the filming of Guillaume Nicloux’s “Thalasso” in 2018, according to an investigation published by Mediapart on Thursday. The complaint also names Nicloux, who directed the film, and Michel Houellebecq, one of France’s most celebrated novelists who starred…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/gerard-depardieu-rape-complaint-guillaume-nicloux-houellebecq-1236954229/"
+          "headline": "Tony Winner Ivy Lion Productions Gets Development Capital For Film & TV Push, Switches From Zero Gravity To Gotham Group For Management",
+          "summary": "EXCLUSIVE: Tony-winning Ivy Lion Productions has secured development capital for IP acquisitions and recently switched management from Zero Gravity to the Gotham Group. Last season, at the age of 33, Ivy Lion’s Lamar Richardson became the youngest Black lead producer to win a Tony (Best Revival of Musical for Ragtime).",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ivy-lion-productions-development-funding-gotham-group-1237230021/"
         },
         {
-          "headline": "Women In Vertical Media: Execs From Shorties Studios, aTwist & Eris Join Inaugural Advisory Circle",
-          "summary": "EXCLUSIVE: Women in Vertical Media (WVM) has unveiled its inaugural advisory circle, with execs from Shorties Studios, aTwist and Eris Talent Agency on board. The L.A.-based organization, which seeks to amplify women’s achievements in the burgeoning U.S.",
+          "headline": "‘Hunger Games: Sunrise On The Reaping’ 2nd Best Previews YTD & For Franchise With $21M; Scorches ‘Wicked’ & ‘The Odyssey’ – Box Office Update",
+          "summary": "FRIDAY AM AFTER THURSDAY EXCLUSIVE: Lionsgate’s Francis Lawrence directed The Hunger Games: Sunrise on the Reaping came in with $21M in overall previews since Wednesday. As we told you, that’s the second best for the Suzanne Collins franchise behind Catching Fire‘s $25.2M in 2013 and the second best for 2026 behind Spider-Man: Brand New Day‘s […]",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/women-in-vertical-media-inaugural-advisory-circle-1237229953/"
-        },
-        {
-          "headline": "Don’t Tell Comedy & Cash App Partner On Slate Of Half-Hour Stand-Up Specials",
-          "summary": "EXCLUSIVE: Half-hour specials have long been “an important milestone for working comics,” observes Brett Kushner, COO of stand-up producer Don’t Tell Comedy. Major platforms such as Comedy Central once backed them consistently as a way to break new talent.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/dont-tell-comedy-cash-app-partner-half-hour-special-slate-1237229481/"
+          "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
         },
         {
           "headline": "Sofia Coppola Pays Tribute to Late Mother Eleanor Coppola at Chanel-Hosted Paris Screening of ‘Making Marie Antoinette’",
@@ -953,6 +947,12 @@
           "summary": "Rock star Melissa Etheridge is a huge fan of the National Women's Soccer League and loves supporting the Kansas City Current.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/melissa-etheridge-is-cheering-for-the-kansas-city-current-in-the-nwsl-final/"
+        },
+        {
+          "headline": "Megan Rapinoe says it's a \"huge honor\" to be elected to National Soccer Hall of Fame",
+          "summary": "U.S. soccer legend Megan Rapinoe shares what it means to her to be elected to the National Soccer Hall of Fame, who she's rooting for in the NWSL Championship and more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/megan-rapinoe-says-its-a-huge-honor-to-be-elected-to-national-soccer-hall-of-fame/"
         }
       ]
     },
@@ -960,6 +960,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Selena Gomez Recalls How Martin Short Accidentally Cut Her Wedding Cake Early: ‘He Looked Like a Little Dog’",
+          "summary": "Selena Gomez , Martin Short and Steve Martin are the trio that keeps on giving! Related Tickets for the Highly Anticipated KPop Demon Hunters Golden World Tour Are Finally On Sale: Get Yours Here A Full List of Current 2026 K-Pop Concerts (Updating) Amazon Prime Video Black Friday Cyber Monday Deals: Save Big on Streaming Add-Ons, Movie Purchases & More…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/selena-gomez-martin-short-cut-her-wedding-cake-early-1236386422/"
+        },
+        {
+          "headline": "How Orchestra Noir turned classical music into a cultural movement",
+          "summary": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be. (Image credit: Andre Calder)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music"
+        },
         {
           "headline": "Tom Waits’ Rare ‘Orphans: Bonus’ EP, Previously Vinyl-Only, Now Streaming",
           "summary": "Six songs include covers, a collaboration, and originals",
@@ -977,21 +989,9 @@
           "summary": "Billie Eilish will headline BST’s Hyde Park festival in 2027, joining the London festival’s stacked slate for next summer. Related Harry Styles, Sam Fender & Billie Eilish to Headline Glastonbury Festival 2027: See The Lineup Billie Eilish & FINNEAS Follow Lucy Dickins to CAA for Global Touring, WME to Share in North America Harry Styles Hits Festivals &…",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/pop/billie-eilish-bst-hyde-park-2027-headliner-1236386423/"
-        },
-        {
-          "headline": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
-          "summary": "The keenly awaited loosie has found a home on the blockbuster game’s soundtrack",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/"
-        },
-        {
-          "headline": "Trump, Putin & Xi’s New Photo Op Looks Like This Classic ’90s Album: Here’s How the Internet Is Reacting",
-          "summary": "Ever since its 1994 release, the album art for Weezer ‘s self-titled debut, commonly known as The Blue Album, has been meme fodder. Whenever a group of people stands before a blue background, observers note the resemblance to the famous record’s cover.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/trump-putin-xi-photo-weezer-blue-album-internet-reacts-1236386400/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-20T11:20:50-05:00"
+  "updatedAt": "2026-11-20T11:46:32-05:00"
 }
