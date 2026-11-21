@@ -48,6 +48,12 @@
           "url": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/"
         },
         {
+          "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+        },
+        {
           "headline": "Trump says he wants \"permanent\" deal with Iran",
           "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
@@ -64,12 +70,6 @@
           "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "What's behind the uptick in attacks in the Strait of Hormuz?",
-          "summary": "Reported Strait of Hormuz attacks have been higher in number in October and November than other months since the war between the U.S., Israel and Iran began, data shows.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456"
         }
       ]
     },
@@ -79,32 +79,92 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124196848596640176",
-          "created_at": "2026-11-21T17:42:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "All flights at Khrabrovo Airport in Kaliningrad are temporarily suspended. Air raid sirens sounded over a possible drone threat.\n\nEarlier today, a Kaliningrad-bound cargo ship was hit by a drone in the Gulf of Finland. https://t.co/gq6TBag3s5",
-          "url": "https://x.com/Osint613/status/2124196848596640176",
+          "id": "2124203833081659638",
+          "created_at": "2026-11-21T18:10:34.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Has Dabo lost the locker room? Clemson players sent a loud message to Swinney’s critics after upsetting Duke as nearly two-touchdown underdogs.\n\nPlus, Dabo had a few things to get off his chest.\n\n✍️: @mattyfoles \nhttps://t.co/2ARQpUmPhO",
+          "url": "https://x.com/SportNState/status/2124203833081659638",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124195534328012942",
-          "created_at": "2026-11-21T17:37:35.000Z",
+          "id": "2124203811375874058",
+          "created_at": "2026-11-21T18:10:29.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Sirens sounding in Kaliningrad, Russia, over a reported drone threat. https://t.co/aun6B96IYf",
-          "url": "https://x.com/Osint613/status/2124195534328012942",
+          "text": "The IDF is preparing for the possibility that Iran holds unconventional weapons. Defense officials do not see the threat as imminent.\n\nChief of Staff Zamir, behind closed doors: \"We are constantly monitoring the development of serious threats in Iran and preparing accordingly,",
+          "url": "https://x.com/Osint613/status/2124203811375874058",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124194830989271113",
-          "created_at": "2026-11-21T17:34:47.000Z",
+          "id": "2124203731113914621",
+          "created_at": "2026-11-21T18:10:09.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Iranian professor Foad Izadi told Mario Nawfal that Iran would “punch the U.S. in the nose,” adding, “You’ll see that in the next few days probably.”\n\nMario Nawfal responded, “I do sympathize with Iran’s positions of this war… And if anyone says, you know, Iran wants to charge a https://t.co/HylgwvLSPX",
-          "url": "https://x.com/Osint613/status/2124194830989271113",
+          "text": "BREAKING: Iranian attack on Bahrain right now",
+          "url": "https://x.com/Osint613/status/2124203731113914621",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124202245893886273",
+          "created_at": "2026-11-21T18:04:15.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "ISRAEL: Unity government talks are stalled. \n\nLiberman and Golan refuse to join if Netanyahu shares the premiership. Even with Bennett’s 7 seats, the coalition would need more backing, making new elections possible.",
+          "url": "https://x.com/Osint613/status/2124202245893886273",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124201284693524818",
+          "created_at": "2026-11-21T18:00:26.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "PRATT UNLEASHES WARRIOR KID, PATTINSON CLAIMS BOND | RAM LIVE https://t.co/ZBK5X8v6oe",
+          "url": "https://x.com/RealAmVoice/status/2124201284693524818",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124201179995643956",
+          "created_at": "2026-11-21T18:00:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "America's Top 10 for 11/21/26 - #1 STORY OF THE WEEK \n\n@realwayneroot Breaks Down the Top 10 Stories of the Week https://t.co/YroqaZ9GFQ",
+          "url": "https://x.com/RealAmVoice/status/2124201179995643956",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124200323740733819",
+          "created_at": "2026-11-21T17:56:37.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "There is no current threat to the Kaliningrad region, and the drone alert is expected to be lifted soon, according to the regional governor. He attributed the alert to a suspicious object detected heading in from the direction of Lithuania. https://t.co/gq6TBafvCx",
+          "url": "https://x.com/Osint613/status/2124200323740733819",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124199976158781882",
+          "created_at": "2026-11-21T17:55:14.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "\"Dolly Hated Kiffin\" flying over Knoxville 💀 https://t.co/M7C0Dkll5t",
+          "url": "https://x.com/Outkick/status/2124199976158781882",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124198513139753356",
+          "created_at": "2026-11-21T17:49:25.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Brazilian President Lula:\n\nOur victory was so important that my opponent ran away. He ran away.\n\nHe wasn't even being tried yet.\n\nWhat was he running from? It's in the family's DNA.\n\nAt the slightest problem, Miami. At the slightest problem, Miami. https://t.co/A8INQkDt2d",
+          "url": "https://x.com/Osint613/status/2124198513139753356",
           "verified": true,
           "verified_type": "blue"
         },
@@ -115,26 +175,6 @@
           "author_handle": "ClayTravis",
           "text": "We are growing @xx_xyathletics like gangbusters thanks to you guys and our ad just aired on @SECNetwork during Vandy-Florida. Very cool. Go buy all your athletic gear here if you’re a sane sports fan. https://t.co/96u1fXFK3f",
           "url": "https://x.com/ClayTravis/status/2124194629210042380",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124194118158975101",
-          "created_at": "2026-11-21T17:31:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "House Democratic Leader Hakeem Jeffries:\n\nPete Hegseth should be impeached if Donald Trump fails to remove him. \n\nPete Hegseth abused his power, undermined America's national security. \n\nOf course, he has to go.",
-          "url": "https://x.com/Osint613/status/2124194118158975101",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124193821164712088",
-          "created_at": "2026-11-21T17:30:47.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Leader of the Democrats in the U.S. House of Representatives, Hakeem Jeffries:\n\n\"The most important step as the next Congress begins is passing a law to prevent settler violence in the 'West Bank.'\"",
-          "url": "https://x.com/Osint613/status/2124193821164712088",
           "verified": true,
           "verified_type": "blue"
         },
@@ -239,32 +279,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124174404208714126",
-          "created_at": "2026-11-21T16:13:37.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP VOWS PERMANENT IRAN DEAL: NO NUKES, NO FUTURE THREATS!\n\n“I'm gonna make it so if we have an incompetent president...I'm gonna make a deal that's gonna be PERMANENT.”\n\nPresident Trump says he intends to secure a PERMANENT nuclear agreement with Iran, ensuring future",
-          "url": "https://x.com/RealAmVoice/status/2124174404208714126",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124172655779614909",
           "created_at": "2026-11-21T16:06:41.000Z",
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
           "text": "Dragon is on track to reenter Earth’s atmosphere and splash down off the southern coast of California near Los Angeles at ~2:05 p.m. PT https://t.co/wGJB6jq2s1",
           "url": "https://x.com/SpaceX/status/2124172655779614909",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124169717623538084",
-          "created_at": "2026-11-21T15:55:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WALL STREET VETERAN: AI COULD BLOW A HOLE IN THE MARKET\n\n@JasonTrennert_ says he hasn’t seen a week this unnerving since the 2008-2009 financial crisis — and warns the market has become dangerously dependent on the AI trade.\n\n“This is very, very scary.”\n\nHe says a handful of tech https://t.co/JJWb1yiqcG",
-          "url": "https://x.com/RealAmVoice/status/2124169717623538084",
           "verified": true,
           "verified_type": "business"
         },
@@ -559,16 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123953043913765352",
-          "created_at": "2026-11-21T01:34:01.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "President Donald Trump put the Protect College Sports Act back at the forefront Friday, urging Congress to make passing it a priority. Soon after, lawmakers unveiled a revised version aimed at clearing some of the hurdles that have stalled it in the House.\n\n@ByGusWilson breaks",
-          "url": "https://x.com/SportNState/status/2123953043913765352",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123951025312678144",
           "created_at": "2026-11-21T01:26:00.000Z",
           "author_name": "Clay Travis",
@@ -629,16 +639,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123897210228392204",
-          "created_at": "2026-11-20T21:52:09.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "John Harbaugh can’t believe the Colts cut Daniel Jones 😬 https://t.co/oiQtHn2ncp",
-          "url": "https://x.com/Outkick/status/2123897210228392204",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123883831652679706",
           "created_at": "2026-11-20T20:58:59.000Z",
           "author_name": "Glenn Beck",
@@ -665,26 +665,6 @@
           "author_handle": "Timcast",
           "text": "If this is true...\n\nMy god\n\nWelcome to the singularity https://t.co/PkWPHalxFd",
           "url": "https://x.com/Timcast/status/2123843959340310871",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123787524468625791",
-          "created_at": "2026-11-20T14:36:18.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "“Grifting”…. by saying what I genuinely believe consistently https://t.co/DbKjR7cXZf",
-          "url": "https://x.com/MattWalshBlog/status/2123787524468625791",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123786642532217212",
-          "created_at": "2026-11-20T14:32:48.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "I hadn’t even read this whole thread in detail. He really caught me being totally correct and predicting the mid terms blowout in March. This thread is the most flattering and vindicating hit piece I’ve ever seen. https://t.co/NNuiaN0J0e",
-          "url": "https://x.com/MattWalshBlog/status/2123786642532217212",
           "verified": true,
           "verified_type": "blue"
         },
@@ -747,6 +727,26 @@
           "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123212911640223945",
+          "created_at": "2026-11-19T00:33:00.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
+          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123205567728722236",
+          "created_at": "2026-11-19T00:03:49.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
+          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
+          "verified": true,
+          "verified_type": "blue"
         }
       ]
     },
@@ -773,16 +773,16 @@
           "url": "https://abcnews.com/Politics/wireStory/democrats-swept-senate-promised-change-leadership-vote-testing-138342385"
         },
         {
+          "headline": "11/21: CBS Saturday Morning",
+          "summary": "The stock market sees its lowest week of 2026. Plus, the magical migration of monarch butterflies.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/112126-cbs-saturday-morning/"
+        },
+        {
           "headline": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
           "summary": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats"
-        },
-        {
-          "headline": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
-          "summary": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker"
         }
       ]
     },
@@ -827,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Titans linebacker Jaylen Harrell involved in serious traffic accident on Friday, remains hospitalized in Florida",
-          "summary": "The Tennessee Titans announced on Saturday that linebacker Jaylen Harrell was involved in a serious traffic accident on Friday. Harrell was in his hometown of Tampa, Florida, when the accident occurred.",
+          "headline": "Scottish Premiership: Dundee & Hearts goalless after cagey opening",
+          "summary": "Listen to Sportsound, including commentary from Dens & Fir Park Dundee & Hearts make two changes each Motherwell v Rangers (20:00) Leaders Celtic score three in nine minutes to beat St Mirren Falkirk beat St Johnstone to match 60-year-old milestone Dundee Utd eight unbeaten after four-goal thrashing of Hibs Aberdeen's Frick starts with win in six-goal…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/titans-linebacker-jaylen-harrell-involved-in-serious-traffic-accident-on-friday-remains-hospitalized-in-florida-174234756.html"
+          "url": "https://sports.yahoo.com/articles/scottish-premiership-dundee-host-hearts-172052895.html"
+        },
+        {
+          "headline": "Scotland thrash Japan 67-5 as McConnell and Graham hit rugby hat tricks",
+          "summary": "Try hat tricks by flanker Liam McConnell and winger Darcy Graham led Scotland's 67-5 defeat of Japan in Nations Championship rugby at Murrayfield on Saturday. Scotland scored 11 tries with a team of 11 changes after the attritional 15-12 win over Australia last weekend.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/scotland-thrash-japan-67-5-180713189.html"
+        },
+        {
+          "headline": "Fifpro criticises Bayern Munich for Musiala comments",
+          "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Leeds 'created piece of history' in Chelsea win - Farke",
           "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Bills add Ed Oliver to injury report, list him as questionable",
-          "summary": "The Bills made a late addition to their injury report for Sunday's game against the Dolphins. Defensive tackle Ed Oliver is now listed as questionable to play in Buffalo's home game against their AFC East foes.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bills-add-ed-oliver-injury-174038071.html"
-        },
-        {
-          "headline": "Alcaraz battles back against Shelton to reach final",
-          "summary": "Carlos Alcaraz will have the chance to end his wait for a first ATP Finals title after completing a superb comeback victory over Ben Shelton.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "'Wait Wait' for November 21, 2026: With Not My Job guest William Jackson Harper",
@@ -899,16 +899,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Actor Awards Predictions: Andrew Garfield, Inde Navarrette and ‘The Odyssey’ Lead an Unsettled Film Race as ‘Widow’s Bay’ and HBO Max Could Rule TV",
+          "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not…",
+          "source": "Variety",
+          "url": "https://variety.com/lists/2027-sag-actor-awards-predictions/"
+        },
+        {
           "headline": "Celluloid Sounds: Fewer Women Composers on Screen, But Some Hit the Right Notes",
           "summary": "The stats for women composers in Hollywood have not improved. Just eight of this year’s top 100 grossing films feature original scores by women; the past two years have seen percentages between 7 and 9%, all down from 14% in 2023.",
           "source": "Variety",
           "url": "https://variety.com/2026/artisans/news/fewer-women-composers-awards-season-1236953531/"
-        },
-        {
-          "headline": "CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’",
-          "summary": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/"
         },
         {
           "headline": "‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
@@ -935,6 +935,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’",
+          "summary": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/"
+        },
+        {
           "headline": "Saturday Sessions: Mynd Reader plays \"Still Uncertain\"",
           "summary": "Colorado-based band Mynd Reader is a second act for Brian Sachs, who played in New York funk-rock group \"The Authority\" back in the 90s. Sachs joined multi-instrumentalist Tonin to form a new band.",
           "source": "CBS News",
@@ -957,12 +963,6 @@
           "summary": "The union has created a healthcare task force as its members talk openly about having troubles qualifying for its health plan and paying dues.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332/"
-        },
-        {
-          "headline": "Hello Sunshine’s Lauren Neustadter Stepping Down at Year’s End (Exclusive)",
-          "summary": "The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T12:45:23-05:00"
+  "updatedAt": "2026-11-21T13:17:52-05:00"
 }
