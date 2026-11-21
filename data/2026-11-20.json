@@ -24,16 +24,16 @@
           "url": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo"
         },
         {
-          "headline": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
-        },
-        {
           "headline": "Can Anthropic win hearts and minds by curing hearts and minds?",
           "summary": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/"
+        },
+        {
+          "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
         }
       ]
     },
@@ -79,22 +79,52 @@
       "stories": [],
       "posts": [
         {
+          "id": "2123991780869943752",
+          "created_at": "2026-11-21T04:07:57.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Watch Falcon 9 launch the USSF-317 mission from pad 4E in California https://t.co/QaX7ffl3PM",
+          "url": "https://x.com/SpaceX/status/2123991780869943752",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123991627366883815",
+          "created_at": "2026-11-21T04:07:20.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "DGG is going to be special next year for Tennessee. I think he could start on most college teams this year.  https://t.co/grY1c0AhIP",
+          "url": "https://x.com/ClayTravis/status/2123991627366883815",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123990942910746833",
+          "created_at": "2026-11-21T04:04:37.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Patriot https://t.co/5MfK6Y8QpJ",
+          "url": "https://x.com/LauraLoomer/status/2123990942910746833",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123987388645171640",
+          "created_at": "2026-11-21T03:50:29.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Bitcoin falls below $57,000 for the first time since September 2024, officially erasing all gains since President Trump won the 2024 Election.\n\nCrypto markets are now down -$2.3 trillion from their record high. https://t.co/fbbvTKw4wC",
+          "url": "https://x.com/KobeissiLetter/status/2123987388645171640",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2123985607173312576",
           "created_at": "2026-11-21T03:43:25.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Michigan vs. MSU BRAWL!  https://t.co/WZEUvnS7V2",
           "url": "https://x.com/Outkick/status/2123985607173312576",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123985302406525053",
-          "created_at": "2026-11-21T03:42:12.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Bitcoin falls below $57,000 for the first since since September 2024, officially erasing all gains since President Trump won the 2024 Election.\n\nCrypto markets are now down -$2.3 trillion from their record high. https://t.co/wrZIfXO9sg",
-          "url": "https://x.com/KobeissiLetter/status/2123985302406525053",
           "verified": true,
           "verified_type": "business"
         },
@@ -349,16 +379,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123929271567827390",
-          "created_at": "2026-11-20T23:59:33.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "The Trump administration should BAN Halal slaughter in America.",
-          "url": "https://x.com/LauraLoomer/status/2123929271567827390",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123928627758748049",
           "created_at": "2026-11-20T23:57:00.000Z",
           "author_name": "Clay Travis",
@@ -405,16 +425,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡We just sent Inner Ring subscribers another tactical note.\n\nThere was no safe place in markets this week.\n\nThe Nasdaq gave back its gains for the year, chips crashed, gold fell right along with them, and Taiwan's market had its worst week since the early 1990s.\n\nBitcoin was",
           "url": "https://x.com/_The_Prophet__/status/2123919587377094897",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123911408710832183",
-          "created_at": "2026-11-20T22:48:34.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "You know what I think is racist? Acting like people in Baltimore should just have to accept violent crime as a part of everyday life. Everyone deserves to live in a safe community. Instead of attacking people for pointing out the problem, why aren't we focused on fixing it? https://t.co/KnEORV7ZSl",
-          "url": "https://x.com/ClayTravis/status/2123911408710832183",
           "verified": true,
           "verified_type": "blue"
         },
@@ -649,16 +659,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123809508187078839",
-          "created_at": "2026-11-20T16:03:39.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Members of the Starship production team with Starship 42 before its launch https://t.co/1yPiV8h5Zu",
-          "url": "https://x.com/SpaceX/status/2123809508187078839",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123807811154903117",
           "created_at": "2026-11-20T15:56:55.000Z",
           "author_name": "Tim Pool",
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Davis and Dybantsa help the Wizards knock off the Bulls 98-94 in NBA Cup action",
-          "summary": "CHICAGO (AP) — Anthony Davis had 36 points and 11 rebounds, and the Washington Wizards beat the Chicago Bulls 98-94 in an NBA Cup game on Friday night. AJ Dybantsa had 20 points, 10 rebounds and six assists for Washington, which posted its second straight win after an eight-game losing streak.",
+          "headline": "Providence basketball commit Lewis Uvwo shares emotional family reunion after year apart",
+          "summary": "Five-star center Lewis Uvwo, a native of Nigeria, hadn't seen his parents in more than a year. That changed on Thursday, Nov.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/davis-dybantsa-help-wizards-knock-033744791.html"
+          "url": "https://sports.yahoo.com/articles/providence-basketball-commit-lewis-uvwo-040857868.html"
         },
         {
-          "headline": "Raptors’ Scottie Barnes puts Cade Cunningham on a poster with fast break dunk",
-          "summary": "David Richard-Imagn Images Raptors’ Scottie Barnes puts Cade Cunningham on a poster with fast break dunk appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Raptors upset Pistons, Harden scores 51 in Cavs win",
+          "summary": "Scottie Barnes hugs Toronto teammate Immanuel Quickley as the Raptors celebrate an upset win over Detroit (Duane Burleson) Scottie Barnes scored 29 points as the Toronto Raptors upset the Detroit Pistons 105-102 in the NBA Cup on Friday. Barnes drained a driving layup to give Toronto a 103-102 lead with 14 seconds remaining and hand the Raptors a crucial…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/raptors-scottie-barnes-puts-cade-033509981.html"
+          "url": "https://sports.yahoo.com/articles/raptors-upset-pistons-harden-scores-040823410.html"
+        },
+        {
+          "headline": "LSU's MiLaysia Fulwiley no longer facing felony charges for evading traffic stop",
+          "summary": "LSU senior guard MiLaysia Fulwiley will be charged with traffic citations but will not face any felony charges in connection with her arrest Saturday night after she allegedly attempted to evade police officers who tried to pull her over",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/lsus-milaysia-fulwiley-longer-facing-felony-charges-evading-138333539"
+        },
+        {
+          "headline": "Johnson scores 39, Idaho State downs South Dakota State 86-71",
+          "summary": "Malachi Johnson’s 39 points led Idaho State over South Dakota State 86-71 on Friday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/johnson-scores-39-idaho-state-downs-south-dakota-138334000"
         },
         {
           "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
           "summary": "Indy has put themselves in a very tough spot after sitting on the fence at the deadline.",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/"
-        },
-        {
-          "headline": "Fantasy Baseball Offseason Tracker: Royce Lewis provides depth for Dodgers' aging infield",
-          "summary": "Here's a rundown of the offseason moves that matter",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-royce-lewis-provides-depth-for-dodgers-aging-infield/"
-        },
-        {
-          "headline": "Drivers limited to 27 laps for tyres in Qatar",
-          "summary": "Formula 1 drivers will be limited to a maximum of 27 laps on a set of tyres at next weekend's Qatar Grand Prix.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7l0l313rno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -923,10 +923,10 @@
           "url": "https://variety.com/2026/tv/news/melania-trump-series-gaza-israel-children-peace-amazon-1236954718/"
         },
         {
-          "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
-          "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
+          "headline": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
+          "summary": "Rockstar Games has finally revealed the cast behind \"Grand Theft Auto VI,\" ending years of secrecy",
           "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/unflinching-josephine-beth-de-arajo-transmutes-tragedy-art-138317266"
+          "url": "https://abcnews.com/Entertainment/wireStory/gta-vi-finally-reveals-actors-voices-familiar-names-138303553"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T22:47:20-05:00"
+  "updatedAt": "2026-11-20T23:14:46-05:00"
 }
