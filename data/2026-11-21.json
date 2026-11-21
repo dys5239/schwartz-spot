@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Google employees protest AI in schools policy",
+          "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
+        },
+        {
           "headline": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
           "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "The stock market plunged soon after Anthropic's record-setting IPO.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/market-tumbles-after-tech-stock-sell-off/"
-        },
-        {
-          "headline": "Can Anthropic afford to put safety first?",
-          "summary": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
         }
       ]
     },
@@ -41,6 +41,24 @@
       "id": "news",
       "title": "News",
       "stories": [
+        {
+          "headline": "Lock of George Washington's hair sells at auction for $4,000",
+          "summary": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/"
+        },
+        {
+          "headline": "Cartel leader on FBI's most wanted list arrested",
+          "summary": "Fausto Isidro Meza Flores, known as \"Chapo Isidro,\" was captured in an operation in Sinaloa.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
+        },
+        {
+          "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
+          "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/"
+        },
         {
           "headline": "Spitting Image co-creator Peter Fluck dies aged 85",
           "summary": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
@@ -52,24 +70,6 @@
           "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Cartel leader on FBI's most wanted list arrested",
-          "summary": "Fausto Isidro Meza Flores, known as \"Chapo Isidro,\" was captured in an operation in Sinaloa.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
-        },
-        {
-          "headline": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
-          "summary": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706"
-        },
-        {
-          "headline": "Bayer reaches Roundup settlement that could cost the company billions",
-          "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide. (Image credit: Justin Sullivan)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement"
         }
       ]
     },
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124264306154057992",
+          "created_at": "2026-11-21T22:10:52.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "Echoes don’t choose.\n\nThey return.\n\nWhen the name is spoken. ⚡️",
+          "url": "https://x.com/_The_Prophet__/status/2124264306154057992",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124262638192660846",
+          "created_at": "2026-11-21T22:04:14.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Splashdown of Dragon confirmed, completing SpaceX’s 35th Commercial Resupply Services mission to the @Space_Station!",
+          "url": "https://x.com/SpaceX/status/2124262638192660846",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124261858547048779",
+          "created_at": "2026-11-21T22:01:08.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Dragon’s four main parachutes have deployed",
+          "url": "https://x.com/SpaceX/status/2124261858547048779",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124261680028807397",
+          "created_at": "2026-11-21T22:00:26.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Drogues deployed",
+          "url": "https://x.com/SpaceX/status/2124261680028807397",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124261573804048800",
+          "created_at": "2026-11-21T22:00:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "DR. JEROME CORSI ALLEGES ALGORITHM MANIPULATED 2026 MIDTERM RESULTS\n\nInvestigative reporter Dr. Jerome Corsi alleges that an unusual mathematical pattern in the 2026 midterm results warrants investigation. Corsi describes what he calls a \"15-85 rule,\" suggesting that computerized https://t.co/LA5Sld5Usc",
+          "url": "https://x.com/RealAmVoice/status/2124261573804048800",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124261258828628329",
+          "created_at": "2026-11-21T21:58:45.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "A Nebraska fan took an entire BLEACHER home with him 🤣 https://t.co/pegWYlyKP7",
+          "url": "https://x.com/SportNState/status/2124261258828628329",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124261083175379119",
+          "created_at": "2026-11-21T21:58:03.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️The most revealing part of the Riemann Hypothesis breakthrough is that it challenges something mathematicians have believed about the nature of discovery itself.\n\nFor centuries, the difficulty of a mathematical problem has been judged partly by how much new theory must be https://t.co/PcC9WGvudj",
+          "url": "https://x.com/_The_Prophet__/status/2124261083175379119",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124260508874190905",
+          "created_at": "2026-11-21T21:55:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "7700 means a general aircraft emergency. When a pilot “squawks 7700,” the aircraft’s transponder alerts air traffic control. \n\nWe don’t know the cause yet.",
+          "url": "https://x.com/Osint613/status/2124260508874190905",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124260183472037916",
+          "created_at": "2026-11-21T21:54:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NOW: U.S. Air Force F-35 operating over the Strait of Hormuz has broadcast emergency code 7700.\n\nHeaded back to the UAE. https://t.co/pOvcFj4FhK",
+          "url": "https://x.com/Osint613/status/2124260183472037916",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124259462542471578",
+          "created_at": "2026-11-21T21:51:37.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "How do you possibly miss that call? He tackled him before the ball was there!",
+          "url": "https://x.com/ClayTravis/status/2124259462542471578",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124259306803429513",
+          "created_at": "2026-11-21T21:51:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TEXAS U.S. ATTORNEY ACCUSES HOUSTON DA OF POLITICAL PERSECUTION AGAINST ICE\n\n@aaron_reitz tells Treniss Evans that a Harris County prosecutor is using an ICE agent's indictment to score political points against the Trump administration.\n\n“That ICE agent is not just being https://t.co/UA1Ar4pOxh",
+          "url": "https://x.com/RealAmVoice/status/2124259306803429513",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124259078969102405",
+          "created_at": "2026-11-21T21:50:05.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I can confirm that @HSI_HQ HSI, DHS @DHSgov and FBI @FBI are now in possession of evidence of @sneako supporting the Haqqani Network, a designated Islamic terrorist organization that serves as a militant wing for the Taliban to murder US Service members and Afghan women and https://t.co/GArpoE13D4",
+          "url": "https://x.com/LauraLoomer/status/2124259078969102405",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124256538734809096",
           "created_at": "2026-11-21T21:40:00.000Z",
@@ -199,32 +319,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124247246594318625",
-          "created_at": "2026-11-21T21:03:04.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "@POTUS ONE MORE!\n\nhttps://t.co/y8KAPWTO70",
-          "url": "https://x.com/RealAmVoice/status/2124247246594318625",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124247076465000908",
           "created_at": "2026-11-21T21:02:24.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Nebraska fan took the bleacher with him on his way out 🤣🤣🤣 https://t.co/HD8otAQG7e",
           "url": "https://x.com/Outkick/status/2124247076465000908",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124247020496150853",
-          "created_at": "2026-11-21T21:02:10.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS ON A POSTING ROLL TODAY!\n\nLet's do a compare and contrast from President Trump's recent China trip and Obama's trip...😉\n\nhttps://t.co/KoPwroIN9S",
-          "url": "https://x.com/RealAmVoice/status/2124247020496150853",
           "verified": true,
           "verified_type": "business"
         },
@@ -295,36 +395,6 @@
           "author_handle": "SportNState",
           "text": "No. 10 BYU STAYS ALIVE in the CFP race, and avoids a massive upset in 3 OTs https://t.co/GXl4jGKXSx",
           "url": "https://x.com/SportNState/status/2124244458879221800",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124244430723137750",
-          "created_at": "2026-11-21T20:51:53.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "All clear in the Mecca region, per Saudi Civil Defense. https://t.co/te4bkBzXz8",
-          "url": "https://x.com/Osint613/status/2124244430723137750",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124243374442213751",
-          "created_at": "2026-11-21T20:47:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Several Iranian aerial attacks intercepted by Bahraini air defences.\n\nBahrain Defence Force",
-          "url": "https://x.com/Osint613/status/2124243374442213751",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124243142543110546",
-          "created_at": "2026-11-21T20:46:46.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "https://t.co/2LpKT8Bi2o https://t.co/a1Du2Rz942",
-          "url": "https://x.com/SportNState/status/2124243142543110546",
           "verified": true,
           "verified_type": "blue"
         },
@@ -419,16 +489,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124234488985031103",
-          "created_at": "2026-11-21T20:12:23.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Nebraska! Is it finally happening?! https://t.co/XNnuDwHrIj",
-          "url": "https://x.com/ClayTravis/status/2124234488985031103",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124234075661857211",
           "created_at": "2026-11-21T20:10:44.000Z",
           "author_name": "Laura Loomer",
@@ -479,16 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124224048070570360",
-          "created_at": "2026-11-21T19:30:53.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Indeed. And guess who is at the center of all of that?\n\nThere’s a reason why there was a whiplash effect to my post this week. \n\nAll of the worst people came out of the woodwork to defend their friend in PPO.\n\nPPO has been a disaster since day one of this administration. \n\nI have https://t.co/W3XDoB5odZ",
-          "url": "https://x.com/LauraLoomer/status/2124224048070570360",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124219646459220296",
           "created_at": "2026-11-21T19:13:24.000Z",
           "author_name": "Elon Musk",
@@ -515,26 +565,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️This is gold 😂 https://t.co/socDipqvrN",
           "url": "https://x.com/_The_Prophet__/status/2124217987716850113",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124217194469044433",
-          "created_at": "2026-11-21T19:03:39.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡For 35 years, few things scared powerful people like a stranger with a camera.\n\nIn 1991 a man on a Los Angeles balcony filmed police beating Rodney King. He had no press pass, no outlet, no following. He didn't need any. The tape was the credential.\n\nEvery viral clip since has",
-          "url": "https://x.com/_The_Prophet__/status/2124217194469044433",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124214960318484819",
-          "created_at": "2026-11-21T18:54:47.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️A character in GTA 6 reportedly figures out that his entire universe is a simulation.\n\nHis house is covered in evidence. He knows something is wrong with reality, and he’s developed a plan to escape.\n\nHe’s going to take a boat.\n\nHe intends to sail beyond the boundaries of the",
-          "url": "https://x.com/_The_Prophet__/status/2124214960318484819",
           "verified": true,
           "verified_type": "blue"
         },
@@ -579,26 +609,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124172739833414113",
-          "created_at": "2026-11-21T16:07:01.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Dragon will also announce its arrival with a brief sonic boom prior to splashing down in the Pacific Ocean",
-          "url": "https://x.com/SpaceX/status/2124172739833414113",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124172655779614909",
-          "created_at": "2026-11-21T16:06:41.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Dragon is on track to reenter Earth’s atmosphere and splash down off the southern coast of California near Los Angeles at ~2:05 p.m. PT https://t.co/wGJB6jq2s1",
-          "url": "https://x.com/SpaceX/status/2124172655779614909",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124167255584116772",
           "created_at": "2026-11-21T15:45:13.000Z",
           "author_name": "StockMarket.News",
@@ -637,16 +647,6 @@
           "url": "https://x.com/_Investinq/status/2124137029797924994",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124122550339002718",
-          "created_at": "2026-11-21T12:47:34.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Falcon 9 launches USSF-317 to orbit from pad 4E in California https://t.co/KDQs8l96Z4",
-          "url": "https://x.com/SpaceX/status/2124122550339002718",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124014140133941266",
@@ -817,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Lauralton Hall knocks off previously-unbeaten East Hampton to win CIAC Class M title, program's first",
-          "summary": "Lauralton Hall players celebrate after defeating East Hampton in the CIAC Class M girls soccer final at Trinity Health Stadium in Hartford, Conn., Saturday, November 21, 2026. (Dave Zajac/Hearst Connecticut Media) HARTFORD - Alivia Chappell's second-half goal ended up being the game-winner for No.",
+          "headline": "Real Madrid fight back to beat Celta Vigo and close the gap on Barça",
+          "summary": "Just in time! Real Madrid hosted Celta Vigo at the Santiago Bernabéu on Saturday evening for matchday 13 of La Liga.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lauralton-hall-knocks-off-previously-214255404.html"
+          "url": "https://sports.yahoo.com/articles/real-madrid-fight-back-beat-220900818.html"
         },
         {
-          "headline": "49ers waive ex-Bills, Saints WR with 9,869 career receiving yards",
-          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
+          "headline": "Titans defensive end Jaylen Harrell hospitalized after car crash",
+          "summary": "Tennessee Titans defensive end Jaylen Harrell remains hospitalized after being involved in a serious car accident Friday in his hometown of Tampa, Florida, the team announced Nov. 21.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/49ers-waive-ex-bills-saints-214011514.html"
+          "url": "https://sports.yahoo.com/articles/titans-defensive-end-jaylen-harrell-220446279.html"
         },
         {
-          "headline": "Week 11 NFL score predictions, best picks today: Expert reveals exact scores for every NFL game",
-          "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 11 NFL schedule",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-best-bets-today-for-week-11-2026/"
+          "headline": "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
+          "summary": "Joel Embiid had 26 points and 17 rebounds, LeBron James scored 13 of his 21 points in the fourth quarter and the Eastern Conference-leading Philadelphia 76ers held on for a 132-129 victory over Tyler Herro and the last-place Milwaukee Bucks",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/joel-embiid-lebron-james-lead-eastern-conference-leading-138349205"
         },
         {
-          "headline": "Fantasy football Week 11 PPR cheat sheet: Caleb Douglas primed to build on budding rapport with Kyle McCord",
-          "summary": "Dave Richard breaks down every viable starting option across every game using a 1-10 confidence scale to help managers navigate injuries, byes and tricky lineup decisions",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-ppr-cheat-sheet-caleb-douglas-primed-to-build-on-budding-rapport-with-kyle-mccord/"
+          "headline": "Navy scores with 15 seconds left, knocks off No. 24 Memphis 38-34 to shake up American Conf. race",
+          "summary": "Vic Listorti ran for a 6-yard touchdown on fourth down with 15 seconds remaining, and Navy shook up the American Conference title race with a 38-34 win over No. 24 Memphis",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/navy-scores-15-seconds-left-knocks-off-24-138349206"
         },
         {
-          "headline": "Ireland remind themselves that the best are beatable",
-          "summary": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin.",
+          "headline": "Rising star Stirling knocks out Prochazka",
+          "summary": "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -889,6 +889,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Kaitlan Collins Notes ‘Real Time’ Absence Was Due To White House Press Conference",
+          "summary": "The Season 24 finale of Real Time with Bill Maher featured a last-minute guest change as Kaitlan Collins was held up in Washington DC. Although she was scheduled to appear on the HBO talk show alongside newly elected Texas Democratic congressman Bobby Pulido, the CNN anchor explained she was covering a White House press conference […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/kaitlan-collins-real-time-absence-white-house-press-conference-1237231015/"
+        },
+        {
           "headline": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
           "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia.",
           "source": "Variety",
@@ -905,12 +911,6 @@
           "summary": "In a world of increasingly short attention spans, social media slop and doomscrolling brainrot, it’s a wonder why many television shows got longer in the streaming era. Case in point, the 22-minute broadcast sitcom was largely replaced by the 30-minute dramedy and the 43-minute procedural has been overshadowed by the hour-long premium drama series.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/"
-        },
-        {
-          "headline": "‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
-          "summary": "SPOILER ALERT! This post contains some details from the first two episodes of Percy Jackson and the Olympians Season 3.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/percy-jackson-season-3-walker-scobell-leah-jeffries-percabeth-1237230405/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -961,16 +961,22 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
+          "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
+        },
+        {
+          "headline": "Gorillaz, CHVRCHES, Yung Lean & More: 5 Best Moments in Mexico City’s Corona Capital (Day 1)",
+          "summary": "Corona Capital’s opening day on Friday (Nov. 20) marked Gorillaz ’s highly anticipated return to Mexico City after eight years away.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/corona-capital-mexico-day-1-gorillaz-chvrches-yung-lean/"
+        },
+        {
           "headline": "Gorillaz Celebrate Mexico’s ‘Revolutionary Spirit’ at Corona Capital, Bring Out Johnny Marr and Trueno",
           "summary": "Gorillaz returned to Mexico City on Friday (Nov. 20) for the first time in eight years, headlining the opening day of Corona Capital.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/latin/gorillaz-corona-capital-festival-2026-mexico-city-recap-1236387340/"
-        },
-        {
-          "headline": "BTS, ENHYPEN, BIGBANG & CORTIS Are Big Winners of 2026 MAMA Awards",
-          "summary": "BTS , ENHYPEN , BIGBANG and CORTIS were the big winners of the 2026 MAMA Awards , which were held Friday and Saturday (Nov. 20-21) at the Kyocera Dome Osaka, in Japan .",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/"
         },
         {
           "headline": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
@@ -983,15 +989,9 @@
           "summary": "The Spanish singer said \"Wildest Dreams\" is \"one of the songs I’ve listened to the most in my entire life\"",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/rosalia-praises-taylor-swift-master-songwriter-1235661869/"
-        },
-        {
-          "headline": "Grimes Releases Two New Psy Opera Songs",
-          "summary": "“Killing God With Computers” and the A.I.-assisted “Deepseek” both appear on Psy Opera",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-21T16:48:42-05:00"
+  "updatedAt": "2026-11-21T17:16:17-05:00"
 }
