@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Can Anthropic afford to put safety first?",
+          "summary": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
+        },
+        {
           "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
           "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
           "source": "NPR",
@@ -16,12 +22,6 @@
           "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit , a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word .",
           "source": "The Verge",
           "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
-        },
-        {
-          "headline": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-          "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros , but didn't release them outside China.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"
         },
         {
           "headline": "The Outages Are Just Getting Started",
@@ -48,10 +48,16 @@
           "url": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/"
         },
         {
-          "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-          "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
+          "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+          "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
           "headline": "Serious crash closes M42 near Birmingham Airport",
@@ -64,12 +70,6 @@
           "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people. (Image credit: Etienne Laurent)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction"
-        },
-        {
-          "headline": "Scouts say they face £1m tourist tax cost for overnight trips",
-          "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124159713721933968",
+          "created_at": "2026-11-21T15:15:15.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "54-year-old Chris Fraser, who has cerebral palsy, says his caregiver attacked him for HOURS inside his Wisconsin group home — stabbing him nine times and forcing him to play dead to survive.\n\nShe was charged with attempted first-degree intentional homicide.\n\nThen came the ruling:",
+          "url": "https://x.com/i/status/2124159713721933968",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124159679823769706",
+          "created_at": "2026-11-21T15:15:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Sound Ventures' Guy Oseary says he put $35 million into Anthropic at a $5 billion valuation, and he bought more at the IPO\n\n\"We invested at a $5 billion valuation... We put $35 million in at $5 billion\"\n\n\"Would you put more money in today if you could?\" \"In fact, I have... I put https://t.co/eK27HWKVSy",
+          "url": "https://x.com/i/status/2124159679823769706",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124154231644881089",
+          "created_at": "2026-11-21T14:53:28.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ROYCE WHITE: NO EXCUSES FOR MURDERING CHILDREN\n\n@Highway_30 is sounding the alarm over the Savage, Minnesota case involving a Somali mother accused of brutally killing her 3- and 5-year-old children — while also reportedly being tied to a massive Medicaid fraud investigation. https://t.co/9xDqHKWF0m",
+          "url": "https://x.com/i/status/2124154231644881089",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124150751047942551",
           "created_at": "2026-11-21T14:39:38.000Z",
@@ -177,26 +207,6 @@
           "url": "https://x.com/i/status/2124134556500742463",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124132402419187725",
-          "created_at": "2026-11-21T13:26:43.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST IN: Mexican special forces captured Fausto Isidro Meza Flores, “El Chapo Isidro,” one of the FBI’s Ten Most Wanted fugitives, in Guasave, Sinaloa, with U.S. intelligence assistance.\n\nThe U.S. had offered up to $5 million for information leading to his arrest and conviction.",
-          "url": "https://x.com/i/status/2124132402419187725",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124129503845003540",
-          "created_at": "2026-11-21T13:15:12.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Watch her reaction as Mamdani lays out his plan to reduce NYC’s jail population.\n\nLiterally holding back tears. https://t.co/6BV1oW4OdN",
-          "url": "https://x.com/i/status/2124129503845003540",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124129427026047221",
@@ -445,16 +455,6 @@
           "author_handle": "_Investinq",
           "text": "President Trump says US companies that build data centers in other countries will face a tremendous tax\n\n\"We're not going to allow companies to build data centers in other countries\"\n\n\"If they do that, they can, but we're going to put a tremendous tax on them. If they do it, we https://t.co/8icBKB0flF",
           "url": "https://x.com/i/status/2123977229126541528",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123970938027024533",
-          "created_at": "2026-11-21T02:45:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Dan Niles says the dot-com bust had seven 25% Nasdaq rallies on the way to a 78% loss, but he thinks this looks more like the 1997 and 1998 chip meltdowns\n\n\"You had seven rallies in the Nasdaq of 25% on your way to losing 78% of your money\"\n\n\"You had seven rallies in the https://t.co/3V0cFUg7Gl",
-          "url": "https://x.com/i/status/2123970938027024533",
           "verified": true,
           "verified_type": "blue"
         },
@@ -789,10 +789,10 @@
           "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker"
         },
         {
-          "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "Trump defends calling Putin his friend, talks outages in first presser after China summit",
+          "summary": "President Trump addressed Iran's nuclear program, the Ukraine war and more in his first press conference following his summit with Vladimir Putin and Xi Jinping on Friday. Ed O'Keefe reports.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/video/trump-defends-calling-putin-his-friend-talks-outages-in-first-presser-after-china-summit/"
         }
       ]
     },
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
-          "summary": "The busy holiday season may lead retirees to miss a key deadline for retirement account withdrawals.",
+          "headline": "Tech outages are fueling a new doomsday economy",
+          "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html"
+          "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
         },
         {
-          "headline": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
-          "summary": "The brutal sell-off is creating opportunities for us to put cash to work.",
+          "headline": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+          "summary": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html"
+          "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html"
         },
         {
           "headline": "A 10% drop for the stock market is unnerving, but it's not that unusual",
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Week 11 NFL odds, picks, predictions: Computer model backs Cowboys and Saints",
-          "summary": "SportsLine's advanced model has simulated every game in the Week 11 NFL schedule 10,000 times and locked in its NFL best bets today",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/nfl-odds-game-picks-spreads-betting-lines-predictions-week-11-2026/"
-        },
-        {
-          "headline": "Haaland in VAR controversy as Man City held by Fulham",
-          "summary": "Manchester City striker Erling Haaland was controversially denied a goal against Fulham (Oli SCARFF) Erling Haaland was controversially denied a crucial goal as Manchester City's spluttering Premier League title challenge suffered a fresh blow in a 1-1 draw against Fulham on Saturday. Enzo Maresca's side trailed to Rodrigo Muniz's early opener at the…",
+          "headline": "Sixers rookie gives his thoughts on star teammate LeBron James",
+          "summary": "CAMDEN, N.J. -- Philadelphia 76ers rookie Labaron Philon Jr.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/haaland-var-controversy-man-city-143242665.html"
+          "url": "https://sports.yahoo.com/articles/sixers-rookie-gives-thoughts-star-151022921.html"
         },
         {
-          "headline": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
-          "summary": "SportsLine's model has revealed its 2026 Week 12 college football picks for matchups such as Georgia vs. South Carolina, UCLA vs.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-lines-spreads-top-predictions-best-bets-week-12-2026/"
-        },
-        {
-          "headline": "Owen Heinecke says Oklahoma is ready for Texas A&M",
-          "summary": "The Oklahoma Sooners end the season with two former Big 12 foes, hoping to finish this disappointing season on a high note. Oklahoma starts things with the Texas A&M Aggies on Saturday before finishing on the road against the Missouri Tigers .",
+          "headline": "Opinion: I’m rooting for both BYU and Utah’s championship pursuit. Is that OK?",
+          "summary": "Michelle Budge, Deseret News / Source: Getty Images The Cougars were on the free throw line, within one point of tying the overtime game against the Utes, with seconds to go in the 1990 WAC quarterfinal game in El Paso. The rest of the family had gone to bed, and I lay alone watching Andy Toolson and Marty Haws’ brave determination to pull this off.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/owen-heinecke-says-oklahoma-ready-143100193.html"
+          "url": "https://sports.yahoo.com/articles/opinion-m-rooting-both-byu-150752271.html"
         },
         {
-          "headline": "'Best in world' Price set for Cardiff stadium fight",
-          "summary": "Lauren Price is one of the most decorated fighters in British boxing history and is now set to headline a summer stadium show in Cardiff.",
+          "headline": "2026 Las Vegas Grand Prix picks, odds, grid, time: Formula One predictions, best bets from advanced model",
+          "summary": "SportsLine's model analyzes Mercedes' Kimi Antonelli, Ferrari's Lewis Hamilton, Red Bull's Max Verstappen and the rest of the starting grid at the 2026 F1 Las Vegas GP",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/2026-las-vegas-grand-prix-picks-odds-grid-time-formula-one-predictions-best-bets/"
+        },
+        {
+          "headline": "2026 Week 12 college football odds, spreads, start times, betting lines: Picks, best bets, CFB predictions",
+          "summary": "SportsLine's model has analyzed the Week 12 CFB schedule and locked in its Week 12 college football picks, predictions",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/2026-week-12-college-football-odds-spreads-start-times-betting-lines-picks-best-bets-cfb-predictions/"
+        },
+        {
+          "headline": "Ex-captain Moody joins England side to face haka",
+          "summary": "Former England captain Lewis Moody joins the current team to face New Zealand's haka in an emotional start to Saturday's Test match at Allianz Stadium.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/cmly5w82gq0zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5vg2ppp90w8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -981,16 +981,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Feid, Anthony Ramos & More to Join 100th Macy’s Thanksgiving Day Parade & More Uplifting Moments in Latin Music",
+          "summary": "From career milestones to new music releases to major announcements and those little important moments, Billboard editors highlight uplifting moments in Latin music. Here’s what happened in the Latin music world this week.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/feid-macys-thanksgiving-day-parade-100th-edition-uplifting-1236386980/"
+        },
+        {
           "headline": "Mashd N Kutcher Remix Rogue Traders and Dannii Minogue’s ‘Dirty Dirty Disco’",
           "summary": "Australian dance group Mashd N Kutcher have remixed “Dirty Dirty Disco,” the collaboration between Rogue Traders and Dannii Minogue , with their Midnight Mix released Friday (Nov. 20) via Pop Smith.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/music-news/mashd-n-kutcher-remix-rogue-traders-dannii-minogue-dirty-dirty-disco-1236387275/"
-        },
-        {
-          "headline": "Phil Collins Says Cher Sang His ‘We Are the World’ Line at Live Aid After He Left Early",
-          "summary": "Phil Collins has told the story of how Cher ended up singing his line in the “We Are the World” finale at Live Aid — because he was too tired to stay. Speaking in a takeover of SiriusXM’s Classic Rewind marking his induction into the Rock & Roll Hall of Fame as a solo artist, Collins recounted the 1985 double-header that took him from Wembley to…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rock/phil-collins-live-aid-cher-concorde-eric-clapton-siriusxm-1236387268/"
         },
         {
           "headline": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T09:40:44-05:00"
+  "updatedAt": "2026-11-21T10:16:45-05:00"
 }
