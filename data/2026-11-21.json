@@ -42,10 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Match of the Day",
-          "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
         },
         {
           "headline": "Princeton student detained by ICE at Reagan Airport after conference",
@@ -60,16 +60,16 @@
           "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
         },
         {
-          "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-          "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
-        },
-        {
           "headline": "Can win over All Blacks finally break England's boom-bust cycle?",
           "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Australia hold on for narrow win against Wales",
+          "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124287258853286132",
+          "created_at": "2026-11-21T23:42:04.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Mizzou Players Showing Love to the Kids ahead of Kickoff in CoMo 🐯 https://t.co/TOHWcSvsXb",
+          "url": "https://x.com/SportNState/status/2124287258853286132",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124286765871911255",
+          "created_at": "2026-11-21T23:40:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "SpaceX board member Steve Jurvetson says his own partners voted down his first SpaceX investment because they couldn't see it ever being worth more than 2x to 3x\n\n\"It was the only time in my recollection that my partnership turned me down for an investment\"\n\n\"Two of my partners https://t.co/uwJlkZRASP",
+          "url": "https://x.com/_Investinq/status/2124286765871911255",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124286677212664002",
+          "created_at": "2026-11-21T23:39:45.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Punt returners doing incredibly dumb things is the bane of my football existence. Tennessee was in total control of the game until that moronic play.",
+          "url": "https://x.com/ClayTravis/status/2124286677212664002",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124286473470120324",
+          "created_at": "2026-11-21T23:38:57.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: An Iranian oil tanker named KHAT SHEKAN, which means \"line-breaker\" in Farsi, is heading toward the Gulf of Oman in an attempt to break the U.S. naval blockade.\n\nContributed by @MoloWarMonitor https://t.co/cbFwhiCYir",
+          "url": "https://x.com/Osint613/status/2124286473470120324",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124284152149356950",
+          "created_at": "2026-11-21T23:29:43.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "France in total chaos. Marseille today. https://t.co/O5Hd6LxHCG",
+          "url": "https://x.com/RealAmVoice/status/2124284152149356950",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124283176088428937",
+          "created_at": "2026-11-21T23:25:51.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Upset brewing in Ann Arbor? 👀  https://t.co/xQvfVB2QXd",
+          "url": "https://x.com/Outkick/status/2124283176088428937",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124282426209775663",
+          "created_at": "2026-11-21T23:22:52.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Anthropic is sitting on an enormous cash pile:\n\nAnthropic's cash and cash equivalents are up to a record $237 billion following its IPO.\n\nThis comes as its IPO raised $81 billion, with another $26 billion secured through a private placement with selected investors.\n\nBy https://t.co/TbIHNO9W5V",
+          "url": "https://x.com/KobeissiLetter/status/2124282426209775663",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124281763136410035",
+          "created_at": "2026-11-21T23:20:14.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "These Muslims need to be forcibly removed from our country by the military. \n\nDisgusting that we have these animalistic jihadists living in our country. https://t.co/raIBoByKCq",
+          "url": "https://x.com/LauraLoomer/status/2124281763136410035",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124280710747840889",
+          "created_at": "2026-11-21T23:16:03.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Give Grok @Bot your hardest tasks https://t.co/KEa57ff3ux",
+          "url": "https://x.com/elonmusk/status/2124280710747840889",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124277483210186991",
           "created_at": "2026-11-21T23:03:13.000Z",
@@ -259,16 +349,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124261258828628329",
-          "created_at": "2026-11-21T21:58:45.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "A Nebraska fan took an entire BLEACHER home with him 🤣 https://t.co/pegWYlyKP7",
-          "url": "https://x.com/SportNState/status/2124261258828628329",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124261083175379119",
           "created_at": "2026-11-21T21:58:03.000Z",
           "author_name": "SightBringer",
@@ -359,16 +439,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124254022764826837",
-          "created_at": "2026-11-21T21:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TOP FEDERAL PROSECUTOR PUTS DEMOCRATS ON NOTICE: “JUST BECAUSE YOU CONTROL A COMMITTEE DOESN'T GIVE YOU THE AUTHORITY TO VIOLATE THE LAW!”\n\nTexas U.S. Attorney @aaron_reitz tells Treniss Evans that congressional power is NOT a license to target Americans for their political https://t.co/MqUXRwJDi1",
-          "url": "https://x.com/RealAmVoice/status/2124254022764826837",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124253187058065868",
           "created_at": "2026-11-21T21:26:41.000Z",
           "author_name": "SpaceX",
@@ -395,16 +465,6 @@
           "author_handle": "ClayTravis",
           "text": "We get it, the crowd is loud and there are coaches on the sidelines. You’re missing the actual field action. Do less.",
           "url": "https://x.com/ClayTravis/status/2124249885268734340",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124249453767151994",
-          "created_at": "2026-11-21T21:11:51.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Hey @espn can you please just show us the stationary shot of the field for LSU-Tennessee and stop spinning the camera shots around like a drunk man? Thanks. Sincerely, everyone watching this game.",
-          "url": "https://x.com/ClayTravis/status/2124249453767151994",
           "verified": true,
           "verified_type": "blue"
         },
@@ -455,26 +515,6 @@
           "author_handle": "glennbeck",
           "text": "I honestly think @benshapiro's new film “Confession” would be nominated for multiple Oscars if it didn't have his name on it. This week on the Glenn Beck Podcast, Ben tells me how “inclusive” Hollywood and the global filmmaking community was to the film’s amazingly talented cast https://t.co/cDb0yXx1DP",
           "url": "https://x.com/glennbeck/status/2124246032955658272",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124244974967590998",
-          "created_at": "2026-11-21T20:54:03.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "That smile before running in tells us everything https://t.co/XNdzCujG9L",
-          "url": "https://x.com/Outkick/status/2124244974967590998",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124244636231430180",
-          "created_at": "2026-11-21T20:52:42.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Bahrain’s Defense Force: \n\nSome shrapnel fell as a result of intercepting Iranian attacks. https://t.co/hhnRUFZny2",
-          "url": "https://x.com/Osint613/status/2124244636231430180",
           "verified": true,
           "verified_type": "blue"
         },
@@ -539,32 +579,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124233767560847708",
-          "created_at": "2026-11-21T20:09:31.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Providing material support to a designated Islamic terrorist organization isn’t free speech you absolutely insufferable mongoloid. https://t.co/B4Iy1HoVDy",
-          "url": "https://x.com/LauraLoomer/status/2124233767560847708",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124230408107917478",
           "created_at": "2026-11-21T19:56:10.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️A mathematician working with Claude has presented a 17-million-line formal proof of the Riemann Hypothesis, one of the most difficult unsolved problems in mathematics.\n\nThe implications of machine mathematics reach into something civilization barely recognizes. Much of modern",
           "url": "https://x.com/_The_Prophet__/status/2124230408107917478",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124219646459220296",
-          "created_at": "2026-11-21T19:13:24.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Shortest explanation is just: 🤯 https://t.co/E1RGMMtLLD",
-          "url": "https://x.com/elonmusk/status/2124219646459220296",
           "verified": true,
           "verified_type": "blue"
         },
@@ -595,16 +615,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: Taiwan announces new restrictions on short selling after its stock market falls -18% in one week, its worst weekly decline in 35 years.\n\nEffective Monday, regulators will ban short sales below the previous closing price and raise margin requirements to 150%.\n\nTaiwan’s",
           "url": "https://x.com/KobeissiLetter/status/2124190855770656830",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124182519239356555",
-          "created_at": "2026-11-21T16:45:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Foreign holdings of US Treasuries fell -$76 billion in September, to $9.24 trillion, the lowest since October 2025.\n\nThis also marks the 3rd monthly decline over the last 4 months, down -$246 billion since February.\n\nJapan, the largest foreign holder, cut its holdings https://t.co/qPqzkqbhqu",
-          "url": "https://x.com/KobeissiLetter/status/2124182519239356555",
           "verified": true,
           "verified_type": "business"
         },
@@ -649,16 +659,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124137029797924994",
-          "created_at": "2026-11-21T13:45:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "NewEdge Wealth's Cameron Dawson says semis trading at 14 times earnings means the market is bracing for estimate cuts, and the lesson is to buy the first cut, not the anticipation\n\n\"You have the VIX spiking today to over 36, put call ratio spiking, showing that people really want https://t.co/F7GoIVhHne",
-          "url": "https://x.com/_Investinq/status/2124137029797924994",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124014140133941266",
           "created_at": "2026-11-21T05:36:47.000Z",
           "author_name": "Tim Pool",
@@ -685,6 +685,26 @@
           "author_handle": "glennbeck",
           "text": "This week, I talked to the parents and grandparents about GTA 6. But today, I want to talk to the young men playing it. The men who have spent their entire lives being talked about rather than being talked to. These men have always heard the same story, that they are falling https://t.co/cpTA00xsj3",
           "url": "https://x.com/glennbeck/status/2123925413038895307",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123883831652679706",
+          "created_at": "2026-11-20T20:58:59.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "While Charlie Sheen was going off in all directions and spiraling down, Rob Lowe was quietly praying for him in the background, and Charlie had no idea.\n\nWe all have those unseen blessings in our lives. There are people out there you’ll never even know about who are praying for https://t.co/1ufeSCzise",
+          "url": "https://x.com/glennbeck/status/2123883831652679706",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123850122530558290",
+          "created_at": "2026-11-20T18:45:03.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Labeling Trump a traitor because he called Putin a friend right before a meeting is one of the most short-sighted takes I’ve seen. He knows Putin is an adversary. That’s just how he talks when the cameras are on, especially when he’s trying to negotiate the end of a war.\n\nThe https://t.co/33ASFSWKFP",
+          "url": "https://x.com/glennbeck/status/2123850122530558290",
           "verified": true,
           "verified_type": "blue"
         },
@@ -781,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Paolo Bulgari, jeweler who turned family business into global brand, dies at 89",
+          "summary": "His family praised his humanity and entrepreneurial talent.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/paolo-bulgari-italian-jeweler-turned-family-business-global-138350529"
+        },
+        {
           "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
           "summary": "Negotiators at the United Nations climate talks in Turkey are working an extra day in an attempt to reach a final agreement to address global warming",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
-        },
-        {
-          "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
-          "summary": "Iran has unveiled a new missile launcher at an underground facility",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/iran-strikes-3-tankers-shows-off-missile-launchers-138345075"
         },
         {
           "headline": "Trump vows to work with Democrats to cap credit card interest rates",
@@ -817,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Illinois falls to No.13 Iowa on Senior Night",
-          "summary": "Champaign, Ill. – The scoreboard might not reflect it, but this was a very tight game for roughly 3 ½ quarters.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/illinois-falls-no-13-iowa-230740955.html"
-        },
-        {
-          "headline": "1 early trade Cavs must target after shaky start to season puts Kenny Atkinson on notice",
-          "summary": "Image Credit: Kiyoshi Mio-Imagn Images 1 early trade Cavs must target after shaky start to season puts Kenny Atkinson on notice appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/1-early-trade-cavs-must-230450378.html"
-        },
-        {
-          "headline": "Brown's 75-yard rushing TD helps Middle Tennessee beat Sam Houston, become bowl eligible",
-          "summary": "Terrence Brown ran 75 yards for a tiebreaking touchdown and Middle Tennessee beat Sam Houston 31-28 to become bowl eligible for the first time since 2022",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/browns-75-yard-rushing-td-helps-middle-tennessee-138350072"
-        },
-        {
-          "headline": "Patrick’s 19 lead Fordham past Portland 87-69",
-          "summary": "Lateef Patrick scored 19 points as Fordham beat Portland 87-69 on Saturday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/patricks-19-lead-fordham-past-portland-87-69-138350074"
-        },
-        {
-          "headline": "Alcaraz to face Zverev in ATP Finals title decider",
-          "summary": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
+          "headline": "Watch all 29 of Saturday's Scottish Premiership goals",
+          "summary": "Highlights from a full Scottish Premiership fixture card.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Peyton Miller scores a goal, Revolution beat Union 2-0 in Game 1 of best-of-3 series",
+          "summary": "Peyton Miller became the fifth-youngest player to score a goal in MLS Cup playoffs history, Matt Turner had two saves and the New England Revolution beat the Philadelphia Union 2-0 to open a best-of-three first-round series",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/peyton-miller-scores-goal-revolution-beat-union-2-138350434"
+        },
+        {
+          "headline": "What Ole Miss coaching change Pete Golding made this week and what it means for 2027",
+          "summary": "OXFORD − Ole Miss football coach Pete Golding thought this was a good week for a coaching switch. Ole Miss beat Wofford 59-17 on Nov.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ole-miss-coaching-change-pete-233941338.html"
+        },
+        {
+          "headline": "How did Ohio State's Ryan Day explain loss to Nebraska?",
+          "summary": "Ohio State football lost to Nebraska 31-28. The Buckeyes sometimes looked overpowered .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/did-ohio-states-ryan-day-233801687.html"
+        },
+        {
+          "headline": "France thrash Argentina to reach Nations Championship final",
+          "summary": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -853,28 +873,28 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
+          "summary": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
+        },
+        {
+          "headline": "Mahershala Ali Says It ‘Doesn’t Matter’ That He’s Won 2 Oscars Because ‘There Are Not Roles for Me’ in ‘the Vast Majority of Projects’: ‘You’re Like Everybody Else Waiting’",
+          "summary": "Mahershala Ali got candid about the impact — or lack thereof — his two Oscar wins have had on his career in Hollywood while appearing on a recent episode of Carmelo Anthony and Kazeem “Kaz” Famuyide’s “7PM in Brooklyn” podcast. The actor, who took home trophies for best supporting actor for both 2018’s “Greenbook” and […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/mahershala-ali-oscars-wins-hollywood-1236955111/"
+        },
+        {
           "headline": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is the End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed-Out Headspace’ While Filming",
           "summary": "Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is the End” while the two films were both shooting in New Orleans.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/"
         },
         {
-          "headline": "Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: ‘The Stories That We Tell Matter’",
-          "summary": "Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema, giving a heartfelt speech in which he thanked his many on-screen collaborators and insisted that “the stories that we tell matter.” The […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/"
-        },
-        {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback",
           "summary": "Lionsgate's latest title notched the third-best opening Friday in the six-movie dystopian series, representing a major revival after 2023's 'The Ballad of Songbirds & Snakes.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
-        },
-        {
-          "headline": "Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”",
-          "summary": "\"It was funny and strange to start casting and building without a proper script... That's also very dangerous because if the text comes and it doesn't add up to what you were saying, your credibility gets completely shot,\" the director said in a new interview.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314/"
         },
         {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
@@ -889,28 +909,28 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Chris Harrison’s ‘The Vow’ Star Apologizes For Grabbing Contestant’s Butt: “I Made A Mistake”",
+          "summary": "As Chris Harrison leaves the Bachelor Mansion behind for Fox Nation’s The Vow, the dating show’s first eligible Christian is facing some judgment. Jace Cates, the star of the new faith-based dating show, apologized for obliging contestant Sierra Wood’s request to “grab my ass” on the third episode “Enter Into Temptation.” “I think it’s no […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/chris-harrison-the-vow-star-apologizes-grabbing-contestant-butt-1237231025/"
+        },
+        {
           "headline": "Kaitlan Collins Notes ‘Real Time’ Absence Was Due To White House Press Conference",
           "summary": "The Season 24 finale of Real Time with Bill Maher featured a last-minute guest change as Kaitlan Collins was held up in Washington DC. Although she was scheduled to appear on the HBO talk show alongside newly elected Texas Democratic congressman Bobby Pulido, the CNN anchor explained she was covering a White House press conference […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/kaitlan-collins-real-time-absence-white-house-press-conference-1237231015/"
         },
         {
+          "headline": "Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: ‘The Stories That We Tell Matter’",
+          "summary": "Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema, giving a heartfelt speech in which he thanked his many on-screen collaborators and insisted that “the stories that we tell matter.” The […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/"
+        },
+        {
           "headline": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
           "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/"
-        },
-        {
-          "headline": "How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
-          "summary": "In “Elsinore,” Andrew Scott plays real-life actor Ian Charleson, who performed his final role while dying of AIDS. Written by Stephen Beresford, “Elsinore” follows the deeply emotional and inspirational true story of Charleson as he confronts his mortality with courage, honesty and wit.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968/"
-        },
-        {
-          "headline": "Netflix’s ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era: “The Future Is 15-Minute ‘SpongeBob’-Length Episodes”",
-          "summary": "In a world of increasingly short attention spans, social media slop and doomscrolling brainrot, it’s a wonder why many television shows got longer in the streaming era. Case in point, the 22-minute broadcast sitcom was largely replaced by the 30-minute dramedy and the 43-minute procedural has been overshadowed by the hour-long premium drama series.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -925,16 +945,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
+          "summary": "In “Elsinore,” Andrew Scott plays real-life actor Ian Charleson, who performed his final role while dying of AIDS. Written by Stephen Beresford, “Elsinore” follows the deeply emotional and inspirational true story of Charleson as he confronts his mortality with courage, honesty and wit.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968/"
+        },
+        {
           "headline": "Stephan James on Honoring Carl Weathers’ Legacy and Learning to Box for ‘I Play Rocky’",
           "summary": "Stephan James has played a few real-life figures in his career, including Olympic gold medalist Jesse Owens (in 2016’s “Race”) and civil rights leader John Lewis (2014’s “Selma”), so he knows the drill. Diving deep into the archives for research.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/"
-        },
-        {
-          "headline": "Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’",
-          "summary": "Andrew Rannells recently revealed that Kevin Spacey asked him out while the “Girls” actor was starring in “The Book of Mormon” on Broadway. “I’ve never told this story before.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/"
         },
         {
           "headline": "Saturday Sessions: Mynd Reader plays \"Still Uncertain\"",
@@ -993,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T18:11:35-05:00"
+  "updatedAt": "2026-11-21T18:50:07-05:00"
 }
