@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Here are the top AI agents that can live in your text messages",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
           "headline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
           "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday.",
           "source": "The Verge",
           "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
-        },
-        {
-          "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
         }
       ]
     },
@@ -48,16 +48,16 @@
           "url": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/"
         },
         {
+          "headline": "Families frustrated with Pentagon probe of deadly drone strike",
+          "summary": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/"
+        },
+        {
           "headline": "FBI reportedly investigating apparent hack of its criminal database",
           "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "The mysterious migration of monarch butterflies",
-          "summary": "Photographer Jaime Rojo says an iconic 1976 National Geographic cover showing monarch butterflies captivated him, inspiring his own photography. Rojo's new book \"Monarchs\" chronicles ways we can help save this beloved insect.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/the-mysterious-migration-of-monarch-butterflies/"
         },
         {
           "headline": "McConnell shines as 11-try Scotland dismantle Japan",
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124189295476920657",
+          "created_at": "2026-11-21T17:12:48.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump on Iran:\n\nI'm going to make a permanent deal with Iran. https://t.co/0mh8TSmpQX",
+          "url": "https://x.com/Osint613/status/2124189295476920657",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124188589302976858",
+          "created_at": "2026-11-21T17:09:59.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran will seek an emergency session of the Organization of Islamic Cooperation on Gaza, Foreign Minister Araghchi said. He added that the Strait of Hormuz could be reopened easily once Washington agrees to Tehran's conditions.",
+          "url": "https://x.com/Osint613/status/2124188589302976858",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124187460556947529",
+          "created_at": "2026-11-21T17:05:30.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "World Central Kitchen denied any connection to a vehicle hit by an Israeli strike in Gaza City's Tel al-Hawa neighborhood earlier today. The Israeli military identified the 3 people inside as Palestinian Islamic Jihad operatives and rejected claims that they were aid workers. https://t.co/KI0IS9s5Et",
+          "url": "https://x.com/Osint613/status/2124187460556947529",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124186512958894103",
+          "created_at": "2026-11-21T17:01:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The Russian cargo ship Sparta II caught fire after a drone attack in international waters of the Gulf of Finland and drifted into Finnish territorial waters. \n\nHours later, a Russian helicopter is suspected of entering Finnish airspace near Loviisa, according to Finland's Defence",
+          "url": "https://x.com/Osint613/status/2124186512958894103",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124184934931714390",
+          "created_at": "2026-11-21T16:55:28.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Fausto Isidro Meza Flores, an FBI Ten Most Wanted fugitive known as \"El Chapo Isidro,\" is in Mexican custody after a special forces operation in Guasave, Sinaloa, carried out with U.S. intelligence support. Cartel gunmen responded with roadblocks, vehicle burnings and clashes in https://t.co/x80NwwxWg2",
+          "url": "https://x.com/Osint613/status/2124184934931714390",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124182918549442958",
           "created_at": "2026-11-21T16:47:27.000Z",
@@ -105,16 +155,6 @@
           "author_handle": "SportNState",
           "text": "NEW: Army students pulled off the ultimate prank at Navy-Marine Corps Memorial Stadium, rearranging the seat backs to spell out “GO ARMY” 😂\n\n20 staff members have reportedly spent hours fixing the seats:\n\nvia: @Morgan_Uber  https://t.co/lAbCLEM1kd",
           "url": "https://x.com/SportNState/status/2124182432232640529",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124182344072646658",
-          "created_at": "2026-11-21T16:45:10.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IRGC chief Ahmad Vahidi toured the site and reviewed Aerospace Force readiness. https://t.co/9h0RL35TQQ",
-          "url": "https://x.com/Osint613/status/2124182344072646658",
           "verified": true,
           "verified_type": "blue"
         },
@@ -149,36 +189,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124175551342444913",
-          "created_at": "2026-11-21T16:18:11.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Zelensky:\n\nPoland will be among the five countries representing Europe in negotiations to end the war.",
-          "url": "https://x.com/Osint613/status/2124175551342444913",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124175324787212576",
-          "created_at": "2026-11-21T16:17:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Cuba's President Miguel Díaz-Canel:\n\nWhat the Cuban and American peoples deserve is not confrontation, but rapprochement and opportunities for cooperation between our two peoples.",
-          "url": "https://x.com/Osint613/status/2124175324787212576",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124174585713045956",
-          "created_at": "2026-11-21T16:14:21.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Yesterday, Iran claimed a surface-to-air missile damaged a USAF F-16 over the Persian Gulf, forcing an emergency diversion.\n\nCENTCOM: No attack took place. All F-16s in the region are safe and accounted for. https://t.co/wGmf8LgLEN",
-          "url": "https://x.com/Osint613/status/2124174585713045956",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124174404208714126",
           "created_at": "2026-11-21T16:13:37.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -207,16 +217,6 @@
           "url": "https://x.com/SpaceX/status/2124172655779614909",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124171377586688463",
-          "created_at": "2026-11-21T16:01:36.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "A dual-missile launcher appears in new footage of an underground \"missile city,\" according to footage released by Iran. https://t.co/6dPVF216ql",
-          "url": "https://x.com/Osint613/status/2124171377586688463",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124169717623538084",
@@ -399,12 +399,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124083567152288157",
-          "created_at": "2026-11-21T10:12:40.000Z",
+          "id": "2124075093143765481",
+          "created_at": "2026-11-21T09:39:00.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
-          "text": "There has never been a market with so much fear yet so much growth.\n\nStay tuned for an update to this Article as price action progresses.\n\nFollow us @KobeissiLetter for real-time analysis as this develops.",
-          "url": "https://x.com/KobeissiLetter/status/2124083567152288157",
+          "text": "Inflation in Japan is accelerating:\n\nJapan's CPI inflation excluding fresh food jumped +2.1% YoY in September, its highest YoY increase since December 2025.\n\nSince May, Japan's CPI inflation has risen +0.6 percentage points.\n\nFurthermore, CPI excluding fresh food and energy https://t.co/jZ4JfAOm2t",
+          "url": "https://x.com/KobeissiLetter/status/2124075093143765481",
           "verified": true,
           "verified_type": "business"
         },
@@ -669,16 +669,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123824635225448625",
-          "created_at": "2026-11-20T17:03:46.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Zohran just announced they are KEEPING RIKERS OPEN For 5 MORE Years\n\nIts supposed to shutter in less than a year\n\nHe wants to build FOUR MORE JAILS\n\nAND MENTAL ASYLUMS\n\nYou dont have to trust him but this is based https://t.co/t4fDYii76X",
-          "url": "https://x.com/Timcast/status/2123824635225448625",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123755931272093751",
           "created_at": "2026-11-20T12:30:46.000Z",
           "author_name": "Matt Walsh",
@@ -801,6 +791,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+          "summary": "This would make the second recent intrusion into the FBI system.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
+        },
+        {
           "headline": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
           "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
           "source": "CNBC",
@@ -811,12 +807,6 @@
           "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/"
-        },
-        {
-          "headline": "Tech outages are fueling a new doomsday economy",
-          "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
         },
         {
           "headline": "A 10% drop for the stock market is unnerving, but it's not that unusual",
@@ -837,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Updated look at Jets' 2027 NFL Draft first-round picks after Colts loss",
-          "summary": "The NFL matchup on Thursday Night Football between the Indianapolis Colts and Houston Texans carried considerably significance for the New York Jets . With Indianapolis' first-round pick belonging to the Jets , every Colts loss potentially strengthens New York's position heading into the 2027 NFL Draft.",
+          "headline": "After tumultuous week, Dabo Swinney hits back at critics ‘inside and outside’ of Clemson following upset win over Duke",
+          "summary": "Clemson head football coach Dabo Swinney has been with the program for 24 years. The game has admittedly changed over that span, and one of the biggest criticisms of Swinney and the Clemson program was its reluctance to adapt, especially in how it used the transfer portal and NIL.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/updated-look-jets-2027-nfl-164536673.html"
+          "url": "https://sports.yahoo.com/college-football/article/after-tumultuous-week-dabo-swinney-hits-back-at-critics-inside-and-outside-of-clemson-following-upset-win-over-duke-170520856.html"
         },
         {
-          "headline": "India A vs Pakistan A Asia Cup Rising Stars 2026: Date, time, live streaming, TV telecast and squads",
-          "summary": "NEW DELHI: A high-voltage clash awaits as India A take on arch-rivals Pakistan A in the ACC Men's Asia Cup Rising Stars 2026 in Doha on Sunday. Both teams will look to extend their winning starts, but the much-anticipated Group B encounter carries added significance given the rivalry and the teams' recent history in the tournament.",
+          "headline": "Tennessee versus LSU football game officials",
+          "summary": "No. 9 Tennessee (8-2, 5-2 SEC) football will next play on Saturday against No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/india-vs-pakistan-asia-cup-164400754.html"
+          "url": "https://sports.yahoo.com/articles/tennessee-versus-lsu-football-game-170444613.html"
         },
         {
           "headline": "Ex-captain Moody joins England in emotional haka response",
@@ -873,6 +863,12 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories",
+          "summary": "For years, Simon Rich wanted to sound the alarm about AI. Rich’s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film “An American Pickle,” an early version of the software, and the two friends discussed its ramifications.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703/"
+        },
+        {
           "headline": "Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million",
           "summary": "The odds were ever in the favor of “The Hunger Games: Sunrise on the Reaping,” the latest entry in the storied franchise, which ruled the box office on Friday. “Sunrise on the Reaping” generated $56 million from 4,018 North American theaters on Friday, taking the No.",
           "source": "Variety",
@@ -883,12 +879,6 @@
           "summary": "Lionsgate's latest title notched the fourth-best opening Friday in the six-movie dystopian series, representing a major revival after 2023's 'The Ballad of Songbirds & Snakes.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
-        },
-        {
-          "headline": "Kylian Mbappé Impersonator Leads Colorful Roster of Doubles in Egyptian Doc ‘The Lookalike’",
-          "summary": "The growing commotion on the streets near a soccer stadium would easily lead one to believe superstar player Kylian Mbappé himself was signing fan autographs. But, as seen in “The Lookalike,” the furore was not over the French player, but a charismatic impersonator.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/mbappe-impersonator-the-lookalike-egyptian-doc-1236954825/"
         },
         {
           "headline": "Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”",
@@ -909,6 +899,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’",
+          "summary": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/"
+        },
+        {
           "headline": "‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
           "summary": "SPOILER ALERT! This post contains some details from the first two episodes of Percy Jackson and the Olympians Season 3.",
           "source": "Deadline",
@@ -927,12 +923,6 @@
           "url": "https://deadline.com/2026/11/skyshowtime-staff-complaint-work-culture-comcast-skydance-1237230353/"
         },
         {
-          "headline": "An Iranian Woman Falls Pregnant to Avoid Execution in ‘Inherited’: Situation in Iran Is ‘Increasingly Complex’",
-          "summary": "A few years ago, Iranian filmmaker Morteza Alizadeh saw a photograph that he couldn’t shake from his mind: it showed mothers and their children going about their lives, which at first seemed routine, until the director realized it was taken inside a women’s prison. From that first glimpse into a little spoken-about reality, Alizadeh spent […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/morteza-alizadeh-morally-knotty-inherited-iran-1236954820/"
-        },
-        {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
           "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
           "source": "ABC News",
@@ -945,34 +935,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Princess Kate announces she's in remission from cancer",
-          "summary": "Princess Kate made the announcement on social media after visiting the London hospital where she received treatment.",
+          "headline": "Saturday Sessions: Mynd Reader plays \"Still Uncertain\"",
+          "summary": "Colorado-based band Mynd Reader is a second act for Brian Sachs, who played in New York funk-rock group \"The Authority\" back in the 90s. Sachs joined multi-instrumentalist Tonin to form a new band.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kate-princess-of-wales-remission-cancer/"
+          "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-still-uncertain/"
         },
         {
-          "headline": "‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’",
-          "summary": "For Iraqi-Swiss filmmaker Ali Toffan Al-Fatlawi, the idea behind “The Blind Ferryman” began with a thought that struck him during Iraq’s civil war in 2006. Living in Switzerland and watching the violence unfold in his homeland, he thought of two of his aunts who were blind and found himself wishing that blindness might spare his […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/"
-        },
-        {
-          "headline": "Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in ‘Boltrim’ at India’s WAVES Film Bazaar",
-          "summary": "Director Ashish Aryan is presenting “Boltrim,” a Hindi-English dark comedy about an obese monkey subjected to drug trials by a pharmaceutical giant developing a weight-loss injection, to the Co-Production Market at India’s WAVES Film Bazaar. The film traces the smuggled animal’s journey from Assam to a Delhi laboratory, exploring how far an operations…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/"
-        },
-        {
-          "headline": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
-          "summary": "Delicious menu suggestions from top chefs, cookbook authors, food writers, restaurateurs, and the editors of Food & Wine Magazine! Check out these recipes for the holidays, or any time!",
+          "headline": "Saturday Sessions: Mynd Reader plays \"Soundtrack of Life\"",
+          "summary": "Colorado-based band Mynd Reader is a second act for Brian Sachs, who played in New York funk-rock group \"The Authority\" back in the 90s. Sachs joined multi-instrumentalist Tonin to form a new band.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/sunday-morning-2026-food-issue-recipe-index/"
+          "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-soundtrack-of-life/"
         },
         {
           "headline": "Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare",
           "summary": "The union has created a healthcare task force as its members talk openly about having troubles qualifying for its health plan and paying dues.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332/"
+        },
+        {
+          "headline": "Hello Sunshine’s Lauren Neustadter Stepping Down at Year’s End (Exclusive)",
+          "summary": "The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
+        },
+        {
+          "headline": "Saturday Sessions: Mynd Reader plays \"Straight on Through\"",
+          "summary": "Colorado-based band Mynd Reader is a second act for Brian Sachs, who played in New York funk-rock group \"The Authority\" back in the 90s. Sachs joined multi-instrumentalist Tonin to form a new band.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-straight-on-through/"
         }
       ]
     },
@@ -1013,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T11:50:19-05:00"
+  "updatedAt": "2026-11-21T12:15:39-05:00"
 }
