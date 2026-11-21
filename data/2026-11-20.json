@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Stocks enter correction territory, driven by a deepening tech rout",
+          "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+        },
+        {
           "headline": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
           "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
           "source": "NPR",
@@ -16,12 +22,6 @@
           "summary": "The stock market is ending the week down despite Anthropic's blockbuster IPO and a strong Nvidia earnings report, largely thanks to investor jitters about the future of AI.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo"
-        },
-        {
-          "headline": "Stocks enter correction territory, driven by a deepening tech rout",
-          "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
         },
         {
           "headline": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123964641714085996",
+          "created_at": "2026-11-21T02:20:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Chamath Palihapitiya says Nvidia is trading down on the realization that its over-earning era may be over, as AI splits the market into 9 to 10 megacorps and everyone else\n\n\"I think that there are going to be 9 to 10 megacorps that get built over the next decade because of AI\" https://t.co/DsM35GQPWy",
+          "url": "https://x.com/_Investinq/status/2123964641714085996",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123959117500776531",
           "created_at": "2026-11-21T01:58:09.000Z",
@@ -179,16 +189,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123944649576390759",
-          "created_at": "2026-11-21T01:00:40.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Join us for the Live From Studio 6B show! Tune in M-F at 8PM ET. @lfs6b @damonroberts @paul_eggsNolan @slickricksports @KDJRadioShow https://t.co/hGTGYWJMeQ",
-          "url": "https://x.com/RealAmVoice/status/2123944649576390759",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123944496018731120",
           "created_at": "2026-11-21T01:00:03.000Z",
           "author_name": "Tim Pool",
@@ -197,6 +197,16 @@
           "url": "https://x.com/Timcast/status/2123944496018731120",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123942737066045903",
+          "created_at": "2026-11-21T00:53:04.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "T.J. HARKER ON CHAUVIN CASE: “HE IS ACTUALLY AFFIRMATIVELY INNOCENT”\n\n@TJ_Harker argues Derek Chauvin was wrongly convicted in George Floyd’s death and says the medical evidence did not support asphyxiation as the cause of death.\n\n“There never was, and the prosecution never https://t.co/UnmQYt6bRm",
+          "url": "https://x.com/RealAmVoice/status/2123942737066045903",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2123938396058050953",
@@ -385,16 +395,6 @@
           "author_handle": "_Investinq",
           "text": "Larry Kudlow says Wall Street sold Nvidia and the hyperscalers to make room for Anthropic, and he doesn't read the selloff as bearish\n\n\"They already sold Nvidia, and I think they sold the hyperscalers to make room for Anthropic\"\n\n\"The Nvidia correction had already occurred. Maybe https://t.co/tBM8oTQQh1",
           "url": "https://x.com/_Investinq/status/2123906819999596760",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123901224944820334",
-          "created_at": "2026-11-20T22:08:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Apollo's Torsten Slok says markets started 2026 expecting two Fed cuts and are now pricing three hikes, and the Fed may be hitting AI stocks as hard as AI itself\n\n\"Is it really because of AI that markets are correcting?\"\n\n\"We started this year expecting two cuts. Now we're https://t.co/7D8zWoTxsy",
-          "url": "https://x.com/_Investinq/status/2123901224944820334",
           "verified": true,
           "verified_type": "blue"
         },
@@ -777,16 +777,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "DeWayne Brown had 20 points, 11 rebounds to lead No. 14 Tennessee over Coastal Carolina 78-51",
-          "summary": "KNOXVILLE, Tenn. (AP) — DeWayne Brown II had 20 points and 11 rebounds to lead No.",
+          "headline": "Stewards summon Verstappen over 2 possible violations in Las Vegas GP practice; also call in Russell",
+          "summary": "LAS VEGAS (AP) — Four-time Formula 1 champion Max Verstappen , who has won the Las Vegas Grand Prix two of the past three years, was summoned to see the stewards for two possible violations in Friday's practice session. Stewards wanted to question him about an incident with George Russell, who won here two years ago , in Turn 14 and for “driving…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/dewayne-brown-had-20-points-020231448.html"
+          "url": "https://sports.yahoo.com/articles/stewards-summon-verstappen-over-2-023645812.html"
         },
         {
-          "headline": "'They never quit': Wimberley shocked by Sunnyvale in third straight state volleyball final",
-          "summary": "Sunnyvale's Jade Brown (13), right, was quick to congratulate teammate Brooklyn Bomkamp (6) after she scored during the final set of their straight sets victory over Wimberley to capture the state championship. The Class 4A Division ll UIL state championship volleyball match between the two teams was held at the Curtis Culwell Center in Garland on…",
+          "headline": "Colts rumors: Analyst’s Daniel Jones revelation may explain shocking release",
+          "summary": "Barry Reeger-Imagn Images Colts rumors: Analyst’s Daniel Jones revelation may explain shocking release appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/never-quit-wimberley-shocked-sunnyvale-020110018.html"
+          "url": "https://sports.yahoo.com/articles/colts-rumors-analyst-daniel-jones-023616803.html"
         },
         {
           "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
@@ -801,10 +801,10 @@
           "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-royce-lewis-provides-depth-for-dodgers-aging-infield/"
         },
         {
-          "headline": "Price beats Kotaskova to become undisputed champion",
-          "summary": "Lauren Price dominates Michaela Kotaskova to seal her place in history by becoming undisputed world welterweight champion.",
+          "headline": "Drivers limited to 27 laps for tyres in Qatar",
+          "summary": "Formula 1 drivers will be limited to a maximum of 27 laps on a set of tyres at next weekend's Qatar Grand Prix.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7l0l313rno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -812,6 +812,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "‘Godavari’ Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project ‘Mongoose’",
+          "summary": "Nikhil Mahajan, the Indian National Film Award-winning director of “Godavari” and the Netflix series “Betaal,” is bringing “Mongoose,” a Marathi-language neo-noir thriller about a cab driver and the con man who steals his taxi, to the Co-Production Market at WAVES Film Bazaar. Set in the hardscrabble town of Malegaon, the film follows Abhimanyu, a…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786/"
+        },
         {
           "headline": "Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”",
           "summary": "\"It was funny and strange to start casting and building without a proper script... That's also very dangerous because if the text comes and it doesn't add up to what you were saying, your credibility gets completely shot,\" the director said in a new interview.",
@@ -829,12 +835,6 @@
           "summary": "The highest-grossing biopic ever made is sitting out one of the biggest stops on the road to the Oscars. “Michael,” Antoine Fuqua’s billion-dollar portrait of the King of Pop, will not be submitted for the 2027 EE BAFTA Film Awards, Variety has learned exclusively.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/awards/michael-biopic-bafta-awards-2027-not-submitted-1236954593/"
-        },
-        {
-          "headline": "‘Home Alone’ Director Chris Columbus Said Minutes Before New Sequel Was Announced That Another Movie ‘Can’t Happen’ After Catherine O’Hara’s Death",
-          "summary": "Chris Columbus didn’t know a new “Home Alone” was coming. The director of the 1990 original spoke with Variety minutes before news broke that Disney is developing a new installment with Macaulay Culkin.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/chris-columbus-home-alone-reboot-reaction-catherine-ohara-1236954497/"
         },
         {
           "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
@@ -953,5 +953,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T21:12:13-05:00"
+  "updatedAt": "2026-11-20T21:43:14-05:00"
 }
