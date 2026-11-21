@@ -48,6 +48,12 @@
           "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
         },
         {
+          "headline": "Princeton student detained by ICE at Reagan Airport after conference",
+          "summary": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/princeton-student-ice/"
+        },
+        {
           "headline": "Trump orders federal contractors to check with White House before responding to Congress",
           "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
           "source": "NPR",
@@ -64,12 +70,6 @@
           "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Lock of George Washington's hair sells at auction for $4,000",
-          "summary": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124277483210186991",
+          "created_at": "2026-11-21T23:03:13.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Neyland Stadium is making an impact, and the frustrations continue for Lane Kiffin 🍊\n\n@StephOtey updates from Rocky Top: https://t.co/uzpECUfOd0",
+          "url": "https://x.com/SportNState/status/2124277483210186991",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124275380832071810",
+          "created_at": "2026-11-21T22:54:52.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Trump is making Pete Rose jokes over on Truth Social 💀 https://t.co/DAsoBXSKsV",
+          "url": "https://x.com/Outkick/status/2124275380832071810",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124274529992131066",
+          "created_at": "2026-11-21T22:51:29.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ICE found illegal aliens in Seattle-Tacoma International Airport and ARRESTED them IMMEDIATELY \n https://t.co/u0ASJeIK9m",
+          "url": "https://x.com/RealAmVoice/status/2124274529992131066",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124273651340194273",
+          "created_at": "2026-11-21T22:48:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Tiger Walk is Underway in Columbia 🐯\n\nSport &amp; State's @gigididomenico is on the scene for No. 16 Kentucky at Missouri: https://t.co/rbFxopv9BR",
+          "url": "https://x.com/SportNState/status/2124273651340194273",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124271899932795127",
           "created_at": "2026-11-21T22:41:02.000Z",
@@ -349,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124249995494776994",
-          "created_at": "2026-11-21T21:14:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TOP FEDERAL PROSECUTOR ACCUSES DEMOCRATS OF “VINDICTIVE BLOODLUST!”\n\nTexas U.S. Attorney @aaron_reitz tells Treniss Evans that Democrats like Sen. Elissa Slotkin may be plotting to weaponize congressional power against Americans associated with Trump.\n\n“These unhinged members ... https://t.co/51nvGY84ur",
-          "url": "https://x.com/RealAmVoice/status/2124249995494776994",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124249885268734340",
           "created_at": "2026-11-21T21:13:33.000Z",
           "author_name": "Clay Travis",
@@ -375,26 +405,6 @@
           "author_handle": "ClayTravis",
           "text": "Hey @espn can you please just show us the stationary shot of the field for LSU-Tennessee and stop spinning the camera shots around like a drunk man? Thanks. Sincerely, everyone watching this game.",
           "url": "https://x.com/ClayTravis/status/2124249453767151994",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124249232844755324",
-          "created_at": "2026-11-21T21:10:58.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "NEYLAND LOUD 🍊🔊 https://t.co/9YuoXYMcqp",
-          "url": "https://x.com/SportNState/status/2124249232844755324",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124248549781016704",
-          "created_at": "2026-11-21T21:08:15.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Was Lane Kiffin doing too much here? 😬 https://t.co/a4ljcPQ8rO",
-          "url": "https://x.com/SportNState/status/2124248549781016704",
           "verified": true,
           "verified_type": "blue"
         },
@@ -467,16 +477,6 @@
           "url": "https://x.com/Osint613/status/2124244636231430180",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124241888983273482",
-          "created_at": "2026-11-21T20:41:47.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "F**K LANE KIFFIN \n\nTennessee fans are making sure Kiffin feels right at home in Neyland 😌 https://t.co/bjDVdu2xwJ",
-          "url": "https://x.com/Outkick/status/2124241888983273482",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124241570451054609",
@@ -781,6 +781,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
+          "summary": "Negotiators at the United Nations climate talks in Turkey are working an extra day in an attempt to reach a final agreement to address global warming",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
+        },
+        {
           "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
           "summary": "Iran has unveiled a new missile launcher at an underground facility",
           "source": "ABC News",
@@ -803,12 +809,6 @@
           "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
-        },
-        {
-          "headline": "More changes are coming for Southwest Airlines, CEO says",
-          "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/"
         }
       ]
     },
@@ -817,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Report: Ravens made trade offer for Colts' Daniel Jones before deadline",
-          "summary": "The Indianapolis Colts reportedly had the opportunity to trade Daniel Jones prior to the trade deadline. According to The Ringer's Tom Pelissero , the Ravens offered the Colts a mid-round pick swap.",
+          "headline": "Illinois falls to No.13 Iowa on Senior Night",
+          "summary": "Champaign, Ill. – The scoreboard might not reflect it, but this was a very tight game for roughly 3 ½ quarters.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/report-ravens-made-trade-offer-224144980.html"
+          "url": "https://sports.yahoo.com/articles/illinois-falls-no-13-iowa-230740955.html"
         },
         {
-          "headline": "South Carolina State defeats Delaware State 26-16 to claim outright MEAC championship",
-          "summary": "ORANGEBURG, S.C. (AP) — Keely Watson threw for 211 yards and South Carolina State wrapped up another Mid-Eastern Athletic Conference championship with a 26-16 victory over Delaware State on Saturday.",
+          "headline": "1 early trade Cavs must target after shaky start to season puts Kenny Atkinson on notice",
+          "summary": "Image Credit: Kiyoshi Mio-Imagn Images 1 early trade Cavs must target after shaky start to season puts Kenny Atkinson on notice appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/south-carolina-state-defeats-delaware-224017346.html"
+          "url": "https://sports.yahoo.com/articles/1-early-trade-cavs-must-230450378.html"
         },
         {
-          "headline": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
-          "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Kim holds one-shot lead at LPGA finale as Korda closes in",
-          "summary": "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Two big plays give South Dakota 10-3 win over Illinois State to end regular season",
-          "summary": "Austyn Modrzewski connected with Tennel Bryant for a 70-yard touchdown and Courtney Rivers broke off a 78-yard run for the clinching play as South Dakota edged Illinois State 10-3 on Saturday",
+          "headline": "Brown's 75-yard rushing TD helps Middle Tennessee beat Sam Houston, become bowl eligible",
+          "summary": "Terrence Brown ran 75 yards for a tiebreaking touchdown and Middle Tennessee beat Sam Houston 31-28 to become bowl eligible for the first time since 2022",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/big-plays-give-south-dakota-10-3-win-138349678"
+          "url": "https://abcnews.com/Sports/wireStory/browns-75-yard-rushing-td-helps-middle-tennessee-138350072"
+        },
+        {
+          "headline": "Patrick’s 19 lead Fordham past Portland 87-69",
+          "summary": "Lateef Patrick scored 19 points as Fordham beat Portland 87-69 on Saturday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/patricks-19-lead-fordham-past-portland-87-69-138350074"
+        },
+        {
+          "headline": "Alcaraz to face Zverev in ATP Finals title decider",
+          "summary": "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T17:48:41-05:00"
+  "updatedAt": "2026-11-21T18:11:35-05:00"
 }
