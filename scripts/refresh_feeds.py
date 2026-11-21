@@ -96,12 +96,10 @@ FEEDS: list[dict] = [
         "prefer": ["/movies/", "/film/"],
     },
     # TV
-    {
-        "url": "https://deadline.com/feed/",
-        "source": "Deadline",
-        "section": "tv",
-        "prefer": ["/tv/", "/television/"],
-    },
+    # Editor (Nov 20): Deadline's main feed URLs carry no section path, so the
+    # old "prefer" never matched and non-TV items (e.g. court news) leaked in.
+    # Its TV-category feed is already TV-only.
+    {"url": "https://deadline.com/v/tv/feed/", "source": "Deadline", "section": "tv"},
     {
         "url": "https://variety.com/feed/",
         "source": "Variety",
@@ -115,17 +113,19 @@ FEEDS: list[dict] = [
         "prefer": ["/Entertainment/", "/entertainment", "/tv", "/Television"],
     },
     # Media
+    # Editor (Nov 20): Media = the media business. THR's business feed replaces
+    # Deadline's unfiltered main feed; Variety no longer prefers /awards/ (film
+    # campaign profiles) or /global/.
     {
-        "url": "https://deadline.com/feed/",
-        "source": "Deadline",
+        "url": "https://www.hollywoodreporter.com/c/business/feed/",
+        "source": "The Hollywood Reporter",
         "section": "media",
-        "prefer": ["/media/", "/business/", "/awards/"],
     },
     {
         "url": "https://variety.com/feed/",
         "source": "Variety",
         "section": "media",
-        "prefer": ["/biz/", "/digital/", "/awards/", "/global/"],
+        "prefer": ["/biz/", "/digital/"],
     },
     {"url": "https://www.cbsnews.com/latest/rss/entertainment", "source": "CBS News", "section": "media"},
     # Music
@@ -423,6 +423,11 @@ def existing_posts(day: dict) -> list[dict]:
     return []
 
 
+def headline_key(story: dict) -> str:
+    """Editor: same wire story under different URLs (e.g. AP on NPR and ABC)."""
+    return "h:" + re.sub(r"\W+", " ", (story.get("headline") or "").lower()).strip()
+
+
 def story_key(story: dict) -> str:
     url = (story.get("url") or "").strip().rstrip("/").lower()
     if url:
@@ -487,7 +492,8 @@ def pick_section(
         if len(picked) >= MAX_PER_SECTION:
             return
         key = story_key(story)
-        if not key or key in seen or key in used:
+        hkey = headline_key(story)
+        if not key or key in seen or key in used or hkey in seen or hkey in used:
             return
         if per_source.get(story.get("source") or "", 0) >= cap[0]:
             return
@@ -508,6 +514,7 @@ def pick_section(
         if not clean["headline"]:
             return
         seen.add(key)
+        seen.add(hkey)
         per_source[clean["source"]] = per_source.get(clean["source"], 0) + 1
         picked.append(clean)
 
@@ -528,6 +535,7 @@ def pick_section(
             consider(story, True)
     picked = picked[:MAX_PER_SECTION]
     used.update(story_key(s) for s in picked)
+    used.update(headline_key(s) for s in picked)
     return picked
 
 

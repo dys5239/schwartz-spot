@@ -162,11 +162,16 @@ def load_timeline(path: Path) -> list[dict]:
 
 
 def is_reply_or_retweet(post: dict) -> bool:
-    if post.get("in_reply_to_user_id"):
-        return True
     refs = post.get("referenced_tweets") or post.get("referenced_posts") or []
     types = {item.get("type") for item in refs if isinstance(item, dict)}
-    return "replied_to" in types or "retweeted" in types
+    if "retweeted" in types:
+        return True
+    reply_to = str(post.get("in_reply_to_user_id") or "")
+    # Editor (Nov 20): a reply to the account's own post is a thread
+    # continuation (its own words), so keep it; replies to others are dropped.
+    if reply_to and reply_to == str(post.get("author_id") or ""):
+        return False
+    return bool(reply_to) or "replied_to" in types
 
 
 def normalize_post(post: dict, acc: dict) -> dict | None:
