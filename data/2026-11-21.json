@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+          "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros , but didn't release them outside China.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review"
+        },
+        {
           "headline": "The Outages Are Just Getting Started",
           "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
           "source": "Wired",
@@ -28,12 +34,6 @@
           "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude",
           "source": "ABC News",
           "url": "https://abcnews.com/Technology/wireStory/anthropic-worker-claims-solved-holy-grail-math-problems-138338426"
-        },
-        {
-          "headline": "Stocks enter correction territory, driven by deepening tech rout",
-          "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "stories": [
         {
           "headline": "Scouts say they face £1m tourist tax cost for overnight trips",
-          "summary": "The increased cost from the proposed Visitors Levy could price some young people out of joining Scout camps and other trips, the group said.",
+          "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss"
         },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124135023875875274",
+          "created_at": "2026-11-21T13:37:08.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The college football picks have been on fire. I’ve got 16 winners for you today up @SportNState. Blood bank guarantee is over in Virginia Tech-Miami. The blood bank is 9-2 so far this year. Let’s keep the mojo going. Get rich, kids: https://t.co/LcNjzMXpaU",
+          "url": "https://x.com/i/status/2124135023875875274",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124134556500742463",
+          "created_at": "2026-11-21T13:35:17.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Good morning. Tennessee’s beating LSU today. If I’m right, you double your money. If I’m wrong, you get your entire bet back — up to $1500 — in bonus bets thanks to @HardRockBet. Amazing offer for new users. https://t.co/TXdPK9hBQZ",
+          "url": "https://x.com/i/status/2124134556500742463",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124132402419187725",
+          "created_at": "2026-11-21T13:26:43.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "JUST IN: Mexican special forces captured Fausto Isidro Meza Flores, “El Chapo Isidro,” one of the FBI’s Ten Most Wanted fugitives, in Guasave, Sinaloa, with U.S. intelligence assistance.\n\nThe U.S. had offered up to $5 million for information leading to his arrest and conviction.",
+          "url": "https://x.com/i/status/2124132402419187725",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124129503845003540",
+          "created_at": "2026-11-21T13:15:12.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Watch her reaction as Mamdani lays out his plan to reduce NYC’s jail population.\n\nLiterally holding back tears. https://t.co/6BV1oW4OdN",
+          "url": "https://x.com/i/status/2124129503845003540",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124129427026047221",
+          "created_at": "2026-11-21T13:14:54.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Crypto markets saw $2.7 billion worth of levered positions liquidated in 24 hours amid last night's drop in Bitcoin to its lowest level since September 2024.\n\nThis officially marks the 11th-largest liquidation event in crypto market history.\n\nSince the October 2025 https://t.co/hLBIBWiJJB",
+          "url": "https://x.com/i/status/2124129427026047221",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124125662990725202",
+          "created_at": "2026-11-21T12:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING POINT WITH DAVID ZERE https://t.co/28Th3xkv5A",
+          "url": "https://x.com/i/status/2124125662990725202",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124122550339002718",
+          "created_at": "2026-11-21T12:47:34.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9 launches USSF-317 to orbit from pad 4E in California https://t.co/KDQs8l96Z4",
+          "url": "https://x.com/i/status/2124122550339002718",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124117448928395499",
           "created_at": "2026-11-21T12:27:18.000Z",
@@ -229,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124006893807169960",
-          "created_at": "2026-11-21T05:08:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: This past week's -10.4% drop in the Nasdaq 100 was one of the rarest weekly declines in 40 years.\n\nOf the last 2,133 trading weeks, just 11 saw declines of this magnitude or worse.\n\nThat's 0.52% of all weeks, a 3.27 standard deviation move based on the historical mean https://t.co/58aczYZOpZ https://t.co/ldwtJLIe7l",
-          "url": "https://x.com/i/status/2124006893807169960",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124004867027182047",
           "created_at": "2026-11-21T04:59:57.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -369,16 +429,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123955931482366335",
-          "created_at": "2026-11-21T01:45:29.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ESPN BLEEDS 7 MILLION SUBSCRIBERS IN JUST ONE YEAR\n\n@slickricksports reports ESPN’s paid TV subscriber base plunged from 61 million to 54 million in a single year, according to Disney’s annual SEC report.\n\nThat’s nearly half of ESPN’s peak reach of 100 million homes in 2011, as https://t.co/BROF5cYDyb",
-          "url": "https://x.com/i/status/2123955931482366335",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123953043913765352",
           "created_at": "2026-11-21T01:34:01.000Z",
           "author_name": "Sport & State",
@@ -397,26 +447,6 @@
           "url": "https://x.com/i/status/2123951025312678144",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123948330611073350",
-          "created_at": "2026-11-21T01:15:17.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BEN BERGQUAM UPDATE: FIRST SURGERY DONE — MORE AHEAD\n\nThe first surgery is now complete, but at least one more is still ahead.\n\n\"God bless you, guys. Thank you for all the prayers; thank you for all the support. Really appreciate you...We've got a country to save.\"\n\n@BenBergquam",
-          "url": "https://x.com/i/status/2123948330611073350",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123945133871694163",
-          "created_at": "2026-11-21T01:02:35.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NATASHA OWENS GIVES “AMERICAN VALUES” A VOICE\n\n@tashaowensmusic says her new song “American Values” is a message to people coming to America: embrace the culture and don’t recreate the policies you fled.\n\n“You're welcome to come here, but you have to become American, and you have https://t.co/4NpnVL2H70",
-          "url": "https://x.com/i/status/2123945133871694163",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123944496018731120",
@@ -469,16 +499,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123928627758748049",
-          "created_at": "2026-11-20T23:57:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "MLB needs a salary cap and a salary floor. I'm a capitalist, but baseball is already a closed league with only 30 teams. The NFL and NBA have figured out how to create competitive balance while paying players more money. Baseball needs to follow their lead. It's better for all. https://t.co/3ZvmpUrZ4s",
-          "url": "https://x.com/i/status/2123928627758748049",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123925413038895307",
           "created_at": "2026-11-20T23:44:13.000Z",
           "author_name": "Glenn Beck",
@@ -499,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123921581462212883",
-          "created_at": "2026-11-20T23:29:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Mike Florio has attacked me for years, but I'm defending him here. He and Chris Simms made a joke about Mike Vrabel's mustache while he was in Germany, and somehow they had to apologize for it. There was nothing offensive about the joke. https://t.co/M6WHJoSDw6",
-          "url": "https://x.com/i/status/2123921581462212883",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123919587377094897",
           "created_at": "2026-11-20T23:21:04.000Z",
           "author_name": "SightBringer",
@@ -517,16 +527,6 @@
           "url": "https://x.com/i/status/2123919587377094897",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123898539352756617",
-          "created_at": "2026-11-20T21:57:26.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Raptor engines powering Super Heavy and Starship on Flight 15 https://t.co/99ytd8a4Tm",
-          "url": "https://x.com/i/status/2123898539352756617",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123897210228392204",
@@ -829,16 +829,16 @@
           "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
         },
         {
+          "headline": "Stocks enter correction territory, driven by deepening tech rout",
+          "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
+        },
+        {
           "headline": "6 reasons stocks are falling, and what you should do about it",
           "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
-        },
-        {
-          "headline": "Markets plunge deeper one day after Anthropic's record-breaking IPO",
-          "summary": "The market fell deeper into the red on Friday, one day after Anthropic's record-breaking IPO, amid a tech selloff fueled by Nvidia's recent instability. Jo Ling Kent reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/markets-plunge-deeper-one-day-after-anthropics-record-breaking-ipo/"
         }
       ]
     },
@@ -847,22 +847,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Will 3 Big 12 teams make the CFP? Why is there so much love for Alabama? Golden and Bohls",
-          "summary": "Running Back J'Koby Williams #20 of the Texas Tech Red Raiders runs the ball during their game against the Oklahoma State Cowboys during the first half at Boone Pickens Stadium on Nov. 14, 2026 in Stillwater, Okla.",
+          "headline": "Iowa football vs. Illinois expert predictions nationally",
+          "summary": "For the first time in three years, Iowa and Illinois are set to face off on the gridiron. The new Big Ten realignment has prevented these two border rivals from playing more often.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/3-big-12-teams-cfp-133000202.html"
+          "url": "https://sports.yahoo.com/articles/iowa-football-vs-illinois-expert-133530041.html"
+        },
+        {
+          "headline": "Braves News: Non-tender deadline, Elieser Hernández review, and more",
+          "summary": "ATLANTA, GA - AUGUST 25: Bryce Elder #55 of the Atlanta Braves pitches during the game between the Los Angeles Dodgers and the Atlanta Braves at Truist Park on Tuesday, August 25, 2026 in Atlanta, Georgia. (Photo by Kathryn May/MLB Photos via Getty Images) | MLB Photos via Getty Images Friday marked Major League Baseball’s non-tender deadline , and the…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/braves-news-non-tender-deadline-133419261.html"
         },
         {
           "headline": "Bayern draw with Cologne as Kane picks up ankle injury",
           "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Pat Fitzgerald and Dan Lanning share words after MSU vs. Oregon game",
-          "summary": "On Senior Day, Michigan State football suffered its worst loss of the season , getting blown out 45-7 by Oregon at home in Spartan Stadium. After the game, MSU head coach Pat Fitzgerald pulled Oregon head coach Dan Lanning aside for what was an uncharacteristically long postgame chat between head coaches, leading to some speculation on what they might…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/pat-fitzgerald-dan-lanning-share-132938814.html"
         },
         {
           "headline": "Missouri vs. Kentucky prediction, odds, time: Week 12 college football picks from proven model",
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T08:40:15-05:00"
+  "updatedAt": "2026-11-21T08:43:05-05:00"
 }
