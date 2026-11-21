@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
+          "summary": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Uncertainty looms over Thanksgiving travel rush with around 29 million expected to fly",
+          "summary": "Millions of passengers are expected to fly over Thanksgiving as the air travel industry recovers from the FAA's national ground stop. Storms may also bring complications.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/uncertainty-looms-over-thanksgiving-travel-rush-with-around-29-million-expected-to-fly/"
+        },
+        {
+          "headline": "Body found during search for missing 19-year-old Marine: Investigators",
+          "summary": "A body was found Friday as the authorities and families searched the California desert Friday for a 19-year-old Marine who went missing two weeks ago.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/19-year-marine-reported-missing-california-desert/story?id=138320350"
+        },
+        {
+          "headline": "6 reasons stocks are falling, and what you should do about it",
+          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
+        },
+        {
           "headline": "Man accused of starting blaze that became Palisades Fire found guilty of arson",
           "summary": "The defendant was found guilty of two arson counts during a retrial.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631"
-        },
-        {
-          "headline": "Jonathan Rinderknecht found guilty in Palisades Fire case",
-          "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
-        },
-        {
-          "headline": "'I was exhausted': Two days in the shoes of a tradwife",
-          "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "WATCH: Tips for hosting Friendsgiving this year",
-          "summary": "Digital creator Kerra Masella shares her tips for planning and hosting a Friendsgiving celebration, from getting organized ahead of time to making friends feel welcome around the table.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138331305/"
-        },
-        {
-          "headline": "Trump says recent tech outages are \"all separate events\"",
-          "summary": "President Trump's wide-ranging remarks Friday touched on the lingering concerns that tech outages at the FAA, NSA, banks and other companies were part of a coordinated attack. Mr.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-says-recent-tech-outages-are-all-separate-events/"
         }
       ]
     },
@@ -79,14 +79,84 @@
       "stories": [],
       "posts": [
         {
-          "id": "2123941115401523292",
-          "created_at": "2026-11-21T00:46:37.000Z",
+          "id": "2123946261623505313",
+          "created_at": "2026-11-21T01:07:04.000Z",
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
-          "text": "BREAKING: \n\nSenator Rick Scott @SenRickScott is leading the fight against the ANTI-AMERICAN “SAVE CHINA’S BACON ACT” that was attached to the Farm Bill. \n\nThank you, Senator Scott!\n\nDays after President Donald Trump @RealDonaldTrump publicly directed Congress to get a Farm Bill https://t.co/6nyUohrCwh https://t.co/Hfr1TF1MEa",
-          "url": "https://x.com/LauraLoomer/status/2123941115401523292",
+          "text": "BREAKING: \n\nSenator Rick Scott @SenRickScott is leading the fight against the ANTI-AMERICAN “SAVE CHINA’S BACON ACT” that some are trying to attach to the Farm Bill. \n\nThank you, Senator Scott!\n\nDays after President Donald Trump @RealDonaldTrump publicly directed Congress to get https://t.co/fjlanbsxUE https://t.co/Hfr1TF1eOC",
+          "url": "https://x.com/LauraLoomer/status/2123946261623505313",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123945774656463283",
+          "created_at": "2026-11-21T01:05:08.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "The semiconductor trade is still popular among fund managers:\n\n39% of global fund managers said \"long global semiconductors\" was the most crowded trade, according to a BofA survey of 169 fund managers overseeing $461 billion in assets conducted between November 6th and November https://t.co/06GGJASuw2",
+          "url": "https://x.com/KobeissiLetter/status/2123945774656463283",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123945133871694163",
+          "created_at": "2026-11-21T01:02:35.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NATASHA OWENS GIVES “AMERICAN VALUES” A VOICE\n\n@tashaowensmusic says her new song “American Values” is a message to people coming to America: embrace the culture and don’t recreate the policies you fled.\n\n“You're welcome to come here, but you have to become American, and you have https://t.co/4NpnVL2H70",
+          "url": "https://x.com/RealAmVoice/status/2123945133871694163",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123944649576390759",
+          "created_at": "2026-11-21T01:00:40.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Join us for the Live From Studio 6B show! Tune in M-F at 8PM ET. @lfs6b @damonroberts @paul_eggsNolan @slickricksports @KDJRadioShow https://t.co/hGTGYWJMeQ",
+          "url": "https://x.com/RealAmVoice/status/2123944649576390759",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123944532572315724",
+          "created_at": "2026-11-21T01:00:12.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP REJECTS IRAN DEAL, SLAMS POLITICAL FED | LIVE FROM STUDIO 6B https://t.co/JmIAIAL18I",
+          "url": "https://x.com/RealAmVoice/status/2123944532572315724",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123944496018731120",
+          "created_at": "2026-11-21T01:00:03.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Mamdani To CLOSE Rikers, Open 4 NEW PRISONS, Dems FOOLED\n\nw/ @TheBrianShapiro @IanCrossland @rebekazeljko @realTateBrown @Lisaelizabeth https://t.co/qJD6oqcWrs",
+          "url": "https://x.com/Timcast/status/2123944496018731120",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123944469460623773",
+          "created_at": "2026-11-21T00:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "backup stream 8pm et. https://t.co/Jxbe3mFnJb",
+          "url": "https://x.com/RealAmVoice/status/2123944469460623773",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123942737066045903",
+          "created_at": "2026-11-21T00:53:04.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "T.J. HARKER ON CHAUVIN CASE: “HE IS ACTUALLY AFFIRMATIVELY INNOCENT”\n\n@TJ_Harker argues Derek Chauvin was wrongly convicted in George Floyd’s death and says the medical evidence did not support asphyxiation as the cause of death.\n\n“There never was, and the prosecution never https://t.co/UnmQYt6bRm",
+          "url": "https://x.com/RealAmVoice/status/2123942737066045903",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2123938396058050953",
@@ -105,16 +175,6 @@
           "author_handle": "Outkick",
           "text": "When you get thrown into a meeting at 3:30 on a Friday  https://t.co/Q5NIkZWmNd",
           "url": "https://x.com/Outkick/status/2123937165734449288",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123936934808465868",
-          "created_at": "2026-11-21T00:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "RIKERS ISLAND CLOSURE COULD PUT THOUSANDS BACK ON NYC STREETS\n\n@DrDarrinPorcher warns there is no workable replacement plan for Rikers Island if New York City moves forward with shutting it down.\n\nRikers currently holds more than 6,000 detainees a day, while the proposed borough https://t.co/h8wFDUe1B5",
-          "url": "https://x.com/RealAmVoice/status/2123936934808465868",
           "verified": true,
           "verified_type": "business"
         },
@@ -147,16 +207,6 @@
           "url": "https://x.com/SportNState/status/2123932808204677433",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123932356536922257",
-          "created_at": "2026-11-21T00:11:49.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "PAUL PELOSI SPENDS JUST 36 MINUTES BEHIND BARS AFTER HIT-AND-RUN PLEA\n\nPaul Pelosi spent just 36 minutes in Napa County Jail after pleading no contest to a misdemeanor hit-and-run charge stemming from a July crash in Yountville, California.\n\nHe had been sentenced to one day in",
-          "url": "https://x.com/RealAmVoice/status/2123932356536922257",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123930676965896212",
@@ -199,16 +249,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123928146776936802",
-          "created_at": "2026-11-20T23:55:05.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NAVARRO: CCP IS WEAPONIZING AMERICA’S OWN SYSTEM\n\n@RealPNavarro tells @jsolomonReports that China’s grip on rare earths and critical minerals is far bigger than a trade fight — these materials are critical to American technology and major weapons systems.\n\n“Communist China https://t.co/2SM4Scbr73",
-          "url": "https://x.com/RealAmVoice/status/2123928146776936802",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123926190322745625",
           "created_at": "2026-11-20T23:47:19.000Z",
           "author_name": "Laura Loomer",
@@ -239,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123924876901642638",
-          "created_at": "2026-11-20T23:42:05.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: JONATHAN RINDERKNECHT FOUND GUILTY OF STARTING DEADLY PALISADES FIRE\n\nA federal jury has convicted Jonathan Rinderknecht of arson and destruction of property by fire for starting the Lachman Fire, which prosecutors said smoldered underground before reigniting as the",
-          "url": "https://x.com/RealAmVoice/status/2123924876901642638",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123924379751117266",
           "created_at": "2026-11-20T23:40:07.000Z",
           "author_name": "StockMarket.News",
@@ -277,16 +307,6 @@
           "url": "https://x.com/_The_Prophet__/status/2123919587377094897",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123919431172796557",
-          "created_at": "2026-11-20T23:20:27.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "The USDA was reportedly hit by a cyberattack, sources told ABC News. The attack impacted a tool used to process payments to farmers, forcing the shutdown of mapping, payment, and contracting systems until further notice. https://t.co/W8nvESURdc",
-          "url": "https://x.com/RealAmVoice/status/2123919431172796557",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123915576515146040",
@@ -407,16 +427,6 @@
           "url": "https://x.com/SportNState/status/2123888473581260980",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123885395033100559",
-          "created_at": "2026-11-20T21:05:12.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia, $NVDA, ends the week down -23% in its biggest weekly decline since October 2008.\n\nThe stock erased -$905 billion in market cap this week and officially closed down -$2.88 trillion since October 6th.\n\nNo comment from the company's board or interim CEO amid https://t.co/NMaZOqcOqm",
-          "url": "https://x.com/KobeissiLetter/status/2123885395033100559",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123883831652679706",
@@ -659,16 +669,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123778249238946036",
-          "created_at": "2026-11-20T13:59:27.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "I'll spare no one on this\n\nVery few are the truth seekers\n\nI'd say 90% of politics is \"how can I convince you to give me your money\" https://t.co/59z9B0MLx8",
-          "url": "https://x.com/Timcast/status/2123778249238946036",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123777868593582354",
           "created_at": "2026-11-20T13:57:56.000Z",
           "author_name": "Glenn Beck",
@@ -695,26 +695,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Appreciate you.\n\nMarkets are only one battlefield.\n\nThe deeper dives are where we go looking for what nobody has named yet.\n\nWelcome to the signal. https://t.co/I3LNYdvvgv",
           "url": "https://x.com/_The_Prophet__/status/2123619712911520224",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123582573435920820",
-          "created_at": "2026-11-20T01:01:54.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Poetry in its oldest was compression of reality into form so sharp it carried mythic weight.\n\nThat’s because in the ancient world, poetry wasn’t “art” in the decorative sense, it was the operating system of culture. Before books, before mass literacy, before archives, the only",
-          "url": "https://x.com/_The_Prophet__/status/2123582573435920820",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123581635480478139",
-          "created_at": "2026-11-20T00:58:10.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Every day, there’s something crashing now. First the FAA and Microsoft, then the banks and the NSA and now a power blip in South Carolina that sent a surge through the water system. \n\nHonestly, I don’t know why all of this is happening at once. I can’t tell you it’s an attack or https://t.co/AMwYX7A8Ij",
-          "url": "https://x.com/glennbeck/status/2123581635480478139",
           "verified": true,
           "verified_type": "blue"
         }
@@ -761,16 +741,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Markets plunge deeper one day after Anthropic's record-breaking IPO",
+          "summary": "The market fell deeper into the red on Friday, one day after Anthropic's record-breaking IPO, amid a tech selloff fueled by Nvidia's recent instability. Jo Ling Kent reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/markets-plunge-deeper-one-day-after-anthropics-record-breaking-ipo/"
+        },
+        {
           "headline": "Trump signs Common Cents Act",
           "summary": "The Common Cents Act established guidelines for businesses and consumers when conducting cash transactions.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/"
-        },
-        {
-          "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-          "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
         },
         {
           "headline": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
@@ -785,10 +765,10 @@
           "url": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523"
         },
         {
-          "headline": "Americans need help affording homes. Can Congress deliver?",
-          "summary": "Lawmakers may face more pressure in 2027 to focus on bipartisan housing proposals that would lower the cost of buying a home.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/congress-housing-affordability-first-time-homebuyers/"
+          "headline": "Trump's impact on an Ohio steel plant",
+          "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant"
         }
       ]
     },
@@ -797,28 +777,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Arizona Cardinals planning on veteran QB Josh Johnson start vs. Chiefs",
-          "summary": "The Arizona Cardinals find themselves in another less-than-ideal quarterback situation in Week 11. It appears that rookie quarterback Carson Beck won't be able to make a second consecutive start.",
+          "headline": "NCAA SOCCER: Division III tournament capsules",
+          "summary": "NCAA Division III Men’s Soccer Sweet 16 Bowdoin Polar Bears (10-3-5) at Scranton Royals (17-1-3) Where: Weiss Field, University of Scranton When: Saturday, 3:30 p.m. How they got here: Bowdoin received an at-large bid from the New England Small College Athletic Conference and defeated Thomas College, 3-1, and St.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/arizona-cardinals-planning-veteran-qb-003613000.html"
+          "url": "https://sports.yahoo.com/articles/ncaa-soccer-division-iii-tournament-010400725.html"
         },
         {
-          "headline": "Iowa women's basketball pair named to Wooden Award watch list",
-          "summary": "Iowa women's basketball guard Dani Carnegie and center Ava Heiden were named to the 2026-27 Wooden Award top 50 watch list . Presented to the nation's most outstanding women's college basketball player, Iowa is one of 15 programs nationally and one of five Big Ten programs with multiple selections, joining Maryland, Michigan , USC and Washington .",
+          "headline": "COLLEGE FOOTBALL NOTEBOOK: Wyoming Area grads help lead Lehigh into ‘The Rivalry’",
+          "summary": "Joseph Marranca came up big last week, helping Lehigh University capture another Patriot League championship and clinch a Football Championship Subdivision playoff berth. Marranca, a Wyoming Area graduate, recovered a fumble in the end zone for the go-ahead touchdown in a 21-14 win over Richmond last Saturday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/iowa-womens-basketball-pair-named-003603703.html"
+          "url": "https://sports.yahoo.com/articles/college-football-notebook-wyoming-area-010400809.html"
         },
         {
-          "headline": "49ers lose shot at breaking NFL record for most miles traveled due to Week 11 travel detour en route to Mexico",
-          "summary": "The 49ers are taking a detour in Week 11 that's going to cost them the NFL record for most miles traveled",
+          "headline": "Kentucky vs. Indiana prediction, pick, odds, spread: Wildcats face Hooisers in blue-blood clash",
+          "summary": "Indiana's revamped frontcourt and balanced scoring attack give the unbeaten Hoosiers a decisive edge against a Wildcats squad still searching for an identity",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/49ers-lose-shot-breaking-nfl-record-most-miles-traveled-week-11-travel-detour/"
+          "url": "https://www.cbssports.com/college-basketball/news/kentucky-indiana-prediction-picks-odds-spread-where-to-watch-live/"
         },
         {
-          "headline": "LSU women's basketball star MiLaysia Fulwiley has felony charges dropped in evading police case",
-          "summary": "Fulwiley is still facing three misdemeanors stemming from an incident after an LSU football game",
+          "headline": "Luis Gil, Nolan Gorman, Trevor Larnach, more hit MLB free agency after non-tender deadline",
+          "summary": "Non-tender decisions can be difficult calls for organizations because of roster crunches and crowded depth charts",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/womens-college-basketball/news/lsu-womens-basketball-milaysia-fulwiley-felony-charges-dropped/"
+          "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-non-tender-deadline-decisions/"
         },
         {
           "headline": "Price beats Kotaskova to become undisputed champion",
@@ -941,16 +921,22 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
+          "summary": "After 13 long years, Grand Theft Auto VI is finally here. The game everyone has been talking about since it dropped at midnight has already pulled in almost $4 billion in sales and features some of music’s biggest names on the soundtrack and in the game.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/gta-vi-music-celebrity-cameos-bad-bunny-anitta/"
+        },
+        {
+          "headline": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
+          "summary": "It's a Swedish musical takeover! Or do we call it a smorgasbord?",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154907/tiny-desk-radio-first-aid-kit-snoh-aalegra-robyn"
+        },
+        {
           "headline": "Nick Cannon Hospitalized Amid Lupus Battle: ‘Pray for Me, Y’all!’",
           "summary": "Nick Cannon revealed Friday (Nov. 20) that he’s been hospitalized amid his battle with lupus, and he’s asking fans to keep him in their prayers.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/rb-hip-hop/nick-cannon-hospital-lupus-prayers-1236387115/"
-        },
-        {
-          "headline": "Kylie Cantrall Talks ‘Bold, Grown & Messy’ New Music, How Her Disney Fans ‘Coexist’ With Growing Audience",
-          "summary": "Nestled into a corner of the Moxy Hotel in downtown L.A. this week, Kylie Cantrall sat down with Billboard to chat about her sold-out headlining solo tour, her songwriting process and her new era, post-Disney’s Descendants franchise.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/kyliecantrall-opens-up-about-new-music-its-bold-grown-messy-1236385194/"
         },
         {
           "headline": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
@@ -963,15 +949,9 @@
           "summary": "“Killing God With Computers” and the A.I.-assisted “Deepseek” both appear on Psy Opera",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/"
-        },
-        {
-          "headline": "Beastie Boys’ Mike D Brings Solo Album — and His Sons — to Tiny Desk Concert",
-          "summary": "The former Beastie Boys member performed six tracks off his solo album with his sons",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/beastie-boys-mike-d-brings-album-thank-you-to-tiny-desk-1235659577/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-20T19:48:38-05:00"
+  "updatedAt": "2026-11-20T20:14:36-05:00"
 }
