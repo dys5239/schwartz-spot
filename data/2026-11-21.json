@@ -42,16 +42,22 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Cartel leader on FBI's most wanted list arrested",
+          "summary": "Fausto Isidro Meza Flores, known as \"Chapo Isidro,\" was captured in an operation in Sinaloa.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
+        },
+        {
+          "headline": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
+          "summary": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706"
+        },
+        {
           "headline": "Bayer reaches Roundup settlement that could cost the company billions",
           "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide. (Image credit: Justin Sullivan)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement"
-        },
-        {
-          "headline": "Trump orders fed contractors to notify White House of congressional inquiries",
-          "summary": "The president signed an executive order requiring federal contractors to inform the administration of congressional inquiries into their work with the executive branch.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717"
         },
         {
           "headline": "Trump says he wants \"permanent\" deal with Iran",
@@ -64,12 +70,6 @@
           "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Evanilson strikes again as Bournemouth beat Forest",
-          "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,216 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124248549781016704",
+          "created_at": "2026-11-21T21:08:15.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Was Lane Kiffin doing too much here? 😬 https://t.co/a4ljcPQ8rO",
+          "url": "https://x.com/SportNState/status/2124248549781016704",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124247330719515092",
+          "created_at": "2026-11-21T21:03:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump: https://t.co/xsHghxbyUt",
+          "url": "https://x.com/Osint613/status/2124247330719515092",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124247246594318625",
+          "created_at": "2026-11-21T21:03:04.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "@POTUS ONE MORE!\n\nhttps://t.co/y8KAPWTO70",
+          "url": "https://x.com/RealAmVoice/status/2124247246594318625",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124247076465000908",
+          "created_at": "2026-11-21T21:02:24.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Nebraska fan took the bleacher with him on his way out 🤣🤣🤣 https://t.co/HD8otAQG7e",
+          "url": "https://x.com/Outkick/status/2124247076465000908",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124247020496150853",
+          "created_at": "2026-11-21T21:02:10.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS ON A POSTING ROLL TODAY!\n\nLet's do a compare and contrast from President Trump's recent China trip and Obama's trip...😉\n\nhttps://t.co/KoPwroIN9S",
+          "url": "https://x.com/RealAmVoice/status/2124247020496150853",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124246786936095228",
+          "created_at": "2026-11-21T21:01:15.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Join us for this week's edition of \"The Case For America\" with your host, Treniss Evans! Tune in every Saturday at 4PM ET. @CondemnedUSA\n https://t.co/yBlKo4bdeW",
+          "url": "https://x.com/RealAmVoice/status/2124246786936095228",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124246193907843326",
+          "created_at": "2026-11-21T20:58:53.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "@benshapiro Check out our full conversation. https://t.co/zWJijBT3MM",
+          "url": "https://x.com/glennbeck/status/2124246193907843326",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124246113524056091",
+          "created_at": "2026-11-21T20:58:34.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian media released footage of what it calls the IRGC Aerospace Force's response to the attack on Hengam Island's radar. https://t.co/XQAiZosQSk",
+          "url": "https://x.com/Osint613/status/2124246113524056091",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124246092833571094",
+          "created_at": "2026-11-21T20:58:29.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BE THANKFUL: \"WHOLE WORLD SUCKS BUT AMERICA STILL SUCKS LESS!\"\n\n\"HAPPY THANKSGIVING...gather your family around...thank God you are upright today! Thank God you were BORN an American.\" @tednugent https://t.co/qB5PRHRF6A",
+          "url": "https://x.com/RealAmVoice/status/2124246092833571094",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124246032955658272",
+          "created_at": "2026-11-21T20:58:15.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "I honestly think @benshapiro's new film “Confession” would be nominated for multiple Oscars if it didn't have his name on it. This week on the Glenn Beck Podcast, Ben tells me how “inclusive” Hollywood and the global filmmaking community was to the film’s amazingly talented cast https://t.co/cDb0yXx1DP",
+          "url": "https://x.com/glennbeck/status/2124246032955658272",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124245024674398240",
+          "created_at": "2026-11-21T20:54:15.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 10 BYU SURVIVES Kansas in 3OT 🤯 https://t.co/1owLbNlXtR",
+          "url": "https://x.com/SportNState/status/2124245024674398240",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124244974967590998",
+          "created_at": "2026-11-21T20:54:03.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "That smile before running in tells us everything https://t.co/XNdzCujG9L",
+          "url": "https://x.com/Outkick/status/2124244974967590998",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124244636231430180",
+          "created_at": "2026-11-21T20:52:42.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Bahrain’s Defense Force: \n\nSome shrapnel fell as a result of intercepting Iranian attacks. https://t.co/hhnRUFZny2",
+          "url": "https://x.com/Osint613/status/2124244636231430180",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124244458879221800",
+          "created_at": "2026-11-21T20:52:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 10 BYU STAYS ALIVE in the CFP race, and avoids a massive upset in 3 OTs https://t.co/GXl4jGKXSx",
+          "url": "https://x.com/SportNState/status/2124244458879221800",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124244430723137750",
+          "created_at": "2026-11-21T20:51:53.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "All clear in the Mecca region, per Saudi Civil Defense. https://t.co/te4bkBzXz8",
+          "url": "https://x.com/Osint613/status/2124244430723137750",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124243954405413316",
+          "created_at": "2026-11-21T20:49:59.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HILARIOUS! @POTUS JUST POSTED THIS VETO POWER PICTURE! 😂\n\nLook out Dems...\n\n https://t.co/9WKANpfjuL",
+          "url": "https://x.com/RealAmVoice/status/2124243954405413316",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124243374442213751",
+          "created_at": "2026-11-21T20:47:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Several Iranian aerial attacks intercepted by Bahraini air defences.\n\nBahrain Defence Force",
+          "url": "https://x.com/Osint613/status/2124243374442213751",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124243142543110546",
+          "created_at": "2026-11-21T20:46:46.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "https://t.co/2LpKT8Bi2o https://t.co/a1Du2Rz942",
+          "url": "https://x.com/SportNState/status/2124243142543110546",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124242220014600237",
+          "created_at": "2026-11-21T20:43:06.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Nebraska FINALLY beats ranked team, dropping Ohio State 31-28 https://t.co/kBujzzfL1P",
+          "url": "https://x.com/SportNState/status/2124242220014600237",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124241888983273482",
+          "created_at": "2026-11-21T20:41:47.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "F**K LANE KIFFIN \n\nTennessee fans are making sure Kiffin feels right at home in Neyland 😌 https://t.co/bjDVdu2xwJ",
+          "url": "https://x.com/Outkick/status/2124241888983273482",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124241570451054609",
+          "created_at": "2026-11-21T20:40:31.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
+          "url": "https://x.com/elonmusk/status/2124241570451054609",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124241532605620708",
           "created_at": "2026-11-21T20:40:22.000Z",
@@ -109,26 +319,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124240756588327250",
-          "created_at": "2026-11-21T20:37:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Initial reports of sirens going off once more in Bahrain.",
-          "url": "https://x.com/Osint613/status/2124240756588327250",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124238620097700162",
-          "created_at": "2026-11-21T20:28:48.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The No. 24 Gators outscore Vandy 17-3 in the 2nd half to outlast the Commodores, and improve to 7-4 on the season. https://t.co/MHXfpIeo0C",
-          "url": "https://x.com/SportNState/status/2124238620097700162",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124238249686159590",
           "created_at": "2026-11-21T20:27:19.000Z",
           "author_name": "Elon Musk",
@@ -147,56 +337,6 @@
           "url": "https://x.com/elonmusk/status/2124238164512714925",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124237884249239696",
-          "created_at": "2026-11-21T20:25:52.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "All clear in Bahrain, per the Interior Ministry. https://t.co/QpI55qKbBp",
-          "url": "https://x.com/Osint613/status/2124237884249239696",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124237733417885959",
-          "created_at": "2026-11-21T20:25:16.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: @POTUS REPOSTS EL-SAYED'S TRUMPCARE GOLD CARD POST\n\nThis comes on the heels of President Trump stating he will work with Dems on healthcare.\n\nhttps://t.co/ln7Px74SYg",
-          "url": "https://x.com/RealAmVoice/status/2124237733417885959",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124237586604728768",
-          "created_at": "2026-11-21T20:24:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IRGC claims it targeted two US Patriot radars at Al-Rifa and Awali bases in Bahrain with missiles and drones.",
-          "url": "https://x.com/Osint613/status/2124237586604728768",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124237148778082404",
-          "created_at": "2026-11-21T20:22:57.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "It's been a tough week for Lane Kiffin. Now he enters a rocking Neyland Stadium.\n\n@StephOtey checks in from Rocky Top: https://t.co/Ibo2ZGweDP",
-          "url": "https://x.com/SportNState/status/2124237148778082404",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124237114430693670",
-          "created_at": "2026-11-21T20:22:49.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "AWFUL game-winning attempt from BYU  https://t.co/MysWZhkAhz",
-          "url": "https://x.com/Outkick/status/2124237114430693670",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124236432089006261",
@@ -219,32 +359,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124234576121962834",
-          "created_at": "2026-11-21T20:12:43.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "NEBRASKA GOES UP 10 WITH UNDER 8 MINUTES TO GO 🤯 https://t.co/9Y7cSloKhI",
-          "url": "https://x.com/SportNState/status/2124234576121962834",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124234488985031103",
           "created_at": "2026-11-21T20:12:23.000Z",
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "Nebraska! Is it finally happening?! https://t.co/XNnuDwHrIj",
           "url": "https://x.com/ClayTravis/status/2124234488985031103",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124234130556698984",
-          "created_at": "2026-11-21T20:10:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Bennett and Eisenkot meeting right now. Talks with Likud are set for tomorrow.\n\nN12 https://t.co/8dOeLKgZ37",
-          "url": "https://x.com/Osint613/status/2124234130556698984",
           "verified": true,
           "verified_type": "blue"
         },
@@ -267,36 +387,6 @@
           "url": "https://x.com/LauraLoomer/status/2124233767560847708",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124233135369970008",
-          "created_at": "2026-11-21T20:07:00.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The IDF assesses that President Trump's decision window is approaching. Joint attack plans with the United States have been approved by the IDF.\n\nChannel 13",
-          "url": "https://x.com/Osint613/status/2124233135369970008",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124232418618229186",
-          "created_at": "2026-11-21T20:04:09.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NOW: DHS FACING ANTI-ICE PROTESTORS IN CHICAGO\n\nAs they scream obscenities...\"You have literally no f***ing job. You have no purpose in life except to terrorize people.”\n\nNot sure about that...I think the protestors may be talking about themselves. 🙄\n\nhttps://t.co/150fJARIyZ",
-          "url": "https://x.com/RealAmVoice/status/2124232418618229186",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124231832644292727",
-          "created_at": "2026-11-21T20:01:49.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Good afternoon. We invite you to join us for @TedNugent's Spirit Campfire! Watch every Saturday at 3PM ET. https://t.co/2Z0C9F2PcO",
-          "url": "https://x.com/RealAmVoice/status/2124231832644292727",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124231512010690850",
@@ -339,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124226515164332215",
-          "created_at": "2026-11-21T19:40:42.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Catch this week's @TedNugent SPIRIT CAMPFIRE 🔥 Show Today At 3PM ET. Check out the preview reel! https://t.co/A4OWByGBC1",
-          "url": "https://x.com/RealAmVoice/status/2124226515164332215",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124224722858598557",
           "created_at": "2026-11-21T19:33:34.000Z",
           "author_name": "Laura Loomer",
@@ -365,16 +445,6 @@
           "author_handle": "LauraLoomer",
           "text": "Indeed. And guess who is at the center of all of that?\n\nThere’s a reason why there was a whiplash effect to my post this week. \n\nAll of the worst people came out of the woodwork to defend their friend in PPO.\n\nPPO has been a disaster since day one of this administration. \n\nI have https://t.co/W3XDoB5odZ",
           "url": "https://x.com/LauraLoomer/status/2124224048070570360",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124220486389252574",
-          "created_at": "2026-11-21T19:16:44.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Sights &amp; Sounds from Neyland Stadium 🍊\n\n@StephOtey checks in from warmups: https://t.co/Q1eJydyaAt",
-          "url": "https://x.com/SportNState/status/2124220486389252574",
           "verified": true,
           "verified_type": "blue"
         },
@@ -409,32 +479,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124217576817295605",
-          "created_at": "2026-11-21T19:05:11.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Kid said it twice to make sure Kiffin heard him 😂 https://t.co/qCNRaGfeT7",
-          "url": "https://x.com/Outkick/status/2124217576817295605",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124217194469044433",
           "created_at": "2026-11-21T19:03:39.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡For 35 years, few things scared powerful people like a stranger with a camera.\n\nIn 1991 a man on a Los Angeles balcony filmed police beating Rodney King. He had no press pass, no outlet, no following. He didn't need any. The tape was the credential.\n\nEvery viral clip since has",
           "url": "https://x.com/_The_Prophet__/status/2124217194469044433",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124216662173819340",
-          "created_at": "2026-11-21T19:01:32.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Lane Kiffin has arrived at Neyland Stadium ahead of LSU's matchup with Tennessee 👀🍿 https://t.co/F8rfm2oJvd",
-          "url": "https://x.com/SportNState/status/2124216662173819340",
           "verified": true,
           "verified_type": "blue"
         },
@@ -449,42 +499,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124213680422387741",
-          "created_at": "2026-11-21T18:49:42.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. \n\nAnd, of course, is yet another mind-blowing thing achieved by super intelligence …\n\nhttps://t.co/F1sAyxwaSF",
-          "url": "https://x.com/elonmusk/status/2124213680422387741",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124211835163570344",
           "created_at": "2026-11-21T18:42:22.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "US semiconductor stocks are experiencing incredible volatility:\n\nThe Semiconductor Index to S&amp;P 500 ratio is down to 1.45 points, its lowest since April 2026.\n\nThis ratio has declined -0.46 points, or -24%, from its mid-June peak.\n\nOver this period, SOX has fallen -24%, while the https://t.co/cZsG4tuEZe",
           "url": "https://x.com/KobeissiLetter/status/2124211835163570344",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124208810344743091",
-          "created_at": "2026-11-21T18:30:20.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Hit the Bron \"silencer\" celly to go up 2 scores vs Ohio State https://t.co/Y9dz7r6X9p",
-          "url": "https://x.com/Outkick/status/2124208810344743091",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124201179995643956",
-          "created_at": "2026-11-21T18:00:01.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "America's Top 10 for 11/21/26 - #1 STORY OF THE WEEK \n\n@realwayneroot Breaks Down the Top 10 Stories of the Week https://t.co/YroqaZ9GFQ",
-          "url": "https://x.com/RealAmVoice/status/2124201179995643956",
           "verified": true,
           "verified_type": "business"
         },
@@ -669,26 +689,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123883831652679706",
-          "created_at": "2026-11-20T20:58:59.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "While Charlie Sheen was going off in all directions and spiraling down, Rob Lowe was quietly praying for him in the background, and Charlie had no idea.\n\nWe all have those unseen blessings in our lives. There are people out there you’ll never even know about who are praying for https://t.co/1ufeSCzise",
-          "url": "https://x.com/glennbeck/status/2123883831652679706",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123850122530558290",
-          "created_at": "2026-11-20T18:45:03.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Labeling Trump a traitor because he called Putin a friend right before a meeting is one of the most short-sighted takes I’ve seen. He knows Putin is an adversary. That’s just how he talks when the cameras are on, especially when he’s trying to negotiate the end of a war.\n\nThe https://t.co/33ASFSWKFP",
-          "url": "https://x.com/glennbeck/status/2123850122530558290",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123787524468625791",
           "created_at": "2026-11-20T14:36:18.000Z",
           "author_name": "Matt Walsh",
@@ -709,32 +709,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123777868593582354",
-          "created_at": "2026-11-20T13:57:56.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/20/26 https://t.co/sDQCjsRhGl",
-          "url": "https://x.com/glennbeck/status/2123777868593582354",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123755931272093751",
           "created_at": "2026-11-20T12:30:46.000Z",
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "So what you’ve proven with this ChatGPT post is that I’m consistent, correct, my predictions tend to be proven true, and I have a lot of reach. Thank you. \n\nWait was this supposed to make me look bad somehow? https://t.co/FCOdbAlPfS",
           "url": "https://x.com/MattWalshBlog/status/2123755931272093751",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123581635480478139",
-          "created_at": "2026-11-20T00:58:10.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Every day, there’s something crashing now. First the FAA and Microsoft, then the banks and the NSA and now a power blip in South Carolina that sent a surge through the water system. \n\nHonestly, I don’t know why all of this is happening at once. I can’t tell you it’s an attack or https://t.co/AMwYX7A8Ij",
-          "url": "https://x.com/glennbeck/status/2123581635480478139",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,10 +745,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates",
+          "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
+          "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
           "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-vows-work-democrats-cap-credit-card-interest-138346798"
+          "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         },
         {
           "headline": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -837,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
-          "summary": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Arsenal held by Newcastle rally and lose Raya to injury",
-          "summary": "Malick Thiaw put Newcastle in front against Arsenal (ANDY BUCHANAN) Arsenal missed the chance to open up an eight-point lead at the top of the Premier League after a stirring second-half fightback from Newcastle held the defending champions to a 2-2 draw on Saturday. The Gunners led through Eberechi Eze's strike after a dominant first 45 minutes.",
+          "headline": "49ers' Nick Bosa criticizes Mexican fans, kicks off internet firestorm",
+          "summary": "Nick Bosa looks on from the sidelines during the national anthem prior to the 49ers game against the Cowboys at AT&T Stadium on Nov. 15, 2026, in Arlington, Texas.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/arsenal-held-newcastle-rally-lose-194052957.html"
+          "url": "https://sports.yahoo.com/articles/49ers-nick-bosa-criticizes-mexican-210739213.html"
         },
         {
-          "headline": "Titans lose Tyjae Spears to IR ahead of Cowboys matchup",
-          "summary": "Trevor Ruszkowski-Imagn Images. Titans lose Tyjae Spears to IR ahead of Cowboys matchup appeared first on ClutchPoints .",
+          "headline": "Panthers make decisions on RB Jonathon Brooks, CB Mike Jackson for Week 11",
+          "summary": "Not everyone will be back for the Carolina Panthers here in Week 11. As announced on Saturday afternoon, running back Jonathon Brooks will not be activated ahead of Sunday's matchup against the Baltimore Ravens .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/titans-lose-tyjae-spears-ir-203229360.html"
+          "url": "https://sports.yahoo.com/articles/panthers-decisions-rb-jonathon-brooks-210638733.html"
         },
         {
-          "headline": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
-          "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "UConn vs. Old Dominion live stream, where to watch online, CBS Sports Network channel finder, odds",
-          "summary": "CBS Sports Network will carry six games in Week 12, beginning Tuesday and concluding with a quadruple-header on Saturday",
+          "headline": "Week 11 NFL score predictions, best picks today: Expert reveals exact scores for every NFL game",
+          "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 11 NFL schedule",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-schedule-week-12-cbs-sports-network-2026/"
+          "url": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-best-bets-today-for-week-11-2026/"
+        },
+        {
+          "headline": "Fantasy football Week 11 PPR cheat sheet: Caleb Douglas primed to build on budding rapport with Kyle McCord",
+          "summary": "Dave Richard breaks down every viable starting option across every game using a 1-10 confidence scale to help managers navigate injuries, byes and tricky lineup decisions",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-ppr-cheat-sheet-caleb-douglas-primed-to-build-on-budding-rapport-with-kyle-mccord/"
+        },
+        {
+          "headline": "Walker scores 16, New Haven takes down New Hampshire 50-47",
+          "summary": "Tim Walker had 16 points in New Haven’s 50-47 win over New Hampshire on Saturday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/walker-scores-16-new-haven-takes-new-hampshire-138348349"
         }
       ]
     },
@@ -873,8 +853,8 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is The End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed Out Headspace’ While Filming",
-          "summary": "Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is The End” while the two films were both shooting in New Orleans.",
+          "headline": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is the End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed-Out Headspace’ While Filming",
+          "summary": "Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is the End” while the two films were both shooting in New Orleans.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/"
         },
@@ -1013,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T15:41:37-05:00"
+  "updatedAt": "2026-11-21T16:11:27-05:00"
 }
