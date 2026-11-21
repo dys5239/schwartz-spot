@@ -6,7 +6,7 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Stocks enter correction territory, driven by a deepening tech rout",
+          "headline": "Stocks enter correction territory, driven by deepening tech rout",
           "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "South Florida begins recovery after widespread flooding",
+          "summary": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
+        },
+        {
           "headline": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
           "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
           "source": "BBC News",
@@ -52,12 +58,6 @@
           "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
-        },
-        {
-          "headline": "South Florida severe weather and flooding live updates",
-          "summary": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
         },
         {
           "headline": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123977229126541528",
+          "created_at": "2026-11-21T03:10:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "President Trump says US companies that build data centers in other countries will face a tremendous tax\n\n\"We're not going to allow companies to build data centers in other countries\"\n\n\"If they do that, they can, but we're going to put a tremendous tax on them. If they do it, we https://t.co/8icBKB0flF",
+          "url": "https://x.com/_Investinq/status/2123977229126541528",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123970938027024533",
+          "created_at": "2026-11-21T02:45:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Dan Niles says the dot-com bust had seven 25% Nasdaq rallies on the way to a 78% loss, but he thinks this looks more like the 1997 and 1998 chip meltdowns\n\n\"You had seven rallies in the Nasdaq of 25% on your way to losing 78% of your money\"\n\n\"You had seven rallies in the https://t.co/3V0cFUg7Gl",
+          "url": "https://x.com/_Investinq/status/2123970938027024533",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2123964641714085996",
           "created_at": "2026-11-21T02:20:06.000Z",
@@ -349,16 +369,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123915576515146040",
-          "created_at": "2026-11-20T23:05:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Treasury Secretary Scott Bessent says Jensen Huang never came up in the China talks and the H200 is the firm line for chip sales\n\n\"Not at all. Nothing about the spy allegations\"\n\n\"He drew a very firm line at the H200s, and believes that that is the level that China should be able https://t.co/8n9JZZboi0",
-          "url": "https://x.com/_Investinq/status/2123915576515146040",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123912390186303586",
           "created_at": "2026-11-20T22:52:28.000Z",
           "author_name": "The Kobeissi Letter",
@@ -387,16 +397,6 @@
           "url": "https://x.com/KobeissiLetter/status/2123910179137654894",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123906819999596760",
-          "created_at": "2026-11-20T22:30:20.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Larry Kudlow says Wall Street sold Nvidia and the hyperscalers to make room for Anthropic, and he doesn't read the selloff as bearish\n\n\"They already sold Nvidia, and I think they sold the hyperscalers to make room for Anthropic\"\n\n\"The Nvidia correction had already occurred. Maybe https://t.co/tBM8oTQQh1",
-          "url": "https://x.com/_Investinq/status/2123906819999596760",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123898539352756617",
@@ -717,16 +717,16 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "The latest from Trump's press conference",
-          "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
-        },
-        {
           "headline": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
           "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+        },
+        {
+          "headline": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+          "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling. (Image credit: Spencer Platt)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
         },
         {
           "headline": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy",
@@ -777,16 +777,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Stewards summon Verstappen over 2 possible violations in Las Vegas GP practice; also call in Russell",
-          "summary": "LAS VEGAS (AP) — Four-time Formula 1 champion Max Verstappen , who has won the Las Vegas Grand Prix two of the past three years, was summoned to see the stewards for two possible violations in Friday's practice session. Stewards wanted to question him about an incident with George Russell, who won here two years ago , in Turn 14 and for “driving…",
+          "headline": "Wilkinson hits 8 3-pointers and helps No. 20 Arkansas beat Mississippi Valley State 92-48",
+          "summary": "FAYETTEVILLE, Ark. (AP) — Jeremiah Wilkinson scored 28 points and Billy Richmond III added 18 as No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/stewards-summon-verstappen-over-2-023645812.html"
+          "url": "https://sports.yahoo.com/articles/wilkinson-hits-8-3-pointers-030500780.html"
         },
         {
-          "headline": "Colts rumors: Analyst’s Daniel Jones revelation may explain shocking release",
-          "summary": "Barry Reeger-Imagn Images Colts rumors: Analyst’s Daniel Jones revelation may explain shocking release appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Giants bring back reliever Camilo Doval, let infielder Christian Koss go",
+          "summary": "Giants pitcher Camilo Doval struck out the side against the Los Angeles Dodgers during the seventh inning on Sept. 26 at AT&T Park.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/colts-rumors-analyst-daniel-jones-023616803.html"
+          "url": "https://sports.yahoo.com/articles/giants-bring-back-reliever-camilo-030113356.html"
         },
         {
           "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
@@ -849,16 +849,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison",
-          "summary": "UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan Rinderknecht, 30, was found guilty Friday of destruction of property by means of fire and arson affecting property used in interstate […]",
+          "headline": "Everything To Know About ‘Presumed Innocent’ Season 2 As Apple Series Goes Anthology",
+          "summary": "Apple TV+’s Presumed Innocent will be back for a second season, but Season 2 will diverge from the first installment. The legal drama series was renewed in July 2024 with its final two episodes still to launch on Apple TV+.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/"
+          "url": "https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/"
         },
         {
-          "headline": "‘Yellowjackets’ Stars Melanie Lynskey & Christina Ricci On Misty’s Plot “To Save Themselves” From Shauna: “She’ll Be The Downfall Of Everybody”",
-          "summary": "SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode “Hivemind” As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday’s Season 4 premiere episode “Hivemind” with Deadline, Christina Ricci explained that the episode picks up shortly…",
+          "headline": "‘The Hunger Games: Sunrise On The Reaping’ Album Boasts 29 Songs; Releases Ahead Of Film",
+          "summary": "UPDATED, Nov. 20: The Hunger Games: Sunrise on the Reaping is finally here, full of both bleak torturous scenes and also hopeful ones.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/"
+          "url": "https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-songs-soundtrack-album-1237165820/"
         },
         {
           "headline": "Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere",
@@ -885,16 +885,16 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”",
-          "summary": "Aaron Pierre starred as John Stewart in the HBO & DC Studios series Lanterns and was set to play him across the DC Universe. However, with Peter Safran and James Gunn no longer co-heads of DC Studios, the future of the world they were building seems uncertain.",
+          "headline": "Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison",
+          "summary": "UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan Rinderknecht, 30, was found guilty Friday of destruction of property by means of fire and arson affecting property used in interstate […]",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/"
+          "url": "https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/"
         },
         {
-          "headline": "David Fincher Defends Use Of AI Amid ‘Cliff Booth’ Criticism: “Well, It Exists. Should We Not Use It?”",
-          "summary": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the […]",
+          "headline": "‘Yellowjackets’ Stars Melanie Lynskey & Christina Ricci On Misty’s Plot “To Save Themselves” From Shauna: “She’ll Be The Downfall Of Everybody”",
+          "summary": "SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode “Hivemind” As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday’s Season 4 premiere episode “Hivemind” with Deadline, Christina Ricci explained that the episode picks up shortly…",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
+          "url": "https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/"
         },
         {
           "headline": "How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change",
@@ -953,5 +953,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T21:43:14-05:00"
+  "updatedAt": "2026-11-20T22:14:14-05:00"
 }
