@@ -24,16 +24,16 @@
           "url": "https://www.npr.org/2026/11/20/nx-s1-6048645/tech-stocks-end-the-week-on-a-down-note-despite-anthropics-mega-ipo"
         },
         {
+          "headline": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
+        },
+        {
           "headline": "Can Anthropic win hearts and minds by curing hearts and minds?",
           "summary": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/"
-        },
-        {
-          "headline": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
         }
       ]
     },
@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Man convicted of starting Palisades fire in Los Angeles",
+          "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "'He's a killer': Zelensky reacts to Trump calling Putin a friend",
+          "summary": "Trump's comments came as Russia launched \"biggest attacks this year\" against Ukraine.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "South Florida begins recovery after widespread flooding",
           "summary": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
         },
         {
-          "headline": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Jonathan Rinderknecht found guilty in Palisades Fire case",
           "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
-        },
-        {
-          "headline": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
-          "summary": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Body found during search for missing 19-year-old Marine: Investigators",
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123997911696429540",
+          "created_at": "2026-11-21T04:32:18.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/FQ4iXRGZHv",
+          "url": "https://x.com/SpaceX/status/2123997911696429540",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123995383625924847",
+          "created_at": "2026-11-21T04:22:16.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Liftoff! https://t.co/MliO0n8EfK",
+          "url": "https://x.com/SpaceX/status/2123995383625924847",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123993886771331080",
+          "created_at": "2026-11-21T04:16:19.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Bitcoin falls below $56,000 as $650 million worth of levered positions are liquidated in 60 minutes.\n\nThis puts Bitcoin down -$31,000 over the last 45 days. https://t.co/9RVIqghX55",
+          "url": "https://x.com/KobeissiLetter/status/2123993886771331080",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123991780869943752",
           "created_at": "2026-11-21T04:07:57.000Z",
@@ -369,16 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123929818924306617",
-          "created_at": "2026-11-21T00:01:44.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The 3-month correlation between the S&amp;P 500 and gold is up to +0.35, doubling since February.\n\nThe correlation between these two assets has remained positive throughout the year, unlike in 2025, when it was negative for most months.\n\nSince the Iran War began, gold has https://t.co/8jKwxWYEEB",
-          "url": "https://x.com/KobeissiLetter/status/2123929818924306617",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123928627758748049",
           "created_at": "2026-11-20T23:57:00.000Z",
           "author_name": "Clay Travis",
@@ -599,16 +619,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123825853008122336",
-          "created_at": "2026-11-20T17:08:36.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Separation confirmed! Dragon is performing four departure burns to move away from the @Space_Station. Splashdown in ~29 hours off the coast of California",
-          "url": "https://x.com/SpaceX/status/2123825853008122336",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123824635225448625",
           "created_at": "2026-11-20T17:03:46.000Z",
           "author_name": "Tim Pool",
@@ -627,16 +637,6 @@
           "url": "https://x.com/Osint613/status/2123824363002601924",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123821137490493806",
-          "created_at": "2026-11-20T16:49:52.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "All cargo is loaded, the hatch is closed, and Dragon is ready for an on-time departure from the @Space_Station at 12:05 p.m. ET",
-          "url": "https://x.com/SpaceX/status/2123821137490493806",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123815006487838896",
@@ -827,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Providence basketball commit Lewis Uvwo shares emotional family reunion after year apart",
-          "summary": "Five-star center Lewis Uvwo, a native of Nigeria, hadn't seen his parents in more than a year. That changed on Thursday, Nov.",
+          "headline": "Ontario ends historic 4-year stretch win regional runner-up trophy",
+          "summary": "MARION — In playoff football, everything is magnified. And for the Ontario Warriors, their weaknesses were exploited in a 43-13 loss to Wapakoneta in the Division III Region 10 championship game on Friday, Nov.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/providence-basketball-commit-lewis-uvwo-040857868.html"
+          "url": "https://sports.yahoo.com/articles/ontario-ends-historic-4-stretch-042714339.html"
         },
         {
-          "headline": "Raptors upset Pistons, Harden scores 51 in Cavs win",
-          "summary": "Scottie Barnes hugs Toronto teammate Immanuel Quickley as the Raptors celebrate an upset win over Detroit (Duane Burleson) Scottie Barnes scored 29 points as the Toronto Raptors upset the Detroit Pistons 105-102 in the NBA Cup on Friday. Barnes drained a driving layup to give Toronto a 103-102 lead with 14 seconds remaining and hand the Raptors a crucial…",
+          "headline": "No late drama needed: Talon Immel and a stifling defense send Burnt Hills to the state semifinals",
+          "summary": "Burnt Hills-Ballston Lake junior Talon Immel scores a touchdown in front of Cornwall defender Colin Greene during the Class A state quarterfinals on Friday, Nov. 20, 2026, in Colonie, NY.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/raptors-upset-pistons-harden-scores-040823410.html"
+          "url": "https://sports.yahoo.com/articles/no-drama-needed-talon-immel-042709946.html"
         },
         {
-          "headline": "LSU's MiLaysia Fulwiley no longer facing felony charges for evading traffic stop",
-          "summary": "LSU senior guard MiLaysia Fulwiley will be charged with traffic citations but will not face any felony charges in connection with her arrest Saturday night after she allegedly attempted to evade police officers who tried to pull her over",
+          "headline": "O'Neal nets 23, Sivka adds 17, No. 12 Kentucky women defeat Marshall 85-49",
+          "summary": "Me’Arah O’Neal scored 16 of her 23 points in the second half, Ajsa Sivka had 15 of her 17 in the first half and No. 12 Kentucky rolled to an 85-49 win over Marshall on Friday night",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/lsus-milaysia-fulwiley-longer-facing-felony-charges-evading-138333539"
+          "url": "https://abcnews.com/Sports/wireStory/oneal-nets-23-sivka-adds-17-12-kentucky-138335333"
         },
         {
-          "headline": "Johnson scores 39, Idaho State downs South Dakota State 86-71",
-          "summary": "Malachi Johnson’s 39 points led Idaho State over South Dakota State 86-71 on Friday",
+          "headline": "Efinda puts up 22, Canisius defeats Mercyhurst 63-56",
+          "summary": "Clinton Efinda had 22 points in Canisius’ 63-56 win against Mercyhurst on Friday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/johnson-scores-39-idaho-state-downs-south-dakota-138334000"
+          "url": "https://abcnews.com/Sports/wireStory/efinda-puts-22-canisius-defeats-mercyhurst-63-56-138335505"
         },
         {
           "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
@@ -899,6 +899,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Real Time’: Bill Maher Jokes ‘GTA VI’ Has Caused “More Workplace Absences Than ICE,” Notes He’s Glad James Bond Cast “Very Heterosexual Male”",
+          "summary": "After Grand Theft Auto VI and James Bond took over social media this week, Bill Maher has added his two cents to the discourse before going on hiatus. On Friday’s Season 24 finale of Real Time, the comedian expressed his fascination with the “giant cultural phenomenon” following GTA VI‘s multi-billion dollar opening.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/"
+        },
+        {
           "headline": "Bill Maher Mocks ‘Grand Theft Auto 6’-Playing Young Men With Awful ICE Joke",
           "summary": "The Season 24 finale of “Real Time with Bill Maher” aired Friday night — it’s been renewed for two more seasons through 2028 — and the crabby comic’s monologue tackled everything from the spate of tech outages to former Nvidia CEO Jensen Huang’s infidelity to “Grand Theft Auto 6.” “It’s getting a little scary out […]",
           "source": "Variety",
@@ -911,22 +917,16 @@
           "url": "https://deadline.com/feature/presumed-innocent-season-2-news-updates-1236568924/"
         },
         {
-          "headline": "‘Yellowjackets’ Stars Melanie Lynskey & Christina Ricci On Misty’s Plot “To Save Themselves” From Shauna: “She’ll Be The Downfall Of Everybody”",
-          "summary": "SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode “Hivemind” As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday’s Season 4 premiere episode “Hivemind” with Deadline, Christina Ricci explained that the episode picks up shortly…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/"
-        },
-        {
           "headline": "Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere",
           "summary": "Amazon Prime Video’s “Melania: The Series” offers a peek into the often-reclusive first lady’s personal life and role inside the White House, including her efforts to provide children in foster care with educational and career opportunities. But as the first lady seeks a more public-facing role in international peacemaking efforts, most recently taking…",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/melania-trump-series-gaza-israel-children-peace-amazon-1236954718/"
         },
         {
-          "headline": "'GTA VI' finally reveals the actors, voices and familiar names behind Vice City",
-          "summary": "Rockstar Games has finally revealed the cast behind \"Grand Theft Auto VI,\" ending years of secrecy",
+          "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
+          "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
           "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/gta-vi-finally-reveals-actors-voices-familiar-names-138303553"
+          "url": "https://abcnews.com/Entertainment/wireStory/unflinching-josephine-beth-de-arajo-transmutes-tragedy-art-138317266"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T23:14:46-05:00"
+  "updatedAt": "2026-11-20T23:44:26-05:00"
 }
