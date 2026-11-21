@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+        },
+        {
           "headline": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
           "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit , a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word .",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested. (Image credit: Michael M.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety"
-        },
-        {
-          "headline": "The AI boom had a really bad week — and it's raising loud alarms",
-          "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia"
         }
       ]
     },
@@ -48,28 +48,28 @@
           "url": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/"
         },
         {
-          "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people. (Image credit: Etienne Laurent)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction"
-        },
-        {
           "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
           "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
         },
         {
+          "headline": "Serious crash closes M42 near Birmingham Airport",
+          "summary": "Drivers describe seeing a \"huge fire\" from cars on the M42 motorway.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8vg2pd5707wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+          "summary": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people. (Image credit: Etienne Laurent)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction"
+        },
+        {
           "headline": "Scouts say they face £1m tourist tax cost for overnight trips",
           "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-          "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124150751047942551",
+          "created_at": "2026-11-21T14:39:38.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CONSTITUTIONAL SHOWDOWN: IS CONGRESSIONAL OVERSIGHT BECOMING POLITICAL RETALIATION?\n\nTexas U.S. Attorney Aaron Reitz joins Treniss Evans for an EXCLUSIVE on his preliminary inquiry involving Rep. Robert Garcia, the crackdown on cartels, and a stark warning about illegal border https://t.co/Gcd17u1B10",
+          "url": "https://x.com/i/status/2124150751047942551",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124148399318712425",
+          "created_at": "2026-11-21T14:30:17.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Bessemer's Byron Deeter says the $1 trillion going into data centers next year is bigger than the entire US Department of War budget\n\n\"We are a large multiple, even in present dollars adjusted, bigger than the entire railroad build out\"\n\n\"The trillion dollars that's going to be https://t.co/SNZGzlzjQ1",
+          "url": "https://x.com/i/status/2124148399318712425",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124147576505245854",
+          "created_at": "2026-11-21T14:27:01.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "A Georgia fan snuck into Georgia Tech’s presser and trolled them 😭 https://t.co/gSTJ47DZKu",
+          "url": "https://x.com/i/status/2124147576505245854",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124145557493195247",
+          "created_at": "2026-11-21T14:19:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Market sentiment has taken a complete 180 degree turn:\n\nThe Fear &amp; Greed Index fell to 9.7 points on Friday, below 10.0 for the first time since March 2026.\n\nThis marks its 4th lowest level since the 2022 bear market.\n\nA reading below 30.0 indicates \"Extreme Fear\" territory and https://t.co/hDEfcHuGgS",
+          "url": "https://x.com/i/status/2124145557493195247",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124145039634829657",
+          "created_at": "2026-11-21T14:16:56.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Lane Kiffin returns to Knoxville with nothing to lose. Can he upend the Vols’ playoff path? \n\nPlus, college football might have an attendance problem; Curt Cignetti’s on a Boomer X rampage, games to watch, and our best bets. \n\nIt’s Saturday Quick Hits 👇\nhttps://t.co/H1iNIu110g",
+          "url": "https://x.com/i/status/2124145039634829657",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124142035212927356",
           "created_at": "2026-11-21T14:05:00.000Z",
@@ -155,16 +205,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: Crypto markets saw $2.7 billion worth of levered positions liquidated in 24 hours amid last night's drop in Bitcoin to its lowest level since September 2024.\n\nThis officially marks the 11th-largest liquidation event in crypto market history.\n\nSince the October 2025 https://t.co/hLBIBWiJJB",
           "url": "https://x.com/i/status/2124129427026047221",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124125662990725202",
-          "created_at": "2026-11-21T12:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING POINT WITH DAVID ZERE https://t.co/28Th3xkv5A",
-          "url": "https://x.com/i/status/2124125662990725202",
           "verified": true,
           "verified_type": "business"
         },
@@ -299,16 +339,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124028536164139438",
-          "created_at": "2026-11-21T06:34:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "If you're Nvidia's board, what do you do this weekend?\n\nYour stock is down -45%, almost every government agency is investigating you, Jensen Huang says he wants to return, and shareholders are calling for you to be fired.\n\nYou have 48 hours before markets reopen. What do you do? https://t.co/yyt6xpimDd",
-          "url": "https://x.com/i/status/2124028536164139438",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124014140133941266",
           "created_at": "2026-11-21T05:36:47.000Z",
           "author_name": "Tim Pool",
@@ -429,16 +459,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123964641714085996",
-          "created_at": "2026-11-21T02:20:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Chamath Palihapitiya says Nvidia is trading down on the realization that its over-earning era may be over, as AI splits the market into 9 to 10 megacorps and everyone else\n\n\"I think that there are going to be 9 to 10 megacorps that get built over the next decade because of AI\" https://t.co/DsM35GQPWy",
-          "url": "https://x.com/i/status/2123964641714085996",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123953043913765352",
           "created_at": "2026-11-21T01:34:01.000Z",
           "author_name": "Sport & State",
@@ -549,16 +569,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123888473581260980",
-          "created_at": "2026-11-20T21:17:26.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Friday Happy Hour with @OnTiltShow 🥂\n\nFade It or Clay It: Best Bets for NFL Week 11 &amp; CFB Week 12 and More:\nhttps://t.co/TdHPoWLA4g",
-          "url": "https://x.com/i/status/2123888473581260980",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123883831652679706",
           "created_at": "2026-11-20T20:58:59.000Z",
           "author_name": "Glenn Beck",
@@ -595,16 +605,6 @@
           "author_handle": "Outkick",
           "text": "From transgender controversy to a ninth-place finish.\n\nSJSU volleyball went 9-20, missed the conference tournament AGAIN and remains mired in legal battles, coach allegations and its fight with the Trump administration.\n\nWhat a nasty mess.\nhttps://t.co/PbGztfu3pI",
           "url": "https://x.com/i/status/2123859560863592794",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123855631824347605",
-          "created_at": "2026-11-20T19:06:56.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": ".@craigcartonlive woke up and chose violence 😳 https://t.co/nzQLeNgshK",
-          "url": "https://x.com/i/status/2123855631824347605",
           "verified": true,
           "verified_type": "business"
         },
@@ -765,6 +765,18 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Oath Keepers founder and Jan. 6 leader Stewart Rhodes is 'absolutely done' with Trump",
+          "summary": "The founder of the right-wing militia known as the Oath Keepers says he's done with Donald Trump",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/oath-keepers-founder-jan-6-leader-stewart-rhodes-138341388"
+        },
+        {
+          "headline": "Democrats who swept into the Senate promised change. A leadership vote is testing them early",
+          "summary": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/democrats-swept-senate-promised-change-leadership-vote-testing-138342385"
+        },
+        {
           "headline": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
           "summary": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
           "source": "NPR",
@@ -781,18 +793,6 @@
           "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
-          "headline": "Trump defends calling Putin his friend, talks outages in first presser after China summit",
-          "summary": "President Trump addressed Iran's nuclear program, the Ukraine war and more in his first press conference following his summit with Vladimir Putin and Xi Jinping on Friday. Ed O'Keefe reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-defends-calling-putin-his-friend-talks-outages-in-first-presser-after-china-summit/"
-        },
-        {
-          "headline": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy",
-          "summary": "Georgia Democrat Stacey Abrams is retooling the Fair Fight organization that she started to advocate for voter protection and ballot access after she lost the governor's race in 2018",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/stacey-abrams-plans-refocus-fair-fight-voting-rights-138316451"
         }
       ]
     },
@@ -801,34 +801,34 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Why Anthropic's blockbuster IPO couldn't escape the stock market correction",
-          "summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors.",
+          "headline": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
+          "summary": "The busy holiday season may lead retirees to miss a key deadline for retirement account withdrawals.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"
+          "url": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html"
         },
         {
-          "headline": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
-          "summary": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
+          "headline": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
+          "summary": "The brutal sell-off is creating opportunities for us to put cash to work.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html"
+        },
+        {
+          "headline": "A 10% drop for the stock market is unnerving, but it's not that unusual",
+          "summary": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/10-drop-stock-market-unnerving-unusual-138341954"
+        },
+        {
+          "headline": "The AI boom had a really bad week — and it's raising loud alarms",
+          "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia"
         },
         {
           "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
           "summary": "Negotiators at the United Nations climate talks in Turkey are working an extra day in an attempt to reach a final agreement to address global warming",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
-        },
-        {
-          "headline": "Stocks enter correction territory, driven by deepening tech rout",
-          "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
-        },
-        {
-          "headline": "6 reasons stocks are falling, and what you should do about it",
-          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
         }
       ]
     },
@@ -837,28 +837,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Liberty runs over Mountain View to reach Open Division semifinals",
-          "summary": "No matter what, Liberty finds a way to win. Injuries at quarterback have forced coach Colin Thomas and his staff to be creative.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/liberty-runs-over-mountain-view-140819255.html"
-        },
-        {
-          "headline": "Elliot Anderson roars back from England nightmare in style 💫",
-          "summary": "Elliot Anderson returned from the international break as a man on a mission. Anderson had joined Manchester City to great fanfare during the summer with a nine-figure fee paid to Nottingham Forest heightening expectations of the midfielder.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/elliot-anderson-roars-back-england-140600168.html"
-        },
-        {
-          "headline": "Don't sleep on these three NFL Week 11 games, from Joe Burrow's historic run to a rookie QB encore",
-          "summary": "Joe Burrow's historic MVP push, Tampa Bay's dominant rushing attack and Fernando Mendoza's second NFL start highlight three overlooked Week 11 games worth watching",
+          "headline": "Week 11 NFL odds, picks, predictions: Computer model backs Cowboys and Saints",
+          "summary": "SportsLine's advanced model has simulated every game in the Week 11 NFL schedule 10,000 times and locked in its NFL best bets today",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-games-joe-burrow-bengals-commanders/"
+          "url": "https://www.cbssports.com/betting/news/nfl-odds-game-picks-spreads-betting-lines-predictions-week-11-2026/"
         },
         {
-          "headline": "Oregon routs Michigan State: No. 13 Ducks collect CFP style points in emphatic road win over Spartans",
-          "summary": "The Ducks have won four straight games in the Big Ten since a late-October loss at Illinois",
+          "headline": "Haaland in VAR controversy as Man City held by Fulham",
+          "summary": "Manchester City striker Erling Haaland was controversially denied a goal against Fulham (Oli SCARFF) Erling Haaland was controversially denied a crucial goal as Manchester City's spluttering Premier League title challenge suffered a fresh blow in a 1-1 draw against Fulham on Saturday. Enzo Maresca's side trailed to Rodrigo Muniz's early opener at the…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/haaland-var-controversy-man-city-143242665.html"
+        },
+        {
+          "headline": "College football odds, picks, predictions for Week 12, 2026: Computer likes Texas, Indiana",
+          "summary": "SportsLine's model has revealed its 2026 Week 12 college football picks for matchups such as Georgia vs. South Carolina, UCLA vs.",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/oregon-michigan-state-score-ducks-college-football-playoff-style-points/"
+          "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-lines-spreads-top-predictions-best-bets-week-12-2026/"
+        },
+        {
+          "headline": "Owen Heinecke says Oklahoma is ready for Texas A&M",
+          "summary": "The Oklahoma Sooners end the season with two former Big 12 foes, hoping to finish this disappointing season on a high note. Oklahoma starts things with the Texas A&M Aggies on Saturday before finishing on the road against the Missouri Tigers .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/owen-heinecke-says-oklahoma-ready-143100193.html"
         },
         {
           "headline": "'Best in world' Price set for Cardiff stadium fight",
@@ -879,10 +879,10 @@
           "url": "https://variety.com/2026/film/global/mbappe-impersonator-the-lookalike-egyptian-doc-1236954825/"
         },
         {
-          "headline": "‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’",
-          "summary": "For Iraqi-Swiss filmmaker Ali Toffan Al-Fatlawi, the idea behind “The Blind Ferryman” began with a thought that struck him during Iraq’s civil war in 2006. Living in Switzerland and watching the violence unfold in his homeland, he thought of two of his aunts who were blind and found himself wishing that blindness might spare his […]",
+          "headline": "An Iranian Woman Falls Pregnant to Avoid Execution in ‘Inherited’: Situation in Iran Is ‘Increasingly Complex’",
+          "summary": "A few years ago, Iranian filmmaker Morteza Alizadeh saw a photograph that he couldn’t shake from his mind: it showed mothers and their children going about their lives, which at first seemed routine, until the director realized it was taken inside a women’s prison. From that first glimpse into a little spoken-about reality, Alizadeh spent […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/"
+          "url": "https://variety.com/2026/film/global/morteza-alizadeh-morally-knotty-inherited-iran-1236954820/"
         },
         {
           "headline": "Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”",
@@ -921,16 +921,16 @@
           "url": "https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888/"
         },
         {
+          "headline": "‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’",
+          "summary": "For Iraqi-Swiss filmmaker Ali Toffan Al-Fatlawi, the idea behind “The Blind Ferryman” began with a thought that struck him during Iraq’s civil war in 2006. Living in Switzerland and watching the violence unfold in his homeland, he thought of two of his aunts who were blind and found himself wishing that blindness might spare his […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/"
+        },
+        {
           "headline": "Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in ‘Boltrim’ at India’s WAVES Film Bazaar",
           "summary": "Director Ashish Aryan is presenting “Boltrim,” a Hindi-English dark comedy about an obese monkey subjected to drug trials by a pharmaceutical giant developing a weight-loss injection, to the Co-Production Market at India’s WAVES Film Bazaar. The film traces the smuggled animal’s journey from Assam to a Delhi laboratory, exploring how far an operations…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/"
-        },
-        {
-          "headline": "Oscar-Winning Doc ‘The Elephant Whisperers’ Co-Writer’s Dark Comedy ‘Nose Bone’ Follows a Punjabi Woman’s Race for an Abortion at WAVES Film Bazaar",
-          "summary": "Writer-director Garima Pura, a co-writer of the Oscar-winning documentary “The Elephant Whisperers,” is presenting “Nose Bone,” a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India’s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she’s expecting and runs from […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -945,16 +945,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Oscar-Winning Doc ‘The Elephant Whisperers’ Co-Writer’s Dark Comedy ‘Nose Bone’ Follows a Punjabi Woman’s Race for an Abortion at WAVES Film Bazaar",
+          "summary": "Writer-director Garima Pura, a co-writer of the Oscar-winning documentary “The Elephant Whisperers,” is presenting “Nose Bone,” a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India’s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she’s expecting and runs from […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922/"
+        },
+        {
           "headline": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates",
           "summary": "“Heal,” a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will debut in the U.K. on Nov.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/"
-        },
-        {
-          "headline": "‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and ‘Uncle Joe,’ Youssef Chahine: ‘Filmmaking Is Really About Healing’",
-          "summary": "For Egyptian filmmaker Sara Shazli, the camera became a way of asking her mother questions she had carried since childhood. Returning to Cairo from film school in Cuba, she would wait in the family kitchen, camera in hand, hoping to understand the woman whose devotion to cinema had so often left her feeling alone.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836/"
         },
         {
           "headline": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T09:14:34-05:00"
+  "updatedAt": "2026-11-21T09:40:44-05:00"
 }
