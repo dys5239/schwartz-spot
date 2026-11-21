@@ -42,6 +42,24 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Bayer reaches Roundup settlement that could cost the company billions",
+          "summary": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide. (Image credit: Justin Sullivan)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement"
+        },
+        {
+          "headline": "Trump orders fed contractors to notify White House of congressional inquiries",
+          "summary": "The president signed an executive order requiring federal contractors to inform the administration of congressional inquiries into their work with the executive branch.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717"
+        },
+        {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
           "headline": "Arsenal go six points clear after lively draw at Newcastle",
           "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
           "source": "BBC News",
@@ -52,24 +70,6 @@
           "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Mexican cartel leader on FBI's 10 most wanted fugitive list arrested",
-          "summary": "Fausto Isidro Meza Flores, known as \"Chapo Isidro,\" was captured in an operation in Sinaloa.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
-        },
-        {
-          "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
-          "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
-        },
-        {
-          "headline": "Taiwan warns Canada faces the China risks Carney has cautioned against",
-          "summary": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706"
         }
       ]
     },
@@ -78,6 +78,146 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124241532605620708",
+          "created_at": "2026-11-21T20:40:22.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "What's happening with sentiment?\n\nIt's hard to remember a time with as much negativity as we are seeing now.\n\nThe world is in its biggest technological revolution in history, yet so many people want it to fail. Why?\n\nAI has the potential to create a world of unprecedented",
+          "url": "https://x.com/KobeissiLetter/status/2124241532605620708",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124241280939209016",
+          "created_at": "2026-11-21T20:39:22.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Nebraska has finally done it! Beaten a top 25 team finally after going 0-31 before now. Also, Ohio State defense, Nebraska is going to run it with their quarterback. That was embarrassing. Two straight QB runs to ice it on third down.",
+          "url": "https://x.com/ClayTravis/status/2124241280939209016",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124241135665348760",
+          "created_at": "2026-11-21T20:38:47.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "EVERY Nebraska fan rn 😂 https://t.co/cnjnzaIm6n",
+          "url": "https://x.com/Outkick/status/2124241135665348760",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124240756588327250",
+          "created_at": "2026-11-21T20:37:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Initial reports of sirens going off once more in Bahrain.",
+          "url": "https://x.com/Osint613/status/2124240756588327250",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124238620097700162",
+          "created_at": "2026-11-21T20:28:48.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The No. 24 Gators outscore Vandy 17-3 in the 2nd half to outlast the Commodores, and improve to 7-4 on the season. https://t.co/MHXfpIeo0C",
+          "url": "https://x.com/SportNState/status/2124238620097700162",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124238249686159590",
+          "created_at": "2026-11-21T20:27:19.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "It’s like GTA https://t.co/H2H9tjTStt",
+          "url": "https://x.com/elonmusk/status/2124238249686159590",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124238164512714925",
+          "created_at": "2026-11-21T20:26:59.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. \n\nYou can tap any point on the reality revisualizer to make your car go there.  https://t.co/A5ZB2yFkd7",
+          "url": "https://x.com/elonmusk/status/2124238164512714925",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124237884249239696",
+          "created_at": "2026-11-21T20:25:52.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "All clear in Bahrain, per the Interior Ministry. https://t.co/QpI55qKbBp",
+          "url": "https://x.com/Osint613/status/2124237884249239696",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124237733417885959",
+          "created_at": "2026-11-21T20:25:16.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: @POTUS REPOSTS EL-SAYED'S TRUMPCARE GOLD CARD POST\n\nThis comes on the heels of President Trump stating he will work with Dems on healthcare.\n\nhttps://t.co/ln7Px74SYg",
+          "url": "https://x.com/RealAmVoice/status/2124237733417885959",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124237586604728768",
+          "created_at": "2026-11-21T20:24:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IRGC claims it targeted two US Patriot radars at Al-Rifa and Awali bases in Bahrain with missiles and drones.",
+          "url": "https://x.com/Osint613/status/2124237586604728768",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124237148778082404",
+          "created_at": "2026-11-21T20:22:57.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "It's been a tough week for Lane Kiffin. Now he enters a rocking Neyland Stadium.\n\n@StephOtey checks in from Rocky Top: https://t.co/Ibo2ZGweDP",
+          "url": "https://x.com/SportNState/status/2124237148778082404",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124237114430693670",
+          "created_at": "2026-11-21T20:22:49.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "AWFUL game-winning attempt from BYU  https://t.co/MysWZhkAhz",
+          "url": "https://x.com/Outkick/status/2124237114430693670",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124236432089006261",
+          "created_at": "2026-11-21T20:20:06.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Doctor: 'You do not fear death. You think this makes you strong. It makes you weak.'\n\nBruce: 'Why?'\n\nDoctor: 'How can you move faster then possible, fight longer then possible, without the most powerful impulse of the spirit? The fear of death.'\n\nBruce:'I do fear death. I fear",
+          "url": "https://x.com/_The_Prophet__/status/2124236432089006261",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124234814308106698",
+          "created_at": "2026-11-21T20:13:40.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Time for Ryan Day to pack it up https://t.co/HJi2g610F3",
+          "url": "https://x.com/Outkick/status/2124234814308106698",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124234576121962834",
           "created_at": "2026-11-21T20:12:43.000Z",
@@ -189,16 +329,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124229674389663952",
-          "created_at": "2026-11-21T19:53:15.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: Iran will break the U.S. blockade, its deputy foreign minister said, calling it an act of war.",
-          "url": "https://x.com/Osint613/status/2124229674389663952",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124229548820640017",
           "created_at": "2026-11-21T19:52:45.000Z",
           "author_name": "Clay Travis",
@@ -217,26 +347,6 @@
           "url": "https://x.com/RealAmVoice/status/2124226515164332215",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124226482885230643",
-          "created_at": "2026-11-21T19:40:34.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "U.S. personnel have been directed to scale back informal social contact with Canada and to obtain permission before joining certain events, such as think-tank panels, under a classified memo signed by Defense Secretary Pete Hegseth. Formal military activities, intelligence https://t.co/N4dp08shNi",
-          "url": "https://x.com/Osint613/status/2124226482885230643",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124225519332053405",
-          "created_at": "2026-11-21T19:36:44.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: U.S. gas averaged $3.66 a gallon on Nov. 21, down from about $4.50 in late September. \n\nCNN’s review of AAA data found prices fell 50.5 cents from Oct. 29 to Nov. 19, the largest drop over 3 weeks since 2008.",
-          "url": "https://x.com/Osint613/status/2124225519332053405",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124224722858598557",
@@ -339,42 +449,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124214131071041695",
-          "created_at": "2026-11-21T18:51:29.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Tennessee QB Faizon Brandon signs autographs for fans  before walking in to Neyland Stadium 🫡\n\nThe former five-star recruit is anticipated to be the starter for the Vols against LSU today: https://t.co/Qg5pN94fB8",
-          "url": "https://x.com/SportNState/status/2124214131071041695",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124213680422387741",
           "created_at": "2026-11-21T18:49:42.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Simple explanation of the usefulness of the Riemann proof (so far) is that it removes the conditional nature of other math theorems dependent upon it. \n\nAnd, of course, is yet another mind-blowing thing achieved by super intelligence …\n\nhttps://t.co/F1sAyxwaSF",
           "url": "https://x.com/elonmusk/status/2124213680422387741",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124213085284303298",
-          "created_at": "2026-11-21T18:47:20.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Something deeply unsettling is happening to mathematics.\n\nFor thousands of years, human intelligence determined which questions were worth asking, which relationships deserved investigation, and which discoveries entered civilization.\n\nThat monopoly is beginning to end. https://t.co/Tm94okngL2",
-          "url": "https://x.com/_The_Prophet__/status/2124213085284303298",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124212829876080963",
-          "created_at": "2026-11-21T18:46:19.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Here Come The Vols 🍊\n\nSport &amp; State's @Ellie_Mai_ on the scene for the Vol Walk: https://t.co/ubYaNggohG",
-          "url": "https://x.com/SportNState/status/2124212829876080963",
           "verified": true,
           "verified_type": "blue"
         },
@@ -409,16 +489,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124199976158781882",
-          "created_at": "2026-11-21T17:55:14.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "\"Dolly Hated Kiffin\" flying over Knoxville 💀 https://t.co/M7C0Dkll5t",
-          "url": "https://x.com/Outkick/status/2124199976158781882",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124194629210042380",
           "created_at": "2026-11-21T17:33:59.000Z",
           "author_name": "Clay Travis",
@@ -427,26 +497,6 @@
           "url": "https://x.com/ClayTravis/status/2124194629210042380",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124193627023040806",
-          "created_at": "2026-11-21T17:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "America's Top 10 for 11/21/26 - Segment 3 - Interview With @realBlagojevich \n\n@realwayneroot Breaks Down the Top 10 Stories of the Week https://t.co/qL6WH3sBjW",
-          "url": "https://x.com/RealAmVoice/status/2124193627023040806",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124192221708898476",
-          "created_at": "2026-11-21T17:24:25.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Assistant coach tried so hard to stop Ryan Day from getting this penalty 😭 https://t.co/XJTkjYKOgN",
-          "url": "https://x.com/Outkick/status/2124192221708898476",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124190855770656830",
@@ -539,42 +589,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124147576505245854",
-          "created_at": "2026-11-21T14:27:01.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "A Georgia fan snuck into Georgia Tech’s presser and trolled them 😭 https://t.co/gSTJ47DZKu",
-          "url": "https://x.com/Outkick/status/2124147576505245854",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124145557493195247",
-          "created_at": "2026-11-21T14:19:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Market sentiment has taken a complete 180 degree turn:\n\nThe Fear &amp; Greed Index fell to 9.7 points on Friday, below 10.0 for the first time since March 2026.\n\nThis marks its 4th lowest level since the 2022 bear market.\n\nA reading below 30.0 indicates \"Extreme Fear\" territory and https://t.co/hDEfcHuGgS",
-          "url": "https://x.com/KobeissiLetter/status/2124145557493195247",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124137029797924994",
           "created_at": "2026-11-21T13:45:07.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "NewEdge Wealth's Cameron Dawson says semis trading at 14 times earnings means the market is bracing for estimate cuts, and the lesson is to buy the first cut, not the anticipation\n\n\"You have the VIX spiking today to over 36, put call ratio spiking, showing that people really want https://t.co/F7GoIVhHne",
           "url": "https://x.com/_Investinq/status/2124137029797924994",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124135023875875274",
-          "created_at": "2026-11-21T13:37:08.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The college football picks have been on fire. I’ve got 16 winners for you today up @SportNState. Blood bank guarantee is over in Virginia Tech-Miami. The blood bank is 9-2 so far this year. Let’s keep the mojo going. Get rich, kids: https://t.co/LcNjzMXpaU",
-          "url": "https://x.com/ClayTravis/status/2124135023875875274",
           "verified": true,
           "verified_type": "blue"
         },
@@ -587,26 +607,6 @@
           "url": "https://x.com/SpaceX/status/2124122550339002718",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124071338394399028",
-          "created_at": "2026-11-21T09:24:05.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "XV is the beginning of the “super” part of Tesla SI https://t.co/f6SdrCs8Bs",
-          "url": "https://x.com/elonmusk/status/2124071338394399028",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124070328158900294",
-          "created_at": "2026-11-21T09:20:04.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Banger https://t.co/bfpOpEe3pg",
-          "url": "https://x.com/elonmusk/status/2124070328158900294",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124014140133941266",
@@ -689,6 +689,26 @@
           "verified_type": "blue"
         },
         {
+          "id": "2123787524468625791",
+          "created_at": "2026-11-20T14:36:18.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "“Grifting”…. by saying what I genuinely believe consistently https://t.co/DbKjR7cXZf",
+          "url": "https://x.com/MattWalshBlog/status/2123787524468625791",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123786642532217212",
+          "created_at": "2026-11-20T14:32:48.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "I hadn’t even read this whole thread in detail. He really caught me being totally correct and predicting the mid terms blowout in March. This thread is the most flattering and vindicating hit piece I’ve ever seen. https://t.co/NNuiaN0J0e",
+          "url": "https://x.com/MattWalshBlog/status/2123786642532217212",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2123777868593582354",
           "created_at": "2026-11-20T13:57:56.000Z",
           "author_name": "Glenn Beck",
@@ -735,26 +755,6 @@
           "author_handle": "MattWalshBlog",
           "text": "Are We Under Cyberattack? Everything You Need To Know About The Tech Outages | Ep. 1876\n\nhttps://t.co/pIHaU2mFwa",
           "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123212911640223945",
-          "created_at": "2026-11-19T00:33:00.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
-          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123205567728722236",
-          "created_at": "2026-11-19T00:03:49.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
-          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
           "verified": true,
           "verified_type": "blue"
         }
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Rain at Sea Island washes out 3rd round and leads to another Monday finish on the PGA Tour",
-          "summary": "Heavy rain at Sea Island on Saturday left the Seaside course unplayable",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/rain-sea-island-washes-3rd-round-leads-monday-138347809"
-        },
-        {
-          "headline": "David Raya injury news, latest update: \"Obviously it's not good\" says Arteta - How big of a problem is this?",
-          "summary": "Arsenal fans will be sweating on the latest David Raya injury news, with their star goalkeeper coming off against Newcastle on Saturday and it didn't look great. With Arsenal under pressure after coughing up a 1-0 half-time lead and trailing 2-1 early in the second half, this was the last thing Mikel Arteta needed.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/david-raya-injury-news-latest-190324332.html"
-        },
-        {
-          "headline": "Neal scores 14, UNC Greensboro knocks off South Carolina Upstate 85-66",
-          "summary": "Dionte Neal’s 14 points helped UNC Greensboro defeat South Carolina Upstate 85-66 on Saturday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/neal-scores-14-unc-greensboro-knocks-off-south-138347812"
-        },
-        {
-          "headline": "Steelers vs. Eagles Week 11, broadcast map: Here's what fans should know",
-          "summary": "The Pittsburgh Steelers will take on the Philadelphia Eagles in Week 11 with major playoff implications on the line. Pittsburgh is coming off a disappointing blowout loss to the Cincinnati Bengals and will look to bounce back against their intrastate rivals, hoping to earn their seventh win of the 2026 season.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/steelers-vs-eagles-week-11-200516002.html"
-        },
-        {
-          "headline": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-          "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+          "headline": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+          "summary": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Arsenal held by Newcastle rally and lose Raya to injury",
+          "summary": "Malick Thiaw put Newcastle in front against Arsenal (ANDY BUCHANAN) Arsenal missed the chance to open up an eight-point lead at the top of the Premier League after a stirring second-half fightback from Newcastle held the defending champions to a 2-2 draw on Saturday. The Gunners led through Eberechi Eze's strike after a dominant first 45 minutes.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/arsenal-held-newcastle-rally-lose-194052957.html"
+        },
+        {
+          "headline": "Titans lose Tyjae Spears to IR ahead of Cowboys matchup",
+          "summary": "Trevor Ruszkowski-Imagn Images. Titans lose Tyjae Spears to IR ahead of Cowboys matchup appeared first on ClutchPoints .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/titans-lose-tyjae-spears-ir-203229360.html"
+        },
+        {
+          "headline": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+          "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "UConn vs. Old Dominion live stream, where to watch online, CBS Sports Network channel finder, odds",
+          "summary": "CBS Sports Network will carry six games in Week 12, beginning Tuesday and concluding with a quadruple-header on Saturday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/college-football-schedule-week-12-cbs-sports-network-2026/"
         }
       ]
     },
@@ -873,16 +873,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is The End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed Out Headspace’ While Filming",
+          "summary": "Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is The End” while the two films were both shooting in New Orleans.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/"
+        },
+        {
           "headline": "Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: ‘The Stories That We Tell Matter’",
           "summary": "Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema, giving a heartfelt speech in which he thanked his many on-screen collaborators and insisted that “the stories that we tell matter.” The […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/"
-        },
-        {
-          "headline": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
-          "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback",
@@ -909,6 +909,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
+          "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038/"
+        },
+        {
           "headline": "How the ‘Elsinore’ Makeup Team Transformed Stars Andrew Scott and Olivia Colman to Bring the Story of Ian Charleson to Life",
           "summary": "In “Elsinore,” Andrew Scott plays real-life actor Ian Charleson, who performed his final role while dying of AIDS. Written by Stephen Beresford, “Elsinore” follows the deeply emotional and inspirational true story of Charleson as he confronts his mortality with courage, honesty and wit.",
           "source": "Variety",
@@ -919,12 +925,6 @@
           "summary": "In a world of increasingly short attention spans, social media slop and doomscrolling brainrot, it’s a wonder why many television shows got longer in the streaming era. Case in point, the 22-minute broadcast sitcom was largely replaced by the 30-minute dramedy and the 43-minute procedural has been overshadowed by the hour-long premium drama series.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/netflix-minimum-short-episode-sitcoms-1237229899/"
-        },
-        {
-          "headline": "Stephan James on Honoring Carl Weathers’ Legacy and Learning to Box for ‘I Play Rocky’",
-          "summary": "Stephan James has played a few real-life figures in his career, including Olympic gold medalist Jesse Owens (in 2016’s “Race”) and civil rights leader John Lewis (2014’s “Selma”), so he knows the drill. Diving deep into the archives for research.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/"
         },
         {
           "headline": "‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
@@ -945,16 +945,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Stephan James on Honoring Carl Weathers’ Legacy and Learning to Box for ‘I Play Rocky’",
+          "summary": "Stephan James has played a few real-life figures in his career, including Olympic gold medalist Jesse Owens (in 2016’s “Race”) and civil rights leader John Lewis (2014’s “Selma”), so he knows the drill. Diving deep into the archives for research.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/"
+        },
+        {
           "headline": "Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’",
           "summary": "Andrew Rannells recently revealed that Kevin Spacey asked him out while the “Girls” actor was starring in “The Book of Mormon” on Broadway. “I’ve never told this story before.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/"
-        },
-        {
-          "headline": "Actor Awards Predictions: Andrew Garfield, Inde Navarrette and ‘The Odyssey’ Lead an Unsettled Film Race as ‘Widow’s Bay’ and HBO Max Could Rule TV",
-          "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not…",
-          "source": "Variety",
-          "url": "https://variety.com/lists/2027-sag-actor-awards-predictions/"
         },
         {
           "headline": "Saturday Sessions: Mynd Reader plays \"Still Uncertain\"",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T15:14:03-05:00"
+  "updatedAt": "2026-11-21T15:41:37-05:00"
 }
