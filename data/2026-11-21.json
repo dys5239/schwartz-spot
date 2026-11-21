@@ -48,28 +48,28 @@
           "url": "https://www.cbsnews.com/video/112126-48-hours-post-mortem-episode-5/"
         },
         {
+          "headline": "Trump signs executive order on federal workers' responses to Congress",
+          "summary": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
+        },
+        {
+          "headline": "Storms expected on both coasts threatens Thanksgiving travel",
+          "summary": "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving. (Image credit: Joe Raedle)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino"
+        },
+        {
           "headline": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
           "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
         },
         {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
           "headline": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
           "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "British man swims through Strait of Hormuz to highlight environmental impact of war",
-          "summary": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -79,42 +79,112 @@
       "stories": [],
       "posts": [
         {
+          "id": "2124211052208386353",
+          "created_at": "2026-11-21T18:39:15.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "“That whore Laura Loomer” says the Muslim who was just hanging out with the Taliban and @sneako in Afghanistan. \n\nI’m glad jihadists who deserve the Anwar\nal-Awlaki treatment are so bothered by my reporting. \n\nThat’s the only good thing Barack Hussein Obama ever did. \n\nHe did in https://t.co/KH6KTjB4pQ",
+          "url": "https://x.com/LauraLoomer/status/2124211052208386353",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124210596522480056",
+          "created_at": "2026-11-21T18:37:26.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian President Masoud Pezeshkian:\n\nWe do not know how to make false promises, or say that our situation is very good.\n\nHonestly, our situation is not very good. That does not mean we will not be able to manage it. https://t.co/bnoBulagop",
+          "url": "https://x.com/Osint613/status/2124210596522480056",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124209226755215515",
+          "created_at": "2026-11-21T18:32:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Nebraska QB Anthony Colandrea trolls LeBron James after scoring a touchdown against Ohio State 😂👑 https://t.co/kDnWJkUyEh",
+          "url": "https://x.com/SportNState/status/2124209226755215515",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124208810344743091",
+          "created_at": "2026-11-21T18:30:20.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Hit the Bron \"silencer\" celly to go up 2 scores vs Ohio State https://t.co/Y9dz7r6X9p",
+          "url": "https://x.com/Outkick/status/2124208810344743091",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124208164736262193",
+          "created_at": "2026-11-21T18:27:47.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Vice President JD Vance on Iran:\n\n\"The goal of keeping Iran from getting a nuclear weapon is absolutely what we need to be doing. It's the biggest state sponsored terrorism. If they had a nuclear weapon, they would use it as leverage or God forbid they would attack and kill https://t.co/P2ULv3EJud",
+          "url": "https://x.com/Osint613/status/2124208164736262193",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124207511528153464",
+          "created_at": "2026-11-21T18:25:11.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Three outbound tankers were hit by unknown projectiles in the Strait of Hormuz area, north and east of Khasab, Oman, between 20 and 21 November, according to UKMTO. No casualties or major environmental damage were recorded.",
+          "url": "https://x.com/Osint613/status/2124207511528153464",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124206954088210781",
+          "created_at": "2026-11-21T18:22:58.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "A plane was spotted flying a banner over Neyland Stadium that read “Dolly Hated Kiffin\" 😂\n\nThings are already getting personal in Knoxville ahead of Tennessee vs. LSU: https://t.co/0z3w8gGfpZ",
+          "url": "https://x.com/SportNState/status/2124206954088210781",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124206795602215064",
+          "created_at": "2026-11-21T18:22:20.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Scheduled power cuts begin across Iran on Sunday for both households and businesses.\n\nOutages will run up to 2 hours every 2 days. As temperatures drop, they may become daily.\n\nMohammad Allahdad, CEO of Tavanir, announced the cuts. He pointed to fuel shortages and lower gas",
+          "url": "https://x.com/Osint613/status/2124206795602215064",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124206008218407029",
+          "created_at": "2026-11-21T18:19:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Leader of the Democrats in the U.S. House of Representatives, Hakeem Jeffries:\n\n“What I have made clear is that within the first 100 days, I think the most decisive step that we can take relative to the situation in the West Bank is to move the West Bank Settler Violence",
+          "url": "https://x.com/Osint613/status/2124206008218407029",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124205703380267035",
+          "created_at": "2026-11-21T18:18:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Wisconsin TE Jacob Harris' hurdle broke the NBC broadcast 😂 https://t.co/NhfEZ57uGi",
+          "url": "https://x.com/SportNState/status/2124205703380267035",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2124203833081659638",
           "created_at": "2026-11-21T18:10:34.000Z",
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Has Dabo lost the locker room? Clemson players sent a loud message to Swinney’s critics after upsetting Duke as nearly two-touchdown underdogs.\n\nPlus, Dabo had a few things to get off his chest.\n\n✍️: @mattyfoles \nhttps://t.co/2ARQpUmPhO",
           "url": "https://x.com/SportNState/status/2124203833081659638",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124203811375874058",
-          "created_at": "2026-11-21T18:10:29.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The IDF is preparing for the possibility that Iran holds unconventional weapons. Defense officials do not see the threat as imminent.\n\nChief of Staff Zamir, behind closed doors: \"We are constantly monitoring the development of serious threats in Iran and preparing accordingly,",
-          "url": "https://x.com/Osint613/status/2124203811375874058",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124203731113914621",
-          "created_at": "2026-11-21T18:10:09.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "BREAKING: Iranian attack on Bahrain right now",
-          "url": "https://x.com/Osint613/status/2124203731113914621",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124202245893886273",
-          "created_at": "2026-11-21T18:04:15.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "ISRAEL: Unity government talks are stalled. \n\nLiberman and Golan refuse to join if Netanyahu shares the premiership. Even with Bennett’s 7 seats, the coalition would need more backing, making new elections possible.",
-          "url": "https://x.com/Osint613/status/2124202245893886273",
           "verified": true,
           "verified_type": "blue"
         },
@@ -139,16 +209,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124200323740733819",
-          "created_at": "2026-11-21T17:56:37.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "There is no current threat to the Kaliningrad region, and the drone alert is expected to be lifted soon, according to the regional governor. He attributed the alert to a suspicious object detected heading in from the direction of Lithuania. https://t.co/gq6TBafvCx",
-          "url": "https://x.com/Osint613/status/2124200323740733819",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124199976158781882",
           "created_at": "2026-11-21T17:55:14.000Z",
           "author_name": "OutKick",
@@ -157,16 +217,6 @@
           "url": "https://x.com/Outkick/status/2124199976158781882",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124198513139753356",
-          "created_at": "2026-11-21T17:49:25.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Brazilian President Lula:\n\nOur victory was so important that my opponent ran away. He ran away.\n\nHe wasn't even being tried yet.\n\nWhat was he running from? It's in the family's DNA.\n\nAt the slightest problem, Miami. At the slightest problem, Miami. https://t.co/A8INQkDt2d",
-          "url": "https://x.com/Osint613/status/2124198513139753356",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124194629210042380",
@@ -245,16 +295,6 @@
           "author_handle": "SportNState",
           "text": "NEW: Army students pulled off the ultimate prank at Navy-Marine Corps Memorial Stadium, rearranging the seat backs to spell out “GO ARMY” 😂\n\n20 staff members have reportedly spent hours fixing the seats:\n\nvia: @Morgan_Uber  https://t.co/lAbCLEM1kd",
           "url": "https://x.com/SportNState/status/2124182432232640529",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124180674399637817",
-          "created_at": "2026-11-21T16:38:32.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Clay Travis Special is LIVE in the @HardRockBet app! 🍊\n\n@ClayTravis has Tennessee to win and the Under for Saturday's game.\n\nMake your first bet, and if it hits, you get your winnings. If it loses, you get a bonus bet back equal to your first wager, up to $1,500. https://t.co/xuR67hEKXP",
-          "url": "https://x.com/SportNState/status/2124180674399637817",
           "verified": true,
           "verified_type": "blue"
         },
@@ -349,16 +389,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124145039634829657",
-          "created_at": "2026-11-21T14:16:56.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Lane Kiffin returns to Knoxville with nothing to lose. Can he upend the Vols’ playoff path? \n\nPlus, college football might have an attendance problem; Curt Cignetti’s on a Boomer X rampage, games to watch, and our best bets. \n\nIt’s Saturday Quick Hits 👇\nhttps://t.co/H1iNIu110g",
-          "url": "https://x.com/SportNState/status/2124145039634829657",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124137029797924994",
           "created_at": "2026-11-21T13:45:07.000Z",
           "author_name": "StockMarket.News",
@@ -439,16 +469,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124107244665004243",
-          "created_at": "2026-11-21T11:46:45.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Disgusting. This is how Palestinians treat dogs. https://t.co/a5b4ciE1Vv",
-          "url": "https://x.com/LauraLoomer/status/2124107244665004243",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124071338394399028",
           "created_at": "2026-11-21T09:24:05.000Z",
           "author_name": "Elon Musk",
@@ -505,16 +525,6 @@
           "author_handle": "Timcast",
           "text": "lol https://t.co/hZ0dW0iM1n",
           "url": "https://x.com/Timcast/status/2124014140133941266",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124013546212040964",
-          "created_at": "2026-11-21T05:34:26.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "NEW: Clemson players held “Support Swinney” signs after knocking off Duke as double-digit underdogs 🐯\n\nSwinney has compiled a 194-57 record in 19 seasons at Clemson.\n\n(via: @caroline_soro) https://t.co/FcF3C4NKDs",
-          "url": "https://x.com/SportNState/status/2124013546212040964",
           "verified": true,
           "verified_type": "blue"
         },
@@ -599,16 +609,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123937165734449288",
-          "created_at": "2026-11-21T00:30:55.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "When you get thrown into a meeting at 3:30 on a Friday  https://t.co/Q5NIkZWmNd",
-          "url": "https://x.com/Outkick/status/2123937165734449288",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123925413038895307",
           "created_at": "2026-11-20T23:44:13.000Z",
           "author_name": "Glenn Beck",
@@ -655,16 +655,6 @@
           "author_handle": "glennbeck",
           "text": "Labeling Trump a traitor because he called Putin a friend right before a meeting is one of the most short-sighted takes I’ve seen. He knows Putin is an adversary. That’s just how he talks when the cameras are on, especially when he’s trying to negotiate the end of a war.\n\nThe https://t.co/33ASFSWKFP",
           "url": "https://x.com/glennbeck/status/2123850122530558290",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123843959340310871",
-          "created_at": "2026-11-20T18:20:33.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "If this is true...\n\nMy god\n\nWelcome to the singularity https://t.co/PkWPHalxFd",
-          "url": "https://x.com/Timcast/status/2123843959340310871",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,10 +745,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Families frustrated with Pentagon probe of deadly drone strike",
-          "summary": "The Pentagon is preparing to release findings of its investigation into the attack that killed six U.S. soldiers in Kuwait early in the Iran war.",
+          "headline": "Trump vows to work with Democrats to cap credit card interest rates",
+          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/pentagon-troops-killed-iran-port-shuaiba-kuwait-families/"
+          "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/"
+        },
+        {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
           "headline": "Oath Keepers founder and Jan. 6 leader Stewart Rhodes is 'absolutely done' with Trump",
@@ -771,12 +767,6 @@
           "summary": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/democrats-swept-senate-promised-change-leadership-vote-testing-138342385"
-        },
-        {
-          "headline": "11/21: CBS Saturday Morning",
-          "summary": "The stock market sees its lowest week of 2026. Plus, the magical migration of monarch butterflies.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/112126-cbs-saturday-morning/"
         },
         {
           "headline": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
@@ -827,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Scottish Premiership: Dundee & Hearts goalless after cagey opening",
-          "summary": "Listen to Sportsound, including commentary from Dens & Fir Park Dundee & Hearts make two changes each Motherwell v Rangers (20:00) Leaders Celtic score three in nine minutes to beat St Mirren Falkirk beat St Johnstone to match 60-year-old milestone Dundee Utd eight unbeaten after four-goal thrashing of Hibs Aberdeen's Frick starts with win in six-goal…",
+          "headline": "Weigman out, Keisean Henderson to make first career start vs. West Virginia",
+          "summary": "Keisean Henderson officially gets the start vs. West Virginia (Photo by Tim Warner/Getty Images) (Tim Warner/Getty Images) A major change is coming for the University of Houston football program as it prepares to take on West Virginia on Saturday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/scottish-premiership-dundee-host-hearts-172052895.html"
+          "url": "https://sports.yahoo.com/articles/weigman-keisean-henderson-first-career-183906299.html"
         },
         {
-          "headline": "Scotland thrash Japan 67-5 as McConnell and Graham hit rugby hat tricks",
-          "summary": "Try hat tricks by flanker Liam McConnell and winger Darcy Graham led Scotland's 67-5 defeat of Japan in Nations Championship rugby at Murrayfield on Saturday. Scotland scored 11 tries with a team of 11 changes after the attritional 15-12 win over Australia last weekend.",
+          "headline": "A.J. Ewing, Mets agree to eight-year, $95 million extension after standout rookie season, per reports",
+          "summary": "Ewing cracked the top 10 in the National League Rookie of the Year voting last season",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/a-j-ewing-new-york-mets-contract-extension/"
+        },
+        {
+          "headline": "Seahawks rise in Bleacher Report’s Week 11 power rankings",
+          "summary": "The Seattle Seahawks climbed to No. 10 overall in Bleacher Report’s Week 11 NFL power rankings, as dependable quarterback play and an improving rushing attack came together in their win over the Las Vegas Raiders .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/scotland-thrash-japan-67-5-180713189.html"
+          "url": "https://sports.yahoo.com/articles/seahawks-rise-bleacher-report-week-183635540.html"
         },
         {
-          "headline": "Fifpro criticises Bayern Munich for Musiala comments",
-          "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract.",
+          "headline": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+          "summary": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Leeds 'created piece of history' in Chelsea win - Farke",
-          "summary": "Leeds United manager Daniel Farke is delighted his side \"created a piece of history\" following their 4-1 win against Chelsea, their first at Stamford Bridge since 1999.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cmwy5ddwnygqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "'Wait Wait' for November 21, 2026: With Not My Job guest William Jackson Harper",
-          "summary": "This week, Wait Wait is live in Chicago with host Peter Sagal, special guest William Jackson Harper and panelists Tom Bodett, Luke Burbank, and Tig Notaro (Image credit: Jeremy Chan)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/g-s1-154763/wait-wait-for-november-21-2026-with-not-my-job-guest-william-jackson-harper"
+          "headline": "Tennessee vs. LSU prediction, odds, time: Week 12 college football picks from proven model",
+          "summary": "SportsLine's model revealed its best bets for LSU Tigers vs. Tennessee Volunteers as Lane Kiffin returns to Knoxville for the second time on Saturday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/tennessee-lsu-prediction-odds-time-week-12-college-football-picks-best-bets/"
         }
       ]
     },
@@ -863,16 +853,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Stephan James on Honoring Carl Weathers’ Legacy and Learning to Box for ‘I Play Rocky’",
+          "summary": "Stephan James has played a few real-life figures in his career, including Olympic gold medalist Jesse Owens (in 2016’s “Race”) and civil rights leader John Lewis (2014’s “Selma”), so he knows the drill. Diving deep into the archives for research.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/features/i-play-rocky-stephan-james-carl-weathers-boxing-training-1236954058/"
+        },
+        {
           "headline": "How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories",
           "summary": "For years, Simon Rich wanted to sound the alarm about AI. Rich’s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film “An American Pickle,” an early version of the software, and the two friends discussed its ramifications.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703/"
-        },
-        {
-          "headline": "Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Scores $56 Million on Friday, ‘I Play Rocky’ Follows With $3.8 Million",
-          "summary": "The odds were ever in the favor of “The Hunger Games: Sunrise on the Reaping,” the latest entry in the storied franchise, which ruled the box office on Friday. “Sunrise on the Reaping” generated $56 million from 4,018 North American theaters on Friday, taking the No.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-of-the-reaping-opening-day-1236954987/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback",
@@ -899,16 +889,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’",
+          "summary": "Andrew Rannells recently revealed that Kevin Spacey asked him out while the “Girls” actor was starring in “The Book of Mormon” on Broadway. “I’ve never told this story before.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/"
+        },
+        {
           "headline": "Actor Awards Predictions: Andrew Garfield, Inde Navarrette and ‘The Odyssey’ Lead an Unsettled Film Race as ‘Widow’s Bay’ and HBO Max Could Rule TV",
           "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not…",
           "source": "Variety",
           "url": "https://variety.com/lists/2027-sag-actor-awards-predictions/"
-        },
-        {
-          "headline": "Celluloid Sounds: Fewer Women Composers on Screen, But Some Hit the Right Notes",
-          "summary": "The stats for women composers in Hollywood have not improved. Just eight of this year’s top 100 grossing films feature original scores by women; the past two years have seen percentages between 7 and 9%, all down from 14% in 2023.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/artisans/news/fewer-women-composers-awards-season-1236953531/"
         },
         {
           "headline": "‘Percy Jackson’: How A Quest To Save Annabeth Makes Everyone Reevaluate Their Relationships In Season 3",
@@ -971,16 +961,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "BTS, ENHYPEN, BIGBANG & CORTIS Are Big Winners of 2026 MAMA Awards",
+          "summary": "BTS and ENHYPEN , as well as BIGBANG and CORTIS , were the big winners of the 2026 MAMA Awards , which were held Friday and Saturday (Nov. 20-21) at the Kyocera Dome Osaka, in Japan .",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-mama-awards-winners-list-1236387006/"
+        },
+        {
           "headline": "Ariana Grande Recalls ‘Wildest Place’ She’s Heard Her Music Playing: ‘Getting a Bikini Wax’",
           "summary": "Ariana Grande has a funny story about the time her song started playing mid-bikini wax. She recalled the slightly awkward encounter in a new video segment with Focker-in-Law co-star Beanie Feldstein ahead of the comedy’s Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/pop/ariana-grande-bikini-wax-song-story-focker-in-law-interview-1236387309/"
-        },
-        {
-          "headline": "ILLIT Talk Creating “ICON BY MISTAKE” With LE SSERAFIM and KATSEYE | MAMA Awards 2026",
-          "summary": "ILLIT caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/video/illit-on-creating-icon-by-mistake-with-le-sserafim-and-katseye-mama-awards-2026/"
         },
         {
           "headline": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
@@ -1003,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T13:17:52-05:00"
+  "updatedAt": "2026-11-21T13:41:55-05:00"
 }
