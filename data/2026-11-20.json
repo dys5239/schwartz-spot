@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
+          "summary": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Detonation of unstable explosives in Iowa paused indefinitely by court",
+          "summary": "The U.S. Army's plan to detonate five tons of unstable explosives containing lead azide at a munitions plant in Iowa has been put on indefinite hold by a federal court Friday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-azide-paused-indefinitely-court-order/"
+        },
+        {
+          "headline": "Teen becomes viral chef after stepping up when his mom had cancer",
+          "summary": "In August, Jennifer Charney, a stay-at-home mother of eight, lost her 10-year battle with breast cancer. Her youngest son, Joey, stepped up to become the family's chef.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/joey-charney-georgia-teen-chef-cancer/"
+        },
+        {
           "headline": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
           "summary": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Uncertainty looms over Thanksgiving travel rush with around 29 million expected to fly",
-          "summary": "Millions of passengers are expected to fly over Thanksgiving as the air travel industry recovers from the FAA's national ground stop. Storms may also bring complications.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/uncertainty-looms-over-thanksgiving-travel-rush-with-around-29-million-expected-to-fly/"
-        },
-        {
-          "headline": "Body found during search for missing 19-year-old Marine: Investigators",
-          "summary": "A body was found Friday as the authorities and families searched the California desert Friday for a 19-year-old Marine who went missing two weeks ago.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/19-year-marine-reported-missing-california-desert/story?id=138320350"
-        },
-        {
-          "headline": "6 reasons stocks are falling, and what you should do about it",
-          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
         },
         {
           "headline": "Man accused of starting blaze that became Palisades Fire found guilty of arson",
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123953043913765352",
+          "created_at": "2026-11-21T01:34:01.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "President Donald Trump put the Protect College Sports Act back at the forefront Friday, urging Congress to make passing it a priority. Soon after, lawmakers unveiled a revised version aimed at clearing some of the hurdles that have stalled it in the House.\n\n@ByGusWilson breaks",
+          "url": "https://x.com/SportNState/status/2123953043913765352",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123951025312678144",
+          "created_at": "2026-11-21T01:26:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The Clay Travis Special is live in the @HardRockBet app! I've got Tennessee to win and the Under for Saturday's game. Make your first bet, and if it hits, you get your winnings. If it loses, you get a bonus bet back equal to your first wager, up to $1,500. Pretty good deal. https://t.co/DYQJcVEwPg",
+          "url": "https://x.com/ClayTravis/status/2123951025312678144",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123948330611073350",
+          "created_at": "2026-11-21T01:15:17.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BEN BERGQUAM UPDATE: FIRST SURGERY DONE — MORE AHEAD\n\nThe first surgery is now complete, but at least one more is still ahead.\n\n\"God bless you, guys. Thank you for all the prayers; thank you for all the support. Really appreciate you...We've got a country to save.\"\n\n@BenBergquam",
+          "url": "https://x.com/RealAmVoice/status/2123948330611073350",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123946261623505313",
           "created_at": "2026-11-21T01:07:04.000Z",
@@ -145,16 +175,6 @@
           "author_handle": "RealAmVoice",
           "text": "backup stream 8pm et. https://t.co/Jxbe3mFnJb",
           "url": "https://x.com/RealAmVoice/status/2123944469460623773",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123942737066045903",
-          "created_at": "2026-11-21T00:53:04.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "T.J. HARKER ON CHAUVIN CASE: “HE IS ACTUALLY AFFIRMATIVELY INNOCENT”\n\n@TJ_Harker argues Derek Chauvin was wrongly convicted in George Floyd’s death and says the medical evidence did not support asphyxiation as the cause of death.\n\n“There never was, and the prosecution never https://t.co/UnmQYt6bRm",
-          "url": "https://x.com/RealAmVoice/status/2123942737066045903",
           "verified": true,
           "verified_type": "business"
         },
@@ -359,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123901817138696243",
-          "created_at": "2026-11-20T22:10:28.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Can we stop apologizing for telling the truth? A Ravens player's wife called Baltimore scary because of its crime and drug problems, and now she's apologizing for it. Marlon Humphrey was right, and so was she. Pointing out a city's problems shouldn't be controversial. https://t.co/5qVYRZFXvL",
-          "url": "https://x.com/ClayTravis/status/2123901817138696243",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123901224944820334",
           "created_at": "2026-11-20T22:08:06.000Z",
           "author_name": "StockMarket.News",
@@ -477,16 +487,6 @@
           "url": "https://x.com/Outkick/status/2123859560863592794",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2123859466600763829",
-          "created_at": "2026-11-20T19:22:10.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "🚨 KNOXVILLE! 🚨\n\n@Hutton_Withrow is LIVE at Cool Beans TONIGHT from 7–8 PM ET to preview Tennessee vs. LSU!  \n\nThe first 100 fans get a FREE @SixPackCoverage hoodie and more!  \n\nCome hang out, talk college football, and get ready for a huge SEC showdown! 🍊🏈 https://t.co/eZJFhMkkmW",
-          "url": "https://x.com/SportNState/status/2123859466600763829",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2123855631824347605",
@@ -705,16 +705,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump defends calling Putin his friend, talks outages in first presser after China summit",
+          "summary": "President Trump addressed Iran's nuclear program, the Ukraine war and more in his first press conference following his summit with Vladimir Putin and Xi Jinping on Friday. Ed O'Keefe reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/trump-defends-calling-putin-his-friend-talks-outages-in-first-presser-after-china-summit/"
+        },
+        {
           "headline": "Trump insists he's \"not rushing to make any decisions on Iran\"",
           "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
-          "headline": "Marine Corps hero under federal investigation",
-          "summary": "Retired Sgt. Maj.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/"
         },
         {
           "headline": "The latest from Trump's press conference",
@@ -741,22 +741,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "6 reasons stocks are falling, and what you should do about it",
+          "summary": "The S&P 500 is on track for a seventh consecutive day of losses, marking its longest losing streak since February 2020. Here's what's taking the shine off stocks.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/why-stocks-are-falling-ai-fears/"
+        },
+        {
           "headline": "Markets plunge deeper one day after Anthropic's record-breaking IPO",
           "summary": "The market fell deeper into the red on Friday, one day after Anthropic's record-breaking IPO, amid a tech selloff fueled by Nvidia's recent instability. Jo Ling Kent reports.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/markets-plunge-deeper-one-day-after-anthropics-record-breaking-ipo/"
-        },
-        {
-          "headline": "Trump signs Common Cents Act",
-          "summary": "The Common Cents Act established guidelines for businesses and consumers when conducting cash transactions.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-signs-common-cents-act-into-law/"
-        },
-        {
-          "headline": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-          "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
         },
         {
           "headline": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
@@ -765,10 +759,16 @@
           "url": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523"
         },
         {
-          "headline": "Trump's impact on an Ohio steel plant",
-          "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant"
+          "headline": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+          "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        },
+        {
+          "headline": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+          "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
         }
       ]
     },
@@ -777,28 +777,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "NCAA SOCCER: Division III tournament capsules",
-          "summary": "NCAA Division III Men’s Soccer Sweet 16 Bowdoin Polar Bears (10-3-5) at Scranton Royals (17-1-3) Where: Weiss Field, University of Scranton When: Saturday, 3:30 p.m. How they got here: Bowdoin received an at-large bid from the New England Small College Athletic Conference and defeated Thomas College, 3-1, and St.",
+          "headline": "Austin Reaves nearing return?",
+          "summary": "Dan Woike: JJ Redick says Austin Reaves will “hopefully” be back for the Lakers in one of the team’s next two games after tonight Twitter This article originally appeared on Hoops Hype: Austin Reaves nearing return?",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ncaa-soccer-division-iii-tournament-010400725.html"
+          "url": "https://sports.yahoo.com/articles/austin-reaves-nearing-return-013959085.html"
         },
         {
-          "headline": "COLLEGE FOOTBALL NOTEBOOK: Wyoming Area grads help lead Lehigh into ‘The Rivalry’",
-          "summary": "Joseph Marranca came up big last week, helping Lehigh University capture another Patriot League championship and clinch a Football Championship Subdivision playoff berth. Marranca, a Wyoming Area graduate, recovered a fumble in the end zone for the go-ahead touchdown in a 21-14 win over Richmond last Saturday.",
+          "headline": "David Adelman reiterated tonight in pregame his …",
+          "summary": "Ryan Blackburn: David Adelman reiterated tonight in pregame his emphasis on players having to shoot with confidence. \"When you're open, you've got to let it go.\" Tonight, it was about Trevon Brazile, who Adelman said can’t hesitate when he’s out there as a spacer when the dunker is occupied.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/college-football-notebook-wyoming-area-010400809.html"
+          "url": "https://sports.yahoo.com/articles/david-adelman-reiterated-tonight-pregame-013958016.html"
         },
         {
-          "headline": "Kentucky vs. Indiana prediction, pick, odds, spread: Wildcats face Hooisers in blue-blood clash",
-          "summary": "Indiana's revamped frontcourt and balanced scoring attack give the unbeaten Hoosiers a decisive edge against a Wildcats squad still searching for an identity",
+          "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
+          "summary": "Indy has put themselves in a very tough spot after sitting on the fence at the deadline.",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/kentucky-indiana-prediction-picks-odds-spread-where-to-watch-live/"
+          "url": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/"
         },
         {
-          "headline": "Luis Gil, Nolan Gorman, Trevor Larnach, more hit MLB free agency after non-tender deadline",
-          "summary": "Non-tender decisions can be difficult calls for organizations because of roster crunches and crowded depth charts",
+          "headline": "Fantasy Baseball Offseason Tracker: Royce Lewis provides depth for Dodgers' aging infield",
+          "summary": "Here's a rundown of the offseason moves that matter",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-non-tender-deadline-decisions/"
+          "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-royce-lewis-provides-depth-for-dodgers-aging-infield/"
         },
         {
           "headline": "Price beats Kotaskova to become undisputed champion",
@@ -891,16 +891,16 @@
           "url": "https://variety.com/2026/biz/news/rick-baker-alabama-tax-charity-sean-weissbart-strictly-1236954674/"
         },
         {
-          "headline": "Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year",
-          "summary": "A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq’s gains for the year. About $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia, Dell, […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137/"
-        },
-        {
           "headline": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
           "summary": "EXCLUSIVE: Lionsgate’s sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in previews, and the global running cume is around $76M.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
+        },
+        {
+          "headline": "Bassam Tariq On Exiting Marvel’s ‘Blade’: “Life’s Too Short To Make Sh** Films”",
+          "summary": "Bassam Tariq was once attached to direct Marvel’s Blade with Mahershala Ali, but eventually exited the project. In a new interview, the Your Mother Your Mother Your Mother director reveals why he decided not to helm the superhero movie.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728/"
         },
         {
           "headline": "‘He Walked So I Could Run’: ‘Project Hail Mary’ Breakout James Ortiz on Andy Serkis, Becoming Rocky and the Art of Puppetry",
@@ -953,5 +953,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T20:14:36-05:00"
+  "updatedAt": "2026-11-20T20:46:01-05:00"
 }
