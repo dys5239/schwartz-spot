@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "The Outages Are Just Getting Started",
+          "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+        },
+        {
           "headline": "Anthropic says it will put humanity first. Will its IPO change that?",
           "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested. (Image credit: Michael M.",
           "source": "NPR",
@@ -28,12 +34,6 @@
           "summary": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/"
-        },
-        {
-          "headline": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-          "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-          "summary": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+          "headline": "Scouts say they face £1m tourist tax cost for overnight trips",
+          "summary": "The increased cost from the proposed Visitors Levy could price some young people out of joining Scout camps and other trips, the group said.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Denmark says Russia behind plot to kill U.S.-Ukrainian citizen on its soil",
+          "summary": "Officials said police thwarted the attempt when they arrested three men with links to the Danish criminal underworld in a car before the rapper Kyivstoner was set to perform at a concert north of Copenhagen in late September.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/denmark-accuses-russia-assassination-plot-against-us-ukrainian-citizen/"
+        },
+        {
+          "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+          "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Kicker with knee cancer beats the odds to resume pro sports career",
+          "summary": "Doctors said his leg would need to be amputated. Here's how this athlete got back on the field after a rare diagnosis.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/henry-nell-knee-cancer-health-story/"
+        },
+        {
+          "headline": "Perspective: Defining 'human'",
+          "summary": "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?",
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas"
-        },
-        {
-          "headline": "Australia's Chaudhary downs England in tetchy first T20",
-          "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Why the Army says it needs to detonate unstable explosives in Iowa",
-          "summary": "A federal court indefinitely suspended the U.S. Army's plans to detonate 68 drums of lead azide in Iowa after communities raised concerns.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/"
-        },
-        {
-          "headline": "Catherine talks openly about how cancer changed her in documentary on BBC",
-          "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
-          "summary": "Delicious menu suggestions from top chefs, cookbook authors, food writers, restaurateurs, and the editors of Food & Wine Magazine! Check out these recipes for the holidays, or any time!",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/sunday-morning-2026-food-issue-recipe-index/"
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human"
         }
       ]
     },
@@ -811,16 +811,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-          "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+          "headline": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+          "summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html"
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html"
         },
         {
-          "headline": "S&P 500 correction: Five forces behind the market sell-off",
-          "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+          "headline": "State and federal battle over prediction markets regulation heats up after midterms",
+          "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+          "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html"
         },
         {
           "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
@@ -847,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "James Harden becomes 4th-oldest player to score 50: 'I can still do it'",
-          "summary": "The Cleveland Cavaliers' February trade for James Harden hasn't aged great, but he reminded general manager Koby Altman why he made the deal last night against the Indiana Pacers . Harden, 37, turned back the clock for a 51-point performance, becoming the fourth-oldest player in NBA history to score 50+.",
+          "headline": "Will 3 Big 12 teams make the CFP? Why is there so much love for Alabama? Golden and Bohls",
+          "summary": "Running Back J'Koby Williams #20 of the Texas Tech Red Raiders runs the ball during their game against the Oklahoma State Cowboys during the first half at Boone Pickens Stadium on Nov. 14, 2026 in Stillwater, Okla.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/james-harden-becomes-4th-oldest-123539233.html"
+          "url": "https://sports.yahoo.com/articles/3-big-12-teams-cfp-133000202.html"
         },
         {
-          "headline": "Oscar De La Hoya delivers scathing verdict on Canelo Alvarez",
-          "summary": "Canelo at 36 is still arguably the biggest draw in the sport. He recently returned to action for the first time since his defeat to Terence Crawford, where he comfortably beat Christian Mbilli to become the WBC super middleweight world champion.",
+          "headline": "Bayern draw with Cologne as Kane picks up ankle injury",
+          "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Pat Fitzgerald and Dan Lanning share words after MSU vs. Oregon game",
+          "summary": "On Senior Day, Michigan State football suffered its worst loss of the season , getting blown out 45-7 by Oregon at home in Spartan Stadium. After the game, MSU head coach Pat Fitzgerald pulled Oregon head coach Dan Lanning aside for what was an uncharacteristically long postgame chat between head coaches, leading to some speculation on what they might…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/oscar-la-hoya-delivers-scathing-123431822.html"
+          "url": "https://sports.yahoo.com/articles/pat-fitzgerald-dan-lanning-share-132938814.html"
         },
         {
-          "headline": "Route 66 is an American icon. That's why international tourists love it",
-          "summary": "International tour groups drive the length of Route 66 every year. NPR joined one from New Zealand and Australia as they visited for the road's 100th anniversary.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-5984988/route-66-100-years-international-tourism"
-        },
-        {
-          "headline": "BYU vs. Kansas prediction, odds, time: 2026 college football Week 12 picks from proven model",
-          "summary": "SportsLine's model revealed its best bets for Saturday's Big 12 contest between the BYU Cougars and the Kansas Jayhawks",
+          "headline": "Missouri vs. Kentucky prediction, odds, time: Week 12 college football picks from proven model",
+          "summary": "SportsLine's model revealed its best bets for Kentucky Wildcats vs. Missouri Tigers as they meet in a Week 12 SEC battle on Saturday",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/byu-kansas-prediction-odds-time-2026-week-12-college-football-picks-bets/"
+          "url": "https://www.cbssports.com/betting/news/missouri-kentucky-prediction-odds-time-2026-week-12-college-football-picks/"
         },
         {
-          "headline": "Wisconsin vs. Purdue prediction, odds, time: Week 12 college football picks from proven model",
-          "summary": "SportsLine's model revealed its best bets for Saturday's Big Ten contest between the Wisconsin Badgers vs. Purdue Boilermakers",
+          "headline": "Tom Brady says it's 'obvious' who the NFL's best quarterback is right now: 'Numbers don't lie'",
+          "summary": "There is one QB who's playing at a higher level than any other QB in the league right now, according to Brady",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/wisconsin-purdue-prediction-odds-time-2026-week-12-college-football-picks-bets/"
+          "url": "https://www.cbssports.com/nfl/news/tom-brady-says-its-obvious-who-nfls-best-quarterback-is-right-now/"
         }
       ]
     },
@@ -883,16 +883,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’",
+          "summary": "For Iraqi-Swiss filmmaker Ali Toffan Al-Fatlawi, the idea behind “The Blind Ferryman” began with a thought that struck him during Iraq’s civil war in 2006. Living in Switzerland and watching the violence unfold in his homeland, he thought of two of his aunts who were blind and found himself wishing that blindness might spare his […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929/"
+        },
+        {
           "headline": "Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in ‘Boltrim’ at India’s WAVES Film Bazaar",
           "summary": "Director Ashish Aryan is presenting “Boltrim,” a Hindi-English dark comedy about an obese monkey subjected to drug trials by a pharmaceutical giant developing a weight-loss injection, to the Co-Production Market at India’s WAVES Film Bazaar. The film traces the smuggled animal’s journey from Assam to a Delhi laboratory, exploring how far an operations…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925/"
-        },
-        {
-          "headline": "Oscar-Winning Doc ‘The Elephant Whisperers’ Co-Writer’s Dark Comedy ‘Nose Bone’ Follows a Punjabi Woman’s Race for an Abortion at WAVES Film Bazaar",
-          "summary": "Writer-director Garima Pura, a co-writer of the Oscar-winning documentary “The Elephant Whisperers,” is presenting “Nose Bone,” a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India’s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she’s expecting and runs from […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922/"
         },
         {
           "headline": "Bassam Tariq Says Marvel’s Scrapped ‘Blade’ Reboot Taught Him “Life’s Too Short to Make Sh** Films”",
@@ -919,6 +919,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Anthony Clark’s Official Cause Of Death Revealed",
+          "summary": "An official cause of death for Yes, Dear star Anthony Clark has been reported: The comedian, who passed November 10 at 63, died from septic shock, with influenza A and chronic alcoholism also included as underlying conditions. Acute kidney failure is added as a significant contributing factor.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/anthony-clark-cause-of-death-1237230888/"
+        },
+        {
+          "headline": "Oscar-Winning Doc ‘The Elephant Whisperers’ Co-Writer’s Dark Comedy ‘Nose Bone’ Follows a Punjabi Woman’s Race for an Abortion at WAVES Film Bazaar",
+          "summary": "Writer-director Garima Pura, a co-writer of the Oscar-winning documentary “The Elephant Whisperers,” is presenting “Nose Bone,” a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India’s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she’s expecting and runs from […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922/"
+        },
+        {
           "headline": "Kate Middleton Documentary ‘Heal’ Set At BBC & NBC; Special About Princess’ Three Peaks Challenge & Cancer Journey Gets Release Date & Trailer",
           "summary": "Kate Middleton is starring in her first documentary, and it’s a personal one. Heal, which will premiere on the BBC in the UK on November 29 and NBC in the U.S.",
           "source": "Deadline",
@@ -929,18 +941,6 @@
           "summary": "“Heal,” a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will debut in the U.K. on Nov.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745/"
-        },
-        {
-          "headline": "‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and ‘Uncle Joe,’ Youssef Chahine: ‘Filmmaking Is Really About Healing’",
-          "summary": "For Egyptian filmmaker Sara Shazli, the camera became a way of asking her mother questions she had carried since childhood. Returning to Cairo from film school in Cuba, she would wait in the family kitchen, camera in hand, hoping to understand the woman whose devotion to cinema had so often left her feeling alone.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836/"
-        },
-        {
-          "headline": "‘Real Time’: Bill Maher Jokes ‘GTA VI’ Has Caused “More Workplace Absences Than ICE,” Notes He’s Glad James Bond Cast “Very Heterosexual Male”",
-          "summary": "After Grand Theft Auto VI and James Bond took over social media this week, Bill Maher has added his two cents to the discourse before going on hiatus. On Friday’s Season 24 finale of Real Time, the comedian expressed his fascination with the “giant cultural phenomenon” following GTA VI‘s multi-billion dollar opening.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -955,16 +955,22 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and ‘Uncle Joe,’ Youssef Chahine: ‘Filmmaking Is Really About Healing’",
+          "summary": "For Egyptian filmmaker Sara Shazli, the camera became a way of asking her mother questions she had carried since childhood. Returning to Cairo from film school in Cuba, she would wait in the family kitchen, camera in hand, hoping to understand the woman whose devotion to cinema had so often left her feeling alone.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836/"
+        },
+        {
           "headline": "‘The Tree’ Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her ‘Italian Shoes’ Adaptation, Readies India-Set Feature",
           "summary": "French filmmaker Julie Bertuccelli, whose “The Tree” closed the Cannes Film Festival in 2010, said her planned adaptation of Henning Mankell’s novel “Italian Shoes” fell apart after a Canadian producer “stole the film” from her, and that she plans to shoot her next feature in India. Bertuccelli was speaking at “From Witness to Change: The […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904/"
         },
         {
-          "headline": "Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the ‘Global South’",
-          "summary": "Qatar’s Film Committee and Watermelon Pictures have announced a strategic partnership to develop and co-produce a slate of films “championing visionary filmmakers and compelling stories from the Global South and beyond with an emphasis on culturally authentic storytelling and broad international appeal,” they said in a statement. The Global South is a…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/qatar-watermelon-pictures-partnership-1236954880/"
+          "headline": "\"Sunday Morning\" 2026 \"Food Issue\" recipe index",
+          "summary": "Delicious menu suggestions from top chefs, cookbook authors, food writers, restaurateurs, and the editors of Food & Wine Magazine! Check out these recipes for the holidays, or any time!",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/sunday-morning-2026-food-issue-recipe-index/"
         },
         {
           "headline": "Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare",
@@ -977,12 +983,6 @@
           "summary": "The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
-        },
-        {
-          "headline": "Book excerpt: \"We Thought They'd Never Leave\" by Tony Shalhoub with Josie Adams",
-          "summary": "The Emmy- and Tony Award-winning actor and his daughter collaborate on a book featuring reflections on food and extended family, including their yearly ritual of a week-long summer reunion.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/book-excerpt-we-thought-theyd-never-leave-by-tony-shalhoub-with-josie-adams/"
         }
       ]
     },
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T07:45:22-05:00"
+  "updatedAt": "2026-11-21T08:40:15-05:00"
 }
