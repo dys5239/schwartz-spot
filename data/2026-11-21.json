@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Match of the Day",
+          "summary": "Highlights from seven Premier League games, including leaders Arsenal at Newcastle.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
+          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+        },
+        {
+          "headline": "Violence breaks out in Mexico after capture of drug kingpin wanted by FBI",
+          "summary": "Fausto Isidro Meza-Flores is allegedly the leader of a cartel responsible for drug distribution and importation.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/mexico-drug-kingpin-arrest-fausto-isidro-meza-flores-sinaloa/"
+        },
+        {
+          "headline": "Can win over All Blacks finally break England's boom-bust cycle?",
+          "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Lock of George Washington's hair sells at auction for $4,000",
           "summary": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/"
-        },
-        {
-          "headline": "Cartel leader on FBI's most wanted list arrested",
-          "summary": "Fausto Isidro Meza Flores, known as \"Chapo Isidro,\" was captured in an operation in Sinaloa.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/mexican-cartel-leader-fbis-10-wanted-fugitive-list/story?id=138346100"
-        },
-        {
-          "headline": "Princess Kate reflects on healing in new documentary: \"Cancer does change you\"",
-          "summary": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/"
-        },
-        {
-          "headline": "Spitting Image co-creator Peter Fluck dies aged 85",
-          "summary": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Raya set to have scan on injury - how much would Arsenal miss him?",
-          "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124271899932795127",
+          "created_at": "2026-11-21T22:41:02.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "NEYLAND IS LOUD AFTER THE TD ‼️ https://t.co/BTKm4FVINp",
+          "url": "https://x.com/Outkick/status/2124271899932795127",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124271723424133286",
+          "created_at": "2026-11-21T22:40:20.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "GMac and Brame Connected This Time 😉\n\nTennessee leads 10-6 at halftime: https://t.co/jHKvCKPneQ",
+          "url": "https://x.com/SportNState/status/2124271723424133286",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124271707439661114",
+          "created_at": "2026-11-21T22:40:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Carta CEO Henry Ward says VCs will \"100%\" have to write down their AI startup bets, with 49 of every 50 lookalikes getting marked down\n\n\"Every startup is priced as though they're going to be the dominant winner\"\n\n\"You might have 50 startups doing the same thing. You've written https://t.co/HydvNzivqG",
+          "url": "https://x.com/_Investinq/status/2124271707439661114",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124270949281518028",
+          "created_at": "2026-11-21T22:37:16.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Is this targeting?  https://t.co/4Aj33LZzQ4",
+          "url": "https://x.com/Outkick/status/2124270949281518028",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124270808386470316",
+          "created_at": "2026-11-21T22:36:42.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Neyland Stadium is worth ten points today. LSU has no idea when the snap is happening. The Tennessee defense has given up one touchdown in the past ten quarters. Truly elite. Second half will be even more electric with night coming. Buckle up.",
+          "url": "https://x.com/ClayTravis/status/2124270808386470316",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124270426402836626",
+          "created_at": "2026-11-21T22:35:11.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://t.co/ieASMRunOy",
+          "url": "https://x.com/elonmusk/status/2124270426402836626",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124266604011655287",
+          "created_at": "2026-11-21T22:20:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "George MacIntyre and DaSaahn Brame were THIS close from connecting on 4th down 😬 https://t.co/lHKdtQeViG",
+          "url": "https://x.com/SportNState/status/2124266604011655287",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124265963382268184",
+          "created_at": "2026-11-21T22:17:27.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Of course he is… \n\nThe Woke Reich is all working together to destroy America. https://t.co/vKDlBwuSR0",
+          "url": "https://x.com/LauraLoomer/status/2124265963382268184",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124265505217487302",
+          "created_at": "2026-11-21T22:15:38.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "What? \n\nAbdul El-Sayed is a Muslim Brotherhood operative. He signed a literal pledge in support of the Muslim Brotherhood, a designated Islamic terrorist organization.\n\nHe has also said he wants to impeach President Trump. Why would anyone from the WH want a meeting with Abdul https://t.co/H4o4XXCvnw",
+          "url": "https://x.com/LauraLoomer/status/2124265505217487302",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124264306154057992",
           "created_at": "2026-11-21T22:10:52.000Z",
@@ -359,16 +449,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124245024674398240",
-          "created_at": "2026-11-21T20:54:15.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "No. 10 BYU SURVIVES Kansas in 3OT 🤯 https://t.co/1owLbNlXtR",
-          "url": "https://x.com/SportNState/status/2124245024674398240",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124244974967590998",
           "created_at": "2026-11-21T20:54:03.000Z",
           "author_name": "OutKick",
@@ -385,16 +465,6 @@
           "author_handle": "Osint613",
           "text": "Bahrain’s Defense Force: \n\nSome shrapnel fell as a result of intercepting Iranian attacks. https://t.co/hhnRUFZny2",
           "url": "https://x.com/Osint613/status/2124244636231430180",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124244458879221800",
-          "created_at": "2026-11-21T20:52:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "No. 10 BYU STAYS ALIVE in the CFP race, and avoids a massive upset in 3 OTs https://t.co/GXl4jGKXSx",
-          "url": "https://x.com/SportNState/status/2124244458879221800",
           "verified": true,
           "verified_type": "blue"
         },
@@ -429,26 +499,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124241280939209016",
-          "created_at": "2026-11-21T20:39:22.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Nebraska has finally done it! Beaten a top 25 team finally after going 0-31 before now. Also, Ohio State defense, Nebraska is going to run it with their quarterback. That was embarrassing. Two straight QB runs to ice it on third down.",
-          "url": "https://x.com/ClayTravis/status/2124241280939209016",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124241135665348760",
-          "created_at": "2026-11-21T20:38:47.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "EVERY Nebraska fan rn 😂 https://t.co/cnjnzaIm6n",
-          "url": "https://x.com/Outkick/status/2124241135665348760",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124238249686159590",
           "created_at": "2026-11-21T20:27:19.000Z",
           "author_name": "Elon Musk",
@@ -479,16 +529,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124234814308106698",
-          "created_at": "2026-11-21T20:13:40.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Time for Ryan Day to pack it up https://t.co/HJi2g610F3",
-          "url": "https://x.com/Outkick/status/2124234814308106698",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124234075661857211",
           "created_at": "2026-11-21T20:10:44.000Z",
           "author_name": "Laura Loomer",
@@ -509,16 +549,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124231512010690850",
-          "created_at": "2026-11-21T20:00:33.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "You and @sneako are in for a rude awakening when you step foot in the US. \n\nI’m going to make it my personal project to get “The Orthodox Muslim” banned from the US and by the time I am done, Sneako will probably be on the no fly list. \n\nThe “Orthodox Muslim’s” real name is Abdul https://t.co/KH6KTjB4pQ",
-          "url": "https://x.com/LauraLoomer/status/2124231512010690850",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124230408107917478",
           "created_at": "2026-11-21T19:56:10.000Z",
           "author_name": "SightBringer",
@@ -529,32 +559,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124224722858598557",
-          "created_at": "2026-11-21T19:33:34.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Hey @ssharmaUS are you a homosexual?",
-          "url": "https://x.com/LauraLoomer/status/2124224722858598557",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124219646459220296",
           "created_at": "2026-11-21T19:13:24.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Shortest explanation is just: 🤯 https://t.co/E1RGMMtLLD",
           "url": "https://x.com/elonmusk/status/2124219646459220296",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124219378489311656",
-          "created_at": "2026-11-21T19:12:20.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Grok understands https://t.co/Z6CN9wjwAL",
-          "url": "https://x.com/elonmusk/status/2124219378489311656",
           "verified": true,
           "verified_type": "blue"
         },
@@ -659,16 +669,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123983520112812351",
-          "created_at": "2026-11-21T03:35:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "BTIG's Jonathan Krinsky says it would be historically unprecedented for the S&amp;P 500 to make a final bottom with Apple only 3% off its high\n\n\"When the S&amp;P has been down at least 8% or more, when it's made its final bottom, the median drawdown for Apple has been 23%. And we're down https://t.co/RkF87p5dLe",
-          "url": "https://x.com/_Investinq/status/2123983520112812351",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123944496018731120",
           "created_at": "2026-11-21T01:00:03.000Z",
           "author_name": "Tim Pool",
@@ -757,10 +757,10 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
-          "summary": "President Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications that the White House considers privileged",
+          "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates",
           "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-orders-federal-contractors-check-white-house-responding-138346258"
+          "url": "https://abcnews.com/Politics/wireStory/trump-vows-work-democrats-cap-credit-card-interest-138346798"
         },
         {
           "headline": "Trump signs executive order on federal workers' responses to Congress",
@@ -817,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Real Madrid fight back to beat Celta Vigo and close the gap on Barça",
-          "summary": "Just in time! Real Madrid hosted Celta Vigo at the Santiago Bernabéu on Saturday evening for matchday 13 of La Liga.",
+          "headline": "Report: Ravens made trade offer for Colts' Daniel Jones before deadline",
+          "summary": "The Indianapolis Colts reportedly had the opportunity to trade Daniel Jones prior to the trade deadline. According to The Ringer's Tom Pelissero , the Ravens offered the Colts a mid-round pick swap.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/real-madrid-fight-back-beat-220900818.html"
+          "url": "https://sports.yahoo.com/articles/report-ravens-made-trade-offer-224144980.html"
         },
         {
-          "headline": "Titans defensive end Jaylen Harrell hospitalized after car crash",
-          "summary": "Tennessee Titans defensive end Jaylen Harrell remains hospitalized after being involved in a serious car accident Friday in his hometown of Tampa, Florida, the team announced Nov. 21.",
+          "headline": "South Carolina State defeats Delaware State 26-16 to claim outright MEAC championship",
+          "summary": "ORANGEBURG, S.C. (AP) — Keely Watson threw for 211 yards and South Carolina State wrapped up another Mid-Eastern Athletic Conference championship with a 26-16 victory over Delaware State on Saturday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/titans-defensive-end-jaylen-harrell-220446279.html"
+          "url": "https://sports.yahoo.com/articles/south-carolina-state-defeats-delaware-224017346.html"
         },
         {
-          "headline": "Joel Embiid, LeBron James lead Eastern Conference-leading 76ers past the Bucks 132-129",
-          "summary": "Joel Embiid had 26 points and 17 rebounds, LeBron James scored 13 of his 21 points in the fourth quarter and the Eastern Conference-leading Philadelphia 76ers held on for a 132-129 victory over Tyler Herro and the last-place Milwaukee Bucks",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/joel-embiid-lebron-james-lead-eastern-conference-leading-138349205"
-        },
-        {
-          "headline": "Navy scores with 15 seconds left, knocks off No. 24 Memphis 38-34 to shake up American Conf. race",
-          "summary": "Vic Listorti ran for a 6-yard touchdown on fourth down with 15 seconds remaining, and Navy shook up the American Conference title race with a 38-34 win over No. 24 Memphis",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/navy-scores-15-seconds-left-knocks-off-24-138349206"
-        },
-        {
-          "headline": "Rising star Stirling knocks out Prochazka",
-          "summary": "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar.",
+          "headline": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
+          "summary": "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Kim holds one-shot lead at LPGA finale as Korda closes in",
+          "summary": "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Two big plays give South Dakota 10-3 win over Illinois State to end regular season",
+          "summary": "Austyn Modrzewski connected with Tennel Bryant for a 70-yard touchdown and Courtney Rivers broke off a 78-yard run for the clinching play as South Dakota edged Illinois State 10-3 on Saturday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/big-plays-give-south-dakota-10-3-win-138349678"
         }
       ]
     },
@@ -866,7 +866,7 @@
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback",
-          "summary": "Lionsgate's latest title notched the fourth-best opening Friday in the six-movie dystopian series, representing a major revival after 2023's 'The Ballad of Songbirds & Snakes.'",
+          "summary": "Lionsgate's latest title notched the third-best opening Friday in the six-movie dystopian series, representing a major revival after 2023's 'The Ballad of Songbirds & Snakes.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T17:16:17-05:00"
+  "updatedAt": "2026-11-21T17:48:41-05:00"
 }
