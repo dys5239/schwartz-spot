@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+          "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Jonathan Rinderknecht found guilty in Palisades Fire case",
+          "summary": "A Los Angeles County jury has found Jonathan Rinderknecht guilty of starting a blaze that erupted into the deadly and destructive Palisades Fire in 2025.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
+        },
+        {
+          "headline": "South Florida severe weather and flooding live updates",
+          "summary": "Historic flooding across South Florida has left neighborhoods underwater, roads impassable and Broward schools closed as residents begin cleanup efforts and officials assess the damage.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/south-florida-flooding-live-updates-heavy-rain-broward-miami-dade/"
+        },
+        {
           "headline": "Villagers to vote on 'leaving UK' over plans to house migrants at RAF base",
           "summary": "Barnham is proposing breaking away from the UK in protest of plans to house migrants at RAF Barnham.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cqn70v1p6ymlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Detonation of unstable explosives in Iowa paused indefinitely by court",
-          "summary": "The U.S. Army's plan to detonate five tons of unstable explosives containing lead azide at a munitions plant in Iowa has been put on indefinite hold by a federal court Friday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-azide-paused-indefinitely-court-order/"
-        },
-        {
-          "headline": "Teen becomes viral chef after stepping up when his mom had cancer",
-          "summary": "In August, Jennifer Charney, a stay-at-home mother of eight, lost her 10-year battle with breast cancer. Her youngest son, Joey, stepped up to become the family's chef.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/joey-charney-georgia-teen-chef-cancer/"
-        },
-        {
-          "headline": "The Papers: 'Closest ties since Brexit' and 'Grand Theft EU'",
-          "summary": "Saturday's front pages focus on a new deal agreed between the UK and EU in Brussels.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw7829pl3xklo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Man accused of starting blaze that became Palisades Fire found guilty of arson",
-          "summary": "The defendant was found guilty of two arson counts during a retrial.",
+          "headline": "Body found during search for missing 19-year-old Marine: Investigators",
+          "summary": "A body was found Friday as the authorities and families searched the California desert Friday for a 19-year-old Marine who went missing two weeks ago.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631"
+          "url": "https://abcnews.com/US/19-year-marine-reported-missing-california-desert/story?id=138320350"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2123959117500776531",
+          "created_at": "2026-11-21T01:58:09.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP TO RAV’S DAVID ZERE: “I LIKE THIS GUY”\n\nICYMI: The panel says @davezere delivered a standout moment for RAV by framing his question around the geopolitical moves President Trump made before sitting down with Xi Jinping.\n\n“You boxed out China from Greenland. Boxed them out https://t.co/eG9AL5HPna",
+          "url": "https://x.com/RealAmVoice/status/2123959117500776531",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123957723096052136",
+          "created_at": "2026-11-21T01:52:37.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Too bad our DHS Secretary is in the Middle East right now instead of here in the US dealing with the threat of Islam. \n\nNow we have to worry about more 9/11 style hijackings because Markwayne Muslim @SecMullinDHS doesn’t deport enough jihadists.\n\nSomething very bad is going to https://t.co/ify7Rs9SnB",
+          "url": "https://x.com/LauraLoomer/status/2123957723096052136",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123956481540202786",
+          "created_at": "2026-11-21T01:47:41.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Investor positioning in copper is cratering:\n\nSpeculative investors sold -$1.3 billion in Comex copper futures in the week ending November 10th, marking the 7th consecutive weekly sale.\n\nThis group includes hedge funds, commodity trading advisers (CTAs), and other institutional https://t.co/0hwPxrGxNQ",
+          "url": "https://x.com/KobeissiLetter/status/2123956481540202786",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2123955931482366335",
+          "created_at": "2026-11-21T01:45:29.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ESPN BLEEDS 7 MILLION SUBSCRIBERS IN JUST ONE YEAR\n\n@slickricksports reports ESPN’s paid TV subscriber base plunged from 61 million to 54 million in a single year, according to Disney’s annual SEC report.\n\nThat’s nearly half of ESPN’s peak reach of 100 million homes in 2011, as https://t.co/BROF5cYDyb",
+          "url": "https://x.com/RealAmVoice/status/2123955931482366335",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2123953043913765352",
           "created_at": "2026-11-21T01:34:01.000Z",
@@ -149,16 +189,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2123944532572315724",
-          "created_at": "2026-11-21T01:00:12.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP REJECTS IRAN DEAL, SLAMS POLITICAL FED | LIVE FROM STUDIO 6B https://t.co/JmIAIAL18I",
-          "url": "https://x.com/RealAmVoice/status/2123944532572315724",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2123944496018731120",
           "created_at": "2026-11-21T01:00:03.000Z",
           "author_name": "Tim Pool",
@@ -167,16 +197,6 @@
           "url": "https://x.com/Timcast/status/2123944496018731120",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123944469460623773",
-          "created_at": "2026-11-21T00:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "backup stream 8pm et. https://t.co/Jxbe3mFnJb",
-          "url": "https://x.com/RealAmVoice/status/2123944469460623773",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2123938396058050953",
@@ -265,16 +285,6 @@
           "author_handle": "ClayTravis",
           "text": "MLB needs a salary cap and a salary floor. I'm a capitalist, but baseball is already a closed league with only 30 teams. The NFL and NBA have figured out how to create competitive balance while paying players more money. Baseball needs to follow their lead. It's better for all. https://t.co/3ZvmpUrZ4s",
           "url": "https://x.com/ClayTravis/status/2123928627758748049",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123926190322745625",
-          "created_at": "2026-11-20T23:47:19.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Are there actually any positive things to say about Muslims? \n\nCan you list a few? \n\nTry https://t.co/OCH0PaMTfB",
-          "url": "https://x.com/LauraLoomer/status/2123926190322745625",
           "verified": true,
           "verified_type": "blue"
         },
@@ -405,16 +415,6 @@
           "author_handle": "Outkick",
           "text": "John Harbaugh can’t believe the Colts cut Daniel Jones 😬 https://t.co/oiQtHn2ncp",
           "url": "https://x.com/Outkick/status/2123897210228392204",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2123895235063263728",
-          "created_at": "2026-11-20T21:44:18.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Nvidia Is Now Facing:\n\n1. SEC investigation into potential \"accounting irregularities\"\n\n2. FBI investigation into \"Chinese intelligence operations\" involving Jensen Huang\n\n3. Allegations of Jensen Huang having an affair with a Chinese spy\n\n4. California investigation into https://t.co/ldwtJLHGhN",
-          "url": "https://x.com/KobeissiLetter/status/2123895235063263728",
           "verified": true,
           "verified_type": "business"
         },
@@ -777,16 +777,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Austin Reaves nearing return?",
-          "summary": "Dan Woike: JJ Redick says Austin Reaves will “hopefully” be back for the Lakers in one of the team’s next two games after tonight Twitter This article originally appeared on Hoops Hype: Austin Reaves nearing return?",
+          "headline": "DeWayne Brown had 20 points, 11 rebounds to lead No. 14 Tennessee over Coastal Carolina 78-51",
+          "summary": "KNOXVILLE, Tenn. (AP) — DeWayne Brown II had 20 points and 11 rebounds to lead No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/austin-reaves-nearing-return-013959085.html"
+          "url": "https://sports.yahoo.com/articles/dewayne-brown-had-20-points-020231448.html"
         },
         {
-          "headline": "David Adelman reiterated tonight in pregame his …",
-          "summary": "Ryan Blackburn: David Adelman reiterated tonight in pregame his emphasis on players having to shoot with confidence. \"When you're open, you've got to let it go.\" Tonight, it was about Trevon Brazile, who Adelman said can’t hesitate when he’s out there as a spacer when the dunker is occupied.",
+          "headline": "'They never quit': Wimberley shocked by Sunnyvale in third straight state volleyball final",
+          "summary": "Sunnyvale's Jade Brown (13), right, was quick to congratulate teammate Brooklyn Bomkamp (6) after she scored during the final set of their straight sets victory over Wimberley to capture the state championship. The Class 4A Division ll UIL state championship volleyball match between the two teams was held at the Curtis Culwell Center in Garland on…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/david-adelman-reiterated-tonight-pregame-013958016.html"
+          "url": "https://sports.yahoo.com/articles/never-quit-wimberley-shocked-sunnyvale-020110018.html"
         },
         {
           "headline": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
@@ -849,6 +849,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison",
+          "summary": "UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan Rinderknecht, 30, was found guilty Friday of destruction of property by means of fire and arson affecting property used in interstate […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/"
+        },
+        {
+          "headline": "‘Yellowjackets’ Stars Melanie Lynskey & Christina Ricci On Misty’s Plot “To Save Themselves” From Shauna: “She’ll Be The Downfall Of Everybody”",
+          "summary": "SPOILERS: This post contains details about the Yellowjackets Season 4 premiere episode “Hivemind” As the final season of Yellowjackets debuts, it appears the team could be prepping one last sacrifice to the wilderness. While discussing Friday’s Season 4 premiere episode “Hivemind” with Deadline, Christina Ricci explained that the episode picks up shortly…",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/yellowjackets-melanie-lynskey-christina-ricci-misty-plot-1237230788/"
+        },
+        {
           "headline": "Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere",
           "summary": "Amazon Prime Video’s “Melania: The Series” offers a peek into the often-reclusive first lady’s personal life and role inside the White House, including her efforts to provide children in foster care with educational and career opportunities. But as the first lady seeks a more public-facing role in international peacemaking efforts, most recently taking…",
           "source": "Variety",
@@ -859,18 +871,6 @@
           "summary": "E.J. Carroll, who appeared in projects including “The Deuce,” “Law & Order” and “Grand Theft Auto V,” died on Thursday.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/e-j-carroll-dead-the-deuce-1236954725/"
-        },
-        {
-          "headline": "‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”",
-          "summary": "Aaron Pierre starred as John Stewart in the HBO & DC Studios series Lanterns and was set to play him across the DC Universe. However, with Peter Safran and James Gunn no longer co-heads of DC Studios, the future of the world they were building seems uncertain.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/"
-        },
-        {
-          "headline": "David Fincher Defends Use Of AI Amid ‘Cliff Booth’ Criticism: “Well, It Exists. Should We Not Use It?”",
-          "summary": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
         },
         {
           "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
@@ -885,22 +885,22 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”",
+          "summary": "Aaron Pierre starred as John Stewart in the HBO & DC Studios series Lanterns and was set to play him across the DC Universe. However, with Peter Safran and James Gunn no longer co-heads of DC Studios, the future of the world they were building seems uncertain.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759/"
+        },
+        {
+          "headline": "David Fincher Defends Use Of AI Amid ‘Cliff Booth’ Criticism: “Well, It Exists. Should We Not Use It?”",
+          "summary": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711/"
+        },
+        {
           "headline": "How to Get Started on Making a Difference as Tax Rules for Charitable Giving Change",
           "summary": "Rick Baker is a wealth management expert by profession, advising many of Hollywood’s A-list on managing the money and portfolios for the long term in a volatile industry. For Baker himself, the concept of wealth management means giving some of it away through a scholarship program that he launched more than 10 years ago in […]",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/rick-baker-alabama-tax-charity-sean-weissbart-strictly-1236954674/"
-        },
-        {
-          "headline": "‘Hunger Games: Sunrise On The Reaping’ Begins Global Weekend With $76M Running Cume – Update",
-          "summary": "EXCLUSIVE: Lionsgate’s sixth Hunger Games move, The Hunger Games: The Sunrise on the Reaping, is off to a strong start with $24.6M through Thursday night. Add that to the expected $51M Friday, which includes $21M in previews, and the global running cume is around $76M.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
-        },
-        {
-          "headline": "Bassam Tariq On Exiting Marvel’s ‘Blade’: “Life’s Too Short To Make Sh** Films”",
-          "summary": "Bassam Tariq was once attached to direct Marvel’s Blade with Mahershala Ali, but eventually exited the project. In a new interview, the Your Mother Your Mother Your Mother director reveals why he decided not to helm the superhero movie.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728/"
         },
         {
           "headline": "‘He Walked So I Could Run’: ‘Project Hail Mary’ Breakout James Ortiz on Andy Serkis, Becoming Rocky and the Art of Puppetry",
@@ -921,6 +921,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "2026 CMA Awards Jump to 7-Year Ratings High",
+          "summary": "The 60th annual CMA Awards, which aired Wednesday (Nov. 18), surged to 7.62 million total viewers and a 1.01 rating among adults 18-49.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-cma-awards-ratings-up-seven-year-high-1236387203/"
+        },
+        {
           "headline": "From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’",
           "summary": "After 13 long years, Grand Theft Auto VI is finally here. The game everyone has been talking about since it dropped at midnight has already pulled in almost $4 billion in sales and features some of music’s biggest names on the soundtrack and in the game.",
           "source": "Billboard",
@@ -931,12 +937,6 @@
           "summary": "It's a Swedish musical takeover! Or do we call it a smorgasbord?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/20/g-s1-154907/tiny-desk-radio-first-aid-kit-snoh-aalegra-robyn"
-        },
-        {
-          "headline": "Nick Cannon Hospitalized Amid Lupus Battle: ‘Pray for Me, Y’all!’",
-          "summary": "Nick Cannon revealed Friday (Nov. 20) that he’s been hospitalized amid his battle with lupus, and he’s asking fans to keep him in their prayers.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/nick-cannon-hospital-lupus-prayers-1236387115/"
         },
         {
           "headline": "Rosalía Calls Taylor Swift a ‘Master Songwriter,’ Reveals Her Favorite Swift Track",
@@ -953,5 +953,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-20T20:46:01-05:00"
+  "updatedAt": "2026-11-20T21:12:13-05:00"
 }
