@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+          "summary": "Hundreds of Delta Air Lines flights in and out of Atlanta's Hartsfield-Jackson Atlanta International Airport were delayed on Sunday due to a technical issue.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
+        },
+        {
+          "headline": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+          "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Democrat Chuck Hubbard wins recount, flips North Carolina US House seat",
+          "summary": "Democratic Chuck Hubbard will win the election in North Carolina's 5th congressional district, the Associated Press projects.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/democrat-chuck-hubbard-wins-recount-north-carolina-us/story?id=138362634"
+        },
+        {
+          "headline": "Miley Cyrus marries Maxx Morando in California ceremony",
+          "summary": "The couple have been together for four years and were engaged in 2025.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
           "summary": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/"
-        },
-        {
-          "headline": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
-          "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/"
-        },
-        {
-          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
-          "summary": "Hundreds of Delta Air Lines flights in and out of Atlanta's Hartsfield-Jackson Atlanta International Airport were delayed on Sunday due to a technical issue.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124618570240061641",
+          "created_at": "2026-11-22T21:38:35.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "President Trump: \n\nThe Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” on November 3rd. \n\nNASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are “BAD” due to their Anti Growth, and Retribution Only, Policies, and",
+          "url": "https://x.com/Osint613/status/2124618570240061641",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124618437913653328",
+          "created_at": "2026-11-22T21:38:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🔥 AOC’S $12,000 LUXURY GERMANY TRIP RAISES EYEBROWS!\n\nThe self-described champion of the working class reportedly spent $12,024 in campaign funds on a Germany trip, including $8,600+ at luxury hotels and a premium driving service.\n\nThe New York Post reports the spending occurred https://t.co/QB1diYKVb2",
+          "url": "https://x.com/RealAmVoice/status/2124618437913653328",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124617499647840372",
+          "created_at": "2026-11-22T21:34:20.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Kharg Island, November 22:\n\nSatellite imagery shows no tankers at the oil loading berths, although several remain anchored nearby. https://t.co/B4npALaRIT",
+          "url": "https://x.com/Osint613/status/2124617499647840372",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124616742932504622",
+          "created_at": "2026-11-22T21:31:19.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Cam Ward didn’t know what he wanted to do  https://t.co/JA9ZeInA5J",
+          "url": "https://x.com/Outkick/status/2124616742932504622",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124616465223761947",
+          "created_at": "2026-11-22T21:30:13.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian newspaper Vatan-e Emrooz published a front page depicting President Trump as Adolf Hitler, complete with a Nazi uniform and swastika armband. https://t.co/2rsSpXckVT",
+          "url": "https://x.com/Osint613/status/2124616465223761947",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124614639409606954",
+          "created_at": "2026-11-22T21:22:58.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Would this be the wrong note upon which to suggest using Grok Bot? https://t.co/qfYPtHSaRV",
+          "url": "https://x.com/elonmusk/status/2124614639409606954",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124609730643411208",
           "created_at": "2026-11-22T21:03:27.000Z",
@@ -229,16 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124600959737164188",
-          "created_at": "2026-11-22T20:28:36.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Adm. Brad Cooper wrapped a week in Israel, Qatar and Saudi Arabia on Nov. 22.\n\nHe thanked U.S. troops for their role in combat against the IRGC. The region now holds 50,000 American service members.\n\nSecurity and cooperation topped his talks with senior leaders.\n\nCENTCOM https://t.co/jdx0OMHuEQ",
-          "url": "https://x.com/Osint613/status/2124600959737164188",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124600936609841396",
           "created_at": "2026-11-22T20:28:31.000Z",
           "author_name": "Elon Musk",
@@ -255,26 +305,6 @@
           "author_handle": "RealAmVoice",
           "text": "A Mamdani-style candidate is running in Ohio. State Rep. Munira Abdullahi launched a bid for mayor of Columbus, accusing big business of running a \"shadow government\" in the city. https://t.co/xzNDZUg0b5",
           "url": "https://x.com/RealAmVoice/status/2124598215198585096",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124597204853621187",
-          "created_at": "2026-11-22T20:13:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russia's ambassador to Libya has strongly condemned the attacks on Benghazi port.\n\nHe accused Kyiv of seeking to drag third parties into terrorist acts. He also said Kyiv is resorting to carrying out terrorist attacks.\n\nAl Hadath https://t.co/hL0uCbpdsn",
-          "url": "https://x.com/Osint613/status/2124597204853621187",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124597088415854774",
-          "created_at": "2026-11-22T20:13:13.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "DK Metcalf kicked out of the game  https://t.co/ypZEBWTTxm",
-          "url": "https://x.com/Outkick/status/2124597088415854774",
           "verified": true,
           "verified_type": "business"
         },
@@ -299,16 +329,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124593886953984316",
-          "created_at": "2026-11-22T20:00:30.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Four U.S. House races remain open after the midterm elections. Two are in Louisiana, one in Tennessee and one in Minnesota. Runoffs will be held in December.\n\nThe Democrats have secured at least 258 seats in the House of Representatives. It is their biggest result since 1992. The",
-          "url": "https://x.com/Osint613/status/2124593886953984316",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124593577867014387",
           "created_at": "2026-11-22T19:59:16.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -325,16 +345,6 @@
           "author_handle": "_Investinq",
           "text": "I’m afraid Trump might be right here, and I genuinely think the worst of this selloff could still be ahead of us.\n\nWhat scares me most is that the market is starting to look like it’s running out of buyers. We’ve already seen trillions of dollars in market value wiped out, some https://t.co/UwO9Q1kkDo",
           "url": "https://x.com/_Investinq/status/2124589498579214672",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124589255565680900",
-          "created_at": "2026-11-22T19:42:06.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "32 hour launch pad recycle. Great work by SpaceX team. https://t.co/b30VOE8Oom",
-          "url": "https://x.com/elonmusk/status/2124589255565680900",
           "verified": true,
           "verified_type": "blue"
         },
@@ -397,16 +407,6 @@
           "url": "https://x.com/ClayTravis/status/2124583854962855980",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124581678702043227",
-          "created_at": "2026-11-22T19:11:59.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP BLAMES DEMOCRATS FOR $6 TRILLION MARKET WIPEOUT!\n\nPresident Trump claims markets have lost more than $6 TRILLION since Democrats’ November 3 election victory, with the NASDAQ down 20%.\n\nHe blames their “Anti Growth, and Retribution Only” policies and warns things could get https://t.co/z6RljIKwWK",
-          "url": "https://x.com/RealAmVoice/status/2124581678702043227",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124576899598848197",
@@ -791,6 +791,12 @@
           "url": "https://www.cbsnews.com/news/democrat-chuck-hubbard-defeats-gop-rep-virginia-foxx-north-carolina/"
         },
         {
+          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
+        },
+        {
           "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
           "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
           "source": "CBS News",
@@ -807,12 +813,6 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
-        },
-        {
-          "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
-          "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Tigers grab Luis Gil days after Yankees release",
-          "summary": "The Detroit Tigers are willing to pay Luis Gil exactly what the New York Yankees would not. Gil, the 2024 American League Rookie of the Year, agreed to a one-year, $2.3 million deal with Detroit on Sunday, Nov.",
+          "headline": "Broncos vs. Raiders: Live Fan Discussion",
+          "summary": "DENVER, COLORADO - NOVEMBER 22: Bo Nix #10 of the Denver Broncos warms up prior to a game against the Las Vegas Raiders at Empower Field At Mile High on November 22, 2026 in Denver, Colorado. (Photo by Justin Edmonds/Getty Images) | Getty Images The Denver Broncos will be looking to move to 8-2 on the year with a home win over the Las Vegas Raiders today.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tigers-grab-luis-gil-days-211126726.html"
+          "url": "https://sports.yahoo.com/articles/broncos-vs-raiders-live-fan-210000528.html"
         },
         {
-          "headline": "Josh Downs good for four receptions in Week 11",
-          "summary": "Kansas City Chiefs wide receiver Josh Downs registered four receptions for 59 yards on five targets in Week 11 against the Arizona Cardinals . SOURCE: USA TODAY Why it Matters: Downs has come in and made a difference in the passing game for the Chiefs, emerging as a solid WR4 or flex fantasy option in the potent Kansas City offense.",
+          "headline": "Dayton Flyers play at Tennessee Tech in FCS Playoffs",
+          "summary": "Photo from: Nebyat Mamo/Staff Nebyat Mamo/Staff The University of Dayton football team learned its opponent in the Football Championship Subdivision (FCS) Playoffs. [DOWNLOAD: Free WHIO-TV News app for alerts as news breaks ] Dayton will play the No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/josh-downs-good-four-receptions-210825990.html"
+          "url": "https://sports.yahoo.com/articles/dayton-flyers-play-tennessee-tech-213730071.html"
         },
         {
-          "headline": "Pepe did not injure eyes staring at sun, say Villarreal",
-          "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Man Utd plotting Toney move - Monday's gossip",
-          "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "DK Metcalf ejected: Steelers receiver tossed after poking Cooper DeJean in the eye",
-          "summary": "Metcalf had more penalty than receiving yards against the Eagles",
+          "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 roll",
+          "summary": "R.J. White reveals his picks for Minnesota Vikings vs.",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/dk-metcalf-ejected-steelers-receiver-tossed-after-poking-cooper-dejean-eye/"
+          "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks/"
+        },
+        {
+          "headline": "TCU fires Sonny Dykes: Lincoln Riley, Manny Diaz, GJ Kinne among candidates to replace Horned Frogs coach",
+          "summary": "Riley leads the early possible candidates to replace Dykes at TCU",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/tcu-candidates-sonny-dykes-fired-lincoln-riley-manny-diaz-gj-kinne-mike-norvell/"
+        },
+        {
+          "headline": "Chaotic week, nightmare start and huge reality check for Pochettino",
+          "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars",
+          "summary": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/"
+        },
         {
           "headline": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
           "summary": "Spain’s Huelva Ibero-American Film Festival, one of Europe’s foremost Latin American cinema platforms, prized two of the region’s cinema greats, awarding top prizes to Chilean actor Alfredo Castro and Argentine writer-director Lucía Puenzo on Saturday night. “La Bola Negra” also reaped yet another plaudit, its scribe-helmer-producer duo Javier Calvo and…",
@@ -911,12 +917,6 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
         {
-          "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
-          "summary": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
-        },
-        {
           "headline": "‘Hunger Games’ Lead Joseph Zada on Filming His Breakout Movie Role and ‘Sunrise on the Reaping’s’ Intense Stunts: ‘I Look Like a F—ing Action Star!’",
           "summary": "When it comes to taking on the leading role in one of the most beloved film (and literary) franchises, sometimes you just have to jump right in. At least that was the case for Joseph Zada, whose first day on set of “The Hunger Games: Sunrise on the Reaping” was spent filming the opening cornucopia […]",
           "source": "Variety",
@@ -928,6 +928,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced on the Show",
+          "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/"
+        },
         {
           "headline": "Ina Garten Says She Turned Down ‘Dancing With the Stars’ Because the Thought of Competing Gave Her ‘Nightmares’",
           "summary": "Celebrity chef Ina Garten will not be cooking up a freestyle for “Dancing with the Stars” in the near future. Garten told Rose Byrne on a recent episode of her “Happy Hour” podcast that she would be too nervous to compete.",
@@ -941,22 +947,16 @@
           "url": "https://abcnews.com/Entertainment/wireStory/resurgent-hunger-games-big-box-office-despite-competition-138361740"
         },
         {
-          "headline": "Sheila Mangubat, ’90 Day Fiancé: Before the 90 Days’ Star, Dies at 35",
-          "summary": "Sheila Mangubat, who appeared on the reality series “90 Day Fiancé: Before the 90 Days,” has died. She was 35.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/people-news/sheila-mangubat-dead-90-day-fiance-1236955340/"
-        },
-        {
           "headline": "Tom Jackson Dies: Broncos Alum & ESPN Hall Of Fame Broadcaster Was 75",
           "summary": "Tom Jackson, a former Denver Broncos player and an NFL analyst for ESPN, has died. He was 75.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/tom-jackson-dead-broncos-espn-1237231183/"
         },
         {
-          "headline": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
-          "summary": "The BBC has apologized to viewers after lewd noises could be heard during the Strictly Come Dancing live show at Blackpool’s Tower Ballroom. A recording of sex noises appeared to be played from the audience as Strictly judge Motsi Mabuse delivered her remarks about the performance of Delta Goodrem and partner Kai Widdrington.",
+          "headline": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
+          "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/"
+          "url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/"
         }
       ]
     },
@@ -1001,16 +1001,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "ATEEZ Earn Fourth No. 1 on Billboard 200 With ‘GOLDEN HOUR : Part.6’",
+          "summary": "ATEEZ earn their fourth No. 1 on the Billboard 200 albums chart as GOLDEN HOUR : Part.6 debuts atop the tally (dated Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ateez-golden-hour-part6-no1-billboard-200-chart-1236387535/"
+        },
+        {
           "headline": "Miley Cyrus & Maxx Morando’s Wedding Photos Are Here",
           "summary": "Miley Cyrus and Maxx Morando’s wedding pictures are here. The bride and groom shared the first official look at their marriage ceremony on Sunday, the day after their intimate Saturday (Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/culture/lifestyle/miley-cyrus-wedding-photos-maxx-morando-1236387483/"
-        },
-        {
-          "headline": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game, ‘With No Hesitation’",
-          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. Related Miley Cyrus & Maxx Morando’s Wedding Photos Are Here ‘Only Murders in the Building’ Season 6 Trailer Arrives With Loads of British Stars, Cheeky Humor & Dodgy Twists Miley Cyrus…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/"
         },
         {
           "headline": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
@@ -1025,13 +1025,13 @@
           "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
         },
         {
-          "headline": "Britney Spears Apologizes to Her Family on Instagram: ‘I Just Miss Them Like Crazy’",
-          "summary": "Britney Spears posted a public apology to her family on Saturday (Nov. 21), writing on Instagram that she regretted revisiting past conflicts in public.",
+          "headline": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game, ‘With No Hesitation’",
+          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. Related Miley Cyrus & Maxx Morando’s Wedding Photos Are Here ‘Only Murders in the Building’ Season 6 Trailer Arrives With Loads of British Stars, Cheeky Humor & Dodgy Twists Miley Cyrus…",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/"
+          "url": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-22T16:15:16-05:00"
+  "updatedAt": "2026-11-22T16:43:12-05:00"
 }
