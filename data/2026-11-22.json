@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "TechCrunch Mobility: A/B testing robots vs. humans",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
+        },
+        {
           "headline": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
           "summary": "Anthropic's record $1.5 trillion valuation is carrying hopes of a charitable windfall that could send billions of dollars to philanthropy",
           "source": "ABC News",
@@ -28,12 +34,6 @@
           "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
-        },
-        {
-          "headline": "Here are the top AI agents that can live in your text messages",
-          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
+          "summary": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/"
+        },
+        {
+          "headline": "UN climate conference ends without deal as countries clash over fossil fuels, finance",
+          "summary": "Participating nations in the U.N. COP31 climate conference failed to reach consensus on fossil fuels, finance and other issues.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
+        },
+        {
           "headline": "DNI Clayton: Putin is 'not America's friend in Ukraine'",
           "summary": "The director of national intelligence appeared on ABC's \"This Week\" Sunday.",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905"
-        },
-        {
-          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
-        },
-        {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
-          "headline": "Multiple people shot at 'large' party in California, sheriff's office says",
-          "summary": "Officials said a call about a shooting in Strathmore came in at about 7:40 p.m.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/multiple-people-shot-large-party-california-sheriffs-office/story?id=138356134"
-        },
-        {
-          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124551435819811283",
+          "created_at": "2026-11-22T17:11:49.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The IDF needs more troops to meet operational challenges that have grown significantly, per Chief of Staff Eyal Zamir.\n\n\"This is the fourth year of fighting, and even after the steps we take to ease the burden, it will continue.\" https://t.co/uqBSrKDfjO",
+          "url": "https://x.com/i/status/2124551435819811283",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124551375669321818",
+          "created_at": "2026-11-22T17:11:34.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🇺🇸 TRUMP: “OPEN BORDERS DESTROY NATIONS!” https://t.co/juJDSRGW9F",
+          "url": "https://x.com/i/status/2124551375669321818",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124548881728114942",
+          "created_at": "2026-11-22T17:01:40.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "U.S. Director of National Intelligence: Americans should prepare for \"bumps in the road.\"\n\nOutages may continue while both companies and the government \"upgrade their systems,\" the DNI warned.\n\nCNBC",
+          "url": "https://x.com/i/status/2124548881728114942",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124548569151447112",
+          "created_at": "2026-11-22T17:00:25.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "And the GOP doesn’t care. They have no plan to stop the Islamic takeover of our country. \n\nWon’t be long before America is a failed state.\n\nOne minute the GOP says jihadists are a national security threat, the next they are having meetings with them and pushing their communist https://t.co/ldzkjkfMvj",
+          "url": "https://x.com/i/status/2124548569151447112",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124546222031622222",
+          "created_at": "2026-11-22T16:51:06.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "The US equity market experienced just one of its sharpest sell-offs on record:\n\nThe S&amp;P 500 fell -11.6% from its October 6th peak in just 33 trading days, placing the decline among the 15 fastest corrections since 1928.\n\nBy comparison, at the start of the 2022 bear market, it https://t.co/gfNCCTjMxg",
+          "url": "https://x.com/i/status/2124546222031622222",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124546055098577397",
+          "created_at": "2026-11-22T16:50:26.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "All I know is that after the next 2 years, I’m not going to be a part of any political coalition that includes jihadist Muslims.\nI will work against that coalition though. \n\nNow that there seems to be a faction in the GOP that is willing to promote the Muslim Brotherhood, I would",
+          "url": "https://x.com/i/status/2124546055098577397",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124545958864474602",
+          "created_at": "2026-11-22T16:50:03.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The college football picks were on fire again yesterday. Let’s keep things rolling with the NFL today. Six winners for Sunday with @HardRockBet. https://t.co/9B1mKWflO5",
+          "url": "https://x.com/i/status/2124545958864474602",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124541489866752189",
           "created_at": "2026-11-22T16:32:17.000Z",
@@ -109,32 +179,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124539335706059087",
-          "created_at": "2026-11-22T16:23:44.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Axios: Ukraines SBU work https://t.co/SXrabR41mB",
-          "url": "https://x.com/i/status/2124539335706059087",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124538071286747577",
           "created_at": "2026-11-22T16:18:42.000Z",
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Nationwide cybercab let's fucking gooooo https://t.co/64q3zRE86I",
           "url": "https://x.com/i/status/2124538071286747577",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124537667379753257",
-          "created_at": "2026-11-22T16:17:06.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russia lost the Merkury’ last night, a Steregushchiy class corvette worth $257 million dollars https://t.co/iCih50Xy7Y",
-          "url": "https://x.com/i/status/2124537667379753257",
           "verified": true,
           "verified_type": "blue"
         },
@@ -245,16 +295,6 @@
           "author_handle": "RealAmVoice",
           "text": "Privateers vs. Buccaneers vs. Pirates: What's the Difference?\n\n@BillFederer joins @aubreysamerica to discuss the difference between privateers, buccaneers, and pirates, as well as Queen Elizabeth's involvement. https://t.co/3TmE8NEBOo",
           "url": "https://x.com/i/status/2124499388978602442",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124495614348021897",
-          "created_at": "2026-11-22T13:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "\"Millions of People, No King\"\n\n@BillFederer joins @aubreysamerica to discuss how ancient Israel was the first recorded society to govern itself without a king. https://t.co/cZuY4wIeGA",
-          "url": "https://x.com/i/status/2124495614348021897",
           "verified": true,
           "verified_type": "business"
         },
@@ -375,16 +415,6 @@
           "author_handle": "SportNState",
           "text": "One last SHOCKER for the day\n\n5-5 San Diego State beats No. 17 Boise State on a last second FG\n\nBoise State is the only ranked G6 school in the CFP rankings. https://t.co/H3qJyoJS2R",
           "url": "https://x.com/i/status/2124386240380469593",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124375700207714720",
-          "created_at": "2026-11-22T05:33:30.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I missed the crazy way Rutgers beat Penn State today. Watch this.  https://t.co/QQkt1jm51I",
-          "url": "https://x.com/i/status/2124375700207714720",
           "verified": true,
           "verified_type": "blue"
         },
@@ -529,42 +559,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124313289991602416",
-          "created_at": "2026-11-22T01:25:30.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "The Vice President @VP is going to meet with the Senator who is pushing Sharia Law in America! \n\nSo how do you think this is going to work out? @tylerbowyer \n\nSince @TPUSA has endorsed JD, maybe they can inform him how dangerous Islam is before this admin befriends yet another https://t.co/Z0nN1CHIeV",
-          "url": "https://x.com/i/status/2124313289991602416",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124312384063799374",
           "created_at": "2026-11-22T01:21:54.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Oh hell yeah https://t.co/tPffeHcl41",
           "url": "https://x.com/i/status/2124312384063799374",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124309714041258374",
-          "created_at": "2026-11-22T01:11:18.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "President Trump doesn’t post on his Truth account. His staff make all of the posts for him. I’ve seen this in person enough times to know he doesn’t make any of the posts on his account. He dictates the long posts but he doesn’t make the actual posts. \n\nDoes he know that an https://t.co/230YiWUyK8 https://t.co/BqhF5ax6g5",
-          "url": "https://x.com/i/status/2124309714041258374",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124305136692408552",
-          "created_at": "2026-11-22T00:53:06.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: AI-related investment contributed +1.27 percentage points to real US GDP growth in Q1 through Q3 2026.\n\nThis represents ~65% of the economy's cumulative growth of ~2% over this period.\n\nSoftware investment contributed the most, at +0.45 percentage points, followed by https://t.co/b4yXhD0vlq",
-          "url": "https://x.com/i/status/2124305136692408552",
           "verified": true,
           "verified_type": "business"
         },
@@ -785,16 +785,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
           "headline": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
           "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
-        },
-        {
-          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Cardinals’ Sudden QB Development Paves Way for Potential Start of 15-Team NFL Vet",
-          "summary": "The Arizona Cardinals appear to have another quarterback issue to deal with . Rookie Carson Beck got his first career NFL start in Week 10 against the Los Angeles Rams, but he could miss this coming Sunday’s matchup against the Kansas City Chiefs at Arrowhead Stadium because of an upper-body issue, according to head coach Mike LaFleur.",
+          "headline": "Packers All-Pro Micah Parsons 'on track' to make season debut vs. Rams",
+          "summary": "Green Bay Packers edge rusher Micah Parsons will practice in pads on Sunday and remains on track to make his 2026 season debut on Thanksgiving Eve against the Los Angeles Rams. Packers coach Matt LaFleur confirmed Parsons has increased his rep count at practice and will check off another significant box in his recovery when he practices in full pads on…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/cardinals-sudden-qb-development-paves-163415050.html"
+          "url": "https://sports.yahoo.com/articles/packers-pro-micah-parsons-track-171245593.html"
         },
         {
-          "headline": "Bengals WR Ja’Marr Chase’s Message to Tee Higgins is a Blunt Warning to The Rest of The NFL",
-          "summary": "The Cincinnati Bengals appear to be getting scarier each passing week. They got even more attention in Week 10, when they pummeled Aaron Rodgers and the Pittsburgh Steelers for a 38-18 win at Paycor Stadium in Cincinnati.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bengals-wr-ja-marr-chase-163351440.html"
-        },
-        {
-          "headline": "Week 11 NFL odds, picks: Brinson's best bets, player props, anytime TD scorers for Sunday",
-          "summary": "Steer clear of bloated double-digit spreads, grab the extra points with Philadelphia, and count on Dak Prescott to clear his passing total in a shootout",
+          "headline": "Bowl projections: Slotting all 47 games as Week 12 upsets provide massive shakeup to postseason picture",
+          "summary": "Take what you thought you knew about the Big Ten's projected postseason pairings and toss them away",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/week-11-nfl-odds-picks-brinsons-best-bets-player-props-anytime-td-scorers-for-sunday/"
+          "url": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-cfp-bracket-predictions-week-13-2026/"
         },
         {
-          "headline": "Spurs 'a match for anyone' as European hopes boosted",
-          "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
+          "headline": "FINAL Week 11 Fantasy Football rankings update",
+          "summary": "Week 11 is here!",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/"
+        },
+        {
+          "headline": "Paris Saint-Germain forward Désiré Doué to undergo knee surgery",
+          "summary": "PARIS (AP) — Paris Saint-Germain forward Désiré Doué will undergo surgery before the end of December after rupturing the anterior cruciate ligament (ACL) in his right knee, his club said Sunday. The France international was carried off on a stretcher during PSG's 3-2 win at Nice in Ligue 1 on Saturday.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/paris-saint-germain-forward-d-171151156.html"
+        },
+        {
+          "headline": "'Rolls Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+          "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks by proven model",
-          "summary": "SportsLine's model has revealed its Minnesota Vikings vs. San Francisco 49ers picks for 'Sunday Night Football' matchup in Mexico City",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/vikings-49ers-prediction-odds-time-spread-2026-sunday-night-football-mexico-city-picks/"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -893,10 +893,10 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
-          "summary": "“Sunrise on the Reaping” caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate’s “Hunger Games” franchise. Overseas, “Sunrise on the Reaping” generated $105 million from 84 territories for a towering launch of $225 million globally.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061/"
+          "headline": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
+          "summary": "The sixth film in the Lionsgate series rebounded after 2023's 'The Ballad of Songbirds & Snakes,' while freshly expanded 'I Play Rocky' and newcomer 'Elsinore' also came out swinging.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
         {
           "headline": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
@@ -905,16 +905,16 @@
           "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/"
         },
         {
-          "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
-          "summary": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
-        },
-        {
           "headline": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
           "summary": "Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor and Michelin-starred chef and filmmaker Vikas Khanna have come aboard short “The Dragon Letter” as executive producers, and Ladakhi director Stanzin Jigmet tells Variety he is developing a feature version of the Student Academy Award-winning short.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265/"
+        },
+        {
+          "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
+          "summary": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
         },
         {
           "headline": "James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’",
@@ -928,6 +928,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "How Oobah Butler Scammed His Way to HBO",
+          "summary": "I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998/"
+        },
         {
           "headline": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
           "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.",
@@ -951,12 +957,6 @@
           "summary": "Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film’s titular hero, […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/"
-        },
-        {
-          "headline": "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
-          "summary": "Roughly six songs into their performance on Saturday night, Katseye made a girl group connection with Fifth Harmony member Camila Cabello as Daniela Avanzini brought her out to be the collective’s “Gabriela” for the evening, dancing to the choreography that accompanies the song. Katseye, who performed as a quartet consisting of Avanzini alongside Lara…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T11:42:28-05:00"
+  "updatedAt": "2026-11-22T12:19:28-05:00"
 }
