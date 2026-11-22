@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+          "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
+          "headline": "The red card that changed Liverpool-Man Utd: correct call?",
+          "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Meet the young authors! A literacy program inspires kids in South Africa",
-          "summary": "From Gomora to the World. Stories from Alex, a new book of short stories written by kids who are part of the \"Read Alex\" literacy program in Johannesburg.",
+          "headline": "Delta Air Lines hit with delays amid baggage network system issue",
+          "summary": "The Delta Air Lines delays are most impacting flights in and out of Hartsfield-Jackson Atlanta International Airport in Georgia.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/"
+        },
+        {
+          "headline": "Cybersecurity experts break down recent tech outages, and share ways you can protect yourself",
+          "summary": "A panel of experts, including CBS News' cybersecurity expert and analyst Chris Krebs, CBS News national security contributor Samantha Vinograd, and co-founder and former chief technology officer of CrowdStrike, Dmitri Alperovitch, breaks down recent outages.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/cybersecurity-experts-break-down-recent-tech-outages-and-share-ways-you-can-protect-yourself/"
+        },
+        {
+          "headline": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy"
-        },
-        {
-          "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-          "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
         }
       ]
     },
@@ -79,14 +79,94 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124558226037547142",
-          "created_at": "2026-11-22T17:38:48.000Z",
+          "id": "2124566921060200727",
+          "created_at": "2026-11-22T18:13:21.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "New footage shows a Ukrainian USV ramming  Russian ship Merkury at Benghazi naval base in Libya. https://t.co/XHKumGfcbX https://t.co/hL0uCbpLhV",
-          "url": "https://x.com/i/status/2124558226037547142",
+          "text": "Israel is preparing for the possibility that the U.S. could strike Iran without Israeli involvement in the initial phase, Israel’s Channel 14 reports. Israel would decide later whether and when to join the strikes.\n\nOfficials in Jerusalem increasingly believe Washington has",
+          "url": "https://x.com/i/status/2124566921060200727",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2124566665409270097",
+          "created_at": "2026-11-22T18:12:20.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "System issues have delayed all Delta flights arriving at and departing from Atlanta.",
+          "url": "https://x.com/i/status/2124566665409270097",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124566431215808980",
+          "created_at": "2026-11-22T18:11:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "New York Post: Some Gen Z users are ditching vapes for cigarettes, calling them a \"plant-based alternative.\"",
+          "url": "https://x.com/i/status/2124566431215808980",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124566381945663574",
+          "created_at": "2026-11-22T18:11:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NYP cover  https://t.co/qmNtHdfZGK",
+          "url": "https://x.com/i/status/2124566381945663574",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124565738866487773",
+          "created_at": "2026-11-22T18:08:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Kan Israel: U.S. is rotating the F-35 fighter jets stationed at Ovda Air Base.\n\n“No immediate action in Iran is expected. The Americans are preparing for an extended stay in the region.”",
+          "url": "https://x.com/i/status/2124565738866487773",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124563505936208298",
+          "created_at": "2026-11-22T17:59:46.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Nobody wants the government involved in our healthcare. https://t.co/WmlrbEca3W",
+          "url": "https://x.com/i/status/2124563505936208298",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124562784138514586",
+          "created_at": "2026-11-22T17:56:54.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "RIP Tom Jackson, NFL Primetime was must see TV when I was a kid. He and Chris Berman were the soundtrack of my NFL childhood’s sports highlights.",
+          "url": "https://x.com/i/status/2124562784138514586",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124562447491039609",
+          "created_at": "2026-11-22T17:55:34.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "In the event of a three way tie between Texas, Tennessee and Alabama at 10-2 overall, 7-2 in conference, Texas is most likely to win the final tie break and advance to play Georgia. (I would imagine many fans would prefer to take the week off and get healthier.)",
+          "url": "https://x.com/i/status/2124562447491039609",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124561296787943647",
+          "created_at": "2026-11-22T17:51:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "US technology ETFs are seeing massive wave of deleveraging:\n\nThe 3x leveraged long Semiconductor ETF, $SOXL, is down -90% from its June peak, to its lowest since September 2025.\n\nThis marks its 2nd-largest drawdown since the fund's inception in March 2010, surpassed only by the https://t.co/T8vqWajuBd",
+          "url": "https://x.com/i/status/2124561296787943647",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2124555156331114498",
@@ -119,26 +199,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124553960853778780",
-          "created_at": "2026-11-22T17:21:51.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Debl, southern Lebanon: IDF Arabic spokesperson Ella Waweya visited the Christian village and spoke with Lebanese students. https://t.co/MWBttuP8Nz",
-          "url": "https://x.com/i/status/2124553960853778780",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124551435819811283",
-          "created_at": "2026-11-22T17:11:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The IDF needs more troops to meet operational challenges that have grown significantly, per Chief of Staff Eyal Zamir.\n\n\"This is the fourth year of fighting, and even after the steps we take to ease the burden, it will continue.\" https://t.co/uqBSrKDfjO",
-          "url": "https://x.com/i/status/2124551435819811283",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124551375669321818",
           "created_at": "2026-11-22T17:11:34.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -147,16 +207,6 @@
           "url": "https://x.com/i/status/2124551375669321818",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124548881728114942",
-          "created_at": "2026-11-22T17:01:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "U.S. Director of National Intelligence: Americans should prepare for \"bumps in the road.\"\n\nOutages may continue while both companies and the government \"upgrade their systems,\" the DNI warned.\n\nCNBC",
-          "url": "https://x.com/i/status/2124548881728114942",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124548569151447112",
@@ -195,16 +245,6 @@
           "author_handle": "ClayTravis",
           "text": "The college football picks were on fire again yesterday. Let’s keep things rolling with the NFL today. Six winners for Sunday with @HardRockBet. https://t.co/9B1mKWflO5",
           "url": "https://x.com/i/status/2124545958864474602",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124541489866752189",
-          "created_at": "2026-11-22T16:32:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Lebanese Druze leader Wiam Wahhab:\n\n\"Iran will have to abandon its policy of destroying Israel and cut a deal with America.\n\nMuslims need an agenda other than killing, raping, and conquering Rome.\n\nWe can no longer act like cavemen.\" https://t.co/O8O08mVE2K",
-          "url": "https://x.com/i/status/2124541489866752189",
           "verified": true,
           "verified_type": "blue"
         },
@@ -289,16 +329,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124503836760912119",
-          "created_at": "2026-11-22T14:02:40.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Boise State with insanely bad coaching decisions to lose to San Diego State last night. Watch how this game ends. https://t.co/dNs5W3vBLQ",
-          "url": "https://x.com/i/status/2124503836760912119",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124503175583428750",
           "created_at": "2026-11-22T14:00:03.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -309,32 +339,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124502928346243422",
-          "created_at": "2026-11-22T13:59:04.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I’m not a data expert, but if @espn’s FPI has Ohio State at six and LSU at nine, you gotta burn down your entire formula and start over from scratch.  https://t.co/U8eRN91E1t",
-          "url": "https://x.com/i/status/2124502928346243422",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124499388978602442",
           "created_at": "2026-11-22T13:45:00.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "Privateers vs. Buccaneers vs. Pirates: What's the Difference?\n\n@BillFederer joins @aubreysamerica to discuss the difference between privateers, buccaneers, and pirates, as well as Queen Elizabeth's involvement. https://t.co/3TmE8NEBOo",
           "url": "https://x.com/i/status/2124499388978602442",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124492782014259376",
-          "created_at": "2026-11-22T13:18:45.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Key Events This Week:\n\n1. November S&amp;P Global Services PMI data - Monday\n\n2. November S&amp;P Global Manufacturing PMI data - Monday\n\n3. November Consumer Confidence data - Tuesday\n\n4. October PCE Inflation data - Wednesday\n\n5. US Q3 2026 GDP data - Wednesday\n\n6. October New Home",
-          "url": "https://x.com/i/status/2124492782014259376",
           "verified": true,
           "verified_type": "business"
         },
@@ -535,16 +545,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️You’re in the belly of disbelief. \n\nThat’s where the opportunity is being born.",
           "url": "https://x.com/i/status/2124324703582203983",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124320668384985303",
-          "created_at": "2026-11-22T01:54:49.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "The UK’s version of our DHS Secretary is a Muslim woman named @ShabanaMahmood… so of course she is letting this terrorist into the UK.\n\nYou are not Islamophobic enough.\n\nGet on my level. https://t.co/WXDaUk9xVP",
-          "url": "https://x.com/i/status/2124320668384985303",
           "verified": true,
           "verified_type": "blue"
         },
@@ -785,10 +785,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -801,12 +807,6 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
-        },
-        {
-          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
         },
         {
           "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "How to watch Chiefs vs Cardinals for free: Week 11, live stream, TV channel",
-          "summary": "The Arizona Cardinals travel to Kansas City on Sunday afternoon looking to pull off a major upset against Patrick Mahomes and the Chiefs in Week 11 of the NFL season. Nov 15, 2026; Glendale, Arizona, USA; Arizona Cardinals tight end Trey McBride (85) looks on before the game against the Los Angeles Rams at State Farm Stadium.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watch-chiefs-vs-cardinals-free-174000057.html"
-        },
-        {
-          "headline": "Big wins as Celtic, Rangers, City & Hearts progress",
-          "summary": "Isabella Fisher scored four goals in Celtic's win [SNS] Holders Celtic breezed through to the fourth round of the Women's Scottish Cup with a 17-0 victory over Forfar Farmington . Morgan Cross and Casey Howe both netted hat-tricks, Isabella Fisher scored four times and Amy Gallacher bagged a double.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/big-wins-celtic-rangers-city-171017733.html"
-        },
-        {
-          "headline": "Arsenal frustrations grow as winless home run continues",
-          "summary": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Jakirovic full of praise for Tzolakis performance",
-          "summary": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.\"",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Fantasy football rankings, projections, lineup advice, sleeper picks for Week 11 from proven model",
-          "summary": "SportsLine's model reveals its Week 11 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
+          "headline": "Coaches Poll top 25: Texas, Tennessee climb; UCLA, Indiana tumble in college football rankings",
+          "summary": "Big Ten chaos has a couple of the league's contenders in CFP peril, while a pair of SEC teams jumped after big wins on Saturday",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-lineups-projections-sleepers-streamers-start-sit-advice-week-11-2026/"
+          "url": "https://www.cbssports.com/college-football/news/college-football-rankings-coaches-poll-top-25-week-13-2026/"
+        },
+        {
+          "headline": "Five Big 12 teams ranked in US LBM Coaches Poll after Week 12 games",
+          "summary": "Colorado lost its seventh game of the season Saturday to Cincinnati, which eliminated the Buffaloes from bowl contention and moved their record to 4-7 (2-6 Big 12). CU is far from earning a place in the latest US LBM Coaches Poll .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/five-big-12-teams-ranked-181522181.html"
+        },
+        {
+          "headline": "Bengals vs. Commanders prediction, odds, time: NFL Week 11 'Monday Night Football' picks by proven model",
+          "summary": "SportsLine's model has revealed its Cincinnati Bengals vs. Washington Commanders picks for 'Monday Night Football' matchup",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/bengals-commanders-prediction-odds-time-nfl-week-11-monday-night-football-picks/"
+        },
+        {
+          "headline": "Where Missouri football was ranked in top 25 polls after Kentucky win",
+          "summary": "Mizzou is ranked in the coaches poll again one week after dropping out of the top 25 for the first time this season. After beating Kentucky 28-14 on Saturday on Faurot Field behind an excellent red-zone defense and a superb performance from quarterback Austin Simmons , Missouri football checked in at No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/where-missouri-football-ranked-top-181128739.html"
+        },
+        {
+          "headline": "'Russell is living rent free in Verstappen's head!'",
+          "summary": "BBC Sport's Harry Benjamin, Rebecca Clancy and Abbi Pulling discuss the clash between George Russell and Max Verstappen as their rivalry heats up both on and off the track.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -893,7 +893,13 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ’Youtube Is Just What Sundance Was in the ‘80s’",
+          "headline": "Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival",
+          "summary": "Jeff Goldblum, Marion Cotillard, John Turturro and more stars got the royal treatment on Saturday night at a glitzy dinner hosted by Morocco’s His Royal Highness Prince Moulay Rachid and Her Royal Highness Princess Lalla Oum Keltoum during the Marrakech Film Festival. Held at the 16th-century El Badi Palace — known for its stunning architecture […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306/"
+        },
+        {
+          "headline": "Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the ’80s’",
           "summary": "Rian Johnson is hopeful about the future of indie filmmaking. During a converation at Marrakech Film Festival on Sunday afternoon, the “Star Wars: Last Jedi” and “Knives Out” director specifically cited Youtube as one of the most effective ways for early-career filmmakers to get their movies discovered.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248/"
@@ -905,22 +911,16 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
         {
-          "headline": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
-          "summary": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux. Appearing in conversation with film […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/"
-        },
-        {
           "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
           "summary": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
         },
         {
-          "headline": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
-          "summary": "Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor and Michelin-starred chef and filmmaker Vikas Khanna have come aboard short “The Dragon Letter” as executive producers, and Ladakhi director Stanzin Jigmet tells Variety he is developing a feature version of the Student Academy Award-winning short.",
+          "headline": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
+          "summary": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux. Appearing in conversation with film […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265/"
+          "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/"
         }
       ]
     },
@@ -1001,6 +1001,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game ‘With No Hesitation’",
+          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. A short video of the precious moment from Saturday night’s (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/"
+        },
+        {
           "headline": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
           "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out",
           "source": "Rolling Stone",
@@ -1019,12 +1025,6 @@
           "url": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/"
         },
         {
-          "headline": "Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips’ Wayne Coyne",
-          "summary": "Miley Cyrus married Maxx Morando on Saturday (Nov. 21) in a poolside ceremony in Palm Springs, Calif., with the Flaming Lips ’ Wayne Coyne officiating, one month after the couple sang “Let’s Get Married” together on the Hollywood Bowl stage.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/miley-cyrus-marries-maxx-morando-palm-springs-wedding-1236387428/"
-        },
-        {
           "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
           "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
           "source": "NPR",
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T12:45:32-05:00"
+  "updatedAt": "2026-11-22T13:17:22-05:00"
 }
