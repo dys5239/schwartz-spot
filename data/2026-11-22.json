@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "DNI Clayton: Putin is 'not America's friend in Ukraine'",
+          "summary": "The director of national intelligence appeared on ABC's \"This Week\" Sunday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905"
+        },
+        {
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+        },
+        {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
           "headline": "Multiple people shot at 'large' party in California, sheriff's office says",
           "summary": "Officials said a call about a shooting in Strathmore came in at about 7:40 p.m.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/multiple-people-shot-large-party-california-sheriffs-office/story?id=138356134"
         },
         {
-          "headline": "UN climate conference ends without deal as countries clash over fossil fuels, finance",
-          "summary": "Participating nations in the U.N. COP31 climate conference failed to reach consensus on fossil fuels, finance and other issues.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
-        },
-        {
-          "headline": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-          "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
-        },
-        {
-          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124541489866752189",
+          "created_at": "2026-11-22T16:32:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Lebanese Druze leader Wiam Wahhab:\n\n\"Iran will have to abandon its policy of destroying Israel and cut a deal with America.\n\nMuslims need an agenda other than killing, raping, and conquering Rome.\n\nWe can no longer act like cavemen.\" https://t.co/O8O08mVE2K",
+          "url": "https://x.com/i/status/2124541489866752189",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124540782568788074",
+          "created_at": "2026-11-22T16:29:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Controlled demolition by the IDF in Kfar Tebnit, Lebanon. https://t.co/2RbJIABb3Y",
+          "url": "https://x.com/i/status/2124540782568788074",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124539944630710528",
+          "created_at": "2026-11-22T16:26:09.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Abdul El-Sayed:\n\n\"I'm saying that I don't believe in ethnostates. You and I are both Americans.\n\nWe dignify the fact that though our skin color might be different, we pray different ways, that American laws respect us the same.\n\nThe idea that any government that we are supporting https://t.co/CqSWkIEJGv",
+          "url": "https://x.com/i/status/2124539944630710528",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124539335706059087",
+          "created_at": "2026-11-22T16:23:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Axios: Ukraines SBU work https://t.co/SXrabR41mB",
+          "url": "https://x.com/i/status/2124539335706059087",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124538071286747577",
           "created_at": "2026-11-22T16:18:42.000Z",
@@ -109,26 +149,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124533626763145602",
-          "created_at": "2026-11-22T16:01:03.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Highly possible this is a U.S. strike on an Iranian vessel attempting to break the U.S. blockade. \n\nWaiting for CENTCOM confirmation. \n\nIran promised a retaliation on gulf infrastructure, if their ships are attacked. https://t.co/OdADo5Fldf",
-          "url": "https://x.com/i/status/2124533626763145602",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124532985147826214",
-          "created_at": "2026-11-22T15:58:30.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Incident on Iran side of Hormuz. Interesting https://t.co/kSfjBK0zEM",
-          "url": "https://x.com/i/status/2124532985147826214",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124528759395029267",
           "created_at": "2026-11-22T15:41:42.000Z",
           "author_name": "The Kobeissi Letter",
@@ -145,16 +165,6 @@
           "author_handle": "ClayTravis",
           "text": "20,000 votes so far. Keep the votes coming. Will Big 12 get three playoff bids and Big Ten only get one? That’s BYU vs Indiana debate to me. https://t.co/XxarPiYXJI",
           "url": "https://x.com/i/status/2124521826810257735",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124516588133204403",
-          "created_at": "2026-11-22T14:53:20.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump:\n\nOPEN BORDERS DESTROY NATIONS! The USA was very close to being one of them until I came along! https://t.co/ZmM9qmAzfb",
-          "url": "https://x.com/i/status/2124516588133204403",
           "verified": true,
           "verified_type": "blue"
         },
@@ -177,16 +187,6 @@
           "url": "https://x.com/i/status/2124511538773970999",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124510816242471178",
-          "created_at": "2026-11-22T14:30:24.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IDF: About 70% of those wounded in the past 3 years are back in service. https://t.co/4Qj5Jp9dYg",
-          "url": "https://x.com/i/status/2124510816242471178",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124507694384210010",
@@ -669,6 +669,26 @@
           "verified_type": "blue"
         },
         {
+          "id": "2124014140133941266",
+          "created_at": "2026-11-21T05:36:47.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "lol https://t.co/hZ0dW0iM1n",
+          "url": "https://x.com/i/status/2124014140133941266",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123944496018731120",
+          "created_at": "2026-11-21T01:00:03.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Mamdani To CLOSE Rikers, Open 4 NEW PRISONS, Dems FOOLED\n\nw/ @TheBrianShapiro @IanCrossland @rebekazeljko @realTateBrown @Lisaelizabeth https://t.co/qJD6oqcWrs",
+          "url": "https://x.com/i/status/2123944496018731120",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2123925413038895307",
           "created_at": "2026-11-20T23:44:13.000Z",
           "author_name": "Glenn Beck",
@@ -765,10 +785,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -781,12 +807,6 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
-        },
-        {
-          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
         },
         {
           "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
@@ -837,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Tom Jackson, former Broncos star and 'Sunday NFL Countdown' analyst, dead at 75",
-          "summary": "Tom Jackson, who played 14 seasons for the Denver Broncos before a 32-year career as an analyst for ESPN has died, his family and ESPN announced Sunday. He was 75.",
+          "headline": "Cardinals’ Sudden QB Development Paves Way for Potential Start of 15-Team NFL Vet",
+          "summary": "The Arizona Cardinals appear to have another quarterback issue to deal with . Rookie Carson Beck got his first career NFL start in Week 10 against the Los Angeles Rams, but he could miss this coming Sunday’s matchup against the Kansas City Chiefs at Arrowhead Stadium because of an upper-body issue, according to head coach Mike LaFleur.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tom-jackson-former-broncos-star-161757341.html"
+          "url": "https://sports.yahoo.com/articles/cardinals-sudden-qb-development-paves-163415050.html"
         },
         {
-          "headline": "Report: Davante Adams 'a long shot' to play vs. Chiefs in Week 13",
-          "summary": "The Los Angeles Rams may have to play another two games without Davante Adams. Sean McVay once again left the door open for Adams to return in Week 13 against the Kansas City Chiefs, but it sounds like that's an overly optimistic timeline.",
+          "headline": "Bengals WR Ja’Marr Chase’s Message to Tee Higgins is a Blunt Warning to The Rest of The NFL",
+          "summary": "The Cincinnati Bengals appear to be getting scarier each passing week. They got even more attention in Week 10, when they pummeled Aaron Rodgers and the Pittsburgh Steelers for a 38-18 win at Paycor Stadium in Cincinnati.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/report-davante-adams-long-shot-161502270.html"
+          "url": "https://sports.yahoo.com/articles/bengals-wr-ja-marr-chase-163351440.html"
         },
         {
-          "headline": "Why the Daniel Jones release looks even worse for Colts after reported Ravens offer",
-          "summary": "Indianapolis reportedly rejected a trade offer from Baltimore at the deadline, only to release its $88 million quarterback two weeks later",
+          "headline": "Week 11 NFL odds, picks: Brinson's best bets, player props, anytime TD scorers for Sunday",
+          "summary": "Steer clear of bloated double-digit spreads, grab the extra points with Philadelphia, and count on Dak Prescott to clear his passing total in a shootout",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/daniel-jones-release-colts-qb-ravens-nfl-trade-deadline/"
+          "url": "https://www.cbssports.com/betting/news/week-11-nfl-odds-picks-brinsons-best-bets-player-props-anytime-td-scorers-for-sunday/"
         },
         {
-          "headline": "NFL week 11 anytime TD best bets: There's value on Mark Andrews and a Tony Pollard revenge game",
-          "summary": "Tony Pollard faces his former team, Justin Jefferson reunites with Kirk Cousins on an international stage and Josh Downs makes his Chiefs home debut",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-anytime-td-best-bets-mark-andrews/"
-        },
-        {
-          "headline": "PSG's Doue to have surgery on ruptured ACL",
-          "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
+          "headline": "Spurs 'a match for anyone' as European hopes boosted",
+          "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks by proven model",
+          "summary": "SportsLine's model has revealed its Minnesota Vikings vs. San Francisco 49ers picks for 'Sunday Night Football' matchup in Mexico City",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/vikings-49ers-prediction-odds-time-spread-2026-sunday-night-football-mexico-city-picks/"
         }
       ]
     },
@@ -909,6 +929,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
+          "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/"
+        },
+        {
           "headline": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
           "summary": "The BBC has apologized to viewers after lewd noises could be heard during the Strictly Come Dancing live show at Blackpool’s Tower Ballroom. A recording of sex noises appeared to be played from the audience as Strictly judge Motsi Mabuse delivered her remarks about the performance of Delta Goodrem and partner Kai Widdrington.",
           "source": "Deadline",
@@ -925,12 +951,6 @@
           "summary": "Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film’s titular hero, […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/"
-        },
-        {
-          "headline": "‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
-          "summary": "While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart Nickerson explained that they didn’t want to “run the risk of overstaying our welcome” with another season when […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
         },
         {
           "headline": "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
@@ -1013,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T11:21:29-05:00"
+  "updatedAt": "2026-11-22T11:42:28-05:00"
 }
