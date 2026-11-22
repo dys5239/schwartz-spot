@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-          "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "The red card that changed Liverpool-Man Utd: correct call?",
-          "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Delta Air Lines hit with delays amid baggage network system issue",
-          "summary": "The Delta Air Lines delays are most impacting flights in and out of Hartsfield-Jackson Atlanta International Airport in Georgia.",
+          "headline": "Microsoft's Brad Smith on recent outages, including his own company's",
+          "summary": "Microsoft Vice Chair and President Brad Smith spoke with Margaret Brennan about the recent increase in tech outages, including his own company's from Nov. 12-14.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/delta-air-lines-nationwide-delays-amid-baggage-network-system-issue/"
+          "url": "https://www.cbsnews.com/video/microsofts-brad-smith-on-recent-outages-including-his-own-companys/"
         },
         {
-          "headline": "Cybersecurity experts break down recent tech outages, and share ways you can protect yourself",
-          "summary": "A panel of experts, including CBS News' cybersecurity expert and analyst Chris Krebs, CBS News national security contributor Samantha Vinograd, and co-founder and former chief technology officer of CrowdStrike, Dmitri Alperovitch, breaks down recent outages.",
+          "headline": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+          "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Russian warship struck by suspected Ukrainian drones at Libya naval base",
+          "summary": "Libyan officials say a suspected Ukrainian drone strike has hit a Russian warship at a naval base in Libya.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/cybersecurity-experts-break-down-recent-tech-outages-and-share-ways-you-can-protect-yourself/"
+          "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
+        },
+        {
+          "headline": "COP31 climate talks fail to reach major deal amid deep divisions",
+          "summary": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
@@ -79,52 +79,92 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124566921060200727",
-          "created_at": "2026-11-22T18:13:21.000Z",
+          "id": "2124573314643615855",
+          "created_at": "2026-11-22T18:38:45.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Israel is preparing for the possibility that the U.S. could strike Iran without Israeli involvement in the initial phase, Israel’s Channel 14 reports. Israel would decide later whether and when to join the strikes.\n\nOfficials in Jerusalem increasingly believe Washington has",
-          "url": "https://x.com/i/status/2124566921060200727",
+          "text": "Russian fuel tanker hit by a Ukrainian drone on the R-280 highway. Massive secondary explosion.\n\nThe R-280 is the last overland route into Crimea since the Crimean Bridge road span was destroyed. https://t.co/KY5AY1Bky8",
+          "url": "https://x.com/i/status/2124573314643615855",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124566665409270097",
-          "created_at": "2026-11-22T18:12:20.000Z",
+          "id": "2124573315289485749",
+          "created_at": "2026-11-22T18:38:45.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Dallas Cowboys taking it ALL the way back to 1920! https://t.co/PObAcnmS0h",
+          "url": "https://x.com/i/status/2124573315289485749",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124572145472987232",
+          "created_at": "2026-11-22T18:34:06.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "System issues have delayed all Delta flights arriving at and departing from Atlanta.",
-          "url": "https://x.com/i/status/2124566665409270097",
+          "text": "Russia's corvette Merkury sits destroyed and partially sunk at Benghazi port in Libya. Ukraine hit it with an unmanned surface drone last night.\n\n-Vantor tech https://t.co/oPET4aEJiF",
+          "url": "https://x.com/i/status/2124572145472987232",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124566431215808980",
-          "created_at": "2026-11-22T18:11:24.000Z",
+          "id": "2124571056241299796",
+          "created_at": "2026-11-22T18:29:47.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Catch this week's Faith &amp; Freedom Show With @ShemaneNugent today at 2PM ET. Check out the preview reel! https://t.co/RfE57wnd0Z",
+          "url": "https://x.com/i/status/2124571056241299796",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124570852033515522",
+          "created_at": "2026-11-22T18:28:58.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "New York Post: Some Gen Z users are ditching vapes for cigarettes, calling them a \"plant-based alternative.\"",
-          "url": "https://x.com/i/status/2124566431215808980",
+          "text": "Footage filmed from a Libyan National Army Air Force helicopter shows a Ukrainian surface drone hitting a Russian military-linked cargo vessel off Benghazi earlier. https://t.co/HYPHSpQirR",
+          "url": "https://x.com/i/status/2124570852033515522",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124566381945663574",
-          "created_at": "2026-11-22T18:11:12.000Z",
+          "id": "2124570203757465969",
+          "created_at": "2026-11-22T18:26:23.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "NYP cover  https://t.co/qmNtHdfZGK",
-          "url": "https://x.com/i/status/2124566381945663574",
+          "text": "David's Sling, Israel's system for intercepting drones and heavy missiles, was upgraded to counter a wide range of ballistic threats and hold up through weeks of sustained attacks, according to Bloomberg. Each Stunner interceptor costs about $1 million. A U.S. PAC-3 costs more https://t.co/qVaqlDd7jI",
+          "url": "https://x.com/i/status/2124570203757465969",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124565738866487773",
-          "created_at": "2026-11-22T18:08:39.000Z",
+          "id": "2124570153165762561",
+          "created_at": "2026-11-22T18:26:11.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Travis Kelce cementing his place among the greatest tight ends EVER! 🐐 https://t.co/VuUzkFjefG",
+          "url": "https://x.com/i/status/2124570153165762561",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124569529116225607",
+          "created_at": "2026-11-22T18:23:42.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Ravens already cooking up trick plays🔥 https://t.co/9RWDWsyIJu",
+          "url": "https://x.com/i/status/2124569529116225607",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124568461347312118",
+          "created_at": "2026-11-22T18:19:28.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Kan Israel: U.S. is rotating the F-35 fighter jets stationed at Ovda Air Base.\n\n“No immediate action in Iran is expected. The Americans are preparing for an extended stay in the region.”",
-          "url": "https://x.com/i/status/2124565738866487773",
+          "text": "Off the coast of Benghazi, Libya, this evening: a Ukrainian naval drone slams directly into a Russian cargo ship. https://t.co/MuXgznCbqq",
+          "url": "https://x.com/i/status/2124568461347312118",
           "verified": true,
           "verified_type": "blue"
         },
@@ -339,16 +379,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124499388978602442",
-          "created_at": "2026-11-22T13:45:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Privateers vs. Buccaneers vs. Pirates: What's the Difference?\n\n@BillFederer joins @aubreysamerica to discuss the difference between privateers, buccaneers, and pirates, as well as Queen Elizabeth's involvement. https://t.co/3TmE8NEBOo",
-          "url": "https://x.com/i/status/2124499388978602442",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124488071626293410",
           "created_at": "2026-11-22T13:00:02.000Z",
           "author_name": "Sport & State",
@@ -559,16 +589,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124312384063799374",
-          "created_at": "2026-11-22T01:21:54.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Oh hell yeah https://t.co/tPffeHcl41",
-          "url": "https://x.com/i/status/2124312384063799374",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124301863269060869",
           "created_at": "2026-11-22T00:40:06.000Z",
           "author_name": "StockMarket.News",
@@ -577,26 +597,6 @@
           "url": "https://x.com/i/status/2124301863269060869",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124299777013895395",
-          "created_at": "2026-11-22T00:31:49.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "The hate for Lane is real from Vols fans\n\nGolf balls and mustard have hit the LSU sideline  https://t.co/hCuHSqLeIX",
-          "url": "https://x.com/i/status/2124299777013895395",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124298952254107976",
-          "created_at": "2026-11-22T00:28:32.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "MICHIGAN STUNS UCLA  https://t.co/q5wEz9PxKB",
-          "url": "https://x.com/i/status/2124298952254107976",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124286765871911255",
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
+        },
+        {
           "headline": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
           "summary": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
           "source": "CBS News",
@@ -807,12 +813,6 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
-        },
-        {
-          "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
-          "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         }
       ]
     },
@@ -820,6 +820,12 @@
       "id": "economy",
       "title": "Economy",
       "stories": [
+        {
+          "headline": "Issue with automation system causes Delta flight delays in Atlanta",
+          "summary": "An issue with Delta Air Lines’ weight and balance automation system was causing flight delays Sunday at its hub in Atlanta and nationwide",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/issue-automation-system-causes-delta-flight-delays-atlanta-138361125"
+        },
         {
           "headline": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
           "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
@@ -843,12 +849,6 @@
           "summary": "In California, more than 1,300 small kitchens are licensed to make and sell food. These MEHKOs (short for \"micro enterprise home kitchen operations\") are run out of homes, allowing home chefs to turn family recipes into culinary passion projects.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/home-cooked-meals-to-go/"
-        },
-        {
-          "headline": "Taking on credit card debt to buy food",
-          "summary": "According to a recent survey, about 35% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/"
         }
       ]
     },
@@ -857,28 +857,28 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Stonington wins first CIAC Class S girls soccer championship, beating Old Saybrook in overtime",
+          "summary": "Stonington players celebrate after defeating Old Saybrook in the CIAC Class S girls soccer final at Trinity Health Stadium in Hartford, Conn., Sunday, November 22, 2026. (Dave Zajac/Hearst Connecticut Media) HARTFORD - Hanna Drake scored in the frst overtime period to lead No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/stonington-wins-first-ciac-class-184208400.html"
+        },
+        {
+          "headline": "Wisconsin and Minnesota receive Week 12 US LBM Coaches Poll votes",
+          "summary": "Both the Wisconsin Badgers and Minnesota Golden Gophers appeared in the Week 12 US LBM Coaches Poll . Published on Sunday, Nov.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/wisconsin-minnesota-receive-week-12-184014540.html"
+        },
+        {
           "headline": "Coaches Poll top 25: Texas, Tennessee climb; UCLA, Indiana tumble in college football rankings",
           "summary": "Big Ten chaos has a couple of the league's contenders in CFP peril, while a pair of SEC teams jumped after big wins on Saturday",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/college-football-rankings-coaches-poll-top-25-week-13-2026/"
         },
         {
-          "headline": "Five Big 12 teams ranked in US LBM Coaches Poll after Week 12 games",
-          "summary": "Colorado lost its seventh game of the season Saturday to Cincinnati, which eliminated the Buffaloes from bowl contention and moved their record to 4-7 (2-6 Big 12). CU is far from earning a place in the latest US LBM Coaches Poll .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/five-big-12-teams-ranked-181522181.html"
-        },
-        {
           "headline": "Bengals vs. Commanders prediction, odds, time: NFL Week 11 'Monday Night Football' picks by proven model",
           "summary": "SportsLine's model has revealed its Cincinnati Bengals vs. Washington Commanders picks for 'Monday Night Football' matchup",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/betting/news/bengals-commanders-prediction-odds-time-nfl-week-11-monday-night-football-picks/"
-        },
-        {
-          "headline": "Where Missouri football was ranked in top 25 polls after Kentucky win",
-          "summary": "Mizzou is ranked in the coaches poll again one week after dropping out of the top 25 for the first time this season. After beating Kentucky 28-14 on Saturday on Faurot Field behind an excellent red-zone defense and a superb performance from quarterback Austin Simmons , Missouri football checked in at No.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/where-missouri-football-ranked-top-181128739.html"
         },
         {
           "headline": "'Russell is living rent free in Verstappen's head!'",
@@ -929,22 +929,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Sheila Mangubat, ’90 Day Fiancé: Before the 90 Days’ Star, Dies at 35",
+          "summary": "Sheila Mangubat, who appeared on the reality series “90 Day Fiancé: Before the 90 Days,” has died. She was 35.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/people-news/sheila-mangubat-dead-90-day-fiance-1236955340/"
+        },
+        {
           "headline": "Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75",
           "summary": "Tom Jackson, former Denver Broncos linebacker and a Hall of Fame ESPN analyst, died Friday. He was 75.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/people-news/tom-jackson-dead-espn-analyst-denver-broncos-1236955322/"
-        },
-        {
-          "headline": "How Oobah Butler Scammed His Way to HBO",
-          "summary": "I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998/"
-        },
-        {
-          "headline": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
-          "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/"
         },
         {
           "headline": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
@@ -957,6 +951,12 @@
           "summary": "While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart Nickerson explained that they didn’t want to “run the risk of overstaying our welcome” with another season when […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
+        },
+        {
+          "headline": "How Oobah Butler Scammed His Way to HBO",
+          "summary": "I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998/"
         }
       ]
     },
@@ -1001,8 +1001,8 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game ‘With No Hesitation’",
-          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. A short video of the precious moment from Saturday night’s (Nov.",
+          "headline": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game, ‘With No Hesitation’",
+          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. Related Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips’ Wayne Coyne ‘Only Murders in the Building’ Season 6 Trailer Arrives With Loads of British Stars,…",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/"
         },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T13:17:22-05:00"
+  "updatedAt": "2026-11-22T13:45:47-05:00"
 }
