@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
           "summary": "Hundreds of Delta Air Lines flights in and out of Atlanta's Hartsfield-Jackson Atlanta International Airport were delayed on Sunday due to a technical issue.",
           "source": "ABC News",
@@ -54,22 +66,10 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Transcript: Brad Smith, Microsoft president and vice chair, on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "The following is the transcript of the interview with Microsoft president and vice chair Brad Smith that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/transcript-brad-smith-microsoft-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
-        },
-        {
           "headline": "Bessent: We \"need answers\" on Nvidia role in sending China AI chips",
           "summary": "Treasury Secretary Scott Bessent says the government wants to know if Nvidia had \"malicious actors down at the bottom of the company who were responsible for the noncompliance\" with chip export controls.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
-        },
-        {
-          "headline": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-          "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124586211666747464",
+          "created_at": "2026-11-22T19:30:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "The Kobeissi Letter for the week of November 23rd has been published and may be viewed through the link below:\n\nhttps://t.co/9c65UCffkW\n\nThe Chart of the Week for the week of November 23rd has been published. View or sign up for FREE through the link below:",
+          "url": "https://x.com/i/status/2124586211666747464",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124586000139858296",
+          "created_at": "2026-11-22T19:29:09.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Why did Joe Milton make zero effort to recover his fumble?  https://t.co/iDB2SShxOB",
+          "url": "https://x.com/i/status/2124586000139858296",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124584744025227635",
+          "created_at": "2026-11-22T19:24:10.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Three Russian Kh-101 cruise missiles hit eastern Poland Friday during a strike on Ukraine, Polish officials confirmed.\n\nNATO holds an emergency meeting Monday.",
+          "url": "https://x.com/i/status/2124584744025227635",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124583857269752260",
+          "created_at": "2026-11-22T19:20:39.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "GTA6 genuinely is worse than GTA5",
+          "url": "https://x.com/i/status/2124583857269752260",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124583854962855980",
+          "created_at": "2026-11-22T19:20:38.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The Titans look like a JV team playing varsity today. This is an embarrassing effort from an embarrassing franchise. The Cowboys can score as many as they want to score today.",
+          "url": "https://x.com/i/status/2124583854962855980",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124583151884501214",
+          "created_at": "2026-11-22T19:17:50.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The latest AP top 25 is out. Still bonkers the Vols are behind the Tide, but good shot that ends by next week. Alabama has zero top 25 wins. I’d bet the playoff committee will fight to keep Kentucky ranked for this reason. https://t.co/CuInN1upAt",
+          "url": "https://x.com/i/status/2124583151884501214",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124582521459597585",
+          "created_at": "2026-11-22T19:15:20.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Russia is continuing its investigation into the targeting of the ship together with authorities in Benghazi, according to Al-Hadath's correspondent in Moscow. https://t.co/hL0uCbpLhV",
+          "url": "https://x.com/i/status/2124582521459597585",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124582024854094117",
+          "created_at": "2026-11-22T19:13:22.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Yesterday Tennessee quarterback George McIntyre’s knee was so bad he was only supposed to be used in emergency circumstances. He could barely practice. After the Vols fell behind early Josh Heupel went to McIntyre and asked if he could go. McIntyre gutted it out on adrenaline.",
+          "url": "https://x.com/i/status/2124582024854094117",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124581732988965045",
+          "created_at": "2026-11-22T19:12:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NOW: Initial reports of air Defense activity above Sirik, Hormozgan Province of southern Iran.\n\nContributed by: @BeamTracker_ https://t.co/nwVmvL38wg",
+          "url": "https://x.com/i/status/2124581732988965045",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124581678702043227",
+          "created_at": "2026-11-22T19:11:59.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP BLAMES DEMOCRATS FOR $6 TRILLION MARKET WIPEOUT!\n\nPresident Trump claims markets have lost more than $6 TRILLION since Democrats’ November 3 election victory, with the NASDAQ down 20%.\n\nHe blames their “Anti Growth, and Retribution Only” policies and warns things could get https://t.co/z6RljIKwWK",
+          "url": "https://x.com/i/status/2124581678702043227",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124581391572562217",
+          "created_at": "2026-11-22T19:10:51.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Lebanon's Education Minister Rima Karami condemned an IDF Arabic spokeswoman video filmed inside a middle school in Debel, south Lebanon.\n\nKarami: The visit happened over a month ago without her knowledge and violated the Geneva Conventions. https://t.co/no90VqUktt",
+          "url": "https://x.com/i/status/2124581391572562217",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124581225905971617",
           "created_at": "2026-11-22T19:10:11.000Z",
@@ -149,16 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124572145472987232",
-          "created_at": "2026-11-22T18:34:06.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russia's corvette Merkury sits destroyed and partially sunk at Benghazi port in Libya. Ukraine hit it with an unmanned surface drone last night.\n\n-Vantor tech https://t.co/oPET4aEJiF",
-          "url": "https://x.com/i/status/2124572145472987232",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124571056241299796",
           "created_at": "2026-11-22T18:29:47.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -167,26 +267,6 @@
           "url": "https://x.com/i/status/2124571056241299796",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124570852033515522",
-          "created_at": "2026-11-22T18:28:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Footage filmed from a Libyan National Army Air Force helicopter shows a Ukrainian surface drone hitting a Russian military-linked cargo vessel off Benghazi earlier. https://t.co/HYPHSpQirR",
-          "url": "https://x.com/i/status/2124570852033515522",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124570203757465969",
-          "created_at": "2026-11-22T18:26:23.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "David's Sling, Israel's system for intercepting drones and heavy missiles, was upgraded to counter a wide range of ballistic threats and hold up through weeks of sustained attacks, according to Bloomberg. Each Stunner interceptor costs about $1 million. A U.S. PAC-3 costs more https://t.co/qVaqlDd7jI",
-          "url": "https://x.com/i/status/2124570203757465969",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124570153165762561",
@@ -209,16 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124568461347312118",
-          "created_at": "2026-11-22T18:19:28.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Off the coast of Benghazi, Libya, this evening: a Ukrainian naval drone slams directly into a Russian cargo ship. https://t.co/MuXgznCbqq",
-          "url": "https://x.com/i/status/2124568461347312118",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124563505936208298",
           "created_at": "2026-11-22T17:59:46.000Z",
           "author_name": "Laura Loomer",
@@ -235,16 +305,6 @@
           "author_handle": "ClayTravis",
           "text": "RIP Tom Jackson, NFL Primetime was must see TV when I was a kid. He and Chris Berman were the soundtrack of my NFL childhood’s sports highlights.",
           "url": "https://x.com/i/status/2124562784138514586",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124562447491039609",
-          "created_at": "2026-11-22T17:55:34.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "In the event of a three way tie between Texas, Tennessee and Alabama at 10-2 overall, 7-2 in conference, Texas is most likely to win the final tie break and advance to play Georgia. (I would imagine many fans would prefer to take the week off and get healthier.)",
-          "url": "https://x.com/i/status/2124562447491039609",
           "verified": true,
           "verified_type": "blue"
         },
@@ -329,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124545958864474602",
-          "created_at": "2026-11-22T16:50:03.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The college football picks were on fire again yesterday. Let’s keep things rolling with the NFL today. Six winners for Sunday with @HardRockBet. https://t.co/9B1mKWflO5",
-          "url": "https://x.com/i/status/2124545958864474602",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124538071286747577",
           "created_at": "2026-11-22T16:18:42.000Z",
           "author_name": "Tim Pool",
@@ -359,52 +409,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124528759395029267",
-          "created_at": "2026-11-22T15:41:42.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The 10Y Note yield has traded above 5.00% for 27 trading days so far in 2026, the longest streak for any year since 2007.\n\nLast week, the 10Y Note yield surged +29 basis points, moving back above 5.00% and marking its largest weekly increase since April 2025.\n\nThe 10Y https://t.co/Uw2HWcfEPA",
-          "url": "https://x.com/i/status/2124528759395029267",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124521826810257735",
-          "created_at": "2026-11-22T15:14:09.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "20,000 votes so far. Keep the votes coming. Will Big 12 get three playoff bids and Big Ten only get one? That’s BYU vs Indiana debate to me. https://t.co/XxarPiYXJI",
-          "url": "https://x.com/i/status/2124521826810257735",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124512527014854990",
           "created_at": "2026-11-22T14:37:12.000Z",
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Societies collapse when old men tear down trees so that no one will have shade to sit beneath https://t.co/n7fTvmgEP9",
           "url": "https://x.com/i/status/2124512527014854990",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124507694384210010",
-          "created_at": "2026-11-22T14:18:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Who's To Blame For The U.S. Losing Its 'MEASLE ELIMINATION STATUS'? 🤔⚕️",
-          "url": "https://x.com/i/status/2124507694384210010",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124507637777838273",
-          "created_at": "2026-11-22T14:17:46.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "So many left winger’s have broken brains. https://t.co/MQyfYKXQdc",
-          "url": "https://x.com/i/status/2124507637777838273",
           "verified": true,
           "verified_type": "blue"
         },
@@ -659,36 +669,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124178767861920170",
-          "created_at": "2026-11-21T16:30:58.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "What if it was a bomb they found and they are covering it up https://t.co/BrrtOVuIxI",
-          "url": "https://x.com/i/status/2124178767861920170",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124014140133941266",
-          "created_at": "2026-11-21T05:36:47.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "lol https://t.co/hZ0dW0iM1n",
-          "url": "https://x.com/i/status/2124014140133941266",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123944496018731120",
-          "created_at": "2026-11-21T01:00:03.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Mamdani To CLOSE Rikers, Open 4 NEW PRISONS, Dems FOOLED\n\nw/ @TheBrianShapiro @IanCrossland @rebekazeljko @realTateBrown @Lisaelizabeth https://t.co/qJD6oqcWrs",
-          "url": "https://x.com/i/status/2123944496018731120",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123925413038895307",
           "created_at": "2026-11-20T23:44:13.000Z",
           "author_name": "Glenn Beck",
@@ -857,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "AP Top 25: UCLA drops to No. 10, Indiana falls to No. 12 after Week 12 losses",
-          "summary": "The Big Ten’s top team in the AP Top 25 is at No. 10.",
+          "headline": "Bills lead Dolphins 20-6 at halftime",
+          "summary": "The Bills have a big game against the Chiefs on Thanksgiving night, but they haven't gotten caught looking ahead against the Dolphins this Sunday. Josh Allen hit wide receiver DJ Moore for a touchdown and running back James Cook ran for another score as the Bills extended their lead to 20-3 in the second quarter.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/breaking-news/article/ap-top-25-ucla-drops-to-no-10-indiana-falls-to-no-12-after-week-12-losses-190414501.html"
+          "url": "https://sports.yahoo.com/articles/bills-lead-dolphins-20-6-193636438.html"
         },
         {
-          "headline": "Pochettino on 'painful' defeat in first game as Man Utd boss",
-          "summary": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign.",
+          "headline": "Alcaraz outplays Zverev for first ATP Finals triumph",
+          "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Bears lead Saints 16-10 at halftime",
+          "summary": "The Saints have put some pressure on the Bears, but Chicago still has a 16-7 lead over New Orleans at halftime. Chicago took a 16-0 lead with a Cairo Santos 41-yard field goal, a 3-yard touchdown reception from D’Andre Swift, and a 15-yard scoring strike from Caleb Williams to Colston Loveland.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/bears-lead-saints-16-10-193500879.html"
+        },
+        {
+          "headline": "Iraola 'enjoyed' big win over Man Utd",
+          "summary": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 run",
           "summary": "R.J. White reveals his picks for Minnesota Vikings vs.",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks/"
-        },
-        {
-          "headline": "Tennessee football AP Poll top 25 ranking after LSU win",
-          "summary": "Week 12 of the 2026 college football season has concluded. Tennessee (9-2, 6-2 SEC) defeated LSU (6-5, 3-5 SEC), 27-13, at Neyland Stadium in Week 12.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tennessee-football-ap-poll-top-190053715.html"
-        },
-        {
-          "headline": "Welcome to Manchester United: Mauricio Pochettino faces grim reality after collapse against Liverpool",
-          "summary": "A humiliating 4-0 defeat at Liverpool quickly exposed Manchester United's glaring defensive flaws and showed the new manager the massive scale of the rebuild ahead at Old Trafford",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/"
         }
       ]
     },
@@ -929,6 +909,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Resurgent ‘Hunger Games’ goes big at box office, despite 'Grand Theft Auto VI'",
+          "summary": "\"Sunrise on the Reaping” debuted with estimated $120 million in North America.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/resurgent-hunger-games-big-box-office-despite-competition-138361740"
+        },
+        {
           "headline": "Sheila Mangubat, ’90 Day Fiancé: Before the 90 Days’ Star, Dies at 35",
           "summary": "Sheila Mangubat, who appeared on the reality series “90 Day Fiancé: Before the 90 Days,” has died. She was 35.",
           "source": "Variety",
@@ -951,12 +937,6 @@
           "summary": "While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart Nickerson explained that they didn’t want to “run the risk of overstaying our welcome” with another season when […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
-        },
-        {
-          "headline": "How Oobah Butler Scammed His Way to HBO",
-          "summary": "I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998/"
         }
       ]
     },
@@ -1033,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T14:12:06-05:00"
+  "updatedAt": "2026-11-22T14:41:32-05:00"
 }
