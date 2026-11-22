@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
-          "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
-        },
-        {
-          "headline": "Boss of British Gas owners Centrica 'hugely concerned' over impact of soaring energy bills",
-          "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
           "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
         },
         {
-          "headline": "BBC apologises after noise disruption during Strictly",
-          "summary": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss"
+          "headline": "Home-cooked meals, to go",
+          "summary": "In California, more than 1,300 small kitchens are licensed to make and sell food. These MEHKOs (short for \"micro enterprise home kitchen operations\") are run out of homes, allowing home chefs to turn family recipes into culinary passion projects.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/home-cooked-meals-to-go/"
         },
         {
-          "headline": "It's Medicare open enrollment time. Here's what you need to know",
-          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027"
+          "headline": "DNI Clayton: Putin is ‘not America’s friend in Ukraine’",
+          "summary": "The director of national intelligence appeared on ABC's \"This Week\" Sunday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905"
+        },
+        {
+          "headline": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+          "summary": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+          "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -79,14 +79,64 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124505496224698683",
-          "created_at": "2026-11-22T14:09:16.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Who's to blame for the U. S. losing it's 'MEASLE ELIMINATION STATUS'? 🤔",
-          "url": "https://x.com/RealAmVoice/status/2124505496224698683",
+          "id": "2124512527014854990",
+          "created_at": "2026-11-22T14:37:12.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Societies collapse when old men tear down trees so that no one will have shade to sit beneath https://t.co/n7fTvmgEP9",
+          "url": "https://x.com/Timcast/status/2124512527014854990",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124511538773970999",
+          "created_at": "2026-11-22T14:33:17.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Prices of imported computers and semiconductors are skyrocketing:\n\nUS import prices for computers, peripherals, and semiconductors surged +26.5% YoY in October, their largest annual increase on record in data going back to the 1990s.\n\nThis also marks the 7th consecutive YoY https://t.co/9IxBDGqNIs",
+          "url": "https://x.com/KobeissiLetter/status/2124511538773970999",
           "verified": true,
           "verified_type": "business"
+        },
+        {
+          "id": "2124510816242471178",
+          "created_at": "2026-11-22T14:30:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IDF: About 70% of those wounded in the past 3 years are back in service. https://t.co/4Qj5Jp9dYg",
+          "url": "https://x.com/Osint613/status/2124510816242471178",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124507694384210010",
+          "created_at": "2026-11-22T14:18:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Who's To Blame For The U.S. Losing Its 'MEASLE ELIMINATION STATUS'? 🤔⚕️",
+          "url": "https://x.com/RealAmVoice/status/2124507694384210010",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124507637777838273",
+          "created_at": "2026-11-22T14:17:46.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "So many left winger’s have broken brains. https://t.co/MQyfYKXQdc",
+          "url": "https://x.com/ClayTravis/status/2124507637777838273",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124507520794239315",
+          "created_at": "2026-11-22T14:17:19.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Eastern Libya's government suspects a drone attack caused last night's explosion at the naval base in Benghazi.\n\nA preliminary investigation found the blast took place aboard a Russian ship docked in the city's port. The vessel had stopped in Benghazi to refuel and take on https://t.co/CF5GIdHFQv",
+          "url": "https://x.com/Osint613/status/2124507520794239315",
+          "verified": true,
+          "verified_type": "blue"
         },
         {
           "id": "2124503836760912119",
@@ -167,26 +217,6 @@
           "url": "https://x.com/RealAmVoice/status/2124495614348021897",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124494388420071436",
-          "created_at": "2026-11-22T13:25:08.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Theresa May:\n\n\"There's a question that nobody ever really asks in this debate, which is: what is the EU of the future?\n\nBecause the EU of today is not the same as the EU that we left.\" https://t.co/fRzNjekc5Z",
-          "url": "https://x.com/Osint613/status/2124494388420071436",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124493739477356786",
-          "created_at": "2026-11-22T13:22:33.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Former UK Prime Minister Theresa May:\n\nI look slightly aghast at what Andy Burnham was talking about, further negotiations about going into the EU.\n\nMy message to him really is: people voted for Brexit.\n\nBrexit is done. Just accept Brexit and move on.\n\nReverse before you go any https://t.co/lLWenB1Fpe https://t.co/0xlw5TaT4A",
-          "url": "https://x.com/Osint613/status/2124493739477356786",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124493051070710121",
@@ -355,16 +385,6 @@
           "author_handle": "ClayTravis",
           "text": "Wake Forest beat Georgia Tech so bad that with 12 minutes still left in the game they were breaking down a couple’s argument in the stands. https://t.co/KE0962Km7a",
           "url": "https://x.com/ClayTravis/status/2124374731784913084",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124371527168602278",
-          "created_at": "2026-11-22T05:16:55.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Desean Bishop is lucky to be alive. Love the super late additional head twist on the fall.  https://t.co/jBAEmaQTNP",
-          "url": "https://x.com/ClayTravis/status/2124371527168602278",
           "verified": true,
           "verified_type": "blue"
         },
@@ -589,16 +609,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124282426209775663",
-          "created_at": "2026-11-21T23:22:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Anthropic is sitting on an enormous cash pile:\n\nAnthropic's cash and cash equivalents are up to a record $237 billion following its IPO.\n\nThis comes as its IPO raised $81 billion, with another $26 billion secured through a private placement with selected investors.\n\nBy https://t.co/TbIHNO9W5V",
-          "url": "https://x.com/KobeissiLetter/status/2124282426209775663",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124271707439661114",
           "created_at": "2026-11-21T22:40:16.000Z",
           "author_name": "StockMarket.News",
@@ -719,16 +729,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123824635225448625",
-          "created_at": "2026-11-20T17:03:46.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Zohran just announced they are KEEPING RIKERS OPEN For 5 MORE Years\n\nIts supposed to shutter in less than a year\n\nHe wants to build FOUR MORE JAILS\n\nAND MENTAL ASYLUMS\n\nYou dont have to trust him but this is based https://t.co/t4fDYii76X",
-          "url": "https://x.com/Timcast/status/2123824635225448625",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123787524468625791",
           "created_at": "2026-11-20T14:36:18.000Z",
           "author_name": "Matt Walsh",
@@ -821,19 +821,25 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-          "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+          "headline": "I’ve studied over 200 kids—ditch these 6 parenting habits to avoid raising a people pleaser",
+          "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+          "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
         },
         {
-          "headline": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-          "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
+          "headline": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
+          "summary": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. But Medicare and tax changes will also affect retirees.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html"
+          "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html"
         },
         {
-          "headline": "He expected a small-business loan. It turned out to be a trap",
+          "headline": "Taking on credit card debt to buy food",
+          "summary": "According to a recent survey, about 35% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/"
+        },
+        {
+          "headline": "He expected a small-business loan. He got a 7-year nightmare",
           "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance"
@@ -843,12 +849,6 @@
           "summary": "His family praised his humanity and entrepreneurial talent.",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/paolo-bulgari-italian-jeweler-turned-family-business-global-138350529"
-        },
-        {
-          "headline": "Climate talks in overtime as nations wrestle with response to worsening global warming",
-          "summary": "Negotiators at the United Nations climate talks in Turkey are working an extra day in an attempt to reach a final agreement to address global warming",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Film Review: Miami Hurricanes 28 – Virginia Tech Hokies 20",
-          "summary": "MIAMI GARDENS - NOVEMBER 21: Miami running back Mark Fletcher Jr. (4) celebrates after running for a touchdown in the second quarter as the Miami Hurricanes faced the Virginia Tech Hokies on November 21, 2026, at Hard Rock Stadium in Miami Gardens, FL.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/film-review-miami-hurricanes-28-141004074.html"
-        },
-        {
-          "headline": "Updated Big Ten football standings, title game scenarios, bowl tracker",
-          "summary": "The Big Ten sprinkled in a bit of chaos in Week 12 with its top two teams in the rankings and the Big Ten standings each leaving the door cracked for a wild Big Ten championship game race in the final weekend of the regular season. Losses by UCLA and Indiana means there are still two spots in the Big Ten championship game to fill going into the final…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/updated-big-ten-football-standings-140649409.html"
-        },
-        {
-          "headline": "For 18 years, he spoke to Cleveland's workers on the radio. Now, he's got a podcast",
-          "summary": "For 18 years, Ed \"Flash\" Ferenc co-hosted a morning radio show in Cleveland that spoke especially to the city's blue collar workers. Today, he's still using his voice to reach that same audience.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-5976835/for-18-years-he-spoke-to-clevelands-workers-on-the-radio-now-hes-got-a-podcast"
-        },
-        {
-          "headline": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
-          "summary": "After a decade of postseason heartbreak, the Kansas City Current midfielder scored a stunning olimpico to win the NWSL Championship and claim MVP honors months after returning from maternity leave",
+          "headline": "College football grades: Texas earns 'A' for dominant win, Indiana gets 'D' on Week 12 report card",
+          "summary": "A look at how national championship contenders fared in Week 12 action",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/vanessa-dibernardo-olimpico-nwsl-current-mvp/"
+          "url": "https://www.cbssports.com/college-football/news/college-football-grades-results-week-12-2026-texas-indiana/"
         },
         {
-          "headline": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
-          "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
+          "headline": "Massimiliano Allegri insists ‘extraordinary’ Kevin De Bruyne is fully committed to Napoli amid PSV transfer talk",
+          "summary": "SSC Napoli v FK Bodo/Glimt - UEFA Champions League 2026/27 League Phase MD3 - Getty Images Sport Napoli head coach Massimiliano Allegri has lavished praise on Kevin De Bruyne, labelling the veteran midfielder as \"extraordinary\" despite persistent rumours linking him with a move away from the Stadio Diego Armando Maradona. The Belgian playmaker has been…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/massimiliano-allegri-insists-extraordinary-kevin-143509802.html"
+        },
+        {
+          "headline": "Fantasy football rankings, projections, lineups, sleepers for Week 11 from proven model",
+          "summary": "SportsLine's model reveals its Week 11 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/"
+          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-lineups-projections-sleepers-streamers-start-sit-advice-week-11-2026/"
+        },
+        {
+          "headline": "No. 17 Boise State's shocking home loss to San Diego State virtually guarantees a 2-loss Group of Six team in the College Football Playoff",
+          "summary": "It’s a virtual lock that a team with at least two losses will represent the Group of Six conferences in the College Football Playoff. San Diego State pulled off one of the comebacks of the season late Saturday night in a 22-20 win at No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/college-football/article/no-17-boise-states-shocking-home-loss-to-san-diego-state-virtually-guarantees-a-2-loss-group-of-six-team-in-the-college-football-playoff-143222337.html"
+        },
+        {
+          "headline": "Northern Ireland complete series win over Gibraltar",
+          "summary": "Northern Ireland Warriors beat Gibraltar Campions 71-30 to complete a Test double in Antrim.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/netball/articles/cm04w567x5r5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -893,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
+          "summary": "Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor and Michelin-starred chef and filmmaker Vikas Khanna have come aboard short “The Dragon Letter” as executive producers, and Ladakhi director Stanzin Jigmet tells Variety he is developing a feature version of the Student Academy Award-winning short.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265/"
+        },
+        {
           "headline": "James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’",
           "summary": "When filmmaker James Gray was a teenager, he wrote a fan letter to Francis Ford Coppola. To his surprise, the legendary filmmaker wrote back with a piece of advice that would come to shape Gray’s entire approach to cinema.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238/"
-        },
-        {
-          "headline": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
-          "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW’s partner in Egypt. The agreement is aimed at “identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/"
         },
         {
           "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
@@ -917,10 +917,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
         {
-          "headline": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
-          "summary": "Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film’s titular hero, […]",
+          "headline": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+          "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW’s partner in Egypt. The agreement is aimed at “identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with…",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/"
+          "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/"
         }
       ]
     },
@@ -935,16 +935,16 @@
           "url": "https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/"
         },
         {
+          "headline": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
+          "summary": "Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film’s titular hero, […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/"
+        },
+        {
           "headline": "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
           "summary": "Roughly six songs into their performance on Saturday night, Katseye made a girl group connection with Fifth Harmony member Camila Cabello as Daniela Avanzini brought her out to be the collective’s “Gabriela” for the evening, dancing to the choreography that accompanies the song. Katseye, who performed as a quartet consisting of Avanzini alongside Lara…",
           "source": "Variety",
           "url": "https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210/"
-        },
-        {
-          "headline": "Karla Sofia Gascon Says ‘Emilia Perez’ Oscar Controversy Came From People Who ‘Didn’t Want Someone Like Me to Receive an Award’",
-          "summary": "Spanish actor Karla Sofia Gascon, whose turn in “Emilia Pérez” made her the first transgender actor to land an Oscar nomination, says the controversy that consumed her awards campaign was driven by people who did not want to see someone like her win. “In reality, the controversy was generated by a great many people who […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/karla-sofia-gascon-emilia-perez-oscar-furor-trans-rights-1236955205/"
         },
         {
           "headline": "‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
@@ -953,10 +953,10 @@
           "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
         },
         {
-          "headline": "Jennifer Lopez Teases ‘Monster-in-Law’ Sequel With Jane Fonda: ‘We’re Talking About Maybe Doing Another One’",
-          "summary": "Jennifer Lopez and Jane Fonda might reunite for a “Monster-in-Law” follow-up, the singer and actress teased recently. In a clip from Lopez’s upcoming appearance on “The Drew Barrymore Show,” she reminisced with the host about past projects, including the 2005 rom-com she starred in with Fonda.",
+          "headline": "Karla Sofia Gascon Says ‘Emilia Perez’ Oscar Controversy Came From People Who ‘Didn’t Want Someone Like Me to Receive an Award’",
+          "summary": "Spanish actor Karla Sofia Gascon, whose turn in “Emilia Pérez” made her the first transgender actor to land an Oscar nomination, says the controversy that consumed her awards campaign was driven by people who did not want to see someone like her win. “In reality, the controversy was generated by a great many people who […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/"
+          "url": "https://variety.com/2026/film/festivals/karla-sofia-gascon-emilia-perez-oscar-furor-trans-rights-1236955205/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T09:13:42-05:00"
+  "updatedAt": "2026-11-22T09:41:56-05:00"
 }
