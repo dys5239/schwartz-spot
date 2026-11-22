@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+          "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
         },
         {
-          "headline": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
-          "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+          "headline": "Boss of British Gas owners Centrica 'hugely concerned' over impact of soaring energy bills",
+          "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/"
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+        },
+        {
+          "headline": "BBC apologises after noise disruption during Strictly",
+          "summary": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "It's Medicare open enrollment time. Here's what you need to know",
           "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027"
-        },
-        {
-          "headline": "England won't get carried away by All Blacks win",
-          "summary": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gdpm1q5no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Iran live updates: IRGC says Bahrain attacks targeted US Patriot sites",
-          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124505496224698683",
+          "created_at": "2026-11-22T14:09:16.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Who's to blame for the U. S. losing it's 'MEASLE ELIMINATION STATUS'? 🤔",
+          "url": "https://x.com/RealAmVoice/status/2124505496224698683",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124503836760912119",
+          "created_at": "2026-11-22T14:02:40.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Boise State with insanely bad coaching decisions to lose to San Diego State last night. Watch how this game ends. https://t.co/dNs5W3vBLQ",
+          "url": "https://x.com/ClayTravis/status/2124503836760912119",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124503622881079577",
+          "created_at": "2026-11-22T14:01:49.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump:\n\n\"It is going to be very hard for me to work with Chuck Schumer should he become Senate Majority Leader. https://t.co/UJWzftbfCV",
+          "url": "https://x.com/Osint613/status/2124503622881079577",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124503175583428750",
+          "created_at": "2026-11-22T14:00:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "What We Are Up Against \n\n@aubreysamerica discusses Mayor Zohran Mamdani and what his decision to disband the SRG means. https://t.co/V9uEhVkYVb",
+          "url": "https://x.com/RealAmVoice/status/2124503175583428750",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124502928346243422",
+          "created_at": "2026-11-22T13:59:04.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I’m not a data expert, but if @espn’s FPI has Ohio State at six and LSU at nine, you gotta burn down your entire formula and start over from scratch.  https://t.co/U8eRN91E1t",
+          "url": "https://x.com/ClayTravis/status/2124502928346243422",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124500308072304709",
+          "created_at": "2026-11-22T13:48:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran: Truckers in Shiraz, Chabahar and Dezful halted work on Sunday, November 22, protesting climbing operating costs, flat freight rates and a deteriorating economy. Strikes spread across several Iranian cities, according to a nationwide truck drivers' union.",
+          "url": "https://x.com/Osint613/status/2124500308072304709",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124499388978602442",
+          "created_at": "2026-11-22T13:45:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Privateers vs. Buccaneers vs. Pirates: What's the Difference?\n\n@BillFederer joins @aubreysamerica to discuss the difference between privateers, buccaneers, and pirates, as well as Queen Elizabeth's involvement. https://t.co/3TmE8NEBOo",
+          "url": "https://x.com/RealAmVoice/status/2124499388978602442",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124496447244517641",
           "created_at": "2026-11-22T13:33:18.000Z",
@@ -149,52 +219,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124491162069184849",
-          "created_at": "2026-11-22T13:12:18.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Lebanese army announced earlier that it seized 264 kilograms of explosives smuggled from Syria in the Al-Doura area of Akkar, along the northeastern border. In a separate case, Lebanese security services arrested 3 young men in Al-Qaa in the Bekaa Valley and seized explosives",
-          "url": "https://x.com/Osint613/status/2124491162069184849",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124489864150180050",
-          "created_at": "2026-11-22T13:07:09.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: MASSIVE PIPELINE EXPLOSION LIGHTS UP ALABAMA NIGHT SKY!\n\nA HUGE fireball erupted near Ward, Alabama, following a thunderous blast reportedly heard by residents. Flames were visible from more than 40 MILES away as emergency crews rushed to the scene.\n\nNo injuries",
-          "url": "https://x.com/RealAmVoice/status/2124489864150180050",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124488071626293410",
           "created_at": "2026-11-22T13:00:02.000Z",
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "NEW: @ClayTravis Starting 11 After Week 12 🏈\n\nThe CFP picture mostly clears up after a wild day in the Big Ten, new Perfect 10 Top 10, and SEC Power Rankings:\nhttps://t.co/YIi0AWyE0a",
           "url": "https://x.com/SportNState/status/2124488071626293410",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124488071324340339",
-          "created_at": "2026-11-22T13:00:01.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Recounting The Greatness of Columbus \n\n@BillFederer joins @aubreysamerica to succinctly discuss why Christopher Columbus was so significant, including some of his notable acts. https://t.co/b9w7Ec0zsb",
-          "url": "https://x.com/RealAmVoice/status/2124488071324340339",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124486876006588720",
-          "created_at": "2026-11-22T12:55:16.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Russian Navy corvette Merkury was destroyed while docked at the port of Benghazi, Libya, in an unexplained overnight incident, according to Naval News. The Black Sea Fleet ship had been escorting an arms export convoy in the area. https://t.co/JR8eZYe6IE",
-          "url": "https://x.com/Osint613/status/2124486876006588720",
           "verified": true,
           "verified_type": "blue"
         },
@@ -359,26 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124363782331994209",
-          "created_at": "2026-11-22T04:46:09.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The Big Ten falls apart as UCLA, Indiana and Ohio State all lose, Tennessee gets revenge on Lane, the playoff picture clears up &amp; my top ten and SEC power rankings 1-16. Starting 11 on @SportNState is live: https://t.co/Wp5EcBgVll",
-          "url": "https://x.com/ClayTravis/status/2124363782331994209",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124360398287831230",
-          "created_at": "2026-11-22T04:32:42.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Alabama, the playoff committee's number three team, now has one top 25 win all season, Kentucky, who will barely be in the top 25 on Tuesday, after losing a third straight game, this time to Missouri.",
-          "url": "https://x.com/ClayTravis/status/2124360398287831230",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124357933043511665",
           "created_at": "2026-11-22T04:22:54.000Z",
           "author_name": "The Kobeissi Letter",
@@ -497,16 +507,6 @@
           "url": "https://x.com/_Investinq/status/2124316966089584750",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124314304824414351",
-          "created_at": "2026-11-22T01:29:32.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NEW POLLS THIS WEEK: WHERE THE COUNTRY STANDS\n\n9 races still uncalled\n\nHouse: Dems 256 vs. Republicans 170\n\nSenate: 55 Dems, 44 Republicans\n\nGood news: Republicans FLIPPED 3 house seats\n\n@RCPolitics https://t.co/bAAP1GBf2i",
-          "url": "https://x.com/RealAmVoice/status/2124314304824414351",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124313289991602416",
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
           "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
           "source": "NPR",
@@ -807,12 +813,6 @@
           "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
-        },
-        {
-          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
-          "summary": "President Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications that the White House considers privileged",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-orders-federal-contractors-check-white-house-responding-138346258"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Film Review: Miami Hurricanes 28 – Virginia Tech Hokies 20",
+          "summary": "MIAMI GARDENS - NOVEMBER 21: Miami running back Mark Fletcher Jr. (4) celebrates after running for a touchdown in the second quarter as the Miami Hurricanes faced the Virginia Tech Hokies on November 21, 2026, at Hard Rock Stadium in Miami Gardens, FL.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/film-review-miami-hurricanes-28-141004074.html"
+        },
+        {
+          "headline": "Updated Big Ten football standings, title game scenarios, bowl tracker",
+          "summary": "The Big Ten sprinkled in a bit of chaos in Week 12 with its top two teams in the rankings and the Big Ten standings each leaving the door cracked for a wild Big Ten championship game race in the final weekend of the regular season. Losses by UCLA and Indiana means there are still two spots in the Big Ten championship game to fill going into the final…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/updated-big-ten-football-standings-140649409.html"
+        },
+        {
+          "headline": "For 18 years, he spoke to Cleveland's workers on the radio. Now, he's got a podcast",
+          "summary": "For 18 years, Ed \"Flash\" Ferenc co-hosted a morning radio show in Cleveland that spoke especially to the city's blue collar workers. Today, he's still using his voice to reach that same audience.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-5976835/for-18-years-he-spoke-to-clevelands-workers-on-the-radio-now-hes-got-a-podcast"
+        },
+        {
           "headline": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
           "summary": "After a decade of postseason heartbreak, the Kansas City Current midfielder scored a stunning olimpico to win the NWSL Championship and claim MVP honors months after returning from maternity leave",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/soccer/news/vanessa-dibernardo-olimpico-nwsl-current-mvp/"
         },
         {
-          "headline": "Jets vs. Chargers: Game Time, TV, Announcers, Online Streaming, and More",
-          "summary": "Sep 22, 2024; Pittsburgh, Pennsylvania, USA; Los Angeles Chargers quarterback Justin Herbert (10) works out as head coach Jim Harbaugh looks on before a game against the Pittsburgh Steelers at Acrisure Stadium. Mandatory Credit: Barry Reeger-Imagn Images | USA TODAY Sports via Reuters Con CBS has a doubleheader today while FOX will show a single game to…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/jets-vs-chargers-game-time-133326672.html"
-        },
-        {
-          "headline": "Big Ten receiving yardage leaders after Week 12",
-          "summary": "The Big Ten now has three wide receivers with at least 1,000 receiving yards after the results of Week 12. Joining Ohio State's Jeremiah Smith in the 1,000-yard club are Indiana 's Charlie Becker and Illinois' Collin Dixon, who will basically be battling for second place behind Smith in the final weekend of the regular season.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/big-ten-receiving-yardage-leaders-133122461.html"
-        },
-        {
           "headline": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
           "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/"
-        },
-        {
-          "headline": "Frick delivers on 'heavy metal football' promise",
-          "summary": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -989,10 +989,10 @@
           "url": "https://deadline.com/2026/11/lincoln-center-theater-naomi-weinstock-1237230896/"
         },
         {
-          "headline": "Palisades Fire Arson Suspect Convicted, Faces 40 Years In Prison",
-          "summary": "UPDATED, 5:50 PM: A Los Angeles jury has convicted the man charged with setting the smoldering fire that later flared up into Palisades Fire that devastated Pacific Palisades and Malibu in early 2025. Jonathan Rinderknecht, 30, was found guilty Friday of destruction of property by means of fire and arson affecting property used in interstate […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/palisades-fire-trial-verdict-1236967822/"
+          "headline": "Hello Sunshine’s Lauren Neustadter Stepping Down at Year’s End (Exclusive)",
+          "summary": "The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T08:43:02-05:00"
+  "updatedAt": "2026-11-22T09:13:42-05:00"
 }
