@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Microsoft's Brad Smith on recent outages, including his own company's",
-          "summary": "Microsoft Vice Chair and President Brad Smith spoke with Margaret Brennan about the recent increase in tech outages, including his own company's from Nov. 12-14.",
+          "headline": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
+          "summary": "Hundreds of Delta Air Lines flights in and out of Atlanta's Hartsfield-Jackson Atlanta International Airport were delayed on Sunday due to a technical issue.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
+        },
+        {
+          "headline": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+          "summary": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Transcript: Brad Smith, Microsoft president and vice chair, on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "The following is the transcript of the interview with Microsoft president and vice chair Brad Smith that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/microsofts-brad-smith-on-recent-outages-including-his-own-companys/"
+          "url": "https://www.cbsnews.com/news/transcript-brad-smith-microsoft-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "headline": "Bessent: We \"need answers\" on Nvidia role in sending China AI chips",
+          "summary": "Treasury Secretary Scott Bessent says the government wants to know if Nvidia had \"malicious actors down at the bottom of the company who were responsible for the noncompliance\" with chip export controls.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
         },
         {
           "headline": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
           "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Russian warship struck by suspected Ukrainian drones at Libya naval base",
-          "summary": "Libyan officials say a suspected Ukrainian drone strike has hit a Russian warship at a naval base in Libya.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
-        },
-        {
-          "headline": "COP31 climate talks fail to reach major deal amid deep divisions",
-          "summary": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
-          "summary": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124581225905971617",
+          "created_at": "2026-11-22T19:10:11.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Colston Loveland has serious hops 🔥 https://t.co/Oa0byQia9K",
+          "url": "https://x.com/i/status/2124581225905971617",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124578647873057114",
+          "created_at": "2026-11-22T18:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "FAA GROUNDS NATION, NIGERIA TARGETS CHRISTIANS | FAITH AND FREEDOM https://t.co/qz3bKKEFRY",
+          "url": "https://x.com/i/status/2124578647873057114",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124578265235169481",
+          "created_at": "2026-11-22T18:58:25.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "What a sequence of events for the Ravens and Panthers 🤯 https://t.co/AscFFJKrbI",
+          "url": "https://x.com/i/status/2124578265235169481",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124576899598848197",
+          "created_at": "2026-11-22T18:53:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "History says last week's volatility will soon be met by dip buyers.\n\nThe Volatility Index, $VIX, jumped +16.6 points this week, to 35.9 points, its highest weekly close since April 2025.\n\nThis marks its 5th-largest weekly increase on record.\n\nFollowing the 4 weekly VIX spikes of https://t.co/3AOcZIs5th",
+          "url": "https://x.com/i/status/2124576899598848197",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124576203113636183",
+          "created_at": "2026-11-22T18:50:14.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad https://t.co/I7wQ5NeDGG",
+          "url": "https://x.com/i/status/2124576203113636183",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124573314643615855",
           "created_at": "2026-11-22T18:38:45.000Z",
@@ -339,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124511538773970999",
-          "created_at": "2026-11-22T14:33:17.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Prices of imported computers and semiconductors are skyrocketing:\n\nUS import prices for computers, peripherals, and semiconductors surged +26.5% YoY in October, their largest annual increase on record in data going back to the 1990s.\n\nThis also marks the 7th consecutive YoY https://t.co/9IxBDGqNIs",
-          "url": "https://x.com/i/status/2124511538773970999",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124507694384210010",
           "created_at": "2026-11-22T14:18:00.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -367,16 +407,6 @@
           "url": "https://x.com/i/status/2124507637777838273",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124503175583428750",
-          "created_at": "2026-11-22T14:00:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "What We Are Up Against \n\n@aubreysamerica discusses Mayor Zohran Mamdani and what his decision to disband the SRG means. https://t.co/V9uEhVkYVb",
-          "url": "https://x.com/i/status/2124503175583428750",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124488071626293410",
@@ -509,16 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124348139729572278",
-          "created_at": "2026-11-22T03:43:59.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "That’s a hell of a right hook 😂  https://t.co/6t2AeDypq2",
-          "url": "https://x.com/i/status/2124348139729572278",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124345110259261579",
           "created_at": "2026-11-22T03:31:57.000Z",
           "author_name": "Laura Loomer",
@@ -527,16 +547,6 @@
           "url": "https://x.com/i/status/2124345110259261579",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124335367872512080",
-          "created_at": "2026-11-22T02:53:14.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "GEORGIA SURPRISE ONSIDE https://t.co/xD9MZIkMPN",
-          "url": "https://x.com/i/status/2124335367872512080",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124332104800702673",
@@ -627,16 +637,6 @@
           "url": "https://x.com/i/status/2124264306154057992",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124262638192660846",
-          "created_at": "2026-11-21T22:04:14.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Splashdown of Dragon confirmed, completing SpaceX’s 35th Commercial Resupply Services mission to the @Space_Station!",
-          "url": "https://x.com/i/status/2124262638192660846",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124261083175379119",
@@ -791,16 +791,16 @@
           "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
         },
         {
-          "headline": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
-        },
-        {
           "headline": "Jeffries talks about where Democrats may be able to work with Trump",
           "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
+        },
+        {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -821,22 +821,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Issue with automation system causes Delta flight delays in Atlanta",
-          "summary": "An issue with Delta Air Lines’ weight and balance automation system was causing flight delays Sunday at its hub in Atlanta and nationwide",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/issue-automation-system-causes-delta-flight-delays-atlanta-138361125"
+          "headline": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+          "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
         },
         {
           "headline": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
           "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
-        },
-        {
-          "headline": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-          "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
         },
         {
           "headline": "UN climate talks break down over bitter disagreements on fossil fuels",
@@ -849,6 +843,12 @@
           "summary": "In California, more than 1,300 small kitchens are licensed to make and sell food. These MEHKOs (short for \"micro enterprise home kitchen operations\") are run out of homes, allowing home chefs to turn family recipes into culinary passion projects.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/home-cooked-meals-to-go/"
+        },
+        {
+          "headline": "Taking on credit card debt to buy food",
+          "summary": "According to a recent survey, about 35% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Stonington wins first CIAC Class S girls soccer championship, beating Old Saybrook in overtime",
-          "summary": "Stonington players celebrate after defeating Old Saybrook in the CIAC Class S girls soccer final at Trinity Health Stadium in Hartford, Conn., Sunday, November 22, 2026. (Dave Zajac/Hearst Connecticut Media) HARTFORD - Hanna Drake scored in the frst overtime period to lead No.",
+          "headline": "AP Top 25: UCLA drops to No. 10, Indiana falls to No. 12 after Week 12 losses",
+          "summary": "The Big Ten’s top team in the AP Top 25 is at No. 10.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/stonington-wins-first-ciac-class-184208400.html"
+          "url": "https://sports.yahoo.com/college-football/breaking-news/article/ap-top-25-ucla-drops-to-no-10-indiana-falls-to-no-12-after-week-12-losses-190414501.html"
         },
         {
-          "headline": "Wisconsin and Minnesota receive Week 12 US LBM Coaches Poll votes",
-          "summary": "Both the Wisconsin Badgers and Minnesota Golden Gophers appeared in the Week 12 US LBM Coaches Poll . Published on Sunday, Nov.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/wisconsin-minnesota-receive-week-12-184014540.html"
-        },
-        {
-          "headline": "Coaches Poll top 25: Texas, Tennessee climb; UCLA, Indiana tumble in college football rankings",
-          "summary": "Big Ten chaos has a couple of the league's contenders in CFP peril, while a pair of SEC teams jumped after big wins on Saturday",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-rankings-coaches-poll-top-25-week-13-2026/"
-        },
-        {
-          "headline": "Bengals vs. Commanders prediction, odds, time: NFL Week 11 'Monday Night Football' picks by proven model",
-          "summary": "SportsLine's model has revealed its Cincinnati Bengals vs. Washington Commanders picks for 'Monday Night Football' matchup",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/bengals-commanders-prediction-odds-time-nfl-week-11-monday-night-football-picks/"
-        },
-        {
-          "headline": "'Russell is living rent free in Verstappen's head!'",
-          "summary": "BBC Sport's Harry Benjamin, Rebecca Clancy and Abbi Pulling discuss the clash between George Russell and Max Verstappen as their rivalry heats up both on and off the track.",
+          "headline": "Pochettino on 'painful' defeat in first game as Man Utd boss",
+          "summary": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/formula1/videos/cr2klvl8zz8jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 run",
+          "summary": "R.J. White reveals his picks for Minnesota Vikings vs.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks/"
+        },
+        {
+          "headline": "Tennessee football AP Poll top 25 ranking after LSU win",
+          "summary": "Week 12 of the 2026 college football season has concluded. Tennessee (9-2, 6-2 SEC) defeated LSU (6-5, 3-5 SEC), 27-13, at Neyland Stadium in Week 12.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/tennessee-football-ap-poll-top-190053715.html"
+        },
+        {
+          "headline": "Welcome to Manchester United: Mauricio Pochettino faces grim reality after collapse against Liverpool",
+          "summary": "A humiliating 4-0 defeat at Liverpool quickly exposed Manchester United's glaring defensive flaws and showed the new manager the massive scale of the rebuild ahead at Old Trafford",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/manchester-united-mauricio-pochettino-collapse-liverpool/"
         }
       ]
     },
@@ -893,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’",
+          "summary": "The odds were not in Noah Schnapp’s favor when it came to joining “The Hunger Games: Sunrise on the Reaping.” The “Stranger Things” actor revealed on social media on Saturday that he had auditioned for the lead role of Haymitch. “POV: my audition for Haymitch,” he wrote on his Instagram story.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/noah-schnapp-auditioned-hunger-games-1236955369/"
+        },
+        {
           "headline": "Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival",
           "summary": "Jeff Goldblum, Marion Cotillard, John Turturro and more stars got the royal treatment on Saturday night at a glitzy dinner hosted by Morocco’s His Royal Highness Prince Moulay Rachid and Her Royal Highness Princess Lalla Oum Keltoum during the Marrakech Film Festival. Held at the 16th-century El Badi Palace — known for its stunning architecture […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306/"
-        },
-        {
-          "headline": "Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the ’80s’",
-          "summary": "Rian Johnson is hopeful about the future of indie filmmaking. During a converation at Marrakech Film Festival on Sunday afternoon, the “Star Wars: Last Jedi” and “Knives Out” director specifically cited Youtube as one of the most effective ways for early-career filmmakers to get their movies discovered.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
@@ -917,10 +917,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
         },
         {
-          "headline": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
-          "summary": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux. Appearing in conversation with film […]",
+          "headline": "Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the ’80s’",
+          "summary": "Rian Johnson is hopeful about the future of indie filmmaking. During a converation at Marrakech Film Festival on Sunday afternoon, the “Star Wars: Last Jedi” and “Knives Out” director specifically cited Youtube as one of the most effective ways for early-career filmmakers to get their movies discovered.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/"
+          "url": "https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T13:45:47-05:00"
+  "updatedAt": "2026-11-22T14:12:06-05:00"
 }
