@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/"
+          "headline": "Alcaraz outplays Zverev for first ATP Finals triumph",
+          "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "headline": "Democrat Chuck Hubbard defeats Rep. Virginia Foxx in House race",
+          "summary": "Chuck Hubbard defeated Rep. Virginia Foxx, CBS News projects, adding to Democrats' sizable majority in the House next year.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/democrat-chuck-hubbard-defeats-gop-rep-virginia-foxx-north-carolina/"
+        },
+        {
+          "headline": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+          "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Natural gas pipeline fire in Alabama lights up night sky",
+          "summary": "Photos and videos posted on social media appeared to show flames rising dozens of yards above the trees near Ward, Alabama, with smoke billowing into the air.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/natural-gas-pipeline-fire-ward-alabama/"
         },
         {
           "headline": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
           "summary": "Hundreds of Delta Air Lines flights in and out of Atlanta's Hartsfield-Jackson Atlanta International Airport were delayed on Sunday due to a technical issue.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
-        },
-        {
-          "headline": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-          "summary": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Bessent: We \"need answers\" on Nvidia role in sending China AI chips",
-          "summary": "Treasury Secretary Scott Bessent says the government wants to know if Nvidia had \"malicious actors down at the bottom of the company who were responsible for the noncompliance\" with chip export controls.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
         }
       ]
     },
@@ -78,6 +78,146 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124597204853621187",
+          "created_at": "2026-11-22T20:13:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Russia's ambassador to Libya has strongly condemned the attacks on Benghazi port.\n\nHe accused Kyiv of seeking to drag third parties into terrorist acts. He also said Kyiv is resorting to carrying out terrorist attacks.\n\nAl Hadath https://t.co/hL0uCbpdsn",
+          "url": "https://x.com/i/status/2124597204853621187",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124597088415854774",
+          "created_at": "2026-11-22T20:13:13.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "DK Metcalf kicked out of the game  https://t.co/ypZEBWTTxm",
+          "url": "https://x.com/i/status/2124597088415854774",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124596951278837968",
+          "created_at": "2026-11-22T20:12:40.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "DK Metcalf and Cooper DeJean going at it 😳 https://t.co/HH5FzZRPwn",
+          "url": "https://x.com/i/status/2124596951278837968",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124596368291557471",
+          "created_at": "2026-11-22T20:10:21.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Big man showing off the footwork 🤣\n https://t.co/KT1wJMOIrW",
+          "url": "https://x.com/i/status/2124596368291557471",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124596025776087144",
+          "created_at": "2026-11-22T20:09:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Gold is now on track for its worst 3-month rolling performance since June 2013, down -21.6% since the start of September.\n\nThis would also mark gold's largest 3-month rolling price decline since 1981.\n\nBy comparison, during the 2008 Financial Crisis, gold's biggest https://t.co/4Awi9ZWMBT",
+          "url": "https://x.com/i/status/2124596025776087144",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124595917449986550",
+          "created_at": "2026-11-22T20:08:34.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Chris Olave no look catch 👀 https://t.co/FrjgxoYV94",
+          "url": "https://x.com/i/status/2124595917449986550",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124595722163294677",
+          "created_at": "2026-11-22T20:07:47.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Cowboys are cooking 🔥 https://t.co/Za7KrSjm8I",
+          "url": "https://x.com/i/status/2124595722163294677",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124594730508153152",
+          "created_at": "2026-11-22T20:03:51.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Bazooka Joe said I'm Good 😂 https://t.co/8S4ib3281M",
+          "url": "https://x.com/i/status/2124594730508153152",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124593886953984316",
+          "created_at": "2026-11-22T20:00:30.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Four U.S. House races remain open after the midterm elections. Two are in Louisiana, one in Tennessee and one in Minnesota. Runoffs will be held in December.\n\nThe Democrats have secured at least 258 seats in the House of Representatives. It is their biggest result since 1992. The",
+          "url": "https://x.com/i/status/2124593886953984316",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124593577867014387",
+          "created_at": "2026-11-22T19:59:16.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: DELTA FLIGHTS HIT WITH GROUND DELAY AT ATLANTA AIRPORT!\n\nAn automation issue has triggered a ground delay for Delta flights at Hartsfield-Jackson Atlanta International Airport, one of the busiest airports in the world.\n\nTravelers could face disruptions as the issue is",
+          "url": "https://x.com/i/status/2124593577867014387",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124591312901177549",
+          "created_at": "2026-11-22T19:50:16.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jared Kushner: Trump will consider Article 5-like security guarantees for Ukraine. Russia is now willing to discuss them, a possible sign Moscow is serious about peace.\n\nTrump would have to approve any guarantee, subject to constitutional and congressional processes. He would",
+          "url": "https://x.com/i/status/2124591312901177549",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124589498579214672",
+          "created_at": "2026-11-22T19:43:04.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "I’m afraid Trump might be right here, and I genuinely think the worst of this selloff could still be ahead of us.\n\nWhat scares me most is that the market is starting to look like it’s running out of buyers. We’ve already seen trillions of dollars in market value wiped out, some https://t.co/UwO9Q1kkDo",
+          "url": "https://x.com/i/status/2124589498579214672",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124589255565680900",
+          "created_at": "2026-11-22T19:42:06.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "32 hour launch pad recycle. Great work by SpaceX team. https://t.co/b30VOE8Oom",
+          "url": "https://x.com/i/status/2124589255565680900",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124589011356283014",
+          "created_at": "2026-11-22T19:41:07.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Haven’t seen this amount of USAF activity in Hormuz in a while - at least 8 tankers https://t.co/rUeTtzQclY",
+          "url": "https://x.com/i/status/2124589011356283014",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124586211666747464",
           "created_at": "2026-11-22T19:30:00.000Z",
@@ -139,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124582521459597585",
-          "created_at": "2026-11-22T19:15:20.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russia is continuing its investigation into the targeting of the ship together with authorities in Benghazi, according to Al-Hadath's correspondent in Moscow. https://t.co/hL0uCbpLhV",
-          "url": "https://x.com/i/status/2124582521459597585",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124582024854094117",
           "created_at": "2026-11-22T19:13:22.000Z",
           "author_name": "Clay Travis",
@@ -159,62 +289,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124581732988965045",
-          "created_at": "2026-11-22T19:12:12.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NOW: Initial reports of air Defense activity above Sirik, Hormozgan Province of southern Iran.\n\nContributed by: @BeamTracker_ https://t.co/nwVmvL38wg",
-          "url": "https://x.com/i/status/2124581732988965045",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124581678702043227",
           "created_at": "2026-11-22T19:11:59.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "TRUMP BLAMES DEMOCRATS FOR $6 TRILLION MARKET WIPEOUT!\n\nPresident Trump claims markets have lost more than $6 TRILLION since Democrats’ November 3 election victory, with the NASDAQ down 20%.\n\nHe blames their “Anti Growth, and Retribution Only” policies and warns things could get https://t.co/z6RljIKwWK",
           "url": "https://x.com/i/status/2124581678702043227",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124581391572562217",
-          "created_at": "2026-11-22T19:10:51.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Lebanon's Education Minister Rima Karami condemned an IDF Arabic spokeswoman video filmed inside a middle school in Debel, south Lebanon.\n\nKarami: The visit happened over a month ago without her knowledge and violated the Geneva Conventions. https://t.co/no90VqUktt",
-          "url": "https://x.com/i/status/2124581391572562217",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124581225905971617",
-          "created_at": "2026-11-22T19:10:11.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Colston Loveland has serious hops 🔥 https://t.co/Oa0byQia9K",
-          "url": "https://x.com/i/status/2124581225905971617",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124578647873057114",
-          "created_at": "2026-11-22T18:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "FAA GROUNDS NATION, NIGERIA TARGETS CHRISTIANS | FAITH AND FREEDOM https://t.co/qz3bKKEFRY",
-          "url": "https://x.com/i/status/2124578647873057114",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124578265235169481",
-          "created_at": "2026-11-22T18:58:25.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "What a sequence of events for the Ravens and Panthers 🤯 https://t.co/AscFFJKrbI",
-          "url": "https://x.com/i/status/2124578265235169481",
           "verified": true,
           "verified_type": "business"
         },
@@ -239,52 +319,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124573314643615855",
-          "created_at": "2026-11-22T18:38:45.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russian fuel tanker hit by a Ukrainian drone on the R-280 highway. Massive secondary explosion.\n\nThe R-280 is the last overland route into Crimea since the Crimean Bridge road span was destroyed. https://t.co/KY5AY1Bky8",
-          "url": "https://x.com/i/status/2124573314643615855",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124573315289485749",
-          "created_at": "2026-11-22T18:38:45.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Dallas Cowboys taking it ALL the way back to 1920! https://t.co/PObAcnmS0h",
-          "url": "https://x.com/i/status/2124573315289485749",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124571056241299796",
           "created_at": "2026-11-22T18:29:47.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "Catch this week's Faith &amp; Freedom Show With @ShemaneNugent today at 2PM ET. Check out the preview reel! https://t.co/RfE57wnd0Z",
           "url": "https://x.com/i/status/2124571056241299796",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124570153165762561",
-          "created_at": "2026-11-22T18:26:11.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Travis Kelce cementing his place among the greatest tight ends EVER! 🐐 https://t.co/VuUzkFjefG",
-          "url": "https://x.com/i/status/2124570153165762561",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124569529116225607",
-          "created_at": "2026-11-22T18:23:42.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Ravens already cooking up trick plays🔥 https://t.co/9RWDWsyIJu",
-          "url": "https://x.com/i/status/2124569529116225607",
           "verified": true,
           "verified_type": "business"
         },
@@ -367,16 +407,6 @@
           "url": "https://x.com/i/status/2124548569151447112",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124546222031622222",
-          "created_at": "2026-11-22T16:51:06.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "The US equity market experienced just one of its sharpest sell-offs on record:\n\nThe S&amp;P 500 fell -11.6% from its October 6th peak in just 33 trading days, placing the decline among the 15 fastest corrections since 1928.\n\nBy comparison, at the start of the 2022 bear market, it https://t.co/gfNCCTjMxg",
-          "url": "https://x.com/i/status/2124546222031622222",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124546055098577397",
@@ -509,16 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124449744600871080",
-          "created_at": "2026-11-22T10:27:44.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Zoom in, you’ll find it https://t.co/0Elhmtpsh3",
-          "url": "https://x.com/i/status/2124449744600871080",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124386240380469593",
           "created_at": "2026-11-22T06:15:23.000Z",
           "author_name": "Sport & State",
@@ -535,16 +555,6 @@
           "author_handle": "SportNState",
           "text": "Another LSU loss came with plenty of drama.\n\nTennessee put the finishing touch on a disappointing season for Lane Kiffin and the Tigers, with the night in Knoxville providing no shortage of memorable moments.\n\n@ByGusWilson on the chaos that took place at Neyland:",
           "url": "https://x.com/i/status/2124371043213037915",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124368475087061123",
-          "created_at": "2026-11-22T05:04:47.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Missouri safety Santana Banner kept it real postgame 😂\n\n“We just a bunch of f***in dogs.” https://t.co/ztqgrFk5Ey",
-          "url": "https://x.com/i/status/2124368475087061123",
           "verified": true,
           "verified_type": "blue"
         },
@@ -625,16 +635,6 @@
           "author_handle": "_Investinq",
           "text": "SpaceX board member Steve Jurvetson says his own partners voted down his first SpaceX investment because they couldn't see it ever being worth more than 2x to 3x\n\n\"It was the only time in my recollection that my partnership turned me down for an investment\"\n\n\"Two of my partners https://t.co/uwJlkZRASP",
           "url": "https://x.com/i/status/2124286765871911255",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124271707439661114",
-          "created_at": "2026-11-21T22:40:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Carta CEO Henry Ward says VCs will \"100%\" have to write down their AI startup bets, with 49 of every 50 lookalikes getting marked down\n\n\"Every startup is priced as though they're going to be the dominant winner\"\n\n\"You might have 50 startups doing the same thing. You've written https://t.co/HydvNzivqG",
-          "url": "https://x.com/i/status/2124271707439661114",
           "verified": true,
           "verified_type": "blue"
         },
@@ -771,16 +771,16 @@
           "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
         },
         {
-          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
-          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+          "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
+          "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/"
         },
         {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "headline": "Bessent: We \"need answers\" on Nvidia role in sending China AI chips",
+          "summary": "Treasury Secretary Scott Bessent says the government wants to know if Nvidia had \"malicious actors down at the bottom of the company who were responsible for the noncompliance\" with chip export controls.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bills lead Dolphins 20-6 at halftime",
-          "summary": "The Bills have a big game against the Chiefs on Thanksgiving night, but they haven't gotten caught looking ahead against the Dolphins this Sunday. Josh Allen hit wide receiver DJ Moore for a touchdown and running back James Cook ran for another score as the Bills extended their lead to 20-3 in the second quarter.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bills-lead-dolphins-20-6-193636438.html"
-        },
-        {
-          "headline": "Alcaraz outplays Zverev for first ATP Finals triumph",
-          "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Bears lead Saints 16-10 at halftime",
-          "summary": "The Saints have put some pressure on the Bears, but Chicago still has a 16-7 lead over New Orleans at halftime. Chicago took a 16-0 lead with a Cairo Santos 41-yard field goal, a 3-yard touchdown reception from D’Andre Swift, and a 15-yard scoring strike from Caleb Williams to Colston Loveland.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bears-lead-saints-16-10-193500879.html"
-        },
-        {
-          "headline": "Iraola 'enjoyed' big win over Man Utd",
-          "summary": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 run",
-          "summary": "R.J. White reveals his picks for Minnesota Vikings vs.",
+          "headline": "TCU fires Sonny Dykes: Horned Frogs move on, four years removed from CFP title game",
+          "summary": "Dykes led TCU to the national championship game in his first season, but the results have been uneven in the four years since",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks/"
+          "url": "https://www.cbssports.com/college-football/news/sonny-dykes-fired-tcu/"
+        },
+        {
+          "headline": "Giants-Saints inactives: DT Darius Alexander left off New York’s game day roster",
+          "summary": "Greg Desrosiers Defensive tackle Darius Alexander , a 2025 third-round pick by the New York Giants, is inactive for the Giants game Sunday against the Jacksonville Jaguars. Defensive tackle C.J.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/giants-saints-inactives-dt-darius-200820175.html"
+        },
+        {
+          "headline": "Eagles QB Joe Milton III just stands and watches his fumble in shades of infamous Cam Newton Super Bowl play",
+          "summary": "This is not the kind of effort to get Eagles fans on your side. Philadelphia quarterback Joe Milton III made his second start for the Eagles Sunday in place of the benched Tanner McKee and sidelined starter Jalen Hurts.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/article/eagles-qb-joe-milton-iii-just-stands-and-watches-his-fumble-in-shades-of-infamous-cam-newton-super-bowl-play-200609323.html"
+        },
+        {
+          "headline": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+          "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Vikings vs. 49ers prediction, odds, time: 'Sunday Night Football' in Mexico City picks from advanced model",
+          "summary": "SportsLine's model has revealed its Minnesota Vikings vs. San Francisco 49ers picks for 'Sunday Night Football' matchup in Mexico City",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/vikings-49ers-prediction-odds-time-spread-2026-sunday-night-football-mexico-city-picks/"
         }
       ]
     },
@@ -873,16 +873,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "‘You Can See Everything’ Becomes Rare Documentary to Surpass $100 Million Globally",
+          "summary": "“You Can See Everything” has surpassed $100 million globally, a rare box office milestone for a documentary. So far, the zeitgeist-capturing look at Theranos fraudster Elizabeth Holmes has generated a staggering $93.4 million at the domestic box office and $9 million overseas for a worldwide tally of $102.4 million.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/"
+        },
+        {
           "headline": "Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’",
           "summary": "The odds were not in Noah Schnapp’s favor when it came to joining “The Hunger Games: Sunrise on the Reaping.” The “Stranger Things” actor revealed on social media on Saturday that he had auditioned for the lead role of Haymitch. “POV: my audition for Haymitch,” he wrote on his Instagram story.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/noah-schnapp-auditioned-hunger-games-1236955369/"
-        },
-        {
-          "headline": "Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival",
-          "summary": "Jeff Goldblum, Marion Cotillard, John Turturro and more stars got the royal treatment on Saturday night at a glitzy dinner hosted by Morocco’s His Royal Highness Prince Moulay Rachid and Her Royal Highness Princess Lalla Oum Keltoum during the Marrakech Film Festival. Held at the 16th-century El Badi Palace — known for its stunning architecture […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306/"
+          "url": "https://variety.com/2026/film/news/noah-schnapp-hunger-games-sunrise-on-the-reaping-haymich-1236955369/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
@@ -897,10 +897,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
         },
         {
-          "headline": "Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ‘Youtube Is Just What Sundance Was in the ’80s’",
-          "summary": "Rian Johnson is hopeful about the future of indie filmmaking. During a converation at Marrakech Film Festival on Sunday afternoon, the “Star Wars: Last Jedi” and “Knives Out” director specifically cited Youtube as one of the most effective ways for early-career filmmakers to get their movies discovered.",
+          "headline": "Jeff Goldblum, Marion Cotillard and John Turturro Dine With Morocco’s HRH Prince Moulay Rachid at Starry Royal Gala During Marrakech Film Festival",
+          "summary": "Jeff Goldblum, Marion Cotillard, John Turturro and more stars got the royal treatment on Saturday night at a glitzy dinner hosted by Morocco’s His Royal Highness Prince Moulay Rachid and Her Royal Highness Princess Lalla Oum Keltoum during the Marrakech Film Festival. Held at the 16th-century El Badi Palace — known for its stunning architecture […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248/"
+          "url": "https://variety.com/2026/film/festivals/jeff-goldblum-marion-cotillard-morocco-prince-royal-dinner-1236955306/"
         }
       ]
     },
@@ -908,6 +908,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Ina Garten Says She Turned Down ‘Dancing With the Stars’ Because the Thought of Competing Gave Her ‘Nightmares’",
+          "summary": "Celebrity chef Ina Garten will not be cooking up a freestyle for “Dancing with the Stars” in the near future. Garten told Rose Byrne on a recent episode of her “Happy Hour” podcast that she would be too nervous to compete.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/ina-garten-dancing-with-the-stars-1236955404/"
+        },
         {
           "headline": "Resurgent ‘Hunger Games’ goes big at box office, despite 'Grand Theft Auto VI'",
           "summary": "\"Sunrise on the Reaping” debuted with estimated $120 million in North America.",
@@ -921,22 +927,16 @@
           "url": "https://variety.com/2026/tv/people-news/sheila-mangubat-dead-90-day-fiance-1236955340/"
         },
         {
-          "headline": "Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75",
-          "summary": "Tom Jackson, former Denver Broncos linebacker and a Hall of Fame ESPN analyst, died Friday. He was 75.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/people-news/tom-jackson-dead-espn-analyst-denver-broncos-1236955322/"
+          "headline": "Tom Jackson Dies: Broncos Alum & ESPN Hall Of Fame Broadcaster Was 75",
+          "summary": "Tom Jackson, a former Denver Broncos player and an NFL analyst for ESPN, has died. He was 75.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/tom-jackson-dead-broncos-espn-1237231183/"
         },
         {
           "headline": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
           "summary": "The BBC has apologized to viewers after lewd noises could be heard during the Strictly Come Dancing live show at Blackpool’s Tower Ballroom. A recording of sex noises appeared to be played from the audience as Strictly judge Motsi Mabuse delivered her remarks about the performance of Delta Goodrem and partner Kai Widdrington.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/"
-        },
-        {
-          "headline": "‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
-          "summary": "While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart Nickerson explained that they didn’t want to “run the risk of overstaying our welcome” with another season when […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
         }
       ]
     },
@@ -981,8 +981,14 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Miley Cyrus & Maxx Morando’s Wedding Photos Are Here",
+          "summary": "Miley Cyrus and Maxx Morando’s wedding pictures are here. The bride and groom shared the first official look at their marriage ceremony on Sunday, the day after their intimate Saturday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/miley-cyrus-wedding-photos-maxx-morando-1236387483/"
+        },
+        {
           "headline": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game, ‘With No Hesitation’",
-          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. Related Miley Cyrus Marries Maxx Morando in Poolside Ceremony Led by the Flaming Lips’ Wayne Coyne ‘Only Murders in the Building’ Season 6 Trailer Arrives With Loads of British Stars,…",
+          "summary": "Selena Gomez happily announced whether a boy or girl is to be expected for a pregnant fan she ran into at the Spurs-Pelicans basketball game this weekend in San Antonio. Related Miley Cyrus & Maxx Morando’s Wedding Photos Are Here ‘Only Murders in the Building’ Season 6 Trailer Arrives With Loads of British Stars, Cheeky Humor & Dodgy Twists Miley Cyrus…",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/"
         },
@@ -993,25 +999,19 @@
           "url": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/"
         },
         {
-          "headline": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
-          "summary": "Singer and drummer became engaged in December 2025 after four years of dating",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/"
+          "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
+          "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
         },
         {
           "headline": "Britney Spears Apologizes to Her Family on Instagram: ‘I Just Miss Them Like Crazy’",
           "summary": "Britney Spears posted a public apology to her family on Saturday (Nov. 21), writing on Instagram that she regretted revisiting past conflicts in public.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/"
-        },
-        {
-          "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
-          "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-22T14:41:32-05:00"
+  "updatedAt": "2026-11-22T15:17:40-05:00"
 }
