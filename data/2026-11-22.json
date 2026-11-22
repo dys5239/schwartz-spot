@@ -48,10 +48,10 @@
           "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
         },
         {
-          "headline": "Home-cooked meals, to go",
-          "summary": "In California, more than 1,300 small kitchens are licensed to make and sell food. These MEHKOs (short for \"micro enterprise home kitchen operations\") are run out of homes, allowing home chefs to turn family recipes into culinary passion projects.",
+          "headline": "Tony Shalhoub on food, family, and his book, \"We Thought They'd Never Leave\"",
+          "summary": "For the award-winning star of \"Monk,\" food had always been an integral part of family. And now he's teamed with daughter Josie Adams to write a food memoir: \"We Thought They'd Never Leave,\" the story of their family reunions - and their recipes.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/home-cooked-meals-to-go/"
+          "url": "https://www.cbsnews.com/news/tony-shalhoub-on-food-family-and-his-book-we-thought-theyd-never-leave/"
         },
         {
           "headline": "DNI Clayton: Putin is ‘not America’s friend in Ukraine’",
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124521826810257735",
+          "created_at": "2026-11-22T15:14:09.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "20,000 votes so far. Keep the votes coming. Will Big 12 get three playoff bids and Big Ten only get one? That’s BYU vs Indiana debate to me. https://t.co/XxarPiYXJI",
+          "url": "https://x.com/ClayTravis/status/2124521826810257735",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124516588133204403",
+          "created_at": "2026-11-22T14:53:20.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump:\n\nOPEN BORDERS DESTROY NATIONS! The USA was very close to being one of them until I came along! https://t.co/ZmM9qmAzfb",
+          "url": "https://x.com/Osint613/status/2124516588133204403",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124512527014854990",
           "created_at": "2026-11-22T14:37:12.000Z",
@@ -197,16 +217,6 @@
           "url": "https://x.com/RealAmVoice/status/2124499388978602442",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124496447244517641",
-          "created_at": "2026-11-22T13:33:18.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Investigators are working to determine which party a new weapons shipment smuggled from Syria belongs to, Lebanese sources told Al Hadath. Suspects in the smuggling were arrested, the first time arrests have been made after earlier smugglers escaped. https://t.co/y3VNZRJmue",
-          "url": "https://x.com/Osint613/status/2124496447244517641",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124495614348021897",
@@ -375,16 +385,6 @@
           "author_handle": "ClayTravis",
           "text": "I missed the crazy way Rutgers beat Penn State today. Watch this.  https://t.co/QQkt1jm51I",
           "url": "https://x.com/ClayTravis/status/2124375700207714720",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124374731784913084",
-          "created_at": "2026-11-22T05:29:39.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Wake Forest beat Georgia Tech so bad that with 12 minutes still left in the game they were breaking down a couple’s argument in the stands. https://t.co/KE0962Km7a",
-          "url": "https://x.com/ClayTravis/status/2124374731784913084",
           "verified": true,
           "verified_type": "blue"
         },
@@ -821,10 +821,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "I’ve studied over 200 kids—ditch these 6 parenting habits to avoid raising a people pleaser",
+          "headline": "I’ve studied over 200 kids—parents who do 6 things accidentally raise people pleasers: It starts in ‘ordinary, well-intentioned moments’",
           "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
+        },
+        {
+          "headline": "UN climate talks break down over bitter disagreements on fossil fuels",
+          "summary": "Climate talks in Turkey failed to reach an overarching agreement.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/climate-talks-break-bitter-disagreements-fossil-fuels-138357548"
+        },
+        {
+          "headline": "Home-cooked meals, to go",
+          "summary": "In California, more than 1,300 small kitchens are licensed to make and sell food. These MEHKOs (short for \"micro enterprise home kitchen operations\") are run out of homes, allowing home chefs to turn family recipes into culinary passion projects.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/home-cooked-meals-to-go/"
         },
         {
           "headline": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
@@ -837,18 +849,6 @@
           "summary": "According to a recent survey, about 35% of Americans are using credit cards to buy increasingly expensive groceries – and many are having trouble paying off that food debt.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/taking-on-credit-card-debt-to-buy-food/"
-        },
-        {
-          "headline": "He expected a small-business loan. He got a 7-year nightmare",
-          "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance"
-        },
-        {
-          "headline": "Paolo Bulgari, jeweler who turned family business into global brand, dies at 89",
-          "summary": "His family praised his humanity and entrepreneurial talent.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/paolo-bulgari-italian-jeweler-turned-family-business-global-138350529"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Former ESPN analyst and Broncos linebacker Tom Jackson dies at 75 years old",
+          "summary": "Former ESPN NFL analyst and Denver Broncos linebacker Tom Jackson has died at the age of 75. His family informed ESPN of the death on Sunday.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/article/former-espn-analyst-and-broncos-linebacker-tom-jackson-dies-at-75-years-old-151021962.html"
+        },
+        {
+          "headline": "Bills vs Dolphins updates, weather, how to watch and predictions for Week 11",
+          "summary": "The Buffalo Bills return to Highmark Stadium on Sunday looking to strengthen their hold on the AFC’s No. 1 seed when they face the Miami Dolphins in an AFC East matchup.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/bills-vs-dolphins-updates-weather-151017560.html"
+        },
+        {
+          "headline": "Did beaten Wales still show they have come a long way?",
+          "summary": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Marquez wins record-equalling eighth MotoGP title",
+          "summary": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/motorsport/articles/c64gnrdzq8zzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "College football grades: Texas earns 'A' for dominant win, Indiana gets 'D' on Week 12 report card",
           "summary": "A look at how national championship contenders fared in Week 12 action",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/college-football-grades-results-week-12-2026-texas-indiana/"
-        },
-        {
-          "headline": "Massimiliano Allegri insists ‘extraordinary’ Kevin De Bruyne is fully committed to Napoli amid PSV transfer talk",
-          "summary": "SSC Napoli v FK Bodo/Glimt - UEFA Champions League 2026/27 League Phase MD3 - Getty Images Sport Napoli head coach Massimiliano Allegri has lavished praise on Kevin De Bruyne, labelling the veteran midfielder as \"extraordinary\" despite persistent rumours linking him with a move away from the Stadio Diego Armando Maradona. The Belgian playmaker has been…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/massimiliano-allegri-insists-extraordinary-kevin-143509802.html"
-        },
-        {
-          "headline": "Fantasy football rankings, projections, lineups, sleepers for Week 11 from proven model",
-          "summary": "SportsLine's model reveals its Week 11 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-lineups-projections-sleepers-streamers-start-sit-advice-week-11-2026/"
-        },
-        {
-          "headline": "No. 17 Boise State's shocking home loss to San Diego State virtually guarantees a 2-loss Group of Six team in the College Football Playoff",
-          "summary": "It’s a virtual lock that a team with at least two losses will represent the Group of Six conferences in the College Football Playoff. San Diego State pulled off one of the comebacks of the season late Saturday night in a 22-20 win at No.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/article/no-17-boise-states-shocking-home-loss-to-san-diego-state-virtually-guarantees-a-2-loss-group-of-six-team-in-the-college-football-playoff-143222337.html"
-        },
-        {
-          "headline": "Northern Ireland complete series win over Gibraltar",
-          "summary": "Northern Ireland Warriors beat Gibraltar Campions 71-30 to complete a Test double in Antrim.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/netball/articles/cm04w567x5r5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -893,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
+          "summary": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux. Appearing in conversation with film […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/"
+        },
+        {
           "headline": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
           "summary": "Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor and Michelin-starred chef and filmmaker Vikas Khanna have come aboard short “The Dragon Letter” as executive producers, and Ladakhi director Stanzin Jigmet tells Variety he is developing a feature version of the Student Academy Award-winning short.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265/"
-        },
-        {
-          "headline": "James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’",
-          "summary": "When filmmaker James Gray was a teenager, he wrote a fan letter to Francis Ford Coppola. To his surprise, the legendary filmmaker wrote back with a piece of advice that would come to shape Gray’s entire approach to cinema.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238/"
         },
         {
           "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
@@ -917,10 +917,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
         {
-          "headline": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
-          "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW’s partner in Egypt. The agreement is aimed at “identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with…",
+          "headline": "James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’",
+          "summary": "When filmmaker James Gray was a teenager, he wrote a fan letter to Francis Ford Coppola. To his surprise, the legendary filmmaker wrote back with a piece of advice that would come to shape Gray’s entire approach to cinema.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/"
+          "url": "https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238/"
         }
       ]
     },
@@ -935,16 +935,16 @@
           "url": "https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/"
         },
         {
+          "headline": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+          "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW’s partner in Egypt. The agreement is aimed at “identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/"
+        },
+        {
           "headline": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
           "summary": "Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film’s titular hero, […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/"
-        },
-        {
-          "headline": "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
-          "summary": "Roughly six songs into their performance on Saturday night, Katseye made a girl group connection with Fifth Harmony member Camila Cabello as Daniela Avanzini brought her out to be the collective’s “Gabriela” for the evening, dancing to the choreography that accompanies the song. Katseye, who performed as a quartet consisting of Avanzini alongside Lara…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210/"
         },
         {
           "headline": "‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
@@ -953,10 +953,10 @@
           "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
         },
         {
-          "headline": "Karla Sofia Gascon Says ‘Emilia Perez’ Oscar Controversy Came From People Who ‘Didn’t Want Someone Like Me to Receive an Award’",
-          "summary": "Spanish actor Karla Sofia Gascon, whose turn in “Emilia Pérez” made her the first transgender actor to land an Oscar nomination, says the controversy that consumed her awards campaign was driven by people who did not want to see someone like her win. “In reality, the controversy was generated by a great many people who […]",
+          "headline": "Katseye Brings Out Camila Cabello for ‘Gabriela’ Dance at Los Angeles Show",
+          "summary": "Roughly six songs into their performance on Saturday night, Katseye made a girl group connection with Fifth Harmony member Camila Cabello as Daniela Avanzini brought her out to be the collective’s “Gabriela” for the evening, dancing to the choreography that accompanies the song. Katseye, who performed as a quartet consisting of Avanzini alongside Lara…",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/karla-sofia-gascon-emilia-perez-oscar-furor-trans-rights-1236955205/"
+          "url": "https://variety.com/2026/music/news/katseye-brings-out-camila-cabello-gabriela-los-angeles-1236955210/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T09:41:56-05:00"
+  "updatedAt": "2026-11-22T10:18:52-05:00"
 }
