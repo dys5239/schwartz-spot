@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        },
+        {
           "headline": "Binding of Isaac developer removes AI music from Repentance Plus",
           "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music . Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto -themed section.",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
           "source": "Wired",
           "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
-        },
-        {
-          "headline": "Google employees protest AI in schools policy",
-          "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
         }
       ]
     },
@@ -41,6 +41,18 @@
       "id": "news",
       "title": "News",
       "stories": [
+        {
+          "headline": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
+          "summary": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/"
+        },
+        {
+          "headline": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
+          "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/"
+        },
         {
           "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
           "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
@@ -52,18 +64,6 @@
           "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Russian warship struck by suspected Ukrainian drones at Libya naval base",
-          "summary": "Libyan officials say a suspected Ukrainian drone strike has hit a Russian warship at a naval base in Libya.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/russian-warship-struck-suspected-ukrainian-sea-drones-benghazi-naval-base-libya-officials/"
-        },
-        {
-          "headline": "Democrat Chuck Hubbard defeats Rep. Virginia Foxx in House race",
-          "summary": "Chuck Hubbard defeated Rep. Virginia Foxx, CBS News projects, adding to Democrats' sizable majority in the House next year.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/democrat-chuck-hubbard-defeats-gop-rep-virginia-foxx-north-carolina/"
         },
         {
           "headline": "Equipment outage in Atlanta causes over 1,300 Delta flight delays",
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124609730643411208",
+          "created_at": "2026-11-22T21:03:27.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Mexican special forces captured \"El Chapo Isidro,\" one of the FBI's Ten Most Wanted, in Sinaloa, and cartel chaos followed. A nearby baseball game was stopped as fans hid in the stadium hallways. https://t.co/xcHwHXDGhT",
+          "url": "https://x.com/RealAmVoice/status/2124609730643411208",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124609453274108083",
+          "created_at": "2026-11-22T21:02:21.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "360 degree vision that never tires https://t.co/uxbPR87SQE",
+          "url": "https://x.com/elonmusk/status/2124609453274108083",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124608846819987529",
+          "created_at": "2026-11-22T20:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "COWBOY LOGIC BARN PARTY https://t.co/edeovVL4mT",
+          "url": "https://x.com/RealAmVoice/status/2124608846819987529",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124608788158447644",
+          "created_at": "2026-11-22T20:59:43.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "This was done without AI/SI, but we will be using a lot of SI in the future https://t.co/OHNcu10C63",
+          "url": "https://x.com/elonmusk/status/2124608788158447644",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124608543349236173",
+          "created_at": "2026-11-22T20:58:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump on Iran:\n\n- War resumes after the New Year if there’s no deal.\n\n- Indirect talks have yielded no progress.\n\n- The U.S. will sink Iranian ships that try to breach the blockade.\n\n- Trump urges Iranian protesters to keep going. https://t.co/isVcdo8XRw",
+          "url": "https://x.com/Osint613/status/2124608543349236173",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124608208589193464",
+          "created_at": "2026-11-22T20:57:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IDF spokesperson in a school in Lebanon. \n\nHezbollah pissed off. https://t.co/oaFpTBNjd9",
+          "url": "https://x.com/Osint613/status/2124608208589193464",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124606900553863466",
+          "created_at": "2026-11-22T20:52:13.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Tesla super intelligence software, chip design &amp; Terafab are fun places to work https://t.co/LwiXLA9kOf",
+          "url": "https://x.com/elonmusk/status/2124606900553863466",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124606359983292470",
+          "created_at": "2026-11-22T20:50:04.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Dallas putting up 50 points!  https://t.co/vcQqQiqsmz",
+          "url": "https://x.com/Outkick/status/2124606359983292470",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124606222536229270",
+          "created_at": "2026-11-22T20:49:31.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The Cowboys have had eight possessions against the Titans today. Here are the results: touchdown, touchdown, touchdown, touchdown, touchdown, touchdown, field goal, touchdown. And head coach Robert Saleh is supposed to be a defensive genius.",
+          "url": "https://x.com/ClayTravis/status/2124606222536229270",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124605698701152520",
+          "created_at": "2026-11-22T20:47:26.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "He then KILLS EVERYONE hunting his car as its traded off in order to find his turkey before its too late.\n\nEventually making it to the top of an international crime syndicate and killing the boss in an insane showdown\n\nHe finds his car, turkey perfectly thawed and ready to cook,",
+          "url": "https://x.com/Timcast/status/2124605698701152520",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124605220810527144",
+          "created_at": "2026-11-22T20:45:32.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Guaranteed blockbuster movie idea\n\nJason Statham is retired PMC and picks up a turkey for his family a day before Thanksgiving.\n\nAs he stops for gas low level gangbangers steal his car with the turkey in it.\n\nWhen he calls the store they are out of turkeys.\n\n1/2",
+          "url": "https://x.com/Timcast/status/2124605220810527144",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124603615813705810",
           "created_at": "2026-11-22T20:39:09.000Z",
@@ -169,16 +279,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124596951278837968",
-          "created_at": "2026-11-22T20:12:40.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "DK Metcalf and Cooper DeJean going at it 😳 https://t.co/HH5FzZRPwn",
-          "url": "https://x.com/Outkick/status/2124596951278837968",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124596025776087144",
           "created_at": "2026-11-22T20:09:00.000Z",
           "author_name": "The Kobeissi Letter",
@@ -219,16 +319,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124591312901177549",
-          "created_at": "2026-11-22T19:50:16.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Jared Kushner: Trump will consider Article 5-like security guarantees for Ukraine. Russia is now willing to discuss them, a possible sign Moscow is serious about peace.\n\nTrump would have to approve any guarantee, subject to constitutional and congressional processes. He would",
-          "url": "https://x.com/Osint613/status/2124591312901177549",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124589498579214672",
           "created_at": "2026-11-22T19:43:04.000Z",
           "author_name": "StockMarket.News",
@@ -245,16 +335,6 @@
           "author_handle": "elonmusk",
           "text": "32 hour launch pad recycle. Great work by SpaceX team. https://t.co/b30VOE8Oom",
           "url": "https://x.com/elonmusk/status/2124589255565680900",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124589011356283014",
-          "created_at": "2026-11-22T19:41:07.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Haven’t seen this amount of USAF activity in Hormuz in a while - at least 8 tankers https://t.co/rUeTtzQclY",
-          "url": "https://x.com/Osint613/status/2124589011356283014",
           "verified": true,
           "verified_type": "blue"
         },
@@ -319,16 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124583151884501214",
-          "created_at": "2026-11-22T19:17:50.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The latest AP top 25 is out. Still bonkers the Vols are behind the Tide, but good shot that ends by next week. Alabama has zero top 25 wins. I’d bet the playoff committee will fight to keep Kentucky ranked for this reason. https://t.co/CuInN1upAt",
-          "url": "https://x.com/ClayTravis/status/2124583151884501214",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124581678702043227",
           "created_at": "2026-11-22T19:11:59.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -355,16 +425,6 @@
           "author_handle": "SpaceX",
           "text": "Falcon 9 and NROL-136 lift off from pad 4E in California 32 hours after teams launched USSF-317, completing our fastest turnaround between launches from the same pad https://t.co/I7wQ5NeDGG",
           "url": "https://x.com/SpaceX/status/2124576203113636183",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124571056241299796",
-          "created_at": "2026-11-22T18:29:47.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Catch this week's Faith &amp; Freedom Show With @ShemaneNugent today at 2PM ET. Check out the preview reel! https://t.co/RfE57wnd0Z",
-          "url": "https://x.com/RealAmVoice/status/2124571056241299796",
           "verified": true,
           "verified_type": "business"
         },
@@ -407,16 +467,6 @@
           "url": "https://x.com/SportNState/status/2124554471430566091",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124551375669321818",
-          "created_at": "2026-11-22T17:11:34.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🇺🇸 TRUMP: “OPEN BORDERS DESTROY NATIONS!” https://t.co/juJDSRGW9F",
-          "url": "https://x.com/RealAmVoice/status/2124551375669321818",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124548569151447112",
@@ -489,16 +539,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124477713142665551",
-          "created_at": "2026-11-22T12:18:52.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Starlink saves lives https://t.co/Mx58hFBqIk",
-          "url": "https://x.com/elonmusk/status/2124477713142665551",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124475467436851599",
           "created_at": "2026-11-22T12:09:56.000Z",
           "author_name": "SpaceX",
@@ -517,26 +557,6 @@
           "url": "https://x.com/SpaceX/status/2124467677859332290",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124467385298293001",
-          "created_at": "2026-11-22T11:37:50.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "True https://t.co/2TPisDzXXB",
-          "url": "https://x.com/elonmusk/status/2124467385298293001",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124463501703876939",
-          "created_at": "2026-11-22T11:22:24.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "We’re going to make the annoying “Promote” button borderline invisible",
-          "url": "https://x.com/elonmusk/status/2124463501703876939",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124386240380469593",
@@ -765,16 +785,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Democrat Chuck Hubbard defeats Rep. Virginia Foxx in House race",
+          "summary": "Chuck Hubbard defeated Rep. Virginia Foxx, CBS News projects, adding to Democrats' sizable majority in the House next year.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/democrat-chuck-hubbard-defeats-gop-rep-virginia-foxx-north-carolina/"
+        },
+        {
           "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
           "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/"
-        },
-        {
-          "headline": "Bessent: We \"need answers\" on Nvidia role in sending China AI chips",
-          "summary": "Treasury Secretary Scott Bessent says the government wants to know if Nvidia had \"malicious actors down at the bottom of the company who were responsible for the noncompliance\" with chip export controls.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -837,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Well, That’s Better: Marquette 106, Chicago State 62",
-          "summary": "Michael Phillips had himself a nice outing against the Cougars. | Photo by Patrick McDermott/Getty Images When Colin Porter missed a three-pointer with 14:10 left to go in the first half, that went into the scorebooks as Marquette’s first missed field goal of the game.",
+          "headline": "Tigers grab Luis Gil days after Yankees release",
+          "summary": "The Detroit Tigers are willing to pay Luis Gil exactly what the New York Yankees would not. Gil, the 2024 American League Rookie of the Year, agreed to a one-year, $2.3 million deal with Detroit on Sunday, Nov.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/well-better-marquette-106-chicago-204158059.html"
+          "url": "https://sports.yahoo.com/articles/tigers-grab-luis-gil-days-211126726.html"
         },
         {
-          "headline": "NFL playoff picture, NFL standings update in Week 11",
-          "summary": "The NFL playoff picture is top-heavy coming into Week 11 on Nov. 22.",
+          "headline": "Josh Downs good for four receptions in Week 11",
+          "summary": "Kansas City Chiefs wide receiver Josh Downs registered four receptions for 59 yards on five targets in Week 11 against the Arizona Cardinals . SOURCE: USA TODAY Why it Matters: Downs has come in and made a difference in the passing game for the Chiefs, emerging as a solid WR4 or flex fantasy option in the potent Kansas City offense.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/nfl-playoff-picture-nfl-standings-204018519.html"
+          "url": "https://sports.yahoo.com/articles/josh-downs-good-four-receptions-210825990.html"
         },
         {
-          "headline": "MLB rumors: Scott Boras sets Tarik Skubal timeline, plus Tigers signing former Rookie of the Year",
-          "summary": "Here are the latest news and rumors from the MLB hot stove on Sunday, Nov. 22",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-free-agency-timeline-red-sox-luis-gil/"
-        },
-        {
-          "headline": "Titans' Carnell Tate stuns Cowboys with one of NFL season's strangest touchdowns",
-          "summary": "The Titans rookie appeared to be down after catching a pass from Cam Ward, but he got back up and sprinted to the end zone",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/titans-carnell-tate-touchdown-cowboys/"
-        },
-        {
-          "headline": "Alcaraz outplays Zverev for first ATP Finals triumph",
-          "summary": "Carlos Alcaraz ends his wait for a first ATP Finals title as he outplays world number one Alexander Zverev in Turin.",
+          "headline": "Pepe did not injure eyes staring at sun, say Villarreal",
+          "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\".",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/c60evlendg0jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Man Utd plotting Toney move - Monday's gossip",
+          "summary": "Manchester United eye move for Al-Ahli striker Ivan Toney, Fulham hold contract talks with Calvin Bassey and PSG could step up pursuit of Eli Junior Kroupi.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck053nyl6399o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "DK Metcalf ejected: Steelers receiver tossed after poking Cooper DeJean in the eye",
+          "summary": "Metcalf had more penalty than receiving yards against the Eagles",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/dk-metcalf-ejected-steelers-receiver-tossed-after-poking-cooper-dejean-eye/"
         }
       ]
     },
@@ -873,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
+          "summary": "Spain’s Huelva Ibero-American Film Festival, one of Europe’s foremost Latin American cinema platforms, prized two of the region’s cinema greats, awarding top prizes to Chilean actor Alfredo Castro and Argentine writer-director Lucía Puenzo on Saturday night. “La Bola Negra” also reaped yet another plaudit, its scribe-helmer-producer duo Javier Calvo and…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462/"
+        },
+        {
           "headline": "John Turturro Says ‘I Still Consider Myself a Beginner’ as He Gets Marrakech Film Festival Tribute Award: ‘Every Job Is Like a First Love’",
           "summary": "Though his career has spanned over four decades, John Turturro still feels like it’s just the beginning. The 69-year-old actor and filmmaker was honored with a tribute award at Marrakech Film Festival on Sunday night, where he was greeted with roaring applause as he mimed the iconic bowling moves of his “The Big Lebowski” character […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255/"
-        },
-        {
-          "headline": "‘Hunger Games’ Lead Joseph Zada on Filming His Breakout Movie Role and ‘Sunrise on the Reaping’s’ Intense Stunts: ‘I Look Like a F—ing Action Star!’",
-          "summary": "When it comes to taking on the leading role in one of the most beloved film (and literary) franchises, sometimes you just have to jump right in. At least that was the case for Joseph Zada, whose first day on set of “The Hunger Games: Sunrise on the Reaping” was spent filming the opening cornucopia […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/features/hunger-games-sunrise-on-the-reaping-joseph-zada-action-scenes-1236954627/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
@@ -897,10 +917,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
         },
         {
-          "headline": "‘You Can See Everything’ Becomes Rare Documentary to Surpass $100 Million Globally",
-          "summary": "“You Can See Everything” has surpassed $100 million globally, a rare box office milestone for a documentary. So far, the zeitgeist-capturing look at Theranos fraudster Elizabeth Holmes has generated a staggering $93.4 million at the domestic box office and $9 million overseas for a worldwide tally of $102.4 million.",
+          "headline": "‘Hunger Games’ Lead Joseph Zada on Filming His Breakout Movie Role and ‘Sunrise on the Reaping’s’ Intense Stunts: ‘I Look Like a F—ing Action Star!’",
+          "summary": "When it comes to taking on the leading role in one of the most beloved film (and literary) franchises, sometimes you just have to jump right in. At least that was the case for Joseph Zada, whose first day on set of “The Hunger Games: Sunrise on the Reaping” was spent filming the opening cornucopia […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/"
+          "url": "https://variety.com/2026/film/features/hunger-games-sunrise-on-the-reaping-joseph-zada-action-scenes-1236954627/"
         }
       ]
     },
@@ -1013,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T15:46:00-05:00"
+  "updatedAt": "2026-11-22T16:15:16-05:00"
 }
