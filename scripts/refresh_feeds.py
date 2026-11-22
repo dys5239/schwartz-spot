@@ -54,6 +54,9 @@ MIN_FRESH = 3
 # Editor: at most this many stories from one source per section, unless
 # the section would otherwise be short.
 MAX_PER_SOURCE = 2
+# Editor (Nov 21): stories older than this are used only after fresher ones
+# (stale ABC/NPR items sat in the slate for every run on Nov 20 and 21).
+FRESH_HOURS = 36
 
 # section -> list of feeds. "prefer" is an optional URL-path substring
 # list; if set, items whose URL matches are preferred for that section.
@@ -114,20 +117,18 @@ FEEDS: list[dict] = [
     },
     # Media
     # Editor (Nov 20): Media = the media business. THR's business feed replaces
-    # Deadline's unfiltered main feed; Variety no longer prefers /awards/ (film
-    # campaign profiles) or /global/.
+    # Deadline's unfiltered main feed.
+    # Editor (Nov 21): Variety's main feed had no /biz/ items on the weekend, so
+    # the "prefer" fallback filled Media with film interviews; use Variety's
+    # business-category feed instead. CBS entertainment (book excerpts, Saturday
+    # Sessions music videos) is replaced by Deadline's business-category feed.
     {
         "url": "https://www.hollywoodreporter.com/c/business/feed/",
         "source": "The Hollywood Reporter",
         "section": "media",
     },
-    {
-        "url": "https://variety.com/feed/",
-        "source": "Variety",
-        "section": "media",
-        "prefer": ["/biz/", "/digital/"],
-    },
-    {"url": "https://www.cbsnews.com/latest/rss/entertainment", "source": "CBS News", "section": "media"},
+    {"url": "https://variety.com/v/biz/feed/", "source": "Variety", "section": "media"},
+    {"url": "https://deadline.com/v/business/feed/", "source": "Deadline", "section": "media"},
     # Music
     {"url": "https://feeds.npr.org/1039/rss.xml", "source": "NPR", "section": "music"},
     {"url": "https://www.billboard.com/feed/", "source": "Billboard", "section": "music"},
@@ -172,8 +173,13 @@ LOCAL_OUTLET_RE = re.compile(
     re.I,
 )
 # Editor: shopping/deal roundups are not news.
-JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide", re.I)
-JUNK_HEAD_RE = re.compile(r"black friday|cyber monday|gift guide|prime day|promo code|bonus code", re.I)
+# Editor (Nov 21): Variety "Strictly Business" sponsored tax/charity pieces.
+JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$", re.I)
+JUNK_HEAD_RE = re.compile(
+    r"black friday|cyber monday|gift guide|prime day|promo code|bonus code|"
+    r"bonus(es)? (from|at|with) (betting|sportsbook)",  # Editor (Nov 21)
+    re.I,
+)
 # Editor: Sports stays national; drop high-school / local prep roundups.
 LOCAL_SPORTS_RE = re.compile(r"\b(high school|state playoffs?|prep (football|sports|basketball))\b", re.I)
 TAG_RE = re.compile(r"<[^>]+>", re.S)
@@ -428,6 +434,35 @@ def headline_key(story: dict) -> str:
     return "h:" + re.sub(r"\W+", " ", (story.get("headline") or "").lower()).strip()
 
 
+STOP_WORDS = set("the a an and or of to in on at for with by from as is are was be after over into says say said new its his her their this that".split())
+
+
+def headline_words(story: dict) -> frozenset:
+    words = re.sub(r"[^\w\s]", " ", (story.get("headline") or "").lower()).split()
+    return frozenset(w for w in words if len(w) > 2 and w not in STOP_WORDS)
+
+
+def near_duplicate(a: frozenset, b: frozenset) -> bool:
+    """Editor (Nov 21): same story, lightly reworded headline (e.g. CBS vs ABC wire)."""
+    small = min(len(a), len(b))
+    if small < 4:
+        return False
+    shared = len(a & b)
+    return shared / small >= 0.8 or (shared >= 5 and shared / small >= 0.4)
+
+
+def is_stale(story: dict, now: datetime | None = None) -> bool:
+    raw = story.get("published") or ""
+    if not raw:
+        return False
+    try:
+        when = datetime.fromisoformat(raw)
+    except ValueError:
+        return False
+    now = now or datetime.now(ET_ZONE)
+    return (now - when).total_seconds() > FRESH_HOURS * 3600
+
+
 def story_key(story: dict) -> str:
     url = (story.get("url") or "").strip().rstrip("/").lower()
     if url:
@@ -480,9 +515,12 @@ def pick_section(
     failed: set[str],
     used: set[str] | None = None,
     section_id: str = "",
+    used_words: list[frozenset] | None = None,
 ) -> list[dict]:
     ranked = sorted(candidates, key=lambda s: s.get("published") or "", reverse=True)
     used = used if used is not None else set()
+    used_words = used_words if used_words is not None else []
+    seen_words: list[frozenset] = []
     seen: set[str] = set()
     picked: list[dict] = []
     per_source: dict[str, int] = {}
@@ -494,6 +532,9 @@ def pick_section(
         key = story_key(story)
         hkey = headline_key(story)
         if not key or key in seen or key in used or hkey in seen or hkey in used:
+            return
+        words = headline_words(story)
+        if any(near_duplicate(words, w) for w in seen_words + used_words):
             return
         if per_source.get(story.get("source") or "", 0) >= cap[0]:
             return
@@ -515,17 +556,17 @@ def pick_section(
             return
         seen.add(key)
         seen.add(hkey)
+        seen_words.append(words)
         per_source[clean["source"]] = per_source.get(clean["source"], 0) + 1
         picked.append(clean)
 
-    for story in ranked:
-        url = (story.get("url") or "").strip()
-        if url and url in verified:
-            consider(story, True)
-    if len(picked) < MAX_PER_SECTION:
-        # Not enough source variety: lift the per-source cap and refill.
-        cap[0] = MAX_PER_SECTION
-        for story in ranked:
+    # Editor (Nov 21): fresh stories first (capped, then cap lifted), and only
+    # then older ones, so a slow feed's two-day-old item cannot hold a slot.
+    fresh = [s for s in ranked if not is_stale(s)]
+    stale = [s for s in ranked if is_stale(s)]
+    for pool, lifted in ((fresh, False), (fresh, True), (stale, False), (stale, True)):
+        cap[0] = MAX_PER_SECTION if lifted else MAX_PER_SOURCE
+        for story in pool:
             url = (story.get("url") or "").strip()
             if url and url in verified:
                 consider(story, True)
@@ -536,6 +577,7 @@ def pick_section(
     picked = picked[:MAX_PER_SECTION]
     used.update(story_key(s) for s in picked)
     used.update(headline_key(s) for s in picked)
+    used_words.extend(headline_words(s) for s in picked)
     return picked
 
 
@@ -543,13 +585,14 @@ def build_sections(day: dict, by_section: dict[str, list[dict]], verified: set[s
     sections = []
     posts = existing_posts(day)
     used: set[str] = set()  # Editor: no story appears in two sections
+    used_words: list[frozenset] = []
     for sec_id in SECTION_ORDER:
         if sec_id == "x":
             if posts:
                 sections.append({"id": "x", "title": "On X", "stories": [], "posts": posts})
             continue
         previous = existing_stories(day, sec_id)
-        stories = pick_section(by_section.get(sec_id) or [], previous, verified, failed, used, sec_id)
+        stories = pick_section(by_section.get(sec_id) or [], previous, verified, failed, used, sec_id, used_words)
         if not stories:
             continue
         sections.append({"id": sec_id, "title": SECTION_TITLES[sec_id], "stories": stories})
