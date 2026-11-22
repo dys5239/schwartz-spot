@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music . Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto -themed section.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+        },
+        {
           "headline": "TechCrunch Mobility: A/B testing robots vs. humans",
           "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
-        },
-        {
-          "headline": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-          "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
         }
       ]
     },
@@ -41,6 +41,24 @@
       "id": "news",
       "title": "News",
       "stories": [
+        {
+          "headline": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
+          "headline": "Jeffries talks about where Democrats may be able to work with Trump",
+          "summary": "House Minority Leader Hakeem Jeffries outlined areas where Democrats \"can explore coming together\" with President Trump.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/hakeem-jeffries-trump-democrats-healthcare/"
+        },
+        {
+          "headline": "Meet the young authors! A literacy program inspires kids in South Africa",
+          "summary": "From Gomora to the World. Stories from Alex, a new book of short stories written by kids who are part of the \"Read Alex\" literacy program in Johannesburg.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy"
+        },
         {
           "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
           "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
@@ -52,24 +70,6 @@
           "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
-          "summary": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/"
-        },
-        {
-          "headline": "UN climate conference ends without deal as countries clash over fossil fuels, finance",
-          "summary": "Participating nations in the U.N. COP31 climate conference failed to reach consensus on fossil fuels, finance and other issues.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
-        },
-        {
-          "headline": "DNI Clayton: Putin is 'not America's friend in Ukraine'",
-          "summary": "The director of national intelligence appeared on ABC's \"This Week\" Sunday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124558226037547142",
+          "created_at": "2026-11-22T17:38:48.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "New footage shows a Ukrainian USV ramming  Russian ship Merkury at Benghazi naval base in Libya. https://t.co/XHKumGfcbX https://t.co/hL0uCbpLhV",
+          "url": "https://x.com/i/status/2124558226037547142",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124555156331114498",
+          "created_at": "2026-11-22T17:26:36.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Don’t be shocked when you see these “Republicans” working with Muslim Brotherhood candidates scheme with Democrats to impeach President Trump for their own political aspirations. \n\nI wouldn’t be shocked to see that happen. If you’re willing to sell your country out to the Muslim",
+          "url": "https://x.com/i/status/2124555156331114498",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124555029885460532",
+          "created_at": "2026-11-22T17:26:06.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says the stock market crash “will only get worse” if the Democrats “don’t change fast.” https://t.co/HZpau4TjT1",
+          "url": "https://x.com/i/status/2124555029885460532",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124554471430566091",
+          "created_at": "2026-11-22T17:23:52.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "A series of awful late-game choices turned the final three minutes of Boise State-SDSU into a complete coaching meltdown and put the Broncos CFP hopes in serious jeopardy.\n\n@ByGusWilson breaks down the collapse:\nhttps://t.co/8sZTsMaElT",
+          "url": "https://x.com/i/status/2124554471430566091",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124553960853778780",
+          "created_at": "2026-11-22T17:21:51.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Debl, southern Lebanon: IDF Arabic spokesperson Ella Waweya visited the Christian village and spoke with Lebanese students. https://t.co/MWBttuP8Nz",
+          "url": "https://x.com/i/status/2124553960853778780",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124551435819811283",
           "created_at": "2026-11-22T17:11:49.000Z",
@@ -155,26 +205,6 @@
           "author_handle": "Osint613",
           "text": "Lebanese Druze leader Wiam Wahhab:\n\n\"Iran will have to abandon its policy of destroying Israel and cut a deal with America.\n\nMuslims need an agenda other than killing, raping, and conquering Rome.\n\nWe can no longer act like cavemen.\" https://t.co/O8O08mVE2K",
           "url": "https://x.com/i/status/2124541489866752189",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124540782568788074",
-          "created_at": "2026-11-22T16:29:29.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Controlled demolition by the IDF in Kfar Tebnit, Lebanon. https://t.co/2RbJIABb3Y",
-          "url": "https://x.com/i/status/2124540782568788074",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124539944630710528",
-          "created_at": "2026-11-22T16:26:09.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Abdul El-Sayed:\n\n\"I'm saying that I don't believe in ethnostates. You and I are both Americans.\n\nWe dignify the fact that though our skin color might be different, we pray different ways, that American laws respect us the same.\n\nThe idea that any government that we are supporting https://t.co/CqSWkIEJGv",
-          "url": "https://x.com/i/status/2124539944630710528",
           "verified": true,
           "verified_type": "blue"
         },
@@ -439,26 +469,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124357933043511665",
-          "created_at": "2026-11-22T04:22:54.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "China's economic slowdown is deepening:\n\nChina's retail sales rose just +0.4% YoY in October, the 3rd-lowest reading since December 2022, and well below the expected +0.8% growth.\n\nThis marks a sharp deceleration from a +1.1% YoY increase in September.\n\nRetail sales are now on https://t.co/1faQgqjq4z",
-          "url": "https://x.com/i/status/2124357933043511665",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124354311044104560",
-          "created_at": "2026-11-22T04:08:31.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "All Smiles for Eli Drinkwitz 🐯 https://t.co/n8DEIkYc2K",
-          "url": "https://x.com/i/status/2124354311044104560",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124348139729572278",
           "created_at": "2026-11-22T03:43:59.000Z",
           "author_name": "OutKick",
@@ -535,16 +545,6 @@
           "author_handle": "LauraLoomer",
           "text": "The UK’s version of our DHS Secretary is a Muslim woman named @ShabanaMahmood… so of course she is letting this terrorist into the UK.\n\nYou are not Islamophobic enough.\n\nGet on my level. https://t.co/WXDaUk9xVP",
           "url": "https://x.com/i/status/2124320668384985303",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124318186250080305",
-          "created_at": "2026-11-22T01:44:58.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Whose genius idea was it to try to normalize Abdul El-Sayed, the guy who said he didn’t want to celebrate the death of the Ayatollah because his jihadist constituents were sad about the death of a terrorist? \n\nSo we just pissed away hundreds of millions of dollars on a primary to",
-          "url": "https://x.com/i/status/2124318186250080305",
           "verified": true,
           "verified_type": "blue"
         },
@@ -791,12 +791,6 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "Transcript: House Minority Leader Hakeem Jeffries on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "The following is the transcript of the interview with House Minority Leader Hakeem Jeffries, Democrat of New York, that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
-        },
-        {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
           "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
           "source": "NPR",
@@ -807,6 +801,12 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
+        },
+        {
+          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
+          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
         },
         {
           "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
@@ -821,16 +821,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
+          "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
+        },
+        {
           "headline": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
           "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
-        },
-        {
-          "headline": "I’ve studied over 200 kids—parents who do 6 things accidentally raise people pleasers: It starts in ‘ordinary, well-intentioned moments’",
-          "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
         },
         {
           "headline": "UN climate talks break down over bitter disagreements on fossil fuels",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Packers All-Pro Micah Parsons 'on track' to make season debut vs. Rams",
-          "summary": "Green Bay Packers edge rusher Micah Parsons will practice in pads on Sunday and remains on track to make his 2026 season debut on Thanksgiving Eve against the Los Angeles Rams. Packers coach Matt LaFleur confirmed Parsons has increased his rep count at practice and will check off another significant box in his recovery when he practices in full pads on…",
+          "headline": "How to watch Chiefs vs Cardinals for free: Week 11, live stream, TV channel",
+          "summary": "The Arizona Cardinals travel to Kansas City on Sunday afternoon looking to pull off a major upset against Patrick Mahomes and the Chiefs in Week 11 of the NFL season. Nov 15, 2026; Glendale, Arizona, USA; Arizona Cardinals tight end Trey McBride (85) looks on before the game against the Los Angeles Rams at State Farm Stadium.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/packers-pro-micah-parsons-track-171245593.html"
+          "url": "https://sports.yahoo.com/articles/watch-chiefs-vs-cardinals-free-174000057.html"
         },
         {
-          "headline": "Bowl projections: Slotting all 47 games as Week 12 upsets provide massive shakeup to postseason picture",
-          "summary": "Take what you thought you knew about the Big Ten's projected postseason pairings and toss them away",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-cfp-bracket-predictions-week-13-2026/"
-        },
-        {
-          "headline": "FINAL Week 11 Fantasy Football rankings update",
-          "summary": "Week 11 is here!",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/"
-        },
-        {
-          "headline": "Paris Saint-Germain forward Désiré Doué to undergo knee surgery",
-          "summary": "PARIS (AP) — Paris Saint-Germain forward Désiré Doué will undergo surgery before the end of December after rupturing the anterior cruciate ligament (ACL) in his right knee, his club said Sunday. The France international was carried off on a stretcher during PSG's 3-2 win at Nice in Ligue 1 on Saturday.",
+          "headline": "Big wins as Celtic, Rangers, City & Hearts progress",
+          "summary": "Isabella Fisher scored four goals in Celtic's win [SNS] Holders Celtic breezed through to the fourth round of the Women's Scottish Cup with a 17-0 victory over Forfar Farmington . Morgan Cross and Casey Howe both netted hat-tricks, Isabella Fisher scored four times and Amy Gallacher bagged a double.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/paris-saint-germain-forward-d-171151156.html"
+          "url": "https://sports.yahoo.com/articles/big-wins-celtic-rangers-city-171017733.html"
         },
         {
-          "headline": "'Rolls Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-          "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+          "headline": "Arsenal frustrations grow as winless home run continues",
+          "summary": "Arsenal remain without a home win in the WSL as they play out a goalless draw with West Ham, increasing the pressure on Renee Slegers.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm8e0pdw70d8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Jakirovic full of praise for Tzolakis performance",
+          "summary": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.\"",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Fantasy football rankings, projections, lineup advice, sleeper picks for Week 11 from proven model",
+          "summary": "SportsLine's model reveals its Week 11 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-lineups-projections-sleepers-streamers-start-sit-advice-week-11-2026/"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Rian Johnson Cites Curry Barker as Reason to Be Optimistic About Future of Indie Filmmaking: ’Youtube Is Just What Sundance Was in the ‘80s’",
+          "summary": "Rian Johnson is hopeful about the future of indie filmmaking. During a converation at Marrakech Film Festival on Sunday afternoon, the “Star Wars: Last Jedi” and “Knives Out” director specifically cited Youtube as one of the most effective ways for early-career filmmakers to get their movies discovered.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/rian-johnson-curry-barker-indie-film-youtube-sundance-1236955248/"
+        },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
           "summary": "The sixth film in the Lionsgate series rebounded after 2023's 'The Ballad of Songbirds & Snakes,' while freshly expanded 'I Play Rocky' and newcomer 'Elsinore' also came out swinging.",
@@ -905,22 +911,16 @@
           "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267/"
         },
         {
-          "headline": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
-          "summary": "Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor and Michelin-starred chef and filmmaker Vikas Khanna have come aboard short “The Dragon Letter” as executive producers, and Ladakhi director Stanzin Jigmet tells Variety he is developing a feature version of the Student Academy Award-winning short.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265/"
-        },
-        {
           "headline": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward",
           "summary": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/"
         },
         {
-          "headline": "James Gray on Francis Ford Coppola’s Advice That Shaped His Career: ‘Be Personal. There’s Only One of You in This World’",
-          "summary": "When filmmaker James Gray was a teenager, he wrote a fan letter to Francis Ford Coppola. To his surprise, the legendary filmmaker wrote back with a piece of advice that would come to shape Gray’s entire approach to cinema.",
+          "headline": "J.A. Bayona, Guneet Monga Kapoor, Vikas Khanna Board Student Academy Award Winner ‘The Dragon Letter’ as Director Plans Feature Version (EXCLUSIVE)",
+          "summary": "Spanish director J.A. Bayona, Oscar-winning producer Guneet Monga Kapoor and Michelin-starred chef and filmmaker Vikas Khanna have come aboard short “The Dragon Letter” as executive producers, and Ladakhi director Stanzin Jigmet tells Variety he is developing a feature version of the Student Academy Award-winning short.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/james-gray-paper-tiger-francis-ford-coppola-advice-1236955238/"
+          "url": "https://variety.com/2026/film/markets-festivals/ja-bayona-guneet-monga-kapoor-vikas-khanna-dragon-letter-1236955265/"
         }
       ]
     },
@@ -928,6 +928,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Tom Jackson, Hall of Fame ESPN Broadcaster and Denver Broncos All-Pro Linebacker, Dies at 75",
+          "summary": "Tom Jackson, former Denver Broncos linebacker and a Hall of Fame ESPN analyst, died Friday. He was 75.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/people-news/tom-jackson-dead-espn-analyst-denver-broncos-1236955322/"
+        },
         {
           "headline": "How Oobah Butler Scammed His Way to HBO",
           "summary": "I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists.",
@@ -947,16 +953,10 @@
           "url": "https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/"
         },
         {
-          "headline": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
-          "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW’s partner in Egypt. The agreement is aimed at “identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/"
-        },
-        {
-          "headline": "Neon-Backed Biopic ‘Caesar,’ About Syrian Officer Who Blew the Whistle on Assad Regime Torture, to Be Directed by Ameer Fakher Eldin",
-          "summary": "Ameer Fakher Eldin (“The Stranger,” “Yunan”) is set to direct Neon-backed biopic “Caesar.” The film centers on Syrian military officer Farid Al-Madhhan who blew the whistle on torture and killings perpetrated by the regime of Syrian president Bashar Assad. Syrian star Taim Hassan has been cast in the lead role playing the film’s titular hero, […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/ameer-fakher-eldin-caesar-syrian-assad-torture-1236955196/"
+          "headline": "‘Yellowjackets’ Creators On Ending Show Ahead Of Original Five-Season Plan: “We Chose To Try To Squeeze It In”",
+          "summary": "While many Yellowjackets fans are struggling to cope with the inevitable end, for its series creators, it was the right time to land the plane. Discussing the fourth and final season with Deadline, Ashley Lyle and Bart Nickerson explained that they didn’t want to “run the risk of overstaying our welcome” with another season when […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/yellowjackets-creators-ending-show-ahead-five-season-plan-1237231035/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T12:19:28-05:00"
+  "updatedAt": "2026-11-22T12:45:32-05:00"
 }
