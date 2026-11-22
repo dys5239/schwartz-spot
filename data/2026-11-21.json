@@ -42,16 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+          "headline": "Kansas City Current capture first NWSL trophy",
+          "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+          "url": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/"
         },
         {
-          "headline": "FBI's national crime database targeted in hack, Trump says",
-          "summary": "President Donald Trump confirmed on Saturday that the FBI’s National Crime Information Center database was targeted in a hack.",
+          "headline": "Wash. officials condemn ICE after 2 arrested boarding flight at Seattle airport",
+          "summary": "Plainclothes officers in masks detained two people who were boarding a flight at Seattle-Tacoma International Airport.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810"
+          "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974"
+        },
+        {
+          "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+          "summary": "The European Space Agency announced BepiColombo's arrival via social media.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997"
         },
         {
           "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
@@ -64,12 +70,6 @@
           "summary": "Catherine, Princess of Wales is pictured on several front pages following news of her new documentary.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "How a teen gamer and his mother helped rescue a missing girl",
-          "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124345219571462236",
+          "created_at": "2026-11-22T03:32:23.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 7 Miami avoids an upset, and clinches a spot in the ACC Title Game with their win over VT tonight. https://t.co/DccrNAbv4x",
+          "url": "https://x.com/SportNState/status/2124345219571462236",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124345110259261579",
+          "created_at": "2026-11-22T03:31:57.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Anyway. I hope everyone has a good Thanksgiving holiday this week. \n\nEveryday is clown world in our country and I am convinced that it really doesn’t even matter which party is in control anymore. We should be grateful for what’s left of America before it’s completely destroyed.",
+          "url": "https://x.com/LauraLoomer/status/2124345110259261579",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124341850769149956",
+          "created_at": "2026-11-22T03:19:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Big Ten was supposed to have a quiet weekend. Instead, the entire conference got flipped upside down.\n\nUCLA and Indiana both lost, Oregon and Iowa stayed alive, and the championship race is suddenly wide open entering rivalry weekend.\n\n✍️: @byguswilson\nhttps://t.co/jKSTs1nyGB",
+          "url": "https://x.com/SportNState/status/2124341850769149956",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124340719397781824",
+          "created_at": "2026-11-22T03:14:30.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "FSD is GTA irl https://t.co/bon7EVtmDs",
+          "url": "https://x.com/elonmusk/status/2124340719397781824",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124339180478328891",
+          "created_at": "2026-11-22T03:08:23.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Kentucky quiets the crowd temporarily in CoMo 😼\n\nHowever, the Tigers still lead 28-14 early in the second half: https://t.co/XoTNgEeTLb",
+          "url": "https://x.com/SportNState/status/2124339180478328891",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124335367872512080",
+          "created_at": "2026-11-22T02:53:14.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "GEORGIA SURPRISE ONSIDE https://t.co/xD9MZIkMPN",
+          "url": "https://x.com/Outkick/status/2124335367872512080",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124332104800702673",
           "created_at": "2026-11-22T02:40:16.000Z",
@@ -129,16 +189,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124326532701413652",
-          "created_at": "2026-11-22T02:18:08.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Hall of Fame Class of 2026, Drew Lock! 🐯\n\nLock was honored during a timeout tonight: https://t.co/POzYPhC2JH",
-          "url": "https://x.com/SportNState/status/2124326532701413652",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124325451908948451",
           "created_at": "2026-11-22T02:13:50.000Z",
           "author_name": "Elon Musk",
@@ -175,16 +225,6 @@
           "author_handle": "LauraLoomer",
           "text": "Whose genius idea was it to try to normalize Abdul El-Sayed, the guy who said he didn’t want to celebrate the death of the Ayatollah because his jihadist constituents were sad about the death of a terrorist? \n\nSo we just pissed away hundreds of millions of dollars on a primary to",
           "url": "https://x.com/LauraLoomer/status/2124318186250080305",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124318143396847905",
-          "created_at": "2026-11-22T01:44:47.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Nebraska officially KO’d Ohio State’s season and, judging by the reaction on X, it’s going to be a LONG week for Ryan Day. \n\nWill the Buckeyes bounce back against Michigan? Things could get a whole lot uglier in Columbus. \n\n✍️: @mattyfoles \nhttps://t.co/RclKDhPBqw",
-          "url": "https://x.com/SportNState/status/2124318143396847905",
           "verified": true,
           "verified_type": "blue"
         },
@@ -265,26 +305,6 @@
           "author_handle": "LauraLoomer",
           "text": "President Trump doesn’t post on his Truth account. His staff make all of the posts for him. I’ve seen this in person enough times to know he doesn’t make any of the posts on his account. He dictates the long posts but he doesn’t make the actual posts. \n\nDoes he know that an https://t.co/230YiWUyK8 https://t.co/BqhF5ax6g5",
           "url": "https://x.com/LauraLoomer/status/2124309714041258374",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124309196456005802",
-          "created_at": "2026-11-22T01:09:14.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "LSU HC Lane Kiffin walks off the field after falling to 6-5 at LSU: https://t.co/JPOZLw4gxf",
-          "url": "https://x.com/SportNState/status/2124309196456005802",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124308337630060962",
-          "created_at": "2026-11-22T01:05:50.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Why would the Trump administration want to work with a jihadist who signed a pledge in support of the Muslim Brotherhood?\n\nWe are not a serious country. \n\nWe just listened to countless campaign speeches in which President Trump talked about how @AbdulElSayed is a jihadi with ties https://t.co/FoW9X2dHAT https://t.co/3o6SZXDMla",
-          "url": "https://x.com/LauraLoomer/status/2124308337630060962",
           "verified": true,
           "verified_type": "blue"
         },
@@ -409,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124293194284458148",
-          "created_at": "2026-11-22T00:05:39.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "FAIZON BRANDON DOES IT HIMSELF https://t.co/VTUinKApwJ",
-          "url": "https://x.com/Outkick/status/2124293194284458148",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124286765871911255",
           "created_at": "2026-11-21T23:40:06.000Z",
           "author_name": "StockMarket.News",
@@ -485,16 +495,6 @@
           "author_handle": "_Investinq",
           "text": "Carta CEO Henry Ward says VCs will \"100%\" have to write down their AI startup bets, with 49 of every 50 lookalikes getting marked down\n\n\"Every startup is priced as though they're going to be the dominant winner\"\n\n\"You might have 50 startups doing the same thing. You've written https://t.co/HydvNzivqG",
           "url": "https://x.com/_Investinq/status/2124271707439661114",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124270426402836626",
-          "created_at": "2026-11-21T22:35:11.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://t.co/ieASMRunOy",
-          "url": "https://x.com/elonmusk/status/2124270426402836626",
           "verified": true,
           "verified_type": "blue"
         },
@@ -833,12 +833,6 @@
           "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
         },
         {
-          "headline": "Trump vows to work with Democrats to cap credit card interest rates",
-          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/"
-        },
-        {
           "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
           "summary": "This would make the second recent intrusion into the FBI system.",
           "source": "CNBC",
@@ -849,6 +843,12 @@
           "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+        },
+        {
+          "headline": "More changes are coming for Southwest Airlines, CEO says",
+          "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/"
         }
       ]
     },
@@ -857,16 +857,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Davies scores 19 in Vermont’s 84-71 victory over Brown",
-          "summary": "BURLINGTON, Vt. (AP) — Will Davies scored 19 points as Vermont beat Brown 84-71 on Saturday.",
+          "headline": "Southlake Carroll downs Westlake for 2nd straight Class 6A DII state volleyball title",
+          "summary": "Southlake Carroll's Vanessa Glenn (83), right, receives a hug from teammate Abigail Clem (1) as the team celebrated their straight sets victory over Austin Westlake to capture the state championship. The Class 6A Division ll UIL state championship volleyball match between the two teams was held at the Curtis Culwell Center in Garland on November 21, 2026.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/davies-scores-19-vermont-84-023803203.html"
+          "url": "https://sports.yahoo.com/articles/southlake-carroll-downs-westlake-2nd-033703251.html"
         },
         {
-          "headline": "Knee surgery complicates Puka Nacua's future",
-          "summary": "On Friday, Rams coach Sean McVay said receiver Puka Nacua will miss \"a couple months.\" Nacua is reportedly expected to miss a couple months more than that. Via ESPN, the recovery time following surgery to repair the MCL tear is four to five months .",
+          "headline": "Miami locks up ACC championship berth! How to buy tickets in Charlotte",
+          "summary": "In at the last minute! The Miami Hurricanes wrapped up a spot in the 2026 ACC championship game , its final installment ahead of next year's College Football Playoff expansion.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/knee-surgery-complicates-puka-nacuas-023708964.html"
+          "url": "https://sports.yahoo.com/articles/miami-locks-acc-championship-berth-033238250.html"
+        },
+        {
+          "headline": "Washington upsets No. 6 Indiana 27-24 in OT on Tyler Robles' field goal",
+          "summary": "Washington earns first win over a top-10 team in two years in dramatic fashion.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/washington-upsets-6-indiana-27-24-overtime-tyler-138351358"
         },
         {
           "headline": "College Football Playoff bubble: Sorting the CFP chaos as UCLA, Indiana suffer Week 12 upsets",
@@ -875,16 +881,10 @@
           "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bubble-watch-teams-week-12-2026/"
         },
         {
-          "headline": "Osborne throws and runs for scores, UConn bowl eligible with 29-21 win over Old Dominion",
-          "summary": "Kalieb Osborne ran for a touchdown and threw for a score and UConn became bowl eligible with a 29-21 win over Old Dominion on Saturday night",
+          "headline": "Worthy’s 20 lead San Diego past UC Irvine 67-64",
+          "summary": "Marqui Worthy had 20 points in San Diego’s 67-64 victory over UC Irvine on Saturday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/osborne-throws-runs-scores-uconn-bowl-eligible-29-138351724"
-        },
-        {
-          "headline": "Faizon Brandon's 2 long TD runs in the fourth quarter lift No. 9 Tennessee past LSU, 27-13",
-          "summary": "Faizon Brandon had two long touchdown runs in the fourth quarter and No. 9 Tennessee’s stifling defense proved critical in a 27-13 victory over LSU on Saturday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/faizon-brandons-2-long-td-runs-fourth-quarter-138351813"
+          "url": "https://abcnews.com/Sports/wireStory/worthys-20-lead-san-diego-past-uc-irvine-138351640"
         }
       ]
     },
@@ -917,10 +917,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
         },
         {
-          "headline": "'Sunrise on the Reaping' feels like sunset for the 'Hunger Games' franchise",
-          "summary": "The Hunger Games: Sunrise on the Reaping. '/> This prequel tells the origin story of Haymitch Abernathy.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/20/nx-s1-6046181/hunger-games-sunrise-on-the-reaping-review"
+          "headline": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is the End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed-Out Headspace’ While Filming",
+          "summary": "Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is the End” while the two films were both shooting in New Orleans.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/"
         }
       ]
     },
@@ -953,10 +953,10 @@
           "url": "https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/"
         },
         {
-          "headline": "In the unflinching 'Josephine,' Beth de Araújo transmutes tragedy into art",
-          "summary": "The central character of Beth de Araújo’s shattering film “Josephine” is an 8-year-old girl modeled on Araújo as a child",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/unflinching-josephine-beth-de-arajo-transmutes-tragedy-art-138317266"
+          "headline": "Kaitlan Collins Notes ‘Real Time’ Absence Was Due To White House Press Conference",
+          "summary": "The Season 24 finale of Real Time with Bill Maher featured a last-minute guest change as Kaitlan Collins was held up in Washington DC. Although she was scheduled to appear on the HBO talk show alongside newly elected Texas Democratic congressman Bobby Pulido, the CNN anchor explained she was covering a White House press conference […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/kaitlan-collins-real-time-absence-white-house-press-conference-1237231015/"
         }
       ]
     },
@@ -965,34 +965,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Seth Rogen Says Brad Pitt and ‘12 Years a Slave’ Cast Would Visit ‘This Is the End’ Set to ‘Perk Up’ Because They Were ‘in a Bummed-Out Headspace’ While Filming",
-          "summary": "Seth Rogen and Brad Pitt spent time together while shooting very different films in 2013. Rogen recalled Pitt, Michael Fassbender, Chiwetel Ejiofor and other cast members from “12 Years a Slave” spending time on the set of his comedy “This Is the End” while the two films were both shooting in New Orleans.",
+          "headline": "Sean Astin Mobilizes SAG-AFTRA In Fight For Universal Healthcare As “Substantial Majority” Of Members Don’t Qualify For Insurance",
+          "summary": "As many SAG-AFTRA members struggle to qualify for health insurance, the union is taking the issue to the U.S. government.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076/"
+        },
+        {
+          "headline": "CAA’s Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans “Famous Or Not”",
+          "summary": "CAA chief Bryan Lourd is urging the full Congress to pass the No Fakes Act and deliver it to President Trump for signature, a move Lourd says would protect everyone, famous or not, from nonconsensual digital replicas of their voices and likenesses. In a guest essay published in today’s New York Times, Lourd writes, “The […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/"
+        },
+        {
+          "headline": "Liz Daly Byrne, Model and Wife of PMC Vice Chairman Gerry Byrne, Dies at 81",
+          "summary": "Liz Daly Byrne, a model and philanthropist who was married to PMC vice chairman Gerry Byrne for more than 55 years, has died. She was 81.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/seth-rogen-brad-pitt-12-years-a-slave-cast-set-visit-1236955074/"
+          "url": "https://variety.com/2026/biz/news/liz-daly-byrne-dead-model-wife-gerry-byrne-variety-pmc-1236954966/"
         },
         {
-          "headline": "Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: ‘The Stories That We Tell Matter’",
-          "summary": "Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema, giving a heartfelt speech in which he thanked his many on-screen collaborators and insisted that “the stories that we tell matter.” The […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/"
-        },
-        {
-          "headline": "Saturday Sessions: Mynd Reader plays \"Still Uncertain\"",
-          "summary": "Colorado-based band Mynd Reader is a second act for Brian Sachs, who played in New York funk-rock group \"The Authority\" back in the 90s. Sachs joined multi-instrumentalist Tonin to form a new band.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-still-uncertain/"
-        },
-        {
-          "headline": "Saturday Sessions: Mynd Reader plays \"Soundtrack of Life\"",
-          "summary": "Colorado-based band Mynd Reader is a second act for Brian Sachs, who played in New York funk-rock group \"The Authority\" back in the 90s. Sachs joined multi-instrumentalist Tonin to form a new band.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/saturday-sessions-mynd-reader-plays-soundtrack-of-life/"
-        },
-        {
-          "headline": "Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare",
-          "summary": "The union has created a healthcare task force as its members talk openly about having troubles qualifying for its health plan and paying dues.",
+          "headline": "Hello Sunshine’s Lauren Neustadter Stepping Down at Year’s End (Exclusive)",
+          "summary": "The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332/"
+          "url": "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
+        },
+        {
+          "headline": "Creator Kennedy Eurich to Launch YouTube Series (Exclusive)",
+          "summary": "The digital series will debut in early 2027 on YouTube and across social media platforms.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/digital/creator-kennedy-eurich-youtube-series-1236760125/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T21:44:12-05:00"
+  "updatedAt": "2026-11-21T22:40:59-05:00"
 }
