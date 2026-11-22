@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Match of the Day",
+          "summary": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+        },
+        {
+          "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+          "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
           "headline": "Democrat Chuck Hubbard wins recount, flips North Carolina US House seat",
           "summary": "Democratic Chuck Hubbard will win the election in North Carolina's 5th congressional district, the Associated Press projects.",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/democrat-chuck-hubbard-wins-recount-north-carolina-us/story?id=138362634"
-        },
-        {
-          "headline": "Fifa to confirm UK bid to host 2035 Women's World Cup",
-          "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Over 1,600 Delta flight delays due to equipment problems",
-          "summary": "Hundreds of Delta Air Lines flights in and out of Atlanta's Hartsfield-Jackson Atlanta International Airport were delayed on Sunday due to a technical issue.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900"
-        },
-        {
-          "headline": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-          "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
-          "summary": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/"
         }
       ]
     },
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124634529164116431",
+          "created_at": "2026-11-22T22:42:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Eagles live mascot went rogue ahead of kickoff 😂\n\nTaking \"Fly Eagles Fly\" to a different level: https://t.co/YF6x4dJJaT",
+          "url": "https://x.com/SportNState/status/2124634529164116431",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124634058651287563",
+          "created_at": "2026-11-22T22:40:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Robinhood CEO Vlad Tenev says every customer who requested Anthropic IPO shares on Robinhood got at least one, while some institutions got nothing\n\n\"A couple of years ago when we set on the crusade to make individual investors a part of IPOs, we would kind of be laughed out of https://t.co/KQAbk8uHqf",
+          "url": "https://x.com/_Investinq/status/2124634058651287563",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124633475739439401",
+          "created_at": "2026-11-22T22:37:49.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️The United States is moving toward financial repression. \n\nBut the transition is going to reshape who owns the next economy before it makes money cheap again.\n\nThe Fed remains restrictive as inflation persists. Long-term yields stay elevated because investors must absorb https://t.co/McYMMfeaoK",
+          "url": "https://x.com/_The_Prophet__/status/2124633475739439401",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124633459692089349",
+          "created_at": "2026-11-22T22:37:45.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP TAKES AIM AT MINNESOTA: “THEY OWN IT, LOCK, STOCK, AND BARREL!”\n\nPresident Trump claims Minnesota has been politically overtaken by its Somali community and alleges that nearly 95% receive some form of welfare. https://t.co/Z2OKgB3t9M",
+          "url": "https://x.com/RealAmVoice/status/2124633459692089349",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124633195199226328",
+          "created_at": "2026-11-22T22:36:42.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP WARNS IRAN IS ESCALATING AFTER DEMOCRATS' MIDTERM VICTORY!\n\nPresident Trump says his predictions are coming true: plunging stock markets, falling oil prices, and a surge in Iranian drone and missile attacks.\n\nHe claims Iran views Democrats as “weak, ineffective, and Country https://t.co/9oTRyfbcts",
+          "url": "https://x.com/RealAmVoice/status/2124633195199226328",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124632013080781247",
+          "created_at": "2026-11-22T22:32:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Steelers WR DK Metcalf left Lincoln Field while the game was still going on 😂\n\nMetcalf was ejected during the third quarter of Sunday's 19-16 loss to the Philadelphia Eagles.  https://t.co/8tYZJTziaW",
+          "url": "https://x.com/SportNState/status/2124632013080781247",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124630393001496673",
+          "created_at": "2026-11-22T22:25:34.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "U.S. President Donald Trump:\n\n\"It’s incredible that Somalians have been able to completely take over the once great State of Minnesota. They own it, “lock, stock, and barrel” and, almost 95% are on some form of welfare. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP\". https://t.co/nTo0T1KhEv",
+          "url": "https://x.com/Osint613/status/2124630393001496673",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124630363607548191",
+          "created_at": "2026-11-22T22:25:27.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Getting ready for Thanksgiving like https://t.co/qYz3BVFloG",
+          "url": "https://x.com/SportNState/status/2124630363607548191",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124629926326239463",
+          "created_at": "2026-11-22T22:23:42.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Indeed.\n\nIf you want to be rich this is the move https://t.co/UfxMAE0eax",
+          "url": "https://x.com/Timcast/status/2124629926326239463",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124628686204981353",
+          "created_at": "2026-11-22T22:18:47.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Don’t look now, fantasy fans. 👀 https://t.co/o6ncClYJ63",
+          "url": "https://x.com/Outkick/status/2124628686204981353",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124628215566409848",
+          "created_at": "2026-11-22T22:16:54.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "A lot is happening right now 😂 https://t.co/18PByfqHbb",
+          "url": "https://x.com/Outkick/status/2124628215566409848",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124626103973323099",
           "created_at": "2026-11-22T22:08:31.000Z",
@@ -199,16 +309,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124617499647840372",
-          "created_at": "2026-11-22T21:34:20.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Kharg Island, November 22:\n\nSatellite imagery shows no tankers at the oil loading berths, although several remain anchored nearby. https://t.co/B4npALaRIT",
-          "url": "https://x.com/Osint613/status/2124617499647840372",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124616742932504622",
           "created_at": "2026-11-22T21:31:19.000Z",
           "author_name": "OutKick",
@@ -247,16 +347,6 @@
           "url": "https://x.com/elonmusk/status/2124609453274108083",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124608846819987529",
-          "created_at": "2026-11-22T20:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "COWBOY LOGIC BARN PARTY https://t.co/edeovVL4mT",
-          "url": "https://x.com/RealAmVoice/status/2124608846819987529",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124606359983292470",
@@ -299,26 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124603615813705810",
-          "created_at": "2026-11-22T20:39:09.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Joe Milton everyone….. https://t.co/89xy6kVdtk",
-          "url": "https://x.com/Outkick/status/2124603615813705810",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124603445902520560",
-          "created_at": "2026-11-22T20:38:29.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Dolphin celebration while playing the Dolphins 🤣 https://t.co/qyDWRJBDn6",
-          "url": "https://x.com/Outkick/status/2124603445902520560",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124602910407270636",
           "created_at": "2026-11-22T20:36:21.000Z",
           "author_name": "The Kobeissi Letter",
@@ -357,16 +427,6 @@
           "url": "https://x.com/SportNState/status/2124594730508153152",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124593577867014387",
-          "created_at": "2026-11-22T19:59:16.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: DELTA FLIGHTS HIT WITH GROUND DELAY AT ATLANTA AIRPORT!\n\nAn automation issue has triggered a ground delay for Delta flights at Hartsfield-Jackson Atlanta International Airport, one of the busiest airports in the world.\n\nTravelers could face disruptions as the issue is",
-          "url": "https://x.com/RealAmVoice/status/2124593577867014387",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124589498579214672",
@@ -509,26 +569,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124512527014854990",
-          "created_at": "2026-11-22T14:37:12.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Societies collapse when old men tear down trees so that no one will have shade to sit beneath https://t.co/n7fTvmgEP9",
-          "url": "https://x.com/Timcast/status/2124512527014854990",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124488071626293410",
-          "created_at": "2026-11-22T13:00:02.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "NEW: @ClayTravis Starting 11 After Week 12 🏈\n\nThe CFP picture mostly clears up after a wild day in the Big Ten, new Perfect 10 Top 10, and SEC Power Rankings:\nhttps://t.co/YIi0AWyE0a",
-          "url": "https://x.com/SportNState/status/2124488071626293410",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124481978514739560",
           "created_at": "2026-11-22T12:35:49.000Z",
           "author_name": "SpaceX",
@@ -567,26 +607,6 @@
           "url": "https://x.com/SpaceX/status/2124467677859332290",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124386240380469593",
-          "created_at": "2026-11-22T06:15:23.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "One last SHOCKER for the day\n\n5-5 San Diego State beats No. 17 Boise State on a last second FG\n\nBoise State is the only ranked G6 school in the CFP rankings. https://t.co/H3qJyoJS2R",
-          "url": "https://x.com/SportNState/status/2124386240380469593",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124371043213037915",
-          "created_at": "2026-11-22T05:15:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Another LSU loss came with plenty of drama.\n\nTennessee put the finishing touch on a disappointing season for Lane Kiffin and the Tigers, with the night in Knoxville providing no shortage of memorable moments.\n\n@ByGusWilson on the chaos that took place at Neyland:",
-          "url": "https://x.com/SportNState/status/2124371043213037915",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124332104800702673",
@@ -645,16 +665,6 @@
           "author_handle": "_Investinq",
           "text": "President Trump says he would work with Democrats on a one-year 10% cap on credit card interest rates, saying card companies are \"getting too much\"\n\n\"I said that. I didn't even know they said it, but they've been trying to get that for years. I would do it\"\n\n\"I know that some https://t.co/27EqiWxr9W",
           "url": "https://x.com/_Investinq/status/2124301863269060869",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124286765871911255",
-          "created_at": "2026-11-21T23:40:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "SpaceX board member Steve Jurvetson says his own partners voted down his first SpaceX investment because they couldn't see it ever being worth more than 2x to 3x\n\n\"It was the only time in my recollection that my partnership turned me down for an investment\"\n\n\"Two of my partners https://t.co/uwJlkZRASP",
-          "url": "https://x.com/_Investinq/status/2124286765871911255",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,22 +775,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Democrat Chuck Hubbard defeats Rep. Virginia Foxx in House race",
-          "summary": "Chuck Hubbard defeated Rep. Virginia Foxx, CBS News projects, adding to Democrats' sizable majority in the House next year.",
+          "headline": "Democrats reach historic House majority not seen since 1992",
+          "summary": "\"House Democrats have just secured the largest majority any party in Congress has held this century. BOOM,\" Democratic leader Hakeem Jeffries of New York said Sunday.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/democrat-chuck-hubbard-defeats-gop-rep-virginia-foxx-north-carolina/"
+          "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/"
         },
         {
-          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
-        },
-        {
-          "headline": "Full transcript of \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
-          "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Treasury Secretary Scott Bessent and House Minority Leader Hakeem Jeffries join Margaret Brennan.",
+          "headline": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
+          "summary": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/full-transcript-of-face-the-nation-with-margaret-brennan-nov-22-2026/"
+          "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/"
         },
         {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
@@ -793,6 +797,12 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
+        },
+        {
+          "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
+          "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         }
       ]
     },
@@ -813,6 +823,12 @@
           "url": "https://abcnews.com/Business/wireStory/issue-automation-system-causes-delta-flight-delays-atlanta-138361125"
         },
         {
+          "headline": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026",
+          "summary": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+        },
+        {
           "headline": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
           "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
           "source": "CNBC",
@@ -823,12 +839,6 @@
           "summary": "Climate talks in Turkey failed to reach an overarching agreement.",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/climate-talks-break-bitter-disagreements-fossil-fuels-138357548"
-        },
-        {
-          "headline": "Home-cooked meals, to go",
-          "summary": "In California, more than 1,300 small kitchens are licensed to make and sell food. These MEHKOs (short for \"micro enterprise home kitchen operations\") are run out of homes, allowing home chefs to turn family recipes into culinary passion projects.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/home-cooked-meals-to-go/"
         }
       ]
     },
@@ -837,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Tarik Skubal reportedly joins Mets on record-breaking 9-year, $450 million contract",
-          "summary": "Tarik Skubal has found his new landing spot: After just half a season with the Los Angeles Dodgers, the two-time Cy Young winner has agreed to sign with the New York Mets on a nine-year, $450 million deal, per multiple reports. The contract breaks the record for the largest deal ever given to a pitcher in MLB history, with the starter set to earn $50…",
+          "headline": "Kennedi Rogers' 30 kills leads Tennessee volleyball to SEC Tournament win vs Texas",
+          "summary": "Tennessee volleyball got some sweet revenge against Texas in the SEC Tournament on Nov. 22, completing a reverse sweep against the Longhorns to hand them the same fate the Lady Vols suffered in the regular season .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/breaking-news/article/tarik-skubal-reportedly-joins-mets-on-record-breaking-9-year-450-million-contract-220617658.html"
+          "url": "https://sports.yahoo.com/articles/kennedi-rogers-30-kills-leads-224051394.html"
         },
         {
-          "headline": "Hogans scores 22 as American takes down Towson 86-75",
-          "summary": "WASHINGTON (AP) — Dean Hogans scored 22 points off of the bench to help lead American past Towson 86-75 on Sunday. Hogans shot 7 of 14 from the field, including 5 for 10 from 3-point range, and went 3 for 3 from the line for the Eagles (4-2).",
+          "headline": "Fantasy Football Week 11 RB Report: Another fumble makes D'Andre Swift tough to trust, plus more backfield splits",
+          "summary": "Let's take a second to appreciate the backup running back and the importance of having that insurance on your bench. Emmett Johnson drew another start in place of the injured Kenneth Walker III on Sunday in Week 11.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/hogans-scores-22-american-takes-220244549.html"
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-11-rb-report-another-fumble-makes-dandre-swift-tough-to-trust-plus-more-backfield-splits-224023848.html"
         },
         {
-          "headline": "Thitikul wins third title in a row at LPGA finale",
-          "summary": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 roll",
-          "summary": "R.J. White reveals his picks for Minnesota Vikings vs.",
+          "headline": "2026-27 MLB free agent tracker: Mets land Tarik Skubal on nine-year, $450 million contract",
+          "summary": "Where will the best players in free agency wind up? Follow along as we keep track of all the moves from an unusual offseason",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks/"
+          "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/"
         },
         {
-          "headline": "TCU fires Sonny Dykes: Lincoln Riley, Manny Diaz, GJ Kinne among candidates to replace Horned Frogs coach",
-          "summary": "Riley leads the early possible candidates to replace Dykes at TCU",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/tcu-candidates-sonny-dykes-fired-lincoln-riley-manny-diaz-gj-kinne-mike-norvell/"
+          "headline": "Vokietaitis, Freeman lead No. 6 Texas past Southern Indiana 97-61",
+          "summary": "Matas Vokietaitis scored 20 points as No. 6 Texas beat Southern Indiana 97-61",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/vokietaitis-freeman-lead-6-texas-past-southern-indiana-138364612"
+        },
+        {
+          "headline": "Prince rallies No. 23 Nebraska women past Creighton 55-45",
+          "summary": "Britt Prince scored 12 of her 18 points in the second half and contributed six assists and No. 23 Nebraska turned away Creighton 55-45 on Sunday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/prince-rallies-23-nebraska-women-past-creighton-55-138363760"
         }
       ]
     },
@@ -872,6 +882,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Robert Eggers Says He’s “Eager” to Take a Break From Horror Genre After ‘Werwulf’",
+          "summary": "The filmmaker has focused on horror films in recent years, including 'The Witch,' 'The Lighthouse,' 'Nosferatu' and 'Werwulf.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/"
+        },
         {
           "headline": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars",
           "summary": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
@@ -891,12 +907,6 @@
           "url": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255/"
         },
         {
-          "headline": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
-          "summary": "The sixth film in the Lionsgate series rebounded after 2023's 'The Ballad of Songbirds & Snakes,' while freshly expanded 'I Play Rocky' and newcomer 'Elsinore' also came out swinging.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511/"
-        },
-        {
           "headline": "‘Hunger Games’ Lead Joseph Zada on Filming His Breakout Movie Role and ‘Sunrise on the Reaping’s’ Intense Stunts: ‘I Look Like a F—ing Action Star!’",
           "summary": "When it comes to taking on the leading role in one of the most beloved film (and literary) franchises, sometimes you just have to jump right in. At least that was the case for Joseph Zada, whose first day on set of “The Hunger Games: Sunrise on the Reaping” was spent filming the opening cornucopia […]",
           "source": "Variety",
@@ -909,7 +919,7 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced on the Show",
+          "headline": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
           "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/"
@@ -981,6 +991,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Lael Neale's brings 1980's omnichord back to life on new album, 'As Killers Do'",
+          "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do. The records features mostly forgotten music making techniques such as 8 track recording and an 1980s instrument.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neales-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do"
+        },
+        {
           "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
           "summary": "Morgan Wallen ’s I’m the Problem leads Billboard ‘s Top Country Albums chart (dated Nov. 28) for the 54th nonconsecutive week.",
           "source": "Billboard",
@@ -1003,15 +1019,9 @@
           "summary": "Singer and drummer became engaged in December 2025 after four years of dating",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/"
-        },
-        {
-          "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
-          "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-22T17:12:20-05:00"
+  "updatedAt": "2026-11-22T17:46:45-05:00"
 }
