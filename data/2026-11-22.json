@@ -79,6 +79,46 @@
       "stories": [],
       "posts": [
         {
+          "id": "2124481978514739560",
+          "created_at": "2026-11-22T12:35:49.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9’s first stage lands on LZ-4 https://t.co/5OWG6G6kCm",
+          "url": "https://x.com/SpaceX/status/2124481978514739560",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124480657682211189",
+          "created_at": "2026-11-22T12:30:34.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Less than three months after signing a €3 billion air defense agreement with Israel, Greece is negotiating additional Israeli defense deals worth €1 billion, according to a report. The talks cover electronic warfare systems and long-range missiles, along with expanding the https://t.co/66ficXsaEV",
+          "url": "https://x.com/Osint613/status/2124480657682211189",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124479235779637392",
+          "created_at": "2026-11-22T12:24:55.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Liftoff! https://t.co/pO89FePth1",
+          "url": "https://x.com/SpaceX/status/2124479235779637392",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124477713142665551",
+          "created_at": "2026-11-22T12:18:52.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Starlink saves lives https://t.co/Mx58hFBqIk",
+          "url": "https://x.com/elonmusk/status/2124477713142665551",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2124475467436851599",
           "created_at": "2026-11-22T12:09:56.000Z",
           "author_name": "SpaceX",
@@ -189,16 +229,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124461380304535692",
-          "created_at": "2026-11-22T11:13:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Speaker of the Iranian Parliament Qalibaf:\n\n\"Our leader said that it is impossible to continue in a situation of 'neither war nor peace'. If we want to put an end to it, we have only one way. We must distance ourselves from the threat, remove the shadow of war from us. This is https://t.co/sJd7UbOkQU",
-          "url": "https://x.com/Osint613/status/2124461380304535692",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124458761532109219",
           "created_at": "2026-11-22T11:03:33.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -215,16 +245,6 @@
           "author_handle": "elonmusk",
           "text": "My personal design esthetic is homeless Batman",
           "url": "https://x.com/elonmusk/status/2124450538976629076",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124449744600871080",
-          "created_at": "2026-11-22T10:27:44.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Zoom in, you’ll find it https://t.co/0Elhmtpsh3",
-          "url": "https://x.com/elonmusk/status/2124449744600871080",
           "verified": true,
           "verified_type": "blue"
         },
@@ -579,26 +599,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124262638192660846",
-          "created_at": "2026-11-21T22:04:14.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Splashdown of Dragon confirmed, completing SpaceX’s 35th Commercial Resupply Services mission to the @Space_Station!",
-          "url": "https://x.com/SpaceX/status/2124262638192660846",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124261858547048779",
-          "created_at": "2026-11-21T22:01:08.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Dragon’s four main parachutes have deployed",
-          "url": "https://x.com/SpaceX/status/2124261858547048779",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124261083175379119",
           "created_at": "2026-11-21T21:58:03.000Z",
           "author_name": "SightBringer",
@@ -821,10 +821,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-          "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+          "headline": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
+          "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html"
+          "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html"
+        },
+        {
+          "headline": "The Nasdaq is in freefall. Here's one stock to look at",
+          "summary": "Elevated options premiums are creating an opportunity in Amazon",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html"
         },
         {
           "headline": "Paolo Bulgari, jeweler who turned family business into global brand, dies at 89",
@@ -839,12 +845,6 @@
           "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
         },
         {
-          "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-          "summary": "This would make the second recent intrusion into the FBI system.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
-        },
-        {
           "headline": "More changes are coming for Southwest Airlines, CEO says",
           "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
           "source": "CBS News",
@@ -857,19 +857,25 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Official | PSG confirm Désiré Doué ACL injury",
-          "summary": "Paris Saint-Germain have confirmed that Désiré Doué (21) has sustained an ACL injury in his right knee. Doué went down without contact during Saturday night’s win over OGC Nice at the Allianz Riviera.",
+          "headline": "Rare Caitlin Clark photo from Lexie Hull’s Cabo wedding goes viral",
+          "summary": "While much of the sports world was paying attention to college football Saturday and the 2026 F1 Las Vegas Grand Prix , where social media starlet Sophie Cunningham was making her latest Bond girl campaign , there was another party going on in Cabo. Indiana Fever star Lexie Hull got married to her longtime partner Will Matthiessen in Mexico on Saturday…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/official-psg-confirm-d-sir-120700718.html"
+          "url": "https://sports.yahoo.com/articles/rare-caitlin-clark-photo-lexie-123712166.html"
         },
         {
-          "headline": "Do the Packers play today? Schedule, next game after bye",
-          "summary": "The Green Bay Packer have reached a unique portion of their 2026 schedule. They are off in Week 11 but they won’t be getting a full two weeks between games normally afforded to teams on a bye.",
+          "headline": "Championship: Blackburn hit back against Burnley in hectic east Lancashire derby",
+          "summary": "Latest: Burnley 1-1 Blackburn Rovers Blackburn playing first game since boss Tony Mowbray stepped back due to health reasons earlier this week Damien Johnson taking charge of Rovers on an interim basis in Mowbray's absence Burnley return to action after international break, prior to which they were beaten 5-4 at Cardiff having previously been 4-1 up…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/packers-play-today-schedule-next-120535927.html"
+          "url": "https://sports.yahoo.com/articles/championship-burnley-face-blackburn-rovers-113357754.html"
         },
         {
-          "headline": "Watford sack boss Dionisi after 18 games",
+          "headline": "Bowl projections: Slotting all 47 games as Week 12 upsets provide massive shakeup to postseason picture",
+          "summary": "Take what you thought you knew about the Big Ten's projected postseason pairings and toss them away",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-cfp-bracket-predictions-week-13-2026/"
+        },
+        {
+          "headline": "Watford seek sixth manager in 18 months after sacking Dionisi",
           "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss"
@@ -879,12 +885,6 @@
           "summary": "After a 20-17 win on Saturday, did Ireland's victory over South Africa change the narrative for Andy Farrell's side?",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c64gnry013mko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks: Who wins 49ers or Vikings?",
-          "summary": "NFL Week 11 odds, how to watch, streaming: Expert selections, best bets, teasers, survivor picks and more CBSSports.com and SportsLine break down every single NFL game in Week 17",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T07:17:37-05:00"
+  "updatedAt": "2026-11-22T07:44:46-05:00"
 }
