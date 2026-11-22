@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+          "summary": "The European Space Agency announced BepiColombo's arrival via social media.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997"
+        },
+        {
           "headline": "Kansas City Current capture first NWSL trophy",
           "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
           "source": "CBS News",
@@ -52,12 +58,6 @@
           "summary": "Plainclothes officers in masks detained two people who were boarding a flight at Seattle-Tacoma International Airport.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974"
-        },
-        {
-          "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-          "summary": "The European Space Agency announced BepiColombo's arrival via social media.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997"
         },
         {
           "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124355262848843855",
+          "created_at": "2026-11-22T04:12:17.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I didn’t forget them. I don’t think the playoff committee will take three from the Big 12 and only one from the Big Ten. Think 10-2 Indiana will get in over 10-2 BYU. We shall see. https://t.co/a1fzcGF67r",
+          "url": "https://x.com/ClayTravis/status/2124355262848843855",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124354311044104560",
+          "created_at": "2026-11-22T04:08:31.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "All Smiles for Eli Drinkwitz 🐯 https://t.co/n8DEIkYc2K",
+          "url": "https://x.com/SportNState/status/2124354311044104560",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124352832312639886",
+          "created_at": "2026-11-22T04:02:38.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Big Ten title game winner will get in hence the Oregon, UCLA, Iowa spot. I don’t think Big Ten title loser will get in. And I think 10-2 Indiana will get in too. Just don’t think committee will go only one Big Ten spot. Final spot likely comes down to 10-2 Indiana vs 10-2 BYU.",
+          "url": "https://x.com/ClayTravis/status/2124352832312639886",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124352028788863353",
+          "created_at": "2026-11-22T03:59:26.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Playoff picture looks pretty clear to me with one week left. SEC has four: Georgia, Texas, Tennessee and Alabama ACC has two: Miami and Wake Forest, Big 12 has two: Utah and Texas Tech, Big Ten has two: Oregon/UCLA/Iowa and Indiana, Notre Dame and non power four team.",
+          "url": "https://x.com/ClayTravis/status/2124352028788863353",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124351292017377456",
+          "created_at": "2026-11-22T03:56:31.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "My top ten: \n1. Georgia \n2. Utah (assuming win) \n3. Notre Dame \n4. Miami \n5. Texas \n6. Tennessee \n7. Alabama \n8. Wake Forest \n9. Texas Tech \n10. Oregon",
+          "url": "https://x.com/ClayTravis/status/2124351292017377456",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124351087004041461",
+          "created_at": "2026-11-22T03:55:42.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Dawgs are headed back to ATL, clinching another trip to the SEC Championship Game, after a win on the road over South Carolina https://t.co/DfLwronjCy",
+          "url": "https://x.com/SportNState/status/2124351087004041461",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124348139729572278",
+          "created_at": "2026-11-22T03:43:59.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "That’s a hell of a right hook 😂  https://t.co/6t2AeDypq2",
+          "url": "https://x.com/Outkick/status/2124348139729572278",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124348034083324318",
+          "created_at": "2026-11-22T03:43:34.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Missouri knocks off No. 16 Kentucky at home. \n\nAfter starting 7-1 and climbing to 6th in the rankings, Kentucky has lost 3 games in a row. https://t.co/Fs50hpyXqi",
+          "url": "https://x.com/SportNState/status/2124348034083324318",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124345219571462236",
           "created_at": "2026-11-22T03:32:23.000Z",
@@ -119,16 +199,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124339180478328891",
-          "created_at": "2026-11-22T03:08:23.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Kentucky quiets the crowd temporarily in CoMo 😼\n\nHowever, the Tigers still lead 28-14 early in the second half: https://t.co/XoTNgEeTLb",
-          "url": "https://x.com/SportNState/status/2124339180478328891",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124335367872512080",
           "created_at": "2026-11-22T02:53:14.000Z",
           "author_name": "OutKick",
@@ -149,32 +219,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124331905139281993",
-          "created_at": "2026-11-22T02:39:29.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Things are starting to get out of hand in Columbia 🐯\n\nTigers lead No. 16 Kentucky 21-6 after this Austin Simmons DOT: https://t.co/ZsuDpIR6DB",
-          "url": "https://x.com/SportNState/status/2124331905139281993",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124330605626397124",
           "created_at": "2026-11-22T02:34:19.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Aura is the visible weight of invisible conviction.\n\nIt is what conviction looks like before it speaks\n\nThat is signal.",
           "url": "https://x.com/_The_Prophet__/status/2124330605626397124",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124329947632181668",
-          "created_at": "2026-11-22T02:31:42.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Vol Nation may have been the biggest factor in Tennessee's 27-13 win 🍊\n\n@StephOtey wraps up a memorable night in Neyland Stadium: https://t.co/JSebk44D5r",
-          "url": "https://x.com/SportNState/status/2124329947632181668",
           "verified": true,
           "verified_type": "blue"
         },
@@ -269,16 +319,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124312532542443529",
-          "created_at": "2026-11-22T01:22:30.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "There is no longer any possible argument for Alabama to be ranked above Tennessee. They will play six common SEC opponents and each other and Tennessee whipped them by 16. Texas, Tennessee and Alabama have to be ranked in that order. https://t.co/DEPud3fOPS",
-          "url": "https://x.com/ClayTravis/status/2124312532542443529",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124312384063799374",
           "created_at": "2026-11-22T01:21:54.000Z",
           "author_name": "OutKick",
@@ -289,32 +329,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124311139710312481",
-          "created_at": "2026-11-22T01:16:58.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Oregon is presently the best team in the Big Ten by a substantial margin.",
-          "url": "https://x.com/ClayTravis/status/2124311139710312481",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124309714041258374",
           "created_at": "2026-11-22T01:11:18.000Z",
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "President Trump doesn’t post on his Truth account. His staff make all of the posts for him. I’ve seen this in person enough times to know he doesn’t make any of the posts on his account. He dictates the long posts but he doesn’t make the actual posts. \n\nDoes he know that an https://t.co/230YiWUyK8 https://t.co/BqhF5ax6g5",
           "url": "https://x.com/LauraLoomer/status/2124309714041258374",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124306459106435397",
-          "created_at": "2026-11-22T00:58:22.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Cha Ching! College picks are dominating. Thanks for all who played along. Congrats on the big wins. https://t.co/h6roswcarQ",
-          "url": "https://x.com/ClayTravis/status/2124306459106435397",
           "verified": true,
           "verified_type": "blue"
         },
@@ -387,26 +407,6 @@
           "url": "https://x.com/Outkick/status/2124298952254107976",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124298887280157001",
-          "created_at": "2026-11-22T00:28:16.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "WE GOT A STORM IN WASHINGTON \n\nDOWN GOES INDIANA https://t.co/aNDn6s8P5C",
-          "url": "https://x.com/Outkick/status/2124298887280157001",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124297898074755375",
-          "created_at": "2026-11-22T00:24:21.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Indiana and UCLA both lose and moron Tennessee fans are throwing golf balls on the field with 3 minutes left in the game. Wild day in college football already.",
-          "url": "https://x.com/ClayTravis/status/2124297898074755375",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124295793280450870",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Southlake Carroll downs Westlake for 2nd straight Class 6A DII state volleyball title",
-          "summary": "Southlake Carroll's Vanessa Glenn (83), right, receives a hug from teammate Abigail Clem (1) as the team celebrated their straight sets victory over Austin Westlake to capture the state championship. The Class 6A Division ll UIL state championship volleyball match between the two teams was held at the Curtis Culwell Center in Garland on November 21, 2026.",
+          "headline": "Patrick Mahomes reacts to KC Current's victory in NWSL Championship",
+          "summary": "Kansas City Chiefs quarterback Patrick Mahomes was dialed in to watch the KC Current earn a NWSL Championship victory over the Washington Spirit on November 21. The two-time MVP and his wife, Brittany Mahomes, are part-owners of the Current, and the team's latest title is a unique feather in the couple's impressive sporting cap.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/southlake-carroll-downs-westlake-2nd-033703251.html"
+          "url": "https://sports.yahoo.com/articles/patrick-mahomes-reacts-kc-currents-040514629.html"
         },
         {
-          "headline": "Miami locks up ACC championship berth! How to buy tickets in Charlotte",
-          "summary": "In at the last minute! The Miami Hurricanes wrapped up a spot in the 2026 ACC championship game , its final installment ahead of next year's College Football Playoff expansion.",
+          "headline": "Austin Simmons throws 4 TD passes, leading Missouri past No. 17 Kentucky 28-14",
+          "summary": "COLUMBIA, Mo. (AP) — Austin Simmons threw for 314 yards and four touchdowns, Donovan Olugbode caught five passes for 105 yards and two of the scores, and Missouri beat No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/miami-locks-acc-championship-berth-033238250.html"
+          "url": "https://sports.yahoo.com/articles/austin-simmons-throws-4-td-040232368.html"
+        },
+        {
+          "headline": "2026 ACC Championship Game: Miami vs. Wake Forest rematch headlines final conference title matchup",
+          "summary": "The ACC Championship Game era will conclude with Miami pursuing its first-ever ACC title",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/acc-championship-game-2026-miami-wake-forest-preview-prediction/"
+        },
+        {
+          "headline": "2026 SEC Championship Game scenarios: Georgia clinches spot as Alabama, Texas, Tennessee vie for No. 2 seed",
+          "summary": "The Bulldogs are heading back to Atlanta, but three teams still have a chance to join them",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/2026-sec-championship-game-scenarios-georgia-clinches-alabama-texas-tennessee/"
         },
         {
           "headline": "Washington upsets No. 6 Indiana 27-24 in OT on Tyler Robles' field goal",
           "summary": "Washington earns first win over a top-10 team in two years in dramatic fashion.",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/washington-upsets-6-indiana-27-24-overtime-tyler-138351358"
-        },
-        {
-          "headline": "College Football Playoff bubble: Sorting the CFP chaos as UCLA, Indiana suffer Week 12 upsets",
-          "summary": "Expect some major movement in the new CFP rankings after major chaos within the Big Ten",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bubble-watch-teams-week-12-2026/"
-        },
-        {
-          "headline": "Worthy’s 20 lead San Diego past UC Irvine 67-64",
-          "summary": "Marqui Worthy had 20 points in San Diego’s 67-64 victory over UC Irvine on Saturday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/worthys-20-lead-san-diego-past-uc-irvine-138351640"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T22:40:59-05:00"
+  "updatedAt": "2026-11-21T23:15:19-05:00"
 }
