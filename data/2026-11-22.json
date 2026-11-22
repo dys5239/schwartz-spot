@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "U.N. climate summit ends without deal after contentious fossil fuel debate",
+          "summary": "COP31, the latest installment of the United Nations' annual climate conference, ended Sunday without a final agreement after days of contentious talks collapsed.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+        },
+        {
           "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
           "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
-        },
-        {
-          "headline": "Tony Shalhoub on food, family, and his book, \"We Thought They'd Never Leave\"",
-          "summary": "For the award-winning star of \"Monk,\" food had always been an integral part of family. And now he's teamed with daughter Josie Adams to write a food memoir: \"We Thought They'd Never Leave,\" the story of their family reunions - and their recipes.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/tony-shalhoub-on-food-family-and-his-book-we-thought-theyd-never-leave/"
         },
         {
           "headline": "DNI Clayton: Putin is ‘not America’s friend in Ukraine’",
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124528759395029267",
+          "created_at": "2026-11-22T15:41:42.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The 10Y Note yield has traded above 5.00% for 27 trading days so far in 2026, the longest streak for any year since 2007.\n\nLast week, the 10Y Note yield surged +29 basis points, moving back above 5.00% and marking its largest weekly increase since April 2025.\n\nThe 10Y https://t.co/Uw2HWcfEPA",
+          "url": "https://x.com/KobeissiLetter/status/2124528759395029267",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124521826810257735",
           "created_at": "2026-11-22T15:14:09.000Z",
@@ -559,16 +569,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124305136692408552",
-          "created_at": "2026-11-22T00:53:06.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: AI-related investment contributed +1.27 percentage points to real US GDP growth in Q1 through Q3 2026.\n\nThis represents ~65% of the economy's cumulative growth of ~2% over this period.\n\nSoftware investment contributed the most, at +0.45 percentage points, followed by https://t.co/b4yXhD0vlq",
-          "url": "https://x.com/KobeissiLetter/status/2124305136692408552",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124301863269060869",
           "created_at": "2026-11-22T00:40:06.000Z",
           "author_name": "StockMarket.News",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Former ESPN analyst and Broncos linebacker Tom Jackson dies at 75 years old",
-          "summary": "Former ESPN NFL analyst and Denver Broncos linebacker Tom Jackson has died at the age of 75. His family informed ESPN of the death on Sunday.",
+          "headline": "IND A vs PAK A: Drama at toss! Pakistan captain Abdul Samad intervenes after match referee's call - Watch",
+          "summary": "NEW DELHI: India A's much-anticipated clash against arch-rivals Pakistan A in the ACC Men's Asia Cup Rising Stars tournament got an unexpected dose of drama even before the first ball was bowled, with a toss-related confusion grabbing attention in Doha on Sunday. In an unusual incident, the match referee initially announced the toss result incorrectly.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/article/former-espn-analyst-and-broncos-linebacker-tom-jackson-dies-at-75-years-old-151021962.html"
+          "url": "https://sports.yahoo.com/articles/ind-vs-pak-drama-toss-153800360.html"
         },
         {
-          "headline": "Bills vs Dolphins updates, weather, how to watch and predictions for Week 11",
-          "summary": "The Buffalo Bills return to Highmark Stadium on Sunday looking to strengthen their hold on the AFC’s No. 1 seed when they face the Miami Dolphins in an AFC East matchup.",
+          "headline": "Tom Jackson dies at 75: Football world mourns loss of legendary ESPN analyst",
+          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bills-vs-dolphins-updates-weather-151017560.html"
+          "url": "https://sports.yahoo.com/articles/tom-jackson-dies-75-football-153722811.html"
         },
         {
-          "headline": "Did beaten Wales still show they have come a long way?",
-          "summary": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Marquez wins record-equalling eighth MotoGP title",
-          "summary": "Marc Marquez secures a record-equalling eighth MotoGP championship and moves level with Giacomo Agostini.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/motorsport/articles/c64gnrdzq8zzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "College football grades: Texas earns 'A' for dominant win, Indiana gets 'D' on Week 12 report card",
-          "summary": "A look at how national championship contenders fared in Week 12 action",
+          "headline": "Steelers vs. Eagles odds, picks, prediction, spread: Start time, NFL Week 11 betting preview, best bets",
+          "summary": "Here's everything you need to know before placing any wagers on Steelers vs. Eagles in NFL Week 11",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-grades-results-week-12-2026-texas-indiana/"
+          "url": "https://www.cbssports.com/betting/news/steelers-vs-eagles-odds-picks-prediction-spread-start-time-nfl-week-11-betting-preview-best-bets/"
+        },
+        {
+          "headline": "2026 Pac-12 Championship Game: Boise State, San Diego State set for rematch after Aztecs' upset",
+          "summary": "Boise State will get a chance to avenge its loss two weeks after falling to San Diego State",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/boise-state-san-diego-state-pac-12-championship-game-2026-prediction-preview/"
+        },
+        {
+          "headline": "Liu Wenwei suspended amid match-fixing investigation",
+          "summary": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/snooker/articles/c9p83k06160xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -1001,6 +1001,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
+          "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/"
+        },
+        {
           "headline": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
           "summary": "Singer and drummer became engaged in December 2025 after four years of dating",
           "source": "Rolling Stone",
@@ -1023,15 +1029,9 @@
           "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
-        },
-        {
-          "headline": "CORTIS’ Martin Calls Panic “Legends” After Their “Left-Handed” Performance | MAMA Awards 2026",
-          "summary": "CORTIS caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-22T10:18:52-05:00"
+  "updatedAt": "2026-11-22T10:42:47-05:00"
 }
