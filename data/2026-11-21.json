@@ -42,22 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
-        },
-        {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
         },
         {
           "headline": "FBI's national crime database targeted in hack, Trump says",
           "summary": "President Donald Trump confirmed on Saturday that the FBI’s National Crime Information Center database was targeted in a hack.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810"
+        },
+        {
+          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
+          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
         },
         {
           "headline": "Kate's 'road to recovery' and 'Brave princess'",
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124325451908948451",
+          "created_at": "2026-11-22T02:13:50.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Looks like an SI curve https://t.co/b8eIemIdV7",
+          "url": "https://x.com/elonmusk/status/2124325451908948451",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124324703582203983",
+          "created_at": "2026-11-22T02:10:52.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️You’re in the belly of disbelief. \n\nThat’s where the opportunity is being born.",
+          "url": "https://x.com/_The_Prophet__/status/2124324703582203983",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124320668384985303",
+          "created_at": "2026-11-22T01:54:49.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "The UK’s version of our DHS Secretary is a Muslim woman named @ShabanaMahmood… so of course she is letting this terrorist into the UK.\n\nYou are not Islamophobic enough.\n\nGet on my level. https://t.co/WXDaUk9xVP",
+          "url": "https://x.com/LauraLoomer/status/2124320668384985303",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124318186250080305",
           "created_at": "2026-11-22T01:44:58.000Z",
@@ -237,16 +267,6 @@
           "url": "https://x.com/KobeissiLetter/status/2124305136692408552",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124303710440337468",
-          "created_at": "2026-11-22T00:47:26.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "This is called socialized healthcare. \n\nWhy is the official Trump War Room account tweeting support for what would be Obama Care with President Trump’s name on it?\n\nNobody voted for this. https://t.co/rbMSxmUeDV",
-          "url": "https://x.com/LauraLoomer/status/2124303710440337468",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124302843637387338",
@@ -579,16 +599,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124241570451054609",
-          "created_at": "2026-11-21T20:40:31.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
-          "url": "https://x.com/elonmusk/status/2124241570451054609",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124241532605620708",
           "created_at": "2026-11-21T20:40:22.000Z",
           "author_name": "The Kobeissi Letter",
@@ -615,16 +625,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️A mathematician working with Claude has presented a 17-million-line formal proof of the Riemann Hypothesis, one of the most difficult unsolved problems in mathematics.\n\nThe implications of machine mathematics reach into something civilization barely recognizes. Much of modern",
           "url": "https://x.com/_The_Prophet__/status/2124230408107917478",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124217987716850113",
-          "created_at": "2026-11-21T19:06:48.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️This is gold 😂 https://t.co/socDipqvrN",
-          "url": "https://x.com/_The_Prophet__/status/2124217987716850113",
           "verified": true,
           "verified_type": "blue"
         },
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
           "headline": "Trump orders federal contractors to check with White House before responding to Congress",
           "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
           "source": "NPR",
@@ -807,12 +813,6 @@
           "summary": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
-        },
-        {
-          "headline": "Trump vows to work with Democrats to cap credit card interest rates",
-          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/"
         }
       ]
     },
@@ -833,6 +833,12 @@
           "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
         },
         {
+          "headline": "Trump vows to work with Democrats to cap credit card interest rates",
+          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/"
+        },
+        {
           "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
           "summary": "This would make the second recent intrusion into the FBI system.",
           "source": "CNBC",
@@ -843,12 +849,6 @@
           "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
-        },
-        {
-          "headline": "More changes are coming for Southwest Airlines, CEO says",
-          "summary": "Southwest Airlines CEO Bob Jordan shared his plan to bring even more changes to his company and the customer experience. Kris Van Cleave has more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/more-changes-are-coming-for-southwest-airlines-ceo-says/"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Game Thread: TCU Football vs. No. 2 Utah Utes",
-          "summary": "FORT WORTH, TX - NOVEMBER 14: The Texas Christian University Horned Frogs mascot runs out before the game during the game between the Texas Christian University Horned Frogs and the Kansas State Wildcats on November 14, 2026 at Amon G. Carter Stadium in Fort Worth,TX.",
+          "headline": "CBA breezes into the Class AA state semifinals after routing Valley Central",
+          "summary": "CBA senior JT Vogel, left, and sophomore Jacob Turner celebrate after Vogel blocked a punt and Turner returned it for a touchdown during the Class AA state quarterfinals against Valley Central on Saturday, Nov. 21, 2026, in Colonie, NY.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/game-thread-tcu-football-vs-014500260.html"
+          "url": "https://sports.yahoo.com/articles/cba-breezes-class-aa-state-021413667.html"
         },
         {
-          "headline": "What Washington football’s Jedd Fisch said after huge upset over Indiana",
-          "summary": "Joe Nicholson-Imagn Images What Washington football’s Jedd Fisch said after huge upset over Indiana appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "New report reveals Puka Nacua's lengthy recovery timeline after MCL surgery",
+          "summary": "When Sean McVay announced that Puka Nacua decided to have surgery on his knee to repair his MCL , he said the Los Angeles Rams ' star receiver would be out \"a couple months.\" It turns out Nacua will be sidelined much longer than that. Adam Schefter of ESPN reported on Saturday that Nacua will be out 4-5 months following MCL surgery.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/washington-football-jedd-fisch-said-014408464.html"
+          "url": "https://sports.yahoo.com/articles/report-reveals-puka-nacuas-lengthy-021212990.html"
         },
         {
-          "headline": "UCLA QB Ty Dieffenbach carted off after suffering apparent knee injury in loss to Michigan",
-          "summary": "The Bruins are now down to their third-string QB as the College Football Playoff approaches",
+          "headline": "College Football Playoff bubble: Sorting the CFP chaos as UCLA, Indiana suffer Week 12 upsets",
+          "summary": "Expect some major movement in the new CFP rankings after major chaos within the Big Ten",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/ucla-qb-ty-dieffenbach-carted-injury-loss-michigan/"
+          "url": "https://www.cbssports.com/college-football/news/college-football-playoff-bubble-watch-teams-week-12-2026/"
         },
         {
-          "headline": "Pant reaches 100 as India tightens its control on the 1st test against New Zealand",
-          "summary": "Rishabh Pant has completed a dashing century before falling one ball from lunch as India tightened its grip on the first cricket test against New Zealand in the morning session on the fourth day",
+          "headline": "Osborne throws and runs for scores, UConn bowl eligible with 29-21 win over Old Dominion",
+          "summary": "Kalieb Osborne ran for a touchdown and threw for a score and UConn became bowl eligible with a 29-21 win over Old Dominion on Saturday night",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/pant-reaches-100-india-tightens-control-1st-test-138351454"
+          "url": "https://abcnews.com/Sports/wireStory/osborne-throws-runs-scores-uconn-bowl-eligible-29-138351724"
         },
         {
-          "headline": "Central Arkansas earns 82-67 win over Jacksonville",
-          "summary": "Ty Robinson’s 18 points helped Central Arkansas defeat Jacksonville 82-67 on Saturday",
+          "headline": "Faizon Brandon's 2 long TD runs in the fourth quarter lift No. 9 Tennessee past LSU, 27-13",
+          "summary": "Faizon Brandon had two long touchdown runs in the fourth quarter and No. 9 Tennessee’s stifling defense proved critical in a 27-13 victory over LSU on Saturday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/central-arkansas-earns-82-67-win-jacksonville-138351458"
+          "url": "https://abcnews.com/Sports/wireStory/faizon-brandons-2-long-td-runs-fourth-quarter-138351813"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T20:48:32-05:00"
+  "updatedAt": "2026-11-21T21:17:19-05:00"
 }
