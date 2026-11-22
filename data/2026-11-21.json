@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+          "headline": "Parents urged to spot online stalking warning signs as cases rise",
+          "summary": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "From pit-stops to go-to destinations: The transformation of service stations",
+          "summary": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Princeton student detained by ICE at Reagan Airport after conference",
@@ -54,22 +60,16 @@
           "url": "https://www.cbsnews.com/news/princeton-student-ice/"
         },
         {
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
+        },
+        {
           "headline": "Trump orders federal contractors to check with White House before responding to Congress",
           "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
-        },
-        {
-          "headline": "Can win over All Blacks finally break England's boom-bust cycle?",
-          "summary": "Twelve months ago, England beat New Zealand and flopped in the following Six Nations. Can their 2026 success pave the way to more permanent success?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Australia hold on for narrow win against Wales",
-          "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124293549730709980",
+          "created_at": "2026-11-22T00:07:04.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Notable Injury for Tennessee: https://t.co/q0XnI2gSHx",
+          "url": "https://x.com/SportNState/status/2124293549730709980",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124293194284458148",
+          "created_at": "2026-11-22T00:05:39.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "FAIZON BRANDON DOES IT HIMSELF https://t.co/VTUinKApwJ",
+          "url": "https://x.com/Outkick/status/2124293194284458148",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124291968469533122",
+          "created_at": "2026-11-22T00:00:47.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Check out this week's edition of \"GET REAL\" with your host, David Desrosiers! https://t.co/MHJ66EpkzI",
+          "url": "https://x.com/RealAmVoice/status/2124291968469533122",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124291012499742811",
+          "created_at": "2026-11-21T23:56:59.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The drones are out inside Neyland Stadium 🔥 https://t.co/oQ9wnyuRfF",
+          "url": "https://x.com/SportNState/status/2124291012499742811",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124290006223294644",
+          "created_at": "2026-11-21T23:52:59.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "JUMP PASS TIES IT FOR THE BRUINS https://t.co/rjFYtKnYnI",
+          "url": "https://x.com/Outkick/status/2124290006223294644",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124287258853286132",
           "created_at": "2026-11-21T23:42:04.000Z",
@@ -219,16 +269,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124271723424133286",
-          "created_at": "2026-11-21T22:40:20.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "GMac and Brame Connected This Time 😉\n\nTennessee leads 10-6 at halftime: https://t.co/jHKvCKPneQ",
-          "url": "https://x.com/SportNState/status/2124271723424133286",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124271707439661114",
           "created_at": "2026-11-21T22:40:16.000Z",
           "author_name": "StockMarket.News",
@@ -237,16 +277,6 @@
           "url": "https://x.com/_Investinq/status/2124271707439661114",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124270949281518028",
-          "created_at": "2026-11-21T22:37:16.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Is this targeting?  https://t.co/4Aj33LZzQ4",
-          "url": "https://x.com/Outkick/status/2124270949281518028",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124270808386470316",
@@ -265,16 +295,6 @@
           "author_handle": "elonmusk",
           "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in … https://t.co/ieASMRunOy",
           "url": "https://x.com/elonmusk/status/2124270426402836626",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124266604011655287",
-          "created_at": "2026-11-21T22:20:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "George MacIntyre and DaSaahn Brame were THIS close from connecting on 4th down 😬 https://t.co/lHKdtQeViG",
-          "url": "https://x.com/SportNState/status/2124266604011655287",
           "verified": true,
           "verified_type": "blue"
         },
@@ -409,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124256538734809096",
-          "created_at": "2026-11-21T21:40:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JEFF CROUERE WARNS OF GROWING THREATS TO AMERICA'S INFRASTRUCTURE\n\n@JeffCrouere discusses recent technology and air travel disruptions, concerns about the nation's electrical grid, and the importance of emergency preparedness amid uncertainty surrounding America's critical https://t.co/c2PEY2FxK4",
-          "url": "https://x.com/RealAmVoice/status/2124256538734809096",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124256380341088719",
           "created_at": "2026-11-21T21:39:22.000Z",
           "author_name": "The Kobeissi Letter",
@@ -477,16 +487,6 @@
           "url": "https://x.com/Osint613/status/2124247330719515092",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124247076465000908",
-          "created_at": "2026-11-21T21:02:24.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Nebraska fan took the bleacher with him on his way out 🤣🤣🤣 https://t.co/HD8otAQG7e",
-          "url": "https://x.com/Outkick/status/2124247076465000908",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124246193907843326",
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Watch all 29 of Saturday's Scottish Premiership goals",
-          "summary": "Highlights from a full Scottish Premiership fixture card.",
+          "headline": "I wish referee had opportunity to see 'handball' again - Hart",
+          "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Peyton Miller scores a goal, Revolution beat Union 2-0 in Game 1 of best-of-3 series",
-          "summary": "Peyton Miller became the fifth-youngest player to score a goal in MLS Cup playoffs history, Matt Turner had two saves and the New England Revolution beat the Philadelphia Union 2-0 to open a best-of-three first-round series",
+          "headline": "Paolo Bulgari, who turned a family jewelry business into a global brand, dies at 89",
+          "summary": "The Italian jewelry magnate led the Bulgari brand through decades of international expansion, building its reputation for bold gemstones, distinctive designs and Italian glamour. (Image credit: Claudio Luffoli)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154971/bulgari-jewelry-obit"
+        },
+        {
+          "headline": "Naderi's 'lucky punch' keeps Rangers in touch",
+          "summary": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same. The Czech Republic forward's deflected shot from close range gave his side a 2-1 win at Motherwell and kept the gap between Scottish Premiership leaders Celtic and Rangers at four points.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/naderis-lucky-punch-keeps-rangers-234937141.html"
+        },
+        {
+          "headline": "Georgia vs. South Carolina Live Thread",
+          "summary": "Georgia coach Kirby Smart on the sideline during the first half of an NCAA college football game between South Carolina and Georgia in Athens, Ga., on Sept. 18, 2021.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/georgia-vs-south-carolina-live-000039865.html"
+        },
+        {
+          "headline": "Cornell defeats Morgan State 84-63",
+          "summary": "Anthony Nimani’s 17 points helped Cornell defeat Morgan State 84-63 on Saturday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/peyton-miller-scores-goal-revolution-beat-union-2-138350434"
-        },
-        {
-          "headline": "What Ole Miss coaching change Pete Golding made this week and what it means for 2027",
-          "summary": "OXFORD − Ole Miss football coach Pete Golding thought this was a good week for a coaching switch. Ole Miss beat Wofford 59-17 on Nov.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ole-miss-coaching-change-pete-233941338.html"
-        },
-        {
-          "headline": "How did Ohio State's Ryan Day explain loss to Nebraska?",
-          "summary": "Ohio State football lost to Nebraska 31-28. The Buckeyes sometimes looked overpowered .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/did-ohio-states-ryan-day-233801687.html"
-        },
-        {
-          "headline": "France thrash Argentina to reach Nations Championship final",
-          "summary": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://abcnews.com/Sports/wireStory/cornell-defeats-morgan-state-84-63-138350340"
         }
       ]
     },
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T18:50:07-05:00"
+  "updatedAt": "2026-11-21T19:11:26-05:00"
 }
