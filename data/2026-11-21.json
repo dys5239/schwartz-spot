@@ -42,16 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-          "summary": "The European Space Agency announced BepiColombo's arrival via social media.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997"
-        },
-        {
-          "headline": "Kansas City Current capture first NWSL trophy",
-          "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/"
+          "headline": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+          "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Wash. officials condemn ICE after 2 arrested boarding flight at Seattle airport",
@@ -60,16 +54,22 @@
           "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974"
         },
         {
-          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
+          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
         },
         {
-          "headline": "Kate's 'road to recovery' and 'Brave princess'",
-          "summary": "Catherine, Princess of Wales is pictured on several front pages following news of her new documentary.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss"
+          "headline": "Kansas City Current capture first NWSL trophy",
+          "summary": "The Kansas City Current made history Saturday, capturing their first NWSL Championship title with a 2-1 win over the Washington Spirit.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nwsl-championship-kansas-city-current-washington-spirit/"
+        },
+        {
+          "headline": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+          "summary": "The European Space Agency announced BepiColombo's arrival via social media.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124360398287831230",
+          "created_at": "2026-11-22T04:32:42.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Alabama, the playoff committee's number three team, now has one top 25 win all season, Kentucky, who will barely be in the top 25 on Tuesday, after losing a third straight game, this time to Missouri.",
+          "url": "https://x.com/ClayTravis/status/2124360398287831230",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124359894728106224",
+          "created_at": "2026-11-22T04:30:42.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "This would presume four from SEC: Georgia, Texas, Vols, Bama, two from ACC: Miami and Wake, two from Big 12: Utah and Texas Tech, one from Big Ten, the champ, Notre Dame, and one non power team, that leaves one spot for 10-2 Indiana or 10-2 BYU. (Loser of Big Ten also in mix)",
+          "url": "https://x.com/ClayTravis/status/2124359894728106224",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124359388143943696",
+          "created_at": "2026-11-22T04:28:41.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "If it comes down to 10-2 Indiana against 10-2 BYU for the final playoff spot, who should get it? (I think this is a reasonable forecast for the final debate coming.) Who should get in?",
+          "url": "https://x.com/ClayTravis/status/2124359388143943696",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124357933043511665",
+          "created_at": "2026-11-22T04:22:54.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "China's economic slowdown is deepening:\n\nChina's retail sales rose just +0.4% YoY in October, the 3rd-lowest reading since December 2022, and well below the expected +0.8% growth.\n\nThis marks a sharp deceleration from a +1.1% YoY increase in September.\n\nRetail sales are now on https://t.co/1faQgqjq4z",
+          "url": "https://x.com/KobeissiLetter/status/2124357933043511665",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124355996663611453",
+          "created_at": "2026-11-22T04:15:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "At least three people have died and 39 others remain missing following a fire at a candy factory in Serang, Indonesia. Search and rescue operations are ongoing. https://t.co/9GvKwJ55N3",
+          "url": "https://x.com/Osint613/status/2124355996663611453",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124355262848843855",
           "created_at": "2026-11-22T04:12:17.000Z",
@@ -105,26 +155,6 @@
           "author_handle": "ClayTravis",
           "text": "Big Ten title game winner will get in hence the Oregon, UCLA, Iowa spot. I don’t think Big Ten title loser will get in. And I think 10-2 Indiana will get in too. Just don’t think committee will go only one Big Ten spot. Final spot likely comes down to 10-2 Indiana vs 10-2 BYU.",
           "url": "https://x.com/ClayTravis/status/2124352832312639886",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124352028788863353",
-          "created_at": "2026-11-22T03:59:26.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Playoff picture looks pretty clear to me with one week left. SEC has four: Georgia, Texas, Tennessee and Alabama ACC has two: Miami and Wake Forest, Big 12 has two: Utah and Texas Tech, Big Ten has two: Oregon/UCLA/Iowa and Indiana, Notre Dame and non power four team.",
-          "url": "https://x.com/ClayTravis/status/2124352028788863353",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124351292017377456",
-          "created_at": "2026-11-22T03:56:31.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "My top ten: \n1. Georgia \n2. Utah (assuming win) \n3. Notre Dame \n4. Miami \n5. Texas \n6. Tennessee \n7. Alabama \n8. Wake Forest \n9. Texas Tech \n10. Oregon",
-          "url": "https://x.com/ClayTravis/status/2124351292017377456",
           "verified": true,
           "verified_type": "blue"
         },
@@ -305,16 +335,6 @@
           "author_handle": "LauraLoomer",
           "text": "The Vice President @VP is going to meet with the Senator who is pushing Sharia Law in America! \n\nSo how do you think this is going to work out? @tylerbowyer \n\nSince @TPUSA has endorsed JD, maybe they can inform him how dangerous Islam is before this admin befriends yet another https://t.co/Z0nN1CHIeV",
           "url": "https://x.com/LauraLoomer/status/2124313289991602416",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124313206177087753",
-          "created_at": "2026-11-22T01:25:10.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "LSU has been favored in all 11 games this season. They have lost five of them and are now 6-5. Has any college team ever been favored in every game and lost five or more times? I can’t remember seeing it.",
-          "url": "https://x.com/ClayTravis/status/2124313206177087753",
           "verified": true,
           "verified_type": "blue"
         },
@@ -599,16 +619,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124247330719515092",
-          "created_at": "2026-11-21T21:03:24.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump: https://t.co/xsHghxbyUt",
-          "url": "https://x.com/Osint613/status/2124247330719515092",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124246193907843326",
           "created_at": "2026-11-21T20:58:53.000Z",
           "author_name": "Glenn Beck",
@@ -635,16 +645,6 @@
           "author_handle": "KobeissiLetter",
           "text": "What's happening with sentiment?\n\nIt's hard to remember a time with as much negativity as we are seeing now.\n\nThe world is in its biggest technological revolution in history, yet so many people want it to fail. Why?\n\nAI has the potential to create a world of unprecedented",
           "url": "https://x.com/KobeissiLetter/status/2124241532605620708",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124211835163570344",
-          "created_at": "2026-11-21T18:42:22.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "US semiconductor stocks are experiencing incredible volatility:\n\nThe Semiconductor Index to S&amp;P 500 ratio is down to 1.45 points, its lowest since April 2026.\n\nThis ratio has declined -0.46 points, or -24%, from its mid-June peak.\n\nOver this period, SOX has fallen -24%, while the https://t.co/cZsG4tuEZe",
-          "url": "https://x.com/KobeissiLetter/status/2124211835163570344",
           "verified": true,
           "verified_type": "business"
         },
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
+          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+        },
+        {
           "headline": "Trump says he wants \"permanent\" deal with Iran",
           "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
           "source": "CBS News",
@@ -807,12 +813,6 @@
           "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/trump-vows-work-democrats-cap-credit-card-interest-138346798"
-        },
-        {
-          "headline": "Trump signs executive order on federal workers' responses to Congress",
-          "summary": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Patrick Mahomes reacts to KC Current's victory in NWSL Championship",
-          "summary": "Kansas City Chiefs quarterback Patrick Mahomes was dialed in to watch the KC Current earn a NWSL Championship victory over the Washington Spirit on November 21. The two-time MVP and his wife, Brittany Mahomes, are part-owners of the Current, and the team's latest title is a unique feather in the couple's impressive sporting cap.",
+          "headline": "Purdue: 10 Wisconsin: 42 | Post Game Media",
+          "summary": "Saturday afternoon at Ross-Ade Stadium was nothing short of a nightmare for Purdue football , as the Boilermakers were thoroughly dismantled by Wisconsin in a 42-10 blowout . From opening kickoff to the final whistle, the visitors dominated every facet of the matchup, outgaining Purdue 508 total yards to 199 and chewing up 381 yards on the ground .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/patrick-mahomes-reacts-kc-currents-040514629.html"
+          "url": "https://sports.yahoo.com/articles/purdue-10-wisconsin-42-post-043205614.html"
         },
         {
-          "headline": "Austin Simmons throws 4 TD passes, leading Missouri past No. 17 Kentucky 28-14",
-          "summary": "COLUMBIA, Mo. (AP) — Austin Simmons threw for 314 yards and four touchdowns, Donovan Olugbode caught five passes for 105 yards and two of the scores, and Missouri beat No.",
+          "headline": "Arizona football overcomes elements, Kansas State to win in overtime",
+          "summary": "MANHATTAN, KS - NOVEMBER 21: Quarterback Noah Fifita #1 of the Arizona Wildcats runs up field as rain falls in the first half against the Kansas State Wildcats at Bill Snyder Family Football Stadium on November 21, 2026 in Manhattan, Kansas. (Photo by Peter Aiken/Getty Images) | Getty Images It began raining before the opening kick and was still coming…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/austin-simmons-throws-4-td-040232368.html"
+          "url": "https://sports.yahoo.com/articles/arizona-football-overcomes-elements-kansas-043134448.html"
+        },
+        {
+          "headline": "Randall Pettus II scores 20, Elon knocks off Morehead State 84-61",
+          "summary": "Randall Pettus II had 20 points in Elon’s 84-61 victory over Morehead State",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/randall-pettus-ii-scores-20-elon-knocks-off-138353111"
+        },
+        {
+          "headline": "K.J. LaMonte scores 20, Mercer defeats Charleston Southern 69-64",
+          "summary": "K",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/kj-lamonte-scores-20-mercer-defeats-charleston-southern-138353112"
         },
         {
           "headline": "2026 ACC Championship Game: Miami vs. Wake Forest rematch headlines final conference title matchup",
           "summary": "The ACC Championship Game era will conclude with Miami pursuing its first-ever ACC title",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/acc-championship-game-2026-miami-wake-forest-preview-prediction/"
-        },
-        {
-          "headline": "2026 SEC Championship Game scenarios: Georgia clinches spot as Alabama, Texas, Tennessee vie for No. 2 seed",
-          "summary": "The Bulldogs are heading back to Atlanta, but three teams still have a chance to join them",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/2026-sec-championship-game-scenarios-georgia-clinches-alabama-texas-tennessee/"
-        },
-        {
-          "headline": "Washington upsets No. 6 Indiana 27-24 in OT on Tyler Robles' field goal",
-          "summary": "Washington earns first win over a top-10 team in two years in dramatic fashion.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/washington-upsets-6-indiana-27-24-overtime-tyler-138351358"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T23:15:19-05:00"
+  "updatedAt": "2026-11-21T23:42:30-05:00"
 }
