@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "ICE officers arrest at least 1 passenger boarding flight in Seattle",
+          "summary": "Masked immigration officers detained at least one person on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+        },
+        {
+          "headline": "FBI's national crime database targeted in hack, Trump says",
+          "summary": "President Donald Trump confirmed on Saturday that the FBI’s National Crime Information Center database was targeted in a hack.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810"
+        },
+        {
+          "headline": "How a teen gamer and his mother helped rescue a missing girl",
+          "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Parents urged to spot online stalking warning signs as cases rise",
           "summary": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "From pit-stops to go-to destinations: The transformation of service stations",
-          "summary": "Once a quick pause on a long trip, service stations are becoming destinations in their own right.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Princeton student detained by ICE at Reagan Airport after conference",
           "summary": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/princeton-student-ice/"
-        },
-        {
-          "headline": "This week on \"Sunday Morning\" (Nov. 22): The Food Issue",
-          "summary": "Jane Pauley hosts our annual \"Eat, Drink & Be Merry\" holiday broadcast exploring all things epicurean! Check out our menu...",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/"
-        },
-        {
-          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
-          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
         }
       ]
     },
@@ -78,6 +78,146 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124302064687755389",
+          "created_at": "2026-11-22T00:40:54.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 9 Tennessee picks up another MASSIVE win towards their CFP hopes\n\nMeanwhile LSU falls to 6-5 on the season. https://t.co/4wjZOxqb1A",
+          "url": "https://x.com/SportNState/status/2124302064687755389",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124301863269060869",
+          "created_at": "2026-11-22T00:40:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "President Trump says he would work with Democrats on a one-year 10% cap on credit card interest rates, saying card companies are \"getting too much\"\n\n\"I said that. I didn't even know they said it, but they've been trying to get that for years. I would do it\"\n\n\"I know that some https://t.co/27EqiWxr9W",
+          "url": "https://x.com/_Investinq/status/2124301863269060869",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124301521575633222",
+          "created_at": "2026-11-22T00:38:45.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Multiple casualties after shooting in Parma, Ohio. - police https://t.co/rMmf4Ce8tK",
+          "url": "https://x.com/Osint613/status/2124301521575633222",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124299777013895395",
+          "created_at": "2026-11-22T00:31:49.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "The hate for Lane is real from Vols fans\n\nGolf balls and mustard have hit the LSU sideline  https://t.co/hCuHSqLeIX",
+          "url": "https://x.com/Outkick/status/2124299777013895395",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124299321483125235",
+          "created_at": "2026-11-22T00:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NEW POLLS THIS WEEK: WHERE THE COUNTRY STANDS\n\n9 races still uncalled\n\nHouse: Dems 256 vs. Republicans 170\n\nSenate: 55 Dems, 20 Republicans\n\nGood news: Republicans FLIPPED 3 house seats\n\n@RCPolitics https://t.co/BtpDd6AAyG",
+          "url": "https://x.com/RealAmVoice/status/2124299321483125235",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124298952254107976",
+          "created_at": "2026-11-22T00:28:32.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "MICHIGAN STUNS UCLA  https://t.co/q5wEz9PxKB",
+          "url": "https://x.com/Outkick/status/2124298952254107976",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124298887280157001",
+          "created_at": "2026-11-22T00:28:16.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "WE GOT A STORM IN WASHINGTON \n\nDOWN GOES INDIANA https://t.co/aNDn6s8P5C",
+          "url": "https://x.com/Outkick/status/2124298887280157001",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124298034016043316",
+          "created_at": "2026-11-22T00:24:53.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "MICHIGAN KNOCKS OFF THE UNBEATEN UCLA BRUINS https://t.co/DHy8ZudZlI",
+          "url": "https://x.com/SportNState/status/2124298034016043316",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124297898074755375",
+          "created_at": "2026-11-22T00:24:21.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Indiana and UCLA both lose and moron Tennessee fans are throwing golf balls on the field with 3 minutes left in the game. Wild day in college football already.",
+          "url": "https://x.com/ClayTravis/status/2124297898074755375",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124296271880175667",
+          "created_at": "2026-11-22T00:17:53.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "DOWN GO THE DEFENDING CHAMPS\n\nWashington knocks off No. 8 Indiana in OT https://t.co/cj2uKqCV9X",
+          "url": "https://x.com/SportNState/status/2124296271880175667",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124295793280450870",
+          "created_at": "2026-11-22T00:15:59.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "This is so fun that it’s worth just having your car drive you around for the sake of driving around https://t.co/HQflqvij0D",
+          "url": "https://x.com/elonmusk/status/2124295793280450870",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124295598937616632",
+          "created_at": "2026-11-22T00:15:12.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Hey LSU, pro tip for you, Faizon Brandon is going to run the football. You’re welcome.",
+          "url": "https://x.com/ClayTravis/status/2124295598937616632",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124295462975123639",
+          "created_at": "2026-11-22T00:14:40.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Ball. Game. It took a long time, but Tennessee fans finally got their revenge on Lane Kiffin.",
+          "url": "https://x.com/ClayTravis/status/2124295462975123639",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124294755316310346",
+          "created_at": "2026-11-22T00:11:51.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Tesla FSD V15 is a banger release!\n\nCompletely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence. https://t.co/9nbC2g8g01",
+          "url": "https://x.com/elonmusk/status/2124294755316310346",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124293549730709980",
           "created_at": "2026-11-22T00:07:04.000Z",
@@ -129,16 +269,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124287258853286132",
-          "created_at": "2026-11-21T23:42:04.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Mizzou Players Showing Love to the Kids ahead of Kickoff in CoMo 🐯 https://t.co/TOHWcSvsXb",
-          "url": "https://x.com/SportNState/status/2124287258853286132",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124286765871911255",
           "created_at": "2026-11-21T23:40:06.000Z",
           "author_name": "StockMarket.News",
@@ -179,16 +309,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124283176088428937",
-          "created_at": "2026-11-21T23:25:51.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Upset brewing in Ann Arbor? 👀  https://t.co/xQvfVB2QXd",
-          "url": "https://x.com/Outkick/status/2124283176088428937",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124282426209775663",
           "created_at": "2026-11-21T23:22:52.000Z",
           "author_name": "The Kobeissi Letter",
@@ -219,52 +339,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124277483210186991",
-          "created_at": "2026-11-21T23:03:13.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Neyland Stadium is making an impact, and the frustrations continue for Lane Kiffin 🍊\n\n@StephOtey updates from Rocky Top: https://t.co/uzpECUfOd0",
-          "url": "https://x.com/SportNState/status/2124277483210186991",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124275380832071810",
-          "created_at": "2026-11-21T22:54:52.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Trump is making Pete Rose jokes over on Truth Social 💀 https://t.co/DAsoBXSKsV",
-          "url": "https://x.com/Outkick/status/2124275380832071810",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124274529992131066",
           "created_at": "2026-11-21T22:51:29.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "ICE found illegal aliens in Seattle-Tacoma International Airport and ARRESTED them IMMEDIATELY \n https://t.co/u0ASJeIK9m",
           "url": "https://x.com/RealAmVoice/status/2124274529992131066",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124273651340194273",
-          "created_at": "2026-11-21T22:48:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Tiger Walk is Underway in Columbia 🐯\n\nSport &amp; State's @gigididomenico is on the scene for No. 16 Kentucky at Missouri: https://t.co/rbFxopv9BR",
-          "url": "https://x.com/SportNState/status/2124273651340194273",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124271899932795127",
-          "created_at": "2026-11-21T22:41:02.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "NEYLAND IS LOUD AFTER THE TD ‼️ https://t.co/BTKm4FVINp",
-          "url": "https://x.com/Outkick/status/2124271899932795127",
           "verified": true,
           "verified_type": "business"
         },
@@ -399,26 +479,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124259462542471578",
-          "created_at": "2026-11-21T21:51:37.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "How do you possibly miss that call? He tackled him before the ball was there!",
-          "url": "https://x.com/ClayTravis/status/2124259462542471578",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124259306803429513",
-          "created_at": "2026-11-21T21:51:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TEXAS U.S. ATTORNEY ACCUSES HOUSTON DA OF POLITICAL PERSECUTION AGAINST ICE\n\n@aaron_reitz tells Treniss Evans that a Harris County prosecutor is using an ICE agent's indictment to score political points against the Trump administration.\n\n“That ICE agent is not just being https://t.co/UA1Ar4pOxh",
-          "url": "https://x.com/RealAmVoice/status/2124259306803429513",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124259078969102405",
           "created_at": "2026-11-21T21:50:05.000Z",
           "author_name": "Laura Loomer",
@@ -459,26 +519,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124251494882885773",
-          "created_at": "2026-11-21T21:19:57.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "If George McIntrye can walk get Faizon Brandon out of the game. Brandon can’t play in the SEC yet.",
-          "url": "https://x.com/ClayTravis/status/2124251494882885773",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124249885268734340",
-          "created_at": "2026-11-21T21:13:33.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "We get it, the crowd is loud and there are coaches on the sidelines. You’re missing the actual field action. Do less.",
-          "url": "https://x.com/ClayTravis/status/2124249885268734340",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124247330719515092",
           "created_at": "2026-11-21T21:03:24.000Z",
           "author_name": "Open Source Intel",
@@ -495,16 +535,6 @@
           "author_handle": "glennbeck",
           "text": "@benshapiro Check out our full conversation. https://t.co/zWJijBT3MM",
           "url": "https://x.com/glennbeck/status/2124246193907843326",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124246113524056091",
-          "created_at": "2026-11-21T20:58:34.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian media released footage of what it calls the IRGC Aerospace Force's response to the attack on Hengam Island's radar. https://t.co/XQAiZosQSk",
-          "url": "https://x.com/Osint613/status/2124246113524056091",
           "verified": true,
           "verified_type": "blue"
         },
@@ -537,26 +567,6 @@
           "url": "https://x.com/KobeissiLetter/status/2124241532605620708",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124238249686159590",
-          "created_at": "2026-11-21T20:27:19.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "It’s like GTA https://t.co/H2H9tjTStt",
-          "url": "https://x.com/elonmusk/status/2124238249686159590",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124238164512714925",
-          "created_at": "2026-11-21T20:26:59.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "In FSD V15, the Tesla AI computer re-renders reality with chevrons in the sky for turns like a video game. \n\nYou can tap any point on the reality revisualizer to make your car go there.  https://t.co/A5ZB2yFkd7",
-          "url": "https://x.com/elonmusk/status/2124238164512714925",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124236432089006261",
@@ -645,16 +655,6 @@
           "author_handle": "_Investinq",
           "text": "Sound Ventures' Guy Oseary says he put $35 million into Anthropic at a $5 billion valuation, and he bought more at the IPO\n\n\"We invested at a $5 billion valuation... We put $35 million in at $5 billion\"\n\n\"Would you put more money in today if you could?\" \"In fact, I have... I put https://t.co/eK27HWKVSy",
           "url": "https://x.com/_Investinq/status/2124159679823769706",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124148399318712425",
-          "created_at": "2026-11-21T14:30:17.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Bessemer's Byron Deeter says the $1 trillion going into data centers next year is bigger than the entire US Department of War budget\n\n\"We are a large multiple, even in present dollars adjusted, bigger than the entire railroad build out\"\n\n\"The trillion dollars that's going to be https://t.co/SNZGzlzjQ1",
-          "url": "https://x.com/_Investinq/status/2124148399318712425",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,6 +765,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
+          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+        },
+        {
           "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
           "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
           "source": "ABC News",
@@ -787,12 +793,6 @@
           "summary": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
-        },
-        {
-          "headline": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
-          "summary": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats"
         }
       ]
     },
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "I wish referee had opportunity to see 'handball' again - Hart",
-          "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Paolo Bulgari, who turned a family jewelry business into a global brand, dies at 89",
-          "summary": "The Italian jewelry magnate led the Bulgari brand through decades of international expansion, building its reputation for bold gemstones, distinctive designs and Italian glamour. (Image credit: Claudio Luffoli)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/g-s1-154971/bulgari-jewelry-obit"
-        },
-        {
-          "headline": "Naderi's 'lucky punch' keeps Rangers in touch",
-          "summary": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same. The Czech Republic forward's deflected shot from close range gave his side a 2-1 win at Motherwell and kept the gap between Scottish Premiership leaders Celtic and Rangers at four points.",
+          "headline": "UCLA is no longer undefeated. How far will the Bruins fall in the CFP rankings?",
+          "summary": "In a 2026 college football season full of unexpected outcomes, perhaps no team had emerged as a bigger or more pleasant surprise than UCLA . After a 3-9 season in 2025, the Bruins turned to James Madison coach Bob Chesney to turn around a struggling program and build it into a contender in its new home, the Big Ten.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/naderis-lucky-punch-keeps-rangers-234937141.html"
+          "url": "https://sports.yahoo.com/articles/ucla-no-longer-undefeated-far-003707598.html"
         },
         {
-          "headline": "Georgia vs. South Carolina Live Thread",
-          "summary": "Georgia coach Kirby Smart on the sideline during the first half of an NCAA college football game between South Carolina and Georgia in Athens, Ga., on Sept. 18, 2021.",
+          "headline": "Lane Kiffin's 2021 experience at Neyland repeats as Tennessee fans throw golf balls",
+          "summary": "Lane Kiffin knows a thing or two about golf balls being thrown during a return at Neyland Stadium. It happened in 2021.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/georgia-vs-south-carolina-live-000039865.html"
+          "url": "https://sports.yahoo.com/articles/lane-kiffins-2021-experience-neyland-003652032.html"
         },
         {
-          "headline": "Cornell defeats Morgan State 84-63",
-          "summary": "Anthony Nimani’s 17 points helped Cornell defeat Morgan State 84-63 on Saturday",
+          "headline": "UCLA QB Ty Dieffenbach carted off after suffering apparent knee injury in loss to Michigan",
+          "summary": "The Bruins are now down to their third-string QB as the College Football Playoff approaches",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/ucla-qb-ty-dieffenbach-carted-injury-loss-michigan/"
+        },
+        {
+          "headline": "Pickles scores 3 rushing TDs sending Mercer past ETSU in OT and Bears clinch outright SoCon title",
+          "summary": "Quarterback JP Pickles ran for 193 yards and scored three touchdowns, his last in overtime, and Mercer beat East Tennessee State 28-25",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/cornell-defeats-morgan-state-84-63-138350340"
+          "url": "https://abcnews.com/Sports/wireStory/pickles-scores-3-rushing-tds-sending-mercer-past-138350984"
+        },
+        {
+          "headline": "Georgia vs. South Carolina prediction, pick, odds, spread: Bulldogs look to keep rolling against Gamecocks",
+          "summary": "Can South Carolina slow down a red-hot Georgia team?",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/georgia-south-carolina-prediction-picks-odds-spread-where-to-watch-live/"
         }
       ]
     },
@@ -981,22 +981,22 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "CORTIS’ Martin Calls Panic “Legends” After Their “Left-Handed” Performance | MAMA Awards 2026",
+          "summary": "CORTIS caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/"
+        },
+        {
+          "headline": "LE SSERAFIM On Teaming Up With KATSEYE & ILLIT For “ICONIC BY MISTAKE” | MAMA Awards 2026",
+          "summary": "LE SSERAFIM caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/le-sserafim-on-teaming-up-with-katseye-illit-iconic-by-mistake-mama-awards-2026/"
+        },
+        {
           "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
           "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
-        },
-        {
-          "headline": "Gorillaz, CHVRCHES, Yung Lean & More: 5 Best Moments in Mexico City’s Corona Capital (Day 1)",
-          "summary": "Corona Capital’s opening day on Friday (Nov. 20) marked Gorillaz ’s highly anticipated return to Mexico City after eight years away.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/corona-capital-mexico-day-1-gorillaz-chvrches-yung-lean/"
-        },
-        {
-          "headline": "Gorillaz Celebrate Mexico’s ‘Revolutionary Spirit’ at Corona Capital, Bring Out Johnny Marr and Trueno",
-          "summary": "Gorillaz returned to Mexico City on Friday (Nov. 20) for the first time in eight years, headlining the opening day of Corona Capital.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/gorillaz-corona-capital-festival-2026-mexico-city-recap-1236387340/"
         },
         {
           "headline": "Tiny Desk Radio: First Aid Kit, Snoh Aalegra, Robyn",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-21T19:11:26-05:00"
+  "updatedAt": "2026-11-21T19:43:07-05:00"
 }
