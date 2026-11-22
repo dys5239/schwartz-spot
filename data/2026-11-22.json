@@ -6,10 +6,10 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Anthropic had the largest IPO ever. What does that mean for their future — and ours?",
-          "summary": "How did Anthropic go from an AI safety research lab to a tech industry giant, and what does its becoming a publically traded company mean for the future of the AI industry?",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6048720/anthropic-had-the-largest-ipo-ever-what-does-that-mean-for-their-future-and-ours"
+          "headline": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
+          "summary": "Anthropic's record $1.5 trillion valuation is carrying hopes of a charitable windfall that could send billions of dollars to philanthropy",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/anthropics-record-ipo-raises-hopes-charitable-windfall-nonprofits-138357185"
         },
         {
           "headline": "Banks Have Had It Up to Here With Your AI Agent",
@@ -42,6 +42,24 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Trump says he wants \"permanent\" deal with Iran",
+          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+        },
+        {
+          "headline": "Army plans to carry out detonation at Iowa plant despite indefinite pause",
+          "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/"
+        },
+        {
+          "headline": "It's Medicare open enrollment time. Here's what you need to know",
+          "summary": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027"
+        },
+        {
           "headline": "England won't get carried away by All Blacks win",
           "summary": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures.",
           "source": "BBC News",
@@ -52,24 +70,6 @@
           "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
           "source": "ABC News",
           "url": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071"
-        },
-        {
-          "headline": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-          "summary": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
-          "headline": "NPR's Senior Podcast Challenge: Early entries we love",
-          "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124496447244517641",
+          "created_at": "2026-11-22T13:33:18.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Investigators are working to determine which party a new weapons shipment smuggled from Syria belongs to, Lebanese sources told Al Hadath. Suspects in the smuggling were arrested, the first time arrests have been made after earlier smugglers escaped. https://t.co/y3VNZRJmue",
+          "url": "https://x.com/Osint613/status/2124496447244517641",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124495614348021897",
+          "created_at": "2026-11-22T13:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "\"Millions of People, No King\"\n\n@BillFederer joins @aubreysamerica to discuss how ancient Israel was the first recorded society to govern itself without a king. https://t.co/cZuY4wIeGA",
+          "url": "https://x.com/RealAmVoice/status/2124495614348021897",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124494388420071436",
+          "created_at": "2026-11-22T13:25:08.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Theresa May:\n\n\"There's a question that nobody ever really asks in this debate, which is: what is the EU of the future?\n\nBecause the EU of today is not the same as the EU that we left.\" https://t.co/fRzNjekc5Z",
+          "url": "https://x.com/Osint613/status/2124494388420071436",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124493739477356786",
+          "created_at": "2026-11-22T13:22:33.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Former UK Prime Minister Theresa May:\n\nI look slightly aghast at what Andy Burnham was talking about, further negotiations about going into the EU.\n\nMy message to him really is: people voted for Brexit.\n\nBrexit is done. Just accept Brexit and move on.\n\nReverse before you go any https://t.co/lLWenB1Fpe https://t.co/0xlw5TaT4A",
+          "url": "https://x.com/Osint613/status/2124493739477356786",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124493051070710121",
+          "created_at": "2026-11-22T13:19:49.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "At 6 PM ET, futures will reopen for the first time since market's worst stretch since 2020.\n\nWe just published our weekly outlook for premium members.\n\nSince 2020, our calls are up over +516%.\n\nSubscribe below to see how we are positioned into the week:\n\nhttps://t.co/kv5b3o84zI",
+          "url": "https://x.com/KobeissiLetter/status/2124493051070710121",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124492782014259376",
+          "created_at": "2026-11-22T13:18:45.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Key Events This Week:\n\n1. November S&amp;P Global Services PMI data - Monday\n\n2. November S&amp;P Global Manufacturing PMI data - Monday\n\n3. November Consumer Confidence data - Tuesday\n\n4. October PCE Inflation data - Wednesday\n\n5. US Q3 2026 GDP data - Wednesday\n\n6. October New Home",
+          "url": "https://x.com/KobeissiLetter/status/2124492782014259376",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124491839076000167",
+          "created_at": "2026-11-22T13:15:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "The Real Origin of the Mayflower Compact\n\n@BillFederer joins @aubreysamerica to discuss the pilgrims and how a church covenant became the blueprint for American self-government. https://t.co/T3lHsPmKkq",
+          "url": "https://x.com/RealAmVoice/status/2124491839076000167",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124491162069184849",
           "created_at": "2026-11-22T13:12:18.000Z",
@@ -139,16 +209,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124480657682211189",
-          "created_at": "2026-11-22T12:30:34.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Less than three months after signing a €3 billion air defense agreement with Israel, Greece is negotiating additional Israeli defense deals worth €1 billion, according to a report. The talks cover electronic warfare systems and long-range missiles, along with expanding the https://t.co/66ficXsaEV",
-          "url": "https://x.com/Osint613/status/2124480657682211189",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124479235779637392",
           "created_at": "2026-11-22T12:24:55.000Z",
           "author_name": "SpaceX",
@@ -179,16 +239,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124467881110856153",
-          "created_at": "2026-11-22T11:39:48.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Canadian Prime Minister Mark Carney:\n\n\"Look, I am all for taking the world as it is. So I will work with anyone: ideologues, tyrants, dictators.\n\nI call it cooperative federalism.\" https://t.co/G78bNrZKqr",
-          "url": "https://x.com/Osint613/status/2124467881110856153",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124467677859332290",
           "created_at": "2026-11-22T11:38:59.000Z",
           "author_name": "SpaceX",
@@ -215,16 +265,6 @@
           "author_handle": "elonmusk",
           "text": "True https://t.co/2TPisDzXXB",
           "url": "https://x.com/elonmusk/status/2124467385298293001",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124466094379303418",
-          "created_at": "2026-11-22T11:32:42.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Polish Foreign Minister Sikorski:\n\nVladimir Putin will not remember this summit with nostalgia, because it was reportedly organized at his request.\n\nThe Chinese made it very clear -- and this was the main message of the meeting -- that they were literally showing Vladimir Putin https://t.co/uaclnz08kA",
-          "url": "https://x.com/Osint613/status/2124466094379303418",
           "verified": true,
           "verified_type": "blue"
         },
@@ -499,32 +539,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124306366714249309",
-          "created_at": "2026-11-22T00:58:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "CONGRESS NEEDS TO GOVERN: \"IF DEMS DON'T WANT TO BE PAINTED WITH THE SAME BRUSH AS COMMUNISTS, THEY SHOULD TRY GOVERNING...\"\n\nAmericans from BOTH PARTIES want congress to do their job and not waste time with items like impeachments, POLLS show this.\n\n@KeninMSpivak https://t.co/xejlrfRN7E",
-          "url": "https://x.com/RealAmVoice/status/2124306366714249309",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124305136692408552",
           "created_at": "2026-11-22T00:53:06.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: AI-related investment contributed +1.27 percentage points to real US GDP growth in Q1 through Q3 2026.\n\nThis represents ~65% of the economy's cumulative growth of ~2% over this period.\n\nSoftware investment contributed the most, at +0.45 percentage points, followed by https://t.co/b4yXhD0vlq",
           "url": "https://x.com/KobeissiLetter/status/2124305136692408552",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124302843637387338",
-          "created_at": "2026-11-22T00:44:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "\"IT IS VERY HEALTHY THAT DEMS ARE BEING ELECTED TO THESE RED SATES...\": WHY\n\n''...they are going to HAVE to respond to the NEEDS of those red states.\"\n\nJoel Kotkin dives into why he thinks the new blue states could be a good thing and there may have to be a new shift in the Dem https://t.co/pH0juc9j2z",
-          "url": "https://x.com/RealAmVoice/status/2124302843637387338",
           "verified": true,
           "verified_type": "business"
         },
@@ -609,16 +629,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124256380341088719",
-          "created_at": "2026-11-21T21:39:22.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump reposts Abdul El-Sayed’s “TrumpCare” proposal which guarantees healthcare for every American for life. https://t.co/7foULJ0dnS",
-          "url": "https://x.com/KobeissiLetter/status/2124256380341088719",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124246193907843326",
           "created_at": "2026-11-21T20:58:53.000Z",
           "author_name": "Glenn Beck",
@@ -637,16 +647,6 @@
           "url": "https://x.com/glennbeck/status/2124246032955658272",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124241532605620708",
-          "created_at": "2026-11-21T20:40:22.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "What's happening with sentiment?\n\nIt's hard to remember a time with as much negativity as we are seeing now.\n\nThe world is in its biggest technological revolution in history, yet so many people want it to fail. Why?\n\nAI has the potential to create a world of unprecedented",
-          "url": "https://x.com/KobeissiLetter/status/2124241532605620708",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124178767861920170",
@@ -785,16 +785,22 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+          "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress"
+        },
+        {
+          "headline": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+          "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
+        },
+        {
           "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
           "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
-        },
-        {
-          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
-          "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged. (Image credit: Jacquelyn Martin)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
         },
         {
           "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
@@ -803,16 +809,10 @@
           "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         },
         {
-          "headline": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
-          "summary": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates",
+          "headline": "Trump orders federal contractors to check with White House before responding to Congress",
+          "summary": "President Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications that the White House considers privileged",
           "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-vows-work-democrats-cap-credit-card-interest-138346798"
-        },
-        {
-          "headline": "Trump signs executive order on federal workers' responses to Congress",
-          "summary": "If they fail to comply, the White House warns their contracts could be terminated and their future work with the federal government suspended.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-executive-order-federal-contractors-white-house-congress/"
+          "url": "https://abcnews.com/Politics/wireStory/trump-orders-federal-contractors-check-white-house-responding-138346258"
         }
       ]
     },
@@ -821,16 +821,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+          "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+        },
+        {
           "headline": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
           "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html"
-        },
-        {
-          "headline": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-          "summary": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html"
         },
         {
           "headline": "He expected a small-business loan. It turned out to be a trap",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Tyrese Haliburton targeting return before start of December",
-          "summary": "Tony East: Tyrese Haliburton via a post on the zerodoubt (the production company he foudned) Instagram page: \"I just want to be healthy... I'm healing well though.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tyrese-haliburton-targeting-return-start-130859911.html"
-        },
-        {
-          "headline": "Insiders detail Daniel Jones' post-Colts plan for rest of season",
-          "summary": "Former Indianapolis Colts' QB Daniel Jones is \"unlikely\" to sign with a new team right away, according to Adam Schefter and Ian Rapoport . Before Jones becomes a free agent and can sign where he chooses, however, he must first clear waivers.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/insiders-detail-daniel-jones-post-130406435.html"
-        },
-        {
-          "headline": "Sunday Puzzle: What's the only...",
-          "summary": "NPR's Ayesha Rascoe plays the puzzle along with Weekend Edition Puzzlemaster Will Shortz and WNYC listener Joshua Coffey.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/g-s1-154253/sunday-puzzle-whats-the-only"
-        },
-        {
-          "headline": "Bowl projections: Slotting all 47 games as Week 12 upsets provide massive shakeup to postseason picture",
-          "summary": "Take what you thought you knew about the Big Ten's projected postseason pairings and toss them away",
+          "headline": "Vanessa DiBernardo caps 12-year wait with 'saucy' title-winning olimpico for Current and MVP honors",
+          "summary": "After a decade of postseason heartbreak, the Kansas City Current midfielder scored a stunning olimpico to win the NWSL Championship and claim MVP honors months after returning from maternity leave",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-cfp-bracket-predictions-week-13-2026/"
+          "url": "https://www.cbssports.com/soccer/news/vanessa-dibernardo-olimpico-nwsl-current-mvp/"
         },
         {
-          "headline": "Watford seek sixth manager in 18 months after sacking Dionisi",
-          "summary": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+          "headline": "Jets vs. Chargers: Game Time, TV, Announcers, Online Streaming, and More",
+          "summary": "Sep 22, 2024; Pittsburgh, Pennsylvania, USA; Los Angeles Chargers quarterback Justin Herbert (10) works out as head coach Jim Harbaugh looks on before a game against the Pittsburgh Steelers at Acrisure Stadium. Mandatory Credit: Barry Reeger-Imagn Images | USA TODAY Sports via Reuters Con CBS has a doubleheader today while FOX will show a single game to…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/jets-vs-chargers-game-time-133326672.html"
+        },
+        {
+          "headline": "Big Ten receiving yardage leaders after Week 12",
+          "summary": "The Big Ten now has three wide receivers with at least 1,000 receiving yards after the results of Week 12. Joining Ohio State's Jeremiah Smith in the 1,000-yard club are Indiana 's Charlie Becker and Illinois' Collin Dixon, who will basically be battling for second place behind Smith in the final weekend of the regular season.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/big-ten-receiving-yardage-leaders-133122461.html"
+        },
+        {
+          "headline": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
+          "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/"
+        },
+        {
+          "headline": "Frick delivers on 'heavy metal football' promise",
+          "summary": "Mario Frick aimed for \"heavy metal football\" after taking over from Aberdeen and travelling fans were served up quite the concert at Rugby Park.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmn50x95vv73o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -1001,6 +1001,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
+          "summary": "Singer and drummer became engaged in December 2025 after four years of dating",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/"
+        },
+        {
           "headline": "Britney Spears Apologizes to Her Family on Instagram: ‘I Just Miss Them Like Crazy’",
           "summary": "Britney Spears posted a public apology to her family on Saturday (Nov. 21), writing on Instagram that she regretted revisiting past conflicts in public.",
           "source": "Billboard",
@@ -1023,15 +1029,9 @@
           "summary": "CORTIS caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
           "source": "Billboard",
           "url": "https://www.billboard.com/video/cortis-martin-calls-panic-legends-after-left-handed-performance-mama-awards-2026/"
-        },
-        {
-          "headline": "LE SSERAFIM On Teaming Up With KATSEYE & ILLIT For “ICONIC BY MISTAKE” | MAMA Awards 2026",
-          "summary": "LE SSERAFIM caught up with Billboard’s Tetris Kelly on the red carpet at the MAMA Awards 2026.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/video/le-sserafim-on-teaming-up-with-katseye-illit-iconic-by-mistake-mama-awards-2026/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-22T08:13:59-05:00"
+  "updatedAt": "2026-11-22T08:43:02-05:00"
 }
