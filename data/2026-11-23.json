@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
+          "summary": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/"
+        },
+        {
           "headline": "Trump tells Army to halt detonation for now in Iowa this week",
           "summary": "President Trump said he will wait for the courts and Iowa Gov.-elect Rob Sand to agree with the Army's plan.",
           "source": "CBS News",
@@ -52,12 +58,6 @@
           "summary": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-          "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\" (Image credit: Heather Diehl)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
         },
         {
           "headline": "Trump granted new chance to potentially erase his hush money case",
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+          "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\" (Image credit: Heather Diehl)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+        },
+        {
           "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
           "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
           "source": "CBS News",
@@ -807,12 +813,6 @@
           "summary": "Before Josh Allen left the field, he had to go shake Jacob Rodriguez’s hand",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/rookie-lb-jacob-rodriguez-bright-spots-dolphins-138384598"
-        },
-        {
-          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
         }
       ]
     },
@@ -947,16 +947,16 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508/"
         },
         {
-          "headline": "‘Saturday Night Live’: Robert De Niro & Timothée Chalamet Will Close Out The Year As Hosts",
-          "summary": "Saturday Night Live has set its final hosts for 2026. Robert De Niro will return for his fourth stint as host of SNL on December 12.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/saturday-night-live-robert-de-niro-timothee-chalamet-hosts-1237231917/"
-        },
-        {
           "headline": "Macy Gray to Release Next Album Inside a Microdrama, Partnering With Vertical Platform ReelShort (EXCLUSIVE)",
           "summary": "In what vertical series platform ReelShort is billing as the first of its kind, recording artist Macy Gray plans to release her new album via an original scripted microdrama. The vertical series, titled “The Trouble With the Truth,” will star Gray and feature songs from her next album.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/macy-gray-microdrama-album-reelshort-1236956213/"
+        },
+        {
+          "headline": "‘Ted Lasso’ Renewed For Season 5 By Apple TV",
+          "summary": "Ted Lasso fans have something extra to be thankful for this Thanksgiving: the popular Apple TV comedy series has been officially renewed for a fifth season. Its targeted production start date is April 14, I hear.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022/"
         }
       ]
     },
@@ -1001,16 +1001,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Burning Man CEO Marian Goodell to Exit: ‘I’m Not Tired, I’m Not Done — I’m Ready to Be a Mentor’",
+          "summary": "Burning Man Project’s longtime CEO Marian Goodell has announced that she’s leaving the position. Goodell will remain as CEO during the search for a new leader of Burning Man Project, the nonprofit organization behind the annual gathering in Nevada’s Black Rock Desert that also supports the global Burning Man community, including the worldwide network of…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/burning-man-ceo-marian-goodell-exit-interview/"
+        },
+        {
           "headline": "RAYE, Megan Moroney, EJAE & More to Perform at 100th Macy’s Thanksgiving Parade: See the Lineup",
           "summary": "UPDATE: RAYE has been added to the lineup for the 100th Macy’s Thanksgiving Day Parade, with the British singer/songwriter set to open the broadcast. PREVIOUSLY (Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/culture/tv-film/macys-thanksgiving-day-parade-2026-performers-lineup-1236381868/"
-        },
-        {
-          "headline": "Billboard’s Music Industry Events Calendar",
-          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
         },
         {
           "headline": "Adéla Announces 2027 World Tour",
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T17:43:58-05:00"
+  "updatedAt": "2026-11-23T17:46:01-05:00"
 }

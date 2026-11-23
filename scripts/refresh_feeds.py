@@ -57,6 +57,18 @@ MAX_PER_SOURCE = 2
 # Editor (Nov 21): stories older than this are used only after fresher ones
 # (stale ABC/NPR items sat in the slate for every run on Nov 20 and 21).
 FRESH_HOURS = 36
+# Editor (Nov 23): subject-level diversity. Dave: "too many stories of Jensen
+# Huang being out at Nvidia ..he apparently came back today" (9 of 45 slots on
+# Nov 23). Stories that share a hot named subject (a name in the headlines of at
+# least TOPIC_HOT_MIN distinct candidate stories, e.g. Jensen Huang / Nvidia) are
+# capped at TOPIC_MAX_PER_SECTION per section and TOPIC_MAX_PER_EDITION across
+# the edition; the freshest one wins and the slot is backfilled.
+TOPIC_HOT_MIN = 3
+TOPIC_MAX_PER_SECTION = 1
+TOPIC_MAX_PER_EDITION = 2
+# A subject story this many hours older than the subject's newest story is
+# superseded (dropped), as is a departure headline once a return/reversal exists.
+SUPERSEDE_HOURS = 24
 
 # section -> list of feeds. "prefer" is an optional URL-path substring
 # list; if set, items whose URL matches are preferred for that section.
@@ -496,6 +508,197 @@ def is_stale(story: dict, now: datetime | None = None) -> bool:
     return (now - when).total_seconds() > FRESH_HOURS * 3600
 
 
+# ---------------------------------------------------------------------------
+# Editor (Nov 23): subject-level diversity cap.
+# ---------------------------------------------------------------------------
+ENTITY_RE = re.compile(r"\b[A-Z][A-Za-z0-9&.\-]*")
+# Capitalized words that are not subjects, plus names so common they would
+# gut whole sections if capped (the president, Congress, leagues, countries).
+TOPIC_STOP = set(
+    """
+    the a an and or but of to in on at for with by from as is are was were be been it its his her their our your
+    this that these those how why what who whom when where which will would can could should may might must
+    new after before over under into out up down off about man men woman women city night nation nations
+    face did does meet nov dec npr cbs abc bbc cnbc listen lives black auto concert catchup current
+    entertainment democratic god than more most not no all any some one two three
+    first last next top best big inside watch video live updates update breaking report review reviews exclusive
+    says say said told tells ask asks here there just now today tonight week weekend day year years
+    monday tuesday wednesday thursday friday saturday sunday january february march april may june july
+    august september october november december season episode trailer star stars film films movie movies show
+    shows series book album albums tour song songs music news story podcast opinion analysis interview
+    ceo president chief former director executive mr mrs ms dr sen rep gov jr sr inc co corp
+    trump donald vance biden harris obama us usa u.s america american americans white house congress senate
+    democrats democrat republicans republican gop dems federal government state states supreme court
+    ai a.i artificial intelligence tech
+    nfl nba mlb nhl wnba mls ncaa cfp sec acc big ten premier league college football basketball baseball
+    hockey soccer cup world super bowl series championship playoff playoffs game games
+    netflix hbo disney hollywood oscar oscars emmy emmys grammy grammys golden globes billboard
+    china chinese iran iranian israel israeli gaza ukraine ukrainian russia russian europe european uk britain
+    british england canada canadian mexico japan india korea north south east west new york california texas
+    washington los angeles san francisco
+    """.split()
+)
+DEPART_RE = re.compile(
+    r"\b(resign(s|ed)?|steps? down|stepping down|out at|ousted|ouster|fired|exits?|departs?|quits?|leaves|removed)\b",
+    re.I,
+)
+RETURN_RE = re.compile(r"\b(returns?|returned|returning|is back|comes back|reinstat\w*|rehired|comeback)\b", re.I)
+
+
+def _norm_entity(tok: str) -> str:
+    tok = re.sub(r"(['\u2019]s)$", "", tok)
+    return tok.strip(".-&").replace(".", "").lower()
+
+
+def _caps(text: str, vocab: set[str] | None = None) -> set[str]:
+    """Capitalized tokens; a sentence-initial word that the corpus also uses in
+    lowercase ("Did", "Meet", "How") is not a name."""
+    out = set()
+    vocab = vocab or set()
+    for m in ENTITY_RE.finditer(text or ""):
+        tok = _norm_entity(m.group(0))
+        if len(tok) < 3 or tok in TOPIC_STOP or tok.isdigit():
+            continue
+        before = (text[: m.start()]).rstrip()
+        initial = not before or before[-1] in ".!?:\"'\u2018\u201c|-\u2014("
+        if initial and tok in vocab:
+            continue
+        out.add(tok)
+    return out
+
+
+LOWER_WORD_RE = re.compile(r"(?<![\w'\u2019])[a-z][a-z0-9\-]+")
+
+
+def lowercase_vocab(stories: list[dict]) -> set[str]:
+    """Words the candidate pool uses in lowercase somewhere (i.e. ordinary words)."""
+    vocab: set[str] = set()
+    for story in stories:
+        vocab.update(LOWER_WORD_RE.findall(f"{story.get('headline') or ''} {story.get('summary') or ''}"))
+    return vocab
+
+
+def story_entities(story: dict, vocab: set[str] | None = None) -> set[str]:
+    """Named-entity-ish tokens from the headline and the summary's lead sentence.
+
+    Title-case headlines capitalize every word, so there a token counts only if
+    the summary also capitalizes it or the pool never uses it in lowercase."""
+    vocab = vocab or set()
+    head = story.get("headline") or ""
+    summ = story.get("summary") or ""
+    words = [w for w in re.findall(r"[A-Za-z][\w'\u2019-]*", head) if len(w) > 3]
+    title_case = bool(words) and sum(w[0].isupper() for w in words) / len(words) > 0.6
+    head_caps = _caps(head, vocab)
+    summ_caps = _caps(summ, vocab)
+    if title_case:
+        head_caps = {t for t in head_caps if t in summ_caps or t not in vocab}
+    lead = SENTENCE_RE.split(summ, 1)[0] if summ else ""
+    return head_caps | _caps(lead, vocab)
+
+
+def hot_subjects(stories: list[dict], vocab: set[str] | None = None) -> set[str]:
+    """Entities named in the headlines of >= TOPIC_HOT_MIN distinct candidate stories."""
+    counts: dict[str, set[str]] = {}
+    for story in stories:
+        hk = headline_key(story)
+        head_l = (story.get("headline") or "").lower()
+        for ent in story_entities(story, vocab):
+            if re.search(r"(?<!\w)" + re.escape(ent) + r"(?!\w)", head_l.replace(".", "")):
+                counts.setdefault(ent, set()).add(hk)
+    return {e for e, keys in counts.items() if len(keys) >= TOPIC_HOT_MIN}
+
+
+def story_subjects(story: dict, hot: set[str], vocab: set[str] | None = None) -> frozenset:
+    return frozenset(story_entities(story, vocab) & hot)
+
+
+def superseded_keys(stories: list[dict], hot: set[str], vocab: set[str] | None = None) -> set[str]:
+    """Headline keys of stories overtaken by a newer development on the same subject.
+
+    1. A departure headline ("Huang resigns", "out at Nvidia") once any story on
+       that subject reports a return/reinstatement (feeds often re-stamp old
+       items, so publish time alone cannot catch it).
+    2. A subject story more than SUPERSEDE_HOURS older than its newest one."""
+    by_subject: dict[str, list[dict]] = {}
+    for story in stories:
+        for ent in story_subjects(story, hot, vocab):
+            by_subject.setdefault(ent, []).append(story)
+    out: set[str] = set()
+    for members in by_subject.values():
+        heads = [m.get("headline") or "" for m in members]
+        reversal = any(RETURN_RE.search(h) for h in heads)
+        newest = max((m.get("published") or "" for m in members), default="")
+        newest_dt = None
+        try:
+            newest_dt = datetime.fromisoformat(newest) if newest else None
+        except ValueError:
+            pass
+        for m in members:
+            head = m.get("headline") or ""
+            if reversal and DEPART_RE.search(head) and not RETURN_RE.search(head):
+                out.add(headline_key(m))
+                continue
+            raw = m.get("published") or ""
+            if newest_dt and raw:
+                try:
+                    age = (newest_dt - datetime.fromisoformat(raw)).total_seconds()
+                except ValueError:
+                    continue
+                if age > SUPERSEDE_HOURS * 3600:
+                    out.add(headline_key(m))
+    return out
+
+
+RUN_RE = re.compile(r"[A-Z][\w.\-]*(?:['\u2019]s)?(?:\s+[A-Z][\w.\-]*(?:['\u2019]s)?)*")
+
+
+def headline_anchors(story: dict, vocab: set[str] | None = None) -> frozenset:
+    """Last word of each capitalized run in the headline when it is a real name
+    (never used in lowercase by the pool): "Rep. Jimmy Gomez" -> gomez. Two
+    stories in one section that share one are about the same subject even if
+    the subject is not hot (e.g. two Gomez resignation stories)."""
+    vocab = vocab or set()
+    out = set()
+    for m in RUN_RE.finditer(story.get("headline") or ""):
+        tok = _norm_entity(m.group(0).split()[-1])
+        if len(tok) >= 3 and tok not in TOPIC_STOP and tok not in vocab and not tok.isdigit():
+            out.add(tok)
+    return frozenset(out)
+
+
+class TopicBudget:
+    """Edition-wide subject counter shared by all sections (site order)."""
+
+    def __init__(self, hot: set[str], superseded: set[str], vocab: set[str] | None = None):
+        self.hot = hot
+        self.superseded = superseded
+        self.vocab = vocab or set()
+        self.edition: dict[str, int] = {}
+
+    def subjects(self, story: dict) -> frozenset:
+        return story_subjects(story, self.hot, self.vocab)
+
+    def allows(self, story: dict, section_counts: dict[str, int], edition_cap: int) -> bool:
+        if headline_key(story) in self.superseded:
+            return False
+        for anchor in headline_anchors(story, self.vocab):
+            if section_counts.get("@" + anchor, 0) >= TOPIC_MAX_PER_SECTION:
+                return False
+        for ent in self.subjects(story):
+            if section_counts.get(ent, 0) >= TOPIC_MAX_PER_SECTION:
+                return False
+            if self.edition.get(ent, 0) >= edition_cap:
+                return False
+        return True
+
+    def take(self, story: dict, section_counts: dict[str, int]) -> None:
+        for anchor in headline_anchors(story, self.vocab):
+            section_counts["@" + anchor] = section_counts.get("@" + anchor, 0) + 1
+        for ent in self.subjects(story):
+            section_counts[ent] = section_counts.get(ent, 0) + 1
+            self.edition[ent] = self.edition.get(ent, 0) + 1
+
+
 def story_key(story: dict) -> str:
     url = (story.get("url") or "").strip().rstrip("/").lower()
     if url:
@@ -549,6 +752,7 @@ def pick_section(
     used: set[str] | None = None,
     section_id: str = "",
     used_words: list[frozenset] | None = None,
+    topics: "TopicBudget | None" = None,
 ) -> list[dict]:
     ranked = sorted(candidates, key=lambda s: s.get("published") or "", reverse=True)
     used = used if used is not None else set()
@@ -558,6 +762,8 @@ def pick_section(
     picked: list[dict] = []
     per_source: dict[str, int] = {}
     cap = [MAX_PER_SOURCE]
+    sec_topics: dict[str, int] = {}
+    topic_cap = [TOPIC_MAX_PER_EDITION]
 
     def consider(story: dict, already_verified: bool) -> None:
         if len(picked) >= MAX_PER_SECTION:
@@ -572,6 +778,8 @@ def pick_section(
         if per_source.get(story.get("source") or "", 0) >= cap[0]:
             return
         if off_rules(story, section_id):
+            return
+        if topics is not None and not topics.allows(story, sec_topics, topic_cap[0]):
             return
         url = (story.get("url") or "").strip()
         if url:
@@ -591,6 +799,8 @@ def pick_section(
         seen.add(hkey)
         seen_words.append(words)
         per_source[clean["source"]] = per_source.get(clean["source"], 0) + 1
+        if topics is not None:
+            topics.take(story, sec_topics)
         picked.append(clean)
 
     # Editor (Nov 21): fresh stories first (capped, then cap lifted), and only
@@ -607,6 +817,16 @@ def pick_section(
     if len(picked) < MIN_FRESH:
         for story in previous:
             consider(story, True)
+    # Editor (Nov 23): only if the section is still short, let a hot subject
+    # past its edition cap (still at most one per section; superseded stays out).
+    if len(picked) < MAX_PER_SECTION and topics is not None:
+        topic_cap[0] = 10**6
+        for pool in (fresh, stale):
+            cap[0] = MAX_PER_SECTION
+            for story in pool:
+                url = (story.get("url") or "").strip()
+                if url and url in verified:
+                    consider(story, True)
     picked = picked[:MAX_PER_SECTION]
     used.update(story_key(s) for s in picked)
     used.update(headline_key(s) for s in picked)
@@ -619,13 +839,21 @@ def build_sections(day: dict, by_section: dict[str, list[dict]], verified: set[s
     posts = existing_posts(day)
     used: set[str] = set()  # Editor: no story appears in two sections
     used_words: list[frozenset] = []
+    pool = [st for sec in STORY_SECTIONS for st in (by_section.get(sec) or []) + existing_stories(day, sec)]
+    vocab = lowercase_vocab(pool)
+    hot = hot_subjects(pool, vocab)
+    topics = TopicBudget(hot, superseded_keys(pool, hot, vocab), vocab)
+    if hot:
+        print("Hot subjects (capped): " + ", ".join(sorted(hot)))
     for sec_id in SECTION_ORDER:
         if sec_id == "x":
             if posts:
                 sections.append({"id": "x", "title": "On X", "stories": [], "posts": posts})
             continue
         previous = existing_stories(day, sec_id)
-        stories = pick_section(by_section.get(sec_id) or [], previous, verified, failed, used, sec_id, used_words)
+        stories = pick_section(
+            by_section.get(sec_id) or [], previous, verified, failed, used, sec_id, used_words, topics
+        )
         if not stories:
             continue
         sections.append({"id": sec_id, "title": SECTION_TITLES[sec_id], "stories": stories})
