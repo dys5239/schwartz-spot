@@ -191,10 +191,20 @@ LOCAL_OUTLET_RE = re.compile(
 )
 # Editor: shopping/deal roundups are not news.
 # Editor (Nov 21): Variety "Strictly Business" sponsored tax/charity pieces.
-JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$", re.I)
+# Editor (Nov 23): sportsbook guides and promo posts live under /betting/ (CBS Sports).
+JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/", re.I)
 JUNK_HEAD_RE = re.compile(
     r"black friday|cyber monday|gift guide|prime day|promo code|bonus code|"
     r"bonus(es)? (from|at|with) (betting|sportsbook)",  # Editor (Nov 21)
+    re.I,
+)
+# Editor (Nov 23): Sports only — sportsbook / betting-app guides and promos
+# ("Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps").
+# Sports-only so real news about betting laws can still run in News/Politics.
+SPORTS_BETTING_RE = re.compile(
+    r"sportsbooks?|sports ?betting|betting (apps?|guides?|sites?|promos?|bonus(es)?|offers?|lines?|tips?)|"
+    r"legal (online )?(sports )?betting|best bets?|bonus bets?|odds boosts?|\bpromos?\b|parlays?|"
+    r"draftkings|fanduel|kalshi|prizepicks|betmgm|caesars sportsbook|fanatics sportsbook|underdog fantasy",
     re.I,
 )
 # Editor (Nov 22): BBC "The Papers" press review and CBS "Sunday Morning" promo posts.
@@ -206,6 +216,8 @@ SPORTS_TEMPLATE_RE = re.compile(
     r"\b(secures|earns) (an? )?\d+-\d+ (win|victory) over\b|\bdefeats [^,]+ \d+-\d+$|"
     r"^[^,]+ (scores|puts up|has|posts|totals) \d+, [^,]+ \d+-\d+$|"
     r"^[^,\s]+[’']s? \d+ (help|helps|lead|leads|lift|lifts|power|powers|carry|carries) [^,]+ \d+-\d+$|"
+    # Editor (Nov 23): AP small-college "Name scores 28 to help Utah Valley hold off ..." template.
+    r"^[^,]+ (scores|puts up|posts|totals|has) \d+ (points )?to (help|lead|lift|power|carry) |"
     r"\bodds\b.*\b(picks?|prediction|best bets?)\b|\b(prediction|picks?)\b.*\bodds\b",
     re.I,
 )
@@ -390,6 +402,102 @@ def is_junk(story: dict) -> bool:
     return bool(JUNK_URL_RE.search(story.get("url") or "") or JUNK_HEAD_RE.search(story.get("headline") or ""))
 
 
+# Editor (Nov 23): sports items that leak into News / Politics (ABC's politics
+# feed carries AP NFL features under /Politics/wireStory/; BBC News carries BBC
+# Sport videos). Matched by URL path and sports vocabulary, not team names.
+SPORTS_URL_RE = re.compile(r"/sports?/|//sports?\.|/sport-|cbssports\.com|espn\.com", re.I)
+SPORTS_TERMS_RE = re.compile(
+    r"\b(NFL|NBA|NHL|MLB|WNBA|NWSL|MLS|NCAA|CFP|quarterbacks?|linebackers?|running backs?|wide receivers?|"
+    r"tight ends?|cornerbacks?|touchdowns?|TDs?|field goals?|interceptions?|run game|passing game|"
+    r"offensive coordinator|defensive coordinator|head coach|halftime|overtime win|playoffs?|postseason|"
+    r"goalkeeper|goalie|striker|midfielder|hat[- ]trick|Premier League|La Liga|Serie A|Bundesliga|"
+    r"Champions League|Europa League|World Cup qualif\w*|Grand Slam|PGA Tour|NASCAR|UFC|"
+    r"(first|second) (NFL|NBA|career) start|QB|LB|WR|RB|CB|AFC|NFC|"
+    r"kickers?|punters?|rushing yards|won \d+ straight|\d+-game (skid|winning streak|losing streak))\b|"
+    r"\b[Oo]ffense\b.*\b[Dd]efense\b|\b[Dd]efense\b.*\b[Oo]ffense\b|"
+    r"\b(Super Bowl|FIFA|LIV|PGA|snapped an? [\w-]+ (losing|winning) streak|"
+    r"\d{1,3}-\d{1,3} (win|victory|loss|defeat))\b|\bon offense\b"
+)
+
+
+def is_sports_item(story: dict) -> bool:
+    if SPORTS_URL_RE.search(story.get("url") or ""):
+        return True
+    blob = f"{story.get('headline') or ''} {story.get('summary') or ''}"
+    return bool(SPORTS_TERMS_RE.search(blob))
+
+
+# Editor (Nov 23): Dave wants Sports to be about actual games. Stories are tiered
+# (0 result/recap, 1 preview or standings/playoff stakes, 2 other on-field news,
+# 3 off-field or minor sports) and picked in tier order, freshest first.
+GAME_RESULT_RE = re.compile(
+    r"(?<![\d-])\d{1,3}-\d{1,3}(?![\d-])|\b(beat|beats|defeat(s|ed)?|tops|rout(s|ed)?|edges?|downs|"
+    r"rall(y|ies) past|win over|wins over|victory over|falls? to|stuns?|stunned|upsets?|thrash(es)?|"
+    r"draws? with|held to|recap|takeaways|instant analysis|final score|"
+    r"late winner|winner|comeback win|in overtime|walk-?off|shutout|clinch(es|ed)?)\b",
+    re.I,
+)
+GAME_PREVIEW_RE = re.compile(
+    r"\bvs\.?\b|\bv\b|matchup|showdown|preview|how to watch|what to watch|who plays|kickoff|tip-?off|"
+    r"face-?off|clash|set for|first-place battle|battle for|rivalry|week \d+|thanksgiving (games?|schedule)|"
+    r"monday night football|sunday night football|thursday night football|\bMNF\b|\bSNF\b|\bTNF\b|"
+    r"standings|playoffs?|postseason|clinch|\bCFP\b|bowl game|title game|championship|semifinals?|"
+    r"quarterfinals?|knockout|first place|division lead|top seed|no\. \d+",
+    re.I,
+)
+OFF_FIELD_RE = re.compile(
+    r"contracts?|extensions?|re-sign|\bsigns?\b|signing|\$\d+(\.\d+)? ?(million|billion|m\b)|trade (rumou?rs?|targets?|candidates?)|"
+    r"rumou?rs?|destinations|free agen\w*|mock draft|big board|draft prospects?|fantasy|waivers?|start 'em|sit 'em|"
+    r"\bdfs\b|gossip|transfer|keen on|linked with|opinion|column|\bshould\b|grades|winners and losers|"
+    r"power rankings?|podcast|newsletter|athlete of the week|\bvote\b|home decor|sweatshirt|\bwears\b|outfit|"
+    r"fashion|girlfriend|wedding|mansion|tattoo|livid|hypocrisy|stadium (drama|deal|plans?)|ownership|"
+    r"co-owner|suspend\w*|\bfires?\b|\bfired\b|\bhires?\b|\bhired\b|appoint\w*|coaching (bond|carousel|search)|"
+    r"part ways|interview|books? we love|recipe|thanksgiving meal|documentary",
+    re.I,
+)
+# Major leagues only: NFL, NBA, NHL, MLB, college football/basketball, soccer.
+MINOR_SPORT_RE = re.compile(
+    r"/(rugby-union|rugby-league|cricket|motorsport|formula1|golf|tennis|boxing|mma|ufc|nascar|cycling|"
+    r"athletics|darts|snooker|horse-racing|olympics|wrestling)/|\b(rugby|cricket|motogp|formula 1|\bF1\b|"
+    r"nascar|ufc|mma|golf|tennis|boxing|darts|snooker|wrestling|cycling|atp|wta|pga|lpga|grand prix|ryder cup)\b",
+    re.I,
+)
+
+
+# Highlight reels / video clips are game content but rank below written results.
+HIGHLIGHT_RE = re.compile(r"/videos?/|\bhighlights\b|best plays|\bwatch\b", re.I)
+
+
+def sports_tier(story: dict) -> int:
+    head = story.get("headline") or ""
+    blob = f"{head} {story.get('summary') or ''}"
+    url = story.get("url") or ""
+    if MINOR_SPORT_RE.search(f"{url} {head}") or OFF_FIELD_RE.search(head):
+        return 3
+    if HIGHLIGHT_RE.search(f"{url} {head}"):
+        return 1
+    if GAME_RESULT_RE.search(head):
+        return 0
+    if GAME_PREVIEW_RE.search(head):
+        return 1
+    if GAME_RESULT_RE.search(blob) and not OFF_FIELD_RE.search(blob):
+        return 1
+    return 2
+
+
+def section_rank_key(section: str):
+    """Sort key for a section's candidates (newest first; Sports by game tier first)."""
+    def newest(s: dict) -> float:
+        raw = s.get("published") or ""
+        try:
+            return -datetime.fromisoformat(raw).timestamp()
+        except ValueError:
+            return 0.0
+    if section == "sports":
+        return lambda s: (sports_tier(s), newest(s))
+    return newest
+
+
 def off_rules(story: dict, section: str) -> bool:
     """Editor (Nov 22): section-specific rules (junk, Sports local/template, TV off-topic)."""
     head = story.get("headline") or ""
@@ -397,7 +505,11 @@ def off_rules(story: dict, section: str) -> bool:
         return True
     if section == "news" and JUNK_NEWS_RE.search(head):
         return True
-    if section == "sports" and (is_philly(story) or SPORTS_TEMPLATE_RE.search(head)):
+    if section in ("news", "politics") and is_sports_item(story):
+        return True
+    if section == "sports" and (
+        is_philly(story) or SPORTS_TEMPLATE_RE.search(head) or SPORTS_BETTING_RE.search(head)
+    ):
         return True
     if section == "tv" and TV_OFF_RE.search(f"{story.get('url') or ''} {head}"):
         return True
@@ -527,6 +639,11 @@ TOPIC_STOP = set(
     august september october november december season episode trailer star stars film films movie movies show
     shows series book album albums tour song songs music news story podcast opinion analysis interview
     ceo president chief former director executive mr mrs ms dr sen rep gov jr sr inc co corp
+    war orange tiny desk theft grand spirit fury wives asia lives listen black auto concert catchup
+    john david james robert tom nick scott ryan mary ann margaret deborah jason michael chris mike matt
+    mark paul peter steve kevin brian jeff jim joe dan tim bill bob george william richard thomas daniel
+    sarah jennifer jessica emily elizabeth susan karen lisa laura amy anna kate kim angelo williams jackson
+    johnson smith brown jones miller davis wilson moore taylor anderson thomas lee
     trump donald vance biden harris obama us usa u.s america american americans white house congress senate
     democrats democrat republicans republican gop dems federal government state states supreme court
     ai a.i artificial intelligence tech
@@ -805,10 +922,28 @@ def pick_section(
 
     # Editor (Nov 21): fresh stories first (capped, then cap lifted), and only
     # then older ones, so a slow feed's two-day-old item cannot hold a slot.
+    if section_id == "sports":
+        ranked = sorted(candidates, key=section_rank_key("sports"))
     fresh = [s for s in ranked if not is_stale(s)]
     stale = [s for s in ranked if is_stale(s)]
-    for pool, lifted in ((fresh, False), (fresh, True), (stale, False), (stale, True)):
-        cap[0] = MAX_PER_SECTION if lifted else MAX_PER_SOURCE
+    passes = ((fresh, False), (fresh, True), (stale, False), (stale, True))
+    if section_id == "sports":
+        # Editor (Nov 23): games (results, previews, stakes, on-field news) from
+        # the last 36h, then older games, and only then off-field / minor sports.
+        # Within each tier the per-source cap is 2, then 3, so real results
+        # are not crowded out by previews just because one wire has most of them.
+        passes = []
+        for tier in (0, 1, 2):
+            group = [s for s in fresh if sports_tier(s) == tier]
+            passes += [(group, MAX_PER_SOURCE), (group, MAX_PER_SOURCE + 1)]
+        main_s = [s for s in stale if sports_tier(s) < 3]
+        off = [s for s in fresh + stale if sports_tier(s) >= 3]
+        passes += [(main_s, MAX_PER_SOURCE), (main_s, True), (off, MAX_PER_SOURCE), (off, True)]
+    for pool, lifted in passes:
+        if lifted is True or lifted is False:
+            cap[0] = MAX_PER_SECTION if lifted else MAX_PER_SOURCE
+        else:
+            cap[0] = lifted
         for story in pool:
             url = (story.get("url") or "").strip()
             if url and url in verified:
@@ -908,11 +1043,12 @@ def main(argv: list[str] | None = None) -> None:
             # Editor: check the newest few per source (not just the newest 12
             # overall) so one busy feed cannot crowd out the others.
             per_src: dict[str, int] = {}
-            ranked = sorted(by_section[sec_id], key=lambda s: s.get("published") or "", reverse=True)
+            ranked = sorted(by_section[sec_id], key=section_rank_key(sec_id))
+            limit = 8 if sec_id == "sports" else 4
             for story in ranked:
                 url = story.get("url") or ""
                 src = story.get("source") or ""
-                if not url or url in seen_check or per_src.get(src, 0) >= 4:
+                if not url or url in seen_check or per_src.get(src, 0) >= limit:
                     continue
                 seen_check.add(url)
                 to_check.append(url)
