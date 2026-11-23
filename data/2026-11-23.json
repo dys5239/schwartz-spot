@@ -6,22 +6,22 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Claude AI can review pull requests and ship fixes on its own now",
+          "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        },
+        {
+          "headline": "How Jensen Huang ended up as Nvidia CEO again",
+          "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago co-founded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+        },
+        {
           "headline": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
           "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
-        },
-        {
-          "headline": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-          "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable . Nothing CEO Carl Pei demonstrated the…",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording"
-        },
-        {
-          "headline": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-          "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses…",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
         },
         {
           "headline": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Trump says he 'convinced' Nvidia board to reinstate Jensen Huang",
+          "summary": "Jensen Huang has been reinstated as president and CEO of Nvidia.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/made-deal-trump-convinced-nvidia-board-reinstate-jensen/story?id=138373104"
+        },
+        {
           "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
           "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
-        },
-        {
-          "headline": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
-          "summary": "The former Duke of York is expected to give evidence in the complex court case next month.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "US rapper Don Toliver postpones O2 arena show after Manchester evacuation",
@@ -60,16 +60,16 @@
           "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "headline": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
+          "summary": "The former Duke of York is expected to give evidence in the complex court case next month.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Trump tells Army to halt detonation for now in Iowa this week",
           "summary": "President Trump said he will wait for the courts and Iowa Gov.-elect Rob Sand to agree with the Army's plan.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/"
-        },
-        {
-          "headline": "NYC Mayor Mamdani to undergo surgery this week following soccer injury",
-          "summary": "\"I'm scared; it will be my first surgery,\" Mamdani said during an unrelated news conference on Monday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/nyc-mayor-mamdani-undergo-surgery-week-soccer-injury/story?id=138380557"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124959466663633253",
+          "created_at": "2026-11-23T20:13:11.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "😂 One of us, finally!\n\nRoger Goodell still knows they're the Redskins. https://t.co/SFqvuW4rpe",
+          "url": "https://x.com/Outkick/status/2124959466663633253",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124958691971743769",
+          "created_at": "2026-11-23T20:10:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "President Trump says he personally convinced Nvidia's board to bring back Jensen Huang, and it was \"a lot easier\" once the stock had cratered\n\n\"Well, I spoke to them. Let me just put it that way. And I convinced them\"\n\n\"I watched our country lose $5 trillion because of a bad https://t.co/cB6c0YkSLy",
+          "url": "https://x.com/_Investinq/status/2124958691971743769",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124956978485092617",
+          "created_at": "2026-11-23T20:03:18.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Ohio State and LSU entered 2026 with national championship expectations. Instead, both are limping toward the finish line after wildly disappointing seasons.\n\n@ByGusWilson compares which collapse has been worse before landing on the bigger lesson: nothing is guaranteed in college",
+          "url": "https://x.com/SportNState/status/2124956978485092617",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124956878329286699",
+          "created_at": "2026-11-23T20:02:54.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "CFP Rankings Explained, Jensen Huang is Back, NEW CFB Top 10 &amp; SEC Power Rankings https://t.co/mrTMHmKkyo",
+          "url": "https://x.com/ClayTravis/status/2124956878329286699",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124956652185309373",
+          "created_at": "2026-11-23T20:02:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The largest Bitcoin ETF, $IBIT, has posted -$3.0 billion in outflows so far in November, on track for its 2nd-largest monthly outflow on record.\n\nThis snaps a streak of 4 consecutive monthly inflows. \n\nLast week alone, $IBIT saw -$829 million in outflows, marking its https://t.co/4Ur9YHnOoC",
+          "url": "https://x.com/KobeissiLetter/status/2124956652185309373",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124954030405267531",
+          "created_at": "2026-11-23T19:51:35.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "I feel like we gotta go to Texas https://t.co/cd1N7lyvdp",
+          "url": "https://x.com/Timcast/status/2124954030405267531",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124951481530937563",
           "created_at": "2026-11-23T19:41:27.000Z",
@@ -439,16 +499,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124913278329454765",
-          "created_at": "2026-11-23T17:09:39.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "This feels like a skit from South Park  https://t.co/1c1xvvaxND",
-          "url": "https://x.com/Outkick/status/2124913278329454765",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124913276106555763",
           "created_at": "2026-11-23T17:09:38.000Z",
           "author_name": "Sport & State",
@@ -509,16 +559,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124904528164053334",
-          "created_at": "2026-11-23T16:34:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia, $NVDA, short sellers have now lost -$12.2 billion today, on track for their biggest one-day loss in at least 7 years.\n\nThe stock is currently on track to make history by adding +$1 trillion in market cap in a single day.",
-          "url": "https://x.com/KobeissiLetter/status/2124904528164053334",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124903366551912632",
           "created_at": "2026-11-23T16:30:16.000Z",
           "author_name": "Tim Pool",
@@ -539,32 +579,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124890750219653558",
-          "created_at": "2026-11-23T15:40:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Peel Hunt's Kallum Pickering says after two 5% drops in the Nasdaq, history puts the odds of a third in the same month above 70%\n\n\"History suggests that once you've had two 5% falls in the Nasdaq, the probability of a third one in the same month rises above 70%\"\n\n\"Some analysts https://t.co/2f2q8RXxrO",
-          "url": "https://x.com/_Investinq/status/2124890750219653558",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124877835466932598",
           "created_at": "2026-11-23T14:48:48.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️😂 https://t.co/vYlupnmHt2",
           "url": "https://x.com/_The_Prophet__/status/2124877835466932598",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124877546273567078",
-          "created_at": "2026-11-23T14:47:40.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The college football playoff committee — and their media mouthpiece — get absolutely eviscerated here. So good. Enjoy. https://t.co/3QsggeL1AT",
-          "url": "https://x.com/ClayTravis/status/2124877546273567078",
           "verified": true,
           "verified_type": "blue"
         },
@@ -635,26 +655,6 @@
           "author_handle": "SportNState",
           "text": "✅ Front flips \n✅ Calisthenics\n✅ Belly Celly\n\nNFL players continued to surprise fans with their new TD celebrations in Week 11.\n\n✍️: @markjburns88 \nhttps://t.co/lhqwsV2zUq",
           "url": "https://x.com/SportNState/status/2124721843345186850",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124706183848063040",
-          "created_at": "2026-11-23T03:26:44.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Yooooo this is wild\n\nYoutube now estimates when more than one person is watching a video\n\nFor example if 3 people are sitting on a couch watching, one play is 3 views https://t.co/VsBl0ZCRuc",
-          "url": "https://x.com/Timcast/status/2124706183848063040",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124667342529364047",
-          "created_at": "2026-11-23T00:52:23.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Cam Skattebo Calls Game &amp; Calls for a Backflip https://t.co/Ye7KJJMHhw",
-          "url": "https://x.com/SportNState/status/2124667342529364047",
           "verified": true,
           "verified_type": "blue"
         },
@@ -791,12 +791,6 @@
           "url": "https://abcnews.com/Politics/wireStory/rookie-lb-jacob-rodriguez-bright-spots-dolphins-138384598"
         },
         {
-          "headline": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
-          "summary": "President Trump claimed the government \"has no reason to believe\" Jensen Huang's return is a national security risk.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/"
-        },
-        {
           "headline": "The Chiefs have won 3 straight to retake the AFC West, setting up Thanksgiving night in Buffalo",
           "summary": "The Kansas City Chiefs have rolled to three straight wins, answering consecutive defeats in Seattle and Denver with their best stretch of the season",
           "source": "ABC News",
@@ -807,6 +801,12 @@
           "summary": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/"
+        },
+        {
+          "headline": "Inside Trump's gala for $TRUMP meme coin buyers",
+          "summary": "Over 150 of the largest buyers of the meme coin $TRUMP attended the gala at Trump National Golf Club in Virginia.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-gala-dinner-crypto-meme-coin/"
         },
         {
           "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
@@ -821,16 +821,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Amazon to acquire AI startup Decart's chip software, hire founders",
-          "summary": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+          "headline": "Nvidia breathes new life into the AI trade. Plus, Qnity inks a smart deal to get stronger",
+          "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/23/nvidia-breathes-new-life-into-the-ai-trade-plus-qnity-inks-a-smart-deal-to-get-stronger.html"
         },
         {
-          "headline": "Nvidia reinstates Jensen Huang as CEO",
-          "summary": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
+          "headline": "Average 401(k), IRA balances fall as more workers raid their accounts, Fidelity says",
+          "summary": "Retirement account balances fell in the third quarter amid market swings, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html"
         },
         {
           "headline": "Trump, tech leaders and investors cheer Huang's return to Nvidia",
@@ -839,10 +839,10 @@
           "url": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/"
         },
         {
-          "headline": "DNI Jay Clayton tapped as acting national cyber director",
-          "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html"
+          "headline": "Stock market jumps after Jensen Huang reinstated as Nvidia CEO",
+          "summary": "The Nasdaq soared 6% after the opening bell, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/"
         },
         {
           "headline": "Small US trucking firms scramble to survive mounting diesel costs",
@@ -857,28 +857,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Mets sign Tarik Skubal to historic contract, Dodgers-Twins make a trade & Tigers make interesting moves",
-          "summary": "Subscribe to Baseball Bar-B-Cast Apple Podcasts | Spotify | YouTube The main attraction of the free agent class this offseason is officially off the board, and it happened in historic fashion. The New York Mets have signed left-handed starting pitcher Tarik Skubal to a 9-year, $450 million contract, making him the ace of Queens for years to come, with…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/article/mets-sign-tarik-skubal-to-historic-contract-dodgers-twins-make-a-trade--tigers-make-interesting-moves-193912164.html"
-        },
-        {
-          "headline": "Panthers HC Dave Canales doesn't have much to say when asked about WR Xavier Legette's decreased role",
-          "summary": "In 2024, the Carolina Panthers made wide receiver Xavier Legette a first-round pick. Now, a few years later, they've made him a special teamer.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/panthers-hc-dave-canales-doesnt-193633223.html"
-        },
-        {
-          "headline": "Serie A hot takes: Christian Pulisic finally at his best; Inter won't be winning the Scudetto",
-          "summary": "Elsewhere, Genoa will end up in the top 10, and we saw that coming",
+          "headline": "Why the PGA Tour's new fall setup can't get here fast enough and players who had years to forget in 2026",
+          "summary": "The Monday Tee Sheet takes a look at what has been a dreadful fall system about to get a major reboot",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/serie-a-hot-takes-christian-pulisic-inter-scudetto/"
+          "url": "https://www.cbssports.com/golf/news/pga-tour-fall-season-players-who-had-years-to-forget-in-2026/"
         },
         {
-          "headline": "Washington Spirit part ways with Adrian Gonzalez after loss in NWSL Championship",
-          "summary": "Gonzalez was at the helm for both Saturday's defeat to the Kansas City Current and the 2025 loss in the NWSL Championship to Gotham FC",
+          "headline": "What Kirby Smart said about Glenn Schumann's FSU football interest",
+          "summary": "Kirby Smart provided a brief comment on the future of No. 1 Georgia's defensive coordinator Glenn Schumann and his potential future as Florida State football's head coach.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/kirby-smart-said-glenn-schumanns-200609575.html"
+        },
+        {
+          "headline": "Fantasy Football Waiver Wire: Justin Boone's top kickers to stream for Week 12",
+          "summary": "We're into Week 12 of the 2026 NFL season and it's the Thanksgiving slate, which means a lot of tough decisions await. There are games on five separate days — Wednesday, Thursday, Friday, Sunday and Monday.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-justin-boones-top-kickers-to-stream-for-week-12-200544440.html"
+        },
+        {
+          "headline": "49ers, longtime general manager John Lynch reach extension",
+          "summary": "Lynch currently presides over the NFC's best team",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/washington-spirit-adrian-gonzalez-nwsl-championship/"
+          "url": "https://www.cbssports.com/nfl/news/49ers-longtime-general-manager-john-lynch-reach-extension/"
         },
         {
           "headline": "FIFA picks US to co-host 2031 Women's World Cup and UK for 2035 edition",
@@ -929,16 +929,22 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "FX’s ‘Seven Sisters’ Drama Series Casts Rodrigo Santoro As Recurring",
+          "summary": "EXCLUSIVE: Rodrigo Santoro (Westworld, 300) has been tapped for a major recurring role opposite Elizabeth Olsen in FX’s upcoming drama series Seven Sisters, Deadline has learned. From writer Will Arbery, director Sean Durkin and producer Garrett Basch, in addition to Olsen, Seven Sisters also stars Cristin Milioti, J.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/rodrigo-santoro-seven-sisters-fx-cast-elizabeth-olsen-1237231782/"
+        },
+        {
+          "headline": "‘Percy Jackson and the Olympians’: How Season 3 Brings Epic Moments to Life and Deals With Annabeth’s Absence in the Books",
+          "summary": "The cast and creatives sat down with THR to talk about adapting the third book in the bestselling series.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/percy-jackson-and-the-olympians-season-3-annabeth-thalia-1236746256/"
+        },
+        {
           "headline": "‘Sheriff Country’ Wrangles Best 7-Day Audience Yet, Leading CBS To Big Ratings Week",
           "summary": "EXCLUSIVE: Nothing can stop CBS audiences from finding their favorite shows, not even a little programming switch-up during the midterm elections. The network saw series highs for both Sheriff Country and Cupertino in early November, up around 4% year-over-year for the fifth week of the broadcast season (November 2 to 8) with an average of […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/sheriff-country-ratings-high-november-cbs-1237231649/"
-        },
-        {
-          "headline": "Imax To Screen Super Bowl In Deal With Disney, NFL",
-          "summary": "Imax, ESPN, Disney and the National Football League have reached a partnership to bring the Super Bowl to the giant screen for the first time, giving fans “a new, larger-than-life way to experience America’s biggest sporting event.” The game, set for Feb. 14, is the first Super Bowl in ESPN’s 47-year history.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/imax-screening-super-bowl-lxi-disney-espn-nfl-1237231653/"
         },
         {
           "headline": "‘The Secret Lives of Mormon Wives: Orange County’ Renewed for Season 2 at Hulu",
@@ -951,12 +957,6 @@
           "summary": "Deborah Ann Woll is set to play Faye in the “God of War” live-action TV series at Amazon Prime Video, Variety has learned. Woll previously played Faye in the video game “God of War Ragnarok” and will also lead the upcoming game “God of War Laufey,” which is due out in May 2027.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/god-of-war-tv-series-amazon-deborah-ann-woll-faye-1236955900/"
-        },
-        {
-          "headline": "‘The Dinosaurs,’ ‘Ocean With David Attenborough’ Producer Silverback Films Gets New Top Execs",
-          "summary": "The Banijay natural history banner says founders Keith Scholey and Alastair Fothergill will leave day-to-day management to CEO Jane Hamlin, creative chief Huw Cordey and COO Elly Salisbury.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-dinosaurs-banijay-producer-silverback-films-new-leaders-1236761056/"
         }
       ]
     },
@@ -965,22 +965,22 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Reliant Talent Adds Jason Zenowich, Kyle Levinson, Rick Ferrell & Michelle Romeo As Agents",
+          "summary": "EXCLUSIVE: Reliant Talent Agency has added four new agents across their talent, touring and corporate departments. On the talent theatrical side, the company has hired veteran talent agent Jason Zenowich who has worked at ICM, A3 and most recently the Kohner Agency.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/reliant-talent-agency-jason-zenowich-kyle-levinson-rick-ferrell-michelle-romeo-1237231857/"
+        },
+        {
+          "headline": "FCC To Vote On Plan To Relax Local TV And Radio Ownership Limits",
+          "summary": "The FCC plans to vote next month on a proposal to further relax ownership limits on broadcasters, this time targeting a rule that limits the number of stations a company can own in one market. The proposal would allow for TV and radio broadcasters to exceed those limits on a case-by-case basis and if the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/fcc-media-ownership-brendan-carr-1237231829/"
+        },
+        {
           "headline": "Super Bowl LXI to Touch Down in Imax Theaters",
           "summary": "The NFL, ESPN and Walt Disney have agreed a first-ever deal to live stream the ultimate sports championship game in large format theaters in domestic and select international markets.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/super-bowl-lxi-imax-theaters-1236761160/"
-        },
-        {
-          "headline": "Indie Film Accountant Gets Prison For Stealing Millions For Sugar Daddy Hook-Ups, Vegas Visits & Louis Vuitton Gear",
-          "summary": "Everybody knows budgets and resources on independent films are almost always tight and held together by spirit, favors and prayers. So, when your accountant is stealing from you, the production’s pain is much more than a mere line item.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/film-accountant-sentenced-stole-millions-1237231746/"
-        },
-        {
-          "headline": "Untitled Signs ‘The Hunting Wives,’ ‘I Will Find You’ Director Maggie Kiley",
-          "summary": "EXCLUSIVE: Maggie Kiley, a director on the popular Netflix series The Hunting Wives and I Will Find You, has signed with Untitled for representation in all areas. Recently, Kiley directed the Season 2 premiere and two additional episodes of The Hunting Wives, an adaptation of the May Cobb novel which returns on November 26.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/maggie-kiley-hunting-wives-signs-untitled-1237231737/"
         },
         {
           "headline": "UTA to Host Creators Summit For Next Generation of Agents",
@@ -1001,16 +1001,16 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "‘Toy Story 5, ‘Super Mario Galaxy Movie’ Among a Record 38 Films Eligible for 2027 Oscar for Animated Feature Film: Full List",
-          "summary": "A record 38 films are eligible for consideration in the animated feature film category for the 99th Academy Awards, including such blockbusters as Toy Story 5, The Super Mario Galaxy Movie and Minions and Monsters , all of which rank among the top 10 hits of the year at the domestic box office. The list also includes Hoppers and Goat, which are also in…",
+          "headline": "Karol G’s ‘BbY WOW’ Leads Billboard Global Charts, ‘Christmas’ Carols Climb",
+          "summary": "Karol G , Judeline and rusowsky’s “BbY WOW” rebounds a spot for a spot for a seventh week at No. 1 on the Billboard Global 200 .",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/awards/2027-oscars-animated-feature-film-eligible-movies-list-1236388019/"
+          "url": "https://www.billboard.com/music/chart-beat/karol-g-global-charts-number-one-seven-weeks-1236387993/"
         },
         {
-          "headline": "ATEEZ Write a New History All Their Own With ‘GOLDEN HOUR : Part.6’ & Dream of Super Bowl Halftime Show: ‘We’re Still Hungry’",
-          "summary": "Five months after GOLDEN HOUR : Part.5 gave the group its third No. 1 on the Billboard 200, ATEEZ are back with their 15th mini album, GOLDEN HOUR : Part.6 , led by the title track “UP.” The five-track EP — which is now their fourth Billboard 200 No.",
+          "headline": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
+          "summary": "D’Angelo ‘s estate has confirmed the late singer has a song in Grand Theft Auto VI . Related ‘It’s Not Just a Song on the Radio’: How Music Became A Main Character In ‘Grand Theft Auto VI’ From Bad Bunny to Sexyy Red, Here’s Every Music Cameo in ‘Grand Theft Auto VI’ Every Track From ‘Grand Theft Auto VI: The Album’ Ranked As gamers made their way…",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/ateez-interview-golden-hour-photos-1236387245/"
+          "url": "https://www.billboard.com/music/rb-hip-hop/dangelo-grand-theft-auto-vi-song-kamikazi-1236387838/"
         },
         {
           "headline": "Hear Clairo Cover MF Doom With El Michels Affair",
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T14:43:25-05:00"
+  "updatedAt": "2026-11-23T15:14:58-05:00"
 }
