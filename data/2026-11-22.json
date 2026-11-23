@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+        },
+        {
           "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development",
           "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
           "source": "TechCrunch",
@@ -16,12 +22,6 @@
           "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music . Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto -themed section.",
           "source": "The Verge",
           "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
-        },
-        {
-          "headline": "TechCrunch Mobility: A/B testing robots vs. humans",
-          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/"
         },
         {
           "headline": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Would you go on holiday with your ex's kids and their mum? How to make blended families work",
           "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Energy bills will soar - here's how you can ease the pain",
-          "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Riding wild animals and selling crafts at a prison rodeo",
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124679355616076198",
+          "created_at": "2026-11-23T01:40:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Rep. Michael McCaul says he warned Jensen Huang a year ago that Nvidia chips were helping China build DeepSeek, and Huang told him \"that's legal\"\n\n\"I met with Jensen Huang a year ago and warned him that he was selling advanced AI chips to China that allowed them to create https://t.co/eXu9jKE5bc",
+          "url": "https://x.com/i/status/2124679355616076198",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124677987190604283",
+          "created_at": "2026-11-23T01:34:41.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "George Kittle gets the 49ers on the board FIRST in Mexico City!  https://t.co/ptXCJd5Nwb",
+          "url": "https://x.com/i/status/2124677987190604283",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124675653744132285",
+          "created_at": "2026-11-23T01:25:25.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Lol https://t.co/mpS7JLQ59b",
+          "url": "https://x.com/i/status/2124675653744132285",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124674295246811586",
+          "created_at": "2026-11-23T01:20:01.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "😂 https://t.co/YcbC1FArSP",
+          "url": "https://x.com/i/status/2124674295246811586",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124673835350065389",
+          "created_at": "2026-11-23T01:18:11.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Harari’s warning about AI contains a disturbing possibility: civilization can lose control without anyone ever taking it away.\n\nThe process begins with something mundane.\n\nAn accountant learns judgment by finding errors. An engineer learns by repairing failures. A doctor https://t.co/8oEbuxSMNF",
+          "url": "https://x.com/i/status/2124673835350065389",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124669266456924376",
           "created_at": "2026-11-23T01:00:02.000Z",
@@ -369,16 +419,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124628686204981353",
-          "created_at": "2026-11-22T22:18:47.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Don’t look now, fantasy fans. 👀 https://t.co/o6ncClYJ63",
-          "url": "https://x.com/i/status/2124628686204981353",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124626103973323099",
           "created_at": "2026-11-22T22:08:31.000Z",
           "author_name": "Open Source Intel",
@@ -479,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124609453274108083",
-          "created_at": "2026-11-22T21:02:21.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "360 degree vision that never tires https://t.co/uxbPR87SQE",
-          "url": "https://x.com/i/status/2124609453274108083",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124606222536229270",
           "created_at": "2026-11-22T20:49:31.000Z",
           "author_name": "Clay Travis",
@@ -525,16 +555,6 @@
           "author_handle": "ClayTravis",
           "text": "Why did Joe Milton make zero effort to recover his fumble?  https://t.co/iDB2SShxOB",
           "url": "https://x.com/i/status/2124586000139858296",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124583857269752260",
-          "created_at": "2026-11-22T19:20:39.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "GTA6 genuinely is worse than GTA5",
-          "url": "https://x.com/i/status/2124583857269752260",
           "verified": true,
           "verified_type": "blue"
         },
@@ -627,16 +647,6 @@
           "url": "https://x.com/i/status/2124467552441012653",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124332104800702673",
-          "created_at": "2026-11-22T02:40:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Jason Calacanis says AI demand is going to go 500x, but Chamath Palihapitiya fires back that the 10-year yield is more likely headed to 6% than 4.5%\n\n\"People think this thing is overheated. I think it's underappreciated\"\n\n\"The market here is going to go 500x. The demand for this https://t.co/N5pI8OHKnS",
-          "url": "https://x.com/i/status/2124332104800702673",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124330605626397124",
@@ -787,12 +797,6 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
-        },
-        {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
           "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
           "source": "NPR",
@@ -803,6 +807,12 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
+        },
+        {
+          "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
+          "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         }
       ]
     },
@@ -847,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Tarik Skubal by the numbers: Mets strike record deal, will spend massive amount of money after landing star pitcher",
+          "summary": "The New York Mets have committed to spending a lot of money in 2027 and beyond. The Mets made a massive move to land pitcher Tarik Skubal on Sunday afternoon.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mlb/article/tarik-skubal-by-the-numbers-mets-strike-record-deal-will-spend-massive-amount-of-money-after-landing-star-pitcher-013800168.html"
+        },
+        {
+          "headline": "Mexican fans boo 49ers' Nick Bosa after his remarks about their cheering at NFL games",
+          "summary": "MEXICO CITY (AP) — San Francisco 49ers defensive end Nick Bosa was heavily booed on Sunday night by fans at Estadio Azteca, a few days after his comments about Mexican crowd behavior during a 2022 game sparked outrage in the country. “Yeah, I kind of want … I think we need some information given to the fans, so they know when to cheer,” Bosa said earlier…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/mexican-fans-boo-49ers-nick-013636287.html"
+        },
+        {
+          "headline": "Vikings vs. 49ers odds: Best Sunday Night Football Mexico City first touchdown scorer picks, NFL predictions",
+          "summary": "Here are our top picks for first touchdown prediction markets on the Vikings and 49ers' Sunday Night Football game in Mexico City",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/prediction/news/vikings-vs-49ers-odds-best-sunday-night-football-mexico-city-first-touchdown-scorer-picks-nfl-predictions/"
+        },
+        {
           "headline": "DK Metcalf's bad season just got worse. What happens now for Steelers embattled receiver?",
           "summary": "It's safe for Metcalf to be considered the worst trade acquisition in Steelers history. Now he faces a possible suspension and an uncertain future in Pittsburgh",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/nfl/news/what-happens-now-steelers-embattled-receiver-dk-metcalf/"
         },
         {
-          "headline": "49ers vs. Vikings prediction, odds, betting preview: Sunday Night Football picks, best bets for Mexico City",
-          "summary": "Best bets and betting preview for 49ers vs. Vikings on Sunday Night Football in Mexico City",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/betting/news/49ers-vs-vikings-prediction-odds-betting-preview-sunday-night-football-picks-best-bets-mexico-city/"
-        },
-        {
-          "headline": "2027 NFL Draft order: Titans hold No. 1 spot as Chargers, Dolphins also fall to 1-9 in Week 11",
-          "summary": "The Tennessee Titans may have allowed 51 points on Sunday afternoon, but they are still in control of the No. 1 overall pick in 2027 NFL Draft.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/2027-nfl-draft-order-titans-hold-no-1-spot-as-chargers-dolphins-also-fall-to-1-9-in-week-11-010858790.html"
-        },
-        {
-          "headline": "Abdul Carter, red zone stops: How the Giants upset the Jaguars",
-          "summary": "The New York Giants (6-3-1) unquestionably earned their biggest home win of the 2026 season. Big Blue used a strong first half and a tremendous defense effort throughout in a 23-18 upset victory over the Jacksonville Jaguars on Sunday afternoon at MetLife Stadium.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/abdul-carter-red-zone-stops-010311717.html"
-        },
-        {
-          "headline": "Ball scores 23, Eastern Kentucky downs Alice Lloyd 114-85",
-          "summary": "Austin Ball scored 23 points as Eastern Kentucky beat Alice Lloyd 114-85 on Sunday",
+          "headline": "Lipscomb secures 92-67 win over Milligan",
+          "summary": "Sawyer Dotson had 14 points in Lipscomb’s 92-67 victory over Milligan",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ball-scores-23-eastern-kentucky-downs-alice-lloyd-138365213"
+          "url": "https://abcnews.com/Sports/wireStory/lipscomb-secures-92-67-win-milligan-138366054"
         }
       ]
     },
@@ -882,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
+          "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. “Hey, so I’m here with my movie ‘Hexed,’ but it looks like they delivered a chair from a different movie,” said the actress […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/"
+        },
         {
           "headline": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
           "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has defied expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.” Surely part of the success here […]",
@@ -901,16 +917,10 @@
           "url": "https://www.npr.org/2026/11/22/nx-s1-6034981/some-kids-movies-are-even-better-when-you-see-them-as-an-adult"
         },
         {
-          "headline": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning 2 Oscars",
+          "headline": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning Two Oscars",
           "summary": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/"
-        },
-        {
-          "headline": "Huelva Ibero-American Film Festival Prizes: ‘After Elena,’ Alfredo Castro, Lucía Puenzo and ‘La Bola Negra’ Win Big",
-          "summary": "Spain’s Huelva Ibero-American Film Festival, one of Europe’s foremost Latin American cinema platforms, prized two of the region’s cinema greats, awarding top prizes to Chilean actor Alfredo Castro and Argentine writer-director Lucía Puenzo on Saturday night. “La Bola Negra” also reaped yet another plaudit, its scribe-helmer-producer duo Javier Calvo and…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/huelva-ibero-american-film-festival-prizes-after-elena-1236955462/"
         }
       ]
     },
@@ -1023,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T20:16:02-05:00"
+  "updatedAt": "2026-11-22T20:43:28-05:00"
 }
