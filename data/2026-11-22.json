@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Pip assessments need 'fundamental overhaul', report to say",
+          "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+          "summary": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Army moves detonation of 10,000 pounds of lead azide to Wednesday",
           "summary": "The Army said it plans to detonate nearly 10,000 pounds of degraded lead azide at a military facility in Middletown, Iowa.",
           "source": "ABC News",
@@ -52,18 +64,6 @@
           "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/"
-        },
-        {
-          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-          "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
@@ -857,16 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Brenton Strange bottled up in Week 11",
-          "summary": "Jacksonville Jaguars TE Brenton Strange caught all three of his targets for 16 yards against the New York Giants in Week 11. SOURCE: USAToday.com Why it Matters: Strange had a solid role in the passing game earlier in the year, but he has just nine total catches over the last four games and has finished with 22 yards or less in three straight.",
+          "headline": "Karl-Anthony Towns has 30 points and 13 rebounds as Knicks beat Pacers 113-106",
+          "summary": "NEW YORK (AP) — Karl-Anthony Towns had 30 points and 13 rebounds, Jalen Brunson added 22 points, and the New York Knicks beat the Indiana Pacers 113-106 on Sunday night to extend their winning streak to five games. Towns, who missed Saturday night’s buzzer-beater victory over Portland due to an illness, shot 9 for 14 from the field including 4 for 4 on…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/brenton-strange-bottled-week-11-033533719.html"
+          "url": "https://sports.yahoo.com/articles/karl-anthony-towns-30-points-040224830.html"
         },
         {
-          "headline": "Alabama Faces an Unusual Iron Bowl Situation With More Than Pride at Stake",
-          "summary": "Nov 21, 2026; Tuscaloosa, Alabama, USA; Alabama Crimson Tide defensive lineman Nolan Wilson (44) reacts after a sack against the Chattanooga Mocs during the second half of a game at Saban Field at Bryant-Denny Stadium. Mandatory Credit: Butch Dill-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters) TUSCALOOSA, Ala.",
+          "headline": "Dolphins’ Jeff Hafley promises good times are coming in Buffalo after losing to Bills",
+          "summary": "Gregory Fisher-Imagn Images Dolphins’ Jeff Hafley promises good times are coming in Buffalo after losing to Bills appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/alabama-faces-unusual-iron-bowl-033452256.html"
+          "url": "https://sports.yahoo.com/articles/dolphins-jeff-hafley-promises-good-035803129.html"
         },
         {
           "headline": "Vikings utilize NFL's obscure fair-catch kick rule to attempt 71-yard field goal against 49ers",
@@ -881,10 +881,10 @@
           "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-royce-lewis-provides-depth-for-dodgers-aging-infield/"
         },
         {
-          "headline": "Bransford scores 25 to lead No. 10 UCLA past Tennessee 90-80",
-          "summary": "KK Bransford scored 25 points to lead No. 10 UCLA to a 90-80 victory over Tennessee on Sunday night",
+          "headline": "Jets score on first 5 drives and edge Chargers 27-24 to snap 5-game skid",
+          "summary": "Geno Smith led the New York Jets to a 27-24 victory over the Los Angeles Chargers, ending a five-game losing streak",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/bransford-scores-25-lead-10-ucla-past-tennessee-138366055"
+          "url": "https://abcnews.com/Sports/wireStory/jets-score-5-drives-edge-chargers-27-24-138365212"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T22:46:21-05:00"
+  "updatedAt": "2026-11-22T23:10:46-05:00"
 }
