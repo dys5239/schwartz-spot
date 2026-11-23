@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+        },
+        {
           "headline": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
           "summary": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and tap to influence what the car plans to do next.",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it?",
           "source": "Wired",
           "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/"
-        },
-        {
-          "headline": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-          "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
         }
       ]
     },
@@ -42,10 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "headline": "Capture of drug lord on FBI's most wanted list leads to more arrests",
+          "summary": "Fausto Isidro Meza Flores, alias \"Chapo Isidro,\" was captured in Sinaloa during a special forces raid in coordination with U.S. intelligence.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/chapo-isidro-capture-violence-arrests-mexico/"
         },
         {
           "headline": "Nvidia reinstates Jensen Huang as CEO",
@@ -54,16 +54,16 @@
           "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
         },
         {
-          "headline": "Friends were wary of me holidaying with my ex's former wife and kids - but our blended family works",
-          "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
+          "headline": "UK to host 2035 Women's World Cup, Fifa confirms",
+          "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "England's tearaway quick bowler reinvented as a top-order batter",
-          "summary": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
+          "headline": "US rapper Don Toliver postpones O2 arena show after Manchester evacuation",
+          "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "LIVE: ABC News Live",
@@ -78,6 +78,166 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124884904811036689",
+          "created_at": "2026-11-23T15:16:54.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says Nvidia's board, $NVDA, asked for \"assurance\" on the national security threat and \"we gave them assurance.\"\n\nIt now seems as though the Trump Administration is suggesting that the national security threat will not be as big of an issue as many",
+          "url": "https://x.com/i/status/2124884904811036689",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124884832098320400",
+          "created_at": "2026-11-23T15:16:37.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump: Congratulations to NVIDIA on having made, what I consider to be, an absolutely GREAT decision! https://t.co/nSsoxVoCxE",
+          "url": "https://x.com/i/status/2124884832098320400",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124884458641977803",
+          "created_at": "2026-11-23T15:15:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Wharton's Jeremy Siegel says last week's rout was just leveraged momentum players unwinding, and a snapback is coming\n\n\"It's overdone. I mean, we're gonna certainly get a snapback\"\n\n\"There was nothing in the economic news. There was nothing in earnings. There was nothing that https://t.co/2rP0vRkLdr",
+          "url": "https://x.com/i/status/2124884458641977803",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124884291725472056",
+          "created_at": "2026-11-23T15:14:28.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump: We've done very thorough investigation on Jensen Huang",
+          "url": "https://x.com/i/status/2124884291725472056",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124884149672824863",
+          "created_at": "2026-11-23T15:13:54.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump: The biggest threat would be to lose Jensen's brain power.",
+          "url": "https://x.com/i/status/2124884149672824863",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124882928001781904",
+          "created_at": "2026-11-23T15:09:03.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The White House says President Trump personally joined an Nvidia, $NVDA, board meeting and \"intervened\" to advocate for Jensen Huang to be reinstated as CEO.\n\n\"President Trump was totally involved and this is a great decision by the NVIDIA board. We have to protect our",
+          "url": "https://x.com/i/status/2124882928001781904",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124881883943092579",
+          "created_at": "2026-11-23T15:04:54.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "This Nvidia situation will prove to be one of retail's biggest wins in history.\n\nAs the doomers and bears called for an end to the AI Revolution, retail investors were aggressively buying $NVDA.\n\nToday, the stock could add over +$1 trillion in market cap, making it the first in",
+          "url": "https://x.com/i/status/2124881883943092579",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124881836425781317",
+          "created_at": "2026-11-23T15:04:42.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CHRISTMAS THE WAY AMERICA CELEBRATES IT!\n\nFaith, family, tradition, and the songs that bring us home! ❤️\n\n@Real_AM_Music presents \"Real America's Christmas,\" a special holiday album celebrating the true spirit of the season with songs that honor everything we love about https://t.co/xI0Tuw7RUe",
+          "url": "https://x.com/i/status/2124881836425781317",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124881545769222503",
+          "created_at": "2026-11-23T15:03:33.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Elon Musk on Nvidia bringing back Jensen Huang as CEO: \n\n\"The mistake has been corrected.\" https://t.co/B1Nm5P08Br",
+          "url": "https://x.com/i/status/2124881545769222503",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124878844075327796",
+          "created_at": "2026-11-23T14:52:49.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jensen Huang's reinstatement as Nvidia CEO removes the biggest overhang on the company and the broader tech market, according to Yorkville analyst Dan Ives. He wrote that AI demand remains strong.\n\nIves: \"The Board knew it had no choice but to bring him back.\"",
+          "url": "https://x.com/i/status/2124878844075327796",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124878776425496837",
+          "created_at": "2026-11-23T14:52:33.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump congratulations Nvidia, $NVDA, on reinstating Jensen Huang as CEO. https://t.co/m3hENM92oL",
+          "url": "https://x.com/i/status/2124878776425496837",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124877835466932598",
+          "created_at": "2026-11-23T14:48:48.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️😂 https://t.co/vYlupnmHt2",
+          "url": "https://x.com/i/status/2124877835466932598",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124877546273567078",
+          "created_at": "2026-11-23T14:47:40.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The college football playoff committee — and their media mouthpiece — get absolutely eviscerated here. So good. Enjoy. https://t.co/3QsggeL1AT",
+          "url": "https://x.com/i/status/2124877546273567078",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124877264475324738",
+          "created_at": "2026-11-23T14:46:32.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Well well well https://t.co/mb3o5twLHr",
+          "url": "https://x.com/i/status/2124877264475324738",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124877252412281142",
+          "created_at": "2026-11-23T14:46:29.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Grok Bot can find you Black Friday deals https://t.co/0AnY1ZA5uo",
+          "url": "https://x.com/i/status/2124877252412281142",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124875939133751684",
+          "created_at": "2026-11-23T14:41:16.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "The mistake has been corrected https://t.co/UKvEng9rCD",
+          "url": "https://x.com/i/status/2124875939133751684",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124875452107870676",
           "created_at": "2026-11-23T14:39:20.000Z",
@@ -109,16 +269,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124874043534750185",
-          "created_at": "2026-11-23T14:33:44.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Esmaeil Baghaei, spokesman for Iran's Foreign Ministry:\n\n\"We certainly are wounded. You can't expect a lion that showed its claws and teeth to hyenas not to be wounded.\n\nThese wounds make the lion's roar louder and its claws and teeth sharper.\n\nThe wounded animals are those who",
-          "url": "https://x.com/i/status/2124874043534750185",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124873995464134773",
           "created_at": "2026-11-23T14:33:33.000Z",
           "author_name": "SightBringer",
@@ -139,16 +289,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124873304464904473",
-          "created_at": "2026-11-23T14:30:48.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia stock, $NVDA, extends gains to over +35% on the day after Jensen Huang is reinstated as CEO.\n\nThe stock has now added +$1 trillion in market cap today.\n\nIf Nvidia closes at or above current levels, it’ll be the first company in history to add $1 trillion in a https://t.co/iXOi4jr06S",
-          "url": "https://x.com/i/status/2124873304464904473",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124872664938602736",
           "created_at": "2026-11-23T14:28:16.000Z",
           "author_name": "Elon Musk",
@@ -159,72 +299,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124872324218266061",
-          "created_at": "2026-11-23T14:26:54.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Nvidia Board:\n\n“The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers. We have every confidence in Jensen and look forward to working with him as he resumes his",
-          "url": "https://x.com/i/status/2124872324218266061",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124871861804654908",
-          "created_at": "2026-11-23T14:25:04.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nasdaq 100 futures have been halted after surging +7% on news of Nvidia, $NVDA, reinstating Jensen Huang as CEO. https://t.co/BVhPxBE8Li",
-          "url": "https://x.com/i/status/2124871861804654908",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124871802459431391",
-          "created_at": "2026-11-23T14:24:50.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Jensen Huang:\n\n“I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution, I take this responsibility with the greatest humility and renewed commitment. I want to thank the NVIDIA https://t.co/B1Nm5OZALT",
-          "url": "https://x.com/i/status/2124871802459431391",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124871560028725383",
-          "created_at": "2026-11-23T14:23:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Jensen Huang releases a statement after being reinstated as CEO of Nvidia, $NVDA:\n\nFull statement:\n\n\"I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution. I take this",
-          "url": "https://x.com/i/status/2124871560028725383",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124871445226402031",
           "created_at": "2026-11-23T14:23:25.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "TRUMP CELEBRATES JENSEN HUANG'S RETURN TO NVIDIA: “A GREAT PATRIOT AND NATIONAL TREASURE!”\n\nPresident Trump praises Nvidia's decision to reinstate Huang as CEO, saying the DOJ has no evidence of unlawful conduct and his return poses no known national security risk.\n\nBut Trump https://t.co/LmooxOXvyD",
           "url": "https://x.com/i/status/2124871445226402031",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124870755343323530",
-          "created_at": "2026-11-23T14:20:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Nvidia (NVDA) shares surged roughly 25% to 30% in pre-market trading today after the board announced it reinstated co-founder Jensen Huang as president, CEO, and board director. https://t.co/B1Nm5P08Br",
-          "url": "https://x.com/i/status/2124870755343323530",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124870184003424673",
-          "created_at": "2026-11-23T14:18:24.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The US stock market adds +$3 trillion in market cap as Jensen Huang is reinstated as CEO of Nvidia, $NVDA. https://t.co/pOrpbfD45N",
-          "url": "https://x.com/i/status/2124870184003424673",
           "verified": true,
           "verified_type": "business"
         },
@@ -247,16 +327,6 @@
           "url": "https://x.com/i/status/2124869091756232804",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124868795076431981",
-          "created_at": "2026-11-23T14:12:53.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump on the return of Nvidia's CEO: \"The right and proper decision.\" https://t.co/zFoUG6Lo8e https://t.co/B1Nm5OZALT",
-          "url": "https://x.com/i/status/2124868795076431981",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124868459188179193",
@@ -337,16 +407,6 @@
           "url": "https://x.com/i/status/2124851627572007333",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124850462448930906",
-          "created_at": "2026-11-23T13:00:02.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Indian national Nikhil Gupta was sentenced to 235 months for plotting to assassinate a U.S. citizen in New York City. \n\nThe DOJ says the plot was directed by an Indian government employee tied to RAW, India's foreign intelligence agency. https://t.co/UmFafzX8pE",
-          "url": "https://x.com/i/status/2124850462448930906",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124843065395581238",
@@ -439,32 +499,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124694454326153444",
-          "created_at": "2026-11-23T02:40:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "RenMac's Neil Dutta says the Fed made a mistake by not hiking, and with inflation above 2% there is no Fed rescue coming for this selloff\n\n\"Yes, they made a mistake by not hiking\"\n\n\"There's a path to see multiple rate hikes at this point\"\n\n\"When inflation is above 2%, https://t.co/STy9jjwhWn",
-          "url": "https://x.com/i/status/2124694454326153444",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124693204541071377",
           "created_at": "2026-11-23T02:35:09.000Z",
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "Why is DHS Secretary Markwayne Muslim’s wife traveling with him on his trip to the Middle East when the US is still dealing with major outages and Ilhan Omar is still walking the halls of Congress? \n\nVery weird. https://t.co/LluHBMAcjQ",
           "url": "https://x.com/i/status/2124693204541071377",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124687439658983529",
-          "created_at": "2026-11-23T02:12:15.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡New Inner Ring tactical note is out.\n\nOn Friday we told Inner Ring subscribers to expect one more push lower in bitcoin, likely under Friday's low, and to expect that dip to be bought.\n\nIt came hours later. In thin weekend trading, bitcoin broke its July low and fell to about https://t.co/Tba8Lax1D3",
-          "url": "https://x.com/i/status/2124687439658983529",
           "verified": true,
           "verified_type": "blue"
         },
@@ -529,16 +569,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124673835350065389",
-          "created_at": "2026-11-23T01:18:11.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Harari’s warning about AI contains a disturbing possibility: civilization can lose control without anyone ever taking it away.\n\nThe process begins with something mundane.\n\nAn accountant learns judgment by finding errors. An engineer learns by repairing failures. A doctor https://t.co/8oEbuxSMNF",
-          "url": "https://x.com/i/status/2124673835350065389",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124667342529364047",
           "created_at": "2026-11-23T00:52:23.000Z",
           "author_name": "Sport & State",
@@ -599,42 +629,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124621998521212940",
-          "created_at": "2026-11-22T21:52:12.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Starlink helps kids with education https://t.co/vUuGt09nTL",
-          "url": "https://x.com/i/status/2124621998521212940",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124619599882920139",
-          "created_at": "2026-11-22T21:42:40.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Consciousness is either an illusion or ubiquitous on a gradient. \n\nDifficult to argue that carbon is conscious, but silicon is not.",
-          "url": "https://x.com/i/status/2124619599882920139",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124606222536229270",
           "created_at": "2026-11-22T20:49:31.000Z",
           "author_name": "Clay Travis",
           "author_handle": "ClayTravis",
           "text": "The Cowboys have had eight possessions against the Titans today. Here are the results: touchdown, touchdown, touchdown, touchdown, touchdown, touchdown, field goal, touchdown. And head coach Robert Saleh is supposed to be a defensive genius.",
           "url": "https://x.com/i/status/2124606222536229270",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124586000139858296",
-          "created_at": "2026-11-22T19:29:09.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Why did Joe Milton make zero effort to recover his fumble?  https://t.co/iDB2SShxOB",
-          "url": "https://x.com/i/status/2124586000139858296",
           "verified": true,
           "verified_type": "blue"
         },
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+        },
+        {
           "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
           "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday.",
           "source": "CBS News",
@@ -803,12 +809,6 @@
           "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party"
         },
         {
-          "headline": "Trump says he wants \"permanent\" deal with Iran",
-          "summary": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
-        },
-        {
           "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
           "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
           "source": "ABC News",
@@ -821,22 +821,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-          "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+          "headline": "Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+          "summary": "Tata Steel will buy a 26.4% stake in India's leading structural steel pipes and tubes maker to boost downstream capacity.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+          "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html"
         },
         {
-          "headline": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
-          "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+          "headline": "Trump tells CNBC he spoke to Nvidia board directly about Jensen Huang",
+          "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+          "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
         },
         {
-          "headline": "Stock futures rise, erasing some losses after tech rout",
-          "summary": "U.S. stock index futures regained ground on Monday, but Wall Street analysts think it's too soon to sound the all-clear.",
+          "headline": "Money tips for managing stock market woes",
+          "summary": "Jill Schlesinger joins \"CBS Mornings\" to discuss recent stock market shifts and how they impact your wallet.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/"
+          "url": "https://www.cbsnews.com/video/money-tips-for-managing-stock-market-woes/"
         },
         {
           "headline": "Crowdstrike to acquire Zscaler in $44B deal that would create a cybersecurity giant",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Fantasy Baseball: Does Tarik Skubal's record-setting contract with the Mets make him SP1?",
-          "summary": "Or will the Mets' aggressive spending come back to bite them again?",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-does-tarik-skubals-record-setting-contract-with-the-mets-make-him-sp1/"
+          "headline": "NFL contenders & pretenders after Week 11",
+          "summary": "This week in the NFL , we saw remarkable victories from teams previously considered out of contention, alongside those proving their worth as legitimate contenders. Additionally, a familiar team that missed the playoffs last year is regaining a form reminiscent of their past success.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/nfl-contenders-pretenders-week-11-151500261.html"
         },
         {
-          "headline": "Caleb Williams and Bears' offense struggle in ugly win",
-          "summary": "The Chicago Bears returned from their off week with a performance very similar to their game against the Tampa Bay Buccaneers. The Bears got their eighth victory of the season, but they didn't reinforce the idea that this team is ready to take the NFC.",
+          "headline": "What The New Jersey Devils Are Thankful For This Year",
+          "summary": "NEWARK, NEW JERSEY - OCTOBER 01: The New Jersey Devils salute the fans before the first period against the Philadelphia Flyers at Prudential Center on October 01, 2026 in Newark, New Jersey. (Photo by Elsa/Getty Images) | Getty Images It’s Thanksgiving Week, which is usually a notable line of demarcation in the National Hockey League.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/caleb-williams-bears-offense-struggle-143147171.html"
+          "url": "https://sports.yahoo.com/articles/jersey-devils-thankful-151500546.html"
         },
         {
-          "headline": "Robert Griffin III shares his pick for ‘the best team in the NFL by far’ after Week 11 results",
-          "summary": "Photo by Christian Petersen/Getty Images After their dominant win against the Minnesota Vikings, former NFL quarterback Robert Griffin III has picked the San Francisco 49ers as the best team in the NFL. Coming into the game with an 8-1 record, the 49ers were expected to face a real challenge against the Vikings, who have the best defence in the league.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/robert-griffin-iii-shares-pick-143135529.html"
+          "headline": "Rennie gets backing despite All Black defeats",
+          "summary": "All Blacks head coach Dave Rennie has received the unequivocal backing of his bosses at New Zealand Rugby.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq4gn2zwmvy7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Is Marquez MotoGP's greatest of all time?",
+          "summary": "After winning his eighth MotoGP world title, BBC Sport assesses the standing of Marc Marquez within the sport.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/motorsport/articles/crd9100xkgp9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "NFL DFS, Bengals vs. Commanders: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
           "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Cincinnati vs. Washington on 'MNF'",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/betting/news/nfl-dfs-bengals-commanders-daily-fantasy-picks-fanduel-draftkings-lineup-advice-monday-night-football/"
-        },
-        {
-          "headline": "'Right on time' - Kildunne on Quins exit stories",
-          "summary": "England and Bristol Bears full-back Ellie Kildunne makes a pointed reference to reports that poor time-keeping was behind her Harlequins exit.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -893,28 +893,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Ben Petrie, Juliette Gariépy, Chris Locke, Romina D’Ugo to Star in ‘Man Vs Truck’ Dark Comedy (Exclusive)",
-          "summary": "Director Ted Stenson’s Canadian indie puts the classic American pickup truck at the intersection of politics, ego and masculinity.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/man-vs-truck-dark-comedy-ben-petrie-chris-locke-1236760057/"
-        },
-        {
-          "headline": "‘Avengers: Doomsday’ Final Trailer: Captain America’s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men",
-          "summary": "Marvel has dropped the final trailer for “Avengers: Doomsday” ahead of its Dec. 18 release.",
+          "headline": "Samantha Morton to Receive BFI Fellowship",
+          "summary": "Samantha Morton, long considered one of the U.K.’s finest actors working today and with a body of work going back more than three decades, is set to receive the British Film Institute’s highest honor, the BFI Fellowship. From her breakout role in Iris Kelly’s 1997 feature “Under the Skin,” Morton has displayed her talent for […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948/"
+          "url": "https://variety.com/2026/film/global/samantha-morton-receive-bfi-fellowship-1236955791/"
         },
         {
-          "headline": "‘Fjord’ Director Cristian Mungiu Says It’s Up to Audiences to Make Up Their Own Minds About Polarizing Palme d’Or Winner: ‘The Film Is Not Divisive. Society Is Divided’",
-          "summary": "“Fjord” director Cristian Mungiu insists that audiences should make up their own minds about his polarizing Palme d’Or winner, which divided critics as much as it united the jury at this year’s Cannes Film Festival. The film, which pits a conservative Christian couple against a progressive social system, has become something of a Rorschach test […]",
+          "headline": "UTA to Bring U.K. Businesses Under One Roof With Opening of New London Headquarters",
+          "summary": "The U.K.’s position as one of the world’s biggest entertainment hubs is being given a boost by UTA, which is relocating its London headquarters to a new purpose-built space and bring with it all its local businesses. According to the agency, the move — set to take place in early 2027 — shows its “unwavering commitment to […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/fjord-director-cristian-mungiu-polarizing-palme-dor-winner-1236955722/"
+          "url": "https://variety.com/2026/film/global/uta-opening-new-london-headquarters-1236955720/"
         },
         {
-          "headline": "‘Way of the Warrior Kid’ Review: Chris Pratt and Jude Hill Team Up to Take On Bullies in Apple TV’s Winning Family Film",
-          "summary": "An injured Navy SEAL trains his young nephew to stand up for himself in McG's new movie, co-starring Linda Cardellini and Jude Hill.",
+          "headline": "DOC NYC Reveals U.S., International Competition and Audience Award Winners (Exclusive)",
+          "summary": "The Oscar-qualifying short jury award went to 'Memories of a Window' as the nonfiction festival recognized three short films in awards contention with The Louies, a $100,000 cash fund named after TV and media pioneer Louis Wolfson.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/way-of-the-warrior-kid-review-chris-pratt-mcg-1236760128/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-doc-nyc-award-winners-1236760812/"
+        },
+        {
+          "headline": "‘Avengers: Doomsday’ Final Trailer Shows Major X-Men Moment",
+          "summary": "The final trailer for the Marvel superhero mashup is the best look yet at the upcoming blockbuster.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061/"
         },
         {
           "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
@@ -929,34 +929,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
-          "summary": "Netflix’s feature-length documentary “Tyson Fury,” which follows the two-time heavyweight champion of the world’s journey from childhood to the pinnacle of his sport, reveals that the boxer has been diagnosed with schizophrenia. The film, which is directed by Lucy Wilcox, will debut on Nov.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855/"
-        },
-        {
-          "headline": "Make-Up Artists & Hair Stylists Guild Sets Ronnie Specter & Lola Kemp As 2027 Career Honorees",
-          "summary": "The Make-Up Artists & Hair Stylists Guild has its 2027 career award recipients. Emmy-winning and Oscar-nominated makeup artist Ronnie Specter and Emmy-nommed hairstylist Lola Kemp will be honored February 20 during the 14th annual MUAHS Awards at the Westin Bonaventure in Los Angeles.",
+          "headline": "ITV Issues Statement Amid Outcry Over AJ Odudu Experiencing “Microaggressions” On ‘I’m A Celebrity… Get Me Out Of Here!’",
+          "summary": "ITV has said its duty of care to I’m A Celebrity… Get Me Out Of Here! contestants is of the “utmost importance” amid concern over an incident between campmates AJ Odudu and Mariella Frostrup.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/make-up-artists-hair-stylists-guild-2027-honorees-1237230773/"
+          "url": "https://deadline.com/2026/11/itv-statement-aj-odudu-mariella-frostrup-im-a-celeb-1237231538/"
         },
         {
-          "headline": "Crave Renews ‘Yaga’ For Season 2 With Carrie-Anne Moss Returning",
-          "summary": "Carrie-Anne Moss will return for a second season of Crave’s mystery thriller series Yaga. Canadian streaming service Crave greenlit Season 2 after the first run debuted on October 23 as its top series on the launch weekend and good performances on the likes of AMC+, where it was the number one series launch for the […]",
+          "headline": "Keith Scholey & Alastair Fothergill Stepping Back From CEO Duties At ‘Our Planet’ Producer Silverback",
+          "summary": "Keith Scholey and Alastair Fothergill are stepping back from the day-to-day running of Our Planet maker Silverback Films after 14 years. The pair of storied natural history makers will be replaced by a new team following a revamp at Silverback, which is now owned by Banijay.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/crave-renews-yaga-season-2-carrie-anne-moss-returning-1237231510/"
+          "url": "https://deadline.com/2026/11/silverback-films-scholey-fothergill-stepping-back-ceo-1237231539/"
         },
         {
-          "headline": "NBCUniversal, Amazon in Holiday-Ad Showdown Over Thanksgiving Week",
-          "summary": "Peace on earth, good will toward men….and tens of millions of dollars in holiday advertising? It’s not as incongruous as it sounds.",
+          "headline": "‘The Grand Tour’ Renewed for Season 2 With Hosts Francis Bourgeois, Thomas Holland and James Engelsman",
+          "summary": "“The Grand Tour” has been given a second season order by Prime Video. Hosted by Francis Bourgeois, James Engelsman and Thomas Holland, the motoring show is set to return for six more episodes with “new stories and exploring far flung locations all with a healthy side of competition,” according to Prime Video.",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/nbcuniversal-amazon-holiday-ad-showdown-thanksgiving-week-1236955542/"
+          "url": "https://variety.com/2026/tv/global/the-grand-tour-season-2-renewed-1236955860/"
         },
         {
-          "headline": "‘Blade Runner 2099’ Review: Michelle Yeoh and Hunter Schafer Lead Amazon’s Visually Rich, Emotionally Deficient Sci-Fi Sequel",
-          "summary": "Set eight decades after Ridley Scott's 1982 classic, in a post-revolutionary world now ruled by replicants, the eight-part miniseries follows a dying police officer and her human partner.",
+          "headline": "‘The Dinosaurs,’ ‘Ocean With David Attenborough’ Producer Silverback Films Gets New Top Execs",
+          "summary": "The Banijay natural history banner says founders Keith Scholey and Alastair Fothergill will leave day-to-day management to CEO Jane Hamlin, creative chief Huw Cordey and COO Elly Salisbury.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-reviews/blade-runner-2099-review-michelle-yeoh-hunter-schafer-amazon-1236760567/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-dinosaurs-banijay-producer-silverback-films-new-leaders-1236761056/"
+        },
+        {
+          "headline": "Justin Timberlake Documentary Trailer: “He’s Not Who I Thought He Was”",
+          "summary": "A \"raw, reflective and revealing portrait\" of Timberlake is coming to Apple TV.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-documentary-trailer-apple-1236761080/"
         }
       ]
     },
@@ -964,6 +964,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "UTA to Unite Businesses at New London Headquarters in 2027",
+          "summary": "Bringing UTA, Curtis Brown and ROOF together at a new location \"represents our commitment to our U.K. presence,\" says Darnell Strom, head of UTA’s U.K.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/uta-new-london-headquarters-one-rathbone-square-2027-1236760955/"
+        },
         {
           "headline": "Democratic National Committee Plans 12 Presidential Primary Debates Starting In June",
           "summary": "The 2028 presidential race will be in full swing likely by early next year, and on Monday, the Democratic National Committee announced its plans for a dozen primary debates, starting in June. No TV or streaming partner has been announced, but hosting the first debate, or any other, is the source of much competition between […]",
@@ -978,7 +984,7 @@
         },
         {
           "headline": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
-          "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has defied expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.” Surely part of the success here […]",
+          "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has exceeded expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.” Surely part of the success here […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/"
         },
@@ -987,12 +993,6 @@
           "summary": "As many SAG-AFTRA members struggle to qualify for health insurance, the union is taking the issue to the U.S. government.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076/"
-        },
-        {
-          "headline": "CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’",
-          "summary": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/"
         }
       ]
     },
@@ -1001,10 +1001,22 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Los Tucanes de Tijuana Ink Deal With WME for Global Representation",
-          "summary": "Los Tucanes de Tijuana have signed with WME for worldwide representation, Billboard can exclusively announce Monday (Nov. 23).",
+          "headline": "Listen to D’Angelo’s Posthumous Song “Kamikazi”",
+          "summary": "The previously unreleased track surfaced in Grand Theft Auto VI’s Worldwide FM radio station",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/listen-to-dangelos-posthumous-song-kamikazi/"
+        },
+        {
+          "headline": "Corina Smith Signs With Universal Music Latino: ‘They’ve Embraced Me Exactly As I Am’",
+          "summary": "Corina Smith has signed a deal with Universal Music Latino, Billboard can exclusively announce today (Nov. 23).",
           "source": "Billboard",
-          "url": "https://www.billboard.com/pro/los-tucanes-de-tijuana-sign-with-wme-global-representation/"
+          "url": "https://www.billboard.com/pro/corina-smith-universal-music-latino-signing-exclusive/"
+        },
+        {
+          "headline": "‘It’s Not Just a Song on the Radio’: How Music Became A Main Character In ‘Grand Theft Auto VI’",
+          "summary": "For decades, Rockstar Games was chasing one song. In 2002, when the gaming behemoth was developing Grand Theft Auto: Vice City , the fourth installment of its iconic series, it had successfully secured classics like Michael Jackson’s “Billie Jean” and Grandmaster Flash and the Furious Five’s “The Message” for the game.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/gta-6-radio-songs-soundtrack-justice-billboard-cover-1236386805/"
         },
         {
           "headline": "Travis Scott, Slayyyter, 21 Savage Top ‘Grand Theft Auto VI: The Album (Deluxe Edition)’",
@@ -1017,21 +1029,9 @@
           "summary": "Fans were reportedly “screaming” and “coughing up blood” at UK arena Co-Op Live",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/don-toliver-concert-evacuated-after-airborne-substance-released-into-crowd/"
-        },
-        {
-          "headline": "Will Liverman: Tiny Desk Concert",
-          "summary": "The versatile, burgundy-voiced opera star sings a wide range of music, from Fats Waller and Tchaikovsky to a traditional spiritual and a song of his own. (Image credit: Lexy Beale)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-151795/will-liverman-tiny-desk-concert"
-        },
-        {
-          "headline": "Molly Meldrum to Receive State Funeral as Kylie Minogue, Jimmy Barnes Lead Tributes",
-          "summary": "Ian “Molly” Meldrum will be honored with a state funeral, as tributes pour in from across the music world for the Australian broadcaster and record producer, who died Monday (Nov. 23) in Melbourne at 83.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/molly-meldrum-state-funeral-tributes-kylie-minogue-jimmy-barnes-1236387665/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-23T09:42:38-05:00"
+  "updatedAt": "2026-11-23T10:20:12-05:00"
 }
