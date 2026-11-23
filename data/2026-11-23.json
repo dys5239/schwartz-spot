@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Search on for lioness seen roaming Istanbul's outskirts",
-          "summary": "Police and animal welfare teams in Istanbul are searching for a lioness seen prowling the city's outskirts, Turkish officials say.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/lioness-istanbul-turkey-outskirts-search/"
-        },
-        {
-          "headline": "Plastic surgeon sentenced to death for killing lawyer in Florida",
-          "summary": "Prosecutors said Tomasz Kosowski had supplies to kill Steven Cozzi, including a syringe containing a paralyzing drug and a wagon to haul the corpse out.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/plastic-surgeon-tomasz-kosowski-death-sentence-killing-lawyer-florida/"
-        },
-        {
           "headline": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
           "summary": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "headline": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+          "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Zelenskyy says Ukraine sank Russian warship off Libya's coast",
+          "summary": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks that sank a Russian warship and damaged a sanctioned cargo vessel off Libya.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/"
+        },
+        {
+          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+        },
+        {
           "headline": "FBI's national crime database targeted in hack, Trump says",
           "summary": "President Donald Trump confirmed on Saturday that the FBI’s National Crime Information Center database was targeted in a hack.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810"
-        },
-        {
-          "headline": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-          "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124844858720358437",
+          "created_at": "2026-11-23T12:37:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran will bar IAEA inspectors from nuclear sites damaged in U.S.-Israeli strikes until threats are removed and safeguards verification can proceed without pressure from the attacking parties. \n\nIranian lawmaker Hasan Ghashghavi rejected the agency's inspection request as entirely",
+          "url": "https://x.com/i/status/2124844858720358437",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124844159345336430",
+          "created_at": "2026-11-23T12:34:59.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Cars backed up on a road outside a Lukoil petrol station in Russia.\n\nUkrainian drone strikes this morning hit the Lukoil-Permnefteorgsintez refinery, the Novoshakhtinsk plant and the Kaleykino pumping station. \n\nDrivers in Perm reportedly queued at stations as supply was https://t.co/L4iKgq2JPU https://t.co/rlfvHlvhHX",
+          "url": "https://x.com/i/status/2124844159345336430",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124843679357522107",
+          "created_at": "2026-11-23T12:33:05.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "WARNING: We have received numerous inquiries regarding the growing number of AI-generated accounts on X impersonating our brand and attempting to scam users.\n\nNone of these accounts are affiliated with us. They spread fake news, impersonate our identity, and attempt to defraud https://t.co/Eq8sgPVWYo",
+          "url": "https://x.com/i/status/2124843679357522107",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124843065395581238",
+          "created_at": "2026-11-23T12:30:39.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Nasdaq 100 futures just ripped 3.5% higher, one session after the index closed 19.8% below its Oct 6 record, a hair away from a bear market\n\nS&amp;P 500 futures are up 2.7% and Dow futures are up more than 900 points\n\n$NVDA is up 8.7% premarket after its longest weekly losing streak https://t.co/TP1H4Laajw",
+          "url": "https://x.com/i/status/2124843065395581238",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124841900813238613",
+          "created_at": "2026-11-23T12:26:01.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Ahmad Bakhshaesh Ardestani, a member of the Iranian parliament's national security committee, on Monday:\n\n\"Our missile range has increased from 2,000 kilometers to 4,500 kilometers, and our young leader has said to make the missiles precise and capable of pinpoint strikes. That",
+          "url": "https://x.com/i/status/2124841900813238613",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124841261173461487",
+          "created_at": "2026-11-23T12:23:28.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Former Mossad director David Barnea at the ELNET Jerusalem conference:\n\n\"We must act quickly and decisively to bring about the downfall of this regime. If this means going to another war, that is what we must do.\"\n\nBarnea wants the war launched \"as soon as all conditions allow.\" https://t.co/CpfLhZNWWc",
+          "url": "https://x.com/i/status/2124841261173461487",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124839811638817073",
+          "created_at": "2026-11-23T12:17:43.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A planned terror attack on Taylor Swift's concerts in Vienna was foiled with help from intelligence cooperation with Austria, according to former Mossad chief David Barnea.\n\nYnet. https://t.co/HOvIMGzpfG",
+          "url": "https://x.com/i/status/2124839811638817073",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124838190666199095",
           "created_at": "2026-11-23T12:11:16.000Z",
@@ -89,62 +159,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124835831563092288",
-          "created_at": "2026-11-23T12:01:54.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Rutte: If we get attacked, of course we have to defend ourselves https://t.co/1uYJ61zb6q",
-          "url": "https://x.com/i/status/2124835831563092288",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124834729413534206",
-          "created_at": "2026-11-23T11:57:31.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The threats are intended to intimidate, not to lead to action, according to an assessment by German police.\n\nSchools were instructed to continue their regular routine. At this stage, police have no indication of an actual threat. https://t.co/YuVIZMThKP",
-          "url": "https://x.com/i/status/2124834729413534206",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124834130869502372",
-          "created_at": "2026-11-23T11:55:08.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NATO's Rutte on Russian missiles crossing into Poland:\n\nAuthorities still need to determine whether the incursion was deliberate. He called the missiles entering Polish territory a dangerous incident.",
-          "url": "https://x.com/i/status/2124834130869502372",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124833099112435833",
           "created_at": "2026-11-23T11:51:02.000Z",
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "Source tells me that former Army Secretary Dan Driscoll knew about the plans for the detonation of the lead all of the way back in March, but he sat on it and took no measures to communicate to the public what this means for the people of Iowa. \n\n5 tons of lead is scheduled to be https://t.co/C3O7csp1Kz",
           "url": "https://x.com/i/status/2124833099112435833",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124830582798479436",
-          "created_at": "2026-11-23T11:41:03.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iran's Foreign Ministry Spokesperson:\n\nWe will use all available means to counter U.S. aggression.\n\nWhat the United States describes as economic sanctions, an economic blockade, or a naval blockade is undoubtedly an act of military aggression against Iran.\n\nA combination of https://t.co/4wgqYkUwsM",
-          "url": "https://x.com/i/status/2124830582798479436",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124829903300214974",
-          "created_at": "2026-11-23T11:38:21.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Yesterday, a fire broke out on the port side of the Iranian cargo ship ALVAN after naval drones hit the vessel at anchor off Benghazi, Libya. The blaze was later contained. ALVAN is reportedly operated by Iran's state-owned shipping line IRISL. https://t.co/94WFrTWauN",
-          "url": "https://x.com/i/status/2124829903300214974",
           "verified": true,
           "verified_type": "blue"
         },
@@ -265,16 +285,6 @@
           "author_handle": "RealAmVoice",
           "text": "TRUMP CALLS ON NVIDIA TO REHIRE JENSEN HUANG!\n\nPresident Trump weighs in on Nvidia’s leadership, urging the company’s board to bring Jensen Huang back.\n\n“It would be the best thing for the Company, and also, for the U.S.A.” https://t.co/rdQGofg7JB",
           "url": "https://x.com/i/status/2124699995299610704",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124698492618629213",
-          "created_at": "2026-11-23T02:56:10.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says he hopes Nvidia’s board, $NVDA, rehires Jensen Huang.\n\n“It would be the best thing for the company and for the USA,” Trump says. https://t.co/sARHIMKFb9",
-          "url": "https://x.com/i/status/2124698492618629213",
           "verified": true,
           "verified_type": "business"
         },
@@ -529,16 +539,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124634058651287563",
-          "created_at": "2026-11-22T22:40:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Robinhood CEO Vlad Tenev says every customer who requested Anthropic IPO shares on Robinhood got at least one, while some institutions got nothing\n\n\"A couple of years ago when we set on the crusade to make individual investors a part of IPOs, we would kind of be laughed out of https://t.co/KQAbk8uHqf",
-          "url": "https://x.com/i/status/2124634058651287563",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124624263214662097",
           "created_at": "2026-11-22T22:01:12.000Z",
           "author_name": "Elon Musk",
@@ -659,6 +659,26 @@
           "verified_type": "business"
         },
         {
+          "id": "2124475467436851599",
+          "created_at": "2026-11-22T12:09:56.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Watch Falcon 9 launch the @NRO_gov’s NROL-136 mission from pad 4E in California https://t.co/nu2o3Ovbh7",
+          "url": "https://x.com/i/status/2124475467436851599",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124467552441012653",
+          "created_at": "2026-11-22T11:38:29.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the @NRO_gov’s NROL-136 mission from California → https://t.co/6fRVX7ogAD https://t.co/gxj8OLD54W",
+          "url": "https://x.com/i/status/2124467552441012653",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2124246032955658272",
           "created_at": "2026-11-21T20:58:15.000Z",
           "author_name": "Glenn Beck",
@@ -765,10 +785,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
         },
         {
           "headline": "After midterm losses, Republicans debate what's next for the party",
@@ -783,16 +803,16 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
+          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
+          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+        },
+        {
           "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
           "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
-        },
-        {
-          "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-          "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress"
         }
       ]
     },
@@ -801,13 +821,13 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-          "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+          "headline": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+          "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
+          "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
         },
         {
-          "headline": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+          "headline": "Anthropic, Nvidia shares rise in premarket trading after major tech sell-off",
           "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
@@ -837,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "ESPN predicts Auburn's final record ahead of the Iron Bowl",
-          "summary": "Auburn football's 59-17 win over Samford was its seventh of the season and guaranteed a winning season for head coach Alex Golesh in his first year on the Plains. How does ESPN predict the final game to shake out?",
+          "headline": "Watford set to appoint former Romania boss Iordanescu",
+          "summary": "Edward Iordanescu's most recent job was with Legia Warsaw, who he left in October 2025 [Getty Images] Watford are set to appoint Edward Iordanescu as their new manager. BBC Three Counties Radio report the Romanian is due to become the Hornets' sixth manager inside 18 months after they sacked head coach Alessio Dionisi following Saturday's 4-0 defeat at…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/espn-predicts-auburns-final-record-120439417.html"
+          "url": "https://sports.yahoo.com/articles/watford-set-appoint-former-romania-124004953.html"
         },
         {
-          "headline": "Who should be the Super Bowl Player of the Week? Vote now to decide.",
-          "summary": "Super Bowl weekend did not disappoint. It started with Hendricken and La Salle’s sellout showdown at Beirne Stadium on Friday night and ended with Juanita Sanchez ’s historic win over Scituate on Saturday night.",
+          "headline": "'My silence should never be mistaken for weakness': Prithvi Shaw warns of legal action",
+          "summary": "NEW DELHI: Prithvi Shaw has hit back at former cricketer Yograj Singh over his remarks about the batter's career and personal life. Shaw said he had nothing to hide about his past but would not allow anyone to use it to spread negativity, damage his reputation or gain publicity.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/super-bowl-player-week-vote-120432654.html"
+          "url": "https://sports.yahoo.com/articles/silence-never-mistaken-weakness-prithvi-123700559.html"
         },
         {
-          "headline": "NFL Week 12 early odds: Bills favored over Chiefs for Thanksgiving showdown, Steelers home underdogs",
-          "summary": "The Bears are road favorites for their Thanksgiving matchup in Detroit",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-early-odds-bills-over-chiefs-thanksgiving-steelers/"
+          "headline": "FIFA set to pick US-led bid as 2031 Women's World Cup host and UK project for 2035 edition",
+          "summary": "FIFA is preparing to confirm a United States-led bid to host the 2031 Women’s World Cup and a UK project led by England for the 2035 edition",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/fifa-set-pick-us-led-bid-2031-womens-138371825"
         },
         {
-          "headline": "Here are the Books We Love: 380+ great 2026 reads recommended by NPR",
-          "summary": "Our annual reading guide returns with 380+ new titles handpicked by NPR staff and trusted critics. Find 14 years of recommendations all in one place — that's more than 4,700 great reads.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/nx-s1-5928321/best-books-2026"
+          "headline": "Bellamy an influence as Williams leads Swansea",
+          "summary": "Ashley Williams says he has been in regular contact with Wales boss Craig Bellamy since taking temporary charge of Swansea City.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6rmgkvpex0wo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Steelers gave DK Metcalf $150 million, traded George Pickens. Now they're paying for both decisions",
-          "summary": "The Steelers wanted a more dependable receiver; instead, Metcalf has delivered disappointing production and familiar distractions.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/why-steelers-regretting-dk-metcalf-150-million-contract-trading-george-pickens/"
+          "headline": "'Ridiculous stuff!' - Incredible touchdown throw in NFL best plays",
+          "summary": "A \"ridiculous\" touchdown throw by Tennessee Titans quarterback Cam Ward features in the best plays week 11 of the NFL regular season.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/american-football/videos/cq07411l0xygo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -873,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "CAA Signs ‘Sister Wives’ and ‘The Intimacy Coordinator’ Filmmaker and Actress Louisa Connolly-Burnham (EXCLUSIVE)",
+          "summary": "British filmmaker and actress Louisa Connolly-Burnham has signed with CAA. Connolly-Burnham wrote, directed and produced “The Intimacy Coordinator,” an erotic thriller currently on the international festival circuit and qualified for both the Oscars and BAFTAs.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/caa-signs-louisa-connolly-burnham-sister-wives-1236955764/"
+        },
+        {
           "headline": "Billy Porter, Hannah John-Kamen Board ‘The Colour of My Skin,’ From Venice Winner Anuparna Roy and Activist Amar Singh (EXCLUSIVE)",
           "summary": "Billy Porter and Hannah John-Kamen have boarded as producers on “The Colour of My Skin,” a short film co-directed by Anuparna Roy, who took the Horizons best director prize at the 2025 Venice Film Festival, and British-Indian activist, curator and artist Amar Singh. Filming has wrapped.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/billy-porter-hannah-john-kamen-colour-of-my-skin-1236955750/"
-        },
-        {
-          "headline": "Sony Pictures Networks India, NFDC Launch Five-Language Creator Pitch Initiative at WAVES Film Bazaar",
-          "summary": "Sony Pictures Networks India (SPNI) and the India’s National Film Development Corporation (NFDC) have signed a memorandum of understanding at WAVES Film Bazaar in Goa to launch the WAVES Bazaar × SPNI Content Creator Submission Initiative, a pitch program for original fiction and non-fiction concepts in five languages. SPNI is the Indian arm of Sony […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/sony-nfdc-five-language-creator-pitch-waves-film-bazaar-1236955743/"
         },
         {
           "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
@@ -981,16 +1001,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
+          "summary": "Don Toliver ’s show at the Co-op Live on Sunday (Nov. 22) was interrupted by the release of an “unknown substance” that forced the crowd to be evacuated from the venue.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-show-evacuated-unknown-substance-1236387676/"
+        },
+        {
           "headline": "Will Liverman: Tiny Desk Concert",
           "summary": "The versatile, burgundy-voiced opera star sings a wide range of music, from Fats Waller and Tchaikovsky to a traditional spiritual and a song of his own. (Image credit: Lexy Beale)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/23/g-s1-151795/will-liverman-tiny-desk-concert"
-        },
-        {
-          "headline": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
-          "summary": "More than 12,000 people were safely removed from Co-op Live during the rapper's performance on Sunday night",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/don-toliver-manchester-show-evacuation-unknown-substance-1235662518/"
         },
         {
           "headline": "Molly Meldrum to Receive State Funeral as Kylie Minogue, Jimmy Barnes Lead Tributes",
@@ -999,19 +1019,19 @@
           "url": "https://www.billboard.com/music/music-news/molly-meldrum-state-funeral-tributes-kylie-minogue-jimmy-barnes-1236387665/"
         },
         {
-          "headline": "Inside Stockholm’s Gasometer, Europe’s Most Ambitious New Music Venue: ‘This Will Create Waves Far Beyond Here’",
-          "summary": "On a frigid November morning, Julien Planté , head of music at Miramis, and the team lead a preview tour of Gasometer, a new venue in Stockholm that’s slated to open in March 2027. Sections of the site are finished, while in others, we sidle between boxes and pallets of wood, and peer over red tape while the site undergoes its legal assessments.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/stockholm-gasometer-music-venue-europe/"
-        },
-        {
           "headline": "Nirosta Steel Shares Alternate Versions of My Skyscraper Tracks",
           "summary": "“Grey Boy” and “Boss Trix” now have “Boss Mix” editions",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/nirosta-steel-shares-alternate-versions-of-my-skyscraper-tracks/"
+        },
+        {
+          "headline": "Watch Olivia Rodrigo Cover ‘Dead Leaves and the Dirty Ground’ at Jack White’s Blue Room",
+          "summary": "The singer played a tight set during a performance recorded for Third Man Records",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-dead-leaves-and-the-dirty-ground-cover-live-1235662456/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-23T07:12:18-05:00"
+  "updatedAt": "2026-11-23T07:46:12-05:00"
 }
