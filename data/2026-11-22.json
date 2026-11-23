@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
+          "headline": "What is going on with Poundland?",
+          "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
           "summary": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
-          "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Delta Air Lines hit with delays after baggage network system issue",
@@ -79,6 +79,46 @@
       "stories": [],
       "posts": [
         {
+          "id": "2124664255295430731",
+          "created_at": "2026-11-23T00:40:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Treasury Secretary Scott Bessent says the stock selloff began as Democrats moved ahead in the polls, and warns the Fed may be making a policy mistake\n\n\"The market selloff actually began as the Democrats moved ahead in the polls and then accelerated after election day\"\n\n\"Many https://t.co/6jY10JfEb1",
+          "url": "https://x.com/_Investinq/status/2124664255295430731",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124662379799777407",
+          "created_at": "2026-11-23T00:32:40.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Game of inches  https://t.co/Ppgt0VDUCg",
+          "url": "https://x.com/Outkick/status/2124662379799777407",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124660693056069973",
+          "created_at": "2026-11-23T00:25:58.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nasdaq 100 futures extend gains to +3% as markets reopen after last week’s tech selloff.\n\nThe S&amp;P 500 is now set to open outside of correction territory. https://t.co/VpNJbFvm9E",
+          "url": "https://x.com/KobeissiLetter/status/2124660693056069973",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124656846036140413",
+          "created_at": "2026-11-23T00:10:40.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Mets have reportedly signed two-time Cy Young winner Tarik Skubal to a nine-year, $450 million contract, the largest ever for a pitcher. \n\nThe move certainly makes the Mets better on paper, but it also raises two big questions, @ByJasonFoster writes.\nhttps://t.co/qSfbZmnb15",
+          "url": "https://x.com/SportNState/status/2124656846036140413",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2124656564141191502",
           "created_at": "2026-11-23T00:09:33.000Z",
           "author_name": "Sport & State",
@@ -87,16 +127,6 @@
           "url": "https://x.com/SportNState/status/2124656564141191502",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124654145340948565",
-          "created_at": "2026-11-22T23:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP RETURNS FROM XI-PUTIN SUMMIT, OWENS CARLSON DRAMA EXPLODES | SMACKDOWN WITH DARRELL SCOTT https://t.co/51VppUJ6Lp",
-          "url": "https://x.com/RealAmVoice/status/2124654145340948565",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124653970992124191",
@@ -269,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124634529164116431",
-          "created_at": "2026-11-22T22:42:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Eagles live mascot went rogue ahead of kickoff 😂\n\nTaking \"Fly Eagles Fly\" to a different level: https://t.co/YF6x4dJJaT",
-          "url": "https://x.com/SportNState/status/2124634529164116431",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124634058651287563",
           "created_at": "2026-11-22T22:40:08.000Z",
           "author_name": "StockMarket.News",
@@ -345,16 +365,6 @@
           "author_handle": "Outkick",
           "text": "Don’t look now, fantasy fans. 👀 https://t.co/o6ncClYJ63",
           "url": "https://x.com/Outkick/status/2124628686204981353",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124628215566409848",
-          "created_at": "2026-11-22T22:16:54.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "A lot is happening right now 😂 https://t.co/18PByfqHbb",
-          "url": "https://x.com/Outkick/status/2124628215566409848",
           "verified": true,
           "verified_type": "business"
         },
@@ -449,6 +459,16 @@
           "verified_type": "blue"
         },
         {
+          "id": "2124618437913653328",
+          "created_at": "2026-11-22T21:38:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🔥 AOC’S $12,000 LUXURY GERMANY TRIP RAISES EYEBROWS!\n\nThe self-described champion of the working class reportedly spent $12,024 in campaign funds on a Germany trip, including $8,600+ at luxury hotels and a premium driving service.\n\nThe New York Post reports the spending occurred https://t.co/QB1diYKVb2",
+          "url": "https://x.com/RealAmVoice/status/2124618437913653328",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2124614639409606954",
           "created_at": "2026-11-22T21:22:58.000Z",
           "author_name": "Elon Musk",
@@ -497,16 +517,6 @@
           "url": "https://x.com/Timcast/status/2124605220810527144",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124602910407270636",
-          "created_at": "2026-11-22T20:36:21.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "The Nvidia situation is evolving.\n\nUS Treasury Secretary Scott Bessent has completely changed his view on Nvidia, $NVDA, over the last 7 days.\n\nLast Sunday, Bessent called for a “dramatic shakeup” at Nvidia and said its board needed to hire a new CEO from “outside” the company.",
-          "url": "https://x.com/KobeissiLetter/status/2124602910407270636",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124589498579214672",
@@ -655,16 +665,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️You’re in the belly of disbelief. \n\nThat’s where the opportunity is being born.",
           "url": "https://x.com/_The_Prophet__/status/2124324703582203983",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124316966089584750",
-          "created_at": "2026-11-22T01:40:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "David Friedberg says Anthropic is easily on track for $200 billion of revenue and is less than 1% penetrated\n\n\"It seems like they're easily on track for getting $200 billion of revenue\"\n\n\"We talked about them being probably less than 1% market penetrated in terms of their https://t.co/mdsiQ4UwDO",
-          "url": "https://x.com/_Investinq/status/2124316966089584750",
           "verified": true,
           "verified_type": "blue"
         },
@@ -847,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Steelers coach does not rule out punishment for DK Metcalf after ejection",
-          "summary": "Nov 22, 2026; Philadelphia, Pennsylvania, USA; Pittsburgh Steelers wide receiver DK Metcalf (4) is ejected from the game during the fourth quarter at Lincoln Financial Field. Mandatory Credit: Eric Hartline-Imagn Images Pittsburgh Steelers wide receiver DK Metcalf was ejected in the third quarter of Sunday’s 19-16 loss to the Philadelphia Eagles after…",
+          "headline": "Fantasy Football Week 11 Booms and Busts: We can all be thankful for the Dallas Cowboys offense",
+          "summary": "In the chaotic and erratic world of fantasy football, it sure is nice when we can find some weekly constants. There won't be many.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/steelers-coach-does-not-rule-000354455.html"
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-11-booms-and-busts-we-can-all-be-thankful-for-the-dallas-cowboys-offense-003806204.html"
         },
         {
-          "headline": "49ers Week 11 inactives",
-          "summary": "San Francisco 49ers offensive lineman Enrique Cruz, linebacker Dre Greenlaw (neck), defensive end Khalid Kareem, wide receiver Demarcus Robinson and quarterback Kurtis Rourke (emergency - third quarterback) are inactive for the Week 11 game against the Minnesota Vikings in Mexico City. SOURCE: NBC Sports Bay Area - Matt Maiocco This article originally…",
+          "headline": "Justin Herbert injury update as Chargers QB enters concussion protocol",
+          "summary": "Los Angeles Chargers quarterback Justin Herbert has entered concussion protocol, according to multiple reports. Herbert and the Chargers fell lost to the New York Jets 27-24 at SoFi Stadium on Sunday, Nov.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/49ers-week-11-inactives-000232421.html"
+          "url": "https://sports.yahoo.com/articles/justin-herbert-injury-chargers-qb-003437766.html"
         },
         {
-          "headline": "Did Liverpool 'get lucky' with red card decision?",
-          "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "How 'outstanding' Tzolakis kept Brighton at bay",
-          "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "DK Metcalf's bad season just got worse. What happens now for Steelers embattled receiver?",
-          "summary": "It's safe for Metcalf to be considered the worst trade acquisition in Steelers history. Now he faces a possible suspension and an uncertain future in Pittsburgh",
+          "headline": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
+          "summary": "The free agent ace will join a rotation that includes Nolan McLean and Christian Scott",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/what-happens-now-steelers-embattled-receiver-dk-metcalf/"
+          "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/"
+        },
+        {
+          "headline": "'Sunday Night Football' in Mexico City prediction, odds, time: 49ers vs. Vikings picks by expert on 40-17 roll",
+          "summary": "R.J. White reveals his picks for Minnesota Vikings vs.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-mexico-city-odds-time-49ers-vikings-expert-picks-best-bets/"
+        },
+        {
+          "headline": "Jets score on first 5 drives and edge Chargers 27-24 to snap 5-game skid",
+          "summary": "Geno Smith led the New York Jets to a 27-24 victory over the Los Angeles Chargers, ending a five-game losing streak",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/jets-score-5-drives-edge-chargers-27-24-138365212"
         }
       ]
     },
@@ -991,6 +991,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
+          "summary": "Ian “Molly” Meldrum, the Australian broadcaster, journalist and record producer whose weekly television show made stars of international and local acts alike, died Monday (Nov. 23) at Epworth Hospital in Richmond, Melbourne.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/molly-meldrum-countdown-host-dies-83-1236387631/"
+        },
+        {
           "headline": "Fans Choose LISA’s ‘Leave With Me’ as This Week’s Favorite New Music",
           "summary": "“Leave With Me,” the emotional new solo single released by LISA of BLACKPINK , tops this week’s new music poll. Related LISA Drops Emotional New Single ‘Leave With Me’ From ‘Always Lalisa’ Movie: Listen Every Track From ‘Grand Theft Auto VI: The Album’ Ranked Gracie Abrams’ ‘Daughter from Hell’ Gets Deluxe Treatment: Stream It Now Listeners voted in a…",
           "source": "Billboard",
@@ -1001,12 +1007,6 @@
           "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do. The records features mostly forgotten music making techniques such as 8 track recording and an 1980s instrument.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neales-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do"
-        },
-        {
-          "headline": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
-          "summary": "Morgan Wallen ’s I’m the Problem leads Billboard ‘s Top Country Albums chart (dated Nov. 28) for the 54th nonconsecutive week.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/"
         },
         {
           "headline": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T19:10:47-05:00"
+  "updatedAt": "2026-11-22T19:41:07-05:00"
 }
