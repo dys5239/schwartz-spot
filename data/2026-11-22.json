@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Army plans to carry out detonation at Iowa plant on Wednesday",
+          "summary": "The Department of the Army said it plans to use an emergency munitions and explosives exclusion to the Environmental Protection Agency's permit.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-army-iowa-plant-detonation-court-records/"
+        },
+        {
+          "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
           "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
           "source": "BBC News",
@@ -54,22 +66,10 @@
           "url": "https://abcnews.com/US/army-moves-detonation-10000-pounds-lead-azide-wedneday/story?id=138330909"
         },
         {
-          "headline": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
-          "summary": "The collapse of the COP31 climate talks in Turkey is a major focus of Monday's front pages.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
           "summary": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/tom-jackson-former-broncos-star-sports-broadcaster-dies-75/"
-        },
-        {
-          "headline": "\"I Have a Dream\" pages written by Martin Luther King Jr. to go up for auction",
-          "summary": "Martin Luther King Jr. wrote his famous \"I Have a Dream\" speech on yellow legal paper in long cursive in blue ink.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/i-have-a-dream-pages-written-martin-luther-king-jr-up-auction/"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124701254240903304",
+          "created_at": "2026-11-23T03:07:08.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Classic Mike Evans 😮‍💨 https://t.co/9WVMMVM93x",
+          "url": "https://x.com/i/status/2124701254240903304",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124701213492957558",
+          "created_at": "2026-11-23T03:06:58.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Why ban something voluntary? https://t.co/7lzsKKb2Xj",
+          "url": "https://x.com/i/status/2124701213492957558",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124700843572359222",
+          "created_at": "2026-11-23T03:05:30.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "U.S. President Donald Trump:\n\n\"I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP\". https://t.co/sfZXsmTlmW",
+          "url": "https://x.com/i/status/2124700843572359222",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124700384585486504",
+          "created_at": "2026-11-23T03:03:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Several people were injured after an Amtrak train collided with an 18-wheeler in Lafayette, Louisiana, derailing two train cars. https://t.co/n4NBhofuIw",
+          "url": "https://x.com/i/status/2124700384585486504",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124699995299610704",
+          "created_at": "2026-11-23T03:02:08.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP CALLS ON NVIDIA TO REHIRE JENSEN HUANG!\n\nPresident Trump weighs in on Nvidia’s leadership, urging the company’s board to bring Jensen Huang back.\n\n“It would be the best thing for the Company, and also, for the U.S.A.” https://t.co/rdQGofg7JB",
+          "url": "https://x.com/i/status/2124699995299610704",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124698492618629213",
+          "created_at": "2026-11-23T02:56:10.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says he hopes Nvidia’s board, $NVDA, rehires Jensen Huang.\n\n“It would be the best thing for the company and for the USA,” Trump says. https://t.co/sARHIMKFb9",
+          "url": "https://x.com/i/status/2124698492618629213",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2124694454326153444",
           "created_at": "2026-11-23T02:40:07.000Z",
@@ -329,16 +389,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124651140247941573",
-          "created_at": "2026-11-22T23:48:00.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "“Trevor Lawrence who” https://t.co/Qlz1jzzxi1",
-          "url": "https://x.com/i/status/2124651140247941573",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124649194548076994",
           "created_at": "2026-11-22T23:40:16.000Z",
           "author_name": "StockMarket.News",
@@ -469,42 +519,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124633459692089349",
-          "created_at": "2026-11-22T22:37:45.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP TAKES AIM AT MINNESOTA: “THEY OWN IT, LOCK, STOCK, AND BARREL!”\n\nPresident Trump claims Minnesota has been politically overtaken by its Somali community and alleges that nearly 95% receive some form of welfare. https://t.co/Z2OKgB3t9M",
-          "url": "https://x.com/i/status/2124633459692089349",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124630393001496673",
-          "created_at": "2026-11-22T22:25:34.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "U.S. President Donald Trump:\n\n\"It’s incredible that Somalians have been able to completely take over the once great State of Minnesota. They own it, “lock, stock, and barrel” and, almost 95% are on some form of welfare. MAKE AMERICA GREAT AGAIN! President DONALD J. TRUMP\". https://t.co/nTo0T1KhEv",
-          "url": "https://x.com/i/status/2124630393001496673",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124629926326239463",
           "created_at": "2026-11-22T22:23:42.000Z",
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Indeed.\n\nIf you want to be rich this is the move https://t.co/UfxMAE0eax",
           "url": "https://x.com/i/status/2124629926326239463",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124626103973323099",
-          "created_at": "2026-11-22T22:08:31.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "U.S. President Donald Trump:\n\n\"Isn’t it interesting that Oil prices have dropped precipitously after the Midterm Elections? I said that was going to happen. The whole thing is a Giant Hoax! President DONALD J. TRUMP\". https://t.co/DwG1k7oRmC",
-          "url": "https://x.com/i/status/2124626103973323099",
           "verified": true,
           "verified_type": "blue"
         },
@@ -527,16 +547,6 @@
           "url": "https://x.com/i/status/2124621998521212940",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124621204749169018",
-          "created_at": "2026-11-22T21:49:03.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says he predicted the stock market crash. https://t.co/smgAYvF4pd",
-          "url": "https://x.com/i/status/2124621204749169018",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124619599882920139",
@@ -565,16 +575,6 @@
           "author_handle": "ClayTravis",
           "text": "The Cowboys have had eight possessions against the Titans today. Here are the results: touchdown, touchdown, touchdown, touchdown, touchdown, touchdown, field goal, touchdown. And head coach Robert Saleh is supposed to be a defensive genius.",
           "url": "https://x.com/i/status/2124606222536229270",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124605220810527144",
-          "created_at": "2026-11-22T20:45:32.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Guaranteed blockbuster movie idea\n\nJason Statham is retired PMC and picks up a turkey for his family a day before Thanksgiving.\n\nAs he stops for gas low level gangbangers steal his car with the turkey in it.\n\nWhen he calls the store they are out of turkeys.\n\n1/2",
-          "url": "https://x.com/i/status/2124605220810527144",
           "verified": true,
           "verified_type": "blue"
         },
@@ -847,16 +847,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Kentucky volleyball sweeps LSU to open SEC Tournament",
-          "summary": "The 2026 SEC Volleyball Tournament is underway, and the Kentucky Wildcats played in their first match on Sunday afternoon. The opened things up with a dominant performance and a sweep of the LSU Tigers 3-0 (25-23, 25-17, 25-19).",
+          "headline": "Darrisaw hurt, Cousins throws pick-6 as Vikings unravel in first half vs. SF",
+          "summary": "Sunday night’s highly-anticipated showdown between the 49ers and Vikings in Mexico City has been remarkably one-sided through two quarters of football. At halftime, the 49ers lead 28-10, and just about everything that could go wrong for Minnesota has gone wrong.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/kentucky-volleyball-sweeps-lsu-open-023953360.html"
+          "url": "https://sports.yahoo.com/articles/darrisaw-hurt-cousins-throws-pick-030456666.html"
         },
         {
-          "headline": "49ers right tackle Colton McKivitz carted off vs. Vikings with gruesome lower-leg injury",
-          "summary": "San Francisco 49ers right tackle Colton McKivitz left Sunday’s game against the Minnesota Vikings with what looked like a significant injury to his lower left leg. The injury took place during a run play in the second quarter of the game being played in Mexico City.",
+          "headline": "Elyn Bowers scores career-high 37, leads Eastern Washington women to blowout win at Southern Utah",
+          "summary": "Nov. 22—CEDAR CITY, Utah — Eastern Washington guard Elyn Bowers poured in a career-high 37 points, leading the Eagles to a 78-55 rout of Southern Utah on Sunday in a nonconference game at America First Event Center.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/49ers-right-tackle-colton-mckivitz-carted-off-vs-vikings-with-gruesome-lower-leg-injury-023848673.html"
+          "url": "https://sports.yahoo.com/articles/elyn-bowers-scores-career-high-030400351.html"
         },
         {
           "headline": "Tomorrow's Top 25 Today: Houston is new No. 1, Duke plummets in college basketball rankings prediction",
@@ -919,34 +919,34 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” & “Ambitious Tension” In Her Marriage To Dr. Kirkland",
+          "summary": "SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4’s fourth episode. As if a new house and husband weren’t enough, Peggy Scott (Denée Benton), now Mrs.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/the-gilded-age-denee-benton-peggy-ambition-dr-kirkland-job-1237230732/"
+        },
+        {
+          "headline": "‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] & “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4",
+          "summary": "SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4’s fourth episode. George Russell’s gunshot wound is coming back to haunt him in a way as Season 4 of The Gilded Age reaches its midpoint.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/the-gilded-age-george-laudanum-addiction-season-4-1237231274/"
+        },
+        {
+          "headline": "Miley Cyrus marries rock drummer Maxx Morando in an intimate Palm Springs wedding",
+          "summary": "Singer Miley Cyrus has married rock drummer Maxx Morando in an intimate ceremony in Palm Springs, California",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Entertainment/wireStory/miley-cyrus-marries-rock-drummer-maxx-morando-intimate-138366726"
+        },
+        {
           "headline": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
           "summary": "Don Toliver’s concert at Co-op Live in Manchester, England ended in an evacuation as tear gas was released in the crowd on Sunday. “It is understood that a substance believed to be tear gas was let off in the crowd towards the end of a concert,” wrote the Greater Manchester Police in a statement.",
           "source": "Variety",
           "url": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/"
         },
         {
-          "headline": "Ina Garten Reveals Why She Will Never Do ‘Dancing With The Stars’",
-          "summary": "Celebrity Chef Ina Garten revealed this week on her Happy Hour podcast that she once turned down Dancing with the Stars. Discussing fear, overcoming it and whether she had ever turned something down because it was “too scary,” Garten said, “I think I absolutely have…Somebody asked me to do Dancing with the Stars.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317/"
-        },
-        {
           "headline": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
           "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. “Hey, so I’m here with my movie ‘Hexed,’ but it looks like they delivered a chair from a different movie,” said the actress […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/"
-        },
-        {
-          "headline": "Resurgent ‘Hunger Games’ goes big at box office, despite 'Grand Theft Auto VI'",
-          "summary": "\"Sunrise on the Reaping” debuted with estimated $120 million in North America.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/resurgent-hunger-games-big-box-office-despite-competition-138361740"
-        },
-        {
-          "headline": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
-          "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/"
         }
       ]
     },
@@ -1003,10 +1003,10 @@
           "url": "https://www.billboard.com/music/music-news/lisa-leave-with-me-best-new-music-poll-results-1236387524/"
         },
         {
-          "headline": "Lael Neale's brings 1980's omnichord back to life on new album, 'As Killers Do'",
-          "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do. The record features mostly forgotten music-making techniques such as 8 track recording and an 1980s instrument.",
+          "headline": "Lael Neale brings 1980's omnichord back to life on new album, 'As Killers Do'",
+          "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do. The record features mostly forgotten music-making techniques such as 8 track recording and a 1980s instrument.",
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neales-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do"
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neale-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do"
         },
         {
           "headline": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
@@ -1015,13 +1015,13 @@
           "url": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/"
         },
         {
-          "headline": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
-          "summary": "Singer and drummer became engaged in December 2025 after four years of dating",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/"
+          "headline": "Inside a Grand Theft Auto 6 soundtrack release party in Miami",
+          "summary": "Music is a major part of the video game Grand Theft Auto. The latest release, Grand Theft Auto VI comes with its own carefully crafted soundtrack played on radio stations inside the game.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047629/inside-a-grand-theft-auto-6-soundtrack-release-party-in-miami"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-22T21:49:14-05:00"
+  "updatedAt": "2026-11-22T22:10:40-05:00"
 }
