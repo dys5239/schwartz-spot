@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Police investigate unknown substance that caused Manchester's Co-op Live evacuation",
-          "summary": "People describe a \"horrible smell\" and hearing screaming as they were evacuated from the Don Toliver gig.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
+          "headline": "Ukrainian naval drones sank Russia's Merkury warship in Libya, Zelenskyy confirms",
+          "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Monday morning that Kyiv was responsible for the sinking of a Russian warship docked in the Libyan port of Benghazi.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738"
         },
         {
-          "headline": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
-          "summary": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+          "headline": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+          "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
         },
         {
           "headline": "Zelenskyy says Ukraine sank Russian warship off Libya's coast",
           "summary": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks that sank a Russian warship and damaged a sanctioned cargo vessel off Libya.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/"
-        },
-        {
-          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
-        },
-        {
-          "headline": "FBI's national crime database targeted in hack, Trump says",
-          "summary": "President Donald Trump confirmed on Saturday that the FBI’s National Crime Information Center database was targeted in a hack.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810"
         }
       ]
     },
@@ -79,22 +79,102 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124844858720358437",
-          "created_at": "2026-11-23T12:37:46.000Z",
+          "id": "2124852873653575727",
+          "created_at": "2026-11-23T13:09:37.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "US net equity inflows are up to ~3.0% of GDP, their highest on record in data going back to the 1980s.\n\nNet equity inflows measure foreign purchases of US stocks minus US investors' purchases of foreign equities.\n\nThis figure has risen nearly +5.0 percentage points since the 2022 https://t.co/vCLEQEJXaK",
+          "url": "https://x.com/i/status/2124852873653575727",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124852217349820649",
+          "created_at": "2026-11-23T13:07:01.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Iran will bar IAEA inspectors from nuclear sites damaged in U.S.-Israeli strikes until threats are removed and safeguards verification can proceed without pressure from the attacking parties. \n\nIranian lawmaker Hasan Ghashghavi rejected the agency's inspection request as entirely",
-          "url": "https://x.com/i/status/2124844858720358437",
+          "text": "After a security update from Netanyahu, Eisenkot:\n\n\"In regards to Iran, I do not see today a direct and immediate threat to the State of Israel that requires action before the formation of a government\"",
+          "url": "https://x.com/i/status/2124852217349820649",
           "verified": true,
           "verified_type": "blue"
         },
         {
-          "id": "2124844159345336430",
-          "created_at": "2026-11-23T12:34:59.000Z",
+          "id": "2124851627572007333",
+          "created_at": "2026-11-23T13:04:40.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Hutton &amp; Withrow are LIVE on this Monday!\n\nTennessee keeps winning, but Booger &amp; Dinich aren't impressed. The Titans make ugly NFL history, Beamer's seat heats up (again), and the Big Ten implodes. https://t.co/IWkTKenCtI",
+          "url": "https://x.com/i/status/2124851627572007333",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124851377130156509",
+          "created_at": "2026-11-23T13:03:40.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Cars backed up on a road outside a Lukoil petrol station in Russia.\n\nUkrainian drone strikes this morning hit the Lukoil-Permnefteorgsintez refinery, the Novoshakhtinsk plant and the Kaleykino pumping station. \n\nDrivers in Perm reportedly queued at stations as supply was https://t.co/L4iKgq2JPU https://t.co/rlfvHlvhHX",
-          "url": "https://x.com/i/status/2124844159345336430",
+          "text": "NATO's Rutte on a European army:\n\n\"If Putin attacks, we will first need two or three weeks to agree who will do what, and then he will probably end up in Rotterdam before we have decided.\"\n\n\"What I would counsel against is to have all the nations having their own military working https://t.co/NEtvd6gs70",
+          "url": "https://x.com/i/status/2124851377130156509",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124850462448930906",
+          "created_at": "2026-11-23T13:00:02.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Indian national Nikhil Gupta was sentenced to 235 months for plotting to assassinate a U.S. citizen in New York City. \n\nThe DOJ says the plot was directed by an Indian government employee tied to RAW, India's foreign intelligence agency. https://t.co/UmFafzX8pE",
+          "url": "https://x.com/i/status/2124850462448930906",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124850453011951960",
+          "created_at": "2026-11-23T13:00:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "The Washington Post says masks can offer \"an extra layer of protection\" for holiday travelers, especially those \"visiting vulnerable relatives.\" \n\nAn \"expert\" recommends wearing one throughout the trip. https://t.co/QElsh6kwX1",
+          "url": "https://x.com/i/status/2124850453011951960",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124850438877085750",
+          "created_at": "2026-11-23T12:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THE AMERICAN SUNRISE SHOW https://t.co/U41GlKLpdj",
+          "url": "https://x.com/i/status/2124850438877085750",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124850248027873367",
+          "created_at": "2026-11-23T12:59:11.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Russia's war economy is still growing and its military machine is running at full speed, according to NATO Secretary General Mark Rutte, who warned it \"won't stand still\" once the war in Ukraine ends.",
+          "url": "https://x.com/i/status/2124850248027873367",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124849738432258341",
+          "created_at": "2026-11-23T12:57:10.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NATO's Rutte calls European overreliance on the U.S. for defense against Russia unsustainable in the longer term.\n\n\"It is still a bit strange that with 600 million people living in European NATO territory, we are so much overdependent and overreliant on a country eight hours",
+          "url": "https://x.com/i/status/2124849738432258341",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124849227582849243",
+          "created_at": "2026-11-23T12:55:08.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NATO chief Rutte on the idea of a single European military: \"If you have a European military, you cannot also have national militaries.\"\n\nHe pointed to the U.S. as the model: \"It is one integrated United States military.\"\n\n\"I don't think it will happen soon because it has to do",
+          "url": "https://x.com/i/status/2124849227582849243",
           "verified": true,
           "verified_type": "blue"
         },
@@ -115,36 +195,6 @@
           "author_handle": "_Investinq",
           "text": "Nasdaq 100 futures just ripped 3.5% higher, one session after the index closed 19.8% below its Oct 6 record, a hair away from a bear market\n\nS&amp;P 500 futures are up 2.7% and Dow futures are up more than 900 points\n\n$NVDA is up 8.7% premarket after its longest weekly losing streak https://t.co/TP1H4Laajw",
           "url": "https://x.com/i/status/2124843065395581238",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124841900813238613",
-          "created_at": "2026-11-23T12:26:01.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Ahmad Bakhshaesh Ardestani, a member of the Iranian parliament's national security committee, on Monday:\n\n\"Our missile range has increased from 2,000 kilometers to 4,500 kilometers, and our young leader has said to make the missiles precise and capable of pinpoint strikes. That",
-          "url": "https://x.com/i/status/2124841900813238613",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124841261173461487",
-          "created_at": "2026-11-23T12:23:28.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Former Mossad director David Barnea at the ELNET Jerusalem conference:\n\n\"We must act quickly and decisively to bring about the downfall of this regime. If this means going to another war, that is what we must do.\"\n\nBarnea wants the war launched \"as soon as all conditions allow.\" https://t.co/CpfLhZNWWc",
-          "url": "https://x.com/i/status/2124841261173461487",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124839811638817073",
-          "created_at": "2026-11-23T12:17:43.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "A planned terror attack on Taylor Swift's concerts in Vienna was foiled with help from intelligence cooperation with Austria, according to former Mossad chief David Barnea.\n\nYnet. https://t.co/HOvIMGzpfG",
-          "url": "https://x.com/i/status/2124839811638817073",
           "verified": true,
           "verified_type": "blue"
         },
@@ -249,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124702374040158676",
-          "created_at": "2026-11-23T03:11:35.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Once again, something appears to be happening behind the scenes.\n\nPresident Trump just explicitly called on Nvidia's, $NVDA, board to rehire Jensen Huang.\n\nOn top of this, he said Jensen returning would be \"the best thing for the USA.\"\n\nJust 10 days ago, Trump was calling for Tim",
-          "url": "https://x.com/i/status/2124702374040158676",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124701254240903304",
           "created_at": "2026-11-23T03:07:08.000Z",
           "author_name": "OutKick",
@@ -317,16 +357,6 @@
           "url": "https://x.com/i/status/2124693204541071377",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124688323054891268",
-          "created_at": "2026-11-23T02:15:45.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ICE nabbed Chinese national and Princeton Ph.D. student Eva Yi Xie at Reagan National Airport. \n\nDHS says she was admitted temporarily in March 2016, was supposed to leave by September, and never did. \n\nPrinceton has arranged legal counsel to represent her. https://t.co/cKhEPLlipU",
-          "url": "https://x.com/i/status/2124688323054891268",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124687439658983529",
@@ -419,16 +449,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124669266456924376",
-          "created_at": "2026-11-23T01:00:02.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Retro Talking Points\n \nPastor Darrel Scott and Reverend James Davis go over Rep. Ayanna Pressley's latest round of grievances particularly how they are not novel in the slightest . \n\n@PastorDScott @RevJamesDavis https://t.co/6rzoNefdp1",
-          "url": "https://x.com/i/status/2124669266456924376",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124667342529364047",
           "created_at": "2026-11-23T00:52:23.000Z",
           "author_name": "Sport & State",
@@ -499,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124648850338074940",
-          "created_at": "2026-11-22T23:38:54.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Lions clearly did not learn their lesson about excessive celebrations last week https://t.co/wn8d9IGzYU",
-          "url": "https://x.com/i/status/2124648850338074940",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124641977484681706",
           "created_at": "2026-11-22T23:11:36.000Z",
           "author_name": "Tim Pool",
@@ -527,16 +537,6 @@
           "url": "https://x.com/i/status/2124639061352530046",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124639027294818517",
-          "created_at": "2026-11-22T22:59:52.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "CHRIS PRATT DELIVERS POWERFUL MESSAGE TO AMERICA'S VETERANS!\n\nHollywood star Chris Pratt shares his deep respect for the men and women who serve our country, explaining why portraying military heroes means so much to him.\n\n“Thank you for everything you do, putting on a uniform, https://t.co/DR6EShbWtW",
-          "url": "https://x.com/i/status/2124639027294818517",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124624263214662097",
@@ -785,10 +785,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
           "headline": "After midterm losses, Republicans debate what's next for the party",
@@ -803,16 +803,16 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
+          "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
+          "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress"
+        },
+        {
           "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
           "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
-        },
-        {
-          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
         }
       ]
     },
@@ -821,16 +821,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+          "summary": "The incident comes alongside a suspected Ukrainian drone strike on a Russian cargo ship in the Baltic Sea over the weekend.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+        },
+        {
           "headline": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
           "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
-        },
-        {
-          "headline": "Anthropic, Nvidia shares rise in premarket trading after major tech sell-off",
-          "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
         },
         {
           "headline": "Seniors embrace Tesla automated driving technology despite questions about safety",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Watford set to appoint former Romania boss Iordanescu",
-          "summary": "Edward Iordanescu's most recent job was with Legia Warsaw, who he left in October 2025 [Getty Images] Watford are set to appoint Edward Iordanescu as their new manager. BBC Three Counties Radio report the Romanian is due to become the Hornets' sixth manager inside 18 months after they sacked head coach Alessio Dionisi following Saturday's 4-0 defeat at…",
+          "headline": "NFL Week 12 early odds: Bills favored over Chiefs for Thanksgiving showdown, Steelers home underdogs",
+          "summary": "The Bears are road favorites for their Thanksgiving matchup in Detroit",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-early-odds-bills-over-chiefs-thanksgiving-steelers/"
+        },
+        {
+          "headline": "'I had no idea RCB would retain me': Yash Dayal on franchise's faith after a difficult year",
+          "summary": "MUMBAI: Expressing his gratitude to Royal Challengers Bengaluru, who recently kept faith in him by confirming his retention at Rs 5 crore on Nov 17 as part of a 20-player core, despite his troubles in the last one year, Yash Dayal has promised to give it his all to his franchise in IPL- 2027. \"It's a very big thing for me.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/watford-set-appoint-former-romania-124004953.html"
+          "url": "https://sports.yahoo.com/articles/had-no-idea-rcb-retain-131200521.html"
         },
         {
-          "headline": "'My silence should never be mistaken for weakness': Prithvi Shaw warns of legal action",
-          "summary": "NEW DELHI: Prithvi Shaw has hit back at former cricketer Yograj Singh over his remarks about the batter's career and personal life. Shaw said he had nothing to hide about his past but would not allow anyone to use it to spread negativity, damage his reputation or gain publicity.",
+          "headline": "The Optimist: Eight days to clean up after a weird win",
+          "summary": "CHARLOTTE, NORTH CAROLINA - NOVEMBER 22: Bryce Young #9 of the Carolina Panthers looks on before the football game against the Baltimore Ravens at Bank of America Stadium on November 22, 2026 in Charlotte, North Carolina. (Photo by David Jensen/Getty Images) | Getty Images I’m curious how the Carolina Panthers are going to show up against the Tampa Bay…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/silence-never-mistaken-weakness-prithvi-123700559.html"
+          "url": "https://sports.yahoo.com/articles/optimist-eight-days-clean-weird-131140672.html"
         },
         {
-          "headline": "FIFA set to pick US-led bid as 2031 Women's World Cup host and UK project for 2035 edition",
-          "summary": "FIFA is preparing to confirm a United States-led bid to host the 2031 Women’s World Cup and a UK project led by England for the 2035 edition",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/fifa-set-pick-us-led-bid-2031-womens-138371825"
+          "headline": "2027 NFL Draft order, team needs: Full first-round picks for all 32 teams after Week 11",
+          "summary": "Tennessee, the Chargers and Miami lead the race for the top selection at 1-9, while the Jets hold three picks in the top 15 thanks to blockbuster trades",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/2027-nfl-draft-order-team-needs-full-first-round-picks-all-32-teams/"
         },
         {
-          "headline": "Bellamy an influence as Williams leads Swansea",
-          "summary": "Ashley Williams says he has been in regular contact with Wales boss Craig Bellamy since taking temporary charge of Swansea City.",
+          "headline": "'Right on time' - Kildunne responds to Quins exit stories",
+          "summary": "England and Bristol Bears full-back Ellie Kildunne makes a pointed reference to reports that poor time-keeping was behind her Harlequins exit.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6rmgkvpex0wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "'Ridiculous stuff!' - Incredible touchdown throw in NFL best plays",
-          "summary": "A \"ridiculous\" touchdown throw by Tennessee Titans quarterback Cam Ward features in the best plays week 11 of the NFL regular season.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/american-football/videos/cq07411l0xygo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -892,6 +892,18 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Finally, the U.K. Can See Everything: Nathan Fielder’s Elizabeth Holmes Doc Makes British Box Office History",
+          "summary": "Word-of-mouth hype has sustained the momentum for Fielder and Lance Oppenheim's slick and slippery film, which opened overseas and immediately broke long-held records this weekend.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/uk-you-can-see-everything-holmes-nathan-fielder-film-a24-1236761013/"
+        },
+        {
+          "headline": "International Film Festival Rotterdam Names Pepijn Kuyper Managing Director, Succeeding Clare Stewart",
+          "summary": "\"His experience in the commercial elements of cultural organizations and deep connections with the Dutch film ecosystem are a fantastic fit for us,\" says the Dutch festival.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/iffr-pepijn-kuyper-managing-director-succeeds-clare-stewart-1236761038/"
+        },
         {
           "headline": "CAA Signs ‘Sister Wives’ and ‘The Intimacy Coordinator’ Filmmaker and Actress Louisa Connolly-Burnham (EXCLUSIVE)",
           "summary": "British filmmaker and actress Louisa Connolly-Burnham has signed with CAA. Connolly-Burnham wrote, directed and produced “The Intimacy Coordinator,” an erotic thriller currently on the international festival circuit and qualified for both the Oscars and BAFTAs.",
@@ -909,18 +921,6 @@
           "summary": "Elsinore , actor Ian Charleson played the role in a Cambridge Theatre Company production in 1974.'/> The new movie Elsinore is about the late Scottish actor's critically-acclaimed performance as Hamlet while he was dying of AIDS. His final role is only part of his powerful story.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/23/nx-s1-6027946/ian-charleson-elsinore-andrew-scott-chariots-of-fire-gandhi"
-        },
-        {
-          "headline": "‘You Can See Everything’ Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches",
-          "summary": "Nathan Fielder and Lance Oppenheim's A24 documentary continues stirring conversation about Elizabeth Holmes through its sixth weekend in domestic release.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421/"
-        },
-        {
-          "headline": "Robert Eggers Says He’s “Eager” to Take a Break From Horror Genre After ‘Werwulf’",
-          "summary": "The filmmaker has focused on horror films in recent years, including 'The Witch,' 'The Lighthouse,' 'Nosferatu' and 'Werwulf.'",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/"
         }
       ]
     },
@@ -928,6 +928,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Geico Hopes Two-Minute Animated Holiday Special Can Vie With ‘Rudolph’ or ‘Frosty’",
+          "summary": "The Geico Gecko has, over decades, become a Madison Avenue phenom. Can it also develop into a holiday tradition?",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/geico-two-minute-animated-holiday-special-macys-parade-1236955547/"
+        },
         {
           "headline": "Controversial “Netflix Tax” Could Raise Extra $2.1B For BBC By 2032, Research Finds",
           "summary": "The controversial “Netflix tax” could raise up to £1.6B ($2.1B) for the BBC within six years, according to new research. Ampere Analysis modeled how the plan to force those who watch streamers’ non-live content to pay the £180 annual licence fee even if they don’t watch the BBC could make a difference to the corporation’s […]",
@@ -945,12 +951,6 @@
           "summary": "The BBC has apologized for what sounded like a recording of sex noises broadcast during a live episode of “Strictly Come Dancing,” the British version of “Dancing With the Stars.” As judge Motsi Mabuse gave her feedback in Saturday’s episode, sex noises appeared to be coming from behind the judges in Blackpool’s Tower Ballroom. Mabuse […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/sex-noises-strictly-come-dancing-bbc-1236955730/"
-        },
-        {
-          "headline": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
-          "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/"
         },
         {
           "headline": "Sheila Mangubat, ’90 Day Fiancé: Before the 90 Days’ Star, Dies at 35",
@@ -1001,10 +1001,10 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd",
-          "summary": "Don Toliver ’s show at the Co-op Live on Sunday (Nov. 22) was interrupted by the release of an “unknown substance” that forced the crowd to be evacuated from the venue.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-show-evacuated-unknown-substance-1236387676/"
+          "headline": "Don Toliver Concert Evacuated After Airborne Substance Released Into Crowd",
+          "summary": "Fans were reportedly “screaming” and “coughing up blood” at UK arena Co-Op Live",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/don-toliver-concert-evacuated-after-airborne-substance-released-into-crowd/"
         },
         {
           "headline": "Will Liverman: Tiny Desk Concert",
@@ -1019,19 +1019,19 @@
           "url": "https://www.billboard.com/music/music-news/molly-meldrum-state-funeral-tributes-kylie-minogue-jimmy-barnes-1236387665/"
         },
         {
+          "headline": "Inside Stockholm’s Gasometer, Europe’s Most Ambitious New Music Venue: ‘This Will Create Waves Far Beyond Here’",
+          "summary": "On a frigid November morning, Julien Planté , head of music at Miramis, and the team lead a preview tour of Gasometer, a new venue in Stockholm that’s slated to open in March 2027. Sections of the site are finished, while in others, we sidle between boxes and pallets of wood, and peer over red tape while the site undergoes its legal assessments.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/stockholm-gasometer-music-venue-europe/"
+        },
+        {
           "headline": "Nirosta Steel Shares Alternate Versions of My Skyscraper Tracks",
           "summary": "“Grey Boy” and “Boss Trix” now have “Boss Mix” editions",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/nirosta-steel-shares-alternate-versions-of-my-skyscraper-tracks/"
-        },
-        {
-          "headline": "Watch Olivia Rodrigo Cover ‘Dead Leaves and the Dirty Ground’ at Jack White’s Blue Room",
-          "summary": "The singer played a tight set during a performance recorded for Third Man Records",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-dead-leaves-and-the-dirty-ground-cover-live-1235662456/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-23T07:46:12-05:00"
+  "updatedAt": "2026-11-23T08:16:23-05:00"
 }
