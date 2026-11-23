@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+          "summary": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and tap to influence what the car plans to do next.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/1039919/tesla-fsd-v15-reality-view-gta-nhtsa-safety-rollout"
+        },
+        {
           "headline": "Anthropic's IPO set for blastoff in key test for AI boom",
           "summary": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
           "source": "CBS News",
@@ -28,12 +34,6 @@
           "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
-        },
-        {
-          "headline": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-          "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
         }
       ]
     },
@@ -48,28 +48,28 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "Dramatic jet bridge ICE arrest draws criticism",
-          "summary": "An ICE arrest caught on video is drawing criticism after agents grabbed a father and daughter on the jet bridge of an Alaska Airlines flight. Camilo Montoya Galvez reports.",
+          "headline": "Nvidia reinstates Jensen Huang as CEO",
+          "summary": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/dramatic-jet-bridge-ice-arrest-draws-criticism/"
+          "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
         },
         {
-          "headline": "Tips on how to get along with your ex's previous and new partners",
+          "headline": "Friends were wary of me holidaying with my ex's former wife and kids - but our blended family works",
           "summary": "Expert tips on how to get along with the mums and dads of your child's half-siblings.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c617kj1j1x4jo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "'People were screaming in pain' during Co-op Live evacuation",
-          "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" after \"some smoke\" went off in Co-op Live.",
+          "headline": "England's tearaway quick bowler reinvented as a top-order batter",
+          "summary": "Katie George was once a tearaway fast bowler but, after years of injury pain, tells BBC Sport about reinventing herself as a top-order batter.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmgqx3ve732jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/cqlym8r7jvd5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "WATCH: NFL Sunday’s biggest moments",
-          "summary": "“GMA” has highlights from the San Francisco 49ers-Minnesota Vikings and Kansas City Chiefs-Arizona Cardinals games, plus a preview of Monday night's Cincinnati Bengals-Washington Commanders matchup.",
+          "headline": "LIVE: ABC News Live",
+          "summary": "24/7 coverage of breaking news and live events",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138373307/"
+          "url": "https://abcnews.com/video/41463246/"
         }
       ]
     },
@@ -79,14 +79,194 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124867877324861561",
-          "created_at": "2026-11-23T14:09:14.000Z",
+          "id": "2124875452107870676",
+          "created_at": "2026-11-23T14:39:20.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump releases a statement saying Nvidia's board, $NVDA, has made the \"correct and proper decision\" to rehire Jensen Huang as CEO.\n\nAs we posted 14 hours ago, something was happening behind the scenes.\n\nThe leader of the AI revolution is back. https://t.co/bE8aMfQiF7",
-          "url": "https://x.com/i/status/2124867877324861561",
+          "text": "Nvidia's board has listened.\n\nIt has been a long 14 days, but we are pleased to see Nvidia's, $NVDA, board agree with our view to reinstate Jensen Huang.\n\nFrom day one of this controversy, we maintained a firm view:\n\nThe door for Jensen Huang to return should never have been",
+          "url": "https://x.com/i/status/2124875452107870676",
           "verified": true,
           "verified_type": "business"
+        },
+        {
+          "id": "2124875291692826876",
+          "created_at": "2026-11-23T14:38:42.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "$NVDA just added roughly $850 billion in market value in a single morning after its board unanimously reinstated Jensen Huang as CEO\n\nThat is nearly double the biggest one-day gain in market history, $MSFT's $449.9 billion on July 30\n\nShares jumped as much as 33% to $167.17 from https://t.co/ActR3QXp4U",
+          "url": "https://x.com/i/status/2124875291692826876",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124875206993072423",
+          "created_at": "2026-11-23T14:38:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Several people were injured after an Amtrak train collided with an 18-wheeler near Lafayette, Louisiana, causing two train cars to derail. Multiple passengers were taken to nearby hospitals. https://t.co/HExsbobmLk",
+          "url": "https://x.com/i/status/2124875206993072423",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124874043534750185",
+          "created_at": "2026-11-23T14:33:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Esmaeil Baghaei, spokesman for Iran's Foreign Ministry:\n\n\"We certainly are wounded. You can't expect a lion that showed its claws and teeth to hyenas not to be wounded.\n\nThese wounds make the lion's roar louder and its claws and teeth sharper.\n\nThe wounded animals are those who",
+          "url": "https://x.com/i/status/2124874043534750185",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124873995464134773",
+          "created_at": "2026-11-23T14:33:33.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Good morning, signal-bearers. https://t.co/pbEainoYwI",
+          "url": "https://x.com/i/status/2124873995464134773",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124873790920531986",
+          "created_at": "2026-11-23T14:32:44.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Nvidia stock is up $1 trillion in market cap this morning at the opening bell.",
+          "url": "https://x.com/i/status/2124873790920531986",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124873304464904473",
+          "created_at": "2026-11-23T14:30:48.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nvidia stock, $NVDA, extends gains to over +35% on the day after Jensen Huang is reinstated as CEO.\n\nThe stock has now added +$1 trillion in market cap today.\n\nIf Nvidia closes at or above current levels, it’ll be the first company in history to add $1 trillion in a https://t.co/iXOi4jr06S",
+          "url": "https://x.com/i/status/2124873304464904473",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124872664938602736",
+          "created_at": "2026-11-23T14:28:16.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "It is done",
+          "url": "https://x.com/i/status/2124872664938602736",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124872324218266061",
+          "created_at": "2026-11-23T14:26:54.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Nvidia Board:\n\n“The Board believes Jensen is the right person to lead NVIDIA, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers. We have every confidence in Jensen and look forward to working with him as he resumes his",
+          "url": "https://x.com/i/status/2124872324218266061",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124871861804654908",
+          "created_at": "2026-11-23T14:25:04.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nasdaq 100 futures have been halted after surging +7% on news of Nvidia, $NVDA, reinstating Jensen Huang as CEO. https://t.co/BVhPxBE8Li",
+          "url": "https://x.com/i/status/2124871861804654908",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124871802459431391",
+          "created_at": "2026-11-23T14:24:50.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jensen Huang:\n\n“I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution, I take this responsibility with the greatest humility and renewed commitment. I want to thank the NVIDIA https://t.co/B1Nm5OZALT",
+          "url": "https://x.com/i/status/2124871802459431391",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124871560028725383",
+          "created_at": "2026-11-23T14:23:52.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Jensen Huang releases a statement after being reinstated as CEO of Nvidia, $NVDA:\n\nFull statement:\n\n\"I am honored to return to NVIDIA and lead one of the most consequential technology companies in the world at the beginning of a new industrial revolution. I take this",
+          "url": "https://x.com/i/status/2124871560028725383",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124871445226402031",
+          "created_at": "2026-11-23T14:23:25.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP CELEBRATES JENSEN HUANG'S RETURN TO NVIDIA: “A GREAT PATRIOT AND NATIONAL TREASURE!”\n\nPresident Trump praises Nvidia's decision to reinstate Huang as CEO, saying the DOJ has no evidence of unlawful conduct and his return poses no known national security risk.\n\nBut Trump https://t.co/LmooxOXvyD",
+          "url": "https://x.com/i/status/2124871445226402031",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124870755343323530",
+          "created_at": "2026-11-23T14:20:40.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Nvidia (NVDA) shares surged roughly 25% to 30% in pre-market trading today after the board announced it reinstated co-founder Jensen Huang as president, CEO, and board director. https://t.co/B1Nm5P08Br",
+          "url": "https://x.com/i/status/2124870755343323530",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124870184003424673",
+          "created_at": "2026-11-23T14:18:24.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The US stock market adds +$3 trillion in market cap as Jensen Huang is reinstated as CEO of Nvidia, $NVDA. https://t.co/pOrpbfD45N",
+          "url": "https://x.com/i/status/2124870184003424673",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124869477502484598",
+          "created_at": "2026-11-23T14:15:36.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "This is a touchdown. Come on, what are we doing here? Super slow mo 4K is canceling out common sense too often. https://t.co/8s7NJEgxoB",
+          "url": "https://x.com/i/status/2124869477502484598",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124869091756232804",
+          "created_at": "2026-11-23T14:14:04.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: NVIDIA REINSTATES JENSEN HUANG AS CEO AFTER TRUMP PUSHED FOR HIS RETURN https://t.co/QG4l9FxbfP",
+          "url": "https://x.com/i/status/2124869091756232804",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124868795076431981",
+          "created_at": "2026-11-23T14:12:53.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump on the return of Nvidia's CEO: \"The right and proper decision.\" https://t.co/zFoUG6Lo8e https://t.co/B1Nm5OZALT",
+          "url": "https://x.com/i/status/2124868795076431981",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124868459188179193",
+          "created_at": "2026-11-23T14:11:33.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "JENSEN HUANG IS BACK AS NVIDIA CEO AND THE AI TRADE MIGHT FINALLY BE BACK ON!  \n\nNvidia's board has unanimously voted to reinstate Jensen Huang as CEO, reversing its decision from just last week.  \n\nThis is absolutely massive for the AI trade.  I've said before that Jensen is one https://t.co/iHA7iCx7az https://t.co/zrhXLkMgPx",
+          "url": "https://x.com/i/status/2124868459188179193",
+          "verified": true,
+          "verified_type": "blue"
         },
         {
           "id": "2124867855816757666",
@@ -95,16 +275,6 @@
           "author_handle": "ClayTravis",
           "text": "Holy crap, Nvidia just reinstated Jensen Huang as CEO and the stock is up 25% in pre-market.",
           "url": "https://x.com/i/status/2124867855816757666",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124867679958061140",
-          "created_at": "2026-11-23T14:08:27.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "BREAKING: Nvidia reinstates Jensen Huang as the CEO. https://t.co/NKD6jcxFHQ",
-          "url": "https://x.com/i/status/2124867679958061140",
           "verified": true,
           "verified_type": "blue"
         },
@@ -119,16 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124866337000325454",
-          "created_at": "2026-11-23T14:03:07.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia stock, $NVDA, surges over +28% after the company reinstates Jensen Huang as CEO, effectively immediately.\n\nThe stock has now added +$820 billion in market cap today on the news.\n\nJensen Huang is officially back. https://t.co/3UabhFKxzu",
-          "url": "https://x.com/i/status/2124866337000325454",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124865753463787613",
           "created_at": "2026-11-23T14:00:48.000Z",
           "author_name": "Tim Pool",
@@ -137,16 +297,6 @@
           "url": "https://x.com/i/status/2124865753463787613",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124865188927291642",
-          "created_at": "2026-11-23T13:58:33.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia, $NVDA, reinstates Jensen Huang as CEO, President, and Board Member, effective immediately. https://t.co/FwXpSC8mRb",
-          "url": "https://x.com/i/status/2124865188927291642",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124865035013128544",
@@ -169,62 +319,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124862289325011066",
-          "created_at": "2026-11-23T13:47:02.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "An airstrike hit the village of Bar'ashit in southern Lebanon. https://t.co/NQDiZQQSZv",
-          "url": "https://x.com/i/status/2124862289325011066",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124858899685613650",
           "created_at": "2026-11-23T13:33:34.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "Kirk Cousins was not happy with the Vikings last night 😳 https://t.co/woJgWADjfN",
           "url": "https://x.com/i/status/2124858899685613650",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124857004523200788",
-          "created_at": "2026-11-23T13:26:02.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Netanyahu on Eisenkot and Lieberman dismissing the Iran threat: \"They are doing this for political reasons.\" https://t.co/lfM3fIhdGo",
-          "url": "https://x.com/i/status/2124857004523200788",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124856371984109738",
-          "created_at": "2026-11-23T13:23:31.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian Foreign Minister Abbas Araghchi:\n\n\"We have passed through a difficult period of resistance over these two years. America, together with Israel and with Europe's backing, could not defeat the Iranian nation.\"",
-          "url": "https://x.com/i/status/2124856371984109738",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124855256173457460",
-          "created_at": "2026-11-23T13:19:05.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "A December 2024 music video of singer Parastoo Ahmadi performing without a hijab has ended in 74 lashes for her and four members of her band.\n\nIranian authorities carried out the flogging. The singer and her bandmates are also banned from practicing art and music, and from",
-          "url": "https://x.com/i/status/2124855256173457460",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124852873653575727",
-          "created_at": "2026-11-23T13:09:37.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "US net equity inflows are up to ~3.0% of GDP, their highest on record in data going back to the 1980s.\n\nNet equity inflows measure foreign purchases of US stocks minus US investors' purchases of foreign equities.\n\nThis figure has risen nearly +5.0 percentage points since the 2022 https://t.co/vCLEQEJXaK",
-          "url": "https://x.com/i/status/2124852873653575727",
           "verified": true,
           "verified_type": "business"
         },
@@ -245,26 +345,6 @@
           "author_handle": "RealAmVoice",
           "text": "Indian national Nikhil Gupta was sentenced to 235 months for plotting to assassinate a U.S. citizen in New York City. \n\nThe DOJ says the plot was directed by an Indian government employee tied to RAW, India's foreign intelligence agency. https://t.co/UmFafzX8pE",
           "url": "https://x.com/i/status/2124850462448930906",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124850453011951960",
-          "created_at": "2026-11-23T13:00:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "The Washington Post says masks can offer \"an extra layer of protection\" for holiday travelers, especially those \"visiting vulnerable relatives.\" \n\nAn \"expert\" recommends wearing one throughout the trip. https://t.co/QElsh6kwX1",
-          "url": "https://x.com/i/status/2124850453011951960",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124843679357522107",
-          "created_at": "2026-11-23T12:33:05.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "WARNING: We have received numerous inquiries regarding the growing number of AI-generated accounts on X impersonating our brand and attempting to scam users.\n\nNone of these accounts are affiliated with us. They spread fake news, impersonate our identity, and attempt to defraud https://t.co/Eq8sgPVWYo",
-          "url": "https://x.com/i/status/2124843679357522107",
           "verified": true,
           "verified_type": "business"
         },
@@ -359,32 +439,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124699995299610704",
-          "created_at": "2026-11-23T03:02:08.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP CALLS ON NVIDIA TO REHIRE JENSEN HUANG!\n\nPresident Trump weighs in on Nvidia’s leadership, urging the company’s board to bring Jensen Huang back.\n\n“It would be the best thing for the Company, and also, for the U.S.A.” https://t.co/rdQGofg7JB",
-          "url": "https://x.com/i/status/2124699995299610704",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124694454326153444",
           "created_at": "2026-11-23T02:40:07.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "RenMac's Neil Dutta says the Fed made a mistake by not hiking, and with inflation above 2% there is no Fed rescue coming for this selloff\n\n\"Yes, they made a mistake by not hiking\"\n\n\"There's a path to see multiple rate hikes at this point\"\n\n\"When inflation is above 2%, https://t.co/STy9jjwhWn",
           "url": "https://x.com/i/status/2124694454326153444",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124693401249714509",
-          "created_at": "2026-11-23T02:35:56.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️I put about a 5% probability on the S&amp;P closing high enough for him to break even. https://t.co/pLbzDgeumR",
-          "url": "https://x.com/i/status/2124693401249714509",
           "verified": true,
           "verified_type": "blue"
         },
@@ -397,16 +457,6 @@
           "url": "https://x.com/i/status/2124693204541071377",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124688323054891268",
-          "created_at": "2026-11-23T02:15:45.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ICE nabbed Chinese national and Princeton Ph.D. student Eva Yi Xie at Reagan National Airport. \n\nDHS says she was admitted temporarily in March 2016, was supposed to leave by September, and never did. \n\nPrinceton has arranged legal counsel to represent her. https://t.co/cKhEPLlipU",
-          "url": "https://x.com/i/status/2124688323054891268",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124687439658983529",
@@ -445,16 +495,6 @@
           "author_handle": "LauraLoomer",
           "text": "Because Hasan Piker is a Muslim. That’s how Muslims treat dogs. \n\nIs anyone surprised? Look at how badly Hasan treats his own dog Kaya.\n\nI wish I could come “kidnap” Kaya and rescue her. She deserves a loving home. https://t.co/t2eRyyc2Cx",
           "url": "https://x.com/i/status/2124680614796296390",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124679355616076198",
-          "created_at": "2026-11-23T01:40:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Rep. Michael McCaul says he warned Jensen Huang a year ago that Nvidia chips were helping China build DeepSeek, and Huang told him \"that's legal\"\n\n\"I met with Jensen Huang a year ago and warned him that he was selling advanced AI chips to China that allowed them to create https://t.co/eXu9jKE5bc",
-          "url": "https://x.com/i/status/2124679355616076198",
           "verified": true,
           "verified_type": "blue"
         },
@@ -505,16 +545,6 @@
           "author_handle": "SportNState",
           "text": "Cam Skattebo Calls Game &amp; Calls for a Backflip https://t.co/Ye7KJJMHhw",
           "url": "https://x.com/i/status/2124667342529364047",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124664255295430731",
-          "created_at": "2026-11-23T00:40:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Treasury Secretary Scott Bessent says the stock selloff began as Democrats moved ahead in the polls, and warns the Fed may be making a policy mistake\n\n\"The market selloff actually began as the Democrats moved ahead in the polls and then accelerated after election day\"\n\n\"Many https://t.co/6jY10JfEb1",
-          "url": "https://x.com/i/status/2124664255295430731",
           "verified": true,
           "verified_type": "blue"
         },
@@ -589,16 +619,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124614639409606954",
-          "created_at": "2026-11-22T21:22:58.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Would this be the wrong note upon which to suggest using Grok Bot? https://t.co/qfYPtHSaRV",
-          "url": "https://x.com/i/status/2124614639409606954",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124606222536229270",
           "created_at": "2026-11-22T20:49:31.000Z",
           "author_name": "Clay Travis",
@@ -615,26 +635,6 @@
           "author_handle": "ClayTravis",
           "text": "Why did Joe Milton make zero effort to recover his fumble?  https://t.co/iDB2SShxOB",
           "url": "https://x.com/i/status/2124586000139858296",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124583854962855980",
-          "created_at": "2026-11-22T19:20:38.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The Titans look like a JV team playing varsity today. This is an embarrassing effort from an embarrassing franchise. The Cowboys can score as many as they want to score today.",
-          "url": "https://x.com/i/status/2124583854962855980",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124583151884501214",
-          "created_at": "2026-11-22T19:17:50.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The latest AP top 25 is out. Still bonkers the Vols are behind the Tide, but good shot that ends by next week. Alabama has zero top 25 wins. I’d bet the playoff committee will fight to keep Kentucky ranked for this reason. https://t.co/CuInN1upAt",
-          "url": "https://x.com/i/status/2124583151884501214",
           "verified": true,
           "verified_type": "blue"
         },
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
+          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+        },
+        {
           "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
           "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
           "source": "NPR",
@@ -803,12 +809,6 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
-        },
-        {
           "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
           "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
           "source": "ABC News",
@@ -821,16 +821,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Nvidia reinstates Jensen Huang as CEO. Stock skyrockets 27%",
-          "summary": "",
+          "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+          "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
         },
         {
-          "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-          "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+          "headline": "Nvidia skyrockets 30% on Huang’s return as CEO, recovering nearly all the losses since he disclosed affair",
+          "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
         },
         {
           "headline": "Stock futures rise, erasing some losses after tech rout",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Titans’ What Cam Ward said about bonkers touchdown pass to Calvin Ridley during Cowboys game",
-          "summary": "Jerome Miron-Imagn Images Titans’ What Cam Ward said about bonkers touchdown pass to Calvin Ridley during Cowboys game appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/titans-cam-ward-said-bonkers-140738087.html"
-        },
-        {
-          "headline": "Tyson Fury reflects on battle with schizophrenia diagnosis",
-          "summary": "appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/tyson-fury-reflects-battle-schizophrenia-140511892.html"
-        },
-        {
-          "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
-          "summary": "Brock Purdy carved up the NFL’s stingiest defense with three touchdown passes in the first half and the San Francisco 49ers beat the Minnesota Vikings 35-10 in a matchup of NFC powerhouses",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/brock-purdy-carves-vikings-3-td-passes-49ers-138368566"
-        },
-        {
-          "headline": "Ranking NBA's biggest winners and losers of the week: Knicks hit their stride, while Celtics take step back",
-          "summary": "We're picking the three biggest winners and three biggest losers from the last week as parity sets in across the NBA",
+          "headline": "Fantasy Baseball: Does Tarik Skubal's record-setting contract with the Mets make him SP1?",
+          "summary": "Or will the Mets' aggressive spending come back to bite them again?",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nba/news/ranking-nba-biggest-winners-losers-of-the-week-knicks-celtics-nov-23/"
+          "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-does-tarik-skubals-record-setting-contract-with-the-mets-make-him-sp1/"
         },
         {
-          "headline": "2026 NFL playoff picture, standings: 49ers reign over NFC, Jaguars slip in AFC, wild-card battles heat up",
-          "summary": "A comprehensive look at all seven seeds in the AFC and NFC and the teams on the outside looking in",
+          "headline": "Caleb Williams and Bears' offense struggle in ugly win",
+          "summary": "The Chicago Bears returned from their off week with a performance very similar to their game against the Tampa Bay Buccaneers. The Bears got their eighth victory of the season, but they didn't reinforce the idea that this team is ready to take the NFC.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/caleb-williams-bears-offense-struggle-143147171.html"
+        },
+        {
+          "headline": "Robert Griffin III shares his pick for ‘the best team in the NFL by far’ after Week 11 results",
+          "summary": "Photo by Christian Petersen/Getty Images After their dominant win against the Minnesota Vikings, former NFL quarterback Robert Griffin III has picked the San Francisco 49ers as the best team in the NFL. Coming into the game with an 8-1 record, the 49ers were expected to face a real challenge against the Vikings, who have the best defence in the league.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/robert-griffin-iii-shares-pick-143135529.html"
+        },
+        {
+          "headline": "NFL DFS, Bengals vs. Commanders: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
+          "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and advice for Cincinnati vs. Washington on 'MNF'",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/2026-nfl-playoff-picture-standings-49ers-reign-over-nfc-jaguars-slip-in-afc/"
+          "url": "https://www.cbssports.com/betting/news/nfl-dfs-bengals-commanders-daily-fantasy-picks-fanduel-draftkings-lineup-advice-monday-night-football/"
+        },
+        {
+          "headline": "'Right on time' - Kildunne on Quins exit stories",
+          "summary": "England and Bristol Bears full-back Ellie Kildunne makes a pointed reference to reports that poor time-keeping was behind her Harlequins exit.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Ben Petrie, Juliette Gariépy, Chris Locke, Romina D’Ugo to Star in ‘Man Vs Truck’ Dark Comedy (Exclusive)",
+          "summary": "Director Ted Stenson’s Canadian indie puts the classic American pickup truck at the intersection of politics, ego and masculinity.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/man-vs-truck-dark-comedy-ben-petrie-chris-locke-1236760057/"
+        },
         {
           "headline": "‘Avengers: Doomsday’ Final Trailer: Captain America’s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men",
           "summary": "Marvel has dropped the final trailer for “Avengers: Doomsday” ahead of its Dec. 18 release.",
@@ -911,12 +917,6 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-reviews/way-of-the-warrior-kid-review-chris-pratt-mcg-1236760128/"
         },
         {
-          "headline": "Finally, the U.K. Can See Everything: Nathan Fielder’s Elizabeth Holmes Doc Makes British Box Office History",
-          "summary": "Word-of-mouth hype has sustained the momentum for Fielder and Lance Oppenheim's slick and slippery film, which opened overseas and immediately broke long-held records this weekend.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/uk-you-can-see-everything-holmes-nathan-fielder-film-a24-1236761013/"
-        },
-        {
           "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
           "summary": "Elsinore , actor Ian Charleson played the role in a Cambridge Theatre Company production in 1974.'/> The new movie Elsinore is about the late Scottish actor's critically-acclaimed performance as Hamlet while he was dying of AIDS. His final role is only part of his powerful story.",
           "source": "NPR",
@@ -928,6 +928,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
+          "summary": "Netflix’s feature-length documentary “Tyson Fury,” which follows the two-time heavyweight champion of the world’s journey from childhood to the pinnacle of his sport, reveals that the boxer has been diagnosed with schizophrenia. The film, which is directed by Lucy Wilcox, will debut on Nov.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855/"
+        },
         {
           "headline": "Make-Up Artists & Hair Stylists Guild Sets Ronnie Specter & Lola Kemp As 2027 Career Honorees",
           "summary": "The Make-Up Artists & Hair Stylists Guild has its 2027 career award recipients. Emmy-winning and Oscar-nominated makeup artist Ronnie Specter and Emmy-nommed hairstylist Lola Kemp will be honored February 20 during the 14th annual MUAHS Awards at the Westin Bonaventure in Los Angeles.",
@@ -947,12 +953,6 @@
           "url": "https://variety.com/2026/tv/news/nbcuniversal-amazon-holiday-ad-showdown-thanksgiving-week-1236955542/"
         },
         {
-          "headline": "‘Dig’ Review: Amy Poehler’s Archeology Comedy Is Shockingly Unfunny",
-          "summary": "Based on Kate Myers’ 2023 novel, “Excavations,” and adapted for television by “A Man on the Inside” and “The Good Place” creator Michael Schur and Amy Poehler, Peacock’s “Dig” centers on a group of archaeologists working an excavation site during a sweltering summer in Greece. Helmed by the beloved Dr.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/reviews/dig-review-amy-poehler-peacock-1236952005/"
-        },
-        {
           "headline": "‘Blade Runner 2099’ Review: Michelle Yeoh and Hunter Schafer Lead Amazon’s Visually Rich, Emotionally Deficient Sci-Fi Sequel",
           "summary": "Set eight decades after Ridley Scott's 1982 classic, in a post-revolutionary world now ruled by replicants, the eight-part miniseries follows a dying police officer and her human partner.",
           "source": "The Hollywood Reporter",
@@ -965,10 +965,10 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Jensen Huang Reinstated as Nvidia CEO After Series of Affairs",
-          "summary": "Nvidia has reinstated Jensen Huang as CEO and president of the company, a surprise twist in the weekslong saga that revealed affairs with an alleged spy and multiple company employees and prompted Huang’s resignation. Huang will also return to the company’s board, the company said in a statement Monday.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837/"
+          "headline": "Democratic National Committee Plans 12 Presidential Primary Debates Starting In June",
+          "summary": "The 2028 presidential race will be in full swing likely by early next year, and on Monday, the Democratic National Committee announced its plans for a dozen primary debates, starting in June. No TV or streaming partner has been announced, but hosting the first debate, or any other, is the source of much competition between […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/democratic-primary-debates-2028-1237231530/"
         },
         {
           "headline": "Monét X Change’s ‘Monét Talks’ Podcast Added to Libsyn’s Hosting, Ad Roster (Exclusive)",
@@ -989,10 +989,10 @@
           "url": "https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076/"
         },
         {
-          "headline": "CAA’s Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans “Famous Or Not”",
-          "summary": "CAA chief Bryan Lourd is urging the full Congress to pass the No Fakes Act and deliver it to President Trump for signature, a move Lourd says would protect everyone, famous or not, from nonconsensual digital replicas of their voices and likenesses. In a guest essay published in today’s New York Times, Lourd writes, “The […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979/"
+          "headline": "CAA’s Bryan Lourd Urges Congress to Pass NO FAKES Act to Combat AI Deepfakes: ‘Every One of Us Should Have the Right to Say No’",
+          "summary": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing in a New York Times Opinion piece that “every one of us should have the right to say no to an unwelcome use of […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T09:12:31-05:00"
+  "updatedAt": "2026-11-23T09:42:38-05:00"
 }
