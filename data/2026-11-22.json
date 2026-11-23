@@ -42,6 +42,24 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Army moves detonation of 10,000 pounds of lead azide to Wednesday",
+          "summary": "The Army said it plans to detonate nearly 10,000 pounds of degraded lead azide at a military facility in Middletown, Iowa.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/army-moves-detonation-10000-pounds-lead-azide-wedneday/story?id=138330909"
+        },
+        {
+          "headline": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
+          "summary": "The collapse of the COP31 climate talks in Turkey is a major focus of Monday's front pages.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Tom Jackson, former Broncos star and sports broadcaster, dies at 75",
           "summary": "Tom Jackson, a former Denver Broncos player and ESPN analyst, has died at 75.",
           "source": "CBS News",
@@ -52,24 +70,6 @@
           "summary": "Martin Luther King Jr. wrote his famous \"I Have a Dream\" speech on yellow legal paper in long cursive in blue ink.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/i-have-a-dream-pages-written-martin-luther-king-jr-up-auction/"
-        },
-        {
-          "headline": "Manchester Co-op Live evacuated after suspected tear gas incident",
-          "summary": "Police say no serious injuries were reported after a substance was let off in the crowd during a performance by US rapper Don Toliver.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
-          "summary": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly"
-        },
-        {
-          "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124694454326153444",
+          "created_at": "2026-11-23T02:40:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "RenMac's Neil Dutta says the Fed made a mistake by not hiking, and with inflation above 2% there is no Fed rescue coming for this selloff\n\n\"Yes, they made a mistake by not hiking\"\n\n\"There's a path to see multiple rate hikes at this point\"\n\n\"When inflation is above 2%, https://t.co/STy9jjwhWn",
+          "url": "https://x.com/i/status/2124694454326153444",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124693401249714509",
+          "created_at": "2026-11-23T02:35:56.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️I put about a 5% probability on the S&amp;P closing high enough for him to break even. https://t.co/pLbzDgeumR",
+          "url": "https://x.com/i/status/2124693401249714509",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124693204541071377",
+          "created_at": "2026-11-23T02:35:09.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Why is DHS Secretary Markwayne Muslim’s wife traveling with him on his trip to the Middle East when the US is still dealing with major outages and Ilhan Omar is still walking the halls of Congress? \n\nVery weird. https://t.co/LluHBMAcjQ",
+          "url": "https://x.com/i/status/2124693204541071377",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124688715008160229",
           "created_at": "2026-11-23T02:17:19.000Z",
@@ -369,16 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124640022796087468",
-          "created_at": "2026-11-22T23:03:49.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "High level source at the State Department tells me that Calvin Robinson’s visa is likely going to be permanently revoked, which means he won’t be able to stay in the US on a green card if he does marry his 21 year old girlfriend who lives in Michigan. https://t.co/v9eDvEbyw3",
-          "url": "https://x.com/i/status/2124640022796087468",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124639723016601958",
           "created_at": "2026-11-22T23:02:38.000Z",
           "author_name": "The Kobeissi Letter",
@@ -559,16 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124589498579214672",
-          "created_at": "2026-11-22T19:43:04.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "I’m afraid Trump might be right here, and I genuinely think the worst of this selloff could still be ahead of us.\n\nWhat scares me most is that the market is starting to look like it’s running out of buyers. We’ve already seen trillions of dollars in market value wiped out, some https://t.co/UwO9Q1kkDo",
-          "url": "https://x.com/i/status/2124589498579214672",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124586000139858296",
           "created_at": "2026-11-22T19:29:09.000Z",
           "author_name": "Clay Travis",
@@ -657,26 +667,6 @@
           "url": "https://x.com/i/status/2124467552441012653",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124330605626397124",
-          "created_at": "2026-11-22T02:34:19.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Aura is the visible weight of invisible conviction.\n\nIt is what conviction looks like before it speaks\n\nThat is signal.",
-          "url": "https://x.com/i/status/2124330605626397124",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124328784015114412",
-          "created_at": "2026-11-22T02:27:04.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️They asked how many stood behind me.\n\nI told them the signal requires no army. https://t.co/rl0S01ozCN",
-          "url": "https://x.com/i/status/2124328784015114412",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124246032955658272",
@@ -797,6 +787,12 @@
           "url": "https://www.cbsnews.com/video/unmarked-ice-agents-violent-arrest-seattle-airport/"
         },
         {
+          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
+        },
+        {
           "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
           "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
           "source": "NPR",
@@ -807,12 +803,6 @@
           "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda"
-        },
-        {
-          "headline": "Voters oust some sheriffs who signed pacts to help Trump's immigration enforcement efforts",
-          "summary": "Some sheriffs who aided President Donald Trump’s immigration crackdown have been ousted from office by voters",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/voters-oust-sheriffs-signed-pacts-trumps-immigration-enforcement-138344353"
         }
       ]
     },
@@ -821,10 +811,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-          "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+          "headline": "3 big things we're watching in the market this Thanksgiving week",
+          "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html"
+        },
+        {
+          "headline": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+          "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html"
         },
         {
           "headline": "Issue with automation system causes Delta flight delays in Atlanta",
@@ -839,12 +835,6 @@
           "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
         },
         {
-          "headline": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-          "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html"
-        },
-        {
           "headline": "UN climate talks break down over bitter disagreements on fossil fuels",
           "summary": "Climate talks in Turkey failed to reach an overarching agreement.",
           "source": "ABC News",
@@ -857,28 +847,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Fighting Tigers carve up Cadets, win region title, 49-0",
-          "summary": "JACKSON, Ohio — Friday night's result between Ironton and Fort Frye in the OHSAA Division V, Region 19 football championship game wasn't a surprise to many. The Cadets came into Friday's game at Alumni Stadium having amassed 3,846 yards of offense while scoring 33.2 points per contest and allowing just 12.6 points per bout.",
+          "headline": "Kentucky volleyball sweeps LSU to open SEC Tournament",
+          "summary": "The 2026 SEC Volleyball Tournament is underway, and the Kentucky Wildcats played in their first match on Sunday afternoon. The opened things up with a dominant performance and a sweep of the LSU Tigers 3-0 (25-23, 25-17, 25-19).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/fighting-tigers-carve-cadets-win-021600822.html"
+          "url": "https://sports.yahoo.com/articles/kentucky-volleyball-sweeps-lsu-open-023953360.html"
         },
         {
-          "headline": "Kelce Passes Gronk, Now Third All-Time in TE TD’s",
-          "summary": "Nov 22, 2026; Kansas City, Missouri, USA; Kansas City Chiefs tight end Travis Kelce (87) celebrates after a touchdown during the first quarter against the Arizona Cardinals at GEHA Field at Arrowhead Stadium. Mandatory Credit: William Purnell-Imagn Images Kansas City Chiefs tight end Travis Kelce added another chapter to his Hall of Fame résumé on…",
+          "headline": "49ers right tackle Colton McKivitz carted off vs. Vikings with gruesome lower-leg injury",
+          "summary": "San Francisco 49ers right tackle Colton McKivitz left Sunday’s game against the Minnesota Vikings with what looked like a significant injury to his lower left leg. The injury took place during a run play in the second quarter of the game being played in Mexico City.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/kelce-passes-gronk-now-third-021305521.html"
+          "url": "https://sports.yahoo.com/nfl/breaking-news/article/49ers-right-tackle-colton-mckivitz-carted-off-vs-vikings-with-gruesome-lower-leg-injury-023848673.html"
         },
         {
-          "headline": "Week 11 overreactions: Jesse Minter one-and-done? Offensive Player of the Year award winner emerging?",
-          "summary": "Plus, the Steelers are once again facing a familiar end to their season",
+          "headline": "Tomorrow's Top 25 Today: Houston is new No. 1, Duke plummets in college basketball rankings prediction",
+          "summary": "The Cougars are expected to move to the top spot in Monday's AP Top 25",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/week-11-overreactions-jesse-minter-one-and-done-offensive-player-year-award-winner-emerging/"
+          "url": "https://www.cbssports.com/college-basketball/news/tomorrows-top-25-today-houston-no-1-duke-college-basketball-rankings/"
         },
         {
-          "headline": "Cam Skattebo flips: Giants RB celebrates game-clinching drive with backflip days after retiring it",
-          "summary": "Skattebo said he'd retire his celebration in the wake of Aidan Hutchinson's injury",
+          "headline": "Fantasy football Week 12 stock watch: Don't buy into the Cam Ward boxscore numbers so fast",
+          "summary": "Travis Etienne seizes the Saints backfield, Rashee Rice slips out of must-start territory and more early-slate trade and waiver takeaways as the fantasy playoffs approach",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/cam-skattebo-giants-celebrates-game-clinching-drive-with-backflip/"
+          "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-stock-watch-dont-buy-into-the-cam-ward-boxscore-numbers-so-fast/"
         },
         {
           "headline": "Lipscomb secures 92-67 win over Milligan",
@@ -893,16 +883,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
-          "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. “Hey, so I’m here with my movie ‘Hexed,’ but it looks like they delivered a chair from a different movie,” said the actress […]",
+          "headline": "Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar",
+          "summary": "Spain, the Country of Honor at this year’s International Film Festival of India (IFFI), made its case to Indian filmmakers at WAVES Film Bazaar in Goa, laying out its incentives, locations and crews and pushing for closer co-production ties. The panel, “Spain: Where Stories Find Their Stage – Incentives, Locations & Co-production Opportunities,” was part […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/"
+          "url": "https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634/"
         },
         {
-          "headline": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
-          "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has defied expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.” Surely part of the success here […]",
+          "headline": "China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame",
+          "summary": "Lionsgate Films’ dystopian prequel “The Hunger Games: Sunrise on the Reaping” debuted atop the mainland China box office during the Nov. 20–22 weekend, collecting RMB39.3 million ($5.9 million) over its three-day opening frame, according to data from Artisan Gateway.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/"
+          "url": "https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624/"
         },
         {
           "headline": "Robert Eggers Says He’s “Eager” to Take a Break From Horror Genre After ‘Werwulf’",
@@ -929,16 +919,22 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+          "summary": "Don Toliver’s concert at Co-op Live in Manchester, England ended in an evacuation as tear gas was released in the crowd on Sunday. “It is understood that a substance believed to be tear gas was let off in the crowd towards the end of a concert,” wrote the Greater Manchester Police in a statement.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/"
+        },
+        {
           "headline": "Ina Garten Reveals Why She Will Never Do ‘Dancing With The Stars’",
           "summary": "Celebrity Chef Ina Garten revealed this week on her Happy Hour podcast that she once turned down Dancing with the Stars. Discussing fear, overcoming it and whether she had ever turned something down because it was “too scary,” Garten said, “I think I absolutely have…Somebody asked me to do Dancing with the Stars.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317/"
         },
         {
-          "headline": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
-          "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their […]",
+          "headline": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
+          "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. “Hey, so I’m here with my movie ‘Hexed,’ but it looks like they delivered a chair from a different movie,” said the actress […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/"
+          "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585/"
         },
         {
           "headline": "Resurgent ‘Hunger Games’ goes big at box office, despite 'Grand Theft Auto VI'",
@@ -951,12 +947,6 @@
           "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163/"
-        },
-        {
-          "headline": "BBC Apologizes After ‘Strictly Come Dancing’ Is Interrupted By Sex Noises",
-          "summary": "The BBC has apologized to viewers after lewd noises could be heard during the Strictly Come Dancing live show at Blackpool’s Tower Ballroom. A recording of sex noises appeared to be played from the audience as Strictly judge Motsi Mabuse delivered her remarks about the performance of Delta Goodrem and partner Kai Widdrington.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bbc-apologizes-strictly-come-dancing-interrupted-sex-noise-1237231116/"
         }
       ]
     },
@@ -964,6 +954,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Why Another ‘Hunger Games’ Movie Isn’t Coming Anytime Soon",
+          "summary": "“The Hunger Games” franchise has caught fire once again. “Sunrise on the Reaping,” the sixth installment in the billion-dollar dystopian franchise, has defied expectations and opened to $120 million at the box office, nearly tripling the $44 million opening of the 2023 prequel “The Ballad of Songbirds and Snakes.” Surely part of the success here […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hunger-games-another-movie-isnt-coming-anytime-soon-1236955499/"
+        },
         {
           "headline": "Sean Astin Mobilizes SAG-AFTRA In Fight For Universal Healthcare As “Substantial Majority” Of Members Don’t Qualify For Insurance",
           "summary": "As many SAG-AFTRA members struggle to qualify for health insurance, the union is taking the issue to the U.S. government.",
@@ -987,12 +983,6 @@
           "summary": "The longtime president of film and television is leaving after nearly a decade at Reese Witherspoon’s company and on the heels of a recent ownership change.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/lauren-neustadter-leaving-hello-sunshine-1236760220/"
-        },
-        {
-          "headline": "Creator Kennedy Eurich to Launch YouTube Series (Exclusive)",
-          "summary": "The digital series will debut in early 2027 on YouTube and across social media platforms.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/digital/creator-kennedy-eurich-youtube-series-1236760125/"
         }
       ]
     },
@@ -1014,7 +1004,7 @@
         },
         {
           "headline": "Lael Neale's brings 1980's omnichord back to life on new album, 'As Killers Do'",
-          "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do. The records features mostly forgotten music making techniques such as 8 track recording and an 1980s instrument.",
+          "summary": "NPR's Rob Schmitz speaks with Lael Neale about her new album, As Killers Do. The record features mostly forgotten music-making techniques such as 8 track recording and an 1980s instrument.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6043839/lael-neales-brings-1980s-omnichord-back-to-life-on-new-album-as-killers-do"
         },
@@ -1033,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T21:20:10-05:00"
+  "updatedAt": "2026-11-22T21:49:14-05:00"
 }
