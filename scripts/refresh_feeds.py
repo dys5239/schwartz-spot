@@ -103,17 +103,22 @@ FEEDS: list[dict] = [
     # old "prefer" never matched and non-TV items (e.g. court news) leaked in.
     # Its TV-category feed is already TV-only.
     {"url": "https://deadline.com/v/tv/feed/", "source": "Deadline", "section": "tv"},
+    # Editor (Nov 22): Variety's main feed had <2 /tv/ items, so the fallback
+    # put music and film stories (Don Toliver concert, Avengers casting) in TV.
+    # Use Variety's TV-category feed.
     {
-        "url": "https://variety.com/feed/",
+        "url": "https://variety.com/v/tv/feed/",
         "source": "Variety",
         "section": "tv",
         "prefer": ["/tv/"],
     },
+    # Editor (Nov 22): ABC entertainment is general entertainment (its "prefer"
+    # paths match everything): stale "Josephine" all day Nov 20-21, then a box-
+    # office story and a music wedding in TV on Nov 22. THR's TV feed replaces it.
     {
-        "url": "https://abcnews.go.com/abcnews/entertainmentheadlines",
-        "source": "ABC News",
+        "url": "https://www.hollywoodreporter.com/c/tv/feed/",
+        "source": "The Hollywood Reporter",
         "section": "tv",
-        "prefer": ["/Entertainment/", "/entertainment", "/tv", "/Television"],
     },
     # Media
     # Editor (Nov 20): Media = the media business. THR's business feed replaces
@@ -180,6 +185,20 @@ JUNK_HEAD_RE = re.compile(
     r"bonus(es)? (from|at|with) (betting|sportsbook)",  # Editor (Nov 21)
     re.I,
 )
+# Editor (Nov 22): BBC "The Papers" press review and CBS "Sunday Morning" promo posts.
+JUNK_NEWS_RE = re.compile(r"^the papers:|^this week on .?sunday morning", re.I)
+# Editor (Nov 22): Sports — AP automated small-college score templates
+# ("Lipscomb secures 92-67 win over Milligan", "George Mason defeats South
+# Florida 73-62") and betting odds/picks posts. Not a team filter.
+SPORTS_TEMPLATE_RE = re.compile(
+    r"\b(secures|earns) (an? )?\d+-\d+ (win|victory) over\b|\bdefeats [^,]+ \d+-\d+$|"
+    r"^[^,]+ (scores|puts up|has|posts|totals) \d+, [^,]+ \d+-\d+$|"
+    r"^[^,\s]+[’']s? \d+ (help|helps|lead|leads|lift|lifts|power|powers|carry|carries) [^,]+ \d+-\d+$|"
+    r"\bodds\b.*\b(picks?|prediction|best bets?)\b|\b(prediction|picks?)\b.*\bodds\b",
+    re.I,
+)
+# Editor (Nov 22): TV keeps TV; film/music URLs and box-office stories belong elsewhere.
+TV_OFF_RE = re.compile(r"/(film|music|movies)/|box office", re.I)
 # Editor: Sports stays national; drop high-school / local prep roundups.
 LOCAL_SPORTS_RE = re.compile(r"\b(high school|state playoffs?|prep (football|sports|basketball))\b", re.I)
 TAG_RE = re.compile(r"<[^>]+>", re.S)
@@ -359,6 +378,20 @@ def is_junk(story: dict) -> bool:
     return bool(JUNK_URL_RE.search(story.get("url") or "") or JUNK_HEAD_RE.search(story.get("headline") or ""))
 
 
+def off_rules(story: dict, section: str) -> bool:
+    """Editor (Nov 22): section-specific rules (junk, Sports local/template, TV off-topic)."""
+    head = story.get("headline") or ""
+    if is_junk(story):
+        return True
+    if section == "news" and JUNK_NEWS_RE.search(head):
+        return True
+    if section == "sports" and (is_philly(story) or SPORTS_TEMPLATE_RE.search(head)):
+        return True
+    if section == "tv" and TV_OFF_RE.search(f"{story.get('url') or ''} {head}"):
+        return True
+    return False
+
+
 def is_philly(story: dict) -> bool:
     """Sports-only guard: local Philadelphia-area outlets or local prep roundups (Philly teams themselves are allowed)."""
     blob = f"{story.get('headline') or ''} {story.get('summary') or ''} {story.get('url') or ''}"
@@ -486,7 +519,7 @@ def collect_candidates(feed: dict, items: list[dict]) -> list[dict]:
             continue
         if ai_only and not looks_like_ai(story):
             continue
-        if is_junk(story) or (feed["section"] == "sports" and is_philly(story)):
+        if off_rules(story, feed["section"]):
             continue
         chosen.append(story)
     if prefer and len(chosen) < 2:
@@ -501,7 +534,7 @@ def collect_candidates(feed: dict, items: list[dict]) -> list[dict]:
                     "url": item["url"],
                     "published": item.get("published") or "",
                 }
-                if is_junk(story) or (feed["section"] == "sports" and is_philly(story)):
+                if off_rules(story, feed["section"]):
                     continue
                 if story_key(story) not in {story_key(s) for s in chosen}:
                     chosen.append(story)
@@ -538,7 +571,7 @@ def pick_section(
             return
         if per_source.get(story.get("source") or "", 0) >= cap[0]:
             return
-        if is_junk(story) or (section_id == "sports" and is_philly(story)):
+        if off_rules(story, section_id):
             return
         url = (story.get("url") or "").strip()
         if url:
