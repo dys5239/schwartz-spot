@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
-          "summary": "The European Commission has proposed new sanctions against Russia, targeting banks, crypto platforms, and sporting teams competing under the Russian flag",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150"
-        },
-        {
-          "headline": "Nvidia reinstates Jensen Huang as CEO",
-          "summary": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
-        },
-        {
-          "headline": "Trump says he 'convinced' Nvidia board to reinstate Jensen Huang",
-          "summary": "Jensen Huang has been reinstated as president and CEO of Nvidia.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/made-deal-trump-convinced-nvidia-board-reinstate-jensen/story?id=138373104"
-        },
-        {
           "headline": "Democrats announce 12 debates starting in June for 2028 race",
           "summary": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/"
         },
         {
-          "headline": "What failure of COP31 reveals about a divided world",
-          "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+          "headline": "Pip assessments need 'fundamental overhaul', report to say",
+          "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+        },
+        {
+          "headline": "Stock market rebounds sharply after sell-off, Nvidia soars",
+          "summary": "The major stock indexes rebounded sharply at the open of trading on Monday as Nvidia shares soared more than 25%.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790"
+        },
+        {
+          "headline": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
+          "summary": "The European Commission has proposed new sanctions against Russia, targeting banks, crypto platforms, and sporting teams competing under the Russian flag",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124927640016715891",
+          "created_at": "2026-11-23T18:06:43.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NEW FROM @POTUS ON IOWA: Military \"clean up\" operation\n\nhttps://t.co/OIhl1Uguob",
+          "url": "https://x.com/RealAmVoice/status/2124927640016715891",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124927350148378821",
+          "created_at": "2026-11-23T18:05:34.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The 2026 White House Christmas tree has arrived and was formally received by First Lady Melania Trump. https://t.co/Fdmf6zE8tS",
+          "url": "https://x.com/Osint613/status/2124927350148378821",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124926664002130033",
+          "created_at": "2026-11-23T18:02:50.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "The Jihadi streamers who traveled to Afghanistan to hang out with the Taliban and the Haqqani Network are now attacking me and defending Abdul El-Sayed.\n\nWhy does every supporter of Islamic terrorists support Abdul??\n\nJust another reason why @JDVance should not meet with Abdul. https://t.co/3tYGcMVoSb",
+          "url": "https://x.com/LauraLoomer/status/2124926664002130033",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124925886252437694",
+          "created_at": "2026-11-23T17:59:45.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "The jihadist streamers who spent time making propaganda videos with members of the Haqqani Network, a designated Islamic terrorist organization, are still crying on their Islamic streams about me reporting them to the Feds. \n\nNow they claim they are “journalists”.\n\nHow is Sneako https://t.co/uMRkzwlHQp https://t.co/3tYGcMVoSb",
+          "url": "https://x.com/LauraLoomer/status/2124925886252437694",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124925429052329989",
+          "created_at": "2026-11-23T17:57:56.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Retail investors sold -$250 million worth of technology ETFs last week, their largest weekly sale in at least 2 years.\n\nThis follows 4 consecutive weekly purchases, totaling +$1.2 billion.\n\nRetail investors have sold technology ETFs in 9 of the last 20 weeks, a https://t.co/YbiXfNM5a0",
+          "url": "https://x.com/KobeissiLetter/status/2124925429052329989",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124925241604591897",
+          "created_at": "2026-11-23T17:57:11.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HARD TO WATCH: Video of BIDEN at the airport today...🫣\n\nhttps://t.co/ACHt2kzJoa",
+          "url": "https://x.com/RealAmVoice/status/2124925241604591897",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124925098398199946",
+          "created_at": "2026-11-23T17:56:37.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "CNBC: Did you give the board of Nvidia an assurance that Jensen Huang would not be prosecuted at all?\n\nTRUMP: I didn't use the word 'prosecuted,' but I said that we believe he's fine. He's absolutely fine. I gave them enough assurance. https://t.co/oIZI7SAM5W",
+          "url": "https://x.com/Osint613/status/2124925098398199946",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124924125638426835",
+          "created_at": "2026-11-23T17:52:45.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The Trump administration has rolled out a fresh round of sanctions linked to Iran.\n\nDozens of individuals and entities fall under the measures. The U.S. Treasury Department listed them in a notice on its website Monday.",
+          "url": "https://x.com/Osint613/status/2124924125638426835",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124921795929424265",
           "created_at": "2026-11-23T17:43:29.000Z",
@@ -179,22 +259,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124915457463377925",
-          "created_at": "2026-11-23T17:18:18.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Netanyahu on Jensen Huang returning as Nvidia CEO:\n\n\"Nvidia's partnership with Israel's technology sector has created enormous value for the company and for Israel's innovation economy. Continuity in Nvidia's leadership is good news for this partnership and for the global",
-          "url": "https://x.com/Osint613/status/2124915457463377925",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124913726814126498",
-          "created_at": "2026-11-23T17:11:26.000Z",
+          "id": "2124914402713567678",
+          "created_at": "2026-11-23T17:14:07.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
-          "text": "JUST NOW: @FLOTUS WELCOMES THE WH CHRISTMAS TREE\n\nThe official Christmas tree has arrived! Tis' the season! https://t.co/PvQXXRHAyX",
-          "url": "https://x.com/RealAmVoice/status/2124913726814126498",
+          "text": "@FLOTUS This tree hails from the Chapman family in Wisconsin! It will serve as the official WH Christmas tree for 2026.",
+          "url": "https://x.com/RealAmVoice/status/2124914402713567678",
           "verified": true,
           "verified_type": "business"
         },
@@ -229,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124912830717567333",
-          "created_at": "2026-11-23T17:07:52.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Netanyahu:\n\nWe must reach agreements regarding Israel as the nation-state of the Jewish people, agreements that there will be no Palestinian state, and agreements on other issues as well.",
-          "url": "https://x.com/Osint613/status/2124912830717567333",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124911253386858615",
           "created_at": "2026-11-23T17:01:36.000Z",
           "author_name": "SightBringer",
@@ -265,36 +325,6 @@
           "author_handle": "Outkick",
           "text": "Telling my parents I'm ready to eat on Thanksgiving https://t.co/vwH4SOMfh9",
           "url": "https://x.com/Outkick/status/2124909963533291896",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124909505259639046",
-          "created_at": "2026-11-23T16:54:39.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: RUDY GIULIANI TO RECEIVE PRESIDENTIAL MEDAL OF FREEDOM FROM @POTUS\n\n\"I am very, very honored and humbled not only to receive it, but receive it from him.\"\n\n@RudyGiuliani https://t.co/xgCFoYSzQR",
-          "url": "https://x.com/RealAmVoice/status/2124909505259639046",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124908943394885932",
-          "created_at": "2026-11-23T16:52:25.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Netanyahu:\n\nAnyone who dismisses or downplays the immediate, difficult and serious threats surrounding us is doing so for political reasons.\n\nIt reminds me of how they downplayed my warnings about Iran and explained that it was all a political trick.\n\nThis is real. This is",
-          "url": "https://x.com/Osint613/status/2124908943394885932",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124907825126342999",
-          "created_at": "2026-11-23T16:47:59.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "President Trump posted this hilarious meme! CAPTIONS  PLEASE! https://t.co/KhNBoIMYCn",
-          "url": "https://x.com/RealAmVoice/status/2124907825126342999",
           "verified": true,
           "verified_type": "business"
         },
@@ -397,16 +427,6 @@
           "url": "https://x.com/_Investinq/status/2124890750219653558",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124887810671010261",
-          "created_at": "2026-11-23T15:28:27.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says his Administration conducted \"a lot of research\" on the Jensen Huang situation and determined that it does not pose a threat to national security.\n\n\"It is not a problem,\" Trump says. https://t.co/8ZQ9PBQ9iu",
-          "url": "https://x.com/KobeissiLetter/status/2124887810671010261",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124884458641977803",
@@ -559,26 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124833099112435833",
-          "created_at": "2026-11-23T11:51:02.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Source tells me that former Army Secretary Dan Driscoll knew about the plans for the detonation of the lead all of the way back in March, but he sat on it and took no measures to communicate to the public what this means for the people of Iowa. \n\n5 tons of lead is scheduled to be https://t.co/C3O7csp1Kz",
-          "url": "https://x.com/LauraLoomer/status/2124833099112435833",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124828594123747401",
-          "created_at": "2026-11-23T11:33:08.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Congress is on recess for the Thanksgiving holiday this week… and of course they are gone without having done anything to codify President Trump’s agenda before the Democrats take over in January.",
-          "url": "https://x.com/LauraLoomer/status/2124828594123747401",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124730500397060413",
           "created_at": "2026-11-23T05:03:21.000Z",
           "author_name": "SightBringer",
@@ -689,6 +689,16 @@
           "verified_type": "business"
         },
         {
+          "id": "2124246193907843326",
+          "created_at": "2026-11-21T20:58:53.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "@benshapiro Check out our full conversation. https://t.co/zWJijBT3MM",
+          "url": "https://x.com/glennbeck/status/2124246193907843326",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2124246032955658272",
           "created_at": "2026-11-21T20:58:15.000Z",
           "author_name": "Glenn Beck",
@@ -719,12 +729,22 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123850122530558290",
-          "created_at": "2026-11-20T18:45:03.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Labeling Trump a traitor because he called Putin a friend right before a meeting is one of the most short-sighted takes I’ve seen. He knows Putin is an adversary. That’s just how he talks when the cameras are on, especially when he’s trying to negotiate the end of a war.\n\nThe https://t.co/33ASFSWKFP",
-          "url": "https://x.com/glennbeck/status/2123850122530558290",
+          "id": "2123787524468625791",
+          "created_at": "2026-11-20T14:36:18.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "“Grifting”…. by saying what I genuinely believe consistently https://t.co/DbKjR7cXZf",
+          "url": "https://x.com/MattWalshBlog/status/2123787524468625791",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123786642532217212",
+          "created_at": "2026-11-20T14:32:48.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "I hadn’t even read this whole thread in detail. He really caught me being totally correct and predicting the mid terms blowout in March. This thread is the most flattering and vindicating hit piece I’ve ever seen. https://t.co/NNuiaN0J0e",
+          "url": "https://x.com/MattWalshBlog/status/2123786642532217212",
           "verified": true,
           "verified_type": "blue"
         },
@@ -757,26 +777,6 @@
           "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2123212911640223945",
-          "created_at": "2026-11-19T00:33:00.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
-          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123205567728722236",
-          "created_at": "2026-11-19T00:03:49.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
-          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
-          "verified": true,
-          "verified_type": "blue"
         }
       ]
     },
@@ -785,10 +785,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "headline": "Inside Trump's gala for $TRUMP meme coin buyers",
+          "summary": "Over 150 of the largest buyers of the meme coin $TRUMP attended the gala at Trump National Golf Club in Virginia.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/trump-gala-dinner-crypto-meme-coin/"
         },
         {
           "headline": "Eagles compare November win to thrill of Super Bowl victory. Do they have a winning streak in them?",
@@ -797,10 +797,10 @@
           "url": "https://abcnews.com/Politics/wireStory/eagles-compare-november-win-thrill-super-bowl-victory-138379921"
         },
         {
-          "headline": "Read full episode transcripts of \"Face the Nation with Margaret Brennan\" from 2026",
-          "summary": "Browse all of our full episode transcripts from 2026 of \"Face the Nation with Margaret Brennan.\"",
+          "headline": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
+          "summary": "President Trump claimed the government \"has no reason to believe\" Jensen Huang's return is a national security risk.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/face-the-nation/transcripts/"
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/"
         },
         {
           "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
@@ -821,16 +821,22 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+          "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+        },
+        {
           "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
           "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
         },
         {
-          "headline": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia",
-          "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/23/heres-where-we-stand-on-amd-shares-after-jensen-huangs-return-to-nvidia-.html"
+          "headline": "Nvidia reinstates Jensen Huang as CEO",
+          "summary": "Nvidia said Monday that it has restored Jensen Huang as the chipmaker's chief executive, calling him the \"right person\" to lead the company.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-reinstates-jensen-huang-ceo/"
         },
         {
           "headline": "Small US trucking firms scramble to survive mounting diesel costs",
@@ -843,12 +849,6 @@
           "summary": "Jill Schlesinger joins \"CBS Mornings\" to discuss recent stock market shifts and how they impact your wallet.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/money-tips-for-managing-stock-market-woes/"
-        },
-        {
-          "headline": "Crowdstrike to acquire Zscaler in $44B deal that would create a cybersecurity giant",
-          "summary": "CrowdStrike is acquiring cloud security company Zscaler in an all-stock deal valued at about $43.9 billion",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/crowdstrike-acquire-zscaler-44-billion-deal-create-cybersecurity-138373706"
         }
       ]
     },
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "How far did Arkansas basketball fall in latest USA TODAY Coaches Poll?",
-          "summary": "Arkansas basketball dropped out of the latest USA TODAY Coaches Poll after a 1-1 week. The Razorbacks (4-2) are unranked in the poll that was released Monday, Nov.",
+          "headline": "The Mets got Tarik Skubal. Does that make them a good baseball team?",
+          "summary": "“Money can't buy you happiness, but it does bring you a more pleasant form of misery.\" — Spike Milligan, Irish comedian When hedge fund titan Steven A. Cohen purchased the New York Mets in November 2020, everything and nothing at all changed for the perennially budget-conscious franchise.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/far-did-arkansas-basketball-fall-174618249.html"
+          "url": "https://sports.yahoo.com/mlb/article/the-mets-got-tarik-skubal-does-that-make-them-a-good-baseball-team-180205665.html"
         },
         {
-          "headline": "LSU's MiLaysia Fulwiley rejoins women's basketball team after arrest",
-          "summary": "LSU senior guard MiLaysia Fulwiley has rejoined the team and will be available for the ninth-ranked Tigers’ game against Belmont on Monday night, the university confirmed on Monday. Fulwiley had missed LSU’s previous two games following an arrest on Nov.",
+          "headline": "Michigan no longer having a ‘Beat Ohio’ practice period shows Kyle Whittingham’s out of touch",
+          "summary": "EUGENE, OREGON - NOVEMBER 14: Head Coach Kyle Whittingham of the Michigan Wolverines runs off the field at halftime during the game against the Oregon Ducks at Autzen Stadium on November 14, 2026 in Eugene, Oregon. (Photo by Ali Gradischer/Getty Images) | Getty Images Michigan was coming off a 2-4 2020 season, the worst of the Jim Harbaugh era.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lsus-milaysia-fulwiley-rejoins-womens-174606373.html"
+          "url": "https://sports.yahoo.com/articles/michigan-no-longer-having-beat-180129161.html"
         },
         {
-          "headline": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
-          "summary": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 25th managerial appointment on his watch.",
+          "headline": "Predicting MLB's next mega contracts: Paul Skenes, Junior Caminero, James Wood and more in line to get paid",
+          "summary": "After Tarik Skubal's nine-year, $450 million deal, who's next to break the bank?",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/mlb/news/predicting-mlb-next-mega-contracts-paul-skenes-junior-caminero-james-wood-elly-de-la-cruz/"
+        },
+        {
+          "headline": "England's Freeman in contention for All Blacks rematch",
+          "summary": "England wing Tommy Freeman is in contention for Saturday's Nations Championship play-off meeting with New Zealand.",
           "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y1qpnp2lpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Jayden Daniels on relationship with fellow LSU alum Joe Burrow amid jersey number complaint",
-          "summary": "Daniels and Burrow meet for the second time on 'Monday Night Football'",
+          "headline": "NFL Week 11 losers, plus grades for every team and Bengals-Commanders picks for Monday night",
+          "summary": "Here's everything you need to know about the NFL for Nov. 23",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/jayden-daniels-relationship-lsu-alum-joe-burrow-its-all-love-beef/"
-        },
-        {
-          "headline": "College Football Power Rankings: UCLA tumbles after first loss, Texas continues to rise",
-          "summary": "Six top 25 teams tumbled in a wild Week 12 that sent UCLA sliding down the board and knocked Ohio State completely out of the rankings ahead of rivalry week",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/college-football-power-rankings-week-13-2026/"
+          "url": "https://www.cbssports.com/"
         }
       ]
     },
@@ -893,28 +893,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "‘Gondhal’ Director Santosh Davakhar Talks Creating India’s 2027 Oscar Entry, the Films That Inspired Him and More",
-          "summary": "India’s official selection for the 2027 Academy Awards is “Gondhal,” the debut feature film from director Santosh Davakhar. Following a screening of the film, Davakhar sat down with Variety‘s Jazz Tangcay to discuss creating his debut, the Oscar movies that inspired him and the Indian heritage he wants to share through the film.",
+          "headline": "‘Way of the Warrior Kid’ Review: Chris Pratt Pulls Too Much Focus in a Conflicted Family Film",
+          "summary": "“Way of the Warrior Kid” tries to deliver two lessons for the price of one, but both shortchange the audience. Adapted from the book of the same name by retired Navy SEAL Jocko Willink, the film traces the dual journeys of a wounded veteran (Chris Pratt) and his bullied nephew (Jude Hill) over the course […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/gondhal-director-santosh-davakhar-india-oscar-entry-1236955103/"
+          "url": "https://variety.com/2026/film/reviews/way-of-the-warrior-kid-review-chris-pratt-1236956062/"
         },
         {
-          "headline": "BAFTA Film Awards Losing Headline Sponsor EE After 30 Years",
-          "summary": "The BAFTA Awards is losing its long-standing headline sponsor. Brit mobile and internet provider EE, which has sponsored the U.K.’s biggest film event for almost 30 years, is ending its partnership with the awards following the next ceremony in February 2027.",
+          "headline": "Steven Spielberg to Direct Paul Thomas Anderson-Penned ‘Heart in Winter,’ Set to Star Jessie Buckley, Cillian Murphy, Mark Rylance",
+          "summary": "Focus Features is developing the feature that is based on author Kevin Barry's 2024 Western novel.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-the-heart-in-winter-paul-thomas-anderson-1236761238/"
+        },
+        {
+          "headline": "Sandra Hüller To Be Honored With Spotlight Award At Palm Springs International Film Awards (EXCLUSIVE)",
+          "summary": "Sandra Hüller will receive the Spotlight Award for her performances in films including “Digger” and “Project Hail Mary” at this year’s Palm Springs International Film Festival, which runs from Jan. 8 to Jan.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/bafta-film-awards-losing-headline-sponsor-ee-1236956014/"
+          "url": "https://variety.com/2026/film/news/sandra-huller-spotlight-actress-psiff-1236955315/"
         },
         {
-          "headline": "Nominees for AARP Movies & TV for Grownups Awards Include Newly AARP-Eligible Andrew Scott and Keri Russell",
-          "summary": "Winners will be announced at a ceremony at the Beverly Wilshire in Beverly Hills on Jan. 9, 2027, which will be hosted by Jane Lynch and subsequently broadcast on PBS's Great Performances on Feb.",
+          "headline": "Shawn Levy’s 21 Laps Inks Overall Film Deal at Sony",
+          "summary": "The deal is for the the producing services of the prolific filmmaker's company, and does not encompass Levy's directing work.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/nominees-for-2027-aarp-movies-tv-for-grownups-awards-1236760553/"
-        },
-        {
-          "headline": "‘Focker In-Law’ Review: Ariana Grande Outshines Robert De Niro and Ben Stiller in an Otherwise Dire Fourth Installment",
-          "summary": "Skyler Gisondo, Eduardo Franco and Beanie Feldstein join returning cast members Owen Wilson, Blythe Danner and Teri Polo for the latest film in the hit comedy franchise.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/focker-in-law-review-ariana-grande-robert-de-niro-1236760021/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/shawn-levys-21-laps-overall-film-deal-at-sony-1236761214/"
         },
         {
           "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
@@ -929,16 +929,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Made By All Hires Ex-Spotter & Rolling Stone Exec Christina Tom",
-          "summary": "EXCLUSIVE: Leanne Perice’s indie creator management biz, Made By All, has a new senior exec in the ranks. Former Rolling Stone and Spotter Media exec Christina Tom has been appointed Executive Vice President and Head of Growth.",
+          "headline": "James Marsden-Led Apple Series ‘Disavowed’ Adds Four To Cast",
+          "summary": "EXCLUSIVE: Apple TV has rounded out the cast of Disavowed, its upcoming thriller series, adding Julia Jones (Dexter: New Blood, The Weight), Leila Farzad (I Hate Suzie, Two Weeks in August), Michael Landes (Cruel Summer, The Offer) and Pip Torrens (The Crown, War) in recurring roles. Character details are being kept under wraps.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/made-by-all-hires-christina-tom-creator-economy-1237231690/"
+          "url": "https://deadline.com/2026/11/james-marsden-disavowed-cast-apple-tv-julia-jones-1237231128/"
         },
         {
-          "headline": "Everything We Know About Amazon MGM & Sony Pictures TV’s ‘God Of War’ Adaptation So Far",
-          "summary": "Prime Video’s God of War video game adaptation has not gone on without some bumps in the road, but development on the show continues. First eyed for a TV series adaptation by the producing studios in March 2022, the casting for the show gained momentum at the beginning of January 2026 after some creative shuffling.",
+          "headline": "‘The Secret Lives of Mormon Wives: Orange County’ Renewed At Hulu For 20 More Episodes",
+          "summary": "Hulu is doubling down on its first Mormon Wives spinoff. The streamer has renewed The Secret Lives of Mormon Wives: Orange County for an additional 20 episodes.",
           "source": "Deadline",
-          "url": "https://deadline.com/feature/god-of-war-tv-show-adaptation-news-updates-amazon-sony-tv-1237049420/"
+          "url": "https://deadline.com/2026/11/the-secret-lives-of-mormon-wives-orange-county-renewed-hulu-1237231308/"
         },
         {
           "headline": "‘God of War’ Live-Action Series: Deborah Ann Woll to Reprise Faye Role From Video Games",
@@ -965,34 +965,34 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Donald Trump Puts Himself At Center Of Jensen Huang’s Reinstatement, Downplays “Sex Sells” Scandal Amid National Security Concerns",
+          "summary": "After a whirlwind of a morning of news coverage on the bombshell reinstatement of Jensen Huang as Nvidia CEO, Donald Trump posted a photo to his Truth Social account, replacing his image following the 2024 assassination attempt with that of the leader of the AI giant. In the doctored photo, it is Huang waving his […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/trump-jensen-huang-nvidia-scandal-1237231676/"
+        },
+        {
+          "headline": "UTA to Host Creators Summit For Next Generation of Agents",
+          "summary": "The summit follows UTA’s appointment of seven agents to its Creators Leadership Team, as well as its efforts to bring in the next generation of talent.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/uta-creators-summit-1236759971/"
+        },
+        {
+          "headline": "Made By All Hires Ex-Spotter & Rolling Stone Exec Christina Tom",
+          "summary": "EXCLUSIVE: Leanne Perice’s indie creator management biz, Made By All, has a new senior exec in the ranks. Former Rolling Stone and Spotter Media exec Christina Tom has been appointed Executive Vice President and Head of Growth.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/made-by-all-hires-christina-tom-creator-economy-1237231690/"
+        },
+        {
           "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
           "summary": "The Hollywood Chamber of Commerce has announced the programming for its 2026 Entertainment Industry Conference, presented by Variety, on Dec. 8, including the Commitment to California Award for “Hacks” creators and showrunners Paul W.",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/hacks-creators-to-earn-commitment-to-california-award-1236955188/"
         },
         {
-          "headline": "Comedian Peyton Ruddy Signs With Brillstein Entertainment Partners",
-          "summary": "EXCLUSIVE: Comedian Peyton Ruddy has signed with Brillstein Entertainment Partners for representation in all areas. A rising star in the stand-up space, Ruddy was selected as a New Face in the stand-up category of this year’s Just For Laughs comedy festival in Montreal and was recently announced as one of The Breakouts for this year’s […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/peyton-ruddy-signs-brillstein-entertainment-partners-1237229652/"
-        },
-        {
           "headline": "UTA to Unite Businesses at New London Headquarters in 2027",
           "summary": "Bringing UTA, Curtis Brown and ROOF together at a new location \"represents our commitment to our U.K. presence,\" says Darnell Strom, head of UTA’s U.K.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/uta-new-london-headquarters-one-rathbone-square-2027-1236760955/"
-        },
-        {
-          "headline": "Democratic National Committee Plans 12 Presidential Primary Debates Starting In June",
-          "summary": "The 2028 presidential race will be in full swing likely by early next year, and on Monday, the Democratic National Committee announced its plans for a dozen primary debates, starting in June. No TV or streaming partner has been announced, but hosting the first debate, or any other, is the source of much competition between […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/democratic-primary-debates-2028-1237231530/"
-        },
-        {
-          "headline": "Monét X Change’s ‘Monét Talks’ Podcast Added to Libsyn’s Hosting, Ad Roster (Exclusive)",
-          "summary": "The agreement builds upon the 'RuPaul's Drag Race' star's relationship with Libsyn after she and Bob the Drag Queen signed a multiyear partnership tied to their 'Sibling Rivalry' podcast earlier this year.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/digital/monet-x-change-libsyn-monet-talks-podcast-1236760443/"
         }
       ]
     },
@@ -1001,37 +1001,37 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Every Year Where All Grammy Record of the Year Nominees Were No. 1 Hits",
+          "summary": "Six of the eight record of the year nominees for the 2027 Grammys are or were top 10 hits on the Billboard Hot 100. Two had long runs at No.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/grammy-nominees-record-of-the-year-number-one-hits-hot-100/"
+        },
+        {
+          "headline": "Billboard Hot 100 Top 10 Countdown for Nov. 28, 2026 | Billboard News",
+          "summary": "The holiday season kicks off on the Billboard Hot 100 top 10, with Mariah Carey’s “All I Want for Christmas Is You,” Wham!’s “Last Christmas” and more, but will any of the holiday classics topple Ella Langley from No. 1?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-november-28-2026/"
+        },
+        {
+          "headline": "D’Angelo, Belle and Sebastian, and More: This Week’s Pitchfork Selects Playlist",
+          "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/dangelo-belle-and-sebastian-and-more-this-weeks-pitchfork-selects-playlist/"
+        },
+        {
           "headline": "Previously Unseen Footage of Led Zeppelin at Madison Square Garden Surfaces After 49 Years",
           "summary": "A 17-year-old fan snuck a Super 8 camera into the New York arena in 1977 by stuffing it into his jacket, and Zeppelin fans worldwide owe him a debt of gratitude",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/led-zeppelin-madison-square-garden-49-years-1235662709/"
         },
         {
-          "headline": "Watch Charli D’Amelio Nail KATSEYE’s ‘Gabriela’ Dance With Group During Concert: ‘I’m an EYEKON’",
-          "summary": "If KATSEYE ever needs another member, they know where to find Charli D’Amelio. The TikToker proved her EYEKON status on Sunday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/katseye-daniela-charli-damelio-gabriela-dance-show-video-1236387775/"
-        },
-        {
           "headline": "D’Angelo’s ‘GTA VI’ Song ‘Kamikaze’ Released as Brother Teases Future Posthumous Songs",
           "summary": "\"We look forward to sharing more of my brother’s legacy with you,\" Luther Archer Jr. said",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/dangelos-gta-vi-kamikaze-brother-new-music-1235662740/"
-        },
-        {
-          "headline": "Travis Scott, Slayyyter, Offset, Anitta & More Power ‘Grand Theft Auto VI: The Album’ Deluxe Edition: Stream It Now",
-          "summary": "Three days after releasing the 34-track Grand Theft Auto VI: The Album , there is now a deluxe edition. Released via Atlantic Records on Monday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/gta-6-album-deluxe-offset-travis-scott-slayyyter-anitta-1236387752/"
-        },
-        {
-          "headline": "Travis Scott, Slayyyter, the Dare Feature on Deluxe GTA VI Soundtrack",
-          "summary": "The new version features 23 more songs, including contributions from Overmono and 21 Savage",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-23T12:50:32-05:00"
+  "updatedAt": "2026-11-23T13:11:48-05:00"
 }
