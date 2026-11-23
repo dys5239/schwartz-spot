@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+          "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses…",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+        },
+        {
           "headline": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
           "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
-        },
-        {
-          "headline": "Anthropic shares jump in Nasdaq trading debut after record IPO",
-          "summary": "Anthropic raised a record $81.3 billion, catapulting it past SpaceX, which raised $75 billion​ when it went public in June.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
         }
       ]
     },
@@ -42,16 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Democrats announce 12 debates starting in June for 2028 race",
-          "summary": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
+          "headline": "U.S. man convicted of killing U.K. woman he met on fetish website",
+          "summary": "Dwain Hall was found guilty of kidnapping and murdering Sonia Exelby, and was sentenced to two consecutive life terms, Florida prosecutors said.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/"
-        },
-        {
-          "headline": "Pip assessments need 'fundamental overhaul', report to say",
-          "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cbsnews.com/news/dwain-hall-convicted-sonia-exelby-murder-florida/"
         },
         {
           "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
@@ -61,15 +55,21 @@
         },
         {
           "headline": "Stock market rebounds sharply after sell-off, Nvidia soars",
-          "summary": "The major stock indexes rebounded sharply at the open of trading on Monday as Nvidia shares soared more than 25%.",
+          "summary": "The major stock indexes rebounded sharply on Monday as Nvidia shares soared more than 30% after the company announced the reinstatement of Jensen Huang as CEO.",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790"
         },
         {
-          "headline": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
-          "summary": "The European Commission has proposed new sanctions against Russia, targeting banks, crypto platforms, and sporting teams competing under the Russian flag",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150"
+          "headline": "US rapper Don Toliver postpones O2 arena show after Manchester evacuation",
+          "summary": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Pip assessments need 'fundamental overhaul', report to say",
+          "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -79,6 +79,106 @@
       "stories": [],
       "posts": [
         {
+          "id": "2124935654467309698",
+          "created_at": "2026-11-23T18:38:34.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "The irony of the CEO of one of the most powerful AI companies reportedly suggesting video games as a way to keep people entertained after AI takes their jobs is absolutely insane.\n\nWe're talking about a future where a handful of AI companies could capture trillions of dollars in https://t.co/VA4YwUCOW8",
+          "url": "https://x.com/_Investinq/status/2124935654467309698",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124935394248589339",
+          "created_at": "2026-11-23T18:37:32.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Me waiting for Thanksgiving dinner like…. https://t.co/JvYcECjNZN",
+          "url": "https://x.com/Outkick/status/2124935394248589339",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124935142292750661",
+          "created_at": "2026-11-23T18:36:31.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Trump says he personally convinced the $NVDA board to bring Jensen Huang back as CEO\n\n\"I spoke to them, let me put it that way, and I convinced them,\" Trump told CNBC, adding \"I made the deal\" and \"I believe my intervention was very important\"\n\nBloomberg reports the board https://t.co/OrSB61oKR0",
+          "url": "https://x.com/_Investinq/status/2124935142292750661",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124934491722440836",
+          "created_at": "2026-11-23T18:33:56.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "FINAL TRAILER FOR AVENGERS: DOOMSDAY IS OUT  https://t.co/YFQRRsHEFk",
+          "url": "https://x.com/Outkick/status/2124934491722440836",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124932272063475909",
+          "created_at": "2026-11-23T18:25:07.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "UPDATE: THE GROUND STOP HAS BEEN LIFTED\n\nhttps://t.co/HleOeiB1y1",
+          "url": "https://x.com/RealAmVoice/status/2124932272063475909",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124932149790798291",
+          "created_at": "2026-11-23T18:24:38.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Today marks one year since an Israeli strike in Beirut's Dahiya district killed Haytham Ali Tabatabai, Hezbollah's former chief of staff. Hezbollah is commemorating the anniversary.\n\nAl Mayadeen aired new footage of him for the occasion. In it, Tabatabai, who was responsible for https://t.co/aaxxjfHy1t https://t.co/jBk0OrLlvc",
+          "url": "https://x.com/Osint613/status/2124932149790798291",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124930812546294055",
+          "created_at": "2026-11-23T18:19:19.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: FAA GROUND STOPS flights to Chicago O’Hare due to STAFFING SHORTAGE \n\n\"The FAA says delays are averaging 48 minutes, and hitting up to 82, though an extension isn’t expected.\"\n\nhttps://t.co/zEntmX5wRF",
+          "url": "https://x.com/RealAmVoice/status/2124930812546294055",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124930239482757468",
+          "created_at": "2026-11-23T18:17:03.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "JUST IN:\n\nAfter widespread outrage and concern about possible toxic plume clouds and lead contamination and lead poisoning, President Trump just said the scheduled detonation of a lead bomb in Iowa that was supposed to take place while overseen by the US Army on Wednesday, the https://t.co/a7jjuzHWyC https://t.co/NhB8pxqd3d",
+          "url": "https://x.com/LauraLoomer/status/2124930239482757468",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124929585569579273",
+          "created_at": "2026-11-23T18:14:27.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jensen Huang got a call from President Herzog congratulating him on his return as Nvidia CEO.\n\nHuang told him he was moved and plans to make the most of his second chance.\n\nHerzog thanked him for standing with Israel.",
+          "url": "https://x.com/Osint613/status/2124929585569579273",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124928836144103532",
+          "created_at": "2026-11-23T18:11:28.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IDF Chief of Staff Zamir:\n\n“There is no urgent need to attack Iran but we will soon. The IDF is monitoring the threats: land-based missiles, nuclear weapons, and activities related to unconventional weapons.” https://t.co/wP8pTwGDBd",
+          "url": "https://x.com/Osint613/status/2124928836144103532",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2124927640016715891",
           "created_at": "2026-11-23T18:06:43.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -87,16 +187,6 @@
           "url": "https://x.com/RealAmVoice/status/2124927640016715891",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124927350148378821",
-          "created_at": "2026-11-23T18:05:34.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The 2026 White House Christmas tree has arrived and was formally received by First Lady Melania Trump. https://t.co/Fdmf6zE8tS",
-          "url": "https://x.com/Osint613/status/2124927350148378821",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124926664002130033",
@@ -169,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124921259746361680",
-          "created_at": "2026-11-23T17:41:22.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Major General Izadi, deputy commander-in-chief of the IRGC: The United States is looking for a way to get out of the war. https://t.co/u6FKoSuzJZ",
-          "url": "https://x.com/Osint613/status/2124921259746361680",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124920485825978577",
           "created_at": "2026-11-23T17:38:17.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -209,32 +289,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124918155000869347",
-          "created_at": "2026-11-23T17:29:01.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@FLOTUS comes out to greet the horse and carriage with this years White House Christmas Tree. https://t.co/vpKx5fpa0W",
-          "url": "https://x.com/RealAmVoice/status/2124918155000869347",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124917923391443211",
           "created_at": "2026-11-23T17:28:06.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world. https://t.co/OmFAlwsmh4",
           "url": "https://x.com/elonmusk/status/2124917923391443211",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124917474143736186",
-          "created_at": "2026-11-23T17:26:19.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "FlyDubai cleared to fly between Israel and the UAE again, subject to security approval.\n\nIsrael's Transport Ministry signed off after officials flew to the UAE and inspected changes the airline made following last month's attempted hijacking by a copilot. https://t.co/Vcsn82Hsj5",
-          "url": "https://x.com/Osint613/status/2124917474143736186",
           "verified": true,
           "verified_type": "blue"
         },
@@ -247,26 +307,6 @@
           "url": "https://x.com/ClayTravis/status/2124917263036026931",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124916055873368504",
-          "created_at": "2026-11-23T17:20:41.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "So this includes denouncing George Soros and Reid Hoffman, right? 🤣 https://t.co/vbmkq52VCj",
-          "url": "https://x.com/LauraLoomer/status/2124916055873368504",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124914402713567678",
-          "created_at": "2026-11-23T17:14:07.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "@FLOTUS This tree hails from the Chapman family in Wisconsin! It will serve as the official WH Christmas tree for 2026.",
-          "url": "https://x.com/RealAmVoice/status/2124914402713567678",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124913278329454765",
@@ -379,16 +419,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124899389089206444",
-          "created_at": "2026-11-23T16:14:27.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Doesn't feel like this was well thought out... https://t.co/uItlJMEJnD",
-          "url": "https://x.com/Outkick/status/2124899389089206444",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124897067588026719",
           "created_at": "2026-11-23T16:05:14.000Z",
           "author_name": "StockMarket.News",
@@ -425,16 +455,6 @@
           "author_handle": "_Investinq",
           "text": "Peel Hunt's Kallum Pickering says after two 5% drops in the Nasdaq, history puts the odds of a third in the same month above 70%\n\n\"History suggests that once you've had two 5% falls in the Nasdaq, the probability of a third one in the same month rises above 70%\"\n\n\"Some analysts https://t.co/2f2q8RXxrO",
           "url": "https://x.com/_Investinq/status/2124890750219653558",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124884458641977803",
-          "created_at": "2026-11-23T15:15:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Wharton's Jeremy Siegel says last week's rout was just leveraged momentum players unwinding, and a snapback is coming\n\n\"It's overdone. I mean, we're gonna certainly get a snapback\"\n\n\"There was nothing in the economic news. There was nothing in earnings. There was nothing that https://t.co/2rP0vRkLdr",
-          "url": "https://x.com/_Investinq/status/2124884458641977803",
           "verified": true,
           "verified_type": "blue"
         },
@@ -485,16 +505,6 @@
           "author_handle": "elonmusk",
           "text": "The mistake has been corrected https://t.co/UKvEng9rCD",
           "url": "https://x.com/elonmusk/status/2124875939133751684",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124875291692826876",
-          "created_at": "2026-11-23T14:38:42.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "$NVDA just added roughly $850 billion in market value in a single morning after its board unanimously reinstated Jensen Huang as CEO\n\nThat is nearly double the biggest one-day gain in market history, $MSFT's $449.9 billion on July 30\n\nShares jumped as much as 33% to $167.17 from https://t.co/ActR3QXp4U",
-          "url": "https://x.com/_Investinq/status/2124875291692826876",
           "verified": true,
           "verified_type": "blue"
         },
@@ -557,16 +567,6 @@
           "url": "https://x.com/glennbeck/status/2124865035013128544",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124858899685613650",
-          "created_at": "2026-11-23T13:33:34.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Kirk Cousins was not happy with the Vikings last night 😳 https://t.co/woJgWADjfN",
-          "url": "https://x.com/Outkick/status/2124858899685613650",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124851627572007333",
@@ -679,12 +679,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2124467552441012653",
-          "created_at": "2026-11-22T11:38:29.000Z",
+          "id": "2124467677859332290",
+          "created_at": "2026-11-22T11:38:59.000Z",
           "author_name": "SpaceX",
           "author_handle": "SpaceX",
-          "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the @NRO_gov’s NROL-136 mission from California → https://t.co/6fRVX7ogAD https://t.co/gxj8OLD54W",
-          "url": "https://x.com/SpaceX/status/2124467552441012653",
+          "text": "@NRO_gov About eight minutes after liftoff, Falcon 9’s first stage will return to Landing Zone 4 at Vandenberg Space Force Base, announcing its arrival with a sonic boom",
+          "url": "https://x.com/SpaceX/status/2124467677859332290",
           "verified": true,
           "verified_type": "business"
         },
@@ -729,26 +729,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2123787524468625791",
-          "created_at": "2026-11-20T14:36:18.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "“Grifting”…. by saying what I genuinely believe consistently https://t.co/DbKjR7cXZf",
-          "url": "https://x.com/MattWalshBlog/status/2123787524468625791",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2123786642532217212",
-          "created_at": "2026-11-20T14:32:48.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "I hadn’t even read this whole thread in detail. He really caught me being totally correct and predicting the mid terms blowout in March. This thread is the most flattering and vindicating hit piece I’ve ever seen. https://t.co/NNuiaN0J0e",
-          "url": "https://x.com/MattWalshBlog/status/2123786642532217212",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2123755931272093751",
           "created_at": "2026-11-20T12:30:46.000Z",
           "author_name": "Matt Walsh",
@@ -777,6 +757,26 @@
           "url": "https://x.com/MattWalshBlog/status/2123238776176800237",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2123212911640223945",
+          "created_at": "2026-11-19T00:33:00.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "It can be easy to forget that for the first maybe 220 years or so of this country’s history basically every politician at every level of government was, at the very least, an intelligent and relatively dignified grown up who would have rather died than ever be seen doing whatever https://t.co/1UOkXi9QSW",
+          "url": "https://x.com/MattWalshBlog/status/2123212911640223945",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2123205567728722236",
+          "created_at": "2026-11-19T00:03:49.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "This is funny because the pro-Iran War side exists almost exclusively online. You’ll rarely run into anyone in real life who wants this stupid war. The polls and election results prove that point. I’m basing my conclusion on hard data and actual real world results, unlike you. https://t.co/3wujEoioyW",
+          "url": "https://x.com/MattWalshBlog/status/2123205567728722236",
+          "verified": true,
+          "verified_type": "blue"
         }
       ]
     },
@@ -784,6 +784,12 @@
       "id": "politics",
       "title": "Politics",
       "stories": [
+        {
+          "headline": "Democrats announce 12 debates starting in June for 2028 race",
+          "summary": "In announcing the debate framework, DNC chair Ken Martin leaned heavily into one of his signature causes, ending dark money in politics.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/"
+        },
         {
           "headline": "Inside Trump's gala for $TRUMP meme coin buyers",
           "summary": "Over 150 of the largest buyers of the meme coin $TRUMP attended the gala at Trump National Golf Club in Virginia.",
@@ -795,12 +801,6 @@
           "summary": "The Philadelphia Eagles snapped a seven-game losing streak with a win over the Pittsburgh Steelers",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/eagles-compare-november-win-thrill-super-bowl-victory-138379921"
-        },
-        {
-          "headline": "Trump says he convinced Nvidia board to reinstate Jensen Huang",
-          "summary": "President Trump claimed the government \"has no reason to believe\" Jensen Huang's return is a national security risk.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/"
         },
         {
           "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
@@ -821,16 +821,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+          "summary": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans like 401(k)s.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html"
+        },
+        {
           "headline": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
           "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
-        },
-        {
-          "headline": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
-          "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
         },
         {
           "headline": "Nvidia reinstates Jensen Huang as CEO",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "The Mets got Tarik Skubal. Does that make them a good baseball team?",
-          "summary": "“Money can't buy you happiness, but it does bring you a more pleasant form of misery.\" — Spike Milligan, Irish comedian When hedge fund titan Steven A. Cohen purchased the New York Mets in November 2020, everything and nothing at all changed for the perennially budget-conscious franchise.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/article/the-mets-got-tarik-skubal-does-that-make-them-a-good-baseball-team-180205665.html"
-        },
-        {
-          "headline": "Michigan no longer having a ‘Beat Ohio’ practice period shows Kyle Whittingham’s out of touch",
-          "summary": "EUGENE, OREGON - NOVEMBER 14: Head Coach Kyle Whittingham of the Michigan Wolverines runs off the field at halftime during the game against the Oregon Ducks at Autzen Stadium on November 14, 2026 in Eugene, Oregon. (Photo by Ali Gradischer/Getty Images) | Getty Images Michigan was coming off a 2-4 2020 season, the worst of the Jim Harbaugh era.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/michigan-no-longer-having-beat-180129161.html"
-        },
-        {
-          "headline": "Predicting MLB's next mega contracts: Paul Skenes, Junior Caminero, James Wood and more in line to get paid",
-          "summary": "After Tarik Skubal's nine-year, $450 million deal, who's next to break the bank?",
+          "headline": "College basketball rankings: Duke tumbles after second loss, Houston surges to No. 1 in Coaches Poll",
+          "summary": "The Blue Devils got handled at home by Illinois, while the Cougars notched two big wins over Florida and Kansas in the Players Era in Las Vegas",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/predicting-mlb-next-mega-contracts-paul-skenes-junior-caminero-james-wood-elly-de-la-cruz/"
+          "url": "https://www.cbssports.com/college-basketball/news/coaches-poll-rankings-duke-tumbles-houston-surges/"
         },
         {
-          "headline": "England's Freeman in contention for All Blacks rematch",
-          "summary": "England wing Tommy Freeman is in contention for Saturday's Nations Championship play-off meeting with New Zealand.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm5y1qpnp2lpo?at_medium=RSS&at_campaign=rss"
+          "headline": "FIFA picks US to co-host 2031 Women's World Cup and UK for 2035 edition",
+          "summary": "The United States will co-host the 2031 Women's World Cup with Mexico, Costa Rica, and Jamaica",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/fifa-set-pick-us-led-bid-2031-womens-138371825"
         },
         {
-          "headline": "NFL Week 11 losers, plus grades for every team and Bengals-Commanders picks for Monday night",
-          "summary": "Here's everything you need to know about the NFL for Nov. 23",
+          "headline": "2026 UFC event schedule: Israel Adesanya vs. Shara Magomedov, Charles Oliveira vs. Diego Lopes on tap",
+          "summary": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/"
+          "url": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-israel-adesanya-shara-magomedov-charles-oliveira-diego-lopes/"
+        },
+        {
+          "headline": "Dodgers sign $33 million often-injured ex-Angels reliever",
+          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/dodgers-sign-33-million-often-183403438.html"
+        },
+        {
+          "headline": "Where did LSU basketball land in latest USA TODAY Coaches Poll?",
+          "summary": "LSU basketball has moved up two spots in the latest USA TODAY Coaches Poll after going 2-0 last week. The Tigers (6-0) are No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/where-did-lsu-basketball-land-183313785.html"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "For Yahya Abdul-Mateen II, ‘Cliff Booth’ Closes Out a Massive Year in Wild Style",
+          "summary": "The Emmy winner makes a meal of his supporting role in David Fincher's anticipated stand-alone sequel, which should come as no surprise: The actor has been delivering memorable performances all year long.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/yahya-abdul-mateen-ii-cliff-booth-feature-1236761149/"
+        },
         {
           "headline": "‘Way of the Warrior Kid’ Review: Chris Pratt Pulls Too Much Focus in a Conflicted Family Film",
           "summary": "“Way of the Warrior Kid” tries to deliver two lessons for the price of one, but both shortchange the audience. Adapted from the book of the same name by retired Navy SEAL Jocko Willink, the film traces the dual journeys of a wounded veteran (Chris Pratt) and his bullied nephew (Jude Hill) over the course […]",
@@ -909,12 +915,6 @@
           "summary": "Sandra Hüller will receive the Spotlight Award for her performances in films including “Digger” and “Project Hail Mary” at this year’s Palm Springs International Film Festival, which runs from Jan. 8 to Jan.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/sandra-huller-spotlight-actress-psiff-1236955315/"
-        },
-        {
-          "headline": "Shawn Levy’s 21 Laps Inks Overall Film Deal at Sony",
-          "summary": "The deal is for the the producing services of the prolific filmmaker's company, and does not encompass Levy's directing work.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/shawn-levys-21-laps-overall-film-deal-at-sony-1236761214/"
         },
         {
           "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
@@ -965,6 +965,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Untitled Signs ‘The Hunting Wives,’ ‘I Will Find You’ Director Maggie Kiley",
+          "summary": "EXCLUSIVE: Maggie Kiley, a director on the popular Netflix series The Hunting Wives and I Will Find You, has signed with Untitled for representation in all areas. Recently, Kiley directed the Season 2 premiere and two additional episodes of The Hunting Wives, an adaptation of the May Cobb novel which returns on November 26.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/maggie-kiley-hunting-wives-signs-untitled-1237231737/"
+        },
+        {
           "headline": "Donald Trump Puts Himself At Center Of Jensen Huang’s Reinstatement, Downplays “Sex Sells” Scandal Amid National Security Concerns",
           "summary": "After a whirlwind of a morning of news coverage on the bombshell reinstatement of Jensen Huang as Nvidia CEO, Donald Trump posted a photo to his Truth Social account, replacing his image following the 2024 assassination attempt with that of the leader of the AI giant. In the doctored photo, it is Huang waving his […]",
           "source": "Deadline",
@@ -975,12 +981,6 @@
           "summary": "The summit follows UTA’s appointment of seven agents to its Creators Leadership Team, as well as its efforts to bring in the next generation of talent.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/uta-creators-summit-1236759971/"
-        },
-        {
-          "headline": "Made By All Hires Ex-Spotter & Rolling Stone Exec Christina Tom",
-          "summary": "EXCLUSIVE: Leanne Perice’s indie creator management biz, Made By All, has a new senior exec in the ranks. Former Rolling Stone and Spotter Media exec Christina Tom has been appointed Executive Vice President and Head of Growth.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/made-by-all-hires-christina-tom-creator-economy-1237231690/"
         },
         {
           "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
@@ -1001,16 +1001,22 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Every Year Where All Grammy Record of the Year Nominees Were No. 1 Hits",
-          "summary": "Six of the eight record of the year nominees for the 2027 Grammys are or were top 10 hits on the Billboard Hot 100. Two had long runs at No.",
+          "headline": "The Longest-Leading Billboard Hot 100 No. 1s: ‘Choosin’ Texas’ & More",
+          "summary": "Beginning with Debby Boone’s “You Light Up My Life” in 1977, a relatively select few smashes have led the Billboard Hot 100 for at least 10 weeks. How few?",
           "source": "Billboard",
-          "url": "https://www.billboard.com/lists/grammy-nominees-record-of-the-year-number-one-hits-hot-100/"
+          "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/"
         },
         {
-          "headline": "Billboard Hot 100 Top 10 Countdown for Nov. 28, 2026 | Billboard News",
-          "summary": "The holiday season kicks off on the Billboard Hot 100 top 10, with Mariah Carey’s “All I Want for Christmas Is You,” Wham!’s “Last Christmas” and more, but will any of the holiday classics topple Ella Langley from No. 1?",
+          "headline": "Tems Is Starting a New Era & Manifesting Her ‘Miracle’ Collab",
+          "summary": "It’s the morning after the release of Grand Theft Auto VI , and Tems still hasn’t gotten around to playing the game. Not for a lack of interest, though: While the typically press-shy singer-songwriter is eager to immerse herself in the pop culture phenomenon, her increasingly hectic schedule has kept her from joining the frenzy.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-november-28-2026/"
+          "url": "https://www.billboard.com/music/rb-hip-hop/tems-children-of-blood-and-bone-frank-ocean-interview-1236387710/"
+        },
+        {
+          "headline": "Phoebe Bridgers Sets More Planetarium Listening Parties for Lost Weekend",
+          "summary": "Stargazers of North America, Europe, and Australasia, unite",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/phoebe-bridgers-sets-more-planetarium-listening-parties-for-lost-weekend/"
         },
         {
           "headline": "D’Angelo, Belle and Sebastian, and More: This Week’s Pitchfork Selects Playlist",
@@ -1020,18 +1026,12 @@
         },
         {
           "headline": "Previously Unseen Footage of Led Zeppelin at Madison Square Garden Surfaces After 49 Years",
-          "summary": "A 17-year-old fan snuck a Super 8 camera into the New York arena in 1977 by stuffing it into his jacket, and Zeppelin fans worldwide owe him a debt of gratitude",
+          "summary": "A 17-year-old fan sneaked a Super 8 camera into the New York arena in 1977 by stuffing it into his jacket, and Zeppelin fans worldwide owe him a debt of gratitude",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/led-zeppelin-madison-square-garden-49-years-1235662709/"
-        },
-        {
-          "headline": "D’Angelo’s ‘GTA VI’ Song ‘Kamikaze’ Released as Brother Teases Future Posthumous Songs",
-          "summary": "\"We look forward to sharing more of my brother’s legacy with you,\" Luther Archer Jr. said",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/dangelos-gta-vi-kamikaze-brother-new-music-1235662740/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-23T13:11:48-05:00"
+  "updatedAt": "2026-11-23T13:43:08-05:00"
 }
