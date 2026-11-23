@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
+          "summary": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
           "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
           "source": "BBC News",
@@ -60,12 +66,6 @@
           "url": "https://www.cbsnews.com/news/natural-gas-pipeline-fire-ward-alabama/"
         },
         {
-          "headline": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-          "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "What it's like at a climate conference as talks collapse",
           "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
           "source": "NPR",
@@ -79,12 +79,62 @@
       "stories": [],
       "posts": [
         {
-          "id": "2124649435485385137",
-          "created_at": "2026-11-22T23:41:14.000Z",
+          "id": "2124656564141191502",
+          "created_at": "2026-11-23T00:09:33.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The officials ruled this Parker Washington touchdown as incomplete: https://t.co/TRkndPfSnP",
+          "url": "https://x.com/SportNState/status/2124656564141191502",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124654145340948565",
+          "created_at": "2026-11-22T23:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP RETURNS FROM XI-PUTIN SUMMIT, OWENS CARLSON DRAMA EXPLODES | SMACKDOWN WITH DARRELL SCOTT https://t.co/51VppUJ6Lp",
+          "url": "https://x.com/RealAmVoice/status/2124654145340948565",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124653970992124191",
+          "created_at": "2026-11-22T23:59:15.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "U.S. President Donald Trump:\n\n\"As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have, and two, that the Islamic Republic of Iran, which has https://t.co/WoBq5qtAIA",
+          "url": "https://x.com/Osint613/status/2124653970992124191",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124651903493853379",
+          "created_at": "2026-11-22T23:51:02.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
-          "text": "Welcome to the league Fernando Mendoza 🫡 https://t.co/CNKy26ZXUp",
-          "url": "https://x.com/Outkick/status/2124649435485385137",
+          "text": "Malik Nabers cooked his man https://t.co/87fY9VoTgd",
+          "url": "https://x.com/Outkick/status/2124651903493853379",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124651140247941573",
+          "created_at": "2026-11-22T23:48:00.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "“Trevor Lawrence who” https://t.co/Qlz1jzzxi1",
+          "url": "https://x.com/Outkick/status/2124651140247941573",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124650165911060561",
+          "created_at": "2026-11-22T23:44:08.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "WELCOME TO THE LEAGUE, FERNANDO MENDOZA! 🔥 https://t.co/4czcYSyL5X",
+          "url": "https://x.com/Outkick/status/2124650165911060561",
           "verified": true,
           "verified_type": "business"
         },
@@ -269,16 +319,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124632013080781247",
-          "created_at": "2026-11-22T22:32:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Steelers WR DK Metcalf left Lincoln Field while the game was still going on 😂\n\nMetcalf was ejected during the third quarter of Sunday's 19-16 loss to the Philadelphia Eagles.  https://t.co/8tYZJTziaW",
-          "url": "https://x.com/SportNState/status/2124632013080781247",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124630393001496673",
           "created_at": "2026-11-22T22:25:34.000Z",
           "author_name": "Open Source Intel",
@@ -327,16 +367,6 @@
           "url": "https://x.com/Osint613/status/2124626103973323099",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124625660073152569",
-          "created_at": "2026-11-22T22:06:45.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "John Harbaugh is feeling it 🔥 https://t.co/K1js208w9g",
-          "url": "https://x.com/Outkick/status/2124625660073152569",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124625093016068359",
@@ -417,36 +447,6 @@
           "url": "https://x.com/elonmusk/status/2124619599882920139",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124618570240061641",
-          "created_at": "2026-11-22T21:38:35.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "President Trump: \n\nThe Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” on November 3rd. \n\nNASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are “BAD” due to their Anti Growth, and Retribution Only, Policies, and",
-          "url": "https://x.com/Osint613/status/2124618570240061641",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124618437913653328",
-          "created_at": "2026-11-22T21:38:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🔥 AOC’S $12,000 LUXURY GERMANY TRIP RAISES EYEBROWS!\n\nThe self-described champion of the working class reportedly spent $12,024 in campaign funds on a Germany trip, including $8,600+ at luxury hotels and a premium driving service.\n\nThe New York Post reports the spending occurred https://t.co/QB1diYKVb2",
-          "url": "https://x.com/RealAmVoice/status/2124618437913653328",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124616742932504622",
-          "created_at": "2026-11-22T21:31:19.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Cam Ward didn’t know what he wanted to do  https://t.co/JA9ZeInA5J",
-          "url": "https://x.com/Outkick/status/2124616742932504622",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124614639409606954",
@@ -847,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Jaguars have to burn a challenge vs. Giants when replay assist incorrectly moves a first-down spot short",
-          "summary": "NFL’s replay assist system is intended to quickly correct obvious missed calls on the field so coaches don’t have to challenge them. During Sunday’s game between the New York Giants and Jacksonville Jaguars, it had the exact opposite effect.",
+          "headline": "Steelers coach does not rule out punishment for DK Metcalf after ejection",
+          "summary": "Nov 22, 2026; Philadelphia, Pennsylvania, USA; Pittsburgh Steelers wide receiver DK Metcalf (4) is ejected from the game during the fourth quarter at Lincoln Financial Field. Mandatory Credit: Eric Hartline-Imagn Images Pittsburgh Steelers wide receiver DK Metcalf was ejected in the third quarter of Sunday’s 19-16 loss to the Philadelphia Eagles after…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/jaguars-have-to-burn-a-challenge-vs-giants-when-replay-assist-incorrectly-moves-a-first-down-spot-short-233550145.html"
+          "url": "https://sports.yahoo.com/articles/steelers-coach-does-not-rule-000354455.html"
         },
         {
-          "headline": "We ask AI to predict wins and losses for the rest of the Steelers schedule",
-          "summary": "Since we previously asked Google AI to predict the Pittsburgh Steelers ' wins and losses for the final nine games , the team has lost two in a row and looks like a team with no direction. This team looks nothing like the squad that was sitting at 6-2 so we expected some changes.",
+          "headline": "49ers Week 11 inactives",
+          "summary": "San Francisco 49ers offensive lineman Enrique Cruz, linebacker Dre Greenlaw (neck), defensive end Khalid Kareem, wide receiver Demarcus Robinson and quarterback Kurtis Rourke (emergency - third quarterback) are inactive for the Week 11 game against the Minnesota Vikings in Mexico City. SOURCE: NBC Sports Bay Area - Matt Maiocco This article originally…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ask-ai-predict-wins-losses-233344609.html"
+          "url": "https://sports.yahoo.com/articles/49ers-week-11-inactives-000232421.html"
+        },
+        {
+          "headline": "Did Liverpool 'get lucky' with red card decision?",
+          "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "How 'outstanding' Tzolakis kept Brighton at bay",
+          "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+          "source": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "DK Metcalf's bad season just got worse. What happens now for Steelers embattled receiver?",
           "summary": "It's safe for Metcalf to be considered the worst trade acquisition in Steelers history. Now he faces a possible suspension and an uncertain future in Pittsburgh",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/nfl/news/what-happens-now-steelers-embattled-receiver-dk-metcalf/"
-        },
-        {
-          "headline": "Week 11 overreactions: Jesse Minter one-and-done? Offensive Player of the Year award winner emerging?",
-          "summary": "Plus, the Steelers are once again facing a familiar end to their season",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/week-11-overreactions-jesse-minter-one-and-done-offensive-player-year-award-winner-emerging/"
-        },
-        {
-          "headline": "Thitikul wins third title in a row at LPGA finale",
-          "summary": "World number two Jeeno Thitikul produces a seven-under final round of 65 to claim a third successive CME Group Tour Championship title.",
-          "source": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/golf/articles/ckjwjvwexd12o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22T18:43:01-05:00"
+  "updatedAt": "2026-11-22T19:10:47-05:00"
 }
