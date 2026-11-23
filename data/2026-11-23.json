@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "'People were screaming in pain' during Co-op Live evacuation",
+          "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" after \"some smoke\" went off in Co-op Live.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmgqx3ve732jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Flights and train services cancelled in Belgium due to strike",
+          "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "A timeline of the Karen Read case",
+          "summary": "Here's a look at how events have unfolded in the Karen Read case.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/"
+        },
+        {
+          "headline": "7 common travel emergencies not covered by travel insurance",
+          "summary": "Some emergencies seem like they'll obviously be covered by travel insurance, but the exceptions may surprise you.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/common-emergencies-not-covered-travel-insurance/"
+        },
+        {
           "headline": "Ukrainian naval drones sank Russia's Merkury warship in Libya, Zelenskyy confirms",
           "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Monday morning that Kyiv was responsible for the sinking of a Russian warship docked in the Libyan port of Benghazi.",
           "source": "ABC News",
           "url": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738"
-        },
-        {
-          "headline": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-          "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-          "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
-        },
-        {
-          "headline": "Zelenskyy says Ukraine sank Russian warship off Libya's coast",
-          "summary": "Ukrainian President Volodymyr Zelenskyy said his country was behind attacks that sank a Russian warship and damaged a sanctioned cargo vessel off Libya.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ukraine-zelenskyy-2-russian-ships-libya/"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2124858899685613650",
+          "created_at": "2026-11-23T13:33:34.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Kirk Cousins was not happy with the Vikings last night 😳 https://t.co/woJgWADjfN",
+          "url": "https://x.com/i/status/2124858899685613650",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2124857004523200788",
+          "created_at": "2026-11-23T13:26:02.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Netanyahu on Eisenkot and Lieberman dismissing the Iran threat: \"They are doing this for political reasons.\" https://t.co/lfM3fIhdGo",
+          "url": "https://x.com/i/status/2124857004523200788",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124856371984109738",
+          "created_at": "2026-11-23T13:23:31.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian Foreign Minister Abbas Araghchi:\n\n\"We have passed through a difficult period of resistance over these two years. America, together with Israel and with Europe's backing, could not defeat the Iranian nation.\"",
+          "url": "https://x.com/i/status/2124856371984109738",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124855256173457460",
+          "created_at": "2026-11-23T13:19:05.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A December 2024 music video of singer Parastoo Ahmadi performing without a hijab has ended in 74 lashes for her and four members of her band.\n\nIranian authorities carried out the flogging. The singer and her bandmates are also banned from practicing art and music, and from",
+          "url": "https://x.com/i/status/2124855256173457460",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124854538800644252",
+          "created_at": "2026-11-23T13:16:14.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Responding to President Trump's claim that 99% of Iranian missiles were intercepted, Iranian Foreign Ministry spokesman Esmaeil Baghaei: \"We don't question the US president's honesty. Maybe they really intercepted them after they hit the target.\"",
+          "url": "https://x.com/i/status/2124854538800644252",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2124852873653575727",
           "created_at": "2026-11-23T13:09:37.000Z",
@@ -105,16 +155,6 @@
           "author_handle": "SportNState",
           "text": "Hutton &amp; Withrow are LIVE on this Monday!\n\nTennessee keeps winning, but Booger &amp; Dinich aren't impressed. The Titans make ugly NFL history, Beamer's seat heats up (again), and the Big Ten implodes. https://t.co/IWkTKenCtI",
           "url": "https://x.com/i/status/2124851627572007333",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124851377130156509",
-          "created_at": "2026-11-23T13:03:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NATO's Rutte on a European army:\n\n\"If Putin attacks, we will first need two or three weeks to agree who will do what, and then he will probably end up in Rotterdam before we have decided.\"\n\n\"What I would counsel against is to have all the nations having their own military working https://t.co/NEtvd6gs70",
-          "url": "https://x.com/i/status/2124851377130156509",
           "verified": true,
           "verified_type": "blue"
         },
@@ -147,36 +187,6 @@
           "url": "https://x.com/i/status/2124850438877085750",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124850248027873367",
-          "created_at": "2026-11-23T12:59:11.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russia's war economy is still growing and its military machine is running at full speed, according to NATO Secretary General Mark Rutte, who warned it \"won't stand still\" once the war in Ukraine ends.",
-          "url": "https://x.com/i/status/2124850248027873367",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124849738432258341",
-          "created_at": "2026-11-23T12:57:10.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NATO's Rutte calls European overreliance on the U.S. for defense against Russia unsustainable in the longer term.\n\n\"It is still a bit strange that with 600 million people living in European NATO territory, we are so much overdependent and overreliant on a country eight hours",
-          "url": "https://x.com/i/status/2124849738432258341",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124849227582849243",
-          "created_at": "2026-11-23T12:55:08.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NATO chief Rutte on the idea of a single European military: \"If you have a European military, you cannot also have national militaries.\"\n\nHe pointed to the U.S. as the model: \"It is one integrated United States military.\"\n\n\"I don't think it will happen soon because it has to do",
-          "url": "https://x.com/i/status/2124849227582849243",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124843679357522107",
@@ -499,16 +509,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124651903493853379",
-          "created_at": "2026-11-22T23:51:02.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Malik Nabers cooked his man https://t.co/87fY9VoTgd",
-          "url": "https://x.com/i/status/2124651903493853379",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124649194548076994",
           "created_at": "2026-11-22T23:40:16.000Z",
           "author_name": "StockMarket.News",
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+        },
+        {
           "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
           "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
           "source": "CBS News",
@@ -803,16 +809,10 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
         },
         {
-          "headline": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-          "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress"
-        },
-        {
-          "headline": "ICE officers arrest 2 passengers boarding flight in Seattle",
-          "summary": "Masked immigration officers arrested two passengers on a crowded airport jet bridge in Seattle as people were boarding Saturday",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
         }
       ]
     },
@@ -821,22 +821,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
-          "summary": "The incident comes alongside a suspected Ukrainian drone strike on a Russian cargo ship in the Baltic Sea over the weekend.",
+          "headline": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+          "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
-        },
-        {
-          "headline": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-          "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
-        },
-        {
-          "headline": "Seniors embrace Tesla automated driving technology despite questions about safety",
-          "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
+          "url": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html"
         },
         {
           "headline": "Buying Batman’s ride may take a Bruce Wayne budget as 1992 Batmobile heads to auction",
@@ -845,10 +833,22 @@
           "url": "https://abcnews.com/Business/wireStory/buying-batmans-ride-bruce-wayne-budget-1992-batmobile-138369029"
         },
         {
-          "headline": "Issue with automation system causes Delta flight delays in Atlanta",
-          "summary": "An issue with Delta Air Lines’ weight and balance automation system was causing flight delays Sunday at its hub in Atlanta and nationwide",
+          "headline": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+          "summary": "The incident comes alongside a suspected Ukrainian drone strike on a Russian cargo ship in the Baltic Sea over the weekend.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html"
+        },
+        {
+          "headline": "Crowdstrike to acquire Zscaler in $44B deal that would create a cybersecurity giant",
+          "summary": "CrowdStrike is acquiring cloud security company Zscaler in an all-stock deal valued at about $43.9 billion",
           "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/issue-automation-system-causes-delta-flight-delays-atlanta-138361125"
+          "url": "https://abcnews.com/Business/wireStory/crowdstrike-acquire-zscaler-44-billion-deal-create-cybersecurity-138373706"
+        },
+        {
+          "headline": "Seniors embrace Tesla automated driving technology despite questions about safety",
+          "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety"
         }
       ]
     },
@@ -857,31 +857,31 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "NFL Week 12 early odds: Bills favored over Chiefs for Thanksgiving showdown, Steelers home underdogs",
-          "summary": "The Bears are road favorites for their Thanksgiving matchup in Detroit",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-early-odds-bills-over-chiefs-thanksgiving-steelers/"
-        },
-        {
-          "headline": "'I had no idea RCB would retain me': Yash Dayal on franchise's faith after a difficult year",
-          "summary": "MUMBAI: Expressing his gratitude to Royal Challengers Bengaluru, who recently kept faith in him by confirming his retention at Rs 5 crore on Nov 17 as part of a 20-player core, despite his troubles in the last one year, Yash Dayal has promised to give it his all to his franchise in IPL- 2027. \"It's a very big thing for me.",
+          "headline": "NFL Hall Of Famer Warren Moon Wants To Preserve The Rose Bowl",
+          "summary": "SAN FRANCISCO, CALIFORNIA - FEBRUARY 05: Warren Moon visits SiriusXM on Radio Row at Super Bowl LX on February 05, 2026 in San Francisco, California. (Photo by Cindy Ord/Getty Images for SiriusXM) Getty Images for SiriusXM (This story is based upon an exclusive Forbes interview with Warren Moon on Monday November 16, 2026.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/had-no-idea-rcb-retain-131200521.html"
+          "url": "https://sports.yahoo.com/articles/nfl-hall-famer-warren-moon-133423359.html"
         },
         {
-          "headline": "The Optimist: Eight days to clean up after a weird win",
-          "summary": "CHARLOTTE, NORTH CAROLINA - NOVEMBER 22: Bryce Young #9 of the Carolina Panthers looks on before the football game against the Baltimore Ravens at Bank of America Stadium on November 22, 2026 in Charlotte, North Carolina. (Photo by David Jensen/Getty Images) | Getty Images I’m curious how the Carolina Panthers are going to show up against the Tampa Bay…",
+          "headline": "Cowboys’ Jerry Jones gives Christian Parker props amid play-calling change",
+          "summary": "Mandatory Credit: Kevin Jairaj-Imagn Images Cowboys’ Jerry Jones gives Christian Parker props amid play-calling change appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/optimist-eight-days-clean-weird-131140672.html"
+          "url": "https://sports.yahoo.com/articles/cowboys-jerry-jones-gives-christian-133312602.html"
         },
         {
-          "headline": "2027 NFL Draft order, team needs: Full first-round picks for all 32 teams after Week 11",
-          "summary": "Tennessee, the Chargers and Miami lead the race for the top selection at 1-9, while the Jets hold three picks in the top 15 thanks to blockbuster trades",
+          "headline": "Is Tarik Skubal a Hall of Famer? Where new Mets ace stands now and where he could end up",
+          "summary": "Skubal has been the best pitcher in baseball for three years, but he's still far short of a Cooperstown lock",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/2027-nfl-draft-order-team-needs-full-first-round-picks-all-32-teams/"
+          "url": "https://www.cbssports.com/mlb/news/tarik-skubal-hall-of-fame-case/"
         },
         {
-          "headline": "'Right on time' - Kildunne responds to Quins exit stories",
+          "headline": "Steelers gave DK Metcalf $150 million, traded George Pickens. Now they're paying for both decisions",
+          "summary": "The Steelers wanted a more dependable receiver; instead, Metcalf has delivered disappointing production and familiar distractions.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/why-steelers-regretting-dk-metcalf-150-million-contract-trading-george-pickens/"
+        },
+        {
+          "headline": "'Right on time' - Kildunne on Quins exit stories",
           "summary": "England and Bristol Bears full-back Ellie Kildunne makes a pointed reference to reports that poor time-keeping was behind her Harlequins exit.",
           "source": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4kq78yj93o?at_medium=RSS&at_campaign=rss"
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T08:16:23-05:00"
+  "updatedAt": "2026-11-23T08:40:38-05:00"
 }
