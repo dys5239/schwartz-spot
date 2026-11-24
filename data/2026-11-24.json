@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+        },
+        {
           "headline": "Tidal will start banning AI-generated music next month",
           "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen .",
           "source": "The Verge",
@@ -24,12 +30,6 @@
           "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
         },
         {
-          "headline": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-          "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/"
-        },
-        {
           "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
           "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
           "source": "Wired",
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "US Army recommends evacuations, details mitigation for controlled munition explosion",
+          "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
+        },
+        {
+          "headline": "Watch: Would you let Meta's AI agent run parts of your life?",
+          "summary": "Technology and AI editor Zoe Kleinman spent a week with Meta's new AI agent, Muse - but how useful was it?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Sacked London Pride boss given suspended prison sentence",
+          "summary": "The sentencing brings a long-running legal battle to an end.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
           "summary": "Despite Iran claiming daily attacks on takers around the Strait of Hormuz and escalating fighting between the Saudis and Iran's Houthi allies, oil prices continue to decline.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "Iranian women praise singer lashed for not wearing a hijab",
-          "summary": "Parastoo Ahmadi was lashed 74 times for the crime of \"outraging public decency\" after she live-streamed a concert without her hair covered.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iran-singer-parastoo-ahmadi-lashed-performing-no-hijab/"
-        },
-        {
-          "headline": "Army details mitigation plans for munition explosion, recommends evacuations",
-          "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
+          "headline": "Philadelphia groups sue Trump administration over changes at slavery memorial",
+          "summary": "Two Philadelphia groups filed a federal lawsuit against the Trump administration over the removal of panels at the slavery memorial at the President’s House site.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
-        },
-        {
-          "headline": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-          "summary": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Disability benefit review calls for closer link with claimant costs",
-          "summary": "A government-commissioned report calls for a \"rebalancing\" of the amount paid to different claimants.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss"
+          "url": "https://abcnews.com/US/philadelphia-groups-sue-trump-administration-slavery-memorial/story?id=138408214"
         }
       ]
     },
@@ -79,14 +79,124 @@
       "stories": [],
       "posts": [
         {
-          "id": "2125282827037986820",
-          "created_at": "2026-11-24T17:38:06.000Z",
+          "id": "2125290946233323913",
+          "created_at": "2026-11-24T18:10:22.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Search and rescue underway after a Turkish military helicopter crash in Eskişehir, per officials. https://t.co/bzOeDwxC6O https://t.co/kSPtSVli3Q",
-          "url": "https://x.com/Osint613/status/2125282827037986820",
+          "text": "MORE INFO: Israel has shared intelligence with the US indicating that Iran is developing chemical weapons for potential use against Israel and other countries in the region, Defense Minister Israel Katz told reporters. \n\nHe also confirmed that the IDF and U.S. Central Command",
+          "url": "https://x.com/Osint613/status/2125290946233323913",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2125289617444278409",
+          "created_at": "2026-11-24T18:05:05.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Tensions on various fronts, including with Iran, will bring two back to back cabinet sessions next Thursday.\n\nThe small ministerial council meets first. The expanded ministerial council follows immediately after.\n\nIsrael Hayom",
+          "url": "https://x.com/Osint613/status/2125289617444278409",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125289167366263111",
+          "created_at": "2026-11-24T18:03:18.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Trev Alberts getting $17.2 million for doing nothing https://t.co/pC2wcM9rjd",
+          "url": "https://x.com/Outkick/status/2125289167366263111",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125289025657328082",
+          "created_at": "2026-11-24T18:02:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The Rafah militia headed by Ghassan al-Dahini is celebrating the killing of Naim Abu Nahal, head of Hamas's internal security apparatus, in Gaza today:\n\n\"We welcome the elimination of Naim Abu Nahal, one of the leading thugs of Hamas's oppressive terror regime. For years he ran https://t.co/qTZBQjXqZd",
+          "url": "https://x.com/Osint613/status/2125289025657328082",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125288952617697352",
+          "created_at": "2026-11-24T18:02:26.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Megan Rapinoe is going to be so pissed that Trump pulled this off.  https://t.co/NLMLjEwJRE",
+          "url": "https://x.com/ClayTravis/status/2125288952617697352",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125288613244240324",
+          "created_at": "2026-11-24T18:01:06.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Sports fans are getting GOUGED on game costs. Putting more games on streamers is a bad move, especially when affordability is such a topic of concern nationally. Pay per view for US national teams also feels dirty.",
+          "url": "https://x.com/ClayTravis/status/2125288613244240324",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125288343701229700",
+          "created_at": "2026-11-24T18:00:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: Boston City Council votes to recognize Thanksgiving Day as a “National Day of Mourning.”\n\nThe council reportedly passed a resolution recognizing November 26 as a day to address “historical injustice.”\n\nhttps://t.co/Ak0If2uATz",
+          "url": "https://x.com/RealAmVoice/status/2125288343701229700",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125287666149110190",
+          "created_at": "2026-11-24T17:57:20.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "It’s Netflix vs Fox for the World Cup rights. Should American sports fans have to subscribe to a streaming service to see the US men play? My answer is no way. Plus, way more people will watch games on broadcast TV. So if growing the game matters, this should be a non-starter.",
+          "url": "https://x.com/ClayTravis/status/2125287666149110190",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125287542283206698",
+          "created_at": "2026-11-24T17:56:50.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Gratitude isn’t a feeling that shows up when life goes well. Think of two farmers standing in the same rain. One looks at his cut hay getting soaked because he didn't get it baled and dry in time. The other looks at that exact same soaked hay, but knows the rain will bring next https://t.co/nm7BBABEN9",
+          "url": "https://x.com/glennbeck/status/2125287542283206698",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125286106371375199",
+          "created_at": "2026-11-24T17:51:08.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran's Foreign Minister Abbas Araghchi: \n\nThe U.S. is so concerned about chemical arms that it’s crippling the world’s chemical weapons watchdog. \n\nOPCW may be forced to suspend work and scale back vital programs. By obstructing its mandate, the U.S. is deliberately putting",
+          "url": "https://x.com/Osint613/status/2125286106371375199",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125285222123962666",
+          "created_at": "2026-11-24T17:47:37.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IRGC footage claims to show a vessel in flames after it tried an unauthorized route through the Strait of Hormuz. https://t.co/GfoG3pjrB1",
+          "url": "https://x.com/Osint613/status/2125285222123962666",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125284835518279763",
+          "created_at": "2026-11-24T17:46:05.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Global physical gold-backed ETFs posted -20 tonnes in gold outflows last week, their largest weekly withdrawal since June.\n\nGold ETFs have seen outflows in 3 of the last 5 weeks, totalling -30 tonnes net.\n\nLast week's outflows were driven by the US's largest gold-backed https://t.co/d1I6vICw2Z",
+          "url": "https://x.com/KobeissiLetter/status/2125284835518279763",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2125282719785783450",
@@ -109,16 +219,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125281741589848230",
-          "created_at": "2026-11-24T17:33:47.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Defense Minister Katz, in a briefing with reporters:\n\nIranian cells are operating inside the United States with the goal of harming senior officials. The danger extends to President Trump and his family.\n\nIran is developing chemical weapons. Both Israel and the U.S. know it. https://t.co/yzoveYdUHu",
-          "url": "https://x.com/Osint613/status/2125281741589848230",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125280925365964859",
           "created_at": "2026-11-24T17:30:33.000Z",
           "author_name": "OutKick",
@@ -129,26 +229,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125280633966743896",
-          "created_at": "2026-11-24T17:29:23.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Israeli Defense Minister Katz called Syrian President al-Sharaa a sophisticated enemy with a strategic goal. Katz said Syria is building capabilities with Turkish assistance, which makes the security zone critical.",
-          "url": "https://x.com/Osint613/status/2125280633966743896",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125280019983266019",
-          "created_at": "2026-11-24T17:26:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Turkish military helicopter down in central Turkey during a training flight. Wreckage found. Search and rescue underway.\n\nTurkish Defense Ministry",
-          "url": "https://x.com/Osint613/status/2125280019983266019",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125278542720057691",
           "created_at": "2026-11-24T17:21:05.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -157,16 +237,6 @@
           "url": "https://x.com/RealAmVoice/status/2125278542720057691",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125276746048250319",
-          "created_at": "2026-11-24T17:13:56.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The United States will host the 2031 FIFA Women's World Cup, President Trump announced. https://t.co/hy6Rj16eFb",
-          "url": "https://x.com/Osint613/status/2125276746048250319",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125275481901760753",
@@ -359,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125253563014427121",
-          "created_at": "2026-11-24T15:41:49.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Clearly, the definition of “driverless” got lost in translation. 😂",
-          "url": "https://x.com/RealAmVoice/status/2125253563014427121",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125252441687929063",
           "created_at": "2026-11-24T15:37:22.000Z",
           "author_name": "The Kobeissi Letter",
@@ -419,16 +479,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125245807632724112",
-          "created_at": "2026-11-24T15:11:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: US equity ETFs attracted +$220 billion in inflows over the 33 trading days ending November 20th, the 4th-largest 33-day rolling inflow on record.\n\nThis figure has more than tripled over the last 4 months.\n\nThis marks the 2nd time in 2026 that 33-day rolling inflows have https://t.co/EsWnfDczE9",
-          "url": "https://x.com/KobeissiLetter/status/2125245807632724112",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125244337747533906",
           "created_at": "2026-11-24T15:05:09.000Z",
           "author_name": "Clay Travis",
@@ -449,16 +499,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125238528988655638",
-          "created_at": "2026-11-24T14:42:04.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I believe in one standard we all should be held to regardless of our race, many people disagree. They’re wrong, I’m right.",
-          "url": "https://x.com/ClayTravis/status/2125238528988655638",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125237536662671470",
           "created_at": "2026-11-24T14:38:08.000Z",
           "author_name": "OutKick",
@@ -467,26 +507,6 @@
           "url": "https://x.com/Outkick/status/2125237536662671470",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125237029944397961",
-          "created_at": "2026-11-24T14:36:07.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The best women are men! https://t.co/DJnnVZMtDS",
-          "url": "https://x.com/ClayTravis/status/2125237029944397961",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125235630146023767",
-          "created_at": "2026-11-24T14:30:33.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Stephen A. fires back at me on rooting for people based on their race. I say rooting for someone based on their race is racist. White people can’t do it without being called racist. Why can black people? I’ll respond later on my show. https://t.co/zcF79EzBky",
-          "url": "https://x.com/ClayTravis/status/2125235630146023767",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125227421477802190",
@@ -575,16 +595,6 @@
           "author_handle": "Outkick",
           "text": "Bengals defense on that last drive  https://t.co/80XfMrkMGv",
           "url": "https://x.com/Outkick/status/2125086630268866880",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125081885827334162",
-          "created_at": "2026-11-24T04:19:38.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "ANTONIO WILLIAMS IS THAT DUDE \n\nSends Bengals home PACKING https://t.co/uyMWubx7ku",
-          "url": "https://x.com/Outkick/status/2125081885827334162",
           "verified": true,
           "verified_type": "business"
         },
@@ -741,16 +751,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
-          "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+          "headline": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+          "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
-        },
-        {
-          "headline": "We're adding to our position in a tech giant that is too cheap to ignore",
-          "summary": "Our discipline requires us to put some money to work in these oversold conditions.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/24/were-adding-to-our-position-in-a-tech-giant-that-is-too-cheap-to-ignore-.html"
+          "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html"
         },
         {
           "headline": "US consumer confidence soars as election uncertainty ends, gas prices fall",
@@ -769,6 +773,12 @@
           "summary": "Australia is set to create new online safety laws that would make tech giants potentially liable for multibillion dollar fines for failing to prevent foreseeable online harms",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/australia-set-pass-digital-duty-care-law-fines-138406159"
+        },
+        {
+          "headline": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
+          "summary": "Gen Z is already skeptical they'll ever see a Social Security check. Now, a new survey suggests they're dipping into investment money to bet on sports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/"
         }
       ]
     },
@@ -776,6 +786,24 @@
       "id": "sports",
       "title": "Sports",
       "stories": [
+        {
+          "headline": "Donovan Mitchell on Cavs' inconsistent effort in 9-9 start: 'I'm trying to figure out how not to end up on ESPN'",
+          "summary": "The Chicago Bulls entered Thanksgiving week as one of the NBA’s worst teams: 4-12, getting outscored by nearly eight points per 100 possessions, with the second-worst defense in the NBA . And yet, they controlled the bulk of Monday’s matchup with the Cleveland Cavaliers, leading for nearly the entire final three quarters — and by as many as 24 points —…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/article/donovan-mitchell-on-cavs-inconsistent-effort-in-9-9-start-im-trying-to-figure-out-how-not-to-end-up-on-espn-181032910.html"
+        },
+        {
+          "headline": "São Paulo thrash Criciúma in women's Copinha opener",
+          "summary": "The Tricolor's Copinha F 2026 campaign is underway. Their opening match took place on Tuesday (24) at 11 a.m.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/o-paulo-thrash-crici-ma-180200241.html"
+        },
+        {
+          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
+          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
+          "source": "FOX News Sports",
+          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
+        },
         {
           "headline": "No. 8 Arizona tops Colorado State 96-83 with all 5 starters reaching double figures in Maui",
           "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
@@ -787,24 +815,6 @@
           "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
-        },
-        {
-          "headline": "Sebastian Mack scores 22 to send UNLV to 82-61 victory over Eastern Washington",
-          "summary": "Sebastian Mack’s 22 points helped UNLV defeat Eastern Washington 82-61",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/sebastian-mack-scores-22-send-unlv-82-61-138401713"
-        },
-        {
-          "headline": "Sheehan out of Wallabies Test after two-game ban",
-          "summary": "Dan Sheehan has won 43 caps for Ireland [Getty Images] Ireland's stand-in captain Dan Sheehan has been banned for two games after a croc-roll tackle against South Africa and will play no part against Australia on Friday night. The Leinster forward was shown a yellow card by referee Christophe Ridley in the 72nd minute of Ireland's 20-17 victory over the…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/sheehan-wallabies-test-two-game-173249738.html"
-        },
-        {
-          "headline": "Mavericks vs. Nuggets injury report: P.J. Washington up in air while Denver has clean bill of health",
-          "summary": "Jerome Miron-Imagn Images Mavericks vs. Nuggets injury report: P.J.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/mavericks-vs-nuggets-injury-report-173014937.html"
         }
       ]
     },
@@ -813,16 +823,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "GloRilla to Make Acting Debut in Deon Taylor’s Horror-Thriller ‘Don’t Open the Door,’ Starring Armani Greer (EXCLUSIVE)",
-          "summary": "Grammy-nominated rapper GloRilla will make her acting debut in the upcoming movie “Don’t Open the Door.” Armani Greer (“Why Did I Get Married Again?” “The Drop: A Snowfall Saga”) is confirmed to star in the film, described as an “elevated horror-thriller” from writer-director Deon Taylor (“Traffik,” “Black and Blue,” “The Intruder,” “Meet the Blacks”).…",
+          "headline": "John Turturro, Carrie Coon, Guitarricadelafuente and Peter Gamble Among SFFILM Awards Night Honorees",
+          "summary": "John Turturro, Carrie Coon, Guitarricadelafuente and Peter Gamble are the SFFILM awards night honorees for 2026. The ceremony will take place Dec.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/glorilla-acting-debut-dont-open-the-door-cast-armani-greer-1236956662/"
+          "url": "https://variety.com/2026/film/news/john-turturro-carrie-coon-sffilm-honorees-1236956973/"
         },
         {
-          "headline": "‘Hexed’ Review: Disney’s Not-So-Wicked Witch Tale Is Cheery Enough, but Not Terribly Crafty",
-          "summary": "Thank goodness for Aunt Gladys. If it weren’t for last year’s fright-wigged “Weapons” villainess — a bracing figure of pure, malicious evil amid cinema’s recent run of goody-two-shoes witches, sparkling up the likes of “Wicked” and “Practical Magic 2” — you’d begin to worry that screen sorcery has altogether lost its edge.",
+          "headline": "‘Shaun the Sheep: The Beast of Mossy Bottom’ Directors on ‘Game of Thrones’ Easter Egg and the ‘Challenge’ of Filming Michael Jackson’s ‘Thriller’ Dance in Stop-Motion",
+          "summary": "Michael Jackson’s “Thriller” sets the tone for “Shaun the Sheep: The Beast of Mossy Bottom,” the third feature film in Aardman Animations’ popular stop-motion franchise that follows Shaun as a mad scientist after the farmer ruins the flock’s pumpkin patch the night before Halloween. While the film opens with an upbeat homage to the King […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/reviews/hexed-review-1236956898/"
+          "url": "https://variety.com/2026/film/news/shaun-the-sheep-directors-thriller-game-of-thrones-variety-screening-series-1236956678/"
         },
         {
           "headline": "‘Focker-in-Law’ Filmmaker John Hamburg Talks Ariana Grande’s Comedic Timing and the Actor Who Made Ben Stiller Laugh Hardest on Set",
@@ -831,10 +841,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/focker-in-law-movie-director-ariana-grande-ben-stiller-plot-1236760299/"
         },
         {
-          "headline": "Josh Allen on ‘The Buffalo Miracle,’ and What a Miracle It Would Be to Bring Buffalo a Super Bowl",
-          "summary": "The superstar quarterback's production company Out of Pocket is off to a hot start — much like the 9-1 Bills.",
+          "headline": "‘Hexed’ Review: Hailee Steinfeld and Rashida Jones Lead a Disney Fantasy More Enchanting in Its Spectacle Than Its Storytelling",
+          "summary": "Jodie Foster and Walton Goggins also lend their voices to the animated adventure about a teenager who discovers she's a witch and gets transported to a magical realm.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/josh-allen-interview-the-buffalo-miracle-hbo-hollywood-1236757198/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -849,28 +859,28 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Issa Rae’s Male Friendship HBO Comedy Pilot Casts Rafael Castillo, Branden Cook (EXCLUSIVE)",
-          "summary": "Issa Rae’s new HBO comedy pilot has added two new cast members. Variety has learned exclusively that Rafael Castillo and Branden Cook are both joining the untitled half-hour pilot.",
+          "headline": "Elizabeth Holmes’ Ex-Assistant Speaks Out on ‘You Can See Everything’ and Amanda Seyfried’s ‘Valid’ Performance: Holmes ‘Softened a Lot in the Film’",
+          "summary": "For Aria Marinelli, “You Can See Everything” hit a little close to home. Marinelli, who worked as Elizabeth Holmes’ assistant in 2009, during the early stages of Theranos, spoke about watching her former boss in the documentary in an interview with Warner Bailey on “AvA Live.” “My initial reaction was I did not want to […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/issa-rae-hbo-comedy-pilot-rafael-castillo-branden-cook-1236956972/"
+          "url": "https://variety.com/2026/tv/news/elizabeth-holmes-ex-assistant-you-can-see-everything-1236957074/"
+        },
+        {
+          "headline": "‘The Lord of The Rings: The Rings of Power’ Renewed For Season 4 At Amazon",
+          "summary": "Amazon is showing faith in Middle Earth after renewing The Lord of The Rings: The Rings of Power for a fourth season. The streamer has confirmed that the fantasy drama is in pre-production for a fourth run and will begin filming at Shepperton Studios in the UK in the spring.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/lord-of-the-rings-rings-of-power-renewed-season-4-amazon-1237232657/"
+        },
+        {
+          "headline": "‘Thursday Murder Club’ Author Says Wife’s Casting in Netflix Adaptation Was a Coincidence: ‘It Had Nothing to Do With Me’",
+          "summary": "Author Richard Osman, whose novel “The Thursday Murder Club” was adapted by Netflix into a star-studded film last year, claims his wife’s casting in the project was entirely coincidental. Directed by “Home Alone” and “Harry Potter” helmer Chris Columbus, the film featured Helen Mirren, Pierce Brosnan, Ben Kingsley and Celia Imrie as a group of […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/global/thursday-murder-club-richard-osman-wife-netflix-1236957129/"
         },
         {
           "headline": "Ariana Grande Sets Peacock Double Play With ‘Eternal Sunshine Tour’ Concert Film & Making-Of Doc",
           "summary": "Ariana Grande hit the concert trail this past summer for the first time in seven years, and she is giving fans a close-up look at the show and how she and her team prepped for it. The three-time Grammy winner has set two projects to stream on Peacock this month: documentary The Eternal Sunshine Diaries: […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/ariana-grande-peacock-special-eternal-sunshine-diaries-tour-1237232613/"
-        },
-        {
-          "headline": "Steven Hack Dies: Actor On ‘American Horror Story’, ‘Ratched’, ‘Marvel’s Agent Carter’, ‘General Hospital’; Original Cast Member Of Broadway’s ‘Cats’ Was 68",
-          "summary": "Steven Hack, an original member of Broadway’s Cats and A Chorus Line who went on to gain numerous credits on stage as well as in such TV series and films as Thor: The Dark World, American Horror Story: 1984, Criminal Minds, Scrubs, Fresh Off The Boat, General Hospital and many more, died November 19 at […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/steven-hack-dead-1237232579/"
-        },
-        {
-          "headline": "David Fincher Says DC Is ‘Dysfunctional’ and Turned Down ‘Lord of the Rings’ TV Show Because ‘It’s an Extension of a Corporate Interest’",
-          "summary": "David Fincher doesn’t want to get tied up in big franchises anytime soon. The “Further Mis-Adventures of Cliff Booth” director was interviewed on the Nov.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/david-fincher-dc-rings-of-power-1236956992/"
         },
         {
           "headline": "Netflix’s ‘The Murder of JonBenét Ramsey’ Haunting Trailer Shines Spotlight on Melissa McCarthy and Clive Owen",
@@ -884,6 +894,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "‘One & Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years",
+          "summary": "Click here for Medication Guide, including Boxed Warning. In a world where trends come and go, there’s one thing that never goes out of style: being authentically yourself.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/lifestyle/botox-cosmetic-one-and-only-campaign-1236683743/"
+        },
         {
           "headline": "“Alarming” Diversity Backtrack Happening In Film and TV Industry In Canada, Report Finds",
           "summary": "Despite homegrown hits like 'Heated Rivalry' and 'North of North,' the Writers Guild of Canada warns “key barriers” to future work stand in the way of new diverse members joining its ranks.",
@@ -907,12 +923,6 @@
           "summary": "Earlier this summer, Ed Simpson teamed with Content Partners to buy YouTube true-crime channel Dr. Insanity.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/youtube-true-crime-channel-dr-insanity-podcast-audioboom-1237232398/"
-        },
-        {
-          "headline": "Elev8on & French Wealth Manager Anato To Find European Investments For U.S. Stars",
-          "summary": "EXCLUSIVE: Elev8on Management has spent years finding American talent routes on to European screens, and now its going help them build business empires there. The Paris-based talent management company has teamed with French wealth advisory Anato Gestion Privée to launch Elev8on Private, a division aimed at finding U.S.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/elev8on-anato-europe-investments-american-stars-1237232440/"
         }
       ]
     },
@@ -921,28 +931,28 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Ms. Rachel Visits NYC Immigration Court to Support Children Facing Deportation: ‘Stop the Cruelty!’",
+          "summary": "Children going through immigration court in Manhattan on Monday (Nov. 23) had at least one person looking out for them: Ms.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ms-rachel-visits-kids-nyc-immigration-court-video-1236388868/"
+        },
+        {
+          "headline": "Nick Carter Loses Bid to Dismiss Sexual Battery Claim From Melissa Schuman",
+          "summary": "The judge ruled the claim could proceed to a May 10 trial based on a newly enacted revival window",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/nick-carter-backstreet-boys-melissa-schuman-claim-survives-1235663534/"
+        },
+        {
+          "headline": "Watch Brianna Cameron and Connor Closs Drive the Studio Audience Crazy With a Killer ‘I Will Always Love You’ on ‘The Voice’",
+          "summary": "Covering Dolly Parton ‘s “I Will Always Love You” is a fool’s errand in a world where Whitney Houston ‘s Grammy-winning 1992 version for the soundtrack to The Bodyguard has long been the standard of pop ballad excellence. But you can’t win if you don’t swing big, so on Monday night’s (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/brianna-cameron-connor-closs-i-will-always-love-you-the-voice-1236388832/"
+        },
+        {
           "headline": "See Noah Kahan Captivate Audiences With Extended ‘Orbiter’",
           "summary": "Song features on upcoming Live From the Great Divide album, which arrives just in time for the holidays",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/noah-kahan-live-from-the-great-divide-album-1235663532/"
-        },
-        {
-          "headline": "U2, ATEEZ, Ella Langley & More: Highlights of This Week’s Billboard Charts",
-          "summary": "Tuesday is new Billboard chart day each week! As all charts update each Tuesday, here’s a look at highlights of the latest rankings, dated Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/u2-ateez-ella-langley-chart-highlights-november-28-2026/"
-        },
-        {
-          "headline": "‘Grand Theft Auto VI: The Album’ Adds 4 More Songs Following Deluxe Edition",
-          "summary": "If you haven’t heard about Grand Theft Auto yet, chances are you’ve probably been living under a rock. A rare monocultural moment in society, the iconic video game’s soundtrack is making waves as well.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/grand-theft-auto-6-album-adds-more-songs-itunes-exclusive-1236387736/"
-        },
-        {
-          "headline": "Carly Rae Jepsen’s ‘Run Away With Me’ Sees 288 Percent Streaming Bump Thanks to ‘GTA VI’",
-          "summary": "The 11-year-old song is featured a few times in the video game, which was release on Nov. 20",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/carly-rae-jepsens-run-away-with-me-gta-vi-streaming-bump-1235663046/"
         },
         {
           "headline": "U2 Plot North American Stadium Tour",
@@ -953,5 +963,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T12:43:48-05:00"
+  "updatedAt": "2026-11-24T13:12:48-05:00"
 }
