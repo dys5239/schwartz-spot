@@ -42,10 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Man baffled after accidentally travelling to Spain on wife's passport",
-          "summary": "Ben Moore says he is still baffled over how he was able to make the journey without being stopped.",
+          "headline": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
+          "summary": "The Vatican has released excerpts of Pope Francis' private diary",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988"
+        },
+        {
+          "headline": "Inquiry expected into Birmingham housing scheme 'exploitation' after BBC investigation",
+          "summary": "Birmingham has more than 34,000 people living in Supported Exempt Accommodation.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmzx9ygq1x2wo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+          "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
@@ -54,22 +66,10 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "WATCH: Detroit Lions help feed their community this Thanksgiving",
-          "summary": "ABC News' Will Reeve shares how the Detroit Lions are carrying on a Thanksgiving tradition of giving back to those in need.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138408581/"
-        },
-        {
-          "headline": "Trump helped Huang back to Nvidia \"at the expense of our national security,\" lawmaker says",
-          "summary": "Jensen Huang was reinstated as Nvidia's CEO just days after he resigned following his affair with an alleged Chinese spy. Rep.",
+          "headline": "CBS News went to Singapore and Malaysia to see how China may be accessing Nvidia chips",
+          "summary": "Ramy Inocencio traveled to Singapore and Malaysia for a deeper look at Megaspeed, where suspected Chinese spy Alice Huang worked as an executive.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/democrat-reacts-to-nvidia-reinstating-huang/"
-        },
-        {
-          "headline": "Key takeaways from the Timms review into Pip disability benefit",
-          "summary": "Disability minister Sir Stephen Timms has published his review of the personal independence payment (Pip), along with recommended changes.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c69w9gw9wx9no?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cbsnews.com/video/cbs-news-went-to-singapore-and-malaysia-to-see-how-china-may-be-accessing-nvidia-chips/"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125238528988655638",
+          "created_at": "2026-11-24T14:42:04.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I believe in one standard we all should be held to regardless of our race, many people disagree. They’re wrong, I’m right.",
+          "url": "https://x.com/ClayTravis/status/2125238528988655638",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125238209814606096",
+          "created_at": "2026-11-24T14:40:48.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "SCOTUS DISMISSES LEAD PLAINTIFF IN MAJOR SECOND AMENDMENT CASE — BUT THE LEGAL BATTLE ISN'T OVER!\n\nThe Supreme Court has dismissed Cutberto Viramontes from the case challenging semi-automatic rifle bans, but the remaining petitioners are still in the fight.\n\nArguments are https://t.co/q91qFYPYcZ",
+          "url": "https://x.com/RealAmVoice/status/2125238209814606096",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125237789406921190",
+          "created_at": "2026-11-24T14:39:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Anthropic's CEO reportedly sold $309 million worth of shares at the IPO, while all seven co-founders collectively cashed out nearly $2 billion.\n\nLess than a week later, Anthropic is trading below its IPO price, with over $500 billion in market value wiped out from its highs. https://t.co/dDK4trpUDv https://t.co/DR5pFTryKA",
+          "url": "https://x.com/_Investinq/status/2125237789406921190",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125237536662671470",
+          "created_at": "2026-11-24T14:38:08.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "A boy has now helped lead a girls' field hockey team to THREE STRAIGHT state titles in Massachusetts.\n\nHe scored twice in the championship game. \n\nHow many more championships before someone stands up for the girls?\nhttps://t.co/bVdTFr1FdO",
+          "url": "https://x.com/Outkick/status/2125237536662671470",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125237029944397961",
+          "created_at": "2026-11-24T14:36:07.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The best women are men! https://t.co/DJnnVZMtDS",
+          "url": "https://x.com/ClayTravis/status/2125237029944397961",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125236691703390497",
+          "created_at": "2026-11-24T14:34:46.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Tariffs are back. The US is preparing to raise tariffs on China, the EU and 14 other economies as soon as this week, per WSJ and Bloomberg\n\nThe duties come from USTR Jamieson Greer's Section 301 probe into industrial subsidies and excess capacity, and aim to rebuild the tariff https://t.co/cukONYHg4s",
+          "url": "https://x.com/_Investinq/status/2125236691703390497",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125235630146023767",
+          "created_at": "2026-11-24T14:30:33.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Stephen A. fires back at me on rooting for people based on their race. I say rooting for someone based on their race is racist. White people can’t do it without being called racist. Why can black people? I’ll respond later on my show. https://t.co/zcF79EzBky",
+          "url": "https://x.com/ClayTravis/status/2125235630146023767",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125233442992398737",
+          "created_at": "2026-11-24T14:21:52.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Monday was a historic trading session:\n\nThe S&amp;P 500 outperformed the S&amp;P 500 Equal-Weight Index by +2.1 percentage points on Monday, its largest daily outperformance since at least 1990.\n\nThis matches the +2.1 percentage-point outperformance recorded in April 2020.\n\nAt the close, https://t.co/H218DQKv8M",
+          "url": "https://x.com/KobeissiLetter/status/2125233442992398737",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125233419240304979",
+          "created_at": "2026-11-24T14:21:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IRGC Commander Ahmad Vahidi: \n\nThe next war may not stay regional. Iran's adversaries should expect fighting at any location deemed necessary.",
+          "url": "https://x.com/Osint613/status/2125233419240304979",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125229772254945750",
           "created_at": "2026-11-24T14:07:17.000Z",
@@ -165,16 +255,6 @@
           "author_handle": "Osint613",
           "text": "Iranian MP Abbas Moqtadaei:\n\n\"If America does something 'foolish', the White House could be turned into dust.\"\n\n\"Iran will not be bound by geographic limits in retaliating against American malicious acts.\"\n\n\"European territory could be jeopardized.\" https://t.co/TfL7A0IJHB",
           "url": "https://x.com/Osint613/status/2125221244643528767",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125220732707672131",
-          "created_at": "2026-11-24T13:31:22.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Unknown projectiles hit 3 eastbound vessels in the Strait of Hormuz on Nov. 22. All crew are accounted for and the ships kept sailing. The extent of damage and any environmental impact has not been determined. Authorities are investigating and ships in the area are urged to https://t.co/Ussegcbd8o",
-          "url": "https://x.com/Osint613/status/2125220732707672131",
           "verified": true,
           "verified_type": "blue"
         },
@@ -369,16 +449,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125082008774947305",
-          "created_at": "2026-11-24T04:20:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Hightower's Stephanie Link says Nvidia is \"trading at 9 times fiscal 28 numbers\" and the selloff \"was never about the fundamentals\"\n\n\"The stock is still down 30% from its highs\"\n\n\"It was all about the overhang between Blue Wave and all of the investigations\"\n\n\"This is a historic https://t.co/3O7BYLq8tT",
-          "url": "https://x.com/_Investinq/status/2125082008774947305",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125081885827334162",
           "created_at": "2026-11-24T04:19:38.000Z",
           "author_name": "OutKick",
@@ -389,16 +459,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125075716966609116",
-          "created_at": "2026-11-24T03:55:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Deepwater's Gene Munster says Nvidia still has \"around 90% share\" but the real question is when AI capex peaks\n\n\"Their GPUs are still superior to any of the hyperscalers' GPUs and AMD\"\n\n\"They're looking for 48% growth in capex in calendar 27, going to 11% in 28\"\n\n\"If capex is https://t.co/qPW0XV6GYb",
-          "url": "https://x.com/_Investinq/status/2125075716966609116",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125071509467111792",
           "created_at": "2026-11-24T03:38:24.000Z",
           "author_name": "Clay Travis",
@@ -407,16 +467,6 @@
           "url": "https://x.com/ClayTravis/status/2125071509467111792",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125064305372520946",
-          "created_at": "2026-11-24T03:09:46.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Bitcoin falls below $60,000 as levered liquidations surge to $850 million in 24 hours. https://t.co/V9uDhebuuI",
-          "url": "https://x.com/KobeissiLetter/status/2125064305372520946",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125063599945060457",
@@ -439,32 +489,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2125062719317393598",
-          "created_at": "2026-11-24T03:03:28.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Happy Thanksgiving week. The college football picks are on fire. Here are 14 more winners. Get rich, kids: https://t.co/JnxBA7NQuk",
-          "url": "https://x.com/ClayTravis/status/2125062719317393598",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125055191112438253",
           "created_at": "2026-11-24T02:33:33.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "When your brother-in-law throws his third pick in Thanksgiving football  https://t.co/tziaH9il2I",
           "url": "https://x.com/Outkick/status/2125055191112438253",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125053208787902974",
-          "created_at": "2026-11-24T02:25:41.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Tee did it for Fiona 😤 https://t.co/4fG1sIsSco",
-          "url": "https://x.com/Outkick/status/2125053208787902974",
           "verified": true,
           "verified_type": "business"
         },
@@ -477,16 +507,6 @@
           "url": "https://x.com/SportNState/status/2125050536411935033",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125044633981886478",
-          "created_at": "2026-11-24T01:51:36.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "LIBERAL MEDIA MELTDOWN OVER JENSEN HUANG’S RETURN\n\n@lfs6b called out the reaction from CNN, MS NOW, and other liberal networks over Nvidia co-founder Jensen Huang returning to the CEO position, arguing the outrage ignores a major distinction: this is a private company, not the https://t.co/FOuu6xjk2E",
-          "url": "https://x.com/RealAmVoice/status/2125044633981886478",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125013689019629859",
@@ -519,32 +539,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125006731713646813",
-          "created_at": "2026-11-23T23:21:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Oregon has three losses, but I think they're the best team in the Big Ten right now. If you asked any of the top teams in the SEC, ACC or Big 12 which team they least want to play, I think the answer would be Oregon. I'm also not convinced UCLA is really getting its QB back. https://t.co/Kr3qkt7aNb",
-          "url": "https://x.com/ClayTravis/status/2125006731713646813",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125004730426446239",
           "created_at": "2026-11-23T23:13:03.000Z",
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Why Aviation Is Having Its Worst Year In Decades | Ep. 1878\n\nhttps://t.co/ImtjACOLQT",
           "url": "https://x.com/MattWalshBlog/status/2125004730426446239",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124992890455707758",
-          "created_at": "2026-11-23T22:26:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "LSU is by far the biggest disappointment in college football this year. Ohio State has an argument because of Julian Sayin's injury, but LSU spent a fortune on its roster, stayed relatively healthy and lost every major game it played. There's no comparison in my mind. https://t.co/0NkzxSdCbi",
-          "url": "https://x.com/ClayTravis/status/2124992890455707758",
           "verified": true,
           "verified_type": "blue"
         },
@@ -689,16 +689,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124877835466932598",
-          "created_at": "2026-11-23T14:48:48.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️😂 https://t.co/vYlupnmHt2",
-          "url": "https://x.com/_The_Prophet__/status/2124877835466932598",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124576203113636183",
           "created_at": "2026-11-22T18:50:14.000Z",
           "author_name": "SpaceX",
@@ -755,10 +745,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump to pardon two turkeys, Freedom and Feathers",
-          "summary": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two have been staying in a suite leading up to their trip to the White House.",
+          "headline": "Trump to present Rudy Giuliani with Presidential Medal of Freedom",
+          "summary": "Rudy Giuliani, the former mayor of New York City who worked as a personal lawyer to President Trump, said he will be honored in the Oval Office.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/"
+          "url": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/"
         },
         {
           "headline": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
@@ -791,16 +781,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-          "summary": "Russia accused Estonia of “hostile actions” and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
+          "headline": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+          "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"
+          "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html"
         },
         {
-          "headline": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-          "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+          "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
+          "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
         },
         {
           "headline": "Australia set to pass digital duty of care law, fines up to 5% of global revenue",
@@ -827,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "3 things from Charlotte's 117-111 loss to Memphis",
-          "summary": "The Charlotte Hornets have struggled mightily over the past couple weeks, having now lost 11 of their last 12 after beginning the year 3-1. That said, Charlotte and their offense looked better Monday night against the Grizzlies, as the Hornets remained in striking distance throughout the entire contest, ultimately falling 117-111.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/3-things-charlottes-117-111-140157836.html"
-        },
-        {
-          "headline": "Three takeaways from UNC’s blowout win against Monmouth",
-          "summary": "Nov 23, 2026; Chapel Hill, North Carolina, USA; North Carolina Tar Heels guard Terrence Brown (1) lays the ball up against Monmouth Hawks forward Stefanos Spartalis (10) during the first half at Smith Center. Mandatory Credit: Zachary Taft-Imagn Images | IMAGN IMAGES via Reuters Connect Roy Williams used to say that everything looks better when the ball…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/three-takeaways-unc-blowout-win-140000829.html"
-        },
-        {
-          "headline": "NFL Week 12 upset alert: Don't count out Patrick Mahomes, Fernando Mendoza and these underdogs",
-          "summary": "Patrick Mahomes is heating up, Detroit owns its Thanksgiving opponent and three other underdogs have compelling paths",
+          "headline": "NFL Week 12 picks, score predictions: Bears, Chiefs lose on Thanksgiving; Rams edge Packers in thriller",
+          "summary": "Here's your weekly dose of John Breech's NFL picks",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-upset-picks-thanksgiving-games-chiefs-bills/"
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-breech-picks-score-predictions-bears-chiefs-rams-packers/"
+        },
+        {
+          "headline": "4 downs: Raiders valiant comeback bid falls short in Denver",
+          "summary": "In Sunday's matchup against the Denver Broncos , the Las Vegas Raiders fell behind 17-0 but battled back to tie it at 17 in the third quarter. Denver later went up 31-24, and the Raiders had a chance to tie, but Fernando Mendoza threw a costly pick-six that put the Broncos up 38-24, the final score.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/4-downs-raiders-valiant-comeback-143031053.html"
+        },
+        {
+          "headline": "Three-point attack lifts Michigan Women’s Basketball to victory over Miami",
+          "summary": "ANN ARBOR, MICHIGAN - NOVEMBER 18: Syla Swords #12 of the Michigan Wolverines shoots the ball during the first half against the Niagara Purple Eagles at Crisler Arena on November 18, 2026 in Ann Arbor, Michigan. (Photo by Jaime Crawford/Getty Images) | Getty Images The No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/three-point-attack-lifts-michigan-143002214.html"
+        },
+        {
+          "headline": "College basketball rankings: Keep an eye on the 5-0 Ole Miss Rebels scratching right outside the Top 25 And 1",
+          "summary": "Chris Beard's Ole Miss team is No. 1 in BartTorvik.com through the first 23 days of the 2026-27 season.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/rankings-top-25-and-1-ole-miss-rebels/"
         },
         {
           "headline": "No. 8 Arizona tops Colorado State 96-83 with all 5 starters reaching double figures in Maui",
           "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
-        },
-        {
-          "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
-          "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
         }
       ]
     },
@@ -863,28 +853,28 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Jason Segel Boards ‘Meeting Your Maker,’ Short About a Suicidal TV Puppet, as Executive Producer (Exclusive)",
+          "summary": "Written and directed by Gregory J.M. Kasunich, the Oscar-qualified dark comedy short stars Jonathan Kite ('2 Broke Girls') and Otis, a depressed kids' TV puppet star who must confront his creator.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095/"
+        },
+        {
+          "headline": "India-Chile Feature ‘The Fragile Empire of Ice’ to Span Antarctica, the Arctic and the Himalayas (EXCLUSIVE)",
+          "summary": "Chilean filmmaker Jorge López Sotomayor and Indian production company Pantellisense have signed a letter of intent to co-produce “The Fragile Empire of Ice,” a feature that the partners plan to open up from Antarctica to the Arctic and the Himalayas. The agreement was signed at the WAVES Film Bazaar, the market component of the International […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/india-chile-fragile-empire-of-ice-three-poles-co-production-1236956896/"
+        },
+        {
           "headline": "Abortion Dark Comedy ‘Nose Bone’ Takes Top Cash Grant as India’s WAVES Film Bazaar 2026 Wraps",
           "summary": "Garima Pura’s “Nose Bone,” a dark comedy about a young Punjabi woman racing to pay for an abortion, won the top $10,000 NFDC cash grant in the Co-Production Market as WAVES Film Bazaar 2026 closed in Goa on Tuesday with its awards ceremony. Pura, a co-writer of the Oscar-winning documentary “The Elephant Whisperers,” is producing […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/markets-festivals/abortion-dark-comedy-nose-bone-waves-film-bazaar-winners-1236956890/"
         },
         {
-          "headline": "‘I See Buildings Fall Like Lightning’ and ‘Savage House’ Win British Independent Film Awards in Craft Categories",
-          "summary": "The British Independent Film Awards has announced the winners of their craft categories for 2026, with Clio Barnard’s “I See Buildings Fall Like Lightning” leading the pack. Having bowed to acclaim in Cannes, the feature — following a group of lifelong friends grappling with pressures of life as they hit 30 — landed three awards.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/bifa-awards-craft-winners-announced-1236956841/"
-        },
-        {
-          "headline": "‘You Can See Everything’ Now Streaming: Where to Watch Nathan Fielder’s Elizabeth Holmes Doc Online",
-          "summary": "Fielder and Lance Oppenheim brought viewers into Holmes' home. Now she's coming into yours.",
+          "headline": "‘I See Buildings Fall Like Lightning’ Tops British Independent Film Awards’ Craft Winners",
+          "summary": "Shaheen Baig has claimed another best casting BIFA for her work on the Anthony Boyle, Joe Cole, Daryl McCormack, Lola Petticrew and Jay Lycurgo-starring drama.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-streaming-release-fielder-holmes-doc-1236761736/"
-        },
-        {
-          "headline": "Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit",
-          "summary": "A spokesperson for the director denied the allegations and said, \"It's not true.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/i-see-buildings-bifa-craft-award-winners-full-list-film-1236761903/"
         },
         {
           "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
@@ -899,16 +889,22 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Elev8on & French Wealth Manager Anato To Find European Investments For U.S. Stars",
+          "summary": "EXCLUSIVE: Elev8on Management has spent years finding American talent routes on to European screens, and now its going help them build business empires there. The Paris-based talent management company has teamed with French wealth advisory Anato Gestion Privée to launch Elev8on Private, a division aimed at finding U.S.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/elev8on-anato-europe-investments-american-stars-1237232440/"
+        },
+        {
+          "headline": "David Tennant Joins ‘The Four Seasons’ As Series Regular: “The Perfect Addition To Our Ensemble”",
+          "summary": "EXCLUSIVE: David Tennant’s cameo at the end of The Four Seasons‘ Season 2 finale was more than an amusing callback to the imaginary boyfriend Anne (Kerri Kenney-Silver) had conjured up earlier in the season — a lot more. While a Season 3 return for Tennant was expected after that cliffhanger, Deadline can reveal that the […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/david-tennant-the-four-seasons-series-regular-gianpiero-s3-1237232014/"
+        },
+        {
           "headline": "How ‘Landman’ Star Michelle Randolph Found Love… In a Rental Car",
           "summary": "After stealing scenes in not one but two Taylor Sheridan shows, the 29-year-old actress takes the wheel of Prime Video's new holiday romcom 'Clashing Through the Snow' — because \"sometimes you just want a predictable ending.\"",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/michelle-randolph-interview-landman-clashing-through-snow-1236760773/"
-        },
-        {
-          "headline": "‘SNL’ Heads to France With Canal+, NBCUniversal Unveiling Cast and Manu Payet as First Host (EXCLUSIVE)",
-          "summary": "“Saturday Night Live” is getting a French makeover, with comedian and actor Manu Payet set to host the inaugural episode on Dec. 19.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/snl-heads-france-canal-nbcuniversal-cast-manu-payet-1236956855/"
         },
         {
           "headline": "Netflix Partnering With BBC to to Bring Preschool Shows to Streamer, Fund New Commissions",
@@ -917,16 +913,10 @@
           "url": "https://variety.com/2026/tv/global/netflix-bbc-deal-preschool-shows-new-commissions-1236956807/"
         },
         {
-          "headline": "BBC To Launch CBeebies Hub On Netflix",
-          "summary": "CBeebies is coming to Netflix. For six months from December 2, a CBeebies branded hub will launch on the streamer featuring two-dozen shows from the BBC’s pre-school network including Hey Duggee, Numberblocks and Teletubbies.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bbc-launch-cbeebies-hub-netflix-hey-duggee-teletubbies-1237231627/"
-        },
-        {
-          "headline": "Netflix Sets ‘March Of The Jaguars’ Release, Narrated By Fernanda Torres & Its First Wildlife Film Out Of Latin America: Watch Trailer",
-          "summary": "EXCLUSIVE: Netflix Brazil has set a release date for March of the Jaguars, the streamer’s first wildlife documentary out of Latin America. The feature doc was created and produced in Brazil and is made by Alexandre Soullier and Emmanuel Priou, winner of the 2006 Oscar for Best Documentary Feature for March of the Penguins.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-march-of-the-jaguars-wildlife-film-fernanda-torres-1237232478/"
+          "headline": "‘Only Murders in the Building’ Stars Steve Martin and Martin Short, Without Selena Gomez, Cross Pond for Star-Studded Season 6 London Premiere",
+          "summary": "Nicola Coughlan and Simone Ashley came together for a mini 'Bridgerton' reunion, while the likes of Olivia Colman, Jim Broadbent, Richard E. Grant and David Tennant added even more Brit star power.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/only-murders-in-the-building-season-6-london-premiere-stars-1236761845/"
         }
       ]
     },
@@ -935,22 +925,22 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Skydance Products and Publishing Sets Leadership Team Under Josh Silverman",
+          "summary": "Silverman's team will add oversight of DC Comics, joining existing product and publishing leaders.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/skydance-products-publishing-sets-leadership-josh-silverman-1236762013/"
+        },
+        {
           "headline": "Veteran Entertainment, Media & Brand Execs Join Forces To Launch The Unlabelled Alliance",
           "summary": "EXCLUSIVE: Veteran execs from the media, entertainment and brand sectors have teamed up to launch an all-purpose advisory coalition, we can reveal. The Unlabelled Alliance comprises ex-UTA and Fremantle branded chief Sam Glynne, 7Wonder founder and TV producer Liza Abbott, Somethin’ Else director and audio industry veteran Steve Ackerman, Gleam Futures…",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/unlabelled-alliance-launched-industry-veterans-1237231687/"
         },
         {
-          "headline": "Skydance Products & Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure",
-          "summary": "Josh Silverman, President of Global Products & Publishing for Skydance, has set the division’s senior leadership team and announced the departure of one high-level executive. Since the close of the $110 billion merger of Paramount and Warner Bros.",
+          "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
+          "summary": "UPDATED with acceptance speech remarks. Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267/"
-        },
-        {
-          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
-          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
+          "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
         },
         {
           "headline": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
@@ -959,10 +949,10 @@
           "url": "https://www.hollywoodreporter.com/business/business-news/gta-6-strauss-zelnick-take-two-speakers-sxsw-london-2027-1236759919/"
         },
         {
-          "headline": "Super Bowl LXI to Touch Down in Imax Theaters",
-          "summary": "The NFL, ESPN and Walt Disney have agreed a first-ever deal to live stream the ultimate sports championship game in large format theaters in domestic and select international markets.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/super-bowl-lxi-imax-theaters-1236761160/"
+          "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
+          "summary": "The Hollywood Chamber of Commerce has announced the programming for its 2026 Entertainment Industry Conference, presented by Variety, on Dec. 8, including the Commitment to California Award for “Hacks” creators and showrunners Paul W.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hacks-creators-to-earn-commitment-to-california-award-1236955188/"
         }
       ]
     },
@@ -970,6 +960,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Never Mind the PR Stunts, Here’s the Sex Pistols Claiming to Part Ways With Frank Carter",
+          "summary": "Band will supposedly embark on final tour with Johnny Rotten's replacement next month",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/sex-pistols-frank-carter-final-tour-dates-1235663381/"
+        },
         {
           "headline": "Jodeci’s K-Ci Apologizes to Fans After Last-Minute Cancellation of Kentucky Show Due to ‘Severe Dehydration’",
           "summary": "Jodeci singer Cedric “K-Ci” Hailey sent out a heartfelt thank you to all the fans supporting him after the beloved New Jack Swing star was forced to pull the plug on the group’s planned show in Louisville, Ky. on Sunday (Nov.",
@@ -989,12 +985,6 @@
           "url": "https://www.rollingstone.com/music/music-news/u2-2027-north-america-tour-dates-1235662990/"
         },
         {
-          "headline": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
-          "summary": "Miley Cyrus and Maxx Morando tied the knot over the weekend at a ceremony in Palm Springs",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-wedding-father-billy-ray-cyrus-1235663323/"
-        },
-        {
           "headline": "Adéla Announces 2027 World Tour",
           "summary": "It runs nearly every single night from January to April",
           "source": "Pitchfork",
@@ -1003,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T09:17:39-05:00"
+  "updatedAt": "2026-11-24T09:50:03-05:00"
 }
