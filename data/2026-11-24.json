@@ -6,6 +6,18 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        },
+        {
+          "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel…",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+        },
+        {
           "headline": "UK warns AI-driven cyberattacks are exposing years of weak security",
           "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
           "source": "TechCrunch",
@@ -18,22 +30,10 @@
           "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
         },
         {
-          "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
-          "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-        },
-        {
-          "headline": "Jensen Huang deepfakes are the hot new AI slop",
-          "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
-        },
-        {
-          "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-          "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+          "headline": "AI is making its way into toys. What should parents do?",
+          "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "US Army recommends evacuations, details mitigation for controlled munition explosion",
-          "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
-        },
-        {
-          "headline": "Watch: Would you let Meta's AI agent run parts of your life?",
-          "summary": "Technology and AI editor Zoe Kleinman spent a week with Meta's new AI agent, Muse - but how useful was it?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/crz6qgj35yjpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Sacked London Pride boss given suspended prison sentence",
-          "summary": "The sentencing brings a long-running legal battle to an end.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5gvmme9q7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
           "summary": "Despite Iran claiming daily attacks on takers around the Strait of Hormuz and escalating fighting between the Saudis and Iran's Houthi allies, oil prices continue to decline.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "Philadelphia groups sue Trump administration over changes at slavery memorial",
-          "summary": "Two Philadelphia groups filed a federal lawsuit against the Trump administration over the removal of panels at the slavery memorial at the President’s House site.",
+          "headline": "Top Denmark court upholds \"non-Western\" evictions law",
+          "summary": "Denmark's Supreme Court has upheld a law that lets authorities limit the number of \"non-Western\" residents who can live in a public housing development.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/denmark-court-upholds-law-eviction-non-western-residents/"
+        },
+        {
+          "headline": "Canada's defense minister says his country answers to no one in Washington",
+          "summary": "Canada’s defense minister says that his country answers to no one in Washington, asserting Canadian sovereignty after the Pentagon accused Ottawa of failing to meet its military commitments",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/philadelphia-groups-sue-trump-administration-slavery-memorial/story?id=138408214"
+          "url": "https://abcnews.com/International/wireStory/canadas-defense-minister-country-answers-washington-after-pentagon-138417114"
+        },
+        {
+          "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
+          "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "US Army recommends evacuations, details mitigation for controlled munition explosion",
+          "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
         }
       ]
     },
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125299627217780998",
+          "created_at": "2026-11-24T18:44:51.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: The Islamic regime remains determined to break the blockade, its top security official Mohsen Rezaei said.\n\n“The Iranian nation, armed forces, and the entire state apparatus remain firmly determined to break the blockade…” https://t.co/Tq6E2sYCS3",
+          "url": "https://x.com/Osint613/status/2125299627217780998",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125298918061728146",
+          "created_at": "2026-11-24T18:42:02.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Market corrections are a regular phenomenon:\n\nThe US equity market has recorded an average of 1 correction of 10%+ per year since 1930.\n\nSince 2000, the S&amp;P 500 has seen 24 regular corrections.\n\nDespite these declines, the S&amp;P 500 has delivered positive annual returns in 19 https://t.co/Tebckn442q",
+          "url": "https://x.com/KobeissiLetter/status/2125298918061728146",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125296783652004177",
+          "created_at": "2026-11-24T18:33:33.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "If the SEC can’t enforce its own rules, what’s the point of the SEC?\n\nGreg Sankey needs to make LSU bend the knee. But expelling the Tigers could provide the proof of concept that other independence-curious schools are looking for. \n\n✍️: @mattyfoles\nhttps://t.co/JX4upU7pFZ",
+          "url": "https://x.com/SportNState/status/2125296783652004177",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125296646120497281",
+          "created_at": "2026-11-24T18:33:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Democrat Victoria Broderick has unseated eight-term GOP Rep. Scott DesJarlais in Tennessee's 4th District, a seat President Trump won by 24 points in 2024, by 361 votes. \n\nThe win gives Democrats 259 House seats, their largest majority since the early 1990s. https://t.co/qioZskRwFI",
+          "url": "https://x.com/RealAmVoice/status/2125296646120497281",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125296371188330836",
+          "created_at": "2026-11-24T18:31:55.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Interesting https://t.co/BdOAsEiVGm",
+          "url": "https://x.com/_The_Prophet__/status/2125296371188330836",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125295964768325695",
+          "created_at": "2026-11-24T18:30:18.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Russian President Putin:\n\n\"We see that the Kyiv regime is not halting attacks on our refining capacity. By the way, despite the call and direct request of the US President not to do this, to refrain from such attacks. Kyiv's authorities do not listen to such advice. Everything https://t.co/k1PqjbKtei",
+          "url": "https://x.com/Osint613/status/2125295964768325695",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125295911949734186",
+          "created_at": "2026-11-24T18:30:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "The US money supply is growing at its fastest pace in 4 years\n\nM2 rose 5.9% year over year in October, the biggest annual increase since May 2022, per the Federal Reserve's H.6 release out today\n\nM2 now sits at a record $23.53 trillion, up $1.31 trillion in the last 12 months and https://t.co/HVveMzMuvs",
+          "url": "https://x.com/_Investinq/status/2125295911949734186",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125295771964547242",
+          "created_at": "2026-11-24T18:29:32.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "PERCIVAL: “OBAMA WAS ON EASY MODE. WE’RE DOING THIS ON HARD.”\n\nJames Percival says the Trump administration is ramping up deportations despite resistance from activist judges, sanctuary jurisdictions and NGOs.\n\n“We are outperforming any previous administration by a country mile.” https://t.co/xexG5ZzuQ4",
+          "url": "https://x.com/RealAmVoice/status/2125295771964547242",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125295090025234827",
+          "created_at": "2026-11-24T18:26:50.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🚨 BREAKING: Microsoft declares “CODE RED” following historic global outage!\n\nInternal memos obtained by Reuters reveal major weaknesses in Microsoft's engineering and emergency response systems after a 24-hour outage disrupted governments, financial firms and airline https://t.co/Fr1tqDmynp",
+          "url": "https://x.com/RealAmVoice/status/2125295090025234827",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125295049139511478",
+          "created_at": "2026-11-24T18:26:40.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Consider the incentive this creates.\n\nA model deemed too dangerous for public access can still be used internally to accelerate the development of its successor. The laboratory retains the economic advantage of intelligence that nobody else can access.\n\nSafety and competitive https://t.co/SLrF4Sht8G",
+          "url": "https://x.com/_The_Prophet__/status/2125295049139511478",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125293475054964985",
+          "created_at": "2026-11-24T18:20:25.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️NEW: A new economic report estimates that 1.5 million white-collar jobs are missing from the American economy, with AI emerging as a suspected driver.\n\nThere is something buried inside that number that corporate earnings will never reveal.\n\nCompanies can liquidate the machinery",
+          "url": "https://x.com/_The_Prophet__/status/2125293475054964985",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125293384638103979",
+          "created_at": "2026-11-24T18:20:03.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "\"The END Of The World\" Elon Musk Warns AI Singularity IS NOW https://t.co/5GNieauzn7",
+          "url": "https://x.com/Timcast/status/2125293384638103979",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125290946233323913",
           "created_at": "2026-11-24T18:10:22.000Z",
@@ -169,26 +289,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125286106371375199",
-          "created_at": "2026-11-24T17:51:08.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iran's Foreign Minister Abbas Araghchi: \n\nThe U.S. is so concerned about chemical arms that it’s crippling the world’s chemical weapons watchdog. \n\nOPCW may be forced to suspend work and scale back vital programs. By obstructing its mandate, the U.S. is deliberately putting",
-          "url": "https://x.com/Osint613/status/2125286106371375199",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125285222123962666",
-          "created_at": "2026-11-24T17:47:37.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IRGC footage claims to show a vessel in flames after it tried an unauthorized route through the Strait of Hormuz. https://t.co/GfoG3pjrB1",
-          "url": "https://x.com/Osint613/status/2125285222123962666",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125284835518279763",
           "created_at": "2026-11-24T17:46:05.000Z",
           "author_name": "The Kobeissi Letter",
@@ -269,16 +369,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125268167400308848",
-          "created_at": "2026-11-24T16:39:51.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "KASH PATEL ANNOUNCES MASSIVE GLOBAL CYBERCRIME CRACKDOWN — NEARLY $17 BILLION SEIZED!\n\n@FBIDirectorKash reveals the staggering results of Operation Blackout:\n\n▪️ Nearly $17 BILLION in illicit funds seized\n▪️ More than 14,000 digital devices taken over\n▪️ 29 scam compounds https://t.co/Mls2kuN59s",
-          "url": "https://x.com/RealAmVoice/status/2125268167400308848",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125267697491419545",
           "created_at": "2026-11-24T16:37:59.000Z",
           "author_name": "Clay Travis",
@@ -339,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125260955722330334",
-          "created_at": "2026-11-24T16:11:11.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MASSIVE anti-scam crackdown!\n\nAG Todd Blanche and FBI Director Kash Patel announce over $8 BILLION in intended victim losses recovered or prevented, with 800+ defendants across 400+ cases.\n\nOfficials credit President Trump's executive order targeting fraud and scams against https://t.co/hvUxis7uVV",
-          "url": "https://x.com/RealAmVoice/status/2125260955722330334",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125260653560562086",
           "created_at": "2026-11-24T16:09:59.000Z",
           "author_name": "SpaceX",
@@ -369,32 +449,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125260008136827339",
-          "created_at": "2026-11-24T16:07:26.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MARC KLAAS ON GAVIN NEWSOM: \"IT'S JUST UNIMAGINABLE\"\n\nHis 12-year-old daughter, Polly, was abducted and strangled to death: \"It's just unimaginable to think what she went through from that moment until he squeezed the life out of her after raping her.\"\n\nhttps://t.co/BDB3k3pmuV",
-          "url": "https://x.com/RealAmVoice/status/2125260008136827339",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125258712067543405",
           "created_at": "2026-11-24T16:02:17.000Z",
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "At last weekend's NCAA cross country championships, schools led by Kenyan-born runners swept both the men's and women's team crowns. \n\nMeanwhile, coaches say they're afraid of being labeled xenophobic if they question the system. \n\nA new @Kayceeunplugged column:",
           "url": "https://x.com/SportNState/status/2125258712067543405",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125258460866711977",
-          "created_at": "2026-11-24T16:01:17.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Jim Cramer says $NVDA deserves 12 times next year's earnings, a $199 stock, even after data centers lost 40 of 41 ballot measures\n\n\"Data centers lost in 40 out of 41 ballot measures when voters were asked about the issue directly\"\n\n\"Even with today's rally, Nvidia is still https://t.co/egNuUyv2fy",
-          "url": "https://x.com/_Investinq/status/2125258460866711977",
           "verified": true,
           "verified_type": "blue"
         },
@@ -439,16 +499,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125249976951509476",
-          "created_at": "2026-11-24T15:27:34.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "It's rivalry week and @ClayTravis has 14 winning bets to carry us through the Thanksgiving weekend on @HardRockBet, plus the Blood Bank Guarantee.\n\nhttps://t.co/QVkItUshGn",
-          "url": "https://x.com/SportNState/status/2125249976951509476",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125249779642859578",
           "created_at": "2026-11-24T15:26:47.000Z",
           "author_name": "Matt Walsh",
@@ -457,16 +507,6 @@
           "url": "https://x.com/MattWalshBlog/status/2125249779642859578",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125249325340983345",
-          "created_at": "2026-11-24T15:24:59.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Traditional and onchain finance continue to converge.\n\nAs tokenization has become increasingly popular in US markets, tokenized stock on Solana can now serve as collateral.\n\nFor example, owners of Ondo's tokenized Tesla stock, $TSLA, can be utilized as collateral for DeFi https://t.co/v6tvkH42N5",
-          "url": "https://x.com/KobeissiLetter/status/2125249325340983345",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125247855409692869",
@@ -689,16 +729,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124938696445325754",
-          "created_at": "2026-11-23T18:50:39.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️This might be the best one yet 😂 https://t.co/mwUOGJ9XU2",
-          "url": "https://x.com/_The_Prophet__/status/2124938696445325754",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124938612890296500",
           "created_at": "2026-11-23T18:50:19.000Z",
           "author_name": "Tim Pool",
@@ -751,10 +781,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-          "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+          "headline": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+          "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html"
+          "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
+        },
+        {
+          "headline": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
+          "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
+        },
+        {
+          "headline": "Utah asks to drop charges against Kalshi, founders after Kalshi halts trading there",
+          "summary": "Utah is asking asked a court to dismiss the criminal charges it filed last month against Kalshi and two of its executives, accusing the prediction market operator of running an illegal gambling enterprise",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910"
         },
         {
           "headline": "US consumer confidence soars as election uncertainty ends, gas prices fall",
@@ -767,18 +809,6 @@
           "summary": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/"
-        },
-        {
-          "headline": "Australia set to pass digital duty of care law, fines up to 5% of global revenue",
-          "summary": "Australia is set to create new online safety laws that would make tech giants potentially liable for multibillion dollar fines for failing to prevent foreseeable online harms",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/australia-set-pass-digital-duty-care-law-fines-138406159"
-        },
-        {
-          "headline": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
-          "summary": "Gen Z is already skeptical they'll ever see a Social Security check. Now, a new survey suggests they're dipping into investment money to bet on sports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/"
         }
       ]
     },
@@ -787,16 +817,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Donovan Mitchell on Cavs' inconsistent effort in 9-9 start: 'I'm trying to figure out how not to end up on ESPN'",
-          "summary": "The Chicago Bulls entered Thanksgiving week as one of the NBA’s worst teams: 4-12, getting outscored by nearly eight points per 100 possessions, with the second-worst defense in the NBA . And yet, they controlled the bulk of Monday’s matchup with the Cleveland Cavaliers, leading for nearly the entire final three quarters — and by as many as 24 points —…",
+          "headline": "Minnesota Vikings Beat Writer Evaluates Team’s Chances of Adding Daniel Jones Again",
+          "summary": "IMAGN IMAGES via Reuters Connect Two years ago, when Daniel Jones was looking to revitalize his career after being cut loose by the New York Giants, he turned to the Minnesota Vikings for salvation. Recently released by the Indianapolis Colts, could history repeat itself in Minnesota again?",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/donovan-mitchell-on-cavs-inconsistent-effort-in-9-9-start-im-trying-to-figure-out-how-not-to-end-up-on-espn-181032910.html"
+          "url": "https://sports.yahoo.com/articles/minnesota-vikings-beat-writer-evaluates-182853131.html"
         },
         {
-          "headline": "São Paulo thrash Criciúma in women's Copinha opener",
-          "summary": "The Tricolor's Copinha F 2026 campaign is underway. Their opening match took place on Tuesday (24) at 11 a.m.",
+          "headline": "Taj Au-Duke hits winning shot in OT as St. Bonaventure beats Wright State 72-70",
+          "summary": "ORLANDO, Fla. (AP) — Benjamin Bill scored 20 points to lead St.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/o-paulo-thrash-crici-ma-180200241.html"
+          "url": "https://sports.yahoo.com/articles/taj-au-duke-hits-winning-182801197.html"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
@@ -811,10 +841,10 @@
           "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
         },
         {
-          "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
-          "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
+          "headline": "Mekhi Mason scores career-high 31 to lead San Jose State over UC San Diego 88-79",
+          "summary": "Mekhi Mason scored a career-high 31 points to lead San Jose State to a 88-79 victory over UC San Diego in the third-place game of the Acrisure Series",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
+          "url": "https://abcnews.com/Sports/wireStory/mekhi-mason-scores-career-high-31-lead-san-138402165"
         }
       ]
     },
@@ -823,16 +853,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Benjamín Naishtat’s ‘The Seven Madmen,’ With ‘I’m Still Here’ Star Selton Mello, Wraps Production",
+          "summary": "“The Seven Madmen,” starring Selton Mello (“I’m Still Here”) and directed by Benjamín Naishtat, is wrapping its shoot in Buenos Aires on Nov. 24, marking the latest advance on a production that weighs in as one of Latin America’s big bets for A-List festival selection in 2027.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/benjamin-naishtat-the-seven-madmen-selton-mello-1236957214/"
+        },
+        {
           "headline": "John Turturro, Carrie Coon, Guitarricadelafuente and Peter Gamble Among SFFILM Awards Night Honorees",
           "summary": "John Turturro, Carrie Coon, Guitarricadelafuente and Peter Gamble are the SFFILM awards night honorees for 2026. The ceremony will take place Dec.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/john-turturro-carrie-coon-sffilm-honorees-1236956973/"
-        },
-        {
-          "headline": "‘Shaun the Sheep: The Beast of Mossy Bottom’ Directors on ‘Game of Thrones’ Easter Egg and the ‘Challenge’ of Filming Michael Jackson’s ‘Thriller’ Dance in Stop-Motion",
-          "summary": "Michael Jackson’s “Thriller” sets the tone for “Shaun the Sheep: The Beast of Mossy Bottom,” the third feature film in Aardman Animations’ popular stop-motion franchise that follows Shaun as a mad scientist after the farmer ruins the flock’s pumpkin patch the night before Halloween. While the film opens with an upbeat homage to the King […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/shaun-the-sheep-directors-thriller-game-of-thrones-variety-screening-series-1236956678/"
         },
         {
           "headline": "‘Focker-in-Law’ Filmmaker John Hamburg Talks Ariana Grande’s Comedic Timing and the Actor Who Made Ben Stiller Laugh Hardest on Set",
@@ -859,13 +889,25 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Sylvester Stallone Wants Arnold Schwarzenegger for a ‘Tulsa King’ Spinoff: “I Hope He Agrees”",
+          "summary": "The actor-producer wants his enemy-turned-friend for another Taylor Sheridan show.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/sylvester-stallone-tulsa-king-spinoff-arnold-schwarzenegger-1236762273/"
+        },
+        {
+          "headline": "‘Aquamarine’ Gets Disney Series Greenlight; Emma Roberts & Jake McDorman To Reprise Film Roles & Exec Produce",
+          "summary": "An adaptation of the 2006 film Aquamarine has been picked up to series at Disney+ and Disney Channel, Disney announced Tuesday. Ordered to pilot in June, Aquamarine stars Kenzi Richardson as Coral, alongside Briella Guiza (Mia), Theodore Dalton (August) and Annika Reese (Paige).",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/aquamarine-disney-series-order-emma-roberts-jake-mcdorman-1237232575/"
+        },
+        {
           "headline": "Elizabeth Holmes’ Ex-Assistant Speaks Out on ‘You Can See Everything’ and Amanda Seyfried’s ‘Valid’ Performance: Holmes ‘Softened a Lot in the Film’",
           "summary": "For Aria Marinelli, “You Can See Everything” hit a little close to home. Marinelli, who worked as Elizabeth Holmes’ assistant in 2009, during the early stages of Theranos, spoke about watching her former boss in the documentary in an interview with Warner Bailey on “AvA Live.” “My initial reaction was I did not want to […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/elizabeth-holmes-ex-assistant-you-can-see-everything-1236957074/"
         },
         {
-          "headline": "‘The Lord of The Rings: The Rings of Power’ Renewed For Season 4 At Amazon",
+          "headline": "‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon",
           "summary": "Amazon is showing faith in Middle Earth after renewing The Lord of The Rings: The Rings of Power for a fourth season. The streamer has confirmed that the fantasy drama is in pre-production for a fourth run and will begin filming at Shepperton Studios in the UK in the spring.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/lord-of-the-rings-rings-of-power-renewed-season-4-amazon-1237232657/"
@@ -875,18 +917,6 @@
           "summary": "Author Richard Osman, whose novel “The Thursday Murder Club” was adapted by Netflix into a star-studded film last year, claims his wife’s casting in the project was entirely coincidental. Directed by “Home Alone” and “Harry Potter” helmer Chris Columbus, the film featured Helen Mirren, Pierce Brosnan, Ben Kingsley and Celia Imrie as a group of […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/thursday-murder-club-richard-osman-wife-netflix-1236957129/"
-        },
-        {
-          "headline": "Ariana Grande Sets Peacock Double Play With ‘Eternal Sunshine Tour’ Concert Film & Making-Of Doc",
-          "summary": "Ariana Grande hit the concert trail this past summer for the first time in seven years, and she is giving fans a close-up look at the show and how she and her team prepped for it. The three-time Grammy winner has set two projects to stream on Peacock this month: documentary The Eternal Sunshine Diaries: […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/ariana-grande-peacock-special-eternal-sunshine-diaries-tour-1237232613/"
-        },
-        {
-          "headline": "Netflix’s ‘The Murder of JonBenét Ramsey’ Haunting Trailer Shines Spotlight on Melissa McCarthy and Clive Owen",
-          "summary": "The limited series from showrunner Richard LaGravenese releases its six episodes in December.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-murder-of-jonbenet-ramsey-trailer-mccarthy-owen-1236762125/"
         }
       ]
     },
@@ -894,6 +924,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Joe Rogan’s The Most Trusted Name In Media For Dudes – Especially Dudes With Daddy Issues",
+          "summary": "When Dolly Parton sadly passed earlier this year, the chorus of grief all agreed that the 9-to-5 singer was one of the few figures in American public life that everyone admired. Turns out that might be true for Joe Rogan as well, at least among men without male authority figures in their lives.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/joe-rogan-most-trusted-in-media-report-1237232007/"
+        },
         {
           "headline": "‘One & Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years",
           "summary": "Click here for Medication Guide, including Boxed Warning. In a world where trends come and go, there’s one thing that never goes out of style: being authentically yourself.",
@@ -917,12 +953,6 @@
           "summary": "Rachel Maddow, Chris Hayes, Jen Psaki and Lawrence O'Donnell are among the hosts that have signed the letter, while MS NOW chief Rebecca Kutler told staff 'Let me be clear: we support our employees' right to organize, to be represented, and to advocate for themselves.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/maddow-psaki-ms-now-open-letter-wga-east-deal-versant-1236762030/"
-        },
-        {
-          "headline": "YouTube True-Crime Channel Dr. Insanity Launches Podcast With Audioboom",
-          "summary": "Earlier this summer, Ed Simpson teamed with Content Partners to buy YouTube true-crime channel Dr. Insanity.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/youtube-true-crime-channel-dr-insanity-podcast-audioboom-1237232398/"
         }
       ]
     },
@@ -931,37 +961,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Ms. Rachel Visits NYC Immigration Court to Support Children Facing Deportation: ‘Stop the Cruelty!’",
-          "summary": "Children going through immigration court in Manhattan on Monday (Nov. 23) had at least one person looking out for them: Ms.",
+          "headline": "Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No. 1 Again This Year?",
+          "summary": "As the weather is getting colder this Thanksgiving week, the race for the first No. 1 of the holiday season is heating up.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/ms-rachel-visits-kids-nyc-immigration-court-video-1236388868/"
+          "url": "https://www.billboard.com/music/chart-beat/mariah-carey-wham-christmas-number-one-race-1236388804/"
+        },
+        {
+          "headline": "Tidal Bans AI Songs",
+          "summary": "In a first-of-its-kind move, the platform plans to delete some 29 million songs it deems wholly AI-generated",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/tidal-bans-ai-songs/"
+        },
+        {
+          "headline": "Ella Langley Delivers a CMA Six-Pack for the Record Books",
+          "summary": "Among the multiple parties, red carpets and awards events leading up to the 60th annual Country Music Association Awards on Nov. 18, one topic invariably emerged as the Ellaphant in the room.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/country-update-ella-langley-cma-1236388925/"
+        },
+        {
+          "headline": "Ariana Grande Tour Doc to Show the Process Behind ‘Eternal Sunshine’ and ‘Petal’",
+          "summary": "Two-part film, set for December release, will document a behind-the-scenes look at the run-up to the tour, as well as a concert film",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/ariana-grande-eternal-sunshine-tour-doc-1235663582/"
         },
         {
           "headline": "Nick Carter Loses Bid to Dismiss Sexual Battery Claim From Melissa Schuman",
           "summary": "The judge ruled the claim could proceed to a May 10 trial based on a newly enacted revival window",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/nick-carter-backstreet-boys-melissa-schuman-claim-survives-1235663534/"
-        },
-        {
-          "headline": "Watch Brianna Cameron and Connor Closs Drive the Studio Audience Crazy With a Killer ‘I Will Always Love You’ on ‘The Voice’",
-          "summary": "Covering Dolly Parton ‘s “I Will Always Love You” is a fool’s errand in a world where Whitney Houston ‘s Grammy-winning 1992 version for the soundtrack to The Bodyguard has long been the standard of pop ballad excellence. But you can’t win if you don’t swing big, so on Monday night’s (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/tv-film/brianna-cameron-connor-closs-i-will-always-love-you-the-voice-1236388832/"
-        },
-        {
-          "headline": "See Noah Kahan Captivate Audiences With Extended ‘Orbiter’",
-          "summary": "Song features on upcoming Live From the Great Divide album, which arrives just in time for the holidays",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/noah-kahan-live-from-the-great-divide-album-1235663532/"
-        },
-        {
-          "headline": "U2 Plot North American Stadium Tour",
-          "summary": "The War on Drugs support the West Coast and Southern dates, with Stephen Wilson Jr. on the East Coast",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/u2-plot-north-american-stadium-tour/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-24T13:12:48-05:00"
+  "updatedAt": "2026-11-24T13:46:48-05:00"
 }
