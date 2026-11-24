@@ -192,7 +192,9 @@ LOCAL_OUTLET_RE = re.compile(
 # Editor: shopping/deal roundups are not news.
 # Editor (Nov 21): Variety "Strictly Business" sponsored tax/charity pieces.
 # Editor (Nov 23): sportsbook guides and promo posts live under /betting/ (CBS Sports).
-JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/", re.I)
+# Editor (Nov 23, night): NPR "Up First" newsletter digests (several topics in one
+# headline) held a Politics slot 31 of 33 runs and duplicated the House story.
+JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter", re.I)
 JUNK_HEAD_RE = re.compile(
     r"black friday|cyber monday|gift guide|prime day|promo code|bonus code|"
     r"bonus(es)? (from|at|with) (betting|sportsbook)",  # Editor (Nov 21)
@@ -223,6 +225,17 @@ SPORTS_TEMPLATE_RE = re.compile(
 )
 # Editor (Nov 22): TV keeps TV; film/music URLs and box-office stories belong elsewhere.
 TV_OFF_RE = re.compile(r"/(film|music|movies)/|box office", re.I)
+# Editor (Nov 23, night): Sports stays national. Yahoo Sports syndicates local
+# papers and TV stations (Spokesman-Review Gonzaga/Eastern Washington items on
+# Nov 20, 22 and 23; CT Insider prep football; WPXI). The original outlet is in
+# the item's <source>; drop local newspapers and call-sign TV stations. National
+# outlets (AP, USA TODAY, NBC Sports, SB Nation, team "Wire" sites) still pass.
+LOCAL_ORIGIN_RE = re.compile(
+    r",\s*[A-Z][a-z]+\.?$|^(The )?[KW][A-Z]{2,3}\b|Insider$|Spokesman|Times-Union|Enquirer|Gazette|Courier|"
+    r"Tribune|Star-Telegram|Register|Dispatch|Herald|Journal|Free Press|Plain Dealer|Oklahoman|Tennessean|"
+    r"Commercial Appeal|Deseret|Patriot-News|PennLive|Morning Call|Sentinel|Daily News|Statesman|Advocate|"
+    r"Clarion|Citizen|Chronicle|Post-Gazette|Union-Tribune|Times-Picayune|Democrat",
+)
 # Editor: Sports stays national; drop high-school / local prep roundups.
 LOCAL_SPORTS_RE = re.compile(r"\b(high school|state playoffs?|prep (football|sports|basketball))\b", re.I)
 TAG_RE = re.compile(r"<[^>]+>", re.S)
@@ -375,8 +388,12 @@ def parse_feed(payload: bytes) -> list[dict]:
         body = encoded or desc
         if not title or not link.startswith("http"):
             continue
+        # Editor (Nov 23, night): syndicating feeds (Yahoo Sports) name the
+        # original outlet in <source> / dc:publisher.
+        origin = child_text(el, "source") or child_text(el, "publisher")
         out.append(
             {
+                "origin": strip_html(origin),
                 "headline": title,
                 "summary": summarize(body, title),
                 "url": link.split("?", 1)[0] if "utm_" in link else link,
@@ -519,8 +536,12 @@ def off_rules(story: dict, section: str) -> bool:
 def is_philly(story: dict) -> bool:
     """Sports-only guard: local Philadelphia-area outlets or local prep roundups (Philly teams themselves are allowed)."""
     blob = f"{story.get('headline') or ''} {story.get('summary') or ''} {story.get('url') or ''}"
-    outlet = f"{story.get('url') or ''} {story.get('source') or ''}"
-    return bool(LOCAL_OUTLET_RE.search(outlet) or LOCAL_SPORTS_RE.search(blob))
+    outlet = f"{story.get('url') or ''} {story.get('source') or ''} {story.get('origin') or ''}"
+    return bool(
+        LOCAL_OUTLET_RE.search(outlet)
+        or LOCAL_SPORTS_RE.search(blob)
+        or LOCAL_ORIGIN_RE.search(story.get("origin") or "")
+    )
 
 
 def verify_url(url: str, timeout: int = 12) -> bool:
@@ -653,8 +674,17 @@ TOPIC_STOP = set(
     china chinese iran iranian israel israeli gaza ukraine ukrainian russia russian europe european uk britain
     british england canada canadian mexico japan india korea north south east west new york california texas
     washington los angeles san francisco
+    alabama alaska arizona arkansas colorado connecticut delaware florida georgia hawaii idaho illinois
+    indiana iowa kansas kentucky louisiana maine maryland massachusetts michigan minnesota mississippi
+    missouri montana nebraska nevada hampshire jersey mexico carolina dakota ohio oklahoma oregon
+    pennsylvania rhode island tennessee utah vermont virginia wisconsin wyoming
+    thanksgiving christmas halloween easter hanukkah award awards tease teases fantasy
     """.split()
 )
+# Editor (Nov 23, night): US state names, holidays and a few generic words were
+# turning unrelated stories into one "subject" (Thanksgiving travel + Bears
+# injury report + food costs; Michigan football + an Amazon drone in Michigan;
+# North Carolina recount + a cat video), so they are exempt like countries.
 DEPART_RE = re.compile(
     r"\b(resign(s|ed)?|steps? down|stepping down|out at|ousted|ouster|fired|exits?|departs?|quits?|leaves|removed)\b",
     re.I,
@@ -776,10 +806,21 @@ def headline_anchors(story: dict, vocab: set[str] | None = None) -> frozenset:
     the subject is not hot (e.g. two Gomez resignation stories)."""
     vocab = vocab or set()
     out = set()
+
+    def name_like(tok: str) -> bool:
+        return len(tok) >= 3 and tok not in TOPIC_STOP and tok not in vocab and not tok.isdigit()
+
     for m in RUN_RE.finditer(story.get("headline") or ""):
-        tok = _norm_entity(m.group(0).split()[-1])
-        if len(tok) >= 3 and tok not in TOPIC_STOP and tok not in vocab and not tok.isdigit():
-            out.add(tok)
+        words = [_norm_entity(w) for w in m.group(0).split()]
+        if name_like(words[-1]):
+            out.add(words[-1])
+        # Editor (Nov 23, night): title-case headlines make the capitalized run
+        # end on an ordinary word ("Bela Bajaria Calls Time ..."), so also use
+        # any two adjacent name-like words ("bela bajaria"). Two Bajaria stories
+        # sat together in Media for two runs on Nov 23.
+        for a, b in zip(words, words[1:]):
+            if name_like(a) and name_like(b):
+                out.add(a + " " + b)
     return frozenset(out)
 
 
@@ -834,6 +875,7 @@ def collect_candidates(feed: dict, items: list[dict]) -> list[dict]:
             "source": feed["source"],
             "url": item["url"],
             "published": item.get("published") or "",
+            "origin": item.get("origin") or "",
         }
         if prefer and not url_matches(story["url"], prefer):
             continue
@@ -853,6 +895,7 @@ def collect_candidates(feed: dict, items: list[dict]) -> list[dict]:
                     "source": feed["source"],
                     "url": item["url"],
                     "published": item.get("published") or "",
+                    "origin": item.get("origin") or "",
                 }
                 if off_rules(story, feed["section"]):
                     continue

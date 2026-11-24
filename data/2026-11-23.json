@@ -745,6 +745,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
+          "summary": "President Donald Trump has condemned California Governor Gavin Newsom's decision to commute hundreds of death sentences",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/trump-targets-newsom-democrats-justice-department-speech-focused-138377258"
+        },
+        {
           "headline": "Family of those arrested in chaotic ICE incident at Seattle airport speaks out",
           "summary": "Immigration agents dragged a father and his adult daughter out of a jet bridge side door at a Washington state airport as they screamed for help. Camilo Montoya-Galvez spoke with the family.",
           "source": "CBS News",
@@ -763,16 +769,10 @@
           "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
         },
         {
-          "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+          "headline": "After midterm losses, Republicans debate what's next for the party",
+          "summary": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
-        },
-        {
-          "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
-          "summary": "House Democrats have secured their best general election in decades, winning 258 seats",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-258-seats-largest-138361835"
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party"
         }
       ]
     },
@@ -793,12 +793,6 @@
           "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html"
         },
         {
-          "headline": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-          "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html"
-        },
-        {
           "headline": "They attended Trump's controversial meme coin dinner. It didn't go well",
           "summary": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
           "source": "NPR",
@@ -809,6 +803,12 @@
           "summary": "High diesel prices have put pressure on small U.S. trucking businesses",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/small-us-trucking-firms-scramble-survive-mounting-diesel-138378304"
+        },
+        {
+          "headline": "Anthropic's IPO set for blastoff in key test for AI boom",
+          "summary": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
         }
       ]
     },
@@ -817,16 +817,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "📹 Eh? Neymar taunts Grêmio after defeat: I thought it was a certain win",
-          "summary": "Santos lost 2–0 to Grêmio at MorumBIS on Monday (23), in the third-to-last round of the 2026 Brasileirão. The result \"spoiled\" the banter for those hoping that Grêmio and Internacional would both end the round in the relegation zone.",
+          "headline": "Gavin McKenna scores as the Maple Leafs beat the Islanders to end their 9-game skid",
+          "summary": "NEW YORK (AP) — Gavin McKenna scored the go-ahead goal on a delayed penalty with just over 11 minutes remaining, and the Toronto Maple Leafs ended their losing streak at nine games by rallying to defeat the New York Islanders 4-2 on Monday night. Falling behind just over three minutes in when Anthony Duclair scored and getting outshot 15-6 in the first…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/eh-neymar-taunts-gr-mio-023800042.html"
+          "url": "https://sports.yahoo.com/articles/gavin-mckenna-scores-maple-leafs-031421857.html"
         },
         {
-          "headline": "Carys Baker scores 24 and No. 3 Louisville women top Seattle U 97-78 for Great Alaska Shootout title",
-          "summary": "ANCHORAGE, Alaska (AP) — Carys Baker matched her career-high with 24 points, Zamareya Jones and Amiya Joyner each had a double-double, and No. 3 Louisville beat Seattle U 97-78 on Sunday to claim the program’s first Great Alaska Shootout championship.",
+          "headline": "Ty Jerome scores 29, Cam Spencer has 24 as Grizzlies hand Hornets their 5th straight loss, 117-111",
+          "summary": "CHARLOTTE, N.C. (AP) — Ty Jerome made seven 3-pointers and finished with 29 points, and the Memphis Grizzlies handed the Charlotte Hornets their fifth straight loss, 117-111 on Monday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/carys-baker-scores-24-no-023137886.html"
+          "url": "https://sports.yahoo.com/articles/ty-jerome-scores-29-cam-024830593.html"
         },
         {
           "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
@@ -835,16 +835,16 @@
           "url": "https://abcnews.com/Sports/wireStory/brock-purdy-carves-vikings-3-td-passes-49ers-138368566"
         },
         {
-          "headline": "Giants intercept Trevor Lawrence twice and hold on to beat the Jaguars 23-18",
-          "summary": "J",
+          "headline": "Wizards rout the Magic 116-96 to win their 3rd straight following an 8-game skid",
+          "summary": "Kyshawn George scored 24 points and Anthony Davis added 22 to lead the Washington Wizards to their third straight victory, 116-96 over the Orlando Magic",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/giants-intercept-trevor-lawrence-hold-beat-jaguars-23-138366280"
+          "url": "https://abcnews.com/Sports/wireStory/wizards-rout-magic-116-96-win-3rd-straight-138367591"
         },
         {
-          "headline": "Joel Klatt explains why Michigan football's UCLA upset wasn't a shock",
-          "summary": "Michigan football shocked much of the country by beating the previously undefeated UCLA team that came into Ann Arbor this past Saturday. But one person who wasn't shocked?",
+          "headline": "Hellebuyck returns to form, making 19 saves as the Devils beat the Blue Jackets 3-2",
+          "summary": "NEWARK, N.J. (AP) — Connor Hellebuyck made 19 saves two days after getting an early hook and the New Jersey Devils beat the Columbus Blue Jackets 3-2 Monday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/joel-klatt-explains-why-michigan-022805224.html"
+          "url": "https://sports.yahoo.com/articles/hellebuyck-returns-form-making-19-024613102.html"
         }
       ]
     },
@@ -852,6 +852,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit",
+          "summary": "A spokesperson for the director denied the allegations and said, \"It's not true.\"",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725/"
+        },
         {
           "headline": "Woody Harrelson Turned Down Haymitch Offer Twice: I Didn’t ‘Think There Was Enough to Do’ in ‘The Hunger Games’",
           "summary": "While a certain generation might associate Woody Harrelson most with his role as Haymitch Abernathy in the billion-dollar “Hunger Games” franchise, the actor has admitted he needed convincing to sign on for the dystopian film. During a recent Vanity Fair interview alongside his “The Hunger Games: Sunrise on the Reaping” co-star Joseph Zada (who plays […]",
@@ -875,12 +881,6 @@
           "summary": "Elsinore , actor Ian Charleson played the role in a Cambridge Theatre Company production in 1974.'/> The new movie Elsinore is about the late Scottish actor's critically-acclaimed performance as Hamlet while he was dying of AIDS. His final role is only part of his powerful story.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/23/nx-s1-6027946/ian-charleson-elsinore-andrew-scott-chariots-of-fire-gandhi"
-        },
-        {
-          "headline": "Some kids movies are even better when you see them as an adult",
-          "summary": "Kids movies often hold riches that only adults can appreciate.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/22/nx-s1-6034981/some-kids-movies-are-even-better-when-you-see-them-as-an-adult"
         }
       ]
     },
@@ -889,22 +889,22 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
-          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
+          "headline": "2026 International Emmy Winners Revealed: ‘Carême’ Wins Best Drama",
+          "summary": "Other top winners include 'División Palermo' for best comedy, best actor Bobby Schofield for 'Unforgivable' and best actress Mona Mina Leon for 'Holy Sh!t.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/"
         },
         {
-          "headline": "‘I’m A Celebrity’s AJ Odudu Gets Support From ‘BBUK’ Co-Host Will Best & More Stars Amid Microaggressions On ITV Reality Series",
-          "summary": "AJ Odudu is receiving support from celebrity friends amid microaggressions on ITV’s I’m a Celebrity… Get Me Out of Here. A clip from the competition series has gone viral on social media, which shows Odudu and Mariella Frostrup in a tense moment.",
+          "headline": "David Zaslav Recalls “Awkward Moment” Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff “Motivated”",
+          "summary": "In one of his first public appearances since the close of the $110 billion Skydance merger, ex-Warner Bros. Discovery CEO David Zaslav on Monday recalled a key sequence during the deal’s regulatory review.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/im-a-celebrity-aj-odudu-support-microaggressions-itv-reality-1237232114/"
+          "url": "https://deadline.com/2026/11/david-zaslav-skydance-merger-gerhard-zeiler-wbd-emmys-1237232182/"
         },
         {
-          "headline": "‘Only Murders In The Building’ Returning To New York For Likely Season 7",
-          "summary": "A new murder mystery sent the characters from Hulu’s Only Murders in the Building to London for Season 6, and it’s where the show hosted its premiere this evening, with the cast, producers, and creatives teasing what’s ahead. The series will premiere on December 8 via Hulu and on Disney+ internationally.",
+          "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
+          "summary": "UPDATED with acceptance speech remarks. Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/only-murders-in-the-building-new-york-return-season-7-1237231938/"
+          "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
         },
         {
           "headline": "Zosia Mamet Slams ‘Mad Men’ Boss Matthew Weiner as ‘Horrible’ Because He ‘Rules With Fear’: ‘He Dressed Me Down for 45 Minutes’",
@@ -925,10 +925,10 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
-          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
+          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
+          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
         },
         {
           "headline": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
@@ -943,16 +943,16 @@
           "url": "https://deadline.com/2026/11/cbs-buyouts-local-stations-skydance-1237231967/"
         },
         {
+          "headline": "Reliant Talent Adds Jason Zenowich, Kyle Levinson, Rick Ferrell & Michelle Romeo As Agents",
+          "summary": "EXCLUSIVE: Reliant Talent Agency has added four new agents across their talent, touring and corporate departments. On the talent theatrical side, the company has hired veteran talent agent Jason Zenowich who has worked at ICM, A3 and most recently the Kohner Agency.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/reliant-talent-agency-jason-zenowich-kyle-levinson-rick-ferrell-michelle-romeo-1237231857/"
+        },
+        {
           "headline": "Super Bowl LXI to Touch Down in Imax Theaters",
           "summary": "The NFL, ESPN and Walt Disney have agreed a first-ever deal to live stream the ultimate sports championship game in large format theaters in domestic and select international markets.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/super-bowl-lxi-imax-theaters-1236761160/"
-        },
-        {
-          "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
-          "summary": "The Hollywood Chamber of Commerce has announced the programming for its 2026 Entertainment Industry Conference, presented by Variety, on Dec. 8, including the Commitment to California Award for “Hacks” creators and showrunners Paul W.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hacks-creators-to-earn-commitment-to-california-award-1236955188/"
         }
       ]
     },
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T21:48:00-05:00"
+  "updatedAt": "2026-11-23T22:17:52-05:00"
 }
