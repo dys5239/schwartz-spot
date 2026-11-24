@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "AI is making its way into toys. What should parents do?",
+          "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
+        },
+        {
           "headline": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
           "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
           "source": "Wired",
@@ -28,12 +34,6 @@
           "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
-        },
-        {
-          "headline": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-          "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
         }
       ]
     },
@@ -48,28 +48,28 @@
           "url": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988"
         },
         {
-          "headline": "Inquiry expected into Birmingham housing scheme 'exploitation' after BBC investigation",
-          "summary": "Birmingham has more than 34,000 people living in Supported Exempt Accommodation.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-          "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
           "summary": "Despite Iran claiming daily attacks on takers in and around the Strait of Hormuz and no sign of a deal to end the nearly 9-month war, crude oil prices continue to fall.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "CBS News went to Singapore and Malaysia to see how China may be accessing Nvidia chips",
-          "summary": "Ramy Inocencio traveled to Singapore and Malaysia for a deeper look at Megaspeed, where suspected Chinese spy Alice Huang worked as an executive.",
+          "headline": "Gisèle Pelicot to sue publisher after nude images sent to media",
+          "summary": "Gisèle Pelicot, who spoke out about being drugged and raped by her husband and 50 other men, says she's been \"once again humiliated.\"",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/cbs-news-went-to-singapore-and-malaysia-to-see-how-china-may-be-accessing-nvidia-chips/"
+          "url": "https://www.cbsnews.com/news/gisele-pelicot-suing-publisher-nude-images-book-france/"
+        },
+        {
+          "headline": "Inquiry into Birmingham housing scheme 'exploitation' after BBC investigation",
+          "summary": "Birmingham has more than 34,000 people living in Supported Exempt Accommodation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "WATCH: Detroit Lions help feed their community this Thanksgiving",
+          "summary": "ABC News' Will Reeve shares how the Detroit Lions are carrying on a Thanksgiving tradition of giving back to those in need.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138408581/"
         }
       ]
     },
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125246727305511212",
+          "created_at": "2026-11-24T15:14:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "2 U.S. Air Force refueling tankers from MacDill Air Force Base in Florida are reportedly preparing to meet a possible B-1B bomber in the air to give it fuel. 👇🏻 https://t.co/Q6N7OMnam0",
+          "url": "https://x.com/Osint613/status/2125246727305511212",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125246285016113430",
+          "created_at": "2026-11-24T15:12:54.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "@Real_AM_Music PRE-ORDER \"Real America's Christmas\" at https://t.co/kJz6UItvEW",
+          "url": "https://x.com/RealAmVoice/status/2125246285016113430",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125246131567267953",
+          "created_at": "2026-11-24T15:12:17.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Faith. Family. Freedom. And the songs that bring us home.\n\nCelebrate Christmas the way America celebrates it! @Real_AM_Music presents \"Real America's Christmas\" — an album filled with festive favorites, heartfelt melodies, and music that honors the true reason for the season. https://t.co/kJZ4z0Hdk8",
+          "url": "https://x.com/RealAmVoice/status/2125246131567267953",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125245944429978052",
+          "created_at": "2026-11-24T15:11:32.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "China's top fear: AI giving the U.S. a decisive edge in nuclear war.\n\nN12",
+          "url": "https://x.com/Osint613/status/2125245944429978052",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125245807632724112",
+          "created_at": "2026-11-24T15:11:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: US equity ETFs attracted +$220 billion in inflows over the 33 trading days ending November 20th, the 4th-largest 33-day rolling inflow on record.\n\nThis figure has more than tripled over the last 4 months.\n\nThis marks the 2nd time in 2026 that 33-day rolling inflows have https://t.co/EsWnfDczE9",
+          "url": "https://x.com/KobeissiLetter/status/2125245807632724112",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125245328563831017",
+          "created_at": "2026-11-24T15:09:06.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A tower in Riyadh's financial district was hit in a Houthi attack that left 11 people injured, according to Saudi Civil Defense.",
+          "url": "https://x.com/Osint613/status/2125245328563831017",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125244909825204734",
+          "created_at": "2026-11-24T15:07:26.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Rudy Giuliani is set to receive the Presidential Medal of Freedom from Trump.",
+          "url": "https://x.com/Osint613/status/2125244909825204734",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125244373315260588",
+          "created_at": "2026-11-24T15:05:18.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "CrowdStrike CEO George Kurtz says a quarter of all software vulnerabilities ever found were discovered this year\n\n\"Just this year, we've found 25% of all the CVEs for the entirety of finding CVEs\"\n\n\"It's literally doubling every month\"\n\n\"Anyone can be a nation state. And you've https://t.co/GEkefKJQLM",
+          "url": "https://x.com/_Investinq/status/2125244373315260588",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125244337747533906",
+          "created_at": "2026-11-24T15:05:09.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "This is insane even for Michigan athletics. https://t.co/GfkUczMAXz",
+          "url": "https://x.com/ClayTravis/status/2125244337747533906",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125241497020662088",
+          "created_at": "2026-11-24T14:53:52.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "NEW:\n\n🚨 Vetting Crisis Continues 🚨 \n\nA Muslim, Obama-Biden holdover named “Faisal Amin” who worked in Barack Hussein Obama’s transition team and also worked for Joe Biden and Kamala Harris has just been made the new CFO of the National Archives under the Trump administration. https://t.co/vpdtdPgk0b",
+          "url": "https://x.com/LauraLoomer/status/2125241497020662088",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125238528988655638",
           "created_at": "2026-11-24T14:42:04.000Z",
@@ -169,16 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125229772254945750",
-          "created_at": "2026-11-24T14:07:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The United States could impose new tariffs on most imports as early as this week. The levies would likely be added on top of existing tariffs of 10% to 12.5%. China, India and Vietnam could face higher rates, while the EU, Japan and South Korea are expected at 15% or lower. The",
-          "url": "https://x.com/Osint613/status/2125229772254945750",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125229314689908779",
           "created_at": "2026-11-24T14:05:28.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -187,16 +277,6 @@
           "url": "https://x.com/RealAmVoice/status/2125229314689908779",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125228514810966096",
-          "created_at": "2026-11-24T14:02:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: Lana Nusseibeh could win Britain’s backing in the next vote for UN chief. Ed Miliband is reconsidering the UK’s position after it reportedly voted against her last week, per FT. https://t.co/REsd8PQ57e",
-          "url": "https://x.com/Osint613/status/2125228514810966096",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125227421477802190",
@@ -219,52 +299,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125225887889264980",
-          "created_at": "2026-11-24T13:51:51.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Northern Israel resident who spied for Hamas gets 10 years in prison.",
-          "url": "https://x.com/Osint613/status/2125225887889264980",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125223036529819870",
           "created_at": "2026-11-24T13:40:31.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "Keep praying for @BenBergquam https://t.co/RKxdUxF7Gr",
           "url": "https://x.com/RealAmVoice/status/2125223036529819870",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125221917665714538",
-          "created_at": "2026-11-24T13:36:04.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NEWSOM SIDES WITH M*RDERERS OVER FAMILIES. https://t.co/oknqpgYGTK",
-          "url": "https://x.com/RealAmVoice/status/2125221917665714538",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125221244643528767",
-          "created_at": "2026-11-24T13:33:24.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian MP Abbas Moqtadaei:\n\n\"If America does something 'foolish', the White House could be turned into dust.\"\n\n\"Iran will not be bound by geographic limits in retaliating against American malicious acts.\"\n\n\"European territory could be jeopardized.\" https://t.co/TfL7A0IJHB",
-          "url": "https://x.com/Osint613/status/2125221244643528767",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125220389647229054",
-          "created_at": "2026-11-24T13:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "The Minneapolis City Council passed an insane ordinance requiring a driver in driverless cars. \n\nMayor Jacob Frey says it doesn't make sense and plans to veto it. Even he can see this one. https://t.co/ohr0HuACQm",
-          "url": "https://x.com/RealAmVoice/status/2125220389647229054",
           "verified": true,
           "verified_type": "business"
         },
@@ -369,16 +409,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125195749465977220",
-          "created_at": "2026-11-24T11:52:05.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Anthropic falls below its IPO price of $83/share, now down -28% from its post-IPO high. https://t.co/iwo0b8Ljbg",
-          "url": "https://x.com/KobeissiLetter/status/2125195749465977220",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125178828943184363",
           "created_at": "2026-11-24T10:44:51.000Z",
           "author_name": "Elon Musk",
@@ -405,26 +435,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️AI is acquiring an unusual recruitment advantage: even people terrified of the technology feel compelled to work on it.\n\nThis young man had interests in mathematics, cryptography, and quantitative trading. Now he’s abandoning graduate school and considering alignment because he https://t.co/LFCZrBw62p",
           "url": "https://x.com/_The_Prophet__/status/2125142527506583817",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125088336490725846",
-          "created_at": "2026-11-24T04:45:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Terry Haines, who ran the Enron and WorldCom investigations on Capitol Hill, says Monday's Nvidia rally is \"a sugar high, medium to long term\"\n\n\"This harms the United States standing in the AI race\"\n\n\"The board better lawyer up too, frankly\"\n\n\"Markets tend to think of https://t.co/yAyaaIbZ9N",
-          "url": "https://x.com/_Investinq/status/2125088336490725846",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125088278692991080",
-          "created_at": "2026-11-24T04:45:02.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Not only is Amjad Masad a Muslim immigrant, but he also spoke at an event for Tech for Palestine, which has been accused of being pro-Hamas and openly promotes the BDS movement. \n\nFor some reason, the Vice President met with @amasad to discuss “cyber security” and “American AI https://t.co/J1gbzdYuAw https://t.co/PnJ8dM7cHh",
-          "url": "https://x.com/LauraLoomer/status/2125088278692991080",
           "verified": true,
           "verified_type": "blue"
         },
@@ -465,16 +475,6 @@
           "author_handle": "ClayTravis",
           "text": "The SEC is fed up with LSU.  https://t.co/KxjANgjYqz",
           "url": "https://x.com/ClayTravis/status/2125071509467111792",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125063599945060457",
-          "created_at": "2026-11-24T03:06:58.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Is she reading this off a teleprompter? This is pure nonsense.  https://t.co/YqjJdluOoC",
-          "url": "https://x.com/ClayTravis/status/2125063599945060457",
           "verified": true,
           "verified_type": "blue"
         },
@@ -751,6 +751,12 @@
           "url": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/"
         },
         {
+          "headline": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
+          "summary": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy"
+        },
+        {
           "headline": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
           "summary": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection. (Image credit: Brandon Bell)",
           "source": "NPR",
@@ -767,12 +773,6 @@
           "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
-        },
-        {
-          "headline": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
-          "summary": "President Donald Trump has condemned California Governor Gavin Newsom's decision to commute hundreds of death sentences",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-targets-newsom-democrats-justice-department-speech-focused-138377258"
         }
       ]
     },
@@ -781,16 +781,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-          "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html"
-        },
-        {
           "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
           "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+        },
+        {
+          "headline": "Commercial real estate activity falls 14% in October, as interest rates rise",
+          "summary": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
+        },
+        {
+          "headline": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
+          "summary": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/"
         },
         {
           "headline": "Australia set to pass digital duty of care law, fines up to 5% of global revenue",
@@ -803,12 +809,6 @@
           "summary": "Honda is recalling more than 810,000 vehicles because their airbag inflators may rupture",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/honda-recalling-810000-vehicles-due-airbag-inflator-issue-138387831"
-        },
-        {
-          "headline": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
-          "summary": "Gen Z is already skeptical they'll ever see a Social Security check. Now, a new survey suggests they're dipping into investment money to bet on sports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/"
         }
       ]
     },
@@ -823,18 +823,6 @@
           "url": "https://www.cbssports.com/nfl/news/nfl-week-12-breech-picks-score-predictions-bears-chiefs-rams-packers/"
         },
         {
-          "headline": "4 downs: Raiders valiant comeback bid falls short in Denver",
-          "summary": "In Sunday's matchup against the Denver Broncos , the Las Vegas Raiders fell behind 17-0 but battled back to tie it at 17 in the third quarter. Denver later went up 31-24, and the Raiders had a chance to tie, but Fernando Mendoza threw a costly pick-six that put the Broncos up 38-24, the final score.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/4-downs-raiders-valiant-comeback-143031053.html"
-        },
-        {
-          "headline": "Three-point attack lifts Michigan Women’s Basketball to victory over Miami",
-          "summary": "ANN ARBOR, MICHIGAN - NOVEMBER 18: Syla Swords #12 of the Michigan Wolverines shoots the ball during the first half against the Niagara Purple Eagles at Crisler Arena on November 18, 2026 in Ann Arbor, Michigan. (Photo by Jaime Crawford/Getty Images) | Getty Images The No.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/three-point-attack-lifts-michigan-143002214.html"
-        },
-        {
           "headline": "College basketball rankings: Keep an eye on the 5-0 Ole Miss Rebels scratching right outside the Top 25 And 1",
           "summary": "Chris Beard's Ole Miss team is No. 1 in BartTorvik.com through the first 23 days of the 2026-27 season.",
           "source": "CBS Sports",
@@ -845,6 +833,18 @@
           "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
+        },
+        {
+          "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
+          "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
+        },
+        {
+          "headline": "NFL Week 12 upset alert: Don't count out Patrick Mahomes, Fernando Mendoza and these underdogs",
+          "summary": "Patrick Mahomes is heating up, Detroit owns its Thanksgiving opponent and three other underdogs have compelling paths",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-upset-picks-thanksgiving-games-chiefs-bills/"
         }
       ]
     },
@@ -853,22 +853,22 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Sweden’s Oscar Entry ‘Adult Supervision’ Closes Further Deals (EXCLUSIVE)",
+          "summary": "“Adult Supervision,” Sweden’s entry for best international feature film at the Academy Awards, has closed further distribution deals. The latest round of international sales, handled by Heretic, include Filmin for Spain, Lighthouse Entertainment for Germany, Pictureworks for India, Nachson Films for Israel and Xenix for Switzerland.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/sweden-oscar-entry-adult-supervision-further-deals-1236956858/"
+        },
+        {
+          "headline": "Indian Feature ‘Carretera Austral’ Lines Up Chilean Partner for Southern Chile Shoot (EXCLUSIVE)",
+          "summary": "Three friends from India take on one of the most remote roads on the planet in “Carretera Austral – A Journey to the End of the World,” a fiction feature that Mumbai-based Spherecho Productions plans to shoot in southern Chile with help from Chilean outfit Praxia Producciones. The two companies signed a letter of intent […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/indian-feature-carretera-austral-chilean-partner-praxia-1236956925/"
+        },
+        {
           "headline": "Jason Segel Boards ‘Meeting Your Maker,’ Short About a Suicidal TV Puppet, as Executive Producer (Exclusive)",
           "summary": "Written and directed by Gregory J.M. Kasunich, the Oscar-qualified dark comedy short stars Jonathan Kite ('2 Broke Girls') and Otis, a depressed kids' TV puppet star who must confront his creator.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095/"
-        },
-        {
-          "headline": "India-Chile Feature ‘The Fragile Empire of Ice’ to Span Antarctica, the Arctic and the Himalayas (EXCLUSIVE)",
-          "summary": "Chilean filmmaker Jorge López Sotomayor and Indian production company Pantellisense have signed a letter of intent to co-produce “The Fragile Empire of Ice,” a feature that the partners plan to open up from Antarctica to the Arctic and the Himalayas. The agreement was signed at the WAVES Film Bazaar, the market component of the International […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/india-chile-fragile-empire-of-ice-three-poles-co-production-1236956896/"
-        },
-        {
-          "headline": "Abortion Dark Comedy ‘Nose Bone’ Takes Top Cash Grant as India’s WAVES Film Bazaar 2026 Wraps",
-          "summary": "Garima Pura’s “Nose Bone,” a dark comedy about a young Punjabi woman racing to pay for an abortion, won the top $10,000 NFDC cash grant in the Co-Production Market as WAVES Film Bazaar 2026 closed in Goa on Tuesday with its awards ceremony. Pura, a co-writer of the Oscar-winning documentary “The Elephant Whisperers,” is producing […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/abortion-dark-comedy-nose-bone-waves-film-bazaar-winners-1236956890/"
         },
         {
           "headline": "‘I See Buildings Fall Like Lightning’ Tops British Independent Film Awards’ Craft Winners",
@@ -889,6 +889,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Murder of JonBenet Ramsey’ Trailer Puts Child’s Parents Under the Microscope",
+          "summary": "Netflix has released the first full trailer for the upcoming limited series “The Murder of JonBenét Ramsey.” In the trailer, series stars Melissa McCarthy and Clive Owen play Ramsey’s parents, who come under intense scrutiny from police and the media after their daughter is found dead. Check out the full trailer below.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/murder-of-jonbenet-ramsey-trailer-netflix-1236956945/"
+        },
+        {
+          "headline": "David Fincher Says He Turned Down ‘The Rings of Power,’ Calls DC Studios “Dysfunctional”",
+          "summary": "The director says he was asked to take on 'The Lord of the Rings' TV series, but balked at the \"corporate\" nature of the job.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/david-fincher-lord-of-the-rings-of-power-1236762026/"
+        },
+        {
           "headline": "Elev8on & French Wealth Manager Anato To Find European Investments For U.S. Stars",
           "summary": "EXCLUSIVE: Elev8on Management has spent years finding American talent routes on to European screens, and now its going help them build business empires there. The Paris-based talent management company has teamed with French wealth advisory Anato Gestion Privée to launch Elev8on Private, a division aimed at finding U.S.",
           "source": "Deadline",
@@ -905,18 +917,6 @@
           "summary": "After stealing scenes in not one but two Taylor Sheridan shows, the 29-year-old actress takes the wheel of Prime Video's new holiday romcom 'Clashing Through the Snow' — because \"sometimes you just want a predictable ending.\"",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/michelle-randolph-interview-landman-clashing-through-snow-1236760773/"
-        },
-        {
-          "headline": "Netflix Partnering With BBC to to Bring Preschool Shows to Streamer, Fund New Commissions",
-          "summary": "Netflix has partnered with the BBC to bring a number of shows from its preschool channel CBeebies, including “Teletubbies,” “Hey Duggee” and “Numberblocks,” to the streamer. As part of a six-month trial, 24 programs from the CBeebies library will be made available via a dedicated CBeebies-branded hub from Dec.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/netflix-bbc-deal-preschool-shows-new-commissions-1236956807/"
-        },
-        {
-          "headline": "‘Only Murders in the Building’ Stars Steve Martin and Martin Short, Without Selena Gomez, Cross Pond for Star-Studded Season 6 London Premiere",
-          "summary": "Nicola Coughlan and Simone Ashley came together for a mini 'Bridgerton' reunion, while the likes of Olivia Colman, Jim Broadbent, Richard E. Grant and David Tennant added even more Brit star power.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/only-murders-in-the-building-season-6-london-premiere-stars-1236761845/"
         }
       ]
     },
@@ -924,6 +924,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "YouTube True-Crime Channel Dr. Insanity Launches Podcast With Audioboom",
+          "summary": "Earlier this summer, Ed Simpson teamed with Content Partners to buy YouTube true-crime channel Dr. Insanity.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/youtube-true-crime-channel-dr-insanity-podcast-audioboom-1237232398/"
+        },
         {
           "headline": "Skydance Products and Publishing Sets Leadership Team Under Josh Silverman",
           "summary": "Silverman's team will add oversight of DC Comics, joining existing product and publishing leaders.",
@@ -937,22 +943,16 @@
           "url": "https://deadline.com/2026/11/unlabelled-alliance-launched-industry-veterans-1237231687/"
         },
         {
-          "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
-          "summary": "UPDATED with acceptance speech remarks. Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
+          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
+          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
         },
         {
           "headline": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
           "summary": "The upcoming installment — built around the theme \"The Power of Human Potential\" — has also enlisted former DeepMind creative lead Jon Steinback and president of Genomics Limited David Thornton.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/gta-6-strauss-zelnick-take-two-speakers-sxsw-london-2027-1236759919/"
-        },
-        {
-          "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
-          "summary": "The Hollywood Chamber of Commerce has announced the programming for its 2026 Entertainment Industry Conference, presented by Variety, on Dec. 8, including the Commitment to California Award for “Hacks” creators and showrunners Paul W.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hacks-creators-to-earn-commitment-to-california-award-1236955188/"
         }
       ]
     },
@@ -961,8 +961,20 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Wilco Expand 2027 Tour With U.S. Dates",
+          "summary": "The Wilcoworld Tour includes a five-night residency at the San Francisco Fillmore",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/wilco-expand-2027-tour-with-us-dates/"
+        },
+        {
+          "headline": "Shakira & FIFA Global Citizen Education Fund Reveal Organizations Receiving Grants Following Earthquakes in Venezuela",
+          "summary": "Shakira and Global Citizen have announced that five community-based organizations in Venezuela will receive $450,000 to help children get back to learning following the twin earthquakes that struck the country last June, disrupting schooling for thousands. Related Unidos por los Nuestros Benefit Show Raises $1.37 Million for Venezuela & Colombia…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/shakira-fifa-global-citizen-venezuela-earthquake-relief-1236388496/"
+        },
+        {
           "headline": "Never Mind the PR Stunts, Here’s the Sex Pistols Claiming to Part Ways With Frank Carter",
-          "summary": "Band will supposedly embark on final tour with Johnny Rotten's replacement next month",
+          "summary": "Band will supposedly embark on final tour with Johnny Rotten’s replacement next month",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/sex-pistols-frank-carter-final-tour-dates-1235663381/"
         },
@@ -973,25 +985,13 @@
           "url": "https://www.billboard.com/music/rb-hip-hop/jodeci-kci-apologizes-fans-cancellation-louisville-dehydration-1236388584/"
         },
         {
-          "headline": "Skippa on ‘WYFL,’ Viral Dancehall Hits & His Rise in Jamaican Music | Billboard Up & Coming",
-          "summary": "As Caribbean music charts its next era with a new class of stars and crossover hits, fast-rising dancehall artist Skippa is making his mark on the global stage. He joins Billboard Up & Coming host Kyle Denis to discuss his journey from St.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/video/skippa-wyfl-viral-dancehall-hits-his-rise-jamaican-music/"
-        },
-        {
           "headline": "U2 Will Bring Their ‘Greatest Show on Earth’ Stadium Tour to North America in 2027",
           "summary": "The band has finally announced shows in the U.S. and Canada in support of their latest LP, Carnaval de Luz",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/u2-2027-north-america-tour-dates-1235662990/"
-        },
-        {
-          "headline": "Adéla Announces 2027 World Tour",
-          "summary": "It runs nearly every single night from January to April",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/adela-announces-2027-world-tour/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-24T09:50:03-05:00"
+  "updatedAt": "2026-11-24T10:16:22-05:00"
 }
