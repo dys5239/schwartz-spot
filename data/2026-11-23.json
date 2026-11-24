@@ -42,22 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Appeals court clears way for Army to detonate Iowa lead azide explosives",
+          "headline": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+          "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Appeals court clears way for Army to detonate Iowa explosives",
           "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
-          "headline": "Huang's return at Nvidia puts spotlight on chipmaker's board",
-          "summary": "Nvidia directors' decision to rehire Jensen Huang shows a \"lack of courage,\" according to one prominent governance expert.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/"
-        },
-        {
-          "headline": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-          "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\" (Image credit: Heather Diehl)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+          "headline": "Coldest spell of autumn continues with risk of hill snow, ice and heavy rain",
+          "summary": "Colder weather continues for much of the UK with some ice and hill snow but milder and wetter in the south and west, as Simon King explains",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/weather/articles/cmz9dyk4y8xdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Trump granted new chance to potentially erase his hush money case",
@@ -66,10 +66,10 @@
           "url": "https://abcnews.com/US/trump-granted-new-chance-potentially-erase-hush-money/story?id=138391922"
         },
         {
-          "headline": "What led to Democrats' sweeping victories in Georgia: ABC News analysis",
-          "summary": "ABC News analyzes factors of why Democrats performed well in Georgia on Election Night.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/led-democrats-sweeping-victories-georgia-abc-news-analysis/story?id=138297496"
+          "headline": "Video showing ICE arrest of father and daughter boarding flight draws scrutiny",
+          "summary": "Dramatic new video is causing fresh criticism of ICE after masked agents dragged two people off a jet bridge during boarding at the Seattle airport. CBS News immigration correspondent Camilo Montoya-Galvez has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/video-showing-ice-arrest-of-father-and-daughter-boarding-flight-draws-scrutiny/"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125020321262473279",
+          "created_at": "2026-11-24T00:15:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Meanwhile, in NYC, the richest city in the world…\n\nRats are taking over the subway. https://t.co/fczYI93k69",
+          "url": "https://x.com/RealAmVoice/status/2125020321262473279",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125019090389790947",
+          "created_at": "2026-11-24T00:10:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Treasury counselor David Zervos says he's \"very skeptical\" of the inflation story and sees headline CPI in the low 1s next year if oil falls back\n\n\"Assume that the conflict is over and oil prices return to their levels of pre-March of this year, you get basically low one handles https://t.co/xEaGfofz6K",
+          "url": "https://x.com/_Investinq/status/2125019090389790947",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125018917416620358",
+          "created_at": "2026-11-24T00:09:25.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Rep. Jimmy Gomez (D-Calif.) will resign on Dec. 1 after a House Ethics Committee investigation found “substantial evidence” of sexual misconduct toward a staffer. https://t.co/i7f0qWYlaA",
+          "url": "https://x.com/Osint613/status/2125018917416620358",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125016532225040588",
+          "created_at": "2026-11-23T23:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HUANG REINSTATED AS NVIDIA CEO, TRUMP SLAMS NEWSOM DEATH ROW PLAN | STINCHFIELD TONIGHT https://t.co/RVX1CM8pDA",
+          "url": "https://x.com/RealAmVoice/status/2125016532225040588",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125014896240705664",
+          "created_at": "2026-11-23T23:53:26.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NIGERIA’S CHRISTIAN MASSACRE: “WE NEED INTERVENTION NOW”\n\n@juddsaul says the U.S. now knows exactly who is driving much of the violence in Nigeria’s Middle Belt — and says it’s time for action, not more hearings.\n\n“The talk needs to stop. The hearings need to stop.”\n\nHe says https://t.co/Jh1ZgY5Fwt",
+          "url": "https://x.com/RealAmVoice/status/2125014896240705664",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125014596087865399",
+          "created_at": "2026-11-23T23:52:15.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "South Korea said a suspected North Korean aircraft violated its airspace near an eastern island on Tuesday, prompting authorities to issue a shelter-in-place order for residents.\n\nOfficials initially identified the aircraft as Russian and instructed residents of Ulleung Island to",
+          "url": "https://x.com/Osint613/status/2125014596087865399",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125013689019629859",
           "created_at": "2026-11-23T23:48:38.000Z",
@@ -229,16 +289,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125000188871983485",
-          "created_at": "2026-11-23T22:55:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "A city-contracted landscaper was k*lled after a massive crane collapsed in Southern California.\n\nBeverly Hills police responded after multiple calls and found the worker unresponsive. He was pronounced dead at the scene.\n\nMayor Craig Corman called the accident “truly",
-          "url": "https://x.com/RealAmVoice/status/2125000188871983485",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124997741348872438",
           "created_at": "2026-11-23T22:45:16.000Z",
           "author_name": "StockMarket.News",
@@ -249,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124997418575905249",
-          "created_at": "2026-11-23T22:43:59.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP BACKS BRANDON GILL BILL TO EXPAND THE DEATH PENALTY\n\n@POTUS says @RepBrandonGill has introduced the Just Punishment for Murder Act at his request — legislation designed to codify parts of his new capital punishment directive.\n\nTrump says the bill would strengthen the death https://t.co/7nDYr2TzCo",
-          "url": "https://x.com/RealAmVoice/status/2124997418575905249",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2124996486027260311",
           "created_at": "2026-11-23T22:40:17.000Z",
           "author_name": "Laura Loomer",
@@ -267,16 +307,6 @@
           "url": "https://x.com/LauraLoomer/status/2124996486027260311",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124996264211218842",
-          "created_at": "2026-11-23T22:39:24.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP UNVEILS CRIME CRACKDOWN: DEATH PENALTY, 1,000 NEW COPS AND FASTER EXECUTIONS\n\n@POTUS announced a sweeping new package aimed at what he calls the “worst of the worst criminals.”\n\nTrump says he will direct the DOJ to seek the death penalty for child m*rderers, along with https://t.co/4jfjUIedMC",
-          "url": "https://x.com/RealAmVoice/status/2124996264211218842",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124994098826277155",
@@ -345,16 +375,6 @@
           "author_handle": "SportNState",
           "text": "ESPN's Heather Dinich became SEC Shorts' latest punchline.\n\nBut hey, when life gives you a CFP rankings controversy, what better time to promote your upcoming book!\n\n✍️: @markjburns88\nhttps://t.co/FNte8LHh6d",
           "url": "https://x.com/SportNState/status/2124983730234097780",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124980517661741299",
-          "created_at": "2026-11-23T21:36:50.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "The S&amp;P 500 just jumped 4.73% to 7,237.17, its best day since April 2025, snapping a 7-day losing streak\n\nThe Nasdaq soared 6.51% to 24,089.56 and the Nasdaq 100 gained 6.86%, also their best days since April 2025\n\nThe Dow added 1,448 points (+3.01%) to 49,595.31\n\n$NVDA closed up https://t.co/w0OGl8wr7P",
-          "url": "https://x.com/_Investinq/status/2124980517661741299",
           "verified": true,
           "verified_type": "blue"
         },
@@ -445,16 +465,6 @@
           "author_handle": "Osint613",
           "text": "Qatari PM: \"We are working with Iran and the US to revive the negotiation track\" https://t.co/KGS0NES2y1",
           "url": "https://x.com/Osint613/status/2124965885400207448",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124965429152006605",
-          "created_at": "2026-11-23T20:36:52.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Qatari PM visits Washington and meets Sec. Rubio  https://t.co/IQTBVPcz7G",
-          "url": "https://x.com/Osint613/status/2124965429152006605",
           "verified": true,
           "verified_type": "blue"
         },
@@ -575,16 +585,6 @@
           "author_handle": "Timcast",
           "text": "Cyberattacks on federal agencies. Iranian retaliation. Chinese espionage. America is already at war. And Washington refuses to admit it.\n\nWe are at war. It is happening. Nobody wants to say it. https://t.co/VdellUmsHD",
           "url": "https://x.com/Timcast/status/2124938612890296500",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124932149790798291",
-          "created_at": "2026-11-23T18:24:38.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Today marks one year since an Israeli strike in Beirut's Dahiya district killed Haytham Ali Tabatabai, Hezbollah's former chief of staff. Hezbollah is commemorating the anniversary.\n\nAl Mayadeen aired new footage of him for the occasion. In it, Tabatabai, who was responsible for https://t.co/aaxxjfHy1t https://t.co/jBk0OrLlvc",
-          "url": "https://x.com/Osint613/status/2124932149790798291",
           "verified": true,
           "verified_type": "blue"
         },
@@ -745,16 +745,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump tells Army to halt detonation for now in Iowa this week",
+          "summary": "President Trump said he will wait for the courts and Iowa Gov.-elect Rob Sand to agree with the Army's plan.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/"
+        },
+        {
           "headline": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
           "summary": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/"
-        },
-        {
-          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
-          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
           "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
@@ -781,16 +781,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-          "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+          "headline": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+          "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html"
         },
         {
-          "headline": "DNI Jay Clayton tapped as acting national cyber director",
-          "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
+          "headline": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+          "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html"
+          "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
         },
         {
           "headline": "They attended Trump's controversial meme coin dinner. It didn't go well",
@@ -817,16 +817,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Takeaways as Iowa women's basketball downs Utah",
-          "summary": "The Iowa women’s basketball team added to its impressive early-season resume on Monday afternoon. The Hawkeyes took down the Utah Utes 75-66 in the Baha Mar Pink Flamingo Championship , held in the Bahamas.",
+          "headline": "Despite their 3-7 record, the Buccaneers can climb into playoff race with a win over Carolina",
+          "summary": "TAMPA, Fla. (AP) — At 3-7, the Tampa Bay Buccaneers are in the running for a top-10 draft pick.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/takeaways-iowa-womens-basketball-downs-234534945.html"
-        },
-        {
-          "headline": "Georgia State wins 73-63 over Tulane",
-          "summary": "CYPRESS LAKE, Fla. (AP) — David Thomas had 15 points in Georgia State’s 73-63 victory against Tulane on Monday.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/georgia-state-wins-73-63-233757906.html"
+          "url": "https://sports.yahoo.com/articles/despite-3-7-record-buccaneers-235957764.html"
         },
         {
           "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
@@ -841,10 +835,16 @@
           "url": "https://abcnews.com/Sports/wireStory/7-ucla-breezes-past-delaware-85-48-stay-138367319"
         },
         {
-          "headline": "USC men's basketball cruises past Louisiana, improves to 7-0",
-          "summary": "On Sunday evening, the USC men's basketball team hosted Louisiana at Galen Center. It marked the final of three consecutive home games for the Trojans before they head to Palm Springs for Thanksgiving.",
+          "headline": "Wizards rout the Magic 116-96 to win their 3rd straight following an 8-game skid",
+          "summary": "Kyshawn George scored 24 points and Anthony Davis added 22 to lead the Washington Wizards to their third straight victory, 116-96 over the Orlando Magic",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/wizards-rout-magic-116-96-win-3rd-straight-138367591"
+        },
+        {
+          "headline": "Kenneth Walker III misses Monday’s practice before Chiefs’ Thanksgiving clash with Bills",
+          "summary": "Mandatory Credit: Jay Biggerstaff-Imagn Images Kenneth Walker III misses Monday’s practice before Chiefs’ Thanksgiving clash with Bills appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/usc-mens-basketball-cruises-past-233626217.html"
+          "url": "https://sports.yahoo.com/articles/kenneth-walker-iii-misses-monday-000845543.html"
         }
       ]
     },
@@ -925,6 +925,18 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Bela Bajaria Calls Time at Netflix a “Fun Chapter” as She Teases Rest and “Conversations” in First Remarks Since Exit",
+          "summary": "The former chief content officer at the streaming service was ousted last month, with Peter Rice taking over her role.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/bela-bajaria-speaks-netflix-exit-1236761441/"
+        },
+        {
+          "headline": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
+          "summary": "The upcoming installment — built around the theme \"The Power of Human Potential\" — has also enlisted former DeepMind creative lead Jon Steinback and president of Genomics Limited David Thornton.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/gta-6-strauss-zelnick-take-two-speakers-sxsw-london-2027-1236759919/"
+        },
+        {
           "headline": "Skydance Buyouts Impact CBS Stations; Local Chicago Anchor Among Those Departing",
           "summary": "The buyouts across Skydance have impacted CBS’ station group, with a number of staffers taking the package, including a main anchor at the network’s Chicago outlet. Joe Donlon, co-anchor of CBS 2 Chicago’s 5, 6 and 10 p.m.",
           "source": "Deadline",
@@ -935,18 +947,6 @@
           "summary": "EXCLUSIVE: Reliant Talent Agency has added four new agents across their talent, touring and corporate departments. On the talent theatrical side, the company has hired veteran talent agent Jason Zenowich who has worked at ICM, A3 and most recently the Kohner Agency.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/reliant-talent-agency-jason-zenowich-kyle-levinson-rick-ferrell-michelle-romeo-1237231857/"
-        },
-        {
-          "headline": "Super Bowl LXI to Touch Down in Imax Theaters",
-          "summary": "The NFL, ESPN and Walt Disney have agreed a first-ever deal to live stream the ultimate sports championship game in large format theaters in domestic and select international markets.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/super-bowl-lxi-imax-theaters-1236761160/"
-        },
-        {
-          "headline": "UTA to Host Creators Summit For Next Generation of Agents",
-          "summary": "The summit follows UTA’s appointment of seven agents to its Creators Leadership Team, as well as its efforts to bring in the next generation of talent.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/uta-creators-summit-1236759971/"
         },
         {
           "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
@@ -961,6 +961,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Stevie Wonder Addresses Conspiracy Theories About His Blindness: ‘Get in the Car With Me & We’ll See’",
+          "summary": "Stevie Wonder has seen and heard all the jokes, rumors and conspiracy theories about him actually not being blind, and he has a message for everybody. During a performance in Chicago at the United Center over the weekend (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/stevie-wonder-conspiracy-theories-blindness-comments-1236388335/"
+        },
+        {
           "headline": "‘Do You Have What It Takes?’: KATSEYE Appears in Trailer for K-Pop Film Inspired by Their Experience",
           "summary": "The upcoming movie K-Pop: The Debut centers on a televised competition series aiming to assemble a “truly global girl group” with contestants from all over the world. Sound familiar?",
           "source": "Billboard",
@@ -971,12 +977,6 @@
           "summary": "“The works as a whole are distinct,” the three-judge panel found",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/mary-j-blige-real-love-impeach-the-president-appeals-ruling-1235663099/"
-        },
-        {
-          "headline": "Every Track From ‘Grand Theft Auto VI: The Album’ Ranked — Now Including the Deluxe Bonus Tracks",
-          "summary": "Monocultural moments in society have become extremely rare in the mid-2020s, but the arrival of Grand Theft Auto VI has brought about as strong a unified pop-culture tidal wave as we’ve seen this decade. Rockstar Games released the Grand Theft Auto VI: The Album on Friday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/"
         },
         {
           "headline": "Adéla Announces 2027 World Tour",
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T18:49:43-05:00"
+  "updatedAt": "2026-11-23T19:17:50-05:00"
 }
