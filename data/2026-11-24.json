@@ -24,16 +24,16 @@
           "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
         },
         {
-          "headline": "Tidal will start banning AI-generated music next month",
-          "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen .",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
-        },
-        {
           "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
           "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
           "source": "Wired",
           "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+        },
+        {
+          "headline": "AI is making its way into toys. What should parents do?",
+          "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Kilmar Abrego Garcia leaving U.S. today for Spain, sources say",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+        },
+        {
+          "headline": "Ministers ask public for views on changing age of consent",
+          "summary": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
           "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Trump pardons 2 turkeys, Freedom and Feathers",
-          "summary": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two stayed in a suite leading up to their trip to the White House.",
+          "headline": "Reporter on why he was \"absolutely surprised\" by Jensen Huang's reinstatement",
+          "summary": "Nvidia CEO Jensen Huang returned to the company Monday after resigning last week over an affair with an alleged Chinese spy. Sources said President Trump and Vice President JD Vance lobbied for his return.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/"
+          "url": "https://www.cbsnews.com/video/reporter-on-why-he-was-absolutely-surprised-by-jensen-huangs-reinstatement/"
         },
         {
           "headline": "WATCH: President Trump holds Thanksgiving turkey pardoning ceremony",
           "summary": "President Donald Trump held the annual Thanksgiving turkey pardon ceremony at the White House on Tuesday.",
           "source": "ABC News",
           "url": "https://abcnews.com/video/138420700/"
-        },
-        {
-          "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-          "summary": "The verdict follows a months-long trial in New York.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Kilmar Abrego Garcia leaving U.S. today for Europe, sources say",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. as soon as Tuesday, according to multiple U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125365829298434219",
+          "created_at": "2026-11-24T23:07:55.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NYT ON JENSEN HUANG: ‘WE DON'T HAVE EVIDENCE’\n\n@AmandaHead highlights a key admission from The New York Times, the outlet that originally broke the story surrounding the investigation into Nvidia CEO Jensen Huang.\n\nDuring an episode of The Daily discussing President Trump’s https://t.co/DFkxeegDiI",
+          "url": "https://x.com/RealAmVoice/status/2125365829298434219",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125365384379301906",
+          "created_at": "2026-11-24T23:06:09.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Vanity Fair spent a year and 100+ anonymous sources trying to take down Taylor Swift. The worst they found is she’s ambitious and protective of her brand. \n\nThe only takedown in this hit piece is of legacy journalism itself. \n\n@Kayceeunplugged has thoughts:",
+          "url": "https://x.com/SportNState/status/2125365384379301906",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125364841980232047",
+          "created_at": "2026-11-24T23:04:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Caitlin Clark would have been way more welcomed into the WNBA if she weren't white and straight. I stand by that. But that's an entirely different argument from what Stephen A. Smith is making about rooting for athletes based on race. https://t.co/Civs83BStg",
+          "url": "https://x.com/ClayTravis/status/2125364841980232047",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125364172397666355",
+          "created_at": "2026-11-24T23:01:20.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says he is willing to pardon Nvidia, $NVDA, CEO Jensen Huang “if necessary,” per NY Post.\n\nTrump also tells Jensen Huang not to plead the 5th at his congressional testimony next week.\n\nPresident Trump is fully backing Jensen Huang.",
+          "url": "https://x.com/KobeissiLetter/status/2125364172397666355",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125363942977597554",
+          "created_at": "2026-11-24T23:00:26.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Starlink https://t.co/wMW5Hy970K",
+          "url": "https://x.com/elonmusk/status/2125363942977597554",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125362828299120766",
+          "created_at": "2026-11-24T22:56:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "WINTERS SOUNDS ALARM ON EFFORTS TO TARGET TRUMP OFFICIALS AFTER HIS PRESIDENCY\n\n@nataliegwinters warns that congressional committees are already recruiting former DOJ prosecutors to build their investigative teams.\n\n“It's compliance for the sake of just like throwing people in https://t.co/SThOPb6mJQ",
+          "url": "https://x.com/RealAmVoice/status/2125362828299120766",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125361343951974514",
+          "created_at": "2026-11-24T22:50:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Cleo Capital's Sarah Kunst says if she sat on Nvidia's board she would want to resign\n\n\"If I were the board members, I would want to resign... sometimes you should probably cash in your chips and hope that Congress doesn't call\"\n\n\"These investigations are not going to go away... https://t.co/yboi8aBIvz",
+          "url": "https://x.com/_Investinq/status/2125361343951974514",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125360498396782666",
+          "created_at": "2026-11-24T22:46:44.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "‘VIVA MEXICO’ — THEN VS. NOW\n\nSame woman. Two very different messages.\n\nJune vs. November. https://t.co/KkdUGfADX8",
+          "url": "https://x.com/RealAmVoice/status/2125360498396782666",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125360414477492342",
+          "created_at": "2026-11-24T22:46:24.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "You’re going home!\n\nI’m glad you love Mohammedans. \n\nThere’s more of them than you where you’re going back to. https://t.co/335uUk7Lr6",
+          "url": "https://x.com/LauraLoomer/status/2125360414477492342",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125357795100799241",
           "created_at": "2026-11-24T22:36:00.000Z",
@@ -169,16 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125345299065409681",
-          "created_at": "2026-11-24T21:46:20.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "PRESIDENT TRUMP AND FIRST LADY HEAD TO MAR-A-LAGO FOR THANKSGIVING\n\nPresident Donald Trump and First Lady Melania Trump board Air Force One en route to Palm Beach, Florida, where they will spend the Thanksgiving holiday at Mar-a-Lago. https://t.co/WLBA2gm1CZ",
-          "url": "https://x.com/RealAmVoice/status/2125345299065409681",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125344586604429728",
           "created_at": "2026-11-24T21:43:31.000Z",
           "author_name": "Laura Loomer",
@@ -205,16 +285,6 @@
           "author_handle": "KobeissiLetter",
           "text": "China’s housing market is getting crushed.\n\nYoY, China’s new home prices fell -2.4% last month, marking their 40th consecutive decline.\n\nNew home prices in 70 Chinese cities, excluding state-subsidized housing, fell -0.2% MoM in October.\n\nAt the same time, used home prices, https://t.co/1gUOnle1Kj",
           "url": "https://x.com/KobeissiLetter/status/2125343839275700225",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125343702185037848",
-          "created_at": "2026-11-24T21:40:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "A major crash in Houston, Texas, left an 18-wheeler tanker truck overturned and engulfed in flames.\n\nAccording to the Houston Fire Department, the driver was reportedly trapped inside and had to be cut out of the wreckage. A hazmat team was also called to the scene.\n\nPlease join",
-          "url": "https://x.com/RealAmVoice/status/2125343702185037848",
           "verified": true,
           "verified_type": "business"
         },
@@ -269,16 +339,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125340729664839903",
-          "created_at": "2026-11-24T21:28:11.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "PRESIDENT TRUMP AND FIRST LADY DEPART WHITE HOUSE FOR PALM BEACH\n\nPresident Donald Trump and First Lady Melania Trump board Marine One at the White House as they begin their trip to Palm Beach, Florida. https://t.co/PcsHrHr6U7",
-          "url": "https://x.com/RealAmVoice/status/2125340729664839903",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125340731573199323",
           "created_at": "2026-11-24T21:28:11.000Z",
           "author_name": "Laura Loomer",
@@ -295,16 +355,6 @@
           "author_handle": "Timcast",
           "text": "LIZARD PEOPLE EXPOSED https://t.co/6mIma1fVs9",
           "url": "https://x.com/Timcast/status/2125339758163636236",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125336152416886955",
-          "created_at": "2026-11-24T21:10:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "LSU has completely blown it here. I don't think that this is some crazy, wild threat that isn't actually supported by the overall league leadership. I think the SEC is furious at LSU, and I believe LSU is in dire straits if they don't work to put together some form of compromise. https://t.co/3tNEyOhiLG",
-          "url": "https://x.com/ClayTravis/status/2125336152416886955",
           "verified": true,
           "verified_type": "blue"
         },
@@ -339,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125333724141158414",
-          "created_at": "2026-11-24T21:00:21.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "You cannot promote Muslims and then expect to have a long career in GOP politics in the year 2026.\n\nI can’t think of anything worse than non-Muslims who shill for Muslims. \n\nIt’s the most anti-American thing a person can do.",
-          "url": "https://x.com/LauraLoomer/status/2125333724141158414",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125332979715088574",
           "created_at": "2026-11-24T20:57:23.000Z",
           "author_name": "Open Source Intel",
@@ -365,16 +405,6 @@
           "author_handle": "_Investinq",
           "text": "Retired Adm. James Stavridis says there's a 60% chance of a US-Iran deal, and it's months away, not years\n\n\"There's probably a 60% chance we get to a deal. Probably in months, it's not going to take years\"\n\n\"Normal day, 20 million barrels of oil flow out of the strait... call it https://t.co/l7mUinnCkc",
           "url": "https://x.com/_Investinq/status/2125332413480054884",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125328328555147489",
-          "created_at": "2026-11-24T20:38:54.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Every investing app answers what should I buy and that's the easy part.\n\nThe hard part is always when do I sell, when do I add, when do I just sit. \n\nAstor flips it because you tell it what you think is gonna happen in the world like AI is going to crush energy grids  or defense https://t.co/XqlmlSX2zu https://t.co/RudJ8CDghN",
-          "url": "https://x.com/_Investinq/status/2125328328555147489",
           "verified": true,
           "verified_type": "blue"
         },
@@ -519,16 +549,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125284835518279763",
-          "created_at": "2026-11-24T17:46:05.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Global physical gold-backed ETFs posted -20 tonnes in gold outflows last week, their largest weekly withdrawal since June.\n\nGold ETFs have seen outflows in 3 of the last 5 weeks, totalling -30 tonnes net.\n\nLast week's outflows were driven by the US's largest gold-backed https://t.co/d1I6vICw2Z",
-          "url": "https://x.com/KobeissiLetter/status/2125284835518279763",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125282719785783450",
           "created_at": "2026-11-24T17:37:40.000Z",
           "author_name": "Sport & State",
@@ -547,16 +567,6 @@
           "url": "https://x.com/Outkick/status/2125280925365964859",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125267592461828378",
-          "created_at": "2026-11-24T16:37:34.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Consider this the official hard launch.\n\nThe Georgia Tech couple appeared on the TODAY show, where they talked about their relationship, viral moment and addressed the rumors swirling online.\n\nHere's what the die-hard fans had to say, writes @markjburns88.\nhttps://t.co/KseepiyiQw",
-          "url": "https://x.com/SportNState/status/2125267592461828378",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125263043244290435",
@@ -737,16 +747,6 @@
           "url": "https://x.com/elonmusk/status/2124918561617694750",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124917923391443211",
-          "created_at": "2026-11-23T17:28:06.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world. https://t.co/OmFAlwsmh4",
-          "url": "https://x.com/elonmusk/status/2124917923391443211",
-          "verified": true,
-          "verified_type": "blue"
         }
       ]
     },
@@ -755,10 +755,22 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
-          "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
+          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
+        },
+        {
+          "headline": "Trump pardons 2 turkeys, Freedom and Feathers",
+          "summary": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two stayed in a suite leading up to their trip to the White House.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
+          "url": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/"
+        },
+        {
+          "headline": "DOJ directs array of litigators to help with ICE detainee lawsuits",
+          "summary": "Roughly 2,000 DOJ civil litigators are being directed to help with thousands of ICE detainee habeas petitions.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-detainee-lawsuits-justice-department-non-immigration-attorneys/"
         },
         {
           "headline": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
@@ -767,22 +779,10 @@
           "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
         },
         {
-          "headline": "Iran developing chemical weapons, Israeli defense minister says",
-          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
-        },
-        {
           "headline": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990",
           "summary": "House Democrats have secured their best general election in decades, winning 259 seats",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/democrats-clinch-historic-house-majority-259-seats-largest-138418247"
-        },
-        {
-          "headline": "Democrat Victoria Broderick wins Tennessee House seat, ousting Rep. Scott DesJarlais",
-          "summary": "Democrat Victoria Broderick has been elected to the U.S. House from Tennessee, narrowly defeating Republican Rep.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/democrat-victoria-broderick-wins-tennessee-house-seat-ousting-138417791"
         }
       ]
     },
@@ -790,6 +790,12 @@
       "id": "economy",
       "title": "Economy",
       "stories": [
+        {
+          "headline": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+          "summary": "The product, the first one beyond event contracts, was introduced in May.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html"
+        },
         {
           "headline": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
           "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
@@ -803,22 +809,16 @@
           "url": "https://www.cbsnews.com/news/shein-100-million-ftc-deceptive-practices-settlement/"
         },
         {
-          "headline": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-          "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
-        },
-        {
           "headline": "US jury find Chinese tech giant Huawei guilty of 10 counts, including conspiracy to steal trade secrets and bank fraud",
           "summary": "",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/us-jury-find-chinese-tech-giant-huawei-guilty-138421898"
         },
         {
-          "headline": "Utah asks to drop charges against Kalshi, founders after Kalshi halts trading there",
-          "summary": "Utah is asking asked a court to dismiss the criminal charges it filed last month against Kalshi and two of its executives, accusing the prediction market operator of running an illegal gambling enterprise",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910"
+          "headline": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
+          "summary": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/"
         }
       ]
     },
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Hawaii loses 6-11 Houran Dan when eligibility denied by NCAA",
-          "summary": "Houran Dan, a 6-foot-11 center from Neimenggu (Inner Mongolia), is no longer on the University of Hawaii men’s basketball team after failing to have his NCAA eligibility restored. “He is not going to be with us for the remainder of the year,” UH head coach Eran Ganot said.",
+          "headline": "TCU tops No. 17 Miami 84-71 in opening round of the Players Era 16 tournament in Las Vegas",
+          "summary": "LAS VEGAS (AP) — Micah Robinson scored 27 points and TCU beat No. 17 Miami 84-71 in the opening round of the Players Era 16 tournament on Tuesday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/hawaii-loses-6-11-houran-223300918.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/tcu-tops-no-17-miami-225711102.html"
         },
         {
-          "headline": "Kingdom Keys: 3 Keys to a Chiefs victory over the Bills in Week 12",
-          "summary": "(Photo by Peter Aiken/Getty Images) | Getty Images The Kansas City Chiefs and Buffalo Bills will bring one of the NFL’s most intense modern rivalries to Thanksgiving night. The rivalry has been defined by a strange split during the Patrick Mahomes and Josh Allen era.",
+          "headline": "Arteta backs 'brilliant' Gyokeres after Arsenal waste chances to beat Dortmund",
+          "summary": "Arsenal striker Viktor Gyokeres in action against Borussia Dortmund (Ben Stansall) Mikel Arteta defended Viktor Gyokeres after the inconsistent Arsenal striker's \"unbelievable\" strike was followed by a costly miss in Tuesday's 1-1 draw against Borussia Dortmund in the Champions League. Arteta had urged Gyokeres to seize his opportunity after selecting…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/kingdom-keys-3-keys-chiefs-223000501.html"
+          "url": "https://sports.yahoo.com/soccer/articles/arteta-backs-brilliant-gyokeres-arsenal-225255433.html"
         },
         {
           "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
@@ -863,6 +863,12 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Black Bear Buys Thriller ‘Seeker,’ Starring ‘Obsession’s’ Cooper Tomlinson and ‘Off Campus’ Actor Mika Abdalla (EXCLUSIVE)",
+          "summary": "Black Bear has acquired “Seeker,” a thriller featuring “Obsession” actor Cooper Tomlinson, “Off Campus” breakout Mika Abdalla and “Happy Death Day” star Jessica Rothe. The company has North American and U.K.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/black-bear-seeker-cooper-tomlinson-mika-abdalla-1236957478/"
+        },
+        {
           "headline": "Where to Stream ‘Dancing With the Stars’ Season 35 Finale Live Online",
           "summary": "The special three-hour event — airing live across all U.S. time zones for the first time in show history — will see the final five couples perform three routines each.",
           "source": "The Hollywood Reporter",
@@ -875,16 +881,10 @@
           "url": "https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506/"
         },
         {
-          "headline": "Steven Hack, ‘American Horror Story’ Actor and Original Cast Member of ‘Cats,’ Dies at 68",
-          "summary": "Steven Hack, an original cast member in the Broadway production of “Cats” who appeared in TV series including “American Horror Story,” died Nov. 19 in Los Angeles following a “sudden and unexpected cardiac event,” Interact Theatre Company confirmed on social media.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/people-news/steven-hack-dead-american-horror-story-cats-1236957417/"
-        },
-        {
-          "headline": "Alfonso Ribeiro on the “Wild” Ride of ‘DWTS’ Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season",
-          "summary": "To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.",
+          "headline": "IATSE Reaches Tentative Agreement for Broadway Stagehands",
+          "summary": "However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/"
+          "url": "https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -899,10 +899,22 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘The Body’ Summons 86% Audience Boost To Lead Netflix’s Weekly TV Rankings",
+          "summary": "The Body is summoning some interest on Netflix. The YA drama tallied 9.5 million views from November 16 to 22, taking No.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942/"
+        },
+        {
           "headline": "NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’",
           "summary": "The 100th celebration of the Macy’s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It’s made it through rain and even snow, but this time it’s facing an incoming storm that is threatening to bring heavy winds.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/"
+        },
+        {
+          "headline": "Alfonso Ribeiro on the “Wild” Ride of ‘DWTS’ Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season",
+          "summary": "To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/"
         },
         {
           "headline": "How Amin Joseph Brought “Humanity” to Sonny Liston in ‘The Greatest’",
@@ -915,18 +927,6 @@
           "summary": "SPOILER ALERT: The following reveals major plot points from Hulu’s Reasonable Doubt‘s Season 4 finale titled “Moment of Clarity.” Hulu’s Reasonable Doubt has closed out its action-packed fourth season with a bloody good surprise: Kelly Rowland has joined the cast for Season 5. She portrays the character Demitra, a staffer on a mayoral campaign who […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/kelly-rowland-cast-hulu-reasonable-doubt-season-5-1237232824/"
-        },
-        {
-          "headline": "‘South Park’ Takes Aim at Jensen Huang, Nvidia Spy Scandal in Next Episode",
-          "summary": "The town hunts for a Chinese spy amid a series of mysterious power outages in Wednesday's episode.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-nvidia-cyberattacks-1236762386/"
-        },
-        {
-          "headline": "Kevin Kline Joins Meryl Streep In Netflix’s ‘The Corrections’",
-          "summary": "Academy Award winner Kevin Kline is set to star opposite the previously announced Meryl Streep in The Corrections, Netflix’s series adaptation of Jonathan Franzen’s National Book Award winner from Paramount Television Studios. Kline plays Alfred Lambert, the husband of Streep’s Enid Lambert.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-corrections-netflix-meryl-streep-casts-kevin-kline-1237232653/"
         }
       ]
     },
@@ -935,10 +935,10 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "IATSE Reaches Tentative Agreement for Broadway Stagehands",
-          "summary": "However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/"
+          "headline": "Broadway Producers & Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike",
+          "summary": "The Broadway League and IATSE Local One of theater workers have reached a tentative deal to avoid a strike that could have disrupted the lucrative holiday season. The agreement is pending ratification by union members.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887/"
         },
         {
           "headline": "Al Gore To Purchase Hometown Paper Carthage Courier",
@@ -959,10 +959,10 @@
           "url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/"
         },
         {
-          "headline": "Done Deal! Netflix Buys Radford Studios For Almost $400M; Streamer Calls Purchase “A Meaningful New Investment In California’s Film Industry”",
-          "summary": "Ted Sarandos has never hid his love for Old Hollywood, and now the Netflix co-CEO has a 55-acre and 98-year old piece of Tinseltown property. After months of negotiations, speculation and reporting by Deadline that things were moving ahead, Netflix has bought the iconic Radford Studio Center in Studio City.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-buys-radford-studios-1237232812/"
+          "headline": "‘One & Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years",
+          "summary": "Click here for Medication Guide, including Boxed Warning. In a world where trends come and go, there’s one thing that never goes out of style: being authentically yourself.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/lifestyle/botox-cosmetic-one-and-only-campaign-1236683743/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T17:43:25-05:00"
+  "updatedAt": "2026-11-24T18:11:26-05:00"
 }
