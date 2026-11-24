@@ -6,16 +6,22 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Even the best AI agents struggle with everyday life",
+          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+        },
+        {
           "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
           "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
         },
         {
-          "headline": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+          "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
+          "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel…",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
         },
         {
           "headline": "Tidal will start banning AI-generated music next month",
@@ -24,16 +30,10 @@
           "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
         },
         {
-          "headline": "AI is making its way into toys. What should parents do?",
-          "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
-        },
-        {
-          "headline": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
-          "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+          "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+          "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
           "source": "Wired",
-          "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+          "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump pardons 2 turkeys, Freedom and Feathers",
+          "summary": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two stayed in a suite leading up to their trip to the White House.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/"
+        },
+        {
+          "headline": "WATCH: President Trump holds Thanksgiving turkey pardoning ceremony",
+          "summary": "President Donald Trump held the annual Thanksgiving turkey pardon ceremony at the White House on Tuesday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138420700/"
+        },
+        {
           "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
           "summary": "The verdict follows a months-long trial in New York.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Kilmar Abrego Garcia leaving U.S. today, heading to Europe, sources say",
+          "headline": "Kilmar Abrego Garcia leaving U.S. today for Europe, sources say",
           "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. as soon as Tuesday, according to multiple U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
-        },
-        {
-          "headline": "Substance released at Manchester concert could be linked to robberies, police say",
-          "summary": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Feds call for evacuations before Iowa munition detonation",
-          "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
-        },
-        {
-          "headline": "DOJ directs array of litigators to help with ICE detainee lawsuits",
-          "summary": "Roughly 2,000 DOJ civil litigators are being directed to help with thousands of ICE detainee habeas petitions.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-detainee-lawsuits-justice-department-non-immigration-attorneys/"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125357795100799241",
+          "created_at": "2026-11-24T22:36:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Josh Allen vs. Patrick Mahomes is the best game of the Thanksgiving NFL slate. If I said I was rooting for Allen because he's white, people would demand I be canceled. Why is that any different from what Stephen A. Smith said? https://t.co/RmfsoNUFPa",
+          "url": "https://x.com/ClayTravis/status/2125357795100799241",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125355263871893964",
+          "created_at": "2026-11-24T22:25:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: FEDERAL GRAND JURIES PROBE ILHAN OMAR’S IMMIGRATION HISTORY AND FINANCES\n\nFederal investigators are examining allegations of immigration fraud and potential financial crimes involving Rep. Ilhan Omar, with newly unsealed court records revealing investigators sought",
+          "url": "https://x.com/RealAmVoice/status/2125355263871893964",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125355072108560449",
+          "created_at": "2026-11-24T22:25:11.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "CrowdStrike CEO George Kurtz says one open-source AI attack tool was turned on 200 organizations, and there are now more than 12,000 copies of it\n\n\"We found some of the controllers and they were literally running agents against 200 organizations\"\n\n\"They took it down, but of https://t.co/VRUVBZ4dET",
+          "url": "https://x.com/_Investinq/status/2125355072108560449",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125352934158606775",
+          "created_at": "2026-11-24T22:16:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "STATS: Strikes for Nov 26 and a breakdown since the conflict began.\n\nContributed by @live_ais_com https://t.co/U5gCyil3hC",
+          "url": "https://x.com/Osint613/status/2125352934158606775",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125352510361890988",
+          "created_at": "2026-11-24T22:15:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Michigan looks incompetent. Trev Alberts' attorney says Michigan owes him $17.2 million plus $4 million to cover his Texas A&amp;M buyout. Who in the world wants this job now that they just yanked the rug out from underneath him? https://t.co/jeNSGz2DZn",
+          "url": "https://x.com/ClayTravis/status/2125352510361890988",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125349930394927277",
           "created_at": "2026-11-24T22:04:45.000Z",
@@ -259,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125335661448450210",
-          "created_at": "2026-11-24T21:08:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "An elderly man in Birmingham was left on his own to fight off thugs trying to steal his scooter. \n\nIn a country where self-defense can get you charged, who's surprised nobody stepped in? https://t.co/cGuSjtXaEe",
-          "url": "https://x.com/RealAmVoice/status/2125335661448450210",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125335262360166531",
           "created_at": "2026-11-24T21:06:28.000Z",
           "author_name": "Open Source Intel",
@@ -329,52 +369,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125330339828559917",
-          "created_at": "2026-11-24T20:46:54.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Good to know @BuckSexton is not a big moist nuts guy. https://t.co/f5UTNC5WsU",
-          "url": "https://x.com/ClayTravis/status/2125330339828559917",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125329861208318419",
-          "created_at": "2026-11-24T20:45:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The United States has been awarded the 2031 FIFA Women's World Cup. I think this is an awesome accomplishment, and congratulations to everyone who helped make it happen. Megan Rapinoe is going to be so pissed. https://t.co/WWeNQa4dYe",
-          "url": "https://x.com/ClayTravis/status/2125329861208318419",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125328328555147489",
           "created_at": "2026-11-24T20:38:54.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Every investing app answers what should I buy and that's the easy part.\n\nThe hard part is always when do I sell, when do I add, when do I just sit. \n\nAstor flips it because you tell it what you think is gonna happen in the world like AI is going to crush energy grids  or defense https://t.co/XqlmlSX2zu https://t.co/RudJ8CDghN",
           "url": "https://x.com/_Investinq/status/2125328328555147489",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125326385531269267",
-          "created_at": "2026-11-24T20:31:11.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Drones carried out Tuesday's attack on a tower in Riyadh's financial district, according to a statement from the Saudi-led coalition. https://t.co/04jEkEK0jQ",
-          "url": "https://x.com/Osint613/status/2125326385531269267",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125326123810922680",
-          "created_at": "2026-11-24T20:30:09.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "\"Big Short\" investor Steve Eisman says the Nvidia saga has \"the whiff of corruption\" and the investigations are not done\n\n\"This whole story has the whiff of corruption about it and it's going to be tremendous investigations and we're not done\"\n\n\"I think what happened was the https://t.co/dAIqHBcEaa",
-          "url": "https://x.com/_Investinq/status/2125326123810922680",
           "verified": true,
           "verified_type": "blue"
         },
@@ -791,6 +791,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+          "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html"
+        },
+        {
           "headline": "Shein to pay $100 million to settle claims it deceived customers",
           "summary": "The Singapore fast-fashion company misled millions of U.S. consumers about its products and policies, FTC alleges.",
           "source": "CBS News",
@@ -801,12 +807,6 @@
           "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
-        },
-        {
-          "headline": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-          "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html"
         },
         {
           "headline": "US jury find Chinese tech giant Huawei guilty of 10 counts, including conspiracy to steal trade secrets and bank fraud",
@@ -827,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Dar and Rice defeat UIC 68-67",
-          "summary": "Jacob Dar scored 21 points and Jaxson Thompson secured the victory on two free throws with less than a second left as Rice knocked off UIC 68-67",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/dar-rice-defeat-uic-68-67-138424586"
-        },
-        {
-          "headline": "Larne beat Glens to reach BetMcLean Cup quarter-finals",
-          "summary": "Larne moved into the quarter-finals of the BetMcLean Cup as they triumphed 3-2 against Glentoran at the Oval. Holders Linfield also booked their place in the next round with a narrow 1-0 victory over Championship side H&W Welders at the Blanchflower Stadium.",
+          "headline": "Hawaii loses 6-11 Houran Dan when eligibility denied by NCAA",
+          "summary": "Houran Dan, a 6-foot-11 center from Neimenggu (Inner Mongolia), is no longer on the University of Hawaii men’s basketball team after failing to have his NCAA eligibility restored. “He is not going to be with us for the remainder of the year,” UH head coach Eran Ganot said.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/larne-beat-glens-reach-betmclean-220319542.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/hawaii-loses-6-11-houran-223300918.html"
         },
         {
-          "headline": "Real Madrid thrash PSV, Arsenal and City stumble, Como reach top three",
-          "summary": "What a night! The opening matches of matchday five in the 2026-2027 Champions League league phase took place on Tuesday night.",
+          "headline": "Kingdom Keys: 3 Keys to a Chiefs victory over the Bills in Week 12",
+          "summary": "(Photo by Peter Aiken/Getty Images) | Getty Images The Kansas City Chiefs and Buffalo Bills will bring one of the NFL’s most intense modern rivalries to Thanksgiving night. The rivalry has been defined by a strange split during the Patrick Mahomes and Josh Allen era.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/real-thrash-psv-arsenal-city-215900935.html"
+          "url": "https://sports.yahoo.com/nfl/articles/kingdom-keys-3-keys-chiefs-223000501.html"
         },
         {
-          "headline": "Hidalgo matches Ogunbowale atop Notre Dame scoring list, No. 13 Irish hold off Davidson 64-52",
-          "summary": "Hannah Hidalgo scored 22 points to tie the Notre Dame career scoring record, Leah Macy had a double-double and the No. 13 Fighting Irish pulled out a 64-52 win over Davidson at the Battle 4 Atlantis on Tuesday",
+          "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
+          "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/hidalgo-matches-ogunbowale-atop-notre-dame-scoring-list-138422153"
+          "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
+        },
+        {
+          "headline": "Oregon State wins 87-73 against San Francisco",
+          "summary": "DeShawn Gory had 14 points in Oregon State’s 87-73 win over San Francisco",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/oregon-state-wins-87-73-san-francisco-138424787"
         },
         {
           "headline": "One year after 11-0 start, Texas A&M enters rivalry week as a cautionary tale",
@@ -862,6 +862,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Where to Stream ‘Dancing With the Stars’ Season 35 Finale Live Online",
+          "summary": "The special three-hour event — airing live across all U.S. time zones for the first time in show history — will see the final five couples perform three routines each.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-finale-2026-season-35-free-abc-1236762567/"
+        },
         {
           "headline": "‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature",
           "summary": "Being a member of Capitol society in Panem is an honor not to be taken lightly, at least if you’re Drusilla Sickle, played by screen legend Glenn Close in “The Hunger Games: Sunrise on the Reaping.” In the book, Drusilla is the cruel and vain escort for Haymitch Abernathy (Joseph Zada) and the rest of […]",
@@ -881,12 +887,6 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/"
         },
         {
-          "headline": "TV Ratings: NBA Logs Winning Streak in First Month of the Season",
-          "summary": "Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311/"
-        },
-        {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
           "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
           "source": "NPR",
@@ -898,6 +898,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’",
+          "summary": "The 100th celebration of the Macy’s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It’s made it through rain and even snow, but this time it’s facing an incoming storm that is threatening to bring heavy winds.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/"
+        },
         {
           "headline": "How Amin Joseph Brought “Humanity” to Sonny Liston in ‘The Greatest’",
           "summary": "Amazon's Muhammad Ali series rewrites history for one of boxing's biggest heels.",
@@ -917,16 +923,10 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-nvidia-cyberattacks-1236762386/"
         },
         {
-          "headline": "NBC Tracking Storm Due To Hit 100th Annual Macy’s Thanksgiving Day Parade: Will Balloons Be Grounded?",
-          "summary": "NBC is closely tracking a Thanksgiving storm expected to bring high winds and heavy rain to New York City and much of the Eastern U.S. The network’s coverage of the 100th edition of the annual Macy’s Thanksgiving Day parade will air on NBC and stream on Peacock from 8:30 a.m.",
+          "headline": "Kevin Kline Joins Meryl Streep In Netflix’s ‘The Corrections’",
+          "summary": "Academy Award winner Kevin Kline is set to star opposite the previously announced Meryl Streep in The Corrections, Netflix’s series adaptation of Jonathan Franzen’s National Book Award winner from Paramount Television Studios. Kline plays Alfred Lambert, the husband of Streep’s Enid Lambert.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/storm-macys-thanksgiving-parade-nbc-balloons-1237232716/"
-        },
-        {
-          "headline": "Kevin Kline Reunites With Meryl Streep in ‘The Corrections’ Series at Netflix",
-          "summary": "Kevin Kline will star opposite Meryl Streep in the Netflix limited series adaptation of “The Corrections,” Variety has learned. Based on the novel of the same name by Jonathan Franzen, the series was originally announced with Streep attached back in April.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/kevin-kline-meryl-streep-the-corrections-series-netflix-1236957061/"
+          "url": "https://deadline.com/2026/11/the-corrections-netflix-meryl-streep-casts-kevin-kline-1237232653/"
         }
       ]
     },
@@ -947,6 +947,12 @@
           "url": "https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838/"
         },
         {
+          "headline": "Law Firm Ropes and Gray Expands Los Angeles Presence and Entertainment, Sports and Media Practice With Tom Ara, David Markman Hires",
+          "summary": "Law firm Ropes and Gray aims to significantly raise its profile in Los Angeles and in the entertainment and sports arena with the hiring of the transactional legal team lead by Tom Ara and David Markman. Ara and Markman are relocating to Ropes and Gray after having previously set up shop at Weil, Gotshal and […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/tom-ara-markman-ropes-and-gray-la-entertainment-sports-1236957128/"
+        },
+        {
           "headline": "Netflix Buys Radford Studio Lot for $380 Million",
           "summary": "The purchase gives the entertainment giant ownership of a major Los Angeles production campus.",
           "source": "The Hollywood Reporter",
@@ -957,12 +963,6 @@
           "summary": "Ted Sarandos has never hid his love for Old Hollywood, and now the Netflix co-CEO has a 55-acre and 98-year old piece of Tinseltown property. After months of negotiations, speculation and reporting by Deadline that things were moving ahead, Netflix has bought the iconic Radford Studio Center in Studio City.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/netflix-buys-radford-studios-1237232812/"
-        },
-        {
-          "headline": "‘One & Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years",
-          "summary": "Click here for Medication Guide, including Boxed Warning. In a world where trends come and go, there’s one thing that never goes out of style: being authentically yourself.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/lifestyle/botox-cosmetic-one-and-only-campaign-1236683743/"
         }
       ]
     },
@@ -971,37 +971,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Every Track From ‘Grand Theft Auto VI: The Album’ Ranked — Now Including the Deluxe Bonus Tracks",
-          "summary": "Monocultural moments in society have become extremely rare in the mid-2020s, but the arrival of Grand Theft Auto VI has brought about as strong a unified pop-culture tidal wave as we’ve seen this decade. Rockstar Games released the Grand Theft Auto VI: The Album on Friday (Nov.",
+          "headline": "Pearl Jam Rage Against ‘Unconscionable’ ICE Arrests at Seattle Airport",
+          "summary": "\"We stand firmly against this kind of inhumane treatment,\" the band wrote after masked agents detained a father and daughter",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/pearl-jam-seattle-airport-ice-arrests-1235663883/"
+        },
+        {
+          "headline": "Disney Sued for Allegedly Using Unlicensed Music in Social Media Ads: ‘Never Paid a Dollar’",
+          "summary": "The latest in a flood of lawsuits over music on social media is targeting the Walt Disney Co. — and claiming that the Hollywood giant should have known better.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/"
+          "url": "https://www.billboard.com/pro/disney-lawsuit-unlicensed-social-media-music/"
         },
         {
-          "headline": "Cher’s Victory in Royalties War Under Fire as Mary Bono Pushes for Reversal",
-          "summary": "The lower court “struggled with the concept that copyright terminations preempted Sonny’s right to contract freely and bargain away his heirs’ rights,\" the new filing reads",
+          "headline": "Ninajirachi Throws a Party With All Her Friends on Surprise Remix Album",
+          "summary": "I Love My Computer, All My Friends Are Inside It , a revamped version of the electronic artist's debut album, features Wet Leg, Underscores, Frost Children, and more",
           "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/cher-sonny-bono-mary-royalties-war-appeal-1235663741/"
+          "url": "https://www.rollingstone.com/music/music-news/ninajirachi-i-love-my-computer-remix-album-1235663118/"
         },
         {
-          "headline": "Tidal Is the First Streaming Service to Ban AI Music",
-          "summary": "The platform will start removing songs wholly generated with artificial intelligence, as well as rejecting all future uploads",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/tidal-bans-ai-music-1235663794/"
+          "headline": "Dolly Parton’s Final Recording on U2’s ‘Torn’ Marks Chart Milestones for Both Acts",
+          "summary": "Dolly Parton ’s final recording is making its mark across multiple Billboard charts, as her collaboration with U2 , “Torn,” arrives on country and rock rankings (dated Nov. 28), while standing as one of the top-selling songs in the United States.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/dolly-parton-final-recording-u2-torn-chart-milestones-1236389213/"
         },
         {
           "headline": "What does the moon sound like? Two artists have one answer",
           "summary": "Meet the two artists who turn the moon's light into music.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/24/nx-s1-6045779/what-does-the-moon-sound-like-two-artists-have-one-answer"
-        },
-        {
-          "headline": "5 Things to Know About Anuel AA Ahead of His ‘RHLM2’ Album Release",
-          "summary": "Anuel AA is finally releasing his highly-anticipated new album, RHLM2 , on his birthday, Nov. 26.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/anuel-aa-rhlm2-album-interview-things-to-know/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-24T17:15:40-05:00"
+  "updatedAt": "2026-11-24T17:43:25-05:00"
 }
