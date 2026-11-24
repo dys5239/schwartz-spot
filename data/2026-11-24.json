@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
-          "summary": "Despite Iran claiming daily attacks on takers around the Strait of Hormuz and escalating fighting between the Saudis and Iran's Houthi allies, oil prices continue to decline.",
+          "headline": "Trump awards Medal of Freedom to former NYC Mayor Rudy Giuliani",
+          "summary": "Trump pardoned Giuliani last year.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-award-medal-freedom-former-nyc-mayor-rudy/story?id=138411544"
+        },
+        {
+          "headline": "Iran developing chemical weapons, Israeli defense minister says",
+          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "Top Denmark court upholds \"non-Western\" evictions law",
-          "summary": "Denmark's Supreme Court has upheld a law that lets authorities limit the number of \"non-Western\" residents who can live in a public housing development.",
+          "headline": "Do you need a power of attorney if you already have a will?",
+          "summary": "A will is an important part of estate planning, but it may leave some critical financial decisions unaddressed.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/denmark-court-upholds-law-eviction-non-western-residents/"
+          "url": "https://www.cbsnews.com/news/do-you-need-a-power-of-attorney-if-you-already-have-a-will/"
         },
         {
-          "headline": "Canada's defense minister says his country answers to no one in Washington",
-          "summary": "Canada’s defense minister says that his country answers to no one in Washington, asserting Canadian sovereignty after the Pentagon accused Ottawa of failing to meet its military commitments",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/canadas-defense-minister-country-answers-washington-after-pentagon-138417114"
-        },
-        {
-          "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
-          "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "US Army recommends evacuations, details mitigation for controlled munition explosion",
+          "headline": "Feds call for evacuations before Iowa munition detonation",
           "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
+        },
+        {
+          "headline": "US attorney general dodges questions about Nvidia investigation",
+          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125306557701271863",
+          "created_at": "2026-11-24T19:12:24.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP CALLS OUT BIDEN-APPOINTED JUDGE OVER D.C. GOLF COURSE RENOVATION!\n\nPresident Trump accuses Judge Ana Reyes of obstructing plans to transform the East Potomac Golf Course into a world-class public facility with reduced rates for D.C. residents.\n\n“She wants to become a Golf https://t.co/QKMzn6kwfh",
+          "url": "https://x.com/RealAmVoice/status/2125306557701271863",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125306489082691729",
+          "created_at": "2026-11-24T19:12:07.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Turns out starvation in Gaza was one big hoax. Go figure. \n\nI mean let’s be honest. Obesity is very common in Palestinian Arab culture. \n\nThey aren’t exactly missing meals.\n\nWant to see what real starvation and genocide looks like? \n\nVisit Auschwitz and do the guided English https://t.co/DI6UG9FXil",
+          "url": "https://x.com/LauraLoomer/status/2125306489082691729",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125305943982297255",
+          "created_at": "2026-11-24T19:09:57.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Hamas internal chief casually walks alone before an IDF drone spots him  https://t.co/zJkH1JXvAF",
+          "url": "https://x.com/Osint613/status/2125305943982297255",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125305232288846087",
+          "created_at": "2026-11-24T19:07:08.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "How it felt guarding your older cousin on Thanksgiving  https://t.co/8mC5zpmS40",
+          "url": "https://x.com/Outkick/status/2125305232288846087",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125303422270517733",
+          "created_at": "2026-11-24T18:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP PARDONS FREEDOM AND FEATHERS, POLLAK ON SCOTT ADAMS LEGACY | HUMAN EVENTS W JACK POSOBIEC https://t.co/tmz0OV2iYY",
+          "url": "https://x.com/RealAmVoice/status/2125303422270517733",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125302947747872791",
+          "created_at": "2026-11-24T18:58:03.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Damascus is pushing back on Israel after the strike on a Hezbollah weapons shipment at the Syria-Lebanon border.\n\nA source close to the Syrian government told Kan News that IDF incursions in southern Syria are hampering efforts against Hezbollah. The source claims they give the",
+          "url": "https://x.com/Osint613/status/2125302947747872791",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125301615431483783",
+          "created_at": "2026-11-24T18:52:45.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Chris Van Hamas https://t.co/dXlbcDgpvL",
+          "url": "https://x.com/LauraLoomer/status/2125301615431483783",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125301310295523664",
+          "created_at": "2026-11-24T18:51:33.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "MACtion looks like pure chaos on TV. Behind the scenes, it takes months of planning and forces players and coaches to completely reshape their week.\n\n@ByGusWilson spoke with Miami-Ohio coach Chuck Martin and MAC commissioner Jon Steinbrecher about the hidden work behind college",
+          "url": "https://x.com/SportNState/status/2125301310295523664",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125301225562255606",
+          "created_at": "2026-11-24T18:51:13.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "They already did. It’s called the China Virus.\n\n1.2 million Americans were killed and Xi JinPing was rewarded with a red carpet welcome in the US. https://t.co/Kpu07yVJNx",
+          "url": "https://x.com/LauraLoomer/status/2125301225562255606",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125299627217780998",
           "created_at": "2026-11-24T18:44:51.000Z",
@@ -209,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125289617444278409",
-          "created_at": "2026-11-24T18:05:05.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Tensions on various fronts, including with Iran, will bring two back to back cabinet sessions next Thursday.\n\nThe small ministerial council meets first. The expanded ministerial council follows immediately after.\n\nIsrael Hayom",
-          "url": "https://x.com/Osint613/status/2125289617444278409",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125289167366263111",
           "created_at": "2026-11-24T18:03:18.000Z",
           "author_name": "OutKick",
@@ -227,16 +307,6 @@
           "url": "https://x.com/Outkick/status/2125289167366263111",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125289025657328082",
-          "created_at": "2026-11-24T18:02:44.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Rafah militia headed by Ghassan al-Dahini is celebrating the killing of Naim Abu Nahal, head of Hamas's internal security apparatus, in Gaza today:\n\n\"We welcome the elimination of Naim Abu Nahal, one of the leading thugs of Hamas's oppressive terror regime. For years he ran https://t.co/qTZBQjXqZd",
-          "url": "https://x.com/Osint613/status/2125289025657328082",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125288952617697352",
@@ -257,16 +327,6 @@
           "url": "https://x.com/ClayTravis/status/2125288613244240324",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125288343701229700",
-          "created_at": "2026-11-24T18:00:01.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: Boston City Council votes to recognize Thanksgiving Day as a “National Day of Mourning.”\n\nThe council reportedly passed a resolution recognizing November 26 as a day to address “historical injustice.”\n\nhttps://t.co/Ak0If2uATz",
-          "url": "https://x.com/RealAmVoice/status/2125288343701229700",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125287666149110190",
@@ -325,16 +385,6 @@
           "author_handle": "Outkick",
           "text": "Another World Cup is coming to America. 🇺🇸\n\nTrump announces the U.S. will host the 2031 FIFA Women's World Cup! https://t.co/7G73OMIRUC",
           "url": "https://x.com/Outkick/status/2125280925365964859",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125278542720057691",
-          "created_at": "2026-11-24T17:21:05.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP ANNOUNCES THE 2031 FIFA WOMEN’S WORLD CUP IS COMING TO AMERICA!\n\nPresident Trump says the world’s premier women’s soccer tournament will be held in the United States, bringing major economic opportunities and showcasing American exceptionalism on the world stage.\n\n“No https://t.co/8pQWl7oRa6",
-          "url": "https://x.com/RealAmVoice/status/2125278542720057691",
           "verified": true,
           "verified_type": "business"
         },
@@ -479,16 +529,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125254082893951141",
-          "created_at": "2026-11-24T15:43:53.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "\"LSU could survive as an independent,\" says @mattyfoles 😳\n\nRead more: https://t.co/tvPbWrliAG https://t.co/qa2llZPh3f",
-          "url": "https://x.com/SportNState/status/2125254082893951141",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125252441687929063",
           "created_at": "2026-11-24T15:37:22.000Z",
           "author_name": "The Kobeissi Letter",
@@ -569,36 +609,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125212098145743100",
-          "created_at": "2026-11-24T12:57:03.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "I am so happy and proud that the Islamic, animal torturing, illegal alien criminals at Ali Meat International were busted by state and federal officials and are facing 190 combined years of prison and deportation following my viral journalism.\n\nPrior to my reports in September https://t.co/w3fLPrO54k https://t.co/gwwiAR7BBL",
-          "url": "https://x.com/LauraLoomer/status/2125212098145743100",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125208866723901459",
-          "created_at": "2026-11-24T12:44:12.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Wow. Read this. \n\n@amasad Amjad Masad is who just met with Vice President Vance. \n\nAmjad says he’s going to continue meeting with the Vice President as well. \n\nThe guy says his role model is a jihadist warlord and he obsessively posts anti-Jewish tweets and has accused President https://t.co/VBMnsuklyV",
-          "url": "https://x.com/LauraLoomer/status/2125208866723901459",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125207349279248691",
-          "created_at": "2026-11-24T12:38:11.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Speaking on anti-Semitic foreigners,\nRupert Lowe @RupertLowe10 has previously criticized “anti-Semitic foreigners who should be deported,” but earlier this month, he posed with Calvin Robinson @calvinrobinson, who spoke at an exclusive donor reception for his Restore Britain https://t.co/j7CF2mSCFi https://t.co/TxJzDnpngx",
-          "url": "https://x.com/LauraLoomer/status/2125207349279248691",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125178828943184363",
           "created_at": "2026-11-24T10:44:51.000Z",
           "author_name": "Elon Musk",
@@ -627,16 +637,6 @@
           "url": "https://x.com/_The_Prophet__/status/2125142527506583817",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125086630268866880",
-          "created_at": "2026-11-24T04:38:29.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Bengals defense on that last drive  https://t.co/80XfMrkMGv",
-          "url": "https://x.com/Outkick/status/2125086630268866880",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125012805757616469",
@@ -689,32 +689,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124944485767668204",
-          "created_at": "2026-11-23T19:13:39.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Before we sit at the Thanksgiving table this year, there’s one thing I think we should all be grateful for…\n\nThe pain.\n\nUsually, Thanksgiving is full of the easy things to be grateful for. Nobody wants to sit with the hard stuff, even though it’s usually what shapes us the most. https://t.co/2bcHHMCA3Y",
-          "url": "https://x.com/glennbeck/status/2124944485767668204",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124944467119747335",
           "created_at": "2026-11-23T19:13:35.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Beautiful shot by Andrew McCarthy https://t.co/nUJRMXQ9yR",
           "url": "https://x.com/elonmusk/status/2124944467119747335",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124943557366550681",
-          "created_at": "2026-11-23T19:09:58.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "The Democrats will speak solemnly about the alleged sanctity of “our democracy” while being the very same people who tried to put a dying dementia patient in the White House for another four years https://t.co/hZGlC1lN8m",
-          "url": "https://x.com/MattWalshBlog/status/2124943557366550681",
           "verified": true,
           "verified_type": "blue"
         },
@@ -729,12 +709,22 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124938612890296500",
-          "created_at": "2026-11-23T18:50:19.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Cyberattacks on federal agencies. Iranian retaliation. Chinese espionage. America is already at war. And Washington refuses to admit it.\n\nWe are at war. It is happening. Nobody wants to say it. https://t.co/VdellUmsHD",
-          "url": "https://x.com/Timcast/status/2124938612890296500",
+          "id": "2124918561617694750",
+          "created_at": "2026-11-23T17:30:38.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "True https://t.co/8jbmsDPCRi",
+          "url": "https://x.com/elonmusk/status/2124918561617694750",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2124917923391443211",
+          "created_at": "2026-11-23T17:28:06.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Those who violate the law on this platform WILL be prosecuted, WHEREVER they may be in the world. https://t.co/OmFAlwsmh4",
+          "url": "https://x.com/elonmusk/status/2124917923391443211",
           "verified": true,
           "verified_type": "blue"
         }
@@ -745,16 +735,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump to pardon 2 turkeys, Freedom and Feathers",
+          "summary": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two have been staying in a suite leading up to their trip to the White House.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/"
+        },
+        {
           "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
           "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
-        },
-        {
-          "headline": "Trump presenting Rudy Giuliani with Presidential Medal of Freedom",
-          "summary": "Rudy Giuliani, the former mayor of New York City who worked as a personal lawyer to President Trump, said he will be honored in the Oval Office.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/"
         },
         {
           "headline": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
@@ -781,22 +771,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+          "summary": "The product, the first one beyond event contracts, was introduced in May.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html"
+        },
+        {
           "headline": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
           "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
-        },
-        {
-          "headline": "As Anthropic falls below its IPO price, here's how big-money traders are reacting",
-          "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
-        },
-        {
-          "headline": "Utah asks to drop charges against Kalshi, founders after Kalshi halts trading there",
-          "summary": "Utah is asking asked a court to dismiss the criminal charges it filed last month against Kalshi and two of its executives, accusing the prediction market operator of running an illegal gambling enterprise",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910"
         },
         {
           "headline": "US consumer confidence soars as election uncertainty ends, gas prices fall",
@@ -809,6 +793,12 @@
           "summary": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/"
+        },
+        {
+          "headline": "Australia set to pass digital duty of care law, fines up to 5% of global revenue",
+          "summary": "Australia is set to create new online safety laws that would make tech giants potentially liable for multibillion dollar fines for failing to prevent foreseeable online harms",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/australia-set-pass-digital-duty-care-law-fines-138406159"
         }
       ]
     },
@@ -817,16 +807,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Minnesota Vikings Beat Writer Evaluates Team’s Chances of Adding Daniel Jones Again",
-          "summary": "IMAGN IMAGES via Reuters Connect Two years ago, when Daniel Jones was looking to revitalize his career after being cut loose by the New York Giants, he turned to the Minnesota Vikings for salvation. Recently released by the Indianapolis Colts, could history repeat itself in Minnesota again?",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/minnesota-vikings-beat-writer-evaluates-182853131.html"
+          "headline": "One year after 11-0 start, Texas A&M enters rivalry week as a cautionary tale",
+          "summary": "Failed coordinator promotions, a regression under center and a non-existent pass rush turned an expensive roster into one of college football's biggest disasters",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/texas-a-m-cautionary-tale-rivalry-week/"
         },
         {
-          "headline": "Taj Au-Duke hits winning shot in OT as St. Bonaventure beats Wright State 72-70",
-          "summary": "ORLANDO, Fla. (AP) — Benjamin Bill scored 20 points to lead St.",
+          "headline": "Romano gives dreaded confidence update on Xabi Alonso as manager suffers another damaging defeat",
+          "summary": "Xabi Alonso has lost to Chelsea’s two biggest rivals at home in the last few games, and his debut season is starting to fall apart. If you enjoy Talk Chelsea coverage and want to see more of it, add us as a preferred source on Google to make us a favourite and see more of our content.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/taj-au-duke-hits-winning-182801197.html"
+          "url": "https://sports.yahoo.com/articles/romano-gives-dreaded-confidence-xabi-190000384.html"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
@@ -841,10 +831,10 @@
           "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
         },
         {
-          "headline": "Mekhi Mason scores career-high 31 to lead San Jose State over UC San Diego 88-79",
-          "summary": "Mekhi Mason scored a career-high 31 points to lead San Jose State to a 88-79 victory over UC San Diego in the third-place game of the Acrisure Series",
+          "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
+          "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/mekhi-mason-scores-career-high-31-lead-san-138402165"
+          "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
         }
       ]
     },
@@ -852,6 +842,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Francis Lawrence Signed On for One ‘Hunger Games’ Movie. Five Films Later, He’s the Keeper of Panem",
+          "summary": "The 'Sunrise on the Reaping' director looks back on the pressure of taking over a franchise, his decade-long collaboration with Suzanne Collins, why the series endures, and where things stand on ‘Constantine 2’ and 'Red Rising.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/francis-lawrence-sunrise-on-reaping-red-rising-constantine-1236760052/"
+        },
         {
           "headline": "Benjamín Naishtat’s ‘The Seven Madmen,’ With ‘I’m Still Here’ Star Selton Mello, Wraps Production",
           "summary": "“The Seven Madmen,” starring Selton Mello (“I’m Still Here”) and directed by Benjamín Naishtat, is wrapping its shoot in Buenos Aires on Nov. 24, marking the latest advance on a production that weighs in as one of Latin America’s big bets for A-List festival selection in 2027.",
@@ -871,12 +867,6 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/focker-in-law-movie-director-ariana-grande-ben-stiller-plot-1236760299/"
         },
         {
-          "headline": "‘Hexed’ Review: Hailee Steinfeld and Rashida Jones Lead a Disney Fantasy More Enchanting in Its Spectacle Than Its Storytelling",
-          "summary": "Jodie Foster and Walton Goggins also lend their voices to the animated adventure about a teenager who discovers she's a witch and gets transported to a magical realm.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/hexed-review-hailee-steinfeld-rashida-jones-disney-1236761588/"
-        },
-        {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
           "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
           "source": "NPR",
@@ -888,6 +878,18 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Kevin Kline Joins Meryl Streep In Netflix’s ‘The Corrections’",
+          "summary": "Academy Award winner Kevin Kline is set to star opposite the previously announced Meryl Streep in The Corrections, Netflix’s series adaptation of Jonathan Franzen’s National Book Award winner from Paramount Television Studios. Kline plays Alfred Lambert, the husband of Streep’s Enid Lambert.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/the-corrections-netflix-meryl-streep-casts-kevin-kline-1237232653/"
+        },
+        {
+          "headline": "MS NOW Hosts ‘Disappointed’ Management Has Yet to Reach New WGA Union Deal Guaranteeing ‘Fair Wages’; Network Boss Rebecca Kutler Responds to Accusations",
+          "summary": "Rachel Maddow and more than a dozen other MS NOW on-air hosts issued a public letter urging parent company Versant Media to reach a new deal with unionized employees affiliated with WGA East that ensures “fair wages and protections,” before their previous agreement expires Dec. 3.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/ms-now-hosts-disappointed-wga-union-deal-rebecca-kutler-memo-1236957154/"
+        },
         {
           "headline": "Sylvester Stallone Wants Arnold Schwarzenegger for a ‘Tulsa King’ Spinoff: “I Hope He Agrees”",
           "summary": "The actor-producer wants his enemy-turned-friend for another Taylor Sheridan show.",
@@ -905,18 +907,6 @@
           "summary": "For Aria Marinelli, “You Can See Everything” hit a little close to home. Marinelli, who worked as Elizabeth Holmes’ assistant in 2009, during the early stages of Theranos, spoke about watching her former boss in the documentary in an interview with Warner Bailey on “AvA Live.” “My initial reaction was I did not want to […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/elizabeth-holmes-ex-assistant-you-can-see-everything-1236957074/"
-        },
-        {
-          "headline": "‘The Lord Of The Rings: The Rings Of Power’ Renewed For Season 4 At Amazon",
-          "summary": "Amazon is showing faith in Middle Earth after renewing The Lord of The Rings: The Rings of Power for a fourth season. The streamer has confirmed that the fantasy drama is in pre-production for a fourth run and will begin filming at Shepperton Studios in the UK in the spring.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/lord-of-the-rings-rings-of-power-renewed-season-4-amazon-1237232657/"
-        },
-        {
-          "headline": "‘Thursday Murder Club’ Author Says Wife’s Casting in Netflix Adaptation Was a Coincidence: ‘It Had Nothing to Do With Me’",
-          "summary": "Author Richard Osman, whose novel “The Thursday Murder Club” was adapted by Netflix into a star-studded film last year, claims his wife’s casting in the project was entirely coincidental. Directed by “Home Alone” and “Harry Potter” helmer Chris Columbus, the film featured Helen Mirren, Pierce Brosnan, Ben Kingsley and Celia Imrie as a group of […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/thursday-murder-club-richard-osman-wife-netflix-1236957129/"
         }
       ]
     },
@@ -924,6 +914,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "MS NOW Hosts Sign On To Letter Urging Adoption Of “Fair” WGAE Contract; Network Says Talks Are Ongoing And “Constructive”",
+          "summary": "The Writers Guild of America, East said that a number of MS NOW hosts — including Rachel Maddow, Jen Psaki, Chris Hayes and Nicolle Wallace — have signed on to a letter of solidarity urging the network to adopt a new contract that expands representation and boosts annual and minimum wage increases to keep pace […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ms-now-hosts-union-contract-wgae-1237232694/"
+        },
         {
           "headline": "Joe Rogan’s The Most Trusted Name In Media For Dudes – Especially Dudes With Daddy Issues",
           "summary": "When Dolly Parton sadly passed earlier this year, the chorus of grief all agreed that the 9-to-5 singer was one of the few figures in American public life that everyone admired. Turns out that might be true for Joe Rogan as well, at least among men without male authority figures in their lives.",
@@ -947,12 +943,6 @@
           "summary": "Click here for Medication Guide, including Boxed Warning. For Anna Mendes, art became the entry to a career that has spanned ad campaigns for the kind of notable companies everyone knows to cutting-edge narrative films and collaborations with big industry names.",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/lifestyle/one-and-only-cinematographer-anna-mendes-career-1236683127/"
-        },
-        {
-          "headline": "Top MS NOW Hosts Sign Letter Urging Versant to Ink Deal With Writers Guild East Members (Exclusive)",
-          "summary": "Rachel Maddow, Chris Hayes, Jen Psaki and Lawrence O'Donnell are among the hosts that have signed the letter, while MS NOW chief Rebecca Kutler told staff 'Let me be clear: we support our employees' right to organize, to be represented, and to advocate for themselves.'",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/maddow-psaki-ms-now-open-letter-wga-east-deal-versant-1236762030/"
         }
       ]
     },
@@ -960,6 +950,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Knicks Star Jalen Brunson Defends Taylor Swift, Says She’s ‘a Member of Knicks Fandom’ After Teammate’s Diss",
+          "summary": "New York Knicks superstar Jalen Brunson has come to Taylor Swift’s defense as it pertains to her Knicks fandom. Related New York Knicks Radio Analyst Questions Taylor Swift’s Knicks Fandom During NBA Finals Game: ‘Get Out of Here, Girl’ Taylor Swift Called the ‘Fakest’ New York Knicks Fan by 2 of Team’s Players: ‘It’s a Little Performative’ Taylor Swift…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/knicks-jalen-brunson-defend-taylor-swift-fandom-teammate-diss-1236388842/"
+        },
         {
           "headline": "Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No. 1 Again This Year?",
           "summary": "As the weather is getting colder this Thanksgiving week, the race for the first No. 1 of the holiday season is heating up.",
@@ -971,12 +967,6 @@
           "summary": "In a first-of-its-kind move, the platform plans to delete some 29 million songs it deems wholly AI-generated",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/tidal-bans-ai-songs/"
-        },
-        {
-          "headline": "Ella Langley Delivers a CMA Six-Pack for the Record Books",
-          "summary": "Among the multiple parties, red carpets and awards events leading up to the 60th annual Country Music Association Awards on Nov. 18, one topic invariably emerged as the Ellaphant in the room.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/awards/country-update-ella-langley-cma-1236388925/"
         },
         {
           "headline": "Ariana Grande Tour Doc to Show the Process Behind ‘Eternal Sunshine’ and ‘Petal’",
@@ -993,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T13:46:48-05:00"
+  "updatedAt": "2026-11-24T14:18:03-05:00"
 }
