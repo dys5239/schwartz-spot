@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Experts, reporters and lawmakers dig into Nvidia reinstalling Jensen Huang as CEO",
+          "summary": "Just days after Jensen Huang stepped down as Nvidia CEO following allegations he had an affair with an alleged Chinese, the chip maker reinstalled Huang to his position in a stunning reversal. President Trump took credit for intervening.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/experts-reporters-lawmakers-dig-nvidia-reinstalling-jensen-huang-ceo/"
+        },
+        {
           "headline": "Appeals court clears way for Army to detonate Iowa explosives",
           "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
-        },
-        {
-          "headline": "A timeline of the Karen Read case",
-          "summary": "Here's a look at how events have unfolded in the Karen Read case.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/karen-read-trial-timeline-john-okeefe/"
         },
         {
           "headline": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
@@ -60,10 +60,10 @@
           "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
-          "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+          "headline": "Benefits review to suggest quicker payment for some disabled people",
+          "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Trump granted new chance to potentially erase his hush money case",
@@ -79,12 +79,62 @@
       "stories": [],
       "posts": [
         {
-          "id": "2125078595949502943",
-          "created_at": "2026-11-24T04:06:33.000Z",
+          "id": "2125088336490725846",
+          "created_at": "2026-11-24T04:45:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Terry Haines, who ran the Enron and WorldCom investigations on Capitol Hill, says Monday's Nvidia rally is \"a sugar high, medium to long term\"\n\n\"This harms the United States standing in the AI race\"\n\n\"The board better lawyer up too, frankly\"\n\n\"Markets tend to think of https://t.co/yAyaaIbZ9N",
+          "url": "https://x.com/_Investinq/status/2125088336490725846",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125088278692991080",
+          "created_at": "2026-11-24T04:45:02.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Not only is Amjad Masad a Muslim immigrant, but he also spoke at an event for Tech for Palestine, which has been accused of being pro-Hamas and openly promotes the BDS movement. \n\nFor some reason, the Vice President met with @amasad to discuss “cyber security” and “American AI https://t.co/J1gbzdYuAw https://t.co/PnJ8dM7cHh",
+          "url": "https://x.com/LauraLoomer/status/2125088278692991080",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125086630268866880",
+          "created_at": "2026-11-24T04:38:29.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
-          "text": "The bench’s reaction is the best part of this clip  https://t.co/KkiCmOYpsv",
-          "url": "https://x.com/Outkick/status/2125078595949502943",
+          "text": "Bengals defense on that last drive  https://t.co/80XfMrkMGv",
+          "url": "https://x.com/Outkick/status/2125086630268866880",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125083271457550671",
+          "created_at": "2026-11-24T04:25:08.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Connection that Kept the Commanders Season Alive 🤯 https://t.co/T1D4Rz9HL2",
+          "url": "https://x.com/SportNState/status/2125083271457550671",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125082008774947305",
+          "created_at": "2026-11-24T04:20:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Hightower's Stephanie Link says Nvidia is \"trading at 9 times fiscal 28 numbers\" and the selloff \"was never about the fundamentals\"\n\n\"The stock is still down 30% from its highs\"\n\n\"It was all about the overhang between Blue Wave and all of the investigations\"\n\n\"This is a historic https://t.co/3O7BYLq8tT",
+          "url": "https://x.com/_Investinq/status/2125082008774947305",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125081885827334162",
+          "created_at": "2026-11-24T04:19:38.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "ANTONIO WILLIAMS IS THAT DUDE \n\nSends Bengals home PACKING https://t.co/uyMWubx7ku",
+          "url": "https://x.com/Outkick/status/2125081885827334162",
           "verified": true,
           "verified_type": "business"
         },
@@ -219,26 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125060443815247876",
-          "created_at": "2026-11-24T02:54:26.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Why is the Vice President of the United States @VP meeting with a Trump hating, Jew hating Muslim named Amjad Masad @amasad?\n\nAmjad Masad is a Muslim immigrant and he accused President Trump of committing genocide in Gaza.\n\nWhy would the Vice President speak about cybersecurity https://t.co/lGVxKoFmzm https://t.co/PnJ8dM7cHh",
-          "url": "https://x.com/LauraLoomer/status/2125060443815247876",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125056838647587023",
-          "created_at": "2026-11-24T02:40:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Former Facebook security chief Alex Stamos says he has \"never seen anything like the last 90 days\" in 25 years of cybersecurity\n\n\"Hundreds of companies are getting hacked per day by these automated AI tools\"\n\n\"Those AI agents don't sleep, they don't eat, they don't use the https://t.co/dvhQRSUCyH",
-          "url": "https://x.com/_Investinq/status/2125056838647587023",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125055191112438253",
           "created_at": "2026-11-24T02:33:33.000Z",
           "author_name": "OutKick",
@@ -269,16 +299,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125050589419896860",
-          "created_at": "2026-11-24T02:15:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "President Trump says losing Jensen Huang was the real national security threat, warning he \"could take the next plane to China\"\n\n\"People say, is it a threat to have him? No, it's a threat to lose him\"\n\n\"I guarantee you they would give him whatever he wanted\"\n\n\"We don't need https://t.co/Pqomi6gLKX",
-          "url": "https://x.com/_Investinq/status/2125050589419896860",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125050536411935033",
           "created_at": "2026-11-24T02:15:04.000Z",
           "author_name": "Sport & State",
@@ -307,16 +327,6 @@
           "url": "https://x.com/Osint613/status/2125043912368635961",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125042062055850187",
-          "created_at": "2026-11-24T01:41:23.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "The longer he has to listen to Joe Buck talk the redder he gets lol  https://t.co/isjiPlR7IG",
-          "url": "https://x.com/Outkick/status/2125042062055850187",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125036721272131983",
@@ -495,16 +505,6 @@
           "author_handle": "SportNState",
           "text": "There are a lot of fans On Tilt on a Monday 😂\n\nJoin @JoeRaineri @kellyinvegas &amp; @ArielEpstein as they recap the football weekend, get you ready for MNF, and eye the early lines for Thanksgiving Week:\nhttps://t.co/vfWYhHVojC",
           "url": "https://x.com/SportNState/status/2124973207857865016",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124966810894090347",
-          "created_at": "2026-11-23T20:42:22.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "117-64 as an NBA head coach.\n81-9 when leading at halftime.\n14-3 this season.\n\nJJ Redick’s run as an NBA head coach is bad news for his haters, and for the race-baiters trying to turn this Lakers team into anything other than a story about good basketball, writes @mattyfoles.",
-          "url": "https://x.com/SportNState/status/2124966810894090347",
           "verified": true,
           "verified_type": "blue"
         },
@@ -781,6 +781,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+          "summary": "China is increasingly focused on containing India economically rather than through military actions.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html"
+        },
+        {
           "headline": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
           "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
           "source": "CNBC",
@@ -803,12 +809,6 @@
           "summary": "High diesel prices have put pressure on small U.S. trucking businesses",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/small-us-trucking-firms-scramble-survive-mounting-diesel-138378304"
-        },
-        {
-          "headline": "Anthropic's IPO set for blastoff in key test for AI boom",
-          "summary": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
         }
       ]
     },
@@ -817,16 +817,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bulls beat Cavaliers 122-108 behind Jordan Hawkins' 19 points and 63 off the bench",
-          "summary": "CHICAGO (AP) — Jordan Hawkins scored a season-high 19 points, Buddy Hield had 17 and the Chicago Bulls got 63 points off the bench as they held on to beat the Cleveland Cavaliers 122-108 on Monday night. Matas Buzelis added 15 points — all in the first half — as Bulls coach Tiago Splitter spread out playing time after a 151-145 overtime loss to Denver on…",
+          "headline": "Monday Night Football: Commanders rally for 22-20 win over Bengals",
+          "summary": "The Commanders have wilted in the final moments of games at points this season, but they didn't do so on Monday night. After a 56-yard field goal by Evan McPherson put the Bengals up 20-19, the Commanders took possession on their own 28-yard line with 46 seconds left to play.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bulls-beat-cavaliers-122-108-035820832.html"
+          "url": "https://sports.yahoo.com/articles/monday-night-football-commanders-rally-043203785.html"
         },
         {
-          "headline": "Phoenix Suns extend winning streak with thrilling overtime victory over Pelicans",
-          "summary": "Dec 5, 2025; Houston, Texas, USA; Phoenix Suns guard Collin Gillespie (12) dribbles the ball during the fourth quarter against the Houston Rockets at Toyota Center. Mandatory Credit: Troy Taormina-Imagn Images NEW ORLEANS — It wasn’t just another hard-fought victory; it was a character-building win for the Phoenix Suns.",
+          "headline": "Trey Lewis scores 17 off bench as Ball State thumps D-III's Spalding 94-36",
+          "summary": "MUNCIE, Ind. (AP) — Trey Lewis scored 17 points off the bench and Ball State breezed to a 94-36 victory over Division III's Spalding on Monday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/phoenix-suns-extend-winning-streak-035709697.html"
+          "url": "https://sports.yahoo.com/articles/trey-lewis-scores-17-off-042853134.html"
         },
         {
           "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
@@ -841,10 +841,10 @@
           "url": "https://abcnews.com/Sports/wireStory/wizards-rout-magic-116-96-win-3rd-straight-138367591"
         },
         {
-          "headline": "Quentin Coleman scores 35, Illinois breaks Big Ten, program records in 133-83 win over Winthrop",
-          "summary": "CHAMPAIGN, Ill. (AP) — Quentin Coleman scored 35 points and Illinois set Big Ten and program records for points as the No.",
+          "headline": "Jalen Green scores 25 and Devin Booker adds 22 to help the Suns top the Pelicans 123-119 in OT",
+          "summary": "NEW ORLEANS (AP) — Jalen Green scored 25 points, Devin Booker added 22, and the Phoenix Suns defeated the New Orleans Pelicans, 123-119 in overtime on Monday night. Collin Gillespie scored five of his 18 points in overtime, and Miles Bridges had 13 points and 11 rebounds for Phoenix, which won its fourth straight game while handing New Orleans its fourth…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/quentin-coleman-scores-35-illinois-035612252.html"
+          "url": "https://sports.yahoo.com/articles/jalen-green-scores-25-devin-042703111.html"
         }
       ]
     },
@@ -852,6 +852,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Anya Taylor-Joy ‘Went Mute’ on ‘Lord of the Rings: The Hunt for Gollum’ Set When Ian McKellen Showed Up: ‘That’s F—ing Gandalf’",
+          "summary": "Anya Taylor-Joy, who is set to play Seren, an elf, in “The Lord of the Rings: The Hunt for Gollum,” says the last time she found herself starstruck was when she first came face-to-face with Ian McKellen as Gandalf on set. “I wasn’t prepared,” she told Dazed.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/anya-taylor-joy-lord-of-the-rings-gollum-ian-mckellen-1236956723/"
+        },
         {
           "headline": "Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit",
           "summary": "A spokesperson for the director denied the allegations and said, \"It's not true.\"",
@@ -863,12 +869,6 @@
           "summary": "While a certain generation might associate Woody Harrelson most with his role as Haymitch Abernathy in the billion-dollar “Hunger Games” franchise, the actor has admitted he needed convincing to sign on for the dystopian film. During a recent Vanity Fair interview alongside his “The Hunger Games: Sunrise on the Reaping” co-star Joseph Zada (who plays […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/woody-harrelson-turned-down-haymitch-the-hunger-games-1236956694/"
-        },
-        {
-          "headline": "Marathi Crime Drama ‘Hurda – That Tight Green Top’ Puts a Journalist’s Masculinity Under the Microscope at WAVES Film Bazaar",
-          "summary": "Apurv Gaikwad is presnting his debut feature “Hurda – That Tight Green Top,” a Marathi-language crime drama adapted from Atharva Pandit’s novel, to the Co-Production Market at WAVES Film Bazaar. The film follows Chitranshu, a journalist investigating the mysterious deaths of three young sisters in a village in Maharashtra.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/marathi-crime-drama-hurda-masculinity-microscope-1236956699/"
         },
         {
           "headline": "David Greaves Says ‘Once Upon a Time in Harlem’ Is “An Act of Resistance” Against Efforts to Erase Black History",
@@ -895,10 +895,10 @@
           "url": "https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267/"
         },
         {
-          "headline": "ESPN’s ‘Monday Night Football’ Interrupted As Lights Go Out During Bengals-Commanders Game",
-          "summary": "ESPN’s Monday Night Football went dark as the Cincinnati Bengals played the Washington Commanders. The NFL game was paused shortly after the second half began due to a blackout at Northwest Stadium in Maryland.",
+          "headline": "‘Caréme’ & ‘División Palermo’ Take Top Prizes At International Emmy Awards: Full Winners List",
+          "summary": "France’s Caréme was named Best Drama Series at the 54th International Emmy Awards, which were handed out Monday night in Manhattan. División Palermo from Argentina took the Comedy Series prize.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/espn-monday-night-football-lights-out-bengals-commanders-1237232264/"
+          "url": "https://deadline.com/2026/11/2026-international-emmys-winners-list-1237232118/"
         },
         {
           "headline": "2026 International Emmy Winners Revealed: ‘Carême’ Wins Best Drama",
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T23:10:41-05:00"
+  "updatedAt": "2026-11-23T23:47:40-05:00"
 }
