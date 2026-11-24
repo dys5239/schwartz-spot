@@ -6,16 +6,16 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Can Anthropic win hearts and minds by curing hearts and minds?",
+          "summary": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/"
+        },
+        {
           "headline": "Jensen Huang's announced return sends shares skyrocketing",
           "summary": "Stocks soared on Monday, much of it on word that AI chipmaker Nvidia had reinstated its CEO, Jensen Huang, following his affair with an alleged Chinese spy. The move raised concerns about U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/jensen-huangs-announced-return-sends-shares-skyrocketing/"
-        },
-        {
-          "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
         },
         {
           "headline": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
@@ -30,10 +30,10 @@
           "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
         },
         {
-          "headline": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-          "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it?",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/"
+          "headline": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
         }
       ]
     },
@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Anthropic touts potential for AI-led medical advancements",
-          "summary": "Anthropic CEO Dario Amodei talked about his hopes to cure disease using artificial intelligence last Thursday, as his company started trading publicly. CBS News MoneyWatch reporter Megan Cerullo has more on how AI is speeding up drug discovery.",
+          "headline": "Trump downplays Iran's latest attacks as it vows to use all means to end U.S. blockade",
+          "summary": "The Iranian government said it would use \"all available means\" to end the U.S. naval blockade of the country's ports, dubbing it an \"act of military aggression.\" CBS News Pentagon reporter Eleanor Watson has more.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/anthropic-touts-potential-for-ai-led-medical-advancements/"
+          "url": "https://www.cbsnews.com/video/trump-downplays-irans-latest-attacks-threatens-all-means-end-us-blockade/"
         },
         {
-          "headline": "Santa school: where his official helpers learn to embody Old Saint Nick",
-          "summary": "Santa's official helpers are in training at the Charles H. Howard Santa School in Midland, Michigan.",
+          "headline": "Husband of woman arrested by ICE at airport calls it \"unjust\"",
+          "summary": "Jose Castillo told CBS News he felt \"useless\" seeing his wife and father-in-law be taken into federal custody at Seattle-Tacoma International Airport.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/santa-school-official-helpers-learn-embody-old-saint-nick/"
+          "url": "https://www.cbsnews.com/news/ice-arrest-seattle-airport-husband/"
         },
         {
           "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125050589419896860",
+          "created_at": "2026-11-24T02:15:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "President Trump says losing Jensen Huang was the real national security threat, warning he \"could take the next plane to China\"\n\n\"People say, is it a threat to have him? No, it's a threat to lose him\"\n\n\"I guarantee you they would give him whatever he wanted\"\n\n\"We don't need https://t.co/Pqomi6gLKX",
+          "url": "https://x.com/_Investinq/status/2125050589419896860",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125050536411935033",
+          "created_at": "2026-11-24T02:15:04.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Florida State needed to get this hire right. Glenn Schumann brings a championship pedigree, elite recruiting track record and years of experience learning under Nick Saban and Kirby Smart.\n\n@ByGusWilson on why FSU made the right move:\nhttps://t.co/zkc8oVjTFx",
+          "url": "https://x.com/SportNState/status/2125050536411935033",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125049786357457276",
+          "created_at": "2026-11-24T02:12:05.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Gross\n\nJoint Statement on the Eighth United States-Qatar Strategic Dialogue: An Enduring Strategic Partnership\n\nReleased today. 🤮 \n\n https://t.co/ZIZqo6lgV1",
+          "url": "https://x.com/LauraLoomer/status/2125049786357457276",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125049158729978107",
+          "created_at": "2026-11-24T02:09:35.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I’m confused. \n\n11 days ago, President Trump said he took Vice President Vance @VP off of the Iran negotiations and ordered him to instead focus on the fraud task force and domestic investigations…\n\nSee screenshot below. \n\nNow today, Qatar’s Prime Minister met with @JDVance to https://t.co/oIeelilxsQ",
+          "url": "https://x.com/LauraLoomer/status/2125049158729978107",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125044633981886478",
+          "created_at": "2026-11-24T01:51:36.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "LIBERAL MEDIA MELTDOWN OVER JENSEN HUANG’S RETURN\n\n@lfs6b called out the reaction from CNN, MS NOW, and other liberal networks over Nvidia co-founder Jensen Huang returning to the CEO position, arguing the outrage ignores a major distinction: this is a private company, not the https://t.co/FOuu6xjk2E",
+          "url": "https://x.com/RealAmVoice/status/2125044633981886478",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125044431577350354",
+          "created_at": "2026-11-24T01:50:48.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "So let me get this straight. \n\nAs a Jewish woman, I am advocating for the deportation and visa revocation of @calvinrobinson, a mixed-raced British national who violated US State Department policies and laws as it pertains to inciting hatred against Jews. \n\nHe said, “I think https://t.co/hQ5ISaIkC9",
+          "url": "https://x.com/LauraLoomer/status/2125044431577350354",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125043912368635961",
+          "created_at": "2026-11-24T01:48:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A federal judge has authorized the U.S. Army to proceed with the planned detonation of 68 barrels containing nearly five tons of lead azide at the Iowa Army Ammunition Plant, reinstating an emergency environmental permit for the hazardous material’s disposal.",
+          "url": "https://x.com/Osint613/status/2125043912368635961",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125042062055850187",
           "created_at": "2026-11-24T01:41:23.000Z",
@@ -125,16 +195,6 @@
           "author_handle": "RealAmVoice",
           "text": "An Amazon delivery drone crashed into a garage in Huntington Woods, Michigan, after successfully dropping off a customer’s shampoo order.\n\nAmazon customer Jim Brennan said he was surprised when he received a notification that his shampoo was just seven minutes away — and would be",
           "url": "https://x.com/RealAmVoice/status/2125035817781325840",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125032091129639108",
-          "created_at": "2026-11-24T01:01:46.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Join us for the Live From Studio 6B show! Tune in M-F at 8PM ET. @lfs6b @damonroberts @paul_eggsNolan @slickricksports @KDJRadioShow\n https://t.co/lQuzDPIGYu",
-          "url": "https://x.com/RealAmVoice/status/2125032091129639108",
           "verified": true,
           "verified_type": "business"
         },
@@ -309,26 +369,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125006507821629510",
-          "created_at": "2026-11-23T23:20:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Larry Kudlow says China's GDP per person is under $15,000 vs almost $100,000 in the US, and Trump is getting tougher on chips and overseas data centers\n\n\"China's GDP is slightly less than $15,000... The United States, per person, we are almost $100,000\"\n\n\"You can't find anybody https://t.co/5gdr5Feoho",
-          "url": "https://x.com/_Investinq/status/2125006507821629510",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125005876524449793",
-          "created_at": "2026-11-23T23:17:36.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Not an Orlando slaughterhouse. \n\nA Muslim, Halal slaughterhouse based in Orlando. \n\nWe need to make sure the Florida GOP makes this about Islam. \n\nIt was an Islamic slaughterhouse and yes, Islam is the root of the problem because that’s why the Halal slaughterhouse exists to https://t.co/pvAtgD8a51",
-          "url": "https://x.com/LauraLoomer/status/2125005876524449793",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125004730426446239",
           "created_at": "2026-11-23T23:13:03.000Z",
           "author_name": "Matt Walsh",
@@ -347,26 +387,6 @@
           "url": "https://x.com/Outkick/status/2125004062148133355",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125000862208598267",
-          "created_at": "2026-11-23T22:57:40.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Personally, I think pretending like Jensen Huang was a victim of a honeypot is being very generous. \n\nI tend to believe there’s no such thing as Nvidia chips “accidentally” being smuggled into China and I have a feeling this is going to come back to be a major scandal for the",
-          "url": "https://x.com/LauraLoomer/status/2125000862208598267",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124996486027260311",
-          "created_at": "2026-11-23T22:40:17.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "🚨 FOLLOW THE MONEY 🚨 \n\nHouse Agriculture Committee Chair Glenn “GT” Thompson @CongressmanGT is shilling for his CCP donor masters and selling out AMERICAN farmers and voters with his support for “SAVE CHINA’S BACON ACT.”\n\nChina-owned Smithfield Foods @SmithfieldFoods gave GT https://t.co/97MPtLOjKo https://t.co/NuIqLRe7zw",
-          "url": "https://x.com/LauraLoomer/status/2124996486027260311",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2124994098826277155",
@@ -499,32 +519,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124965885400207448",
-          "created_at": "2026-11-23T20:38:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Qatari PM: \"We are working with Iran and the US to revive the negotiation track\" https://t.co/KGS0NES2y1",
-          "url": "https://x.com/Osint613/status/2124965885400207448",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124963801992737034",
           "created_at": "2026-11-23T20:30:24.000Z",
           "author_name": "Tim Pool",
           "author_handle": "Timcast",
           "text": "Shaya explains that MCA lenders bypass usury laws by purchasing \"future sales\" instead of issuing traditional loans, and use \"confession of judgment\" clauses to freeze business bank accounts without a lawsuit.\n\nYou could compare it to warehouse parties that sold red cups and gave https://t.co/h7KdyhbUuF",
           "url": "https://x.com/Timcast/status/2124963801992737034",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124961379681767730",
-          "created_at": "2026-11-23T20:20:47.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "NEW: @ClayTravis College Football Perfect 10 Top 10 🏈\n\nDid Clay get it right? 👇 https://t.co/ebqal51RWd",
-          "url": "https://x.com/SportNState/status/2124961379681767730",
           "verified": true,
           "verified_type": "blue"
         },
@@ -817,10 +817,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "The full analysis of Chivas' commanding win over Cruz Azul",
-          "summary": "Guadalajara capped off the Apertura 2026 regular season with a statement win. The 1-0 victory over Cruz Azul on Matchday 17 showcased the competitiveness, solidity and tactical versatility that have defined Gabriel Milito’s team, who made home advantage count to secure top spot and head into the playoffs full of confidence.",
+          "headline": "She was the first player to beat Coco Gauff in 2026 but is now ranked outside the top 100",
+          "summary": "Coco Gauff’s 2026 season has officially come to an end after playing her last match of the year. Gauff helped the USA win their Billie Jean King Cup play-off tie against Hungary with both a singles win and a decisive doubles victory alongside Taylor Townsend .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/full-analysis-chivas-commanding-win-011100074.html"
+          "url": "https://sports.yahoo.com/articles/she-first-player-beat-coco-020000917.html"
+        },
+        {
+          "headline": "Rapid Reaction: Northwestern cruises to a 64-46 win over Oakland",
+          "summary": "Coming off a dominant victory against Northern Illinois, Northwestern (4-4, 0-0 B1G) faced Oakland (3-4, 0-0 Horizon) in its second of five straight home games as it looked to move its record to .500 on the year. The ‘Cats did just that as they dominated the Golden Grizzlies 64 to 46 in their second straight win by double digits.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/rapid-reaction-northwestern-cruises-64-015528876.html"
         },
         {
           "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
@@ -839,12 +845,6 @@
           "summary": "Isaac Tavares and Jalyke Gaines-Wyatt both scored 17 points as Southern Mississippi beat Valparaiso 99-89",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/isaac-tavares-jalyke-gaines-wyatt-lead-southern-miss-138367769"
-        },
-        {
-          "headline": "Commanders LB K'Lavon Chaisson brings down Joe Burrow late vs Bengals",
-          "summary": "Washington Commanders linebacker K'Lavon Chaisson brought Cincinnati Bengals quarterback Joe Burrow to the turf well after Burrow released a pass during the first quarter of the team's NFL Week 11 game against the Cincinnati Bengals at Northwest Stadium on ESPN's Monday Night Football. Bengals offensive lineman Dylan Fairchild reacted by shoving Chaisson.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/commanders-lb-klavon-chaisson-brings-013644351.html"
         }
       ]
     },
@@ -926,7 +926,7 @@
       "stories": [
         {
           "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
-          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s Chief Content Office. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
+          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
         },
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T20:47:39-05:00"
+  "updatedAt": "2026-11-23T21:18:18-05:00"
 }
