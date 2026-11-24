@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Pope Francis' diary details profound spiritual crisis and encounters with the devil",
-          "summary": "The Vatican has released excerpts of Pope Francis' private diary",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988"
-        },
-        {
-          "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
-          "summary": "Despite Iran claiming daily attacks on takers in and around the Strait of Hormuz and no sign of a deal to end the nearly 9-month war, crude oil prices continue to fall.",
+          "headline": "Spacecraft enters Mercury's orbit after 8-year journey despite glitch",
+          "summary": "BepiColombo was launched as a joint mission between the European Space Agency and the Japan Aerospace Exploration Agency in October 2018.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/bepicolombo-enters-mercury-orbit-despite-glitch/"
         },
         {
-          "headline": "Gisèle Pelicot to sue publisher after nude images sent to media",
-          "summary": "Gisèle Pelicot, who spoke out about being drugged and raped by her husband and 50 other men, says she's been \"once again humiliated.\"",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/gisele-pelicot-suing-publisher-nude-images-book-france/"
-        },
-        {
-          "headline": "Inquiry into Birmingham housing scheme 'exploitation' after BBC investigation",
-          "summary": "Birmingham has more than 34,000 people living in Supported Exempt Accommodation.",
+          "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
+          "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm0rk19kl52do?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Exclusive discounts from CBS Mornings Deals",
+          "summary": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112426/"
+        },
+        {
+          "headline": "Tories accuse Burnham of turning No 10 into 'joke' after influencer video row",
+          "summary": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "WATCH: Detroit Lions help feed their community this Thanksgiving",
@@ -79,14 +79,124 @@
       "stories": [],
       "posts": [
         {
-          "id": "2125246727305511212",
-          "created_at": "2026-11-24T15:14:39.000Z",
+          "id": "2125254116415087078",
+          "created_at": "2026-11-24T15:44:01.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "2 U.S. Air Force refueling tankers from MacDill Air Force Base in Florida are reportedly preparing to meet a possible B-1B bomber in the air to give it fuel. 👇🏻 https://t.co/Q6N7OMnam0",
-          "url": "https://x.com/Osint613/status/2125246727305511212",
+          "text": "Footage shows the funeral of Naim Abu Nahal, head of Gaza's internal security apparatus, who was killed earlier today.\n\nSafe to say many here are part of Hamas https://t.co/8pqugovfGn",
+          "url": "https://x.com/Osint613/status/2125254116415087078",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2125254082893951141",
+          "created_at": "2026-11-24T15:43:53.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "\"LSU could survive as an independent,\" says @mattyfoles 😳\n\nRead more: https://t.co/tvPbWrliAG https://t.co/qa2llZPh3f",
+          "url": "https://x.com/SportNState/status/2125254082893951141",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125253563014427121",
+          "created_at": "2026-11-24T15:41:49.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Clearly, the definition of “driverless” got lost in translation. 😂",
+          "url": "https://x.com/RealAmVoice/status/2125253563014427121",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125252550991470921",
+          "created_at": "2026-11-24T15:37:48.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "This decision should rest solely with the victims’ families, not politicians. Their voices deserve to be heard",
+          "url": "https://x.com/RealAmVoice/status/2125252550991470921",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125252441687929063",
+          "created_at": "2026-11-24T15:37:22.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Anthropic, $ANT, extends losses and falls below $80/share, now trading 5% below its IPO price.\n\nThis puts the stock down -31% since its post-IPO high last week. https://t.co/CzMT6y6bba",
+          "url": "https://x.com/KobeissiLetter/status/2125252441687929063",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125251916913643949",
+          "created_at": "2026-11-24T15:35:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Former RBI governor Raghuram Rajan says people compare Nvidia to AIG in the financial crisis because it keeps the credit markets afloat\n\n\"People sort of say Nvidia is a little bit like AIG during the global financial crisis. It's at the center of many, many contracts and is https://t.co/6AyQ4kia7h",
+          "url": "https://x.com/_Investinq/status/2125251916913643949",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125251860869124523",
+          "created_at": "2026-11-24T15:35:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "MIKE DAVIS: “THIS IS NOT GOOD FOR ILHAN OMAR!”\n\n@mrddmia breaks down the reported raid on Rep. Ilhan Omar's home and the partial release of heavily redacted court documents.\n\nDavis argues that the allegations of immigration and financial fraud, if proven, could lead to criminal https://t.co/5QwT64rnM0",
+          "url": "https://x.com/RealAmVoice/status/2125251860869124523",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125250834971623925",
+          "created_at": "2026-11-24T15:30:58.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Galatasaray's president has come out against Israel again.\n\n\"We heard that the Netanyahu government complained to UEFA against our club because of signs that our fans waved in support of the Palestinian people. We will continue to do so.\"\n\nHis response came after the Israel https://t.co/7Hk0WiLNhD",
+          "url": "https://x.com/Osint613/status/2125250834971623925",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125249976951509476",
+          "created_at": "2026-11-24T15:27:34.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "It's rivalry week and @ClayTravis has 14 winning bets to carry us through the Thanksgiving weekend on @HardRockBet, plus the Blood Bank Guarantee.\n\nhttps://t.co/QVkItUshGn",
+          "url": "https://x.com/SportNState/status/2125249976951509476",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125249779642859578",
+          "created_at": "2026-11-24T15:26:47.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Bold words from two women who look like Willem Dafoe and John Kerry decided to dress in drag and start a podcast https://t.co/JZfSsp4Hf0",
+          "url": "https://x.com/MattWalshBlog/status/2125249779642859578",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125249325340983345",
+          "created_at": "2026-11-24T15:24:59.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Traditional and onchain finance continue to converge.\n\nAs tokenization has become increasingly popular in US markets, tokenized stock on Solana can now serve as collateral.\n\nFor example, owners of Ondo's tokenized Tesla stock, $TSLA, can be utilized as collateral for DeFi https://t.co/v6tvkH42N5",
+          "url": "https://x.com/KobeissiLetter/status/2125249325340983345",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125247855409692869",
+          "created_at": "2026-11-24T15:19:08.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → https://t.co/qMTrgf8mHf https://t.co/VhkDom1UBk",
+          "url": "https://x.com/SpaceX/status/2125247855409692869",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2125246285016113430",
@@ -189,16 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125238209814606096",
-          "created_at": "2026-11-24T14:40:48.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "SCOTUS DISMISSES LEAD PLAINTIFF IN MAJOR SECOND AMENDMENT CASE — BUT THE LEGAL BATTLE ISN'T OVER!\n\nThe Supreme Court has dismissed Cutberto Viramontes from the case challenging semi-automatic rifle bans, but the remaining petitioners are still in the fight.\n\nArguments are https://t.co/q91qFYPYcZ",
-          "url": "https://x.com/RealAmVoice/status/2125238209814606096",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125237789406921190",
           "created_at": "2026-11-24T14:39:08.000Z",
           "author_name": "StockMarket.News",
@@ -259,26 +359,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125233419240304979",
-          "created_at": "2026-11-24T14:21:46.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IRGC Commander Ahmad Vahidi: \n\nThe next war may not stay regional. Iran's adversaries should expect fighting at any location deemed necessary.",
-          "url": "https://x.com/Osint613/status/2125233419240304979",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125229314689908779",
-          "created_at": "2026-11-24T14:05:28.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🇺🇸 BIG SAVINGS. AMERICAN PRIDE. BLACK FRIDAY IS COMING!\n\nGet ready to save up to 30% OFF merchandise from your favorite Real America's Voice shows! Hats, tees, hoodies, mugs, and more — perfect Christmas gifts and stocking stuffers for the patriots in your life! 🎁\n\n🛍️ Sale https://t.co/RJKXX7hJun",
-          "url": "https://x.com/RealAmVoice/status/2125229314689908779",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125227421477802190",
           "created_at": "2026-11-24T13:57:56.000Z",
           "author_name": "Glenn Beck",
@@ -299,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125223036529819870",
-          "created_at": "2026-11-24T13:40:31.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Keep praying for @BenBergquam https://t.co/RKxdUxF7Gr",
-          "url": "https://x.com/RealAmVoice/status/2125223036529819870",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125216700945891723",
           "created_at": "2026-11-24T13:15:20.000Z",
           "author_name": "The Kobeissi Letter",
@@ -327,16 +397,6 @@
           "url": "https://x.com/MattWalshBlog/status/2125216590933447102",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125216303875035217",
-          "created_at": "2026-11-24T13:13:46.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump is preparing to impose \"sweeping\" new tariffs on China, the European Union and 14 other economies, per WSJ.\n\nThe proposed tariffs will cover most imported products with the EU, Japan and South Korea set to face tariffs of 15% or less.\n\nChina, Vietnam,",
-          "url": "https://x.com/KobeissiLetter/status/2125216303875035217",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125213396257902807",
@@ -369,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125207511494254601",
-          "created_at": "2026-11-24T12:38:49.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Anthropic $ANT just broke below its $83 IPO price for the first time, falling as much as 7.3% to $81.28 in premarket trading\n\nThat is 29% below its day-one high near $115, less than a week after the biggest IPO in history raised $81.3B\n\nRoughly $600B in fully diluted value has https://t.co/G3WuQwxN6U",
-          "url": "https://x.com/_Investinq/status/2125207511494254601",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125207349279248691",
           "created_at": "2026-11-24T12:38:11.000Z",
           "author_name": "Laura Loomer",
@@ -387,16 +437,6 @@
           "url": "https://x.com/LauraLoomer/status/2125207349279248691",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125205423850418584",
-          "created_at": "2026-11-24T12:30:32.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "This is interesting.\n\nYesterday, President Trump revealed the Jensen Huang news 29 minutes before it was made public, but almost no one realized, on Monday at 8:29 AM ET.\n\nTimeline of events:\n\n- Sunday, 10:40 AM ET: Treasury Secretary Bessent reverses review and says door is open",
-          "url": "https://x.com/KobeissiLetter/status/2125205423850418584",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125197064619655445",
@@ -509,16 +549,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125013689019629859",
-          "created_at": "2026-11-23T23:48:38.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Bengals WR Tee Higgins walks in for Monday Night Football with a Fiona the Hippo pullover ❤️\n\nThis is sure to make @ClayTravis &amp; @DannyGradio happy: https://t.co/Nj3EV17rF2",
-          "url": "https://x.com/SportNState/status/2125013689019629859",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125012805757616469",
           "created_at": "2026-11-23T23:45:08.000Z",
           "author_name": "Matt Walsh",
@@ -545,16 +575,6 @@
           "author_handle": "MattWalshBlog",
           "text": "Why Aviation Is Having Its Worst Year In Decades | Ep. 1878\n\nhttps://t.co/ImtjACOLQT",
           "url": "https://x.com/MattWalshBlog/status/2125004730426446239",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124983730234097780",
-          "created_at": "2026-11-23T21:49:36.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "ESPN's Heather Dinich became SEC Shorts' latest punchline.\n\nBut hey, when life gives you a CFP rankings controversy, what better time to promote your upcoming book!\n\n✍️: @markjburns88\nhttps://t.co/FNte8LHh6d",
-          "url": "https://x.com/SportNState/status/2124983730234097780",
           "verified": true,
           "verified_type": "blue"
         },
@@ -727,16 +747,6 @@
           "url": "https://x.com/SpaceX/status/2124475467436851599",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2124467677859332290",
-          "created_at": "2026-11-22T11:38:59.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "@NRO_gov About eight minutes after liftoff, Falcon 9’s first stage will return to Landing Zone 4 at Vandenberg Space Force Base, announcing its arrival with a sonic boom",
-          "url": "https://x.com/SpaceX/status/2124467677859332290",
-          "verified": true,
-          "verified_type": "business"
         }
       ]
     },
@@ -744,6 +754,12 @@
       "id": "politics",
       "title": "Politics",
       "stories": [
+        {
+          "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
+          "summary": "Despite Iran claiming daily attacks on takers in and around the Strait of Hormuz and no sign of a deal to end the nearly 9-month war, crude oil prices continue to fall.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+        },
         {
           "headline": "Trump to present Rudy Giuliani with Presidential Medal of Freedom",
           "summary": "Rudy Giuliani, the former mayor of New York City who worked as a personal lawyer to President Trump, said he will be honored in the Oval Office.",
@@ -767,12 +783,6 @@
           "summary": "A magistrate judge who authorized a search of U.S. Rep.",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/records-government-judge-debated-constitutional-implications-searching-rep-138398455"
-        },
-        {
-          "headline": "Appeals court clears way for Army to detonate Iowa explosives",
-          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         }
       ]
     },
@@ -781,16 +791,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Anthropic stock falls below $83 IPO price, but analysts are still largely positive",
-          "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+          "headline": "Kushner-backed OakNorth secures U.S. bank charter as global digital banks push into America",
+          "summary": "U.K. digital bank OakNorth has secured a U.S.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+          "url": "https://www.cnbc.com/2026/11/24/oaknorth-us-bank-charter.html"
         },
         {
-          "headline": "Commercial real estate activity falls 14% in October, as interest rates rise",
-          "summary": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform.",
+          "headline": "Quitting can actually be the key to success, says expert: It's one of the 'most courageous moves you can make'",
+          "summary": "'\"Never give up\" is bad advice, according to author Lindsay Crouse. Here's what she recommends instead.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html"
+          "url": "https://www.cnbc.com/make-it/2026/11/24/how-to-know-when-to-quit.html"
+        },
+        {
+          "headline": "US consumer confidence soars as election uncertainty ends, gas prices fall",
+          "summary": "Americans’ confidence in the economy jumped this month as gas prices continued their steady decline and election-related uncertainy ended",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/us-consumer-confidence-soars-election-uncertainty-ends-gas-138411700"
         },
         {
           "headline": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
@@ -803,12 +819,6 @@
           "summary": "Australia is set to create new online safety laws that would make tech giants potentially liable for multibillion dollar fines for failing to prevent foreseeable online harms",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/australia-set-pass-digital-duty-care-law-fines-138406159"
-        },
-        {
-          "headline": "Honda recalling more than 810,000 vehicles due to airbag inflator issue",
-          "summary": "Honda is recalling more than 810,000 vehicles because their airbag inflators may rupture",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/honda-recalling-810000-vehicles-due-airbag-inflator-issue-138387831"
         }
       ]
     },
@@ -841,10 +851,10 @@
           "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
         },
         {
-          "headline": "NFL Week 12 upset alert: Don't count out Patrick Mahomes, Fernando Mendoza and these underdogs",
-          "summary": "Patrick Mahomes is heating up, Detroit owns its Thanksgiving opponent and three other underdogs have compelling paths",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-12-upset-picks-thanksgiving-games-chiefs-bills/"
+          "headline": "Sebastian Mack scores 22 to send UNLV to 82-61 victory over Eastern Washington",
+          "summary": "Sebastian Mack’s 22 points helped UNLV defeat Eastern Washington 82-61",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/sebastian-mack-scores-22-send-unlv-82-61-138401713"
         }
       ]
     },
@@ -889,6 +899,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Aardman Getting 50th Anniversary Doc Special ‘Cracking Job Gromit’ at BBC",
+          "summary": "Aardman Animations is celebrating turning 50 with a documentary special on the BBC. “Cracking Job Gromit: Aardman at 50” — due to air over Christmas — will mark half a century since Morph first appeared on screens in 1976 and will chart the beloved stop-motion studio from the early adventures of “Wallace & Gromit” to “Shaun the […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/aardman-50th-anniversary-doc-cracking-job-gromit-bbc-1236956987/"
+        },
+        {
+          "headline": "Why Mike Flanagan Just Couldn’t Kill Carrie White",
+          "summary": "Flipping the script from Stephen King's novel and Brian De Palma's film, the 'Carrie' showrunner always knew his version of the iconic character would meet a different fate — even if there was no season two.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/mike-flanagan-carrie-interview-1236761678/"
+        },
+        {
           "headline": "‘Murder of JonBenet Ramsey’ Trailer Puts Child’s Parents Under the Microscope",
           "summary": "Netflix has released the first full trailer for the upcoming limited series “The Murder of JonBenét Ramsey.” In the trailer, series stars Melissa McCarthy and Clive Owen play Ramsey’s parents, who come under intense scrutiny from police and the media after their daughter is found dead. Check out the full trailer below.",
           "source": "Variety",
@@ -905,18 +927,6 @@
           "summary": "EXCLUSIVE: Elev8on Management has spent years finding American talent routes on to European screens, and now its going help them build business empires there. The Paris-based talent management company has teamed with French wealth advisory Anato Gestion Privée to launch Elev8on Private, a division aimed at finding U.S.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/elev8on-anato-europe-investments-american-stars-1237232440/"
-        },
-        {
-          "headline": "David Tennant Joins ‘The Four Seasons’ As Series Regular: “The Perfect Addition To Our Ensemble”",
-          "summary": "EXCLUSIVE: David Tennant’s cameo at the end of The Four Seasons‘ Season 2 finale was more than an amusing callback to the imaginary boyfriend Anne (Kerri Kenney-Silver) had conjured up earlier in the season — a lot more. While a Season 3 return for Tennant was expected after that cliffhanger, Deadline can reveal that the […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/david-tennant-the-four-seasons-series-regular-gianpiero-s3-1237232014/"
-        },
-        {
-          "headline": "How ‘Landman’ Star Michelle Randolph Found Love… In a Rental Car",
-          "summary": "After stealing scenes in not one but two Taylor Sheridan shows, the 29-year-old actress takes the wheel of Prime Video's new holiday romcom 'Clashing Through the Snow' — because \"sometimes you just want a predictable ending.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/michelle-randolph-interview-landman-clashing-through-snow-1236760773/"
         }
       ]
     },
@@ -961,16 +971,22 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "U2 Reveal North American Dates For 2027 Greatest Show on Earth World Tour",
+          "summary": "U2 rolled out the North American dates for their upcoming 2027 Carnaval De Luz presents: The Greatest Show on Earth World Tour outing on Tuesday morning (Nov. 24).",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/u2-north-american-dates-2027-greatest-show-on-earth-world-tour-1236388626/"
+        },
+        {
+          "headline": "Rauw Alejandro Is Fulfilling a Childhood Dream With Rockstar Games: ”GTA’ Has Been Part of My Life’",
+          "summary": "Like many adults right now, Rauw Alejandro is probably glued to the couch playing Grand Theft Auto VI . Age is nothing but a number for millennials who grew up reveling in the criminal escapades and explosive gameplay Rockstar Games has offered gamers over the last two decades.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/rauw-alejandro-grand-theft-auto-vi-macacoa-2000-interview-1236388590/"
+        },
+        {
           "headline": "Wilco Expand 2027 Tour With U.S. Dates",
           "summary": "The Wilcoworld Tour includes a five-night residency at the San Francisco Fillmore",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/wilco-expand-2027-tour-with-us-dates/"
-        },
-        {
-          "headline": "Shakira & FIFA Global Citizen Education Fund Reveal Organizations Receiving Grants Following Earthquakes in Venezuela",
-          "summary": "Shakira and Global Citizen have announced that five community-based organizations in Venezuela will receive $450,000 to help children get back to learning following the twin earthquakes that struck the country last June, disrupting schooling for thousands. Related Unidos por los Nuestros Benefit Show Raises $1.37 Million for Venezuela & Colombia…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/shakira-fifa-global-citizen-venezuela-earthquake-relief-1236388496/"
         },
         {
           "headline": "Never Mind the PR Stunts, Here’s the Sex Pistols Claiming to Part Ways With Frank Carter",
@@ -979,19 +995,13 @@
           "url": "https://www.rollingstone.com/music/music-news/sex-pistols-frank-carter-final-tour-dates-1235663381/"
         },
         {
-          "headline": "Jodeci’s K-Ci Apologizes to Fans After Last-Minute Cancellation of Kentucky Show Due to ‘Severe Dehydration’",
-          "summary": "Jodeci singer Cedric “K-Ci” Hailey sent out a heartfelt thank you to all the fans supporting him after the beloved New Jack Swing star was forced to pull the plug on the group’s planned show in Louisville, Ky. on Sunday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/jodeci-kci-apologizes-fans-cancellation-louisville-dehydration-1236388584/"
-        },
-        {
-          "headline": "U2 Will Bring Their ‘Greatest Show on Earth’ Stadium Tour to North America in 2027",
-          "summary": "The band has finally announced shows in the U.S. and Canada in support of their latest LP, Carnaval de Luz",
+          "headline": "Anthem Singer Apologizes for ‘O Canada’ Flub at Leafs-Islanders Game",
+          "summary": "Singer Sarrah Strimel Bentley belted out the wrong lyrics to Canada’s national anthem multiple times on Monday night",
           "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/u2-2027-north-america-tour-dates-1235662990/"
+          "url": "https://www.rollingstone.com/music/music-news/singer-apologizes-o-canada-anthem-leafs-islanders-game-1235663328/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-24T10:16:22-05:00"
+  "updatedAt": "2026-11-24T10:45:25-05:00"
 }
