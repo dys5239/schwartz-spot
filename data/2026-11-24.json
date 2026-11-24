@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-24",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+          "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
+        },
+        {
+          "headline": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+          "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+        },
+        {
+          "headline": "Jensen Huang's announced return sends shares skyrocketing",
+          "summary": "Stocks soared on Monday, much of it on word that AI chipmaker Nvidia had reinstated its CEO, Jensen Huang, following his affair with an alleged Chinese spy. The move raised concerns about U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/jensen-huangs-announced-return-sends-shares-skyrocketing/"
+        },
+        {
+          "headline": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+        },
+        {
+          "headline": "AI data centers throw another wrench into chaotic UN climate talks",
+          "summary": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty Images The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "stories": [
+        {
+          "headline": "Trump administration assured Nvidia Huang wasn't facing criminal charges, sources say",
+          "summary": "Jensen Huang was reinstated as Nvidia's CEO on Monday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/trump-administration-assured-nvidia-huang-facing-criminal-charges/story?id=138405808"
+        },
+        {
+          "headline": "Iran vows to end U.S. naval blockade by \"all available means\"",
+          "summary": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+        },
+        {
+          "headline": "Is Gen Z Gambling Away Its Retirement? | Money Moves with Jill Schlesinger",
+          "summary": "Gen Z is already skeptical they'll ever see a Social Security check. Now, a new survey suggests they're dipping into investment money to bet on sports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/is-gen-z-gambling-away-its-retirement-money-moves-with-jill-schlesinger/"
+        },
+        {
+          "headline": "Triple killer admits murdering Ian Huntley in jail",
+          "summary": "Anthony Russell changes his plea on the second day of his trial at Newcastle Crown Court.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Car bomb tears through Colombian city wounding more than 20",
+          "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces of government offices.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "title": "Politics",
+      "stories": [
+        {
+          "headline": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+          "summary": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection. (Image credit: Brandon Bell)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation"
+        },
+        {
+          "headline": "Records: Government, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+          "summary": "A magistrate judge who authorized a search of U.S. Rep.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/records-government-judge-debated-constitutional-implications-searching-rep-138398455"
+        },
+        {
+          "headline": "Appeals court clears way for Army to detonate Iowa explosives",
+          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
+        },
+        {
+          "headline": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
+          "summary": "President Donald Trump has condemned California Governor Gavin Newsom's decision to commute hundreds of death sentences",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/trump-targets-newsom-democrats-justice-department-speech-focused-138377258"
+        },
+        {
+          "headline": "Husband of woman arrested by ICE at airport calls it \"unjust\"",
+          "summary": "Jose Castillo told CBS News he felt \"useless\" seeing his wife and father-in-law be taken into federal custody at Seattle-Tacoma International Airport.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-seattle-airport-husband/"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "stories": [
+        {
+          "headline": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+          "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html"
+        },
+        {
+          "headline": "Some U.S. food banks see demand top pandemic levels",
+          "summary": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html"
+        },
+        {
+          "headline": "What should it cost to insure a home in wildfire country?",
+          "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills.",
+          "source": "NPR",
+          "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country"
+        },
+        {
+          "headline": "They attended Trump's meme coin dinner. It didn't go well",
+          "summary": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner"
+        },
+        {
+          "headline": "Can Anthropic win hearts and minds by curing hearts and minds?",
+          "summary": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "headline": "Bills' 9-1 record helps team join franchise, NFL benchmarks",
+          "summary": "The Buffalo Bills reached a 9-1 overall record in Week 11. The win helped tie a franchise record and another league-wide one.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/bills-9-1-record-helps-114522042.html"
+        },
+        {
+          "headline": "No. 8 Arizona tops Colorado State 96-83 with all 5 starters reaching double figures in Maui",
+          "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
+        },
+        {
+          "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
+          "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
+        },
+        {
+          "headline": "Sebastian Mack scores 22 to send UNLV to 82-61 victory over Eastern Washington",
+          "summary": "Sebastian Mack’s 22 points helped UNLV defeat Eastern Washington 82-61",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/sebastian-mack-scores-22-send-unlv-82-61-138401713"
+        },
+        {
+          "headline": "Rob Gronkowski shares what he’s noticed about the Kansas City Chiefs in last two weeks",
+          "summary": "Photo by Chris Unger/Getty Images Rob Gronkowski has been full of praise for the Kansas City Chiefs after their Week 11 win over the Arizona Cardinals, suggesting they are looking like the ‘old school’ version of themselves. Between 2019 and 2024, the Chiefs only missed out on one Super Bowl.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/rob-gronkowski-shares-noticed-kansas-120200433.html"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "stories": [
+        {
+          "headline": "Australian Film Festival of India Returns After COVID-19 Pause, Launches Co-Production Bootcamps as Treaty Takes Effect (EXCLUSIVE)",
+          "summary": "The Australian Film Festival of India (AFFI) is back after a COVID-era hiatus, staging screenings across Indian cities through Dec. 22 alongside a new industry strand aimed at pulling Indian producers and investors toward Australia as the India-Australia Audio Visual Co-Production Treaty takes effect.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/australian-film-festival-india-returns-co-production-bootcamps-1236956837/"
+        },
+        {
+          "headline": "Lisa Sthalekar Biopic, ‘Fear and Loathing in Kathmandu’ Doc and Melbourne Diaspora Comedy Series on ‘Wedding Season’ Star Pallavi Sharda’s Bodhini Studios Slate (EXCLUSIVE)",
+          "summary": "Lisa Sthalekar, the India-born cricketer who was adopted out of a Pune orphanage and later became one of Australia’s leading international players, is the subject of a feature film in development at “Wedding Season” star Pallavi Sharda’s Bodhini Studios. The company has secured the rights to the life story of Sthalekar, now a cricket commentator, […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/lisa-sthalekar-biopic-pallavi-sharda-bodhini-studios-slate-1236956832/"
+        },
+        {
+          "headline": "‘You Can See Everything’ Now Streaming: Where to Watch Nathan Fielder’s Elizabeth Holmes Doc Online",
+          "summary": "Fielder and Lance Oppenheim brought viewers into Holmes' home. Now she's coming into yours.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-streaming-release-fielder-holmes-doc-1236761736/"
+        },
+        {
+          "headline": "Antoine Fuqua Accused of Pointing Handgun, Using Antisemitic Slur in Assault Lawsuit",
+          "summary": "A spokesperson for the director denied the allegations and said, \"It's not true.\"",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/antoine-fuqua-assault-lawsuit-accused-pointing-handgun-1236761725/"
+        },
+        {
+          "headline": "Ian Charleson played Hamlet while he was dying. Still, he was 'dazzling'",
+          "summary": "Elsinore , actor Ian Charleson played the role in a Cambridge Theatre Company production in 1974.'/> The new movie Elsinore is about the late Scottish actor's critically-acclaimed performance as Hamlet while he was dying of AIDS. His final role is only part of his powerful story.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6027946/ian-charleson-elsinore-andrew-scott-chariots-of-fire-gandhi"
+        }
+      ]
+    },
+    {
+      "id": "tv",
+      "title": "TV",
+      "stories": [
+        {
+          "headline": "Channel 4 News Boss Emails Staff About NDAs After Issue Rears Head Again In Wake Of Russell Brand & David Walliams",
+          "summary": "EXCLUSIVE: As the controversial use of non-disclosure agreements (NDAs) rears its head once again in the UK entertainment industry, the head of Channel 4 News has told staff her division no longer engages in the practice. Deadline understands Esme Wren sent an all-staffer on Saturday after the issue of Channel 4 News using NDAs was […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/channel-4-news-boss-emails-staff-ndas-brand-walliams-1237232450/"
+        },
+        {
+          "headline": "First Ever Children’s Booker Shortlist Includes ‘Artemis Fowl’ Author Eoin Colfer",
+          "summary": "Eoin Colfer, who is exec producing Disney+ animated series based on his ‘Artemis Fowl’ book series, is among the shortlisted authors for the first-ever Children’s Booker Prize. Other film and TV links evident in the selection include author and illustrator Shaun Tan, who co-directed the Oscar-winning animated short ‘The Lost Thing’.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/first-childrens-booker-prize-shortlist-film-tv-connections-1237232458/"
+        },
+        {
+          "headline": "‘Only Murders in the Building’ Stars Steve Martin and Martin Short, Without Selena Gomez, Cross Pond for Star-Studded Season 6 London Premiere",
+          "summary": "Nicola Coughlan and Simone Ashley came together for a mini 'Bridgerton' reunion, while the likes of Olivia Colman, Jim Broadbent, Richard E. Grant and David Tennant added even more Brit star power.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/only-murders-in-the-building-season-6-london-premiere-stars-1236761845/"
+        },
+        {
+          "headline": "2026 International Emmy Winners Revealed: ‘Carême’ Wins Best Drama",
+          "summary": "Other top winners include 'División Palermo' for best comedy, best actor Bobby Schofield for 'Unforgivable' and best actress Mona Mina Leon for 'Holy Sh!t.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmys-winners-list-1236761237/"
+        },
+        {
+          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
+          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Media",
+      "stories": [
+        {
+          "headline": "Veteran Entertainment, Media & Brand Execs Join Forces To Launch The Unlabelled Alliance",
+          "summary": "EXCLUSIVE: Veteran execs from the media, entertainment and brand sectors have teamed up to launch an all-purpose advisory coalition, we can reveal. The Unlabelled Alliance comprises ex-UTA and Fremantle branded chief Sam Glynne, 7Wonder founder and TV producer Liza Abbott, Somethin’ Else director and audio industry veteran Steve Ackerman, Gleam Futures…",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/unlabelled-alliance-launched-industry-veterans-1237231687/"
+        },
+        {
+          "headline": "Skydance Products & Publishing Chief Josh Silverman Sets Exec Team And Reveals A Departure",
+          "summary": "Josh Silverman, President of Global Products & Publishing for Skydance, has set the division’s senior leadership team and announced the departure of one high-level executive. Since the close of the $110 billion merger of Paramount and Warner Bros.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/skydance-products-publishing-chief-sets-executive-team-1237232267/"
+        },
+        {
+          "headline": "Bela Bajaria Calls Time at Netflix a “Fun Chapter” as She Teases Rest and “Conversations” in First Remarks on Exit",
+          "summary": "The former chief content officer at the streaming service was ousted last month, with Peter Rice taking over her role.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/bela-bajaria-speaks-netflix-exit-1236761441/"
+        },
+        {
+          "headline": "‘GTA 6’ Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
+          "summary": "The upcoming installment — built around the theme \"The Power of Human Potential\" — has also enlisted former DeepMind creative lead Jon Steinback and president of Genomics Limited David Thornton.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/gta-6-strauss-zelnick-take-two-speakers-sxsw-london-2027-1236759919/"
+        },
+        {
+          "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
+          "summary": "The Hollywood Chamber of Commerce has announced the programming for its 2026 Entertainment Industry Conference, presented by Variety, on Dec. 8, including the Commitment to California Award for “Hacks” creators and showrunners Paul W.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hacks-creators-to-earn-commitment-to-california-award-1236955188/"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "stories": [
+        {
+          "headline": "Zamna Promoter to Open 40,000-Capacity UX Arena in Tulum Jungle on New Year’s Eve",
+          "summary": "A new 40,000-capacity music venue is set to open in the jungles of Tulum, Mexico, on Dec. 31, 2026, Billboard can exclusively announce Tuesday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ux-arena-to-open-in-tulum-jungle-nye/"
+        },
+        {
+          "headline": "Billy Ray Cyrus on Miley’s Wedding: ‘I’m the Proudest Dad Alive’",
+          "summary": "Billy Ray Cyrus has shared a series of photos from daughter Miley Cyrus ’ wedding to Maxx Morando, with the “Achy Breaky Heart” singer posting publicly about the ceremony for the first time. “My little girl married the love of her life!",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/billy-ray-cyrus-miley-wedding-photos-proudest-dad-alive-1236388527/"
+        },
+        {
+          "headline": "Anthem Singer Apologizes for ‘O Canada’ Flub at Leafs-Islanders Game",
+          "summary": "Singer Sarrah Strimel Bentley belted out the wrong lyrics to Canada's national anthem multiple times on Monday night",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/singer-apologizes-o-canada-anthem-leafs-islanders-game-1235663328/"
+        },
+        {
+          "headline": "Bob Seger and the Silver Bullet Band Bassist Chris Campbell Dead at 78",
+          "summary": "He spent 50 years playing alongside Seger and appears on \"Turn the Page,\" \"Night Moves,\" \"Rock and Roll Never Forgets,\" \"Still the Same,\" \"Hollywood Nights,\" and \"Against the Wind\"",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/bob-seger-silver-bullet-band-bassist-chris-campbell-dead-1235662929/"
+        },
+        {
+          "headline": "Adéla Announces 2027 World Tour",
+          "summary": "It runs nearly every single night from January to April",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/adela-announces-2027-world-tour/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24T07:10:26-05:00"
+}
