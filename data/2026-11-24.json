@@ -6,22 +6,16 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Even the best AI agents struggle with everyday life",
-          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
-        },
-        {
           "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
           "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
         },
         {
-          "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
-          "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel…",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
+          "headline": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
         },
         {
           "headline": "Tidal will start banning AI-generated music next month",
@@ -30,10 +24,16 @@
           "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
         },
         {
-          "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-          "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+          "headline": "AI is making its way into toys. What should parents do?",
+          "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
+        },
+        {
+          "headline": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+          "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
           "source": "Wired",
-          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+          "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
         }
       ]
     },
@@ -48,28 +48,28 @@
           "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "headline": "Kilmar Abrego Garcia leaving U.S. today, heading to Europe, sources say",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. as soon as Tuesday, according to multiple U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+        },
+        {
+          "headline": "Substance released at Manchester concert could be linked to robberies, police say",
+          "summary": "Police are investigating a possible link between the Co-op Live evacuation and reported robberies.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Feds call for evacuations before Iowa munition detonation",
           "summary": "Federal officials laid out their mitigation plans a day before the U.S. Army was set to do a controlled explosion of nearly five tons of lead azide.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668"
         },
         {
-          "headline": "US attorney general dodges questions about Nvidia investigation",
-          "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
-          "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+          "headline": "DOJ directs array of litigators to help with ICE detainee lawsuits",
+          "summary": "Roughly 2,000 DOJ civil litigators are being directed to help with thousands of ICE detainee habeas petitions.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
-        },
-        {
-          "headline": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-          "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
-          "source": "NPR",
-          "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers"
+          "url": "https://www.cbsnews.com/news/ice-detainee-lawsuits-justice-department-non-immigration-attorneys/"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125349930394927277",
+          "created_at": "2026-11-24T22:04:45.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "“Nice to feel wanted” hahaha nobody wants the Palestinians. 🤣\n\n56 Muslim countries in the world and not a single one will open its doors to Palestinians. Egypt has a wall to keep those disgusting people out. \n\nPalestinians are literally the most unwanted and undesired people in https://t.co/RRngV2SR9u",
+          "url": "https://x.com/LauraLoomer/status/2125349930394927277",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125349025599869363",
+          "created_at": "2026-11-24T22:01:09.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "HubSpot co-founder Brian Halligan says AI agents are a tailwind, and within a couple of months customers will be able to use all of HubSpot through AI tools like Claude and ChatGPT\n\n\"Is your core business under threat because of these agents?\" \"No, I think it's a tailwind\" https://t.co/1IM9rpN2TP",
+          "url": "https://x.com/_Investinq/status/2125349025599869363",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125348741943021662",
+          "created_at": "2026-11-24T22:00:01.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Netflix is a tax on the American sports fan. We're charging more and we're giving people less. If your goal is to grow the sport of soccer in America, what in the world are we doing putting our national team behind a paywall? Fox and Univision is the a no-brainer. https://t.co/gYN20ZAHVD",
+          "url": "https://x.com/ClayTravis/status/2125348741943021662",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125347477125763349",
+          "created_at": "2026-11-24T21:55:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "32-YEAR-OLD ARRESTED IN ALLEGED GROOMING, ABDUCTION OF 14-YEAR-OLD\n\n@SheriffLeeFL joined @ericbolling to detail the arrest of a 32-year-old man accused of grooming a 14-year-old Louisiana girl online before driving across state lines to bring her back to Florida.\n\n“As soon as we https://t.co/hlptAZD1Nv",
+          "url": "https://x.com/RealAmVoice/status/2125347477125763349",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125345299065409681",
+          "created_at": "2026-11-24T21:46:20.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "PRESIDENT TRUMP AND FIRST LADY HEAD TO MAR-A-LAGO FOR THANKSGIVING\n\nPresident Donald Trump and First Lady Melania Trump board Air Force One en route to Palm Beach, Florida, where they will spend the Thanksgiving holiday at Mar-a-Lago. https://t.co/WLBA2gm1CZ",
+          "url": "https://x.com/RealAmVoice/status/2125345299065409681",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125344586604429728",
+          "created_at": "2026-11-24T21:43:31.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I called it all the way back in 2025. https://t.co/NdB27Syoqy https://t.co/1djGdtM0a2",
+          "url": "https://x.com/LauraLoomer/status/2125344586604429728",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125344467666567274",
+          "created_at": "2026-11-24T21:43:02.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: Al Jazeera Partners With Google Cloud to Build Newsroom AI Using Its Archives",
+          "url": "https://x.com/Osint613/status/2125344467666567274",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125343839275700225",
+          "created_at": "2026-11-24T21:40:32.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "China’s housing market is getting crushed.\n\nYoY, China’s new home prices fell -2.4% last month, marking their 40th consecutive decline.\n\nNew home prices in 70 Chinese cities, excluding state-subsidized housing, fell -0.2% MoM in October.\n\nAt the same time, used home prices, https://t.co/1gUOnle1Kj",
+          "url": "https://x.com/KobeissiLetter/status/2125343839275700225",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125343702185037848",
+          "created_at": "2026-11-24T21:40:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "A major crash in Houston, Texas, left an 18-wheeler tanker truck overturned and engulfed in flames.\n\nAccording to the Houston Fire Department, the driver was reportedly trapped inside and had to be cut out of the wreckage. A hazmat team was also called to the scene.\n\nPlease join",
+          "url": "https://x.com/RealAmVoice/status/2125343702185037848",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125342899944706231",
           "created_at": "2026-11-24T21:36:48.000Z",
@@ -179,16 +269,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125335623561019591",
-          "created_at": "2026-11-24T21:07:54.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMAZING: President Donald Trump awarded former New York City Mayor Rudy Giuliani the Presidential Medal of Freedom Tuesday during a private ceremony in the Oval Office.\n\nThe honor is the nation’s highest civilian award and recognizes Giuliani’s decades of public service,",
-          "url": "https://x.com/RealAmVoice/status/2125335623561019591",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125335262360166531",
           "created_at": "2026-11-24T21:06:28.000Z",
           "author_name": "Open Source Intel",
@@ -197,16 +277,6 @@
           "url": "https://x.com/Osint613/status/2125335262360166531",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125334888278618157",
-          "created_at": "2026-11-24T21:04:58.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ERIC BOLLING LIVE https://t.co/ghyTK93HnF",
-          "url": "https://x.com/RealAmVoice/status/2125334888278618157",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125334036650565865",
@@ -249,16 +319,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125332815055032732",
-          "created_at": "2026-11-24T20:56:44.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Why is the Vice President meeting with a Jordanian born Muslim who traffics in Jew hatred and works with Tech for Palestine @tech4palestine, an organization that helps Palestinians organize anti- Jewish protests and teaches people how to support the BDS movement? \n\nNow, https://t.co/qzsDrzApvi",
-          "url": "https://x.com/LauraLoomer/status/2125332815055032732",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125332413480054884",
           "created_at": "2026-11-24T20:55:08.000Z",
           "author_name": "StockMarket.News",
@@ -285,16 +345,6 @@
           "author_handle": "ClayTravis",
           "text": "The United States has been awarded the 2031 FIFA Women's World Cup. I think this is an awesome accomplishment, and congratulations to everyone who helped make it happen. Megan Rapinoe is going to be so pissed. https://t.co/WWeNQa4dYe",
           "url": "https://x.com/ClayTravis/status/2125329861208318419",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125328804486799801",
-          "created_at": "2026-11-24T20:40:48.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "I am glad I was able to introduce conservative media to @amasad today. \n\nAnother dirt bag Muslim who has found a way to have meetings in the Trump administration to subvert our country. \n\nWould be nice if everyone who took my research today would cite my work.",
-          "url": "https://x.com/LauraLoomer/status/2125328804486799801",
           "verified": true,
           "verified_type": "blue"
         },
@@ -329,42 +379,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125325732469735717",
-          "created_at": "2026-11-24T20:28:35.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Saudi-led coalition: Houthi attacks on civilians will be answered \"decisively.\"",
-          "url": "https://x.com/Osint613/status/2125325732469735717",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125322490969047293",
           "created_at": "2026-11-24T20:15:43.000Z",
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Take the combined public outrage from a thousand female public school teachers molesting young boys and it won’t equal even half of the outrage that for some reason the media directed at James Franco for having consensual sex with adult women in his acting class https://t.co/GCHZY5vo91",
           "url": "https://x.com/MattWalshBlog/status/2125322490969047293",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125322220570656795",
-          "created_at": "2026-11-24T20:14:38.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🐎 BORDER PATROL ON HORSEBACK GETS THE JOB DONE!\n\nWATCH as CBP helicopter agents guide a mounted Border Patrol agent across rugged mountain terrain to track down an illegal border crosser hiding in the brush.\n\nHigh-tech surveillance meets old-school horsepower! 🇺🇸 https://t.co/YQwrt9f7sI",
-          "url": "https://x.com/RealAmVoice/status/2125322220570656795",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125319867503165751",
-          "created_at": "2026-11-24T20:05:17.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "HPE CEO Antonio Neri says an 8 to 9 times multiple on HPE \"makes no sense whatsoever\"\n\n\"We were eight times multiple before the Juniper acquisition... and we're still eight times multiple with a completely different profile\"\n\n\"Our orders for networking grew four and a half times https://t.co/SebZkStHwp",
-          "url": "https://x.com/_Investinq/status/2125319867503165751",
           "verified": true,
           "verified_type": "blue"
         },
@@ -377,16 +397,6 @@
           "url": "https://x.com/KobeissiLetter/status/2125318846571524580",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125318560918523950",
-          "created_at": "2026-11-24T20:00:06.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Stephen A. Smith Fires Back, CFP Committee's Alabama Bias &amp; Michigan's Latest Mess https://t.co/8A5sGceq7Y",
-          "url": "https://x.com/ClayTravis/status/2125318560918523950",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125313022625509703",
@@ -535,16 +545,6 @@
           "author_handle": "Outkick",
           "text": "Another World Cup is coming to America. 🇺🇸\n\nTrump announces the U.S. will host the 2031 FIFA Women's World Cup! https://t.co/7G73OMIRUC",
           "url": "https://x.com/Outkick/status/2125280925365964859",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125268268193648943",
-          "created_at": "2026-11-24T16:40:15.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: AMD stock, $AMD, extends losses to over -12% on the day and falls below $400/share for the first time since May 2026.\n\nThe stock is now down -30% since Hunterbrook Media suggested the company is illegally selling chips to China.\n\nHunterbrook Capital also disclosed a https://t.co/2st6ToiHDa",
-          "url": "https://x.com/KobeissiLetter/status/2125268268193648943",
           "verified": true,
           "verified_type": "business"
         },
@@ -755,6 +755,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
+          "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
+        },
+        {
           "headline": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
           "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S. (Image credit: Justin Sullivan)",
           "source": "NPR",
@@ -765,12 +771,6 @@
           "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
-        },
-        {
-          "headline": "Did GOP efforts to redistrict the House turn into a dummymander?",
-          "summary": "Republicans undertook a historic effort to redraw several states' congressional districts mid-decade in an attempt to maintain control of the House.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/"
         },
         {
           "headline": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990",
@@ -791,16 +791,22 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Shein to pay $100 million to settle claims it deceived customers",
+          "summary": "The Singapore fast-fashion company misled millions of U.S. consumers about its products and policies, FTC alleges.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/shein-100-million-ftc-deceptive-practices-settlement/"
+        },
+        {
           "headline": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
           "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
         },
         {
-          "headline": "Nvidia shares fall more than 5% as Huang comeback rally cools",
-          "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+          "headline": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+          "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+          "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html"
         },
         {
           "headline": "US jury find Chinese tech giant Huawei guilty of 10 counts, including conspiracy to steal trade secrets and bank fraud",
@@ -813,12 +819,6 @@
           "summary": "Utah is asking asked a court to dismiss the criminal charges it filed last month against Kalshi and two of its executives, accusing the prediction market operator of running an illegal gambling enterprise",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910"
-        },
-        {
-          "headline": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
-          "summary": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/"
         }
       ]
     },
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
-          "summary": "Jiri Lehecka has led the Czech Republic into the Davis Cup semifinals",
+          "headline": "Dar and Rice defeat UIC 68-67",
+          "summary": "Jacob Dar scored 21 points and Jaxson Thompson secured the victory on two free throws with less than a second left as Rice knocked off UIC 68-67",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/lehecka-lead-czechs-beat-canada-auger-aliassime-davis-138422175"
+          "url": "https://abcnews.com/Sports/wireStory/dar-rice-defeat-uic-68-67-138424586"
+        },
+        {
+          "headline": "Larne beat Glens to reach BetMcLean Cup quarter-finals",
+          "summary": "Larne moved into the quarter-finals of the BetMcLean Cup as they triumphed 3-2 against Glentoran at the Oval. Holders Linfield also booked their place in the next round with a narrow 1-0 victory over Championship side H&W Welders at the Blanchflower Stadium.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/larne-beat-glens-reach-betmclean-220319542.html"
+        },
+        {
+          "headline": "Real Madrid thrash PSV, Arsenal and City stumble, Como reach top three",
+          "summary": "What a night! The opening matches of matchday five in the 2026-2027 Champions League league phase took place on Tuesday night.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/real-thrash-psv-arsenal-city-215900935.html"
+        },
+        {
+          "headline": "Hidalgo matches Ogunbowale atop Notre Dame scoring list, No. 13 Irish hold off Davidson 64-52",
+          "summary": "Hannah Hidalgo scored 22 points to tie the Notre Dame career scoring record, Leah Macy had a double-double and the No. 13 Fighting Irish pulled out a 64-52 win over Davidson at the Battle 4 Atlantis on Tuesday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/hidalgo-matches-ogunbowale-atop-notre-dame-scoring-list-138422153"
         },
         {
           "headline": "One year after 11-0 start, Texas A&M enters rivalry week as a cautionary tale",
           "summary": "Failed coordinator promotions, a regression under center and a non-existent pass rush turned an expensive roster into one of college football's biggest disasters",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/texas-a-m-cautionary-tale-rivalry-week/"
-        },
-        {
-          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
-          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
-          "source": "FOX News Sports",
-          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
-        },
-        {
-          "headline": "No. 8 Arizona tops Colorado State 96-83 with all 5 starters reaching double figures in Maui",
-          "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
-        },
-        {
-          "headline": "Jayden Daniels Gets The Better Of Joe Burrow: 3 Takeaways From The Commanders' Win",
-          "summary": "A rainstorm and a temporary blackout couldn’t stop the Bengals and Commanders from giving us an electric Monday night affair for the second time in three seasons. History repeated itself as Jayden Daniels led a game-winning drive to seal the upset, just as he did back in September 2024 in Cincinnati.",
-          "source": "FOX News Sports",
-          "url": "https://www.foxnews.com/sports/cincinnati-bengals-vs-washington-commanders-nfl-takeaways-november-23-2026"
         }
       ]
     },
@@ -863,28 +863,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Broadway Box Office: ‘Hamilton’ Rises Back Up to $3M, ‘Here There are Blueberries’ Cracks $1M",
-          "summary": "'Inter Alia,' starring Rosamund Pike, is also continuing to build momentum.",
+          "headline": "‘The Hunger Games: Sunrise on the Reaping’: Creating Glenn Close’s Over-the-Top Looks by Leaning Into Drusilla’s ‘Narcissist’ Nature",
+          "summary": "Being a member of Capitol society in Panem is an honor not to be taken lightly, at least if you’re Drusilla Sickle, played by screen legend Glenn Close in “The Hunger Games: Sunrise on the Reaping.” In the book, Drusilla is the cruel and vain escort for Haymitch Abernathy (Joseph Zada) and the rest of […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/hunger-games-sunrise-reaping-drusilla-costumes-hair-makeup-1236955506/"
+        },
+        {
+          "headline": "Steven Hack, ‘American Horror Story’ Actor and Original Cast Member of ‘Cats,’ Dies at 68",
+          "summary": "Steven Hack, an original cast member in the Broadway production of “Cats” who appeared in TV series including “American Horror Story,” died Nov. 19 in Los Angeles following a “sudden and unexpected cardiac event,” Interact Theatre Company confirmed on social media.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/people-news/steven-hack-dead-american-horror-story-cats-1236957417/"
+        },
+        {
+          "headline": "Alfonso Ribeiro on the “Wild” Ride of ‘DWTS’ Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season",
+          "summary": "To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-rises-back-up-to-3m-here-there-are-blueberries-cracks-1m-1236762460/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/"
         },
         {
           "headline": "TV Ratings: NBA Logs Winning Streak in First Month of the Season",
           "summary": "Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311/"
-        },
-        {
-          "headline": "‘Paper Tiger’ Director James Gray Calls Out ‘Dumb, Ethically, Morally Bankrupt’ Festival Competitions and Quips That He’s Giving Up on Cannes: ‘I’ve Learned My Lesson’",
-          "summary": "“Paper Tiger” director James Gray has launched six of his nine feature films from the starry heights of the Cannes Film Festival, most recently contending for the Palme d’Or this year with his New York-set crime drama. Just don’t expect to see him back on the Croisette anytime soon.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/paper-tiger-director-james-gray-festival-competition-cannes-1236957123/"
-        },
-        {
-          "headline": "‘To Me, My X-Men’: James Marsden Says It Was ‘Important’ for Cyclops to Be a Leader in ‘Avengers: Doomsday’ After Taking a ‘Back Seat to Wolverine’",
-          "summary": "James Marsden dominated social media buzz after Disney and Marvel Studios launched the final “Avengers: Doomsday” trailer, which ended on the viral moment of Marsden’s Cyclops uniting the X-Men and Avengers in battle against Robert Downey Jr.’s Doctor Doom. Marsden event got to recite his character’s iconic line: “To me, my X-Men!” Whether or not […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/james-marsden-cyclops-leader-x-men-avengers-doomsday-1236957270/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -911,10 +911,10 @@
           "url": "https://deadline.com/2026/11/kelly-rowland-cast-hulu-reasonable-doubt-season-5-1237232824/"
         },
         {
-          "headline": "Steven Hack, Original ‘Cats’ Castmember and Busy Onscreen Character Actor, Dies at 68",
-          "summary": "His credits ranged from ‘Jake and the Fatman’ and ‘Seinfeld’ to ‘Pam & Tommy’ and ‘Amsterdam.’",
+          "headline": "‘South Park’ Takes Aim at Jensen Huang, Nvidia Spy Scandal in Next Episode",
+          "summary": "The town hunts for a Chinese spy amid a series of mysterious power outages in Wednesday's episode.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/steven-hack-dead-cats-interact-theatre-company-1236762464/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-nvidia-cyberattacks-1236762386/"
         },
         {
           "headline": "NBC Tracking Storm Due To Hit 100th Annual Macy’s Thanksgiving Day Parade: Will Balloons Be Grounded?",
@@ -935,10 +935,10 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Broadway Producers & Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike",
-          "summary": "The Broadway League and IATSE Local One of theater workers have reached a tentative deal to avoid a strike that could have disrupted the lucrative holiday season. The agreement is pending ratification by union members.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887/"
+          "headline": "IATSE Reaches Tentative Agreement for Broadway Stagehands",
+          "summary": "However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/"
         },
         {
           "headline": "Al Gore To Purchase Hometown Paper Carthage Courier",
@@ -947,16 +947,16 @@
           "url": "https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838/"
         },
         {
-          "headline": "Law Firm Ropes and Gray Expands Los Angeles Presence and Entertainment, Sports and Media Practice With Tom Ara, David Markman Hires",
-          "summary": "Law firm Ropes and Gray aims to significantly raise its profile in Los Angeles and in the entertainment and sports arena with the hiring of the transactional legal team lead by Tom Ara and David Markman. Ara and Markman are relocating to Ropes and Gray after having previously set up shop at Weil, Gotshal and […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/tom-ara-markman-ropes-and-gray-la-entertainment-sports-1236957128/"
-        },
-        {
           "headline": "Netflix Buys Radford Studio Lot for $380 Million",
           "summary": "The purchase gives the entertainment giant ownership of a major Los Angeles production campus.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/"
+        },
+        {
+          "headline": "Done Deal! Netflix Buys Radford Studios For Almost $400M; Streamer Calls Purchase “A Meaningful New Investment In California’s Film Industry”",
+          "summary": "Ted Sarandos has never hid his love for Old Hollywood, and now the Netflix co-CEO has a 55-acre and 98-year old piece of Tinseltown property. After months of negotiations, speculation and reporting by Deadline that things were moving ahead, Netflix has bought the iconic Radford Studio Center in Studio City.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-buys-radford-studios-1237232812/"
         },
         {
           "headline": "‘One & Only’ Campaign: BOTOX® Cosmetic (onabotulinumtoxinA) Has Been FDA Approved for Over 20 Years",
@@ -970,6 +970,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Every Track From ‘Grand Theft Auto VI: The Album’ Ranked — Now Including the Deluxe Bonus Tracks",
+          "summary": "Monocultural moments in society have become extremely rare in the mid-2020s, but the arrival of Grand Theft Auto VI has brought about as strong a unified pop-culture tidal wave as we’ve seen this decade. Rockstar Games released the Grand Theft Auto VI: The Album on Friday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/"
+        },
         {
           "headline": "Cher’s Victory in Royalties War Under Fire as Mary Bono Pushes for Reversal",
           "summary": "The lower court “struggled with the concept that copyright terminations preempted Sonny’s right to contract freely and bargain away his heirs’ rights,\" the new filing reads",
@@ -993,15 +999,9 @@
           "summary": "Anuel AA is finally releasing his highly-anticipated new album, RHLM2 , on his birthday, Nov. 26.",
           "source": "Billboard",
           "url": "https://www.billboard.com/lists/anuel-aa-rhlm2-album-interview-things-to-know/"
-        },
-        {
-          "headline": "Anuel AA Blames Delayed Bogotá Show on Team Member’s ‘Big Mistake,’ Promises Free Makeup Concert",
-          "summary": "Anuel AA has promised to return to Bogotá, Colombia, for a free concert after facing backlash over his Saturday (Nov. 21) performance at Vive Claro.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/anuel-aa-blames-team-late-bogota-show-promises-free-concert-1236388823/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-24T16:40:59-05:00"
+  "updatedAt": "2026-11-24T17:15:40-05:00"
 }
