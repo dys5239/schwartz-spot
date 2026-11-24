@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Jensen Huang deepfakes are the hot new AI slop",
+          "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes"
+        },
+        {
           "headline": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
           "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
           "source": "Wired",
           "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
-        },
-        {
-          "headline": "AI is making its way into toys. What should parents do?",
-          "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Tories accuse Burnham of turning No 10 into 'joke' after influencer video row",
-          "summary": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Oil prices fall despite Iran's ongoing attacks on tankers",
-          "summary": "Despite Iran claiming daily attacks on takers around the Strait of Hormuz and escalating fighting between the Saudis and Iran's Houthi allies, oil prices continue to decline.",
+          "headline": "Trump presenting Rudy Giuliani with Presidential Medal of Freedom",
+          "summary": "Rudy Giuliani, the former mayor of New York City who worked as a personal lawyer to President Trump, said he will be honored in the Oval Office.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/"
         },
         {
-          "headline": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
-          "summary": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss"
+          "headline": "Cold case murder mystery solved 58 years after girl found dead",
+          "summary": "Canadian police say they've solved a teen girl's mysterious murder case, nearly six decades after she was found dead.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/cold-case-murder-solved-jackie-dunleavy-dead-1968-canada/"
         },
         {
-          "headline": "Trump to award Medal of Freedom to former NYC Mayor Rudy Giuliani",
-          "summary": "Trump pardoned Giuliani last year.",
+          "headline": "WATCH: Dak Prescott and the Dallas Cowboys celebrate 30 years of giving back",
+          "summary": "ABC News' Rhiannon Ally highlights how the Dallas Cowboys are celebrating three decades of giving back to their community during Thanksgiving.",
           "source": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-award-medal-freedom-former-nyc-mayor-rudy/story?id=138411544"
+          "url": "https://abcnews.com/video/138408122/"
         },
         {
-          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
-          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
+          "headline": "Huntley murderer handed new whole life jail term",
+          "summary": "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Record 5,200 heat-linked deaths estimated in England this year",
+          "summary": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125268851407667566",
+          "created_at": "2026-11-24T16:42:34.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: Saudi Arabia Asks U.S. and Asian Allies’ Help to Restock Missile Defenses - Semafor https://t.co/zFi2j2TxEN",
+          "url": "https://x.com/Osint613/status/2125268851407667566",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125268268193648943",
+          "created_at": "2026-11-24T16:40:15.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: AMD stock, $AMD, extends losses to over -12% on the day and falls below $400/share for the first time since May 2026.\n\nThe stock is now down -30% since Hunterbrook Media suggested the company is illegally selling chips to China.\n\nHunterbrook Capital also disclosed a https://t.co/2st6ToiHDa",
+          "url": "https://x.com/KobeissiLetter/status/2125268268193648943",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125268167400308848",
+          "created_at": "2026-11-24T16:39:51.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "KASH PATEL ANNOUNCES MASSIVE GLOBAL CYBERCRIME CRACKDOWN — NEARLY $17 BILLION SEIZED!\n\n@FBIDirectorKash reveals the staggering results of Operation Blackout:\n\n▪️ Nearly $17 BILLION in illicit funds seized\n▪️ More than 14,000 digital devices taken over\n▪️ 29 scam compounds https://t.co/Mls2kuN59s",
+          "url": "https://x.com/RealAmVoice/status/2125268167400308848",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125267697491419545",
+          "created_at": "2026-11-24T16:37:59.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Taping a Thanksgiving special today for Clay Travis Show. Will answer questions you guys ask below. Fire away below with questions. Show will air on YouTube. If you haven’t subscribed yet, you should. Hundreds of thousands of daily viewers here now: https://t.co/7zjHCMDLf6",
+          "url": "https://x.com/ClayTravis/status/2125267697491419545",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125267592461828378",
+          "created_at": "2026-11-24T16:37:34.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Consider this the official hard launch.\n\nThe Georgia Tech couple appeared on the TODAY show, where they talked about their relationship, viral moment and addressed the rumors swirling online.\n\nHere's what the die-hard fans had to say, writes @markjburns88.\nhttps://t.co/KseepiyiQw",
+          "url": "https://x.com/SportNState/status/2125267592461828378",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125265912496537908",
+          "created_at": "2026-11-24T16:30:53.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Chip stocks just did something they haven't done since the March 2020 COVID crash\n\nThe Philadelphia Semiconductor Index $SOX is down 9.1% today, after plunging 10.7% on Friday and ripping 14.0% on Monday\n\nThat's three straight sessions with a move of more than 7% in either https://t.co/NmJdNtlM6z",
+          "url": "https://x.com/_Investinq/status/2125265912496537908",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125265615288156657",
+          "created_at": "2026-11-24T16:29:42.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Very interesting. This might be the end for Sanchez https://t.co/WkEX63WUCS",
+          "url": "https://x.com/Osint613/status/2125265615288156657",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125265104929259925",
+          "created_at": "2026-11-24T16:27:41.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump is considering targeting Iranian leaders in new strikes to remove so-called \"hardliners,\" per NBC News.\n\nAdministration officials who support the proposal argue it could allow President Trump to end the war.\n\nPresident Trump is considering a \"range of",
+          "url": "https://x.com/KobeissiLetter/status/2125265104929259925",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125264983311212551",
+          "created_at": "2026-11-24T16:27:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Crude steady for now https://t.co/6ehE3Y8gCW",
+          "url": "https://x.com/Osint613/status/2125264983311212551",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125263043244290435",
+          "created_at": "2026-11-24T16:19:29.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/TI8to82O7B",
+          "url": "https://x.com/SpaceX/status/2125263043244290435",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125262426018877544",
+          "created_at": "2026-11-24T16:17:02.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran has placed 26 tugs and offshore support vessels on its Strait of Hormuz Non-Compliance List, accusing them of assisting ships that transit the southern corridor without Iranian permission.",
+          "url": "https://x.com/Osint613/status/2125262426018877544",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125262029128974355",
           "created_at": "2026-11-24T16:15:27.000Z",
@@ -99,16 +209,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125261432451182818",
-          "created_at": "2026-11-24T16:13:05.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Maj. Gen. Izadi, Deputy Commander-in-Chief of the IRGC, issued a warning directed at the Americans.\n\nAny action against Iran's defense space, infrastructure or peaceful nuclear technology centers will bring \"our crushing response\" on the infrastructure connected to them.",
-          "url": "https://x.com/Osint613/status/2125261432451182818",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125260955722330334",
           "created_at": "2026-11-24T16:11:11.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -117,16 +217,6 @@
           "url": "https://x.com/RealAmVoice/status/2125260955722330334",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125260851188039835",
-          "created_at": "2026-11-24T16:10:47.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "If the enemy starts a war, IRGC missiles can hit enemy ships at long range, per the IRGC's deputy commander. https://t.co/HIjxWoj3p3",
-          "url": "https://x.com/Osint613/status/2125260851188039835",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125260653560562086",
@@ -145,16 +235,6 @@
           "author_handle": "Timcast",
           "text": "ILHAN WARRANT UNSEALED https://t.co/m6E4qVJVk1",
           "url": "https://x.com/Timcast/status/2125260187045101641",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125260104719016311",
-          "created_at": "2026-11-24T16:07:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Two suspects accused of raising money for Hamas's military wing in Gaza and sending it through cryptocurrency were arrested by Spanish police in Barcelona. The pair belonged to a large international network that concealed fund transfers to the group, and their arrest is expected",
-          "url": "https://x.com/Osint613/status/2125260104719016311",
           "verified": true,
           "verified_type": "blue"
         },
@@ -209,16 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125255522786181496",
-          "created_at": "2026-11-24T15:49:36.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Riyadh financial district tower hit. 11 injured.\n\nSame tower has been hit twice recently. https://t.co/jZBCstwA14 https://t.co/Y4CP5Ekpg7",
-          "url": "https://x.com/Osint613/status/2125255522786181496",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125254082893951141",
           "created_at": "2026-11-24T15:43:53.000Z",
           "author_name": "Sport & State",
@@ -267,16 +337,6 @@
           "url": "https://x.com/_Investinq/status/2125251916913643949",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125251860869124523",
-          "created_at": "2026-11-24T15:35:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MIKE DAVIS: “THIS IS NOT GOOD FOR ILHAN OMAR!”\n\n@mrddmia breaks down the reported raid on Rep. Ilhan Omar's home and the partial release of heavily redacted court documents.\n\nDavis argues that the allegations of immigration and financial fraud, if proven, could lead to criminal https://t.co/5QwT64rnM0",
-          "url": "https://x.com/RealAmVoice/status/2125251860869124523",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125249976951509476",
@@ -399,16 +459,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125236691703390497",
-          "created_at": "2026-11-24T14:34:46.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Tariffs are back. The US is preparing to raise tariffs on China, the EU and 14 other economies as soon as this week, per WSJ and Bloomberg\n\nThe duties come from USTR Jamieson Greer's Section 301 probe into industrial subsidies and excess capacity, and aim to rebuild the tariff https://t.co/cukONYHg4s",
-          "url": "https://x.com/_Investinq/status/2125236691703390497",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125235630146023767",
           "created_at": "2026-11-24T14:30:33.000Z",
           "author_name": "Clay Travis",
@@ -419,16 +469,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125233442992398737",
-          "created_at": "2026-11-24T14:21:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Monday was a historic trading session:\n\nThe S&amp;P 500 outperformed the S&amp;P 500 Equal-Weight Index by +2.1 percentage points on Monday, its largest daily outperformance since at least 1990.\n\nThis matches the +2.1 percentage-point outperformance recorded in April 2020.\n\nAt the close, https://t.co/H218DQKv8M",
-          "url": "https://x.com/KobeissiLetter/status/2125233442992398737",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125227421477802190",
           "created_at": "2026-11-24T13:57:56.000Z",
           "author_name": "Glenn Beck",
@@ -437,16 +477,6 @@
           "url": "https://x.com/glennbeck/status/2125227421477802190",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125216700945891723",
-          "created_at": "2026-11-24T13:15:20.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nasdaq 100 futures extend losses to -2.5% on reports that President Trump is set to impose new tariffs on China, the EU, and 14 other countries. https://t.co/1ptRw2T6iP",
-          "url": "https://x.com/KobeissiLetter/status/2125216700945891723",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125216590933447102",
@@ -539,16 +569,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125083271457550671",
-          "created_at": "2026-11-24T04:25:08.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Connection that Kept the Commanders Season Alive 🤯 https://t.co/T1D4Rz9HL2",
-          "url": "https://x.com/SportNState/status/2125083271457550671",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125081885827334162",
           "created_at": "2026-11-24T04:19:38.000Z",
           "author_name": "OutKick",
@@ -557,16 +577,6 @@
           "url": "https://x.com/Outkick/status/2125081885827334162",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125071509467111792",
-          "created_at": "2026-11-24T03:38:24.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The SEC is fed up with LSU.  https://t.co/KxjANgjYqz",
-          "url": "https://x.com/ClayTravis/status/2125071509467111792",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125063484463632880",
@@ -741,10 +751,10 @@
           "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
         },
         {
-          "headline": "Trump to pardon two turkeys, Freedom and Feathers",
-          "summary": "Freedom and Feathers were introduced on Monday at the Willard InterContinental in Washington, where the two have been staying in a suite leading up to their trip to the White House.",
+          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
+          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/white-house-turkey-pardon-trump-thanksgiving-freedom-feathers/"
+          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
           "headline": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
@@ -795,10 +805,10 @@
           "url": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/"
         },
         {
-          "headline": "What Jensen Huang's Nvidia return means for the economy",
-          "summary": "The announcement of Jensen Huang's return to Nvidia immediately impacted the markets on Tuesday. Kelly O'Grady and The Atlantic CEO Nick Thompson break it down.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/what-jensen-huangs-nvidia-return-means-for-the-economy/"
+          "headline": "Australia set to pass digital duty of care law, fines up to 5% of global revenue",
+          "summary": "Australia is set to create new online safety laws that would make tech giants potentially liable for multibillion dollar fines for failing to prevent foreseeable online harms",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/australia-set-pass-digital-duty-care-law-fines-138406159"
         }
       ]
     },
@@ -806,6 +816,18 @@
       "id": "sports",
       "title": "Sports",
       "stories": [
+        {
+          "headline": "Dan Campbell wasn't upset by Jameson Williams' flip in Lions win",
+          "summary": "Jameson Williams made the hearts of Detroit Lions fans everywhere leap into their throat when he appeared to land awkwardly while front flipping into the end zone on a 57-yard touchdown catch against the Tampa Bay Buccaneers on Sunday, Nov. 22.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/dan-campbell-wasnt-upset-jameson-163000518.html"
+        },
+        {
+          "headline": "3 things we learned from the Bengals’ upset loss to the Commanders",
+          "summary": "Photo by Patrick Smith/Getty Images | Getty Images There are two ways of looking at the Cincinnati Bengals’ upset loss to the Washington Commanders: 1. it was a nightmare of a game where everything that could go wrong did; 2.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/3-things-learned-bengals-upset-163000500.html"
+        },
         {
           "headline": "NFL Week 12 picks, score predictions: Bears, Chiefs lose on Thanksgiving; Rams edge Packers in thriller",
           "summary": "Here's your weekly dose of John Breech's NFL picks",
@@ -823,18 +845,6 @@
           "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
-        },
-        {
-          "headline": "Jayden Daniels rallies Commanders in final seconds to set up winning kick in 22-20 win over Bengals",
-          "summary": "Jayden Daniels connected with rookie Antonio Williams on two long pass plays, moving the Commanders 64 yards in 34 seconds to set up Drew Stevens’ 26-yard field goal as time expired, and the Washington Commanders stunned Joe Burrow and the Cincinnati B...",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/jayden-daniels-rallies-commanders-final-seconds-set-winning-138400250"
-        },
-        {
-          "headline": "Sebastian Mack scores 22 to send UNLV to 82-61 victory over Eastern Washington",
-          "summary": "Sebastian Mack’s 22 points helped UNLV defeat Eastern Washington 82-61",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/sebastian-mack-scores-22-send-unlv-82-61-138401713"
         }
       ]
     },
@@ -842,6 +852,18 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Ariana Grande, Peacock Team on ‘Eternal Sunshine Tour‘ Doc, Concert Film",
+          "summary": "The streamer will also debut 'the eternal sunshine diaries: the making of the tour' which followed Grande during the 30 days leading up to the opening of her sold-out run.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/music/music-news/ariana-grande-eternal-sunshine-doc-concert-film-peacock-1236762204/"
+        },
+        {
+          "headline": "Tidal Bans Wholly AI-Generated Music: “Serious Problem That Has Only Increased in Scale”",
+          "summary": "The service said Tuesday that more than 60 percent of new tracks uploaded to its service on Nov. 6 were fully AI-generated songs.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/music/music-industry-news/tidal-bans-wholly-ai-generated-music-1236762171/"
+        },
         {
           "headline": "Edinburgh-Winning ‘Skintown’ Director Kieron J. Walsh Signs With Artists First (EXCLUSIVE)",
           "summary": "Kieron J. Walsh, the Irish writer and director whose latest feature “Skintown” won the top prize at this year’s Edinburgh Film Festival, has been signed by Artists First, a Propagate Content company.",
@@ -859,18 +881,6 @@
           "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/24/nx-s1-6050929/filmmaker-ava-duvernay-challenges-the-stories-america-tells-about-itself-in-14th"
-        },
-        {
-          "headline": "Jason Segel Boards ‘Meeting Your Maker,’ Short About a Suicidal TV Puppet, as Executive Producer (Exclusive)",
-          "summary": "Written and directed by Gregory J.M. Kasunich, the Oscar-qualified dark comedy short stars Jonathan Kite ('2 Broke Girls') and Otis, a depressed kids' TV puppet star who must confront his creator.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/jason-segel-meeting-your-maker-short-film-executive-producer-1236761095/"
-        },
-        {
-          "headline": "‘Meet the Parents’: THR’s 2000 Review",
-          "summary": "The comedy is \"a crisply paced romp featuring pitch-perfect performances by adversarial leads Robert De Niro and Ben Stiller.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/meet-the-parents-movie-review-2000-stiller-deniro-1236762170/"
         }
       ]
     },
@@ -878,6 +888,18 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Steven Hack Dies: Actor On ‘American Horror Story’, ‘Ratched’, ‘Marvel’s Agent Carter’, ‘General Hospital’; Original Cast Member Of Broadway’s ‘Cats’ Was 68",
+          "summary": "Steven Hack, an original member of Broadway’s Cats and A Chorus Line who went on to gain numerous credits on stage as well as in such TV series and films as Thor: The Dark World, American Horror Story: 1984, Criminal Minds, Scrubs, Fresh Off The Boat, General Hospital and many more, died November 19 at […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/steven-hack-dead-1237232579/"
+        },
+        {
+          "headline": "David Fincher Says DC Is ‘Dysfunctional’ and Turned Down ‘Lord of the Rings’ TV Show Because ‘It’s an Extension of a Corporate Interest’",
+          "summary": "David Fincher doesn’t want to get tied up in big franchises anytime soon. The “Further Mis-Adventures of Cliff Booth” director was interviewed on the Nov.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/david-fincher-dc-rings-of-power-1236956992/"
+        },
         {
           "headline": "‘Tremembé’ Co-Writer Ullisses Campbell Lands Amazon MGM Overall Deal As Studio Expands Brazilian True Crime Slate",
           "summary": "EXCLUSIVE: Amazon MGM Studios has inked an overall deal with Ullisses Campbell, the award-winning Brazilian journalist and crime writer, as it digs deeper into the true crime genre in Brazil. Campbell is well-known in Brazil, and is one of the writers on Amazon MGM Studios’ prison drama Tremembé, which has been a hit for Prime […]",
@@ -895,18 +917,6 @@
           "summary": "The limited series from showrunner Richard LaGravenese releases its 10 episodes in December.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-murder-of-jonbenet-ramsey-trailer-mccarthy-owen-1236762125/"
-        },
-        {
-          "headline": "Aardman Getting 50th Anniversary Doc Special ‘Cracking Job Gromit’ at BBC",
-          "summary": "Aardman Animations is celebrating turning 50 with a documentary special on the BBC. “Cracking Job Gromit: Aardman at 50” — due to air over Christmas — will mark half a century since Morph first appeared on screens in 1976 and will chart the beloved stop-motion studio from the early adventures of “Wallace & Gromit” to “Shaun the […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/aardman-50th-anniversary-doc-cracking-job-gromit-bbc-1236956987/"
-        },
-        {
-          "headline": "Why Mike Flanagan Just Couldn’t Kill Carrie White",
-          "summary": "Flipping the script from Stephen King's novel and Brian De Palma's film, the 'Carrie' showrunner always knew his version of the iconic character would meet a different fate — even if there was no season two.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/mike-flanagan-carrie-interview-1236761678/"
         }
       ]
     },
@@ -951,22 +961,22 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Ten Songs to Remember Valentín Elizalde 20 Years After His Passing",
-          "summary": "This Wednesday (Nov. 25) marks 20 years since the assassination of Valentín Elizalde , the regional Mexican singer who, at the height of his career, was gunned down after a performance in Reynosa, in northern Mexico, along with his manager Mario Mendoza and his driver Reynaldo Ballesteros.",
+          "headline": "Tidal Becomes First Streaming Service to Ban AI Music From Its Platform",
+          "summary": "Tidal announced Tuesday (Nov. 24) that AI-generated music will be banned entirely from the platform, beginning Dec.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/lists/valentin-elizalde-20-years-later-10-essential-songs/"
+          "url": "https://www.billboard.com/pro/tidal-bans-ai-music-from-platform/"
+        },
+        {
+          "headline": "Riley Green Brings Out the Big Guns to Announce Stagecoach 2027’s Dolly Day With Kelly Clarkson",
+          "summary": "After working 9 to 5 on the Friday of Stagecoach weekend, country music fans will be able to enjoy a whole day devoted to Dolly Parton at the country music festival next year. Related Garth Brooks, Riley Green, Zach Top to Headline Stagecoach 2027: ‘A Guaranteed Good Time’ Stagecoach 2026: 10 Best Performances Kelly Clarkson Recalls Dolly Parton’s…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/stagecoach-2027-dolly-parton-day-the-voice-video-announcement-1236388654/"
         },
         {
           "headline": "U2 Plot North American Stadium Tour",
           "summary": "The War on Drugs support the West Coast and Southern dates, with Stephen Wilson Jr. on the East Coast",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/u2-plot-north-american-stadium-tour/"
-        },
-        {
-          "headline": "U2 Reveal North American Dates For 2027 Greatest Show on Earth World Tour",
-          "summary": "U2 rolled out the North American dates for their upcoming 2027 Carnaval De Luz presents: The Greatest Show on Earth World Tour outing on Tuesday morning (Nov. 24).",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/concerts/u2-north-american-dates-2027-greatest-show-on-earth-world-tour-1236388626/"
         },
         {
           "headline": "Wilco Expand 2027 Tour With U.S. Dates",
@@ -983,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T11:16:59-05:00"
+  "updatedAt": "2026-11-24T11:44:38-05:00"
 }
