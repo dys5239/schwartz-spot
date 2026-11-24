@@ -6,10 +6,10 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Trump engineered a risky comeback for Jensen Huang",
-          "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO , following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated"
+          "headline": "Jensen Huang's announced return sends shares skyrocketing",
+          "summary": "Stocks soared on Monday, much of it on word that AI chipmaker Nvidia had reinstated its CEO, Jensen Huang, following his affair with an alleged Chinese spy. The move raised concerns about U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/jensen-huangs-announced-return-sends-shares-skyrocketing/"
         },
         {
           "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO",
-          "summary": "The Nasdaq Composite closed 6.5% higher, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
+          "headline": "Anthropic touts potential for AI-led medical advancements",
+          "summary": "Anthropic CEO Dario Amodei talked about his hopes to cure disease using artificial intelligence last Thursday, as his company started trading publicly. CBS News MoneyWatch reporter Megan Cerullo has more on how AI is speeding up drug discovery.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/"
+          "url": "https://www.cbsnews.com/video/anthropic-touts-potential-for-ai-led-medical-advancements/"
+        },
+        {
+          "headline": "Santa school: where his official helpers learn to embody Old Saint Nick",
+          "summary": "Santa's official helpers are in training at the Charles H. Howard Santa School in Midland, Michigan.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/santa-school-official-helpers-learn-embody-old-saint-nick/"
+        },
+        {
+          "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
+          "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Benefits review to suggest quicker payment for some disabled people",
           "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Chris Mason: Can Burnham turn volume down on EU debate?",
-          "summary": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Democrats announce 12 presidential primary debates",
-          "summary": "The DNC has announced a plan to hold 12 presidential primary debates, five next year, and seven in 2028. Democratic strategist Joel Payne and Republican strategist Kevin Sheridan join \"The Takeout\" to discuss.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/democrats-announce-12-presidential-primary-debates/"
         },
         {
           "headline": "Trump granted new chance to potentially erase his hush money case",
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125042062055850187",
+          "created_at": "2026-11-24T01:41:23.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "The longer he has to listen to Joe Buck talk the redder he gets lol  https://t.co/isjiPlR7IG",
+          "url": "https://x.com/Outkick/status/2125042062055850187",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125039644119281802",
+          "created_at": "2026-11-24T01:31:47.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I’m just thrilled I’m here to be doing Markwayne Muslim’s job for him while he’s in the Middle East. \n\nSomeone has to aggressively track and report anti-American jihadists who collude with Islamic terrorists. \n\nI do many people’s jobs for them. \n\nIt’s incredible isn’t it? https://t.co/1lEDLAOEl1",
+          "url": "https://x.com/LauraLoomer/status/2125039644119281802",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125037718115934524",
+          "created_at": "2026-11-24T01:24:07.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Alex Ovechkin underhanding a football back to Jayden Daniels is the most Russian hockey player thing ever https://t.co/uUMyeQaLJP",
+          "url": "https://x.com/Outkick/status/2125037718115934524",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125036721272131983",
+          "created_at": "2026-11-24T01:20:10.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: FEDERAL FILES REVEAL SCOPE OF ILHAN OMAR INVESTIGATION\n\nNewly released federal court records are shedding more light on the investigation surrounding Rep. Ilhan Omar — though the key affidavit detailing the government’s evidence remains sealed.\n\nOne filing identifies",
+          "url": "https://x.com/RealAmVoice/status/2125036721272131983",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125035817781325840",
           "created_at": "2026-11-24T01:16:34.000Z",
@@ -145,16 +185,6 @@
           "author_handle": "RealAmVoice",
           "text": "GEORGIA MAN HAILED AS HERO AFTER RUNNING A MILE TO SAVE WOMAN FROM MACHETE ATTACK\n\nLee Lowery heard a woman screaming in the woods at Amicalola Falls State Park — and ran nearly a mile through the darkness toward her cries.\n\nLowery put himself between the woman and her alleged",
           "url": "https://x.com/RealAmVoice/status/2125024097621192956",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125020976521834516",
-          "created_at": "2026-11-24T00:17:36.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "The FBI arrested California man Leonard Michael Fierro, who's accused of recruiting an armed mob to storm an ICE facility and overthrow the government.\n\nHe allegedly declared himself ready to be the \"detonator.\"\n\nThis is what happens when you spend months demonizing ICE as the https://t.co/kynZYTqqHK",
-          "url": "https://x.com/RealAmVoice/status/2125020976521834516",
           "verified": true,
           "verified_type": "business"
         },
@@ -369,16 +399,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2124985444463247474",
-          "created_at": "2026-11-23T21:56:24.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "With no prenup, I am sure Jensen and his wife “worked it out”.\n https://t.co/su1xNhLZrc",
-          "url": "https://x.com/LauraLoomer/status/2124985444463247474",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124985089205707224",
           "created_at": "2026-11-23T21:55:00.000Z",
           "author_name": "Clay Travis",
@@ -507,26 +527,6 @@
           "url": "https://x.com/SportNState/status/2124961379681767730",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124959740434243786",
-          "created_at": "2026-11-23T20:14:16.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "More on the commish misspeaking (or did he?): \nhttps://t.co/IBJoLa1DoG",
-          "url": "https://x.com/Outkick/status/2124959740434243786",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2124959466663633253",
-          "created_at": "2026-11-23T20:13:11.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "😂 One of us, finally!\n\nRoger Goodell still knows they're the Redskins. https://t.co/SFqvuW4rpe",
-          "url": "https://x.com/Outkick/status/2124959466663633253",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2124954030405267531",
@@ -745,28 +745,28 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Appeals court clears way for Army to detonate Iowa explosives",
-          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
+          "headline": "Family of those arrested in chaotic ICE incident at Seattle airport speaks out",
+          "summary": "Immigration agents dragged a father and his adult daughter out of a jet bridge side door at a Washington state airport as they screamed for help. Camilo Montoya-Galvez spoke with the family.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
+          "url": "https://www.cbsnews.com/video/family-arrested-chaotic-ice-incident-seattle-airport-speaks-out/"
         },
         {
-          "headline": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
-          "summary": "The bipartisan committee said Rep. Jimmy Gomez made unwanted sexual advances and sexual contact with a House staffer.",
+          "headline": "Ukraine sinks Russian warships thousands of miles from battlefield near Libya",
+          "summary": "Military video posted by Ukrainian President Volodymyr Zelenskyy is said to show the country's naval drone attacks on Russian ships near Libya, thousands of miles from the battlefield. Charlie D'Agata reports.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/house-ethics-investigation-jimmy-gomez-sexual-misconduct/"
+          "url": "https://www.cbsnews.com/video/ukraine-sinks-russian-warships-thousands-miles-battlefield-libya/"
+        },
+        {
+          "headline": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+          "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\" (Image credit: Heather Diehl)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
         },
         {
           "headline": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
           "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
-        },
-        {
-          "headline": "After midterm losses, Republicans debate what's next for the party",
-          "summary": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party"
         },
         {
           "headline": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
@@ -817,16 +817,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Where are the Oklahoma Sooners on USA TODAY Sports' new 1-138 list?",
-          "summary": "After defeating the Texas A&M Aggies 28-7 on Saturday , the Oklahoma Sooners are now 7-4 overall and 5-3 in SEC play. The 21-point win in the home finale in Norman ensures the OU will finish with a winning record in both overall play and SEC play for the 2026 season.",
+          "headline": "The full analysis of Chivas' commanding win over Cruz Azul",
+          "summary": "Guadalajara capped off the Apertura 2026 regular season with a statement win. The 1-0 victory over Cruz Azul on Matchday 17 showcased the competitiveness, solidity and tactical versatility that have defined Gabriel Milito’s team, who made home advantage count to secure top spot and head into the playoffs full of confidence.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/where-oklahoma-sooners-usa-today-010055304.html"
-        },
-        {
-          "headline": "Chandler leads charge in 2nd half as No. 19 BYU rallies past Washington 83-77 at Maui Invitational",
-          "summary": "LAHINA, Hawaii (AP) — Collin Chandler scored 21 of his game-high 24 points in the second half and No. 19 BYU held off Washington 83-77 Monday on the opening day of the Maui Invitational.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/chandler-leads-charge-2nd-half-005838214.html"
+          "url": "https://sports.yahoo.com/articles/full-analysis-chivas-commanding-win-011100074.html"
         },
         {
           "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
@@ -845,6 +839,12 @@
           "summary": "Isaac Tavares and Jalyke Gaines-Wyatt both scored 17 points as Southern Mississippi beat Valparaiso 99-89",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/isaac-tavares-jalyke-gaines-wyatt-lead-southern-miss-138367769"
+        },
+        {
+          "headline": "Commanders LB K'Lavon Chaisson brings down Joe Burrow late vs Bengals",
+          "summary": "Washington Commanders linebacker K'Lavon Chaisson brought Cincinnati Bengals quarterback Joe Burrow to the turf well after Burrow released a pass during the first quarter of the team's NFL Week 11 game against the Cincinnati Bengals at Northwest Stadium on ESPN's Monday Night Football. Bengals offensive lineman Dylan Fairchild reacted by shoving Chaisson.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/commanders-lb-klavon-chaisson-brings-013644351.html"
         }
       ]
     },
@@ -889,22 +889,22 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Ariana Grande Teases ‘Eternal Sunshine Tour’ Project At Peacock",
-          "summary": "Ariana Grande is teasing a Peacock project centered on her Eternal Sunshine Tour that could be a documentary or concert film. A clip of the singer was posted on social media from her tour, showing her standing in the middle of the stage and singing “Eternal Sunshine.” As the clip fades to black, text on […]",
+          "headline": "‘I’m A Celebrity’s AJ Odudu Gets Support From ‘BBUK’ Co-Host Will Best & More Stars Amid Microaggressions On ITV Reality Series",
+          "summary": "AJ Odudu is receiving support from celebrity friends amid microaggressions on ITV’s I’m a Celebrity… Get Me Out of Here. A clip from the competition series has gone viral on social media, which shows Odudu and Mariella Frostrup in a tense moment.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/ariana-grande-eternal-sunshine-tour-project-peacock-1237232061/"
+          "url": "https://deadline.com/2026/11/im-a-celebrity-aj-odudu-support-microaggressions-itv-reality-1237232114/"
+        },
+        {
+          "headline": "‘Only Murders In The Building’ Returning To New York For Likely Season 7",
+          "summary": "A new murder mystery sent the characters from Hulu’s Only Murders in the Building to London for Season 6, and it’s where the show hosted its premiere this evening, with the cast, producers, and creatives teasing what’s ahead. The series will premiere on December 8 via Hulu and on Disney+ internationally.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/only-murders-in-the-building-new-york-return-season-7-1237231938/"
         },
         {
           "headline": "Zosia Mamet Slams ‘Mad Men’ Boss Matthew Weiner as ‘Horrible’ Because He ‘Rules With Fear’: ‘He Dressed Me Down for 45 Minutes’",
           "summary": "Zosia Mamet recently revealed that her “absolutely horrible” experience working with showrunner and producer Matthew Weiner on the set of “Mad Men” caused her to quit the series after just five episodes. “All the other actors were wonderful, but he really was like the Catholic Church back in the day, like that bro rules with […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/zosia-mamet-mad-men-matthew-weiner-1236956628/"
-        },
-        {
-          "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
-          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s Chief Content Office. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
         },
         {
           "headline": "Even Sienna Miller Was Surprised by That ‘War’ Ending",
@@ -925,6 +925,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
+          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s Chief Content Office. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
+        },
+        {
           "headline": "Bela Bajaria Calls Time at Netflix a “Fun Chapter” as She Teases Rest and “Conversations” in First Remarks on Exit",
           "summary": "The former chief content officer at the streaming service was ousted last month, with Peter Rice taking over her role.",
           "source": "The Hollywood Reporter",
@@ -941,12 +947,6 @@
           "summary": "The buyouts across Skydance have impacted CBS’ station group, with a number of staffers taking the package, including a main anchor at the network’s Chicago outlet. Joe Donlon, co-anchor of CBS 2 Chicago’s 5, 6 and 10 p.m.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/cbs-buyouts-local-stations-skydance-1237231967/"
-        },
-        {
-          "headline": "Reliant Talent Adds Jason Zenowich, Kyle Levinson, Rick Ferrell & Michelle Romeo As Agents",
-          "summary": "EXCLUSIVE: Reliant Talent Agency has added four new agents across their talent, touring and corporate departments. On the talent theatrical side, the company has hired veteran talent agent Jason Zenowich who has worked at ICM, A3 and most recently the Kohner Agency.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/reliant-talent-agency-jason-zenowich-kyle-levinson-rick-ferrell-michelle-romeo-1237231857/"
         },
         {
           "headline": "Paul W. Downs, Jen Statsky and Lucia Aniello to Earn Commitment to California Award at Hollywood Chamber of Commerce’s 2026 Entertainment Industry Conference",
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-23T20:17:58-05:00"
+  "updatedAt": "2026-11-23T20:47:39-05:00"
 }
