@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Nasdaq gains 6.5% after Huang reinstated as Nvidia CEO",
+          "summary": "The Nasdaq Composite closed 6.5% higher, erasing all of its losses from Friday, when the index suffered its second-worst day of 2026.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/"
+        },
+        {
+          "headline": "Benefits review to suggest quicker payment for some disabled people",
+          "summary": "The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Chris Mason: Can Burnham turn volume down on EU debate?",
           "summary": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
           "source": "BBC News",
@@ -52,18 +64,6 @@
           "summary": "The DNC has announced a plan to hold 12 presidential primary debates, five next year, and seven in 2028. Democratic strategist Joel Payne and Republican strategist Kevin Sheridan join \"The Takeout\" to discuss.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/democrats-announce-12-presidential-primary-debates/"
-        },
-        {
-          "headline": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-          "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Appeals court clears way for Army to detonate Iowa explosives",
-          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
           "headline": "Trump granted new chance to potentially erase his hush money case",
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125035817781325840",
+          "created_at": "2026-11-24T01:16:34.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "An Amazon delivery drone crashed into a garage in Huntington Woods, Michigan, after successfully dropping off a customer’s shampoo order.\n\nAmazon customer Jim Brennan said he was surprised when he received a notification that his shampoo was just seven minutes away — and would be",
+          "url": "https://x.com/RealAmVoice/status/2125035817781325840",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125032091129639108",
+          "created_at": "2026-11-24T01:01:46.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Join us for the Live From Studio 6B show! Tune in M-F at 8PM ET. @lfs6b @damonroberts @paul_eggsNolan @slickricksports @KDJRadioShow\n https://t.co/lQuzDPIGYu",
+          "url": "https://x.com/RealAmVoice/status/2125032091129639108",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125031766058541540",
+          "created_at": "2026-11-24T01:00:28.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "WORLD WAR 3, NATO Calls EMERGENCY Meeting, Germany Says PEACE IS OVER https://t.co/a363fhHMhD",
+          "url": "https://x.com/Timcast/status/2125031766058541540",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125031702963925437",
+          "created_at": "2026-11-24T01:00:13.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Treasury Secretary Scott Bessent says Nvidia has \"near unlimited demand\" for its chips and blames the sell-off on the election, the AI buildout fight and a hawkish Fed\n\n\"Nvidia continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide\" https://t.co/H7Ndi5Z9MZ",
+          "url": "https://x.com/_Investinq/status/2125031702963925437",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125030387697307731",
+          "created_at": "2026-11-24T00:55:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUMP PERSONALLY PUSHED TO BRING JENSEN HUANG BACK — AND WALL STREET EXPLODED\n\n@ReporterMcCabe says President Trump personally backed Jensen Huang’s return to Nvidia, even getting on speakerphone with the board to make his position clear.\n\n“The president was on speaker actually https://t.co/lhuLmkpHVP",
+          "url": "https://x.com/RealAmVoice/status/2125030387697307731",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125025380633559361",
           "created_at": "2026-11-24T00:35:06.000Z",
@@ -119,16 +169,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125020321262473279",
-          "created_at": "2026-11-24T00:15:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Meanwhile, in NYC, the richest city in the world…\n\nRats are taking over the subway. https://t.co/fczYI93k69",
-          "url": "https://x.com/RealAmVoice/status/2125020321262473279",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125019090389790947",
           "created_at": "2026-11-24T00:10:06.000Z",
           "author_name": "StockMarket.News",
@@ -147,26 +187,6 @@
           "url": "https://x.com/Osint613/status/2125018917416620358",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125016532225040588",
-          "created_at": "2026-11-23T23:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "HUANG REINSTATED AS NVIDIA CEO, TRUMP SLAMS NEWSOM DEATH ROW PLAN | STINCHFIELD TONIGHT https://t.co/RVX1CM8pDA",
-          "url": "https://x.com/RealAmVoice/status/2125016532225040588",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125014896240705664",
-          "created_at": "2026-11-23T23:53:26.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NIGERIA’S CHRISTIAN MASSACRE: “WE NEED INTERVENTION NOW”\n\n@juddsaul says the U.S. now knows exactly who is driving much of the violence in Nigeria’s Middle Belt — and says it’s time for action, not more hearings.\n\n“The talk needs to stop. The hearings need to stop.”\n\nHe says https://t.co/Jh1ZgY5Fwt",
-          "url": "https://x.com/RealAmVoice/status/2125014896240705664",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125014596087865399",
@@ -305,16 +325,6 @@
           "author_handle": "LauraLoomer",
           "text": "Personally, I think pretending like Jensen Huang was a victim of a honeypot is being very generous. \n\nI tend to believe there’s no such thing as Nvidia chips “accidentally” being smuggled into China and I have a feeling this is going to come back to be a major scandal for the",
           "url": "https://x.com/LauraLoomer/status/2125000862208598267",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124997741348872438",
-          "created_at": "2026-11-23T22:45:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Yale's Jeffrey Sonnenfeld says Nvidia's board should completely resign after reinstating Jensen Huang at the White House's urging\n\n\"This is a tremendous degradation of national security\"\n\n\"That if anything, that's Maoist corporate statism\"\n\n\"In this case, they had $1.6 trillion https://t.co/2QaQvU5QBJ",
-          "url": "https://x.com/_Investinq/status/2124997741348872438",
           "verified": true,
           "verified_type": "blue"
         },
@@ -629,16 +639,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124903366551912632",
-          "created_at": "2026-11-23T16:30:16.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "18 hours ago\n\nHow does the man do it https://t.co/QJzpUdK1va",
-          "url": "https://x.com/Timcast/status/2124903366551912632",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124877835466932598",
           "created_at": "2026-11-23T14:48:48.000Z",
           "author_name": "SightBringer",
@@ -745,10 +745,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump tells Army to halt detonation for now in Iowa this week",
-          "summary": "President Trump said he will wait for the courts and Iowa Gov.-elect Rob Sand to agree with the Army's plan.",
+          "headline": "Appeals court clears way for Army to detonate Iowa explosives",
+          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/"
+          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
           "headline": "Rep. Jimmy Gomez resigning after panel finds evidence of misconduct",
@@ -781,10 +781,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-          "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+          "headline": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+          "summary": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+          "url": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html"
+        },
+        {
+          "headline": "Batmobile stalls at auction by failing to meet the seller's minimum price",
+          "summary": "The Batmobile hit a roadblock at auction when a $3.25 million bid wasn’t enough to buy it",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/buying-batmans-ride-bruce-wayne-budget-1992-batmobile-138369029"
         },
         {
           "headline": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
@@ -799,12 +805,6 @@
           "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well"
         },
         {
-          "headline": "Batmobile stalls at auction by failing to meet the seller's minimum price",
-          "summary": "The Batmobile hit a roadblock at auction when a $3.25 million bid wasn’t enough to buy it",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/buying-batmans-ride-bruce-wayne-budget-1992-batmobile-138369029"
-        },
-        {
           "headline": "Small US trucking firms scramble to survive mounting diesel costs",
           "summary": "High diesel prices have put pressure on small U.S. trucking businesses",
           "source": "ABC News",
@@ -817,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "49ers’ Brock Purdy earns massive praise for blowout win over Vikings",
-          "summary": "Kirby Lee-Imagn Images 49ers’ Brock Purdy earns massive praise for blowout win over Vikings appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "Where are the Oklahoma Sooners on USA TODAY Sports' new 1-138 list?",
+          "summary": "After defeating the Texas A&M Aggies 28-7 on Saturday , the Oklahoma Sooners are now 7-4 overall and 5-3 in SEC play. The 21-point win in the home finale in Norman ensures the OU will finish with a winning record in both overall play and SEC play for the 2026 season.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/49ers-brock-purdy-earns-massive-004239152.html"
+          "url": "https://sports.yahoo.com/articles/where-oklahoma-sooners-usa-today-010055304.html"
         },
         {
-          "headline": "3 Massive Takeaways From A Thrilling Night Of Muay Thai Action At The Inner Circle 39",
-          "summary": "Bangkok’s Lumpinee Stadium lit up as The Inner Circle 39 delivered five electric Muay Thai wars, capped by two thunderous quarterfinal firefights that confirmed the final four of the blockbuster 2026-2027 ONE Flyweight Muay Thai World Grand Prix . The card streamed exclusively for members at live.onefc.com in Asia primetime on Friday, November 20, and…",
+          "headline": "Chandler leads charge in 2nd half as No. 19 BYU rallies past Washington 83-77 at Maui Invitational",
+          "summary": "LAHINA, Hawaii (AP) — Collin Chandler scored 21 of his game-high 24 points in the second half and No. 19 BYU held off Washington 83-77 Monday on the opening day of the Maui Invitational.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/3-massive-takeaways-thrilling-night-003233560.html"
+          "url": "https://sports.yahoo.com/articles/chandler-leads-charge-2nd-half-005838214.html"
         },
         {
-          "headline": "Giants intercept Trevor Lawrence twice and hold on to beat the Jaguars 23-18",
-          "summary": "J",
+          "headline": "Brock Purdy carves up the Vikings' D with 3 TD passes in the 49ers' 35-10 win in Mexico City",
+          "summary": "Brock Purdy carved up the NFL’s stingiest defense with three touchdown passes in the first half and the San Francisco 49ers beat the Minnesota Vikings 35-10 in a matchup of NFC powerhouses",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/giants-intercept-trevor-lawrence-hold-beat-jaguars-23-138366280"
+          "url": "https://abcnews.com/Sports/wireStory/brock-purdy-carves-vikings-3-td-passes-49ers-138368566"
         },
         {
-          "headline": "No. 7 UCLA breezes past Delaware 85-48 to stay unbeaten",
-          "summary": "Filip Jovic came off the bench to score 17 points in 19 minutes, and No. 7 UCLA rolled to an 85-48 victory over Delaware on Sunday",
+          "headline": "Wizards rout the Magic 116-96 to win their 3rd straight following an 8-game skid",
+          "summary": "Kyshawn George scored 24 points and Anthony Davis added 22 to lead the Washington Wizards to their third straight victory, 116-96 over the Orlando Magic",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/7-ucla-breezes-past-delaware-85-48-stay-138367319"
+          "url": "https://abcnews.com/Sports/wireStory/wizards-rout-magic-116-96-win-3rd-straight-138367591"
         },
         {
-          "headline": "Woolfolk scores 25, Blakes 24 and No. 12 Vanderbilt women roll past Arizona 93-62 in Jacksonville",
-          "summary": "JACKSONVILLE, Fla. (AP) — Mia Woolfolk scored 25 points, Mikayla Blakes added 24 and No.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/woolfolk-scores-25-blakes-24-001212978.html"
+          "headline": "Isaac Tavares, Jalyke Gaines-Wyatt lead Southern Miss to 99-89 victory over Valparaiso",
+          "summary": "Isaac Tavares and Jalyke Gaines-Wyatt both scored 17 points as Southern Mississippi beat Valparaiso 99-89",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/isaac-tavares-jalyke-gaines-wyatt-lead-southern-miss-138367769"
         }
       ]
     },
@@ -852,6 +852,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "LA Skins Fest Concludes 20th Year Celebrating Indigenous Artists",
+          "summary": "The 20th annual LA Skins Fest concluded on Sunday following the five-day celebration of Native American cinema and special screenings at the TCL Chinese Theatre. Since its founding, the festival has become a platform for Indigenous filmmakers to showcase their work, connect with entertainment industry professionals and reach new audiences.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/la-skins-fest-20-years-1236956545/"
+        },
         {
           "headline": "New ‘Hunger Games’ Movie on the Way? Lionsgate Film Chief Shares Latest on Franchise’s Future",
           "summary": "Adam Fogelson tells The Hollywood Reporter that his team hopes to connect soon with author Suzanne Collins about a new project: \"I will sit patiently and wait for that phone call.\"",
@@ -863,12 +869,6 @@
           "summary": "“Michael” director Antoine Fuqua has been accused of assault, battery and intentional infliction of emotional distress by a Los Angeles bar manager following an incident back in February during which Fuqua allegedly pulled a gun on and struck the employee in the head. In a 10-page civil claim filed Friday in the Los Angeles Superior […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/michael-director-antoine-fuqua-sued-assault-battery-1236956526/"
-        },
-        {
-          "headline": "Sanaa Lathan and Terence Blanchard Join Sundance Winner ‘Jazz Infernal’ as Executive Producers (EXCLUSIVE)",
-          "summary": "It’s a “Love and Basketball” reunion! Sanaa Lathan, who starred in the 2000 film, and Terence Blanchard, who composed the score, have teamed up on Will Niava’s short film “Jazz Infernal” as executive producers.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/sanaa-lathan-terence-blanchard-jazz-infernal-ep-1236956490/"
         },
         {
           "headline": "David Greaves Says ‘Once Upon a Time in Harlem’ Is “An Act of Resistance” Against Efforts to Erase Black History",
@@ -889,8 +889,20 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Ariana Grande Teases ‘Eternal Sunshine Tour’ Project At Peacock",
+          "summary": "Ariana Grande is teasing a Peacock project centered on her Eternal Sunshine Tour that could be a documentary or concert film. A clip of the singer was posted on social media from her tour, showing her standing in the middle of the stage and singing “Eternal Sunshine.” As the clip fades to black, text on […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ariana-grande-eternal-sunshine-tour-project-peacock-1237232061/"
+        },
+        {
+          "headline": "Zosia Mamet Slams ‘Mad Men’ Boss Matthew Weiner as ‘Horrible’ Because He ‘Rules With Fear’: ‘He Dressed Me Down for 45 Minutes’",
+          "summary": "Zosia Mamet recently revealed that her “absolutely horrible” experience working with showrunner and producer Matthew Weiner on the set of “Mad Men” caused her to quit the series after just five episodes. “All the other actors were wonderful, but he really was like the Catholic Church back in the day, like that bro rules with […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/zosia-mamet-mad-men-matthew-weiner-1236956628/"
+        },
+        {
           "headline": "Bela Bajaria Says Her Phone Has Been Ringing Since Netflix Exit, But “I’m Not Really A ‘Just Do The Exact Same Thing’ Kind Of Person”",
-          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s content chief. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
+          "summary": "Bela Bajaria told Deadline her phone has been ringing since she was ousted last month as Netflix’s Chief Content Office. “I’ve received a lot of support,” she said in New York on Monday shortly before accepting the Founders Award at the International Emmys, in her first public comments since leaving Netflix in October.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/netflix-bela-bajaria-emmys-streaming-executive-1237231936/"
         },
@@ -901,22 +913,10 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-features/war-finale-sienna-miller-tabloid-culture-interview-1236761361/"
         },
         {
-          "headline": "‘The Odyssey’, ‘Widow’s Bay’ Among Top Nominees For AARP’s Movies & TV For Grownups Awards",
-          "summary": "The Odyssey, Wild Horse Nine, The Invite, Being Heumann, and Tender Loving Care are the top nominees for Best Movie For Grownups in today’s announcement of this year’s contenders for the upcoming Movies & TV for Grownups Awards. Tom Cruise, John Malkovich, Matt Damon, Andrew Scott, and John Turturro make up the list for Best […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-odyssey-widows-bay-aarp-movies-tv-for-grownups-awards-1237231926/"
-        },
-        {
           "headline": "Amanda Seyfried, Robert De Niro and Timothee Chalamet to Host ‘SNL’ in December",
           "summary": "Here are all of season 52's hosts and musical guests.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508/"
-        },
-        {
-          "headline": "Macy Gray to Release Next Album Inside a Microdrama, Partnering With Vertical Platform ReelShort (EXCLUSIVE)",
-          "summary": "In what vertical series platform ReelShort is billing as the first of its kind, recording artist Macy Gray plans to release her new album via an original scripted microdrama. The vertical series, titled “The Trouble With the Truth,” will star Gray and feature songs from her next album.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/macy-gray-microdrama-album-reelshort-1236956213/"
         }
       ]
     },
@@ -961,6 +961,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Bob Seger and the Silver Bullet Band Bassist Chris Campbell Dead at 78",
+          "summary": "He spent 50 years playing alongside Seger and appears on \"Turn the Page,\" \"Night Moves,\" \"Rock and Roll Never Forgets,\" \"Still the Same,\" \"Hollywood Nights,\" and \"Against the Wind\"",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/bob-seger-silver-bullet-band-bassist-chris-campbell-dead-1235662929/"
+        },
+        {
           "headline": "See the Sasha & Digweed Poster That Sold for $21,500 at Auction",
           "summary": "A recent auction of items related to Sasha & Digweed ‘s seminal 1996 mix album Northern Exposure included one lot that fetched far more than the rest. Entering the auction directly from Digweed’s personal archives, a poster advertising the duo’s 1994 debut mix album Renaissance: The Mix Collection received a winning bid of $21,500.",
           "source": "Billboard",
@@ -983,15 +989,9 @@
           "summary": "It runs nearly every single night from January to April",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/adela-announces-2027-world-tour/"
-        },
-        {
-          "headline": "Discursive Verses: Can a trap revivalist resolve Atlanta street rap's authenticity crisis?",
-          "summary": "has struggled internally, he's come to epitomize a scene battling back against questions of authenticity.'/> NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: Belly Gang Kushington epitomizes an ongoing battle in the city's local scene.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/23/nx-s1-6050993/discursive-verses-belly-gang-kushington-atlanta-street-rap"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-23T19:49:08-05:00"
+  "updatedAt": "2026-11-23T20:17:58-05:00"
 }
