@@ -6,16 +6,16 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
-        },
-        {
           "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
           "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
+          "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
         },
         {
           "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Why are investors freaking out even as the U.S. economy surges?",
-          "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
-        },
-        {
-          "headline": "Vance says Nvidia's Huang isn't under investigation; doesn't need a pardon",
-          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
-        },
-        {
-          "headline": "MP calls for action after her likeness used for AI porn deepfakes",
-          "summary": "Mims Davies urged people to report any incidents so that “culprits can be held to account”.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
           "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
-          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
+          "headline": "Judge blocks latest Trump effort to restrict birthright citizenship",
+          "summary": "The judge granted a request for a preliminary injunction blocking the EO.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+          "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
+        },
+        {
+          "headline": "More than 490,000 Russian soldiers have died in Ukraine war, leaked data suggests",
+          "summary": "More than 490,000 Russian soldiers have died since Russia invaded Ukraine in February 2022, according to leaked Russian government data analyzed by CBS News partner network BBC News. CBS News' Aidan Stretch has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/more-than-490000-russian-soldiers-have-died-in-ukraine-war-leaked-data-suggests/"
+        },
+        {
+          "headline": "Trump admin proposes new tariffs on China, EU and 12 other trading partners",
+          "summary": "A senior admin official said the countries were informed of proposed tariffs.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-admin-proposes-new-tariffs-china-eu-12/story?id=138442698"
+        },
+        {
+          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         }
       ]
     },
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125692395690094694",
+          "created_at": "2026-11-25T20:45:35.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CNN WANTED CHAOS IN IOWA: POTUS FIRES BACK\n\nhttps://t.co/GJzMptTm0q",
+          "url": "https://x.com/RealAmVoice/status/2125692395690094694",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125691671623110905",
+          "created_at": "2026-11-25T20:42:42.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "HUH?! https://t.co/dIWzde4zqf",
+          "url": "https://x.com/Outkick/status/2125691671623110905",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125690742635221165",
+          "created_at": "2026-11-25T20:39:01.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Thanksgiving feels a little different this year. It’s kind of hard to focus on prepping a turkey when doomsday could strike at any moment. \n\nBut your oven’s still working. You have water for the incoming piles of dishes. And you’ve probably already done the shopping, right? https://t.co/C8pIR80mw0",
+          "url": "https://x.com/glennbeck/status/2125690742635221165",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125686934089650459",
+          "created_at": "2026-11-25T20:23:53.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Kushner on Europe:\n\n\"The Europeans ask a lot of America. But when it came to the Iranian situation, I think they definitely did not impress.\"",
+          "url": "https://x.com/Osint613/status/2125686934089650459",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125686323818180737",
+          "created_at": "2026-11-25T20:21:27.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Gold has rarely been this oversold:\n\nGold prices are trading -20% below their 200-day moving average, their largest negative deviation since June 2013.\n\nThis marks a sharp reversal from the +45% deviation above the 200-day moving average recorded in January, the largest since the https://t.co/azfgCw8xq1",
+          "url": "https://x.com/KobeissiLetter/status/2125686323818180737",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125686286090694878",
+          "created_at": "2026-11-25T20:21:18.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jared Kushner on Ukraine War:\n\nWe are not going to decide anything without agreement with Europe and without agreement of Ukraine.",
+          "url": "https://x.com/Osint613/status/2125686286090694878",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125685982494331266",
+          "created_at": "2026-11-25T20:20:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "FedWatch Advisors founder Ben Emons says stocks \"may go back to the lows of April\" and his math puts the SOX collapse at 17 Fed hikes of tightening\n\n\"We're in the downtrend\"\n\n\"The outlook itself for chips and AI is becoming a bit more cloudy\"\n\n\"This is how much the market has https://t.co/bfIRb2iK39",
+          "url": "https://x.com/_Investinq/status/2125685982494331266",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125685797936656845",
+          "created_at": "2026-11-25T20:19:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "DEADLY OIL TANKER EXPLOSION IN CAIRO, EGYPT\n\nA fuel tanker has overturned, reportedly killing at least 30 invididuals. The fire has spread to the nearby area.\n\nhttps://t.co/LU98rryAl5",
+          "url": "https://x.com/RealAmVoice/status/2125685797936656845",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125685018332893273",
+          "created_at": "2026-11-25T20:16:16.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Private equity is heading toward a forced repricing of ownership, and the people who ultimately acquire these companies won't necessarily have to outbid their current owners. \n\nThey'll have to outlast them.\n\nA private equity firm can carry a company at a $1 billion valuation https://t.co/2nMYK8VQt9",
+          "url": "https://x.com/_The_Prophet__/status/2125685018332893273",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125684962741690446",
+          "created_at": "2026-11-25T20:16:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "IOWA 💪🇺🇸\n\nhttps://t.co/sO3VhkkXn1",
+          "url": "https://x.com/RealAmVoice/status/2125684962741690446",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125684210048393353",
           "created_at": "2026-11-25T20:13:03.000Z",
@@ -125,16 +225,6 @@
           "author_handle": "Outkick",
           "text": "Aaron Rodgers gets benched and immediately starts airing out the Steelers' dirty laundry. 😬\n\n@craigcartonlive says it's ALWAYS been about Aaron Rodgers and this year is NO DIFFERENT https://t.co/hcdD6nzVHv",
           "url": "https://x.com/Outkick/status/2125682400625868990",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125680909030690910",
-          "created_at": "2026-11-25T19:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICA'S VOICE LIVE WITH STEVE GRUBER https://t.co/IGTMkuGJ4b",
-          "url": "https://x.com/RealAmVoice/status/2125680909030690910",
           "verified": true,
           "verified_type": "business"
         },
@@ -199,52 +289,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125678219672400095",
-          "created_at": "2026-11-25T19:49:15.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Pacifica Pier in California lost a section to a massive wave.\n\nKing tides are at their peak, sending powerful surf into the state's coastline. https://t.co/ebU2F4PNxB",
-          "url": "https://x.com/Osint613/status/2125678219672400095",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125676694123991340",
-          "created_at": "2026-11-25T19:43:11.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Debris from an intercepted drone caused no civilian casualties near Jeddah port, according to the Saudi-led coalition. The drone was launched by Yemen's Houthis and was destroyed, the coalition added. https://t.co/LaqgjkZVOe",
-          "url": "https://x.com/Osint613/status/2125676694123991340",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125676029658419572",
-          "created_at": "2026-11-25T19:40:33.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NOW: OBAMA APPOINTED JUDGE BLOCKS POTUS' BIRTHRIGHT CITIZENSHIP EO\n\nJudge Cooper has declared President Trump's second anti-birthright citizenship EO UNCONSTITUTIONAL. \n\nThis means parents linked to terror groups or gangs can circumvent the system again and obtain citizenship for",
-          "url": "https://x.com/RealAmVoice/status/2125676029658419572",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125672742641172613",
           "created_at": "2026-11-25T19:27:29.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "We know a team in New England that could use Aaron Rodger’s reallll bad",
           "url": "https://x.com/Outkick/status/2125672742641172613",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125672561237500371",
-          "created_at": "2026-11-25T19:26:46.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WOW! GEORGIA RESIDENTS SPEAK OUT AGAINST ISLAMIC CENTER EXPANSION\n\n\"The so-called religion of islam is not compatible with our nation nor our community's historic beliefs and values...\"\n\nhttps://t.co/e6H8dNnuve",
-          "url": "https://x.com/RealAmVoice/status/2125672561237500371",
           "verified": true,
           "verified_type": "business"
         },
@@ -265,16 +315,6 @@
           "author_handle": "KobeissiLetter",
           "text": "“In the US, one out of every five dollars the US government makes is going toward interest expense. On our current fiscal path, there is a 100% chance of bankruptcy. Something must change.” - @TKL_Adam at @WebSummit https://t.co/Pvu2U6XAWR",
           "url": "https://x.com/KobeissiLetter/status/2125670879979778245",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125670378903331220",
-          "created_at": "2026-11-25T19:18:06.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Mike McCarthy watching Aaron Rodgers go scorched earth on him https://t.co/75wauojaHP",
-          "url": "https://x.com/Outkick/status/2125670378903331220",
           "verified": true,
           "verified_type": "business"
         },
@@ -409,16 +449,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125639719564333126",
-          "created_at": "2026-11-25T17:16:16.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says the US stock market is “down sharply” because he wasn’t on the ballot for the US Midterm Elections. https://t.co/DIJQSV7sJQ",
-          "url": "https://x.com/KobeissiLetter/status/2125639719564333126",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125637438710153247",
           "created_at": "2026-11-25T17:07:12.000Z",
           "author_name": "SpaceX",
@@ -485,16 +515,6 @@
           "author_handle": "_Investinq",
           "text": "The Nasdaq 100 just touched bear market territory and wiped out its entire 2026 gain\n\nThe index fell as much as 20.0% from its Oct 6 record close of 31,224 today, hitting an intraday low of 24,978\n\nIt's down 4.3% on the day and now sits below its 2025 close, while the Nasdaq https://t.co/yZzUFx85yK",
           "url": "https://x.com/_Investinq/status/2125628907537973749",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125628359166120370",
-          "created_at": "2026-11-25T16:31:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Either there has been some serious manipulation surrounding this entire situation or something seems really fishy here.\n\nWe went from Jensen Huang resigning over national security concerns, to Nvidia's board insisting he wouldn't be reinstated, to the government stepping in to https://t.co/NBrFPUaJL3 https://t.co/VODSvrLnRG",
-          "url": "https://x.com/_Investinq/status/2125628359166120370",
           "verified": true,
           "verified_type": "blue"
         },
@@ -679,16 +699,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125416412781097142",
-          "created_at": "2026-11-25T02:28:55.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️AI is eroding one of the foundations of corporate power: the dependence of talented individuals on the organizations that employ them.\n\nEthan Mollick reports that teams of two or three people using AI are already doing the work of dozens, triggering management conflicts inside https://t.co/x12wNlKv81",
-          "url": "https://x.com/_The_Prophet__/status/2125416412781097142",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125342179216261600",
           "created_at": "2026-11-24T21:33:57.000Z",
           "author_name": "SpaceX",
@@ -697,16 +707,6 @@
           "url": "https://x.com/SpaceX/status/2125342179216261600",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125322490969047293",
-          "created_at": "2026-11-24T20:15:43.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "Take the combined public outrage from a thousand female public school teachers molesting young boys and it won’t equal even half of the outrage that for some reason the media directed at James Franco for having consensual sex with adult women in his acting class https://t.co/GCHZY5vo91",
-          "url": "https://x.com/MattWalshBlog/status/2125322490969047293",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125287542283206698",
@@ -747,16 +747,6 @@
           "url": "https://x.com/glennbeck/status/2124944485767668204",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124865035013128544",
-          "created_at": "2026-11-23T13:57:57.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/23/26 https://t.co/9pLw02glXq",
-          "url": "https://x.com/glennbeck/status/2124865035013128544",
-          "verified": true,
-          "verified_type": "blue"
         }
       ]
     },
@@ -765,10 +755,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
+          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
         },
         {
           "headline": "Group of Senate Democrats push to add freshman to leadership",
@@ -783,16 +773,16 @@
           "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
-          "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned. (Image credit: Samuel Corum)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
-        },
-        {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
           "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
+        },
+        {
+          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
+          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
         }
       ]
     },
@@ -801,16 +791,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-          "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+          "headline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+          "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+          "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
         },
         {
-          "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-          "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+          "headline": "We're buying more of a stock down big from its July highs",
+          "summary": "We're dipping into our large cash position as the market remains oversold.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html"
+        },
+        {
+          "headline": "Why are investors freaking out even as the U.S. economy surges?",
+          "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
         },
         {
           "headline": "Average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
@@ -823,12 +819,6 @@
           "summary": "Eurostar has canceled several trains between Paris and London due to an unannounced strike by some staff",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/eurostar-cancels-paris-london-trains-after-staff-unannounced-138434350"
-        },
-        {
-          "headline": "Buying new things feels wonderful. But it can also be a trap",
-          "summary": "Saying No to New , says that \"you do feel joy and excitement\" from buying new things initially — \"but science says those feelings can't last.\"'/> Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have. (Image credit: ㅤ)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle"
         }
       ]
     },
@@ -837,10 +827,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
-          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
+          "headline": "Most underrated NBA players, Nuggets-Mavs takeaways & Magic frustrations with Dave DuFour",
+          "summary": "Subscribe to The Kevin O'Connor Show Apple Podcasts | Spotify | YouTube Kevin O’Connor is joined by The Athletic’s Dave DuFour to dissect why Denver’s aging core, led by Nikola Jokic and Aaron Gordon, is raising alarm bells and what it means for their playoff hopes. Meanwhile, Minnesota’s league-leading defense powered by Rudy Gobert and Jaden McDaniels…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/article/most-underrated-nba-players-nuggets-mavs-takeaways--magic-frustrations-with-dave-dufour-204016807.html"
+        },
+        {
+          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
+          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
+          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
+        },
+        {
+          "headline": "Odih scores 15 off the bench, Fordham knocks off Mercy 104-56",
+          "summary": "Kelvin Odih’s 15 points off of the bench helped Fordham to a 104-56 victory over Mercy on Wednesday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/odih-scores-15-off-bench-fordham-knocks-off-138449856"
         },
         {
           "headline": "CFP chaos scenarios: Rivalry Week upsets could scramble Big Ten, SEC, Big 12 races",
@@ -849,22 +851,10 @@
           "url": "https://www.cbssports.com/college-football/news/cfp-chaos-scenarios-rivalry-week-big-ten-sec-big-12/"
         },
         {
-          "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
-          "summary": "USC-UCLA is one of two Rivalry Week games matching teams ranked in The Associated Press Top 25, topping a schedule full of intrigue as the race to secure spots in conference championship games and attempt to lock down College Football Playoff bids cont...",
+          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
+          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/college-football-week-13-usc-ucla-tops-schedule-138441044"
-        },
-        {
-          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
-          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
-        },
-        {
-          "headline": "Aaron Rodgers reveals Steelers teammate who told him he’d be inactive vs. Broncos",
-          "summary": "Mandatory Credit: Barry Reeger-Imagn Images Aaron Rodgers reveals Steelers teammate who told him he’d be inactive vs. Broncos appeared first on ClutchPoints .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/aaron-rodgers-reveals-steelers-teammate-200137247.html"
+          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
         }
       ]
     },
@@ -981,16 +971,16 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Lucy Vives, Sofia Monroy, OKAN, Moy Bobadilla & More Emerging Latin Artists on Our Radar",
-          "summary": "Every month, Billboard Latin and Billboard Español editors spotlight a group of rising artists whose music we love. Think “diamantes en bruto,” or “diamonds in the rough.” These are newcomers who have yet to impact the mainstream — but whose music excites us, and who we believe our readers should make a point to discover.",
+          "headline": "JO1’s ‘IGNITE’ Tops Japan Hot 100 as Hiromi Ohta’s 1975 Hit ‘Momen no Handkerchief’ Debuts",
+          "summary": "JO1 ‘s “IGNITE” soars to No. 1 on the Billboard Japan Hot 100 chart released Nov.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/on-the-radar-latin-emerging-artists-november-2026-1236389550/"
+          "url": "https://www.billboard.com/music/chart-beat/jo1-ignite-japan-hot-100-hiromi-ohta-momen-no-handkerchief-1236389887/"
         },
         {
-          "headline": "Billboard Hot Latin Songs Top 10 Countdown for Nov. 28, 2026 | Billboard Latin",
-          "summary": "“Te Estoy Correteando” rises and Fuerza Regida’s “Suzuki” continues to go higher, but will either song hit No. 1 on the Hot Latin Songs chart this week?",
+          "headline": "Publishing Briefs: Believe & GL Music Form JV, Gram Parsons to Be Administered by Peermusic",
+          "summary": "Believe Music Publishing and GL Music Entertainment have formed a joint venture, which sees Believe Music Publishing administering GL Music Entertainment’s catalog. GL Music Entertainment was founded by Kim Nowak-Zorde , Daniel Fält and Lasse Lindorff , who also all work as songwriters and producers.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-november-28-2026/"
+          "url": "https://www.billboard.com/lists/publishing-briefs-believe-music-publishing-gl-music-entertainment/"
         },
         {
           "headline": "Cardi B and Offset See Beverly Hills Mansion Lawsuit Dismissed After Settlement",
@@ -1013,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T15:15:13-05:00"
+  "updatedAt": "2026-11-25T15:48:27-05:00"
 }
