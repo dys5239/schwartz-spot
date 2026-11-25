@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Maps show how far lead dust from Iowa detonation could travel",
+          "summary": "Maps of the planned lead azide detonation in Middletown show the shaded area stretching from near Burlington toward Macon, Missouri, by noon Wednesday. The forecasts will change with the weather.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
+        },
+        {
+          "headline": "Iran developing chemical weapons, Israeli defense minister says",
+          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+        },
+        {
           "headline": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
           "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
           "source": "BBC News",
@@ -54,22 +66,10 @@
           "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
-          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
-        },
-        {
-          "headline": "China launches first foreign astronaut to its space station",
-          "summary": "China has launched the Shenzhou 24 spacecraft with three astronauts, sending the first foreign crew member to its space station.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/china-launches-shenzhou-24-spacecraft/"
-        },
-        {
-          "headline": "Plane carrying 6 people crashes off Mississippi coast, search ongoing: US Coast Guard",
-          "summary": "The Federal Aviation Administration said preliminarily that the Cessna 210 aircraft crashed around 3:30 p.m. local time southwest of Pascagoula, Mississippi.",
+          "headline": "Potential health effects of Army's detonation of nearly 5 tons of lead azide",
+          "summary": "The U.S. Army is planning a controlled detonation of explosive material at an ammunition plant in rural Iowa on Wednesday.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/plane-carrying-6-people-crashes-off-mississippi-coast/story?id=138427173"
+          "url": "https://abcnews.com/Health/potential-health-effects-armys-controlled-detonation-5-tons/story?id=138415656"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125418963270308124",
+          "created_at": "2026-11-25T02:39:03.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Just had my first @SouthwestAir flight with @Starlink. Holy crap. Absolutely phenomenal. Infinitely better than WiFi on Southwest has ever been before. I fly Southwest everywhere so the WiFi on their planes has often driven me insane. Phenomenal addition.",
+          "url": "https://x.com/ClayTravis/status/2125418963270308124",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125418571291578407",
+          "created_at": "2026-11-25T02:37:30.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Martha Firestone Ford, the longtime owner and chair of the Detroit Lions, has died at the age of 101, the team announced in a statement. https://t.co/pluV2gsJsC",
+          "url": "https://x.com/Osint613/status/2125418571291578407",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125416412781097142",
+          "created_at": "2026-11-25T02:28:55.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️AI is eroding one of the foundations of corporate power: the dependence of talented individuals on the organizations that employ them.\n\nEthan Mollick reports that teams of two or three people using AI are already doing the work of dozens, triggering management conflicts inside https://t.co/x12wNlKv81",
+          "url": "https://x.com/_The_Prophet__/status/2125416412781097142",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125415496371798064",
+          "created_at": "2026-11-25T02:25:17.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Kyle Bass says a $7.5 trillion stock market drop in one week just took about $400 billion out of consumer spending\n\n\"We had a seven and a half trillion dollar decline in our stock market in one week\"\n\n\"So we literally just took a hit to spending, call it $400 billion in a week on https://t.co/YqtNMzEbO5",
+          "url": "https://x.com/_Investinq/status/2125415496371798064",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125413280713789686",
+          "created_at": "2026-11-25T02:16:29.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Full breakdown 👇\nhttps://t.co/20lRbO05Vb",
+          "url": "https://x.com/Outkick/status/2125413280713789686",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125412710049341489",
           "created_at": "2026-11-25T02:14:12.000Z",
@@ -165,16 +215,6 @@
           "author_handle": "LauraLoomer",
           "text": "Just wait till you see who swears Abdul El-Sayed in on the Quran. \n\nWill be interesting to see the GOP reaction when this happens.",
           "url": "https://x.com/LauraLoomer/status/2125401966876495908",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125401490013786192",
-          "created_at": "2026-11-25T01:29:37.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "If #5 Tennessee loses to Vandy, I will turn my phone off. Because thousands of Tweets are coming. Maybe tens of thousands.",
-          "url": "https://x.com/ClayTravis/status/2125401490013786192",
           "verified": true,
           "verified_type": "blue"
         },
@@ -399,16 +439,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125355072108560449",
-          "created_at": "2026-11-24T22:25:11.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "CrowdStrike CEO George Kurtz says one open-source AI attack tool was turned on 200 organizations, and there are now more than 12,000 copies of it\n\n\"We found some of the controllers and they were literally running agents against 200 organizations\"\n\n\"They took it down, but of https://t.co/VRUVBZ4dET",
-          "url": "https://x.com/_Investinq/status/2125355072108560449",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125352934158606775",
           "created_at": "2026-11-24T22:16:41.000Z",
           "author_name": "Open Source Intel",
@@ -447,16 +477,6 @@
           "url": "https://x.com/SpaceX/status/2125342179216261600",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125341060276641804",
-          "created_at": "2026-11-24T21:29:30.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Gaza food content is out of control https://t.co/Knf3pKkGRQ",
-          "url": "https://x.com/Osint613/status/2125341060276641804",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125339758163636236",
@@ -619,16 +639,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125280925365964859",
-          "created_at": "2026-11-24T17:30:33.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Another World Cup is coming to America. 🇺🇸\n\nTrump announces the U.S. will host the 2031 FIFA Women's World Cup! https://t.co/7G73OMIRUC",
-          "url": "https://x.com/Outkick/status/2125280925365964859",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125263043244290435",
           "created_at": "2026-11-24T16:19:29.000Z",
           "author_name": "SpaceX",
@@ -719,16 +729,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125142527506583817",
-          "created_at": "2026-11-24T08:20:36.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️AI is acquiring an unusual recruitment advantage: even people terrified of the technology feel compelled to work on it.\n\nThis young man had interests in mathematics, cryptography, and quantitative trading. Now he’s abandoning graduate school and considering alignment because he https://t.co/LFCZrBw62p",
-          "url": "https://x.com/_The_Prophet__/status/2125142527506583817",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125008998915023099",
           "created_at": "2026-11-23T23:30:00.000Z",
           "author_name": "Glenn Beck",
@@ -765,16 +765,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Iran developing chemical weapons, Israeli defense minister says",
-          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
+          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
-          "headline": "Fort Hood shooter Nidal Hasan will petition to delay his execution",
-          "summary": "Nidal Hasan, the Army soldier who fatally shot 13 people in the attack at the Texas Army post in 2009, told a federal court Tuesday that he plans to file a petition to delay his execution by firing squad.",
+          "headline": "Stock market sees declines tied to bipartisan fury over Jensen Huang's reinstatement",
+          "summary": "One day after returning to Nvidia as CEO, a disgraced Jensen Huang apologized in a company town hall, according to The Wall Street Journal, telling staff that he's now in therapy. Weijia Jiang.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/"
+          "url": "https://www.cbsnews.com/video/stock-market-sees-declines-tied-bipartisan-fury-jensen-huangs-reinstatement/"
         },
         {
           "headline": "Moving to Florida may become a choice of some Republicans after midterms",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+          "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
+        },
+        {
           "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
           "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
-        },
-        {
-          "headline": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
-          "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
         },
         {
           "headline": "Shein to pay $100 million to settle claims it deceived customers",
@@ -837,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Koch leads balance Iowa attack to dismantle UMBC 87-48",
-          "summary": "IOWA CITY, Iowa (AP) — Cooper Koch scored 17 points and Trevin Jirak scored 15 points and Iowa nearly doubled-up UMBC for its second-straight win, beating the Retrievers 87-48 on Tuesday. Tate Sage added 14 points as the Hawkeyes (4-2) finished 33-of-52 shooting (63%), including 17 of 32 (53%) from 3-point range.",
+          "headline": "South Dakota State beats South Dakota to win Summit League volleyball title",
+          "summary": "BROOKINGS ― No. 2 South Dakota State took down No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/koch-leads-balance-iowa-attack-020743146.html"
+          "url": "https://sports.yahoo.com/college-sports/articles/south-dakota-state-beats-south-022603023.html"
         },
         {
-          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
-          "summary": "GAINESVILLE, Fla. (AP) — Rueben Chinyelu posted his first double-double of the season and made the first 3-pointer of his college career as No.",
+          "headline": "Ohio State vs Vanderbilt recap: Buckeyes drop heartbreaker at home",
+          "summary": "Well, that one is going to sting for a while. Ohio State led No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/rueben-chinyelu-comes-big-no-020436019.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/ohio-state-vs-vanderbilt-recap-022215671.html"
         },
         {
           "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
@@ -855,10 +855,10 @@
           "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
         },
         {
-          "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
-          "summary": "Jiri Lehecka has led the Czech Republic into the Davis Cup semifinals",
+          "headline": "Oregon State wins 87-73 against San Francisco",
+          "summary": "DeShawn Gory had 14 points in Oregon State’s 87-73 win over San Francisco",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/lehecka-lead-czechs-beat-canada-auger-aliassime-davis-138422175"
+          "url": "https://abcnews.com/Sports/wireStory/oregon-state-wins-87-73-san-francisco-138424787"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T21:15:29-05:00"
+  "updatedAt": "2026-11-24T21:40:42-05:00"
 }
