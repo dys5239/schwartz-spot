@@ -18,7 +18,7 @@
           "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
         },
         {
-          "headline": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
           "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
@@ -42,16 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Maps show Iowa lead dust plume possibly drifting into Missouri after Army detonation",
-          "summary": "Maps released by the Army Tuesday show a possible plume of toxic dust after its detonation of munitions in Iowa drifting southwest toward northeast Missouri between 9 a.m. and 5 p.m.",
+          "headline": "Iran denounces U.S. use of AI in war",
+          "summary": "Iran's U.N. envoy claims the U.S.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
-          "headline": "Kilmar Abrego Garcia releases statement after leaving U.S. for Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported by ICE last year, left the U.S. for Spain.",
+          "headline": "\"Narco sub\" seized in Atlantic but no drugs found on board",
+          "summary": "The operation was carried out in cooperation with the Colombian navy and the U.S. Joint Interagency Task Force South.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/kilmar-abrego-garcia-releases-statement-after-leaving-u-s-for-spain/"
+          "url": "https://www.cbsnews.com/news/narco-sub-intercepted-france-no-drugs-on-board/"
+        },
+        {
+          "headline": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
+          "summary": "The seesaw trading came amid a tumultuous stretch on Wall Street.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070"
         },
         {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
@@ -60,16 +66,10 @@
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-          "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Group of Senate Democrats push to add freshman to leadership",
-          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November. (Image credit: Chip Somodevilla/Getty Images)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
+          "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
+          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
         }
       ]
     },
@@ -79,32 +79,142 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125669066388209784",
+          "created_at": "2026-11-25T19:12:53.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Interesting https://t.co/vywPrUlXEc",
+          "url": "https://x.com/elonmusk/status/2125669066388209784",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125668991796699368",
+          "created_at": "2026-11-25T19:12:35.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "If this is all true, Aaron Rodgers just ended Mike McCarthy’s coaching career. Wow. If you have any bad news in sports, now’s a good time to drop it!  https://t.co/oghYnxwQjz",
+          "url": "https://x.com/ClayTravis/status/2125668991796699368",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125668941934784658",
+          "created_at": "2026-11-25T19:12:23.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump envoy Jared Kushner urged Netanyahu in an overnight call to advance humanitarian aid into Gaza before winter and move the multinational force into the Strip.\n\nNetanyahu agreed to push forward on aid and other Gaza plan issues.\n\nBoard of Peace official: \"The conversation was",
+          "url": "https://x.com/Osint613/status/2125668941934784658",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125668542200615181",
+          "created_at": "2026-11-25T19:10:48.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Brandon Aiyuk called his shot 😂 https://t.co/pVBrwF2fXx",
+          "url": "https://x.com/Outkick/status/2125668542200615181",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125668308925968455",
+          "created_at": "2026-11-25T19:09:52.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "\"DID YOU KNOW YOUR GOVERNMENT WAS DOING THIS?!\" USAID FILES RELEASED\n\n\"What exactly was our government up to for this entire time?\" @JackPosobiec lists the countless news outlets taking money from USAID...working as a SHELL. \"It is all out now...go read the USAID files.\" https://t.co/O8TZXrTwNw",
+          "url": "https://x.com/RealAmVoice/status/2125668308925968455",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125667762324541673",
+          "created_at": "2026-11-25T19:07:42.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "SpaceX Colossus 3 will greatly benefit the Arizona community https://t.co/l6KW6RkleF",
+          "url": "https://x.com/elonmusk/status/2125667762324541673",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125667384371360059",
+          "created_at": "2026-11-25T19:06:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Syria assisted in thwarting an Iranian smuggling operation, drawing thanks from the head of U.S. Central Command.\n\n\"Congratulations to our Syrian partners on their success in disrupting the smuggling of drugs and weapons,\" CENTCOM Commander Brad Cooper said. https://t.co/u1gT7vQ9br",
+          "url": "https://x.com/Osint613/status/2125667384371360059",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125665809473339761",
+          "created_at": "2026-11-25T18:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HUMAN EVENTS DAILY WITH JACK POSOBIEC https://t.co/dcB4SCyy7V",
+          "url": "https://x.com/RealAmVoice/status/2125665809473339761",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125664774918898074",
+          "created_at": "2026-11-25T18:55:49.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Yeahhh Aaron Rodgers don't give a f*ck anymore https://t.co/muJsEixqdQ",
+          "url": "https://x.com/Outkick/status/2125664774918898074",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125664648007684552",
+          "created_at": "2026-11-25T18:55:19.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "IOWA DETONATION: OBAMA ADMIN \"KICKED THE CAN DOWN THE ROAD\"\n\n\"We became aware that there really was no good option here, 6 months ago. Two options here: just let it sit there...detonate in an uncontrolled way or try to detonate it in a CONTROLLED way. We had to solve it.\" @VP https://t.co/I5wgWe9B7G",
+          "url": "https://x.com/RealAmVoice/status/2125664648007684552",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125664128849133695",
+          "created_at": "2026-11-25T18:53:15.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Fiona the Hippo's death has sparked outrage, a father survives a terrifying bear attack in Idaho, a Pakistani TikTok influencer is caught up in a deadly lion attack and cover-up, and a killer lioness is finally captured in India. @DannyGradio and I react on Animal Thunderdome.",
+          "url": "https://x.com/ClayTravis/status/2125664128849133695",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125663368333737994",
+          "created_at": "2026-11-25T18:50:14.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "It’s why we call it Pallywood. \n\nThe suffering in Gaza is fake and produced like everything in Hollywood. \n\nPallywood https://t.co/Ghna9fRiF3",
+          "url": "https://x.com/LauraLoomer/status/2125663368333737994",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125662760419901731",
+          "created_at": "2026-11-25T18:47:49.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "VP JOKES ON THANKSGIVING WITH FAMILY: \"EAT A LOT AND HOPEFULLY NOT DRINK TOO MUCH!\"\n\nHe said what many of us know to be true! 😂 https://t.co/xAJpIiFgPb",
+          "url": "https://x.com/RealAmVoice/status/2125662760419901731",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2125662060981997586",
           "created_at": "2026-11-25T18:45:02.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "VP ANSWERS THE QUESTION: HOW LONG DO AMERICANS HAVE TO WAIT TO SEE CHANGE...\n\n\"American families have every right to be impatient. We just have to work as hard as we can. There is A LOT to be proud of...but there is a lot work left to do.\" @VP https://t.co/gwf3aTiaHt",
           "url": "https://x.com/RealAmVoice/status/2125662060981997586",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125661085416268122",
-          "created_at": "2026-11-25T18:41:10.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@VP VANCE HAD \"AN AMAZING EXPERIENCE\" EATING LUNCH WITH THE TROOPS!\n\n\"These are great people...the core of Thanksgiving is to give thanks...to the people who keep us safe.\" https://t.co/3WELevRBQo",
-          "url": "https://x.com/RealAmVoice/status/2125661085416268122",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125660396023640361",
-          "created_at": "2026-11-25T18:38:25.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST IN: VP VANCE SAYS ASSURANCES WERE RECEIVED ON JENSEN HUANG\n\n\"I don't think he needs a pardon at all...no evidence he committed a crime. DOJ...[says] he is under NO investigation. Ultimately it was the boards decision.\" @VP https://t.co/KL9k33r9O1",
-          "url": "https://x.com/RealAmVoice/status/2125660396023640361",
           "verified": true,
           "verified_type": "business"
         },
@@ -147,46 +257,6 @@
           "url": "https://x.com/Osint613/status/2125657644132438447",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125657397343740364",
-          "created_at": "2026-11-25T18:26:30.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Eisenkot has told his partners he is forming a lean government with very few ministers. The move has left many Knesset members unhappy.\n\nEach partner will be offered only 3 to 4 portfolios, it emerged today.\n\nLiberman was the first to sign a coalition agreement. He received the",
-          "url": "https://x.com/Osint613/status/2125657397343740364",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125655091612877055",
-          "created_at": "2026-11-25T18:17:21.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iran will turn the White House into “dust” if Pickaxe Mountain, a heavily fortified underground nuclear facility near Natanz, is attacked, warned Iranian lawmaker Abbas Moghtadaei.",
-          "url": "https://x.com/Osint613/status/2125655091612877055",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125654751727780265",
-          "created_at": "2026-11-25T18:16:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICAN AIRLINES FLIGHT DIVERTED AS PASSENGER ATTEMPTS TO OPEN DOOR MID FLIGHT\n\nThankfully no one was hurt, thanks to the brave passengers that helped to apprehend the disgruntled man. \n\nThe flight was going from San Diego International Airport (SAN) to Chicago O'Hare",
-          "url": "https://x.com/RealAmVoice/status/2125654751727780265",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125652744757223665",
-          "created_at": "2026-11-25T18:08:01.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Why Do You Think Democrats Want To Bring Back USAID? 🤔",
-          "url": "https://x.com/RealAmVoice/status/2125652744757223665",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125649652917612803",
@@ -409,32 +479,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125605290376564765",
-          "created_at": "2026-11-25T14:59:27.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Hi @SecWar, \n\nHow is it that the Office of the Secretary of War awarded @Replit, the company founded by Muslim, Jordanian born immigrant Amjad Masad @amasad, a contract for $50,000 in 2026? \n\nAs you can see below, Amjad, who just met with Vice President @JDVance to discuss “AI https://t.co/soIgxMZRl4 https://t.co/NOcwaSW8TU",
-          "url": "https://x.com/LauraLoomer/status/2125605290376564765",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125602930891853975",
           "created_at": "2026-11-25T14:50:05.000Z",
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Everything You Need To Know About The Jensen Huang Scandal | Ep. 1879\n\nhttps://t.co/IU3BUL923Q",
           "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125600399361192224",
-          "created_at": "2026-11-25T14:40:01.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Crazy late night news. https://t.co/UC0wFwpiaZ",
-          "url": "https://x.com/ClayTravis/status/2125600399361192224",
           "verified": true,
           "verified_type": "blue"
         },
@@ -487,16 +537,6 @@
           "url": "https://x.com/Outkick/status/2125588054283030692",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125582957649776800",
-          "created_at": "2026-11-25T13:30:43.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "How in the world was this not a game winning touchdown catch?! They overruled this on instant replay?! Highway robbery.  https://t.co/v4SEHcJnEJ",
-          "url": "https://x.com/ClayTravis/status/2125582957649776800",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125580453562253755",
@@ -569,32 +609,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125516475712844116",
-          "created_at": "2026-11-25T09:06:32.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Grok is so much fun on Tesla road trips! https://t.co/blv92Ajncr",
-          "url": "https://x.com/elonmusk/status/2125516475712844116",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125465480840581570",
           "created_at": "2026-11-25T05:43:54.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️The most fascinating thing about this creature is what evolution discovered in the darkness.\n\nAt depths where sunlight cannot penetrate, the black seadevil carries its own source of light. But the purpose of that light is to make other creatures come to it.\n\nIn an environment https://t.co/GJpYZ57MLJ",
           "url": "https://x.com/_The_Prophet__/status/2125465480840581570",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125464682580623467",
-          "created_at": "2026-11-25T05:40:44.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Grok Bot can research the best Black Friday deals for you and confirm they’re authentic https://t.co/itRd8fazd9",
-          "url": "https://x.com/elonmusk/status/2125464682580623467",
           "verified": true,
           "verified_type": "blue"
         },
@@ -629,16 +649,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125412710049341489",
-          "created_at": "2026-11-25T02:14:12.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "For once, the CFP rankings actually make some sense. \n\nDid the committee get it right? https://t.co/Bq9d3WSsax",
-          "url": "https://x.com/Outkick/status/2125412710049341489",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125365384379301906",
           "created_at": "2026-11-24T23:06:09.000Z",
           "author_name": "Sport & State",
@@ -655,16 +665,6 @@
           "author_handle": "SpaceX",
           "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California https://t.co/Nhh8x9ndfO",
           "url": "https://x.com/SpaceX/status/2125342179216261600",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125334036650565865",
-          "created_at": "2026-11-24T21:01:35.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "“I think Brock makes all of us better.”\n\nKyle Juszczyk is tired of the narrative that Brock Purdy is just a product of Kyle Shanahan's system. https://t.co/IEDEhyzMq0",
-          "url": "https://x.com/Outkick/status/2125334036650565865",
           "verified": true,
           "verified_type": "business"
         },
@@ -741,6 +741,12 @@
           "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         },
         {
+          "headline": "Group of Senate Democrats push to add freshman to leadership",
+          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November. (Image credit: Chip Somodevilla/Getty Images)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
+        },
+        {
           "headline": "Trump administration to issue new tariffs on China, EU and others",
           "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
           "source": "CBS News",
@@ -757,12 +763,6 @@
           "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
-        },
-        {
-          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
-          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
         }
       ]
     },
@@ -771,16 +771,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-          "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
-        },
-        {
           "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-          "summary": "Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
+          "summary": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html"
+        },
+        {
+          "headline": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
+          "summary": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
         },
         {
           "headline": "Average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
@@ -807,34 +807,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
-          "summary": "USC-UCLA is one of two Rivalry Week games matching teams ranked in The Associated Press Top 25, topping a schedule full of intrigue as the race to secure spots in conference championship games and attempt to lock down College Football Playoff bids cont...",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/college-football-week-13-usc-ucla-tops-schedule-138441044"
-        },
-        {
-          "headline": "Baylor holds off No. 15 Alabama 68-63 in Las Vegas to snap 16-game skid against AP Top 25 opponents",
-          "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
-        },
-        {
-          "headline": "No. 22 Gonzaga routs Kansas State 101-61 in Players Era 16 first round",
-          "summary": "Gonzaga dominated Kansas State 101-61 in the opening round of the Players Era 16 tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/22-gonzaga-routs-kansas-state-101-61-players-138433328"
-        },
-        {
-          "headline": "As college sports world waits on SEC vs. LSU drama, Nate Oats and Jamie Dixon sound off on eligibility cases",
-          "summary": "Even out in Vegas, where there are huge games to play, the LSU vs. SEC battle continues to capture the attention of most",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/sec-vs-lsu-drama-nate-oats-jamie-dixon-eligibility-cases-will-wade-rj-luis/"
-        },
-        {
-          "headline": "Statistical Breakdown: How Bears and Lions stack up before Week 12",
-          "summary": "The Chicago Bears will battle the Detroit Lions on Thanksgiving, where Chicago is looking to win their sixth straight game, improve to 9-2 and take sole possession of first place in the NFC North. The Bears are coming off a 21-13 win over the New Orleans Saints , where the offense once against struggled while the defense carried the load.",
+          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
+          "summary": "ORLANDO, Fla. (AP) — Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/statistical-breakdown-bears-lions-stack-183618704.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/au-duke-st-bonaventure-knock-190224688.html"
+        },
+        {
+          "headline": "Dar scores 15 in Rice’s 82-74 victory over Ohio",
+          "summary": "Jacob Dar and Dallas Hobbs each scored 15 points as Rice beat Ohio 82-74 on Wednesday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/dar-scores-15-rices-82-74-victory-ohio-138449580"
+        },
+        {
+          "headline": "Brasileirão: matchweek 37 kicks off with Chape win over Palmeiras",
+          "summary": "Chapecoense defeated Palmeiras 3–0 in the 37th round of the Brasileirão Credits: João Pedro Zatta Grolli/ACF The 37th round of the Brasileirão kicked off on Tuesday (24) with Chapecoense's 3–0 victory over Palmeiras at Arena Condá in Chapecó, Santa Catarina. Miguel Carvalho, Max and Camilo found the net for the home side.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/brasileir-o-matchweek-37-kicks-190000587.html"
+        },
+        {
+          "headline": "CFP chaos scenarios: Rivalry Week upsets could scramble Big Ten, SEC, Big 12 races",
+          "summary": "A chaotic final weekend could reshape conference title races and playoff positioning, with Selection Sunday stakes growing by the hour",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/cfp-chaos-scenarios-rivalry-week-big-ten-sec-big-12/"
+        },
+        {
+          "headline": "Carnegie scores 17 of her 19 in 1st half, No. 8 Iowa women cruise after halftime to beat Navy 104-48",
+          "summary": "Dani Carnegie scored 17 of her 19 points in the first half, McKenna Woliczko added 18 points and No. 8 Iowa pulled away after halftime to beat Navy 104-48 on Wednesday in the Baha Mar Pink Flamingo Championship",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/carnegie-scores-17-19-1st-half-8-iowa-138448486"
         }
       ]
     },
@@ -843,16 +843,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’",
+          "summary": "David Fincher admitted in an interview published Wednesday that some AI was used in the post-production of “The Further Mis-Adventures of Cliff Booth,” but that it was all done to enhance the work of “real human beings.” Fincher appeared on The Ringer’s “Big Picture” podcast, where he told host Sean Fennessey that AI helped sync the best […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/"
+        },
+        {
           "headline": "Veruschka, Supermodel Who Appeared in ‘Blow-Up,’ ‘Casino Royale,’ Dies at 87",
           "summary": "Veruschka, the striking 1960s and ’70s supermodel who inspired some of Richard Avedon’s most iconic images and appeared in films including Michelangelo Antonioni’s “Blow-Up,” has died. She was 87.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/veruschka-supermodel-blow-up-1236958180/"
-        },
-        {
-          "headline": "As ‘The Further Mis-Adventures of Cliff Booth’ Opens on Just 200 Imax Screens, Netflix’s Movie Theater Push Is Still Failing Moviegoers",
-          "summary": "If you’re a fan of Quentin Tarantino and David Fincher and Brad Pitt, and you loved “Once Upon a Time in Hollywood” and have your heart set on seeing that film’s sequel, the highly entertaining (and appropriately well-reviewed) “The Further Mis-Adventures of Cliff Booth,” over Thanksgiving weekend, I have a scientific phrase to describe your […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/columns/cliff-booth-imax-limited-release-netflix-1236956318/"
         },
         {
           "headline": "Takashi Miike’s ‘Bad Lieutenant: Tokyo’ From Neon Gets Early 2027 Release",
@@ -879,6 +879,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)",
+          "summary": "The media brand is working with the company to adapt traditional entertainment projects into mobile-first vertical stories, with episodes no more than two minutes long.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568/"
+        },
+        {
+          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
+          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
+        },
+        {
           "headline": "Dropout’s ‘Very Important People’ Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests",
           "summary": "Dropout’s improv interview series “Very Important People” is set to debut its fourth season Dec. 10 with a new batch of weirdo guests.",
           "source": "Variety",
@@ -891,22 +903,10 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-9-15-2026-1236763130/"
         },
         {
-          "headline": "‘The Pitt’ Sets Season 3 Release Date at HBO Max",
-          "summary": "“The Pitt” has set its Season 3 premiere date at HBO Max. The third season of the smash hit medical drama will debut on Jan.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-pitt-season-3-release-date-hbo-max-1236958110/"
-        },
-        {
-          "headline": "Netflix Releases New Peter Berg-Directed Spot Inspired By ‘Friday Night Lights’ Highlighting Thanksgiving Eve Game",
-          "summary": "Netflix is streaming its first Thanksgiving Eve Game and has dropped a spot directed by Peter Berg, which was inspired by Friday Night Lights. The new spot titled “Thankful for Football” is narrated by Kyle Chandler and highlights the game between the Los Angeles Rams and the Green Bay Packers.",
+          "headline": "Gordon Ramsay To Host Revived ‘Top Gear’ For BBC",
+          "summary": "Gordon Ramsay is shifting from the kitchen to the race track. The superstar chef has been unveiled as the next host of the BBC’s Top Gear, coming four years after Andrew Flintoff’s crash.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-peter-berg-directed-friday-night-lights-thanksgiving-eve-game-1237233333/"
-        },
-        {
-          "headline": "Studio Lambert Is Digging Into The Archives For Its Next ‘Traitors’-Sized Hit",
-          "summary": "One of the interesting consequences of Banijay’s merger with All3Media is that Stephen Lambert, who runs The Traitors producer Studio Lambert, has been reunited with his early work. Before Lambert, a former BBC documentary producer, founded Studio Lambert in 2008, he was Chief Creative Officer at RDF Media, where he produced series such as Wife […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/studio-lambert-traitors-circle-monopoly-interview-1237232183/"
+          "url": "https://deadline.com/2026/11/top-gear-gordon-ramsay-host-bbc-2027-andrew-flintoff-1237233336/"
         }
       ]
     },
@@ -951,16 +951,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Brandi Carlile Slams ICE for ‘Horrific’ Detainments in Seattle: ‘We Need to Do Something About It’",
+          "summary": "Brandi Carlile is joining the outcry in her home state of Washington following the controversial ICE detainments of two people at Seattle-Tacoma International Airport. Related Pearl Jam Slams ‘Cold Cruelty’ of ICE After ‘Unconscionable’ Detainments at Seattle Airport Ms.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/brandi-carlile-slams-ice-seattle-airport-detainment-1236389587/"
+        },
+        {
           "headline": "Jay Wheeler Reveals How He’s Building a Legacy Beyond Music | Billboard Presents",
           "summary": "This is partner content. Leila Cobo, Billboard ‘s co-chief content officer, joins Jay Wheeler at some of the most meaningful places in his life in Miami, presented by Lexus.",
           "source": "Billboard",
           "url": "https://www.billboard.com/video/jay-wheeler-reveals-how-hes-building-legacy-beyond-music/"
-        },
-        {
-          "headline": "Randy Rainbow Dissects the Midterm Blue Wave, Decimates Trump’s Second Term On ‘He’s a Flop!’: ‘He’s the Schmo Most Hated’",
-          "summary": "Randy Rainbow is never at a loss for words when it comes to launching tuneful, comedic broadsides against the man he affectionately refers to as “Donald Jessica Trump.” In his latest parody video, “He’s a Flop!,” Rainbow leans into a classic comedic trope to dance on Trump’s flaming pile of disasters by making it look like he’s on the other side of a…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/randy-rainbow-diss-trump-second-term-hes-a-flop-parody-listen-1236389571/"
         },
         {
           "headline": "How Riot Games Turned ‘League of Legends’ Into a Music Empire",
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T13:46:24-05:00"
+  "updatedAt": "2026-11-25T14:17:42-05:00"
 }
