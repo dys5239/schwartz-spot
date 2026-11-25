@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Army's lead azide detonation set for Wednesday at Iowa plant following delays",
-          "summary": "The detonation is set to occur at approximately 9 a.m. CT on Wednesday at the Iowa Army Ammunition Plant in Middletown, according to the Army.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
-        },
-        {
-          "headline": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
-          "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Powerful storm threatens East Coast with hurricane-level flooding, damaging winds",
-          "summary": "More than 31 million people are under coastal flood warnings along both coasts as a powerful storm takes shape, bringing the threat of hurricane-level flooding.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983"
-        },
-        {
-          "headline": "Iran denounces U.S. use of AI in war",
-          "summary": "Iran's U.N. envoy claims the U.S.",
+          "headline": "Trump administration to issue new tariffs on 14 trading partners",
+          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from 13 other economies.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
           "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
           "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+        },
+        {
+          "headline": "Burnham defends inviting influencers into No 10 in PMQs row with Badenoch",
+          "summary": "The Tory leader calls on the PM to apologise for allowing an \"obscene\" video to be recorded outside Number 10.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx987j6e26elo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
+          "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "US plans to hike tariffs on China, EU, Brazil and others over subsidized production",
+          "summary": "President Donald Trump's administration is getting ready to raise tariffs on China, the European Union and a dozen other trading partners",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/wireStory/us-plans-hike-tariffs-china-eu-brazil-subsidized-138438618"
         }
       ]
     },
@@ -79,22 +79,132 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125585039320646034",
+          "created_at": "2026-11-25T13:38:59.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The US Financial Crimes Enforcement Network (FinCEN) has suffered a cybersecurity breach, resulting in unauthorized access to a \"limited subset\" of its systems, per a US government official.\n\nFinCEN oversees some of the US government's most sensitive financial",
+          "url": "https://x.com/KobeissiLetter/status/2125585039320646034",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125584705185571113",
+          "created_at": "2026-11-25T13:37:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Polish Foreign Minister Sikorski:\n\nRussia is proposing some new security architecture on the international stage. Of course, we already have the old one, of which Russia is a member: the OSCE.\n\nThere are ten principles of the OSCE. Russia violates all of them.\n\nThen, in effect, https://t.co/oUZ1mfNSz7",
+          "url": "https://x.com/Osint613/status/2125584705185571113",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125583451973709942",
+          "created_at": "2026-11-25T13:32:41.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "PETA activists STORM the stage during a Christmas performance.\n\nThe activists interrupted the holiday production to protest the use of animals in Christian Nativity scenes, sparking outrage over the disruption of a cherished Christmas tradition.\n\nhttps://t.co/OhINjCxB3j",
+          "url": "https://x.com/RealAmVoice/status/2125583451973709942",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125583144338260387",
+          "created_at": "2026-11-25T13:31:27.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: US October PCE inflation, the Fed's preferred inflation metric, rises to 3.8%, its 2nd-highest level since April 2023.\n\nCore PCE inflation also rose to 3.3%, above expectations of 3.2%.\n\nCPI, PPI, and PCE inflation all continue to push higher.\n\nDecember rate hike odds",
+          "url": "https://x.com/KobeissiLetter/status/2125583144338260387",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125582957649776800",
+          "created_at": "2026-11-25T13:30:43.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "How in the world was this not a game winning touchdown catch?! They overruled this on instant replay?! Highway robbery.  https://t.co/v4SEHcJnEJ",
+          "url": "https://x.com/ClayTravis/status/2125582957649776800",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125581241185612150",
+          "created_at": "2026-11-25T13:23:53.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Round the clock refueling for aircraft in Middle East operations, handled by U.S. Airmen.\n\nCENTCOM https://t.co/9fWymhjCx1",
+          "url": "https://x.com/Osint613/status/2125581241185612150",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125580585817223630",
+          "created_at": "2026-11-25T13:21:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian reports of explosion heard in the Strait of Hormuz.",
+          "url": "https://x.com/Osint613/status/2125580585817223630",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125580585972228367",
+          "created_at": "2026-11-25T13:21:17.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Trump Administration proposes new tariffs on 14 major US trading partners following the conclusion of its trade investigations.\n\nProposed tariff rates include:\n\n1. China: 20%, potentially rising to 40%\n2. Vietnam: Up to 35%\n3. India: Up to 25%\n4. Taiwan: Up to 25%",
+          "url": "https://x.com/KobeissiLetter/status/2125580585972228367",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125580453562253755",
+          "created_at": "2026-11-25T13:20:46.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Youtube conspired with the Government to suppress dissent https://t.co/vKkd6LZu5c",
+          "url": "https://x.com/Timcast/status/2125580453562253755",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125579861750071747",
+          "created_at": "2026-11-25T13:18:25.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "And these same people kept calling us conspiracy theorists and now its all proven\n\nGovernment coordinated with big tech to silence dissent https://t.co/Ri4fxKils7",
+          "url": "https://x.com/Timcast/status/2125579861750071747",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125579416936055249",
+          "created_at": "2026-11-25T13:16:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: EU faces proposed U.S. tariff of up to 20% after trade probe",
+          "url": "https://x.com/Osint613/status/2125579416936055249",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125578981462147384",
+          "created_at": "2026-11-25T13:14:55.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: Trump administration proposes tariffs on 14 trading partners, with China facing up to 40%\n\nThe proposed U.S. tariff on China is 20% and could rise to 40% without a trade deal. Vietnam could face 35%. Officials are also weighing targeted tariffs on the EU, Japan, South Korea",
+          "url": "https://x.com/Osint613/status/2125578981462147384",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125576951364731018",
           "created_at": "2026-11-25T13:06:51.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Hmm https://t.co/ng0CBjY6DU",
           "url": "https://x.com/elonmusk/status/2125576951364731018",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125576901058293770",
-          "created_at": "2026-11-25T13:06:39.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian Foreign Ministry: Lebanon has the right to defend its sovereignty.\n\nTehran condemned Israel's air and artillery strikes in southern Lebanon.",
-          "url": "https://x.com/Osint613/status/2125576901058293770",
           "verified": true,
           "verified_type": "blue"
         },
@@ -129,16 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125575212561555943",
-          "created_at": "2026-11-25T12:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "THE AMERICAN SUNRISE SHOW https://t.co/vQ4FptFHL2",
-          "url": "https://x.com/RealAmVoice/status/2125575212561555943",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125572185649492132",
           "created_at": "2026-11-25T12:47:54.000Z",
           "author_name": "Matt Walsh",
@@ -149,52 +249,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125571706836451491",
-          "created_at": "2026-11-25T12:46:00.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The dollar is back where it traded before last year's \"liberation day\" tariffs. AI stock swings didn't stall the rally. Fears about the end of dollar dominance are fading.\n\nAxios",
-          "url": "https://x.com/Osint613/status/2125571706836451491",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125570463271108830",
-          "created_at": "2026-11-25T12:41:04.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Saudi Aramco's Ras Tanura refinery is on fire after Houthi strikes overnight. https://t.co/adsT7HkJ8T",
-          "url": "https://x.com/Osint613/status/2125570463271108830",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125570296811835761",
-          "created_at": "2026-11-25T12:40:24.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: The Islamic regime condemns Israel for attacks on Hezbollah targets in Lebanon",
-          "url": "https://x.com/Osint613/status/2125570296811835761",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125569711903760640",
           "created_at": "2026-11-25T12:38:05.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "SoftBank just had its worst day since August 2024\n\n$SFTBY shares crashed 14.8% in Tokyo to ¥2,696.5, the biggest one-day drop since the Aug 5, 2024 yen carry trade crash\n\nThe stock is now down 68.8% from its record close of ¥8,632 on June 2\n\nThe AI selloff hit all of Asia https://t.co/Z2EKGByzB0",
           "url": "https://x.com/_Investinq/status/2125569711903760640",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125569597092856038",
-          "created_at": "2026-11-25T12:37:37.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "British military bases are on high alert over credible sabotage and drone threats linked to Russia and Iran. The Royal Air Force is moving high-value aircraft into hangars and hardened shelters overnight. Planes left exposed on runways are being covered with Kevlar anti-drone https://t.co/QYE6AyCCiy",
-          "url": "https://x.com/Osint613/status/2125569597092856038",
           "verified": true,
           "verified_type": "blue"
         },
@@ -227,16 +287,6 @@
           "url": "https://x.com/LauraLoomer/status/2125551016758096137",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125529913994444923",
-          "created_at": "2026-11-25T09:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "THE EARLY BIRD WITH ED MARTIN https://t.co/PG0v9F0N7X",
-          "url": "https://x.com/RealAmVoice/status/2125529913994444923",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125519423142322382",
@@ -287,16 +337,6 @@
           "url": "https://x.com/elonmusk/status/2125464682580623467",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125454416446915046",
-          "created_at": "2026-11-25T04:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/zqKTHyCGlR",
-          "url": "https://x.com/RealAmVoice/status/2125454416446915046",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125453246345130370",
@@ -439,16 +479,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125405590520525241",
-          "created_at": "2026-11-25T01:45:55.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Tennessee beat the “big dogs” by 16 and dog walked Alabama up and down the field all day long. Tide was lucky to only lose by 16. https://t.co/B1OMf0Sgig",
-          "url": "https://x.com/ClayTravis/status/2125405590520525241",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125401966876495908",
           "created_at": "2026-11-25T01:31:31.000Z",
           "author_name": "Laura Loomer",
@@ -499,12 +529,22 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125373983025734076",
-          "created_at": "2026-11-24T23:40:19.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says the US government could take an equity stake in Nvidia, $NVDA.\n\n“It’s probably not too late,” President Trump says.",
-          "url": "https://x.com/KobeissiLetter/status/2125373983025734076",
+          "id": "2125392775709442324",
+          "created_at": "2026-11-25T00:55:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "‘JUSSIE SMOLLETT 2.0?’ FORMER CONGRESSIONAL AIDE ACCUSED OF STAGING ANTI-TRUMP ATTACK\n\nA former aide to Rep. Jeff Van Drew, Natalie Greene, has been indicted over an alleged staged attack in which she claimed three men targeted her over her political affiliation.\n\nFederal https://t.co/wnXiavPVwY",
+          "url": "https://x.com/RealAmVoice/status/2125392775709442324",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125381628461466090",
+          "created_at": "2026-11-25T00:10:42.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🚨 Coyotes are reportedly advertising how to scale the U.S. border wall using ROPE LADDERS!\n\nVideos reportedly filmed this month by human smugglers south of the border are raising fresh questions about border security.\n\nDespite advanced surveillance technology, are there https://t.co/tCA5NjUrEh",
+          "url": "https://x.com/RealAmVoice/status/2125381628461466090",
           "verified": true,
           "verified_type": "business"
         },
@@ -517,26 +557,6 @@
           "url": "https://x.com/SportNState/status/2125365384379301906",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125364172397666355",
-          "created_at": "2026-11-24T23:01:20.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump says he is willing to pardon Nvidia, $NVDA, CEO Jensen Huang “if necessary,” per NY Post.\n\nTrump also tells Jensen Huang not to plead the 5th at his congressional testimony next week.\n\nPresident Trump is fully backing Jensen Huang.",
-          "url": "https://x.com/KobeissiLetter/status/2125364172397666355",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125343839275700225",
-          "created_at": "2026-11-24T21:40:32.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "China’s housing market is getting crushed.\n\nYoY, China’s new home prices fell -2.4% last month, marking their 40th consecutive decline.\n\nNew home prices in 70 Chinese cities, excluding state-subsidized housing, fell -0.2% MoM in October.\n\nAt the same time, used home prices, https://t.co/1gUOnle1Kj",
-          "url": "https://x.com/KobeissiLetter/status/2125343839275700225",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125342179216261600",
@@ -567,16 +587,6 @@
           "url": "https://x.com/Outkick/status/2125334036650565865",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125333728641614179",
-          "created_at": "2026-11-24T21:00:22.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "STOP answering spam calls. \n\nPicking up, or texting \"STOP,\" tells the sender your number is live, which makes it worth more when it's resold. https://t.co/Xemdv4Egmu",
-          "url": "https://x.com/Timcast/status/2125333728641614179",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125322490969047293",
@@ -635,16 +645,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Consider the incentive this creates.\n\nA model deemed too dangerous for public access can still be used internally to accelerate the development of its successor. The laboratory retains the economic advantage of intelligence that nobody else can access.\n\nSafety and competitive https://t.co/SLrF4Sht8G",
           "url": "https://x.com/_The_Prophet__/status/2125295049139511478",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125293384638103979",
-          "created_at": "2026-11-24T18:20:03.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "\"The END Of The World\" Elon Musk Warns AI Singularity IS NOW https://t.co/5GNieauzn7",
-          "url": "https://x.com/Timcast/status/2125293384638103979",
           "verified": true,
           "verified_type": "blue"
         },
@@ -729,16 +729,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125216590933447102",
-          "created_at": "2026-11-24T13:14:54.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "I believe in American exceptionalism but the sad fact of the matter is that most of our domestic airlines are terrible, only getting worse, and (some) foreign airlines are simply much better in every conceivable way https://t.co/aVfZA5Y0mm",
-          "url": "https://x.com/MattWalshBlog/status/2125216590933447102",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125008998915023099",
           "created_at": "2026-11-23T23:30:00.000Z",
           "author_name": "Glenn Beck",
@@ -811,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-          "summary": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
+          "headline": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
+          "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html"
+          "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
         },
         {
-          "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-          "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+          "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+          "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
         },
         {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
@@ -847,6 +837,12 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Dyson Daniels Claims Every NBA Team Today Would Beat Teams From 20 Years Ago By 30 Points",
+          "summary": "Mandatory Credit: Alonzo Adams-Imagn Images Atlanta Hawks ‘ defensive specialist Dyson Daniels appeared on the latest episode of Deflected with teammate Kingston Flemings , where they answered some hard questions. At one point, Daniels and Flemings were asked to reveal a basketball opinion they had never shared because NBA Twitter would destroy them.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/articles/dyson-daniels-claims-every-nba-132829915.html"
+        },
+        {
           "headline": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
           "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
           "source": "CBS Sports",
@@ -869,12 +865,6 @@
           "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
-        },
-        {
-          "headline": "Nets at Bucks NBA Cup game preview: How to watch, injuries, lineups",
-          "summary": "The Brooklyn Nets (3-13) did not begin their four-game road trip on the right foot as they suffered a blowout defeat at the hands of the Minnesota Timberwolves on Monday. However, Brooklyn has a chance to redeem itself with an NBA Cup matchup at the Milwaukee Bucks (2-16) on Wednesday and if you're wondering where you can watch all the action live,…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/nets-bucks-nba-cup-game-125320971.html"
         }
       ]
     },
@@ -883,16 +873,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Hollywood Gets Roasted in Satirical Picture Book ‘We Make a Movie’: ‘I Loved Your Script … Now Change Everything’ (EXCLUSIVE)",
-          "summary": "“I loved your script. It is perfect.",
+          "headline": "Luca Guadagnino Apologizes For Controversial Costume Design Comments But Defends Working With Fashion Designers: They’re More ‘in Touch With the Pulse of How We Live’",
+          "summary": "Luca Guadagnino apologized to costume designers at the Marrakech Film Festival on Wednesday, a year after drawing backlash for comments he made about his preference for working with fashion designers on his films. However, the Italian filmmaker doubled down on his admiration for his frequent collaborator Jonathan Anderson, who most recently designed the…",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/hollywood-roasted-satirical-picture-book-we-make-a-movie-1236957842/"
+          "url": "https://variety.com/2026/film/news/luca-guadagnino-apology-costume-design-comments-controversy-1236957916/"
         },
         {
-          "headline": "AI Horror Short ‘Sikkal’ Wins WIF India x Google Flow Filmathon as Director Promita Banerjee Aims to Make ‘Films With Humans’",
-          "summary": "A horror short rooted in the toll of sickle cell disease on India’s tribal communities has won the inaugural WIF India x Google Flow Filmathon. Promita Banerjee’s “Sikkal,” made with Google’s AI creative workspace Google Flow, took the INR1.2 million ($12,500) first prize.",
+          "headline": "Danny DeVito-Produced SXSW Heist Comedy ‘Drag’ Scores Wave of International Sales Out of AFM (EXCLUSIVE)",
+          "summary": "“Drag,” the SXSW heist comedy starring Lizzy Caplan and John Stamos and produced by Danny DeVito, has secured a run of international deals following the American Film Market. U.K.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/ai-horror-short-sikkal-wif-india-google-flow-filmathon-1236957898/"
+          "url": "https://variety.com/2026/film/news/danny-devito-produced-heist-comedy-drag-sales-1236957923/"
         },
         {
           "headline": "Damian Lewis Boards Short Film ‘Odessa’ as Executive Producer (Exclusive)",
@@ -991,6 +981,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
+          "summary": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/"
+        },
+        {
           "headline": "Noah Kahan Caps Epic Year With ‘Live From the Great Divide’ Album",
           "summary": "What better way to celebrate an absolutely epic year than with a live keepsake? Noah Kahan announced that he will cap 2026 by releasing the Live From the Great Divide album on Dec.",
           "source": "Billboard",
@@ -1013,15 +1009,9 @@
           "summary": "The musician called on fans to call their representatives and donate to organizations working to protect immigrants",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/"
-        },
-        {
-          "headline": "Ninajirachi Drops I Love My Computer Remix Album",
-          "summary": "Wet Leg, Mallrat, Genesis Owusu, and more lend their hands to I Love My Computer, All My Friends Are Inside It",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T08:10:47-05:00"
+  "updatedAt": "2026-11-25T08:41:35-05:00"
 }
