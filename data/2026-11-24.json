@@ -18,12 +18,6 @@
           "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
         },
         {
-          "headline": "David Fincher is being dragged for suspected use of AI in his latest film",
-          "summary": "Though David Fincher 's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth , early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it feel…",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive"
-        },
-        {
           "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
           "summary": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
           "source": "Wired",
@@ -34,6 +28,12 @@
           "summary": "Some toys are now using artificial intelligence to interact with kids, and it's sparking concern among parents. Kelly O'Grady reports.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/ai-is-making-its-way-into-toys-what-should-parents-do/"
+        },
+        {
+          "headline": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+          "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
-          "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
-        },
-        {
-          "headline": "FAA expects Tuesday to be the busiest air travel day of Thanksgiving week",
-          "summary": "The FAA expects Tuesday to be busiest air travel day of Thanksgiving week this year. CBS News' Kris Van Cleave reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/faa-expects-tuesday-to-be-the-busiest-air-travel-day-of-thanksgiving-week/"
-        },
-        {
-          "headline": "Third of young Brits have never had sex, but many are sexting and watching porn",
-          "summary": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+          "headline": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
+          "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Households braced for soaring energy bills with new price cap to be announced",
+          "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Inside Issue One's \"Reset America\" tour",
+          "summary": "In response to Democrats' sweeping wins in the midterms, pro-democracy nonprofit Issue One is kicking off a nationwide \"Reset America\" tour to change the way the political system works. Nick Penniman, founder and CEO of Issue One, joins CBS News to discuss.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/inside-issue-ones-reset-america-tour/"
+        },
+        {
+          "headline": "Armed men take hostages at supermarket in Cartagena, Colombia",
+          "summary": "Colombian President Abelardo de la Espriella said that the men were \"common criminals\" who fled into the supermarket after a failed attempt to hold up an armored truck.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/"
         },
         {
           "headline": "Kilmar Abrego Garcia leaves the US, is self-deporting to Spain",
           "summary": "Kilmar Abrego Garcia, who was returned to the U.S. after being mistakenly deported to a Salvadoran mega-prison, is self-deporting to Spain, sources tell ABC News.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/kilmar-abrego-garcia-leaves-us-deporting-spain/story?id=138414044"
-        },
-        {
-          "headline": "Potential health effects of Army's detonation of nearly 5 tons of lead azide",
-          "summary": "The U.S. Army is planning a controlled detonation of explosive material at an ammunition plant in rural Iowa on Wednesday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Health/potential-health-effects-armys-controlled-detonation-5-tons/story?id=138415656"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125381945672761599",
+          "created_at": "2026-11-25T00:11:58.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "The news is accurate https://t.co/FLI7HDhXCf",
+          "url": "https://x.com/elonmusk/status/2125381945672761599",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125381628461466090",
+          "created_at": "2026-11-25T00:10:42.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🚨 Coyotes are reportedly advertising how to scale the U.S. border wall using ROPE LADDERS!\n\nVideos reportedly filmed this month by human smugglers south of the border are raising fresh questions about border security.\n\nDespite advanced surveillance technology, are there https://t.co/tCA5NjUrEh",
+          "url": "https://x.com/RealAmVoice/status/2125381628461466090",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125381577458987237",
+          "created_at": "2026-11-25T00:10:30.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "\"Happy Christmas\" from Birmingham, where you can't set something down for 20 seconds without it getting stolen. https://t.co/swhDgxeVpT",
+          "url": "https://x.com/RealAmVoice/status/2125381577458987237",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125380839219638420",
+          "created_at": "2026-11-25T00:07:34.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: KILMAR ABREGO GARCIA SELF-DEPORTS\n\nAfter a lengthy legal battle with the Trump administration, Kilmar Abrego Garcia, who has been accused of MS-13 ties and indicted on federal human smuggling charges, is leaving the United States.\n\nHis attorneys say he is flying to",
+          "url": "https://x.com/RealAmVoice/status/2125380839219638420",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125379181471056020",
+          "created_at": "2026-11-25T00:00:59.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ALVIN LUI: THE BATTLE FOR AMERICA’S YOUTH BEGINS IN K-12\n\n@Xalvinlui tells @AmandaHead that Republicans looking to win over young voters need to understand where their political beliefs are being shaped — long before college.\n\n“College is not for brainwashing these days. College https://t.co/UqgHKTKNPJ",
+          "url": "https://x.com/RealAmVoice/status/2125379181471056020",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125378919440568653",
+          "created_at": "2026-11-24T23:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "GRANT STINCHFIELD TONIGHT SHOW https://t.co/Q6QriM1Vek",
+          "url": "https://x.com/RealAmVoice/status/2125378919440568653",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125377782972895409",
+          "created_at": "2026-11-24T23:55:25.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The emergency alert that went out for Middletown, Iowa. It says evacuation is recommended for those within 5 miles southwest of the Iowa Army Ammunition Plant. The controlled detonation will happen at 9 am CT tomorrow.\n\nContributed by @AZ_Intel_. https://t.co/ylt41dJZ37 https://t.co/2Q6vEkkLQD",
+          "url": "https://x.com/Osint613/status/2125377782972895409",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125373983025734076",
           "created_at": "2026-11-24T23:40:19.000Z",
@@ -107,16 +177,6 @@
           "url": "https://x.com/Osint613/status/2125373593471029759",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125371713252728857",
-          "created_at": "2026-11-24T23:31:18.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "FATHER DIES AFTER 500-FOOT FALL WHILE TRYING TO SAVE HIS SON\n\nHeartbreaking footage shows Guillermo Alejandro Batres hiking California’s Mount Baden-Powell just minutes before a tragic fall claimed his life.\n\nAccording to his family, Batres was attempting to summit the mountain",
-          "url": "https://x.com/RealAmVoice/status/2125371713252728857",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125370881069507003",
@@ -189,16 +249,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125365829298434219",
-          "created_at": "2026-11-24T23:07:55.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NYT ON JENSEN HUANG: ‘WE DON'T HAVE EVIDENCE’\n\n@AmandaHead highlights a key admission from The New York Times, the outlet that originally broke the story surrounding the investigation into Nvidia CEO Jensen Huang.\n\nDuring an episode of The Daily discussing President Trump’s https://t.co/DFkxeegDiI",
-          "url": "https://x.com/RealAmVoice/status/2125365829298434219",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125365384379301906",
           "created_at": "2026-11-24T23:06:09.000Z",
           "author_name": "Sport & State",
@@ -229,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125362828299120766",
-          "created_at": "2026-11-24T22:56:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WINTERS SOUNDS ALARM ON EFFORTS TO TARGET TRUMP OFFICIALS AFTER HIS PRESIDENCY\n\n@nataliegwinters warns that congressional committees are already recruiting former DOJ prosecutors to build their investigative teams.\n\n“It's compliance for the sake of just like throwing people in https://t.co/SThOPb6mJQ",
-          "url": "https://x.com/RealAmVoice/status/2125362828299120766",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125361343951974514",
           "created_at": "2026-11-24T22:50:06.000Z",
           "author_name": "StockMarket.News",
@@ -249,16 +289,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125360498396782666",
-          "created_at": "2026-11-24T22:46:44.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "‘VIVA MEXICO’ — THEN VS. NOW\n\nSame woman. Two very different messages.\n\nJune vs. November. https://t.co/KkdUGfADX8",
-          "url": "https://x.com/RealAmVoice/status/2125360498396782666",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125360414477492342",
           "created_at": "2026-11-24T22:46:24.000Z",
           "author_name": "Laura Loomer",
@@ -267,16 +297,6 @@
           "url": "https://x.com/LauraLoomer/status/2125360414477492342",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125355263871893964",
-          "created_at": "2026-11-24T22:25:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: FEDERAL GRAND JURIES PROBE ILHAN OMAR’S IMMIGRATION HISTORY AND FINANCES\n\nFederal investigators are examining allegations of immigration fraud and potential financial crimes involving Rep. Ilhan Omar, with newly unsealed court records revealing investigators sought",
-          "url": "https://x.com/RealAmVoice/status/2125355263871893964",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125355072108560449",
@@ -385,16 +405,6 @@
           "author_handle": "Timcast",
           "text": "LIZARD PEOPLE EXPOSED https://t.co/6mIma1fVs9",
           "url": "https://x.com/Timcast/status/2125339758163636236",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125335262360166531",
-          "created_at": "2026-11-24T21:06:28.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Telegraph: British Christian preacher Calvin Robinson called for the U.S. to expel all Jews. U.S. officials are now reviewing his visa. https://t.co/R1q8TMS6Wz",
-          "url": "https://x.com/Osint613/status/2125335262360166531",
           "verified": true,
           "verified_type": "blue"
         },
@@ -709,36 +719,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2124944467119747335",
-          "created_at": "2026-11-23T19:13:35.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Beautiful shot by Andrew McCarthy https://t.co/nUJRMXQ9yR",
-          "url": "https://x.com/elonmusk/status/2124944467119747335",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124942828274925651",
-          "created_at": "2026-11-23T19:07:04.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Everyone I know at Nvidia wanted Jensen back and it shows https://t.co/JgdlBhD0Yi",
-          "url": "https://x.com/elonmusk/status/2124942828274925651",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124918561617694750",
-          "created_at": "2026-11-23T17:30:38.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "True https://t.co/8jbmsDPCRi",
-          "url": "https://x.com/elonmusk/status/2124918561617694750",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2124865035013128544",
           "created_at": "2026-11-23T13:57:57.000Z",
           "author_name": "Glenn Beck",
@@ -755,16 +735,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Iran developing chemical weapons, Israeli defense minister says",
-          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+          "headline": "Nvidia's Jensen Huang still has security clearance, sources say",
+          "summary": "Attorney General Todd Blanche did not say whether federal investigators interviewed Jensen Huang — who was rehired as CEO on Monday — or examined his relationship with an alleged Chinese spy.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-security-clearance-todd-blanche/"
         },
         {
-          "headline": "Kilmar Abrego Garcia leaving U.S. today for Spain, sources say",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S.",
+          "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
+          "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+          "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
         },
         {
           "headline": "Moving to Florida may become a choice of some Republicans after midterms",
@@ -791,16 +771,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-          "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+          "headline": "Unpacking President Trump's financial stake in Nvidia",
+          "summary": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia"
         },
         {
           "headline": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
           "summary": "The product, the first one beyond event contracts, was introduced in May.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html"
+        },
+        {
+          "headline": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+          "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html"
         },
         {
           "headline": "Shein to pay $100 million to settle claims it deceived customers",
@@ -813,12 +799,6 @@
           "summary": "",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/us-jury-find-chinese-tech-giant-huawei-guilty-138421898"
-        },
-        {
-          "headline": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
-          "summary": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/"
         }
       ]
     },
@@ -827,16 +807,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Villanova Wildcats (4-2) vs Coppin State Eagles (1-6): Game Chat",
-          "summary": "PHILADELPHIA , PA - NOVEMBER 21: Villanova Wildcats center Luigi Suigo #19 looks to pass during the game between the Villanova Wildcats and the Michigan Wolverines on November 21st, 2026 at the Xfinity Mobile Arena in Philadelphia, PA. (Photo by Terence Lewis/Icon Sportswire via Getty Images) | Icon Sportswire via Getty Images Where : Finneran Pavilion…",
+          "headline": "No. 10 UCLA extends season-opening win streak to 7 games with a 69-56 win over St. John's",
+          "summary": "UNCASVILLE, Conn. (AP) — Sienna Betts and Elina Aarnisalo each scored 12 points to lead a balanced offense for No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/villanova-wildcats-4-2-vs-233000842.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/no-10-ucla-extends-season-000419476.html"
         },
         {
-          "headline": "Jobe Bellingham reflects on Borussia Dortmund’s 1-1 draw vs. Arsenal",
-          "summary": "Jobe Bellingham thought he had scored Borussia Dortmund’s go-ahead goal after Maximilian Beier had leveled proceedings against Arsenal, but the Englishman was marginally offside after following up Julian Ryerson’s parried effort as Die Schwarzgelben secured a valuable point against last season’s finalists. Speaking in the mixed zone, attended by Get…",
+          "headline": "USC women's basketball dominates Northern Arizona 100-52",
+          "summary": "After splitting its neutral site games against South Carolina and Baylor , the USC women's basketball team returned to Galen Center on Monday night to take on Northern Arizona. Unlike their prior two games, the Trojans entered this matchup as overwhelming favorites.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/jobe-bellingham-reflects-borussia-dortmund-232800122.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/usc-womens-basketball-dominates-northern-235405083.html"
+        },
+        {
+          "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
+          "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
         },
         {
           "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
@@ -849,12 +835,6 @@
           "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
           "source": "FOX News Sports",
           "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
-        },
-        {
-          "headline": "No. 8 Arizona tops Colorado State 96-83 with all 5 starters reaching double figures in Maui",
-          "summary": "Ivan Kharchenkov scored 24 points and Caleb Holt had 20 for No. 8 Arizona in a 96-83 win over Colorado State on the first day of the Maui Invitational on Monday night",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/8-arizona-tops-colorado-state-96-83-5-138402254"
         }
       ]
     },
@@ -863,16 +843,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Randy Newman to Receive Society of Composers & Lyricists Lifetime Achievement Award — Film News in Brief",
+          "summary": "Randy Newman, the composer and songwriter behind Disney classics including “Toy Story,” “Cars” and “Monsters, Inc.,” will be honored by the Society of Composers & Lyricists with the Lifetime Achievement Award on Dec. 9 at the 37th Annual SCL Holiday Dinner in Los Angeles.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894/"
+        },
+        {
           "headline": "Golden Globes: ‘Spider-Man: Brand New Day’ Goes Comedy, ‘Dune 3’ Skips Box Office Achievement Category and More (EXCLUSIVE)",
           "summary": "The Golden Globes ballots are out, and some of the year’s biggest surprises are emerging from the official reminder lists sent to members. Variety has exclusively obtained the official motion picture eligibility list for the 84th Golden Globes, which lays out every film submitted across seven categories along with the actors, directors, writers and…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/awards/golden-globes-2027-spider-man-comedy-dune-box-office-1236957413/"
-        },
-        {
-          "headline": "Patrick Stewart Was ‘Struggling With His Health’ on Last Day of Filming ‘Avengers: Doomsday’; Marvel Plans to Add Tribute to Movie",
-          "summary": "Marvel Studios president Kevin Feige and co-directors Anthony and Joe Russo are getting candid about filming “Avengers: Doomsday” with the late star Patrick Stewart, whose role became his final on-screen appearance after his death in October. “He stood up and he gave a speech to the crew,” Feige told Entertainment Weekly of Stewart’s final day […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/patrick-stewart-avengers-doomsday-marvel-tribute-1236957522/"
         },
         {
           "headline": "Where to Stream ‘Dancing With the Stars’ Season 35 Finale Live Online",
@@ -936,7 +916,7 @@
       "stories": [
         {
           "headline": "Take-Two CEO Strauss Zelnick To Talk ‘Grand Theft Auto VI’ At SXSW London 2027; More Speakers Announced",
-          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk about building one of the world’s biggest entertainment franchises, is among the first-wave speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
+          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk about building one of the world’s biggest entertainment franchises, is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
         },
@@ -971,6 +951,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Chart Rewind: In 1956, ‘Blues’ Singer Marty Robbins Swept 3 Country Charts",
+          "summary": "Arizona native Marty Robbins moved to Nashville in January 1953 on the same day that he joined the Grand Ole Opry, and it became a good fit as Robbins attained a new level of success, beginning with his single “Singing the Blues.” It rose to No. 1 on Billboard ’s Most Played C&W in Juke Boxes chart dated Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/marty-robbins-singing-the-blues-chart-rewind-1956-1236389281/"
+        },
+        {
           "headline": "E.D.I. Mean Says 2Pac Was Planning to Squash Beef With Biggie: ‘I’m Deading Everything’",
           "summary": "Apparently, 2Pac was over the back-and-forth with The Notorious B.I.G. , especially the East Coast/West Coast narrative.",
           "source": "Billboard",
@@ -989,12 +975,6 @@
           "url": "https://www.rollingstone.com/music/music-news/pearl-jam-seattle-airport-ice-arrests-1235663883/"
         },
         {
-          "headline": "Disney Sued for Allegedly Using Unlicensed Music in Social Media Ads: ‘Never Paid a Dollar’",
-          "summary": "The latest in a flood of lawsuits over music on social media is targeting the Walt Disney Co. — and claiming that the Hollywood giant should have known better.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/disney-lawsuit-unlicensed-social-media-music/"
-        },
-        {
           "headline": "Ninajirachi Throws a Party With All Her Friends on Surprise Remix Album",
           "summary": "I Love My Computer, All My Friends Are Inside It , a revamped version of the electronic artist's debut album, features Wet Leg, Underscores, Frost Children, and more",
           "source": "Rolling Stone",
@@ -1003,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T18:47:30-05:00"
+  "updatedAt": "2026-11-24T19:15:03-05:00"
 }
