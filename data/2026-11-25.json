@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
           "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
           "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
           "source": "TechCrunch",
@@ -16,12 +22,6 @@
           "summary": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for…",
           "source": "The Verge",
           "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-        },
-        {
-          "headline": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
         },
         {
           "headline": "How people use AI agents to handle annoying tasks and save money",
@@ -42,22 +42,22 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Vance says Nvidia's Huang isn't under investigation; doesn't need a pardon",
+          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
+        },
+        {
           "headline": "Iran denounces U.S. use of AI in war",
           "summary": "Iran's U.N. envoy claims the U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
-          "headline": "\"Narco sub\" seized in Atlantic but no drugs found on board",
-          "summary": "The operation was carried out in cooperation with the Colombian navy and the U.S. Joint Interagency Task Force South.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/narco-sub-intercepted-france-no-drugs-on-board/"
-        },
-        {
-          "headline": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6%",
-          "summary": "The seesaw trading came amid a tumultuous stretch on Wall Street.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070"
+          "headline": "MP calls for action after her likeness used for AI porn deepfakes",
+          "summary": "Mims Davies urged people to report any incidents so that “culprits can be held to account”.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125676694123991340",
+          "created_at": "2026-11-25T19:43:11.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Debris from an intercepted drone caused no civilian casualties near Jeddah port, according to the Saudi-led coalition. The drone was launched by Yemen's Houthis and was destroyed, the coalition added. https://t.co/LaqgjkZVOe",
+          "url": "https://x.com/Osint613/status/2125676694123991340",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125676029658419572",
+          "created_at": "2026-11-25T19:40:33.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NOW: OBAMA APPOINTED JUDGE BLOCKS POTUS' BIRTHRIGHT CITIZENSHIP EO\n\nJudge Cooper has declared President Trump's second anti-birthright citizenship EO UNCONSTITUTIONAL. \n\nThis means parents linked to terror groups or gangs can circumvent the system again and obtain citizenship for",
+          "url": "https://x.com/RealAmVoice/status/2125676029658419572",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125673362626425273",
+          "created_at": "2026-11-25T19:29:57.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NOW: Initial reports of explosions heard in Bandar Abbas, Larak Island and Qeshm, southern Iran.\n\nEarlier, jet activity was heard above Bandar Lengeh.\n\nContributed by: @BeamTracker_ https://t.co/clblYY0ASq",
+          "url": "https://x.com/Osint613/status/2125673362626425273",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125672742641172613",
+          "created_at": "2026-11-25T19:27:29.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "We know a team in New England that could use Aaron Rodger’s reallll bad",
+          "url": "https://x.com/Outkick/status/2125672742641172613",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125672561237500371",
+          "created_at": "2026-11-25T19:26:46.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "WOW! GEORGIA RESIDENTS SPEAK OUT AGAINST ISLAMIC CENTER EXPANSION\n\n\"The so-called religion of islam is not compatible with our nation nor our community's historic beliefs and values...\"\n\nhttps://t.co/e6H8dNnuve",
+          "url": "https://x.com/RealAmVoice/status/2125672561237500371",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125671356339499494",
+          "created_at": "2026-11-25T19:21:59.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans.\n \nToday, we are committing one SpaceX share to millions of American children",
+          "url": "https://x.com/SpaceX/status/2125671356339499494",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125670879979778245",
+          "created_at": "2026-11-25T19:20:05.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "“In the US, one out of every five dollars the US government makes is going toward interest expense. On our current fiscal path, there is a 100% chance of bankruptcy. Something must change.” - @TKL_Adam at @WebSummit https://t.co/Pvu2U6XAWR",
+          "url": "https://x.com/KobeissiLetter/status/2125670879979778245",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125670378903331220",
+          "created_at": "2026-11-25T19:18:06.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Mike McCarthy watching Aaron Rodgers go scorched earth on him https://t.co/75wauojaHP",
+          "url": "https://x.com/Outkick/status/2125670378903331220",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125670205456257409",
+          "created_at": "2026-11-25T19:17:24.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Thanks Ron ❤️\n\nMy greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing. https://t.co/WsGDz84zlN",
+          "url": "https://x.com/elonmusk/status/2125670205456257409",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125669066388209784",
           "created_at": "2026-11-25T19:12:53.000Z",
@@ -199,26 +289,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125662760419901731",
-          "created_at": "2026-11-25T18:47:49.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "VP JOKES ON THANKSGIVING WITH FAMILY: \"EAT A LOT AND HOPEFULLY NOT DRINK TOO MUCH!\"\n\nHe said what many of us know to be true! 😂 https://t.co/xAJpIiFgPb",
-          "url": "https://x.com/RealAmVoice/status/2125662760419901731",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125662060981997586",
-          "created_at": "2026-11-25T18:45:02.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "VP ANSWERS THE QUESTION: HOW LONG DO AMERICANS HAVE TO WAIT TO SEE CHANGE...\n\n\"American families have every right to be impatient. We just have to work as hard as we can. There is A LOT to be proud of...but there is a lot work left to do.\" @VP https://t.co/gwf3aTiaHt",
-          "url": "https://x.com/RealAmVoice/status/2125662060981997586",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125658621904126125",
           "created_at": "2026-11-25T18:31:22.000Z",
           "author_name": "Open Source Intel",
@@ -235,26 +305,6 @@
           "author_handle": "_Investinq",
           "text": "Wall Street just staged its biggest intraday comeback since April 2025\n\nThe S&amp;P 500 was down 3.2% this morning and is now down just 0.5%, a 2.7 point swing off the lows\n\nThe Dow erased a 2.2% drop and turned green, now up 0.4%\n\nThe Nasdaq 100 went from down 4.7%, when it briefly https://t.co/mdCf6LIZ60",
           "url": "https://x.com/_Investinq/status/2125658237018234971",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125657826618184112",
-          "created_at": "2026-11-25T18:28:13.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Netanyahu double spotted in Iran today. He’s a celebrity.  https://t.co/w9MTeoqWtA",
-          "url": "https://x.com/Osint613/status/2125657826618184112",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125657644132438447",
-          "created_at": "2026-11-25T18:27:29.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "EGYPT: A truck carrying petroleum products caught fire in Giza’s Warraq district, killing 21 people and injuring 15, Egypt’s Health Ministry said. https://t.co/FaKUmcxk2a",
-          "url": "https://x.com/Osint613/status/2125657644132438447",
           "verified": true,
           "verified_type": "blue"
         },
@@ -365,16 +415,6 @@
           "author_handle": "Outkick",
           "text": "How Aaron Rodgers is gonna be moving on Friday somewhere in the mountains https://t.co/engtxzig9J",
           "url": "https://x.com/Outkick/status/2125634569739104543",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125633563110375867",
-          "created_at": "2026-11-25T16:51:48.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Bloomberg Commodity Index is on track for its 6th consecutive weekly decline, its longest losing streak since May 2023.\n\nThis index includes 25 exchange-traded futures contracts across energy, metals, and agriculture.\n\nThis would also mark its 6th longest losing https://t.co/3cSPKyxWu7",
-          "url": "https://x.com/KobeissiLetter/status/2125633563110375867",
           "verified": true,
           "verified_type": "business"
         },
@@ -529,16 +569,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125588054283030692",
-          "created_at": "2026-11-25T13:50:58.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "A Thanksgiving benching AND not even allowed to suit up? \n\nMike McCarthy isn't messing around with Aaron Rodgers.\n\n✍️ @ArmandoSalguero \nhttps://t.co/HV2IDYlnJS",
-          "url": "https://x.com/Outkick/status/2125588054283030692",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125580453562253755",
           "created_at": "2026-11-25T13:20:46.000Z",
           "author_name": "Tim Pool",
@@ -599,16 +629,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125516563277328690",
-          "created_at": "2026-11-25T09:06:53.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Starlink https://t.co/pN3jnQEpWE",
-          "url": "https://x.com/elonmusk/status/2125516563277328690",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125465480840581570",
           "created_at": "2026-11-25T05:43:54.000Z",
           "author_name": "SightBringer",
@@ -637,16 +657,6 @@
           "url": "https://x.com/_The_Prophet__/status/2125416412781097142",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125413280713789686",
-          "created_at": "2026-11-25T02:16:29.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Full breakdown 👇\nhttps://t.co/20lRbO05Vb",
-          "url": "https://x.com/Outkick/status/2125413280713789686",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125365384379301906",
@@ -771,16 +781,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+          "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
+        },
+        {
           "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
           "summary": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html"
-        },
-        {
-          "headline": "There are 5,100 newly minted Anthropic millionaires — here’s all the stuff they don’t tell you about when you suddenly get rich",
-          "summary": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
         },
         {
           "headline": "Average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
@@ -807,22 +817,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
-          "summary": "ORLANDO, Fla. (AP) — Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St.",
+          "headline": "NFL predictions: 4 keys to a Lions victory over the Bears in Week 12 on Thanksgiving",
+          "summary": "Detroit Lions running back Jahmyr Gibbs (0) runs for a touchdown against Chicago Bears linebacker T.J. Edwards (53) during the first half at Ford Field in Detroit on Sunday, Sept.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/au-duke-st-bonaventure-knock-190224688.html"
+          "url": "https://sports.yahoo.com/nfl/articles/nfl-predictions-4-keys-lions-193805796.html"
+        },
+        {
+          "headline": "Mike Tomlin is the biggest winner of the Aaron Rodgers-Steelers feud",
+          "summary": "On Tuesday night, as a new day approached, the Pittsburgh Steelers benched Aaron Rodgers . It was bizarre timing and an unceremonious end to the four-time MVP's experiment in Pittsburgh.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/mike-tomlin-biggest-winner-aaron-192716180.html"
         },
         {
           "headline": "Dar scores 15 in Rice’s 82-74 victory over Ohio",
           "summary": "Jacob Dar and Dallas Hobbs each scored 15 points as Rice beat Ohio 82-74 on Wednesday",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/dar-scores-15-rices-82-74-victory-ohio-138449580"
-        },
-        {
-          "headline": "Brasileirão: matchweek 37 kicks off with Chape win over Palmeiras",
-          "summary": "Chapecoense defeated Palmeiras 3–0 in the 37th round of the Brasileirão Credits: João Pedro Zatta Grolli/ACF The 37th round of the Brasileirão kicked off on Tuesday (24) with Chapecoense's 3–0 victory over Palmeiras at Arena Condá in Chapecó, Santa Catarina. Miguel Carvalho, Max and Camilo found the net for the home side.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/brasileir-o-matchweek-37-kicks-190000587.html"
         },
         {
           "headline": "CFP chaos scenarios: Rivalry Week upsets could scramble Big Ten, SEC, Big 12 races",
@@ -843,16 +853,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon",
+          "summary": "Over the last six months, a conversation has taken over Hollywood: can the unimaginable success of films like “Backrooms” and “Obsession” usher in the YouTube Age? For Saudi filmmakers, this is a decade-long conversation, driven by a wave of filmmakers raised in a country with no cinemas, who relied on online platforms for production and […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/horror-soulala-youtube-generation-saudi-doha-1236956740/"
+        },
+        {
           "headline": "David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’",
           "summary": "David Fincher admitted in an interview published Wednesday that some AI was used in the post-production of “The Further Mis-Adventures of Cliff Booth,” but that it was all done to enhance the work of “real human beings.” Fincher appeared on The Ringer’s “Big Picture” podcast, where he told host Sean Fennessey that AI helped sync the best […]",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/"
-        },
-        {
-          "headline": "Veruschka, Supermodel Who Appeared in ‘Blow-Up,’ ‘Casino Royale,’ Dies at 87",
-          "summary": "Veruschka, the striking 1960s and ’70s supermodel who inspired some of Richard Avedon’s most iconic images and appeared in films including Michelangelo Antonioni’s “Blow-Up,” has died. She was 87.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/veruschka-supermodel-blow-up-1236958180/"
         },
         {
           "headline": "Takashi Miike’s ‘Bad Lieutenant: Tokyo’ From Neon Gets Early 2027 Release",
@@ -879,6 +889,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘The Pitt’ Sets Season 3 Premiere Date",
+          "summary": "The holidays have arrived early, as HBO Max has revealed that its critically acclaimed medical drama, The Pitt, will premiere its third season on January 7, 2027. The news dropped today via the show’s Instagram account, with actors Taylor Dearden, Isa Briones, and Gerran Howell dressed as their characters Mel, Santos, and Whitaker, respectively.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493/"
+        },
+        {
           "headline": "A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)",
           "summary": "The media brand is working with the company to adapt traditional entertainment projects into mobile-first vertical stories, with episodes no more than two minutes long.",
           "source": "The Hollywood Reporter",
@@ -901,12 +917,6 @@
           "summary": "Both shows last had new episodes in 2024.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-9-15-2026-1236763130/"
-        },
-        {
-          "headline": "Gordon Ramsay To Host Revived ‘Top Gear’ For BBC",
-          "summary": "Gordon Ramsay is shifting from the kitchen to the race track. The superstar chef has been unveiled as the next host of the BBC’s Top Gear, coming four years after Andrew Flintoff’s crash.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/top-gear-gordon-ramsay-host-bbc-2027-andrew-flintoff-1237233336/"
         }
       ]
     },
@@ -914,6 +924,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
+          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
+        },
         {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
@@ -937,12 +953,6 @@
           "summary": "After nine years leading the annual Rocky Mountains industry retreat, she will step down on Dec. 11.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/jenn-kuzmyk-exit-banff-1236763033/"
-        },
-        {
-          "headline": "Mindy Kaling Will Be Honored With The Hollywood Reporter’s Equity in Entertainment Award at Women in Entertainment Gala",
-          "summary": "Maitreyi Ramakrishnan is set to present Kaling with the award at the Los Angeles event, which is presented by founding sponsor Lifetime and title sponsor Lilly. Mary Beth Barone will open the program.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/mindy-kaling-hollywood-reporter-equity-entertainment-award-1236762197/"
         }
       ]
     },
@@ -951,37 +961,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Brandi Carlile Slams ICE for ‘Horrific’ Detainments in Seattle: ‘We Need to Do Something About It’",
-          "summary": "Brandi Carlile is joining the outcry in her home state of Washington following the controversial ICE detainments of two people at Seattle-Tacoma International Airport. Related Pearl Jam Slams ‘Cold Cruelty’ of ICE After ‘Unconscionable’ Detainments at Seattle Airport Ms.",
+          "headline": "Billboard Hot Latin Songs Top 10 Countdown for Nov. 28, 2026 | Billboard Latin",
+          "summary": "“Te Estoy Correteando” rises and Fuerza Regida’s “Suzuki” continues to go higher, but will either song hit No. 1 on the Hot Latin Songs chart this week?",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/brandi-carlile-slams-ice-seattle-airport-detainment-1236389587/"
+          "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-november-28-2026/"
         },
         {
-          "headline": "Jay Wheeler Reveals How He’s Building a Legacy Beyond Music | Billboard Presents",
-          "summary": "This is partner content. Leila Cobo, Billboard ‘s co-chief content officer, joins Jay Wheeler at some of the most meaningful places in his life in Miami, presented by Lexus.",
+          "headline": "Luke Bryan & Luke Combs Channel Old-School Influences in ‘Finders Keepers’: ‘I Want to Put Songs Out That Could Go Right Into The Set List’",
+          "summary": "“Luke-ing” back across the years, Luke Bryan didn’t have much country competition in branding his name. Hank Williams recorded a series of recitations under the pseudonym Luke the Drifter, and stretching the boundaries a bit, Waylon Jennings had a landmark hit with “Luckenbach, Texas (Back to the Basics of Love).” Bryan got used to being known in the…",
           "source": "Billboard",
-          "url": "https://www.billboard.com/video/jay-wheeler-reveals-how-hes-building-legacy-beyond-music/"
+          "url": "https://www.billboard.com/music/country/luke-bryan-luke-combs-finders-keepers-makin-tracks-1236389621/"
+        },
+        {
+          "headline": "Cardi B and Offset See Beverly Hills Mansion Lawsuit Dismissed After Settlement",
+          "summary": "The estranged couple was accused of filming Cardi B’s “Like What” music video at the iconic mansion under the guise of shooting a TikTok clip",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/cardi-b-offset-beverly-hills-mansion-lawsuit-settlement-1235664297/"
+        },
+        {
+          "headline": "Bradford Cox Reveals Autism Diagnosis",
+          "summary": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/bradford-cox-reveals-autism-diagnosis/"
         },
         {
           "headline": "How Riot Games Turned ‘League of Legends’ Into a Music Empire",
           "summary": "Virtual artists and reality collide at the 2026 World Championship",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/how-riot-games-turned-league-of-legends-into-music-empire-1235662969/"
-        },
-        {
-          "headline": "Police Say Unknown Substance at Don Toliver Concert Could Be Linked to Arena Robberies",
-          "summary": "The Greater Manchester Police have officially lifted the scene but the investigation continues",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/don-toliver-concert-evacuation-substance-investigation-1235664243/"
-        },
-        {
-          "headline": "From Duke Ellington to Louis Armstrong, 1926 represented a turning point in jazz",
-          "summary": "Jazz historian Kevin Whitehead says that 100 years ago, the music's expressive range and resources were rapidly expanding. He shares six of the dozens of recordings made in November 1926.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6053940/from-duke-ellington-to-louis-armstrong-1926-represented-a-turning-point-in-jazz"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T14:17:42-05:00"
+  "updatedAt": "2026-11-25T14:45:42-05:00"
 }
