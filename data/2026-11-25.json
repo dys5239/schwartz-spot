@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Has vibe coding made open source the new normal for synths?",
+          "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware"
+        },
+        {
           "headline": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
           "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
           "source": "Wired",
@@ -28,12 +34,6 @@
           "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
-        },
-        {
-          "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-          "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
         }
       ]
     },
@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Sterling given suspended sentence for dangerous driving",
+          "headline": "Army's lead azide detonation set for Wednesday at Iowa plant following delays",
+          "summary": "The detonation is set to occur at approximately 9 a.m. CT on Wednesday at the Iowa Army Ammunition Plant in Middletown, according to the Army.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        },
+        {
+          "headline": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
           "summary": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "WATCH: Best and worst times to drive",
-          "summary": "ABC News' Rhiannon Ally provides the latest updates on the road as gas prices drop, offering some relief for drivers this Thanksgiving.",
+          "headline": "Powerful storm threatens East Coast with hurricane-level flooding, damaging winds",
+          "summary": "More than 31 million people are under coastal flood warnings along both coasts as a powerful storm takes shape, bringing the threat of hurricane-level flooding.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138435898/"
+          "url": "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983"
         },
         {
-          "headline": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-          "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "WATCH: Australian man bikes 10,000 miles across 48 US states",
-          "summary": "ABC News' Danny New talks to ultra cyclist Jack Thompson, who rode through all 48 states in the contiguous U.S., covering almost 10,000 miles in 60 days.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138434718/"
+          "headline": "Iran denounces U.S. use of AI in war",
+          "summary": "Iran's U.N. envoy claims the U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
           "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125576951364731018",
+          "created_at": "2026-11-25T13:06:51.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Hmm https://t.co/ng0CBjY6DU",
+          "url": "https://x.com/elonmusk/status/2125576951364731018",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125576901058293770",
+          "created_at": "2026-11-25T13:06:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian Foreign Ministry: Lebanon has the right to defend its sovereignty.\n\nTehran condemned Israel's air and artillery strikes in southern Lebanon.",
+          "url": "https://x.com/Osint613/status/2125576901058293770",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125576163720642762",
+          "created_at": "2026-11-25T13:03:43.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Yes https://t.co/fwFN4qiOI8",
+          "url": "https://x.com/elonmusk/status/2125576163720642762",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125575837747458516",
+          "created_at": "2026-11-25T13:02:25.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Did Vols fans just \"Schiano Sunday\" the CFP committee?\n\n🏈 Michigan rescinds Trev Alberts offer\n🏈 Top 10 games of Rivalry Week\n🏈 The Rams' insane NFL schedule\n🏈 Thanksgiving football preview\n\nHutton &amp; Withrow LIVE! https://t.co/IeunpNoA7p",
+          "url": "https://x.com/SportNState/status/2125575837747458516",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125575245235101809",
+          "created_at": "2026-11-25T13:00:04.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The CFP committee finally knocked Alabama down, Indiana fell out of the field and Texas and Notre Dame jumped into the top five. With one week left in the regular season, the playoff picture is starting to take shape and rivalry week can still blow it all up.\n\n@ByGusWilson gives",
+          "url": "https://x.com/SportNState/status/2125575245235101809",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125575212561555943",
+          "created_at": "2026-11-25T12:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THE AMERICAN SUNRISE SHOW https://t.co/vQ4FptFHL2",
+          "url": "https://x.com/RealAmVoice/status/2125575212561555943",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125572185649492132",
           "created_at": "2026-11-25T12:47:54.000Z",
@@ -135,16 +195,6 @@
           "author_handle": "Osint613",
           "text": "British military bases are on high alert over credible sabotage and drone threats linked to Russia and Iran. The Royal Air Force is moving high-value aircraft into hangars and hardened shelters overnight. Planes left exposed on runways are being covered with Kevlar anti-drone https://t.co/QYE6AyCCiy",
           "url": "https://x.com/Osint613/status/2125569597092856038",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125569041884500469",
-          "created_at": "2026-11-25T12:35:25.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: Netanyahu Trial Judges Call In Attorney General, Urge Her to Drop Bribery Charge\n\nJerusalem District Court judges called Attorney General Gali Baharav Miara to court on November 25 and urged her to reassess the charges after Netanyahu finished testifying.\n\nIn Case 4000, the https://t.co/rWBVmu22ht",
-          "url": "https://x.com/Osint613/status/2125569041884500469",
           "verified": true,
           "verified_type": "blue"
         },
@@ -235,26 +285,6 @@
           "author_handle": "elonmusk",
           "text": "Grok Bot can research the best Black Friday deals for you and confirm they’re authentic https://t.co/itRd8fazd9",
           "url": "https://x.com/elonmusk/status/2125464682580623467",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125463852146114994",
-          "created_at": "2026-11-25T05:37:26.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Impressive work by Google https://t.co/lMbNUq9Zd4",
-          "url": "https://x.com/elonmusk/status/2125463852146114994",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125462322483503370",
-          "created_at": "2026-11-25T05:31:21.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "True https://t.co/yXQvmVvHhe",
-          "url": "https://x.com/elonmusk/status/2125462322483503370",
           "verified": true,
           "verified_type": "blue"
         },
@@ -469,16 +499,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125392775709442324",
-          "created_at": "2026-11-25T00:55:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "‘JUSSIE SMOLLETT 2.0?’ FORMER CONGRESSIONAL AIDE ACCUSED OF STAGING ANTI-TRUMP ATTACK\n\nA former aide to Rep. Jeff Van Drew, Natalie Greene, has been indicted over an alleged staged attack in which she claimed three men targeted her over her political affiliation.\n\nFederal https://t.co/wnXiavPVwY",
-          "url": "https://x.com/RealAmVoice/status/2125392775709442324",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125373983025734076",
           "created_at": "2026-11-24T23:40:19.000Z",
           "author_name": "The Kobeissi Letter",
@@ -599,16 +619,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125296783652004177",
-          "created_at": "2026-11-24T18:33:33.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "If the SEC can’t enforce its own rules, what’s the point of the SEC?\n\nGreg Sankey needs to make LSU bend the knee. But expelling the Tigers could provide the proof of concept that other independence-curious schools are looking for. \n\n✍️: @mattyfoles\nhttps://t.co/JX4upU7pFZ",
-          "url": "https://x.com/SportNState/status/2125296783652004177",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125296371188330836",
           "created_at": "2026-11-24T18:31:55.000Z",
           "author_name": "SightBringer",
@@ -655,16 +665,6 @@
           "author_handle": "glennbeck",
           "text": "Gratitude isn’t a feeling that shows up when life goes well. Think of two farmers standing in the same rain. One looks at his cut hay getting soaked because he didn't get it baled and dry in time. The other looks at that exact same soaked hay, but knows the rain will bring next https://t.co/nm7BBABEN9",
           "url": "https://x.com/glennbeck/status/2125287542283206698",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125282719785783450",
-          "created_at": "2026-11-24T17:37:40.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "It's Thanksgiving, so it's time to feast on these winning picks on @HardRockBet 🦃🏈\n\n@ClayTravis shares six bets in the NFL for this special holiday week.\nhttps://t.co/vgFi8i6jZa",
-          "url": "https://x.com/SportNState/status/2125282719785783450",
           "verified": true,
           "verified_type": "blue"
         },
@@ -817,10 +817,10 @@
           "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html"
         },
         {
-          "headline": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-          "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
+          "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+          "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html"
+          "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
         },
         {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
@@ -847,12 +847,6 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Erling Haaland has said Manchester City are conceding too easily after their 2-2 UEFA Champions League draw with Napoli at the Etihad Stadium.",
-          "summary": "Haaland, 26, failed to find the net on Tuesday night as Ayyoub Bouaddi and Rayan Cherki twice brought Manchester City level, with the Norway international seeing a penalty appeal waved away in the first-half after being held as he went for a header. City wore an orange Special Edition kit for the occasion and the result extended their winless run to…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/erling-haaland-said-manchester-city-123000437.html"
-        },
-        {
           "headline": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
           "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
           "source": "CBS Sports",
@@ -875,6 +869,12 @@
           "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
+        },
+        {
+          "headline": "Nets at Bucks NBA Cup game preview: How to watch, injuries, lineups",
+          "summary": "The Brooklyn Nets (3-13) did not begin their four-game road trip on the right foot as they suffered a blowout defeat at the hands of the Minnesota Timberwolves on Monday. However, Brooklyn has a chance to redeem itself with an NBA Cup matchup at the Milwaukee Bucks (2-16) on Wednesday and if you're wondering where you can watch all the action live,…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/articles/nets-bucks-nba-cup-game-125320971.html"
         }
       ]
     },
@@ -883,16 +883,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Mike Newell Recalls Being Shot at in Colombia While Filming ‘Love in the Time of Cholera’ With Giovanna Mezzogiorno: ‘She Was Like, “F— All This!”’",
-          "summary": "This year’s Torino Film Festival opened with a valentine to British artists, as directors Stephen Frears and Mike Newell collected lifetime achievement awards ahead of a screening of “November 1963,” the latest from Palme d’Or winner Roland Joffé. Of the same generation, the three filmmakers followed remarkably similar paths.",
+          "headline": "Hollywood Gets Roasted in Satirical Picture Book ‘We Make a Movie’: ‘I Loved Your Script … Now Change Everything’ (EXCLUSIVE)",
+          "summary": "“I loved your script. It is perfect.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/mike-newell-love-in-the-time-of-cholera-giovanna-mezzogiorno-1236957563/"
+          "url": "https://variety.com/2026/film/global/hollywood-roasted-satirical-picture-book-we-make-a-movie-1236957842/"
         },
         {
-          "headline": "Vijay Sethupathi’s ‘Maharaja’ Producer Confirms Hollywood Remake Approach as WAVES Film Bazaar Panel Weighs Whether Indian IP Can Travel",
-          "summary": "The success in China of Tamil thriller “Maharaja” has led to an approach from a Hollywood agency for remake rights, producer Sudhan Sundaram confirmed during a panel at WAVES Film Bazaar, the market held alongside the 57th International Film Festival of India (IFFI) in Goa, where the film was held up as an example of […]",
+          "headline": "AI Horror Short ‘Sikkal’ Wins WIF India x Google Flow Filmathon as Director Promita Banerjee Aims to Make ‘Films With Humans’",
+          "summary": "A horror short rooted in the toll of sickle cell disease on India’s tribal communities has won the inaugural WIF India x Google Flow Filmathon. Promita Banerjee’s “Sikkal,” made with Google’s AI creative workspace Google Flow, took the INR1.2 million ($12,500) first prize.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/vijay-sethupathi-maharaja-hollywood-remake-approach-confirmed-1236957881/"
+          "url": "https://variety.com/2026/film/festivals/ai-horror-short-sikkal-wif-india-google-flow-filmathon-1236957898/"
         },
         {
           "headline": "Damian Lewis Boards Short Film ‘Odessa’ as Executive Producer (Exclusive)",
@@ -919,6 +919,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘The Body’ Star Kristina Bogic Just Wanted to Take Care of Anya: “A Lot of Young Women Can Relate”",
+          "summary": "The 19-year-old star of Netflix's latest hit breaks down how she came to love her dance team captain character: \"Anya always wants to try and do the right thing.\"",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/kristina-bogic-anya-the-body-interview-1236762320/"
+        },
+        {
           "headline": "‘I’m A Celebrity… Get Me Out Of Here!’ Row Over “Microaggressions” Sparks 900 Complaints",
           "summary": "A dispute between I’m A Celebrity… Get Me Out Of Here! campmates AJ Odudu and Mariella Frostrup has sparked nearly 900 viewer complaints.",
           "source": "Deadline",
@@ -941,12 +947,6 @@
           "summary": "The cat’s out of the bag. Amanda Seyfried not only appears in Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes documentary “You Can See Everything,” but her winning turn as Holmes (and herself) may make history as the first doc performance to win an acting Oscar (and perhaps the first to win an Oscar and an […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/amanda-seyfried-you-can-see-everything-script-elizabeth-holmes-nathan-fielder-1236957716/"
-        },
-        {
-          "headline": "‘Dancing With the Stars’: All 35 Winners",
-          "summary": "A Tony winner, several Olympians, Super Bowl champions, Bachelorettes and the Irwin siblings are just a few of the stars who have won the coveted mirrorball trophy throughout the show’s 20-year history.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list/"
         }
       ]
     },
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T07:49:24-05:00"
+  "updatedAt": "2026-11-25T08:10:47-05:00"
 }
