@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-          "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed, Macy's said Wednesday.",
+          "headline": "How a new generation of AI agents could change holiday shopping",
+          "summary": "The internet revolutionized holiday shopping by allowing people to make purchases without leaving their homes. Now, a new generation of AI agents is promising an even bigger change: Doing the shopping for you.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
+          "url": "https://www.cbsnews.com/video/how-a-new-generation-of-ai-agents-could-change-holiday-shopping/"
         },
         {
-          "headline": "Iran denounces U.S. use of AI in war",
-          "summary": "Iran's U.N. envoy claims the U.S.",
+          "headline": "Blindsided by Iowa detonation, White House scrambled, sources say",
+          "summary": "White House officials have expressed frustration in internal conversations that they had to scramble to deal with the crisis.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/"
         },
         {
-          "headline": "Duran Duran guitarist Andy Taylor dies, aged 65",
+          "headline": "Duran Duran guitarist Andy Taylor dies aged 65",
           "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Poundland collapses putting 11,000 jobs at risk",
-          "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+          "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+          "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-          "summary": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection"
+          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
+          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125720495043879268",
+          "created_at": "2026-11-25T22:37:14.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "🚨 EXCLUSIVE 🚨 \n\n‼️ Live Animals Vanish Overnight at Orlando Halal Islamic Slaughterhouse Shortly After Florida Court Signs Off On Livestock Seizure Order For AG and @FDACS — Dead Goats Found Hours Later with Foaming Mouths ‼️ \n\nLate last night, the Florida Attorney General https://t.co/XVZwKSkDE0 https://t.co/gwwiAR89rj",
+          "url": "https://x.com/LauraLoomer/status/2125720495043879268",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125719171334095311",
+          "created_at": "2026-11-25T22:31:59.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️I'm Tony Montana. 😂 https://t.co/aDokRX55HZ",
+          "url": "https://x.com/_The_Prophet__/status/2125719171334095311",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125718460642783369",
+          "created_at": "2026-11-25T22:29:09.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Getting the fellas ready to hit the hometown bars later  https://t.co/9xsppiUx6i",
+          "url": "https://x.com/Outkick/status/2125718460642783369",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125717514365829531",
+          "created_at": "2026-11-25T22:25:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Macy’s 100th Thanksgiving Day parade pushed back to Saturday due to severe weather.",
+          "url": "https://x.com/Osint613/status/2125717514365829531",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125716009101459690",
+          "created_at": "2026-11-25T22:19:25.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "99% of meetings are worthless. Just work! https://t.co/d1eWWHMbMV",
+          "url": "https://x.com/ClayTravis/status/2125716009101459690",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125715718247510327",
+          "created_at": "2026-11-25T22:18:15.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "\"I know how to win. And that's the facts.\"\n\nMike McCarthy standing on business after Aaron Rodgers went nuclear on him  https://t.co/E3Cc3KuXcq",
+          "url": "https://x.com/Outkick/status/2125715718247510327",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125714926916587830",
+          "created_at": "2026-11-25T22:15:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Mohamed El-Erian says a 2018-style Fed pivot is off the table and the December hike is now very hard to avoid\n\n\"I don't think they can do a 2018 with the inflation numbers we got today\"\n\n\"If people had followed Kevin Warsh in refraining from forward guidance, we wouldn't be in a https://t.co/xaG5r1hYgR",
+          "url": "https://x.com/_Investinq/status/2125714926916587830",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125713388424876102",
           "created_at": "2026-11-25T22:09:00.000Z",
@@ -109,22 +179,22 @@
           "verified_type": "business"
         },
         {
-          "id": "2125711110158574002",
-          "created_at": "2026-11-25T21:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WAR ROOM WITH STEVE BANNON PM EDITION https://t.co/KfyRxli3W0",
-          "url": "https://x.com/RealAmVoice/status/2125711110158574002",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125710055286718499",
           "created_at": "2026-11-25T21:55:45.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "BOLLING TORCHES HOSTIN’S ‘HILLARY IS NEVER WRONG’ CLAIM\n\nThe View’s Sunny Hostin made a bold declaration while discussing the controversy surrounding Nvidia CEO Jensen Huang.\n\n“She's never been wrong, and this is what it is.”\n\n@ericbolling wasn't about to let that one slide, https://t.co/rFsPxyXV5i",
           "url": "https://x.com/RealAmVoice/status/2125710055286718499",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125708411387916506",
+          "created_at": "2026-11-25T21:49:13.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CHAOS INSIDE MIGRANT CARAVANS\n\n@OscarRamirezTJ reports another caravan of 300 migrants has entered Mexico, with more groups expected in mid-December and early January.\n\n“It's not just a few; it's a lot of these bad actors, and this needs to stop.”\n\nReporting from the ground, https://t.co/Rewsis8rXq",
+          "url": "https://x.com/RealAmVoice/status/2125708411387916506",
           "verified": true,
           "verified_type": "business"
         },
@@ -319,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125686934089650459",
-          "created_at": "2026-11-25T20:23:53.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Kushner on Europe:\n\n\"The Europeans ask a lot of America. But when it came to the Iranian situation, I think they definitely did not impress.\"",
-          "url": "https://x.com/Osint613/status/2125686934089650459",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125686323818180737",
           "created_at": "2026-11-25T20:21:27.000Z",
           "author_name": "The Kobeissi Letter",
@@ -359,26 +419,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125684210048393353",
-          "created_at": "2026-11-25T20:13:03.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Need one https://t.co/PMdKRk6Ptz",
-          "url": "https://x.com/Outkick/status/2125684210048393353",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125683023949562363",
-          "created_at": "2026-11-25T20:08:20.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "🚨 The Steelers are releasing Aaron Rodgers after his appearance on the Pat McAfee show https://t.co/XYxYXaQqhr",
-          "url": "https://x.com/Outkick/status/2125683023949562363",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125679436636766488",
           "created_at": "2026-11-25T19:54:05.000Z",
           "author_name": "Sport & State",
@@ -395,16 +435,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️What a legend. https://t.co/mfAjQUCACW",
           "url": "https://x.com/_The_Prophet__/status/2125678956875780451",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125678369543241863",
-          "created_at": "2026-11-25T19:49:51.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡ Human judgment is about to acquire a price tag: the cost of disagreeing with a machine.\n\nDario Amodei argues that humans should remain free to do things themselves even when AI can do them better.\n\nConsider a hospital where an AI consistently outperforms physicians at a https://t.co/eLWtheM1or",
-          "url": "https://x.com/_The_Prophet__/status/2125678369543241863",
           "verified": true,
           "verified_type": "blue"
         },
@@ -529,16 +559,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125643286157390108",
-          "created_at": "2026-11-25T17:30:26.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Former CBO Director Douglas Holtz-Eakin says bringing Huang back means Nvidia brings back \"a million investigations, a thousand suits by state AGs\"\n\n\"Having Jensen Huang as the CEO of Nvidia doesn't change that threat a bit\"\n\n\"A guy who has slept with two direct reports and it https://t.co/Kk2vCyqn2G",
-          "url": "https://x.com/_Investinq/status/2125643286157390108",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125642617857953902",
           "created_at": "2026-11-25T17:27:47.000Z",
           "author_name": "Clay Travis",
@@ -559,16 +579,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125635650619576785",
-          "created_at": "2026-11-25T17:00:06.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "LSU Could Be KICKED OUT of the SEC, World Cup Paywall, &amp; Thanksgiving Mailbag https://t.co/ORX2KPFC06",
-          "url": "https://x.com/ClayTravis/status/2125635650619576785",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125632723079385166",
           "created_at": "2026-11-25T16:48:28.000Z",
           "author_name": "Laura Loomer",
@@ -585,16 +595,6 @@
           "author_handle": "LauraLoomer",
           "text": "We call her Marjorie Traitor Greene for a reason. \n\nFacts matter! https://t.co/2eHEUdo1eo",
           "url": "https://x.com/LauraLoomer/status/2125631280696148358",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125629630975721570",
-          "created_at": "2026-11-25T16:36:10.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Yah, we know, Tucker Qatarlson. \n\nJust like the Qataris. Everything in excess with zero modesty and very gauche. \n\nEverybody who wears a bow tie is a first class douche bag. \n\nIt’s like science. https://t.co/pgw3VbOFba",
-          "url": "https://x.com/LauraLoomer/status/2125629630975721570",
           "verified": true,
           "verified_type": "blue"
         },
@@ -761,10 +761,10 @@
           "url": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/"
         },
         {
-          "headline": "Blindsided by Iowa detonation, White House scrambled, sources say",
-          "summary": "White House officials have expressed frustration in internal conversations that they had to scramble to deal with the crisis.",
+          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/"
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         },
         {
           "headline": "Group of Senate Democrats push to add freshman to leadership",
@@ -803,12 +803,6 @@
           "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html"
         },
         {
-          "headline": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-          "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
-        },
-        {
           "headline": "Stocks turn volatile as Jensen Huang rebound rally fades",
           "summary": "The tech-heavy Nasdaq index fell more than 1,000 points in early trading before clawing back most of the losses.",
           "source": "CBS News",
@@ -819,6 +813,12 @@
           "summary": "Flying during the holidays can be pricey. So, airlines are pitching more and more specialty brand credit cards on your flight.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability"
+        },
+        {
+          "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+          "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
         }
       ]
     },
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "2 goals, 84% passing accuracy: Bruno Fernandes’ efforts go to waste as Man United held 2-2 by Sporting",
-          "summary": "Manchester United were held to a 2-2 draw by Sporting at the Estádio José Alvalade on Wednesday, 25 November, in the Champions League. A Bruno Fernandes brace was cancelled out by two goals from Luis Suárez in an entertaining game that earned Mauricio Pochettino his first points since taking charge at Old Trafford.",
+          "headline": "NFL predictions: Looking for a Packers road upset over the Rams",
+          "summary": "INGLEWOOD, CALIFORNIA - OCTOBER 6: (L-R) Head coach Sean McVay of the Los Angeles Rams hugs head coach Matt LaFleur of the Green Bay Packers after their game at SoFi Stadium on October 6, 2024 in Inglewood, California. (Photo by Ric Tapia/Getty Images) | Getty Images It’s nearly time to kick off the NFL’s latest attempt at creating a new holiday, and the…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/2-goals-84-passing-accuracy-215500829.html"
+          "url": "https://sports.yahoo.com/nfl/articles/nfl-predictions-looking-packers-road-224000527.html"
         },
         {
-          "headline": "LOSC Lille 2-1 Bayern Munich: Initial Observations and Reactions",
-          "summary": "LILLE, FRANCE - NOVEMBER 25: Aleksandar Pavlovic of FC Bayern Munich reacts after scoring an own goal, the second goal for LOSC Lille during the UEFA Champions League 2026/27 League Phase MD5 match between LOSC Lille and FC Bayern München at Stade Pierre Mauroy on November 25, 2026 in Lille, France. (Photo by Alexander Hassenstein - UEFA/UEFA via Getty…",
+          "headline": "Krivas scores 31, grabs 17 rebounds as No. 8 Arizona tops Ole Miss 84-73 for Maui Invitational title",
+          "summary": "MAUI, Hawaii (AP) — Motiejus Krivas had 31 points and 17 rebounds to help No. 8 Arizona rally from a seven-point halftime deficit and beat Ole Miss 84-73 on Wednesday and win the Maui Invitational championship.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/losc-lille-vs-bayern-munich-170000075.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/krivas-scores-31-grabs-17-223510305.html"
         },
         {
-          "headline": "Ndjonga puts up 22 as Stony Brook downs Lindenwood 69-63",
-          "summary": "Bryan Ndjonga scores 22 points as Stony Brook beats Lindenwood 69-63",
+          "headline": "Ipsaro scores 20 as Miami of Ohio knocks off Eastern Kentucky 85-72",
+          "summary": "Evan Ipsaro scored 20 points as Miami of Ohio beat Eastern Kentucky 85-72",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ndjonga-puts-22-stony-brook-downs-lindenwood-69-138452503"
+          "url": "https://abcnews.com/Sports/wireStory/ipsaro-scores-20-miami-ohio-knocks-off-eastern-138453531"
         },
         {
-          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
-          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
+          "headline": "Jenkins scores 15 and Brown downs Johnson & Wales 98-52",
+          "summary": "Jeremiah Jenkins’ 15 points helped Brown defeat Johnson & Wales 98-52",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
+          "url": "https://abcnews.com/Sports/wireStory/jenkins-scores-15-brown-downs-johnson-wales-98-138454419"
         },
         {
-          "headline": "CFP chaos scenarios: Rivalry Week upsets could scramble Big Ten, SEC, Big 12 races",
-          "summary": "A chaotic final weekend could reshape conference title races and playoff positioning, with Selection Sunday stakes growing by the hour",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/cfp-chaos-scenarios-rivalry-week-big-ten-sec-big-12/"
+          "headline": "Never-say-quit Arizona women’s basketball comes back from 18 down to defeat George Washington",
+          "summary": "Arizona women’s basketball guard Molly Ladwig celebrates during the Wildcats’ come-from-behind victory over George Washington on Nov. 25, 2026 | Photo courtesy of Arizona Athletics It wasn’t easy and it wasn’t pretty, but it’s a win.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/never-quit-arizona-women-basketball-223140795.html"
         }
       ]
     },
@@ -862,6 +862,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "‘The Mosquito Bowl’ Producer Alex Gayner Thought He’d Solved Every Problem a Set Could Throw at Him. Then Came a Runaway Parrot.",
+          "summary": "Ten seconds of footage ended up being the most nerve-wracking part of the shoot for the movie veteran who has been on sets since the '90s.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/the-mosquito-bowl-alex-gayner-1236763483/"
+        },
         {
           "headline": "With ‘Guarding Stars,’ Jared Padalecki Finally Takes A Break From All That Action",
           "summary": "The 'Walker' and 'Supernatural' star takes a backseat on the action in Netflix's latest romantic comedy, based on Katherine Center's 'The Bodyguard.'",
@@ -881,12 +887,6 @@
           "url": "https://variety.com/2026/film/features/focker-in-law-director-ariana-grande-casting-next-sequel-1236953332/"
         },
         {
-          "headline": "Amanda Seyfried Reveals Secret Elizabeth Holmes Role in ‘You Can See Everything’ Required a “Five-Factor Authentication App” to Read Script",
-          "summary": "\"How the hell did I manage to keep it under wraps?,” the actress joked.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-script-elizabeth-1236763095/"
-        },
-        {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
           "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
           "source": "NPR",
@@ -899,10 +899,10 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘The Hawk’ Starring Will Ferrell Canceled After One Season at Netflix",
-          "summary": "“The Hawk” has hit the rough. Netflix has canceled the golf comedy series after just one season.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470/"
+          "headline": "Will Ferrell’s Netflix Golf Comedy ‘The Hawk’ Canceled After One Season",
+          "summary": "So you can forget about the back nine.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/will-ferrell-netflix-comedy-the-hawk-canceled-one-season-1236763480/"
         },
         {
           "headline": "TV Ratings: ‘Dancing With the Stars’ Records Another Huge Finale",
@@ -911,16 +911,16 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/"
         },
         {
+          "headline": "Tony Romo, After Parting Ways With CBS Sports, Named ‘Chief Predictions Officer’ of Jake Paul’s Betr Betting App",
+          "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
+        },
+        {
           "headline": "‘Steven Universe’ Star Zyri Comes Out as Trans",
           "summary": "Zyri, who voiced the titular character in “Steven Universe” and played Brian Corbett on “The Goldbergs,” has come out as trans. In a Substack post on Wednesday, Zyri wrote about the challenges of being a child star and coming to terms with their gender identity.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/zyri-steven-universe-trans-comes-out-1236958383/"
-        },
-        {
-          "headline": "With HBO Series ‘Scams for a Better Tomorrow,’ Oobah Butler Has a Language for Your Frustration",
-          "summary": "The former Vice provocateur's five-part HBO series cons the wellness, tech and music industries to help make viewers \"feel less f***ing insane\" in modern times.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/oobah-butler-scams-for-a-better-tomorrow-hbo-max-vice-1236763316/"
         },
         {
           "headline": "Aaron Rodgers Released By NFL’s Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching",
@@ -935,12 +935,6 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
-          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
-        },
-        {
           "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
           "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
           "source": "The Hollywood Reporter",
@@ -953,16 +947,22 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
+          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
+          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
+        },
+        {
+          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
+          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
+        },
+        {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
-        },
-        {
-          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
-          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T17:11:24-05:00"
+  "updatedAt": "2026-11-25T17:45:56-05:00"
 }
