@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "How to talk AI around the Thanksgiving table",
+          "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table"
+        },
+        {
           "headline": "FCC approves SpaceX plan to put AI data centers in space",
           "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
           "source": "The Verge",
           "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
-        },
-        {
-          "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
-          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
-          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
-        },
-        {
-          "headline": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-          "summary": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection"
-        },
-        {
-          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
-          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
-        },
-        {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
           "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Leaked data shows 490,000 Russian forces have died in Ukraine war",
-          "summary": "Russian government data obtained by pro-Ukraine hackers and analyzed by the BBC indicates that Russia has lost at least 490,334 soldiers during its war on Ukraine.",
+          "headline": "China may have surveilled Alice Huang amid affair with Nvidia CEO",
+          "summary": "China's Ministry of State Security may have been surveilling Alice Huang and sought information from her after her affair with Nvidia CEO Jensen Huang began, U.S. officials told congressional staffers.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/"
+          "url": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/"
+        },
+        {
+          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
+          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
+        },
+        {
+          "headline": "Blindsided by Iowa detonation, White House scrambled, sources say",
+          "summary": "White House officials have expressed frustration in internal conversations that they had to scramble to deal with the crisis.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/"
+        },
+        {
+          "headline": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+          "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125707395691430008",
+          "created_at": "2026-11-25T21:45:11.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Okay but in fairness what’s the point of having a personal assistant if they aren’t bringing you ice cream sandwiches on demand? https://t.co/hWlJotQKOZ",
+          "url": "https://x.com/MattWalshBlog/status/2125707395691430008",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125706856525873295",
+          "created_at": "2026-11-25T21:43:02.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "An Aaron Rodgers-Mike McCarthy reunion in the Steel City didn’t exactly go according to plan.\n\nRodgers went scorched-earth Wednesday, sharing unflattering details about McCarthy, such as sleeping on the job and skipping meetings.\n\n✍️: @markjburns88\nhttps://t.co/c4rwqglATq",
+          "url": "https://x.com/SportNState/status/2125706856525873295",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125706188146839725",
+          "created_at": "2026-11-25T21:40:23.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "This is a Houthi convoy. \n\nImagine Saudi Arabia had an Air Force…. Oh, Wait  https://t.co/7Sec7grY50",
+          "url": "https://x.com/Osint613/status/2125706188146839725",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125704190500511860",
+          "created_at": "2026-11-25T21:32:27.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Interesting https://t.co/Xwro3Cwlam",
+          "url": "https://x.com/Osint613/status/2125704190500511860",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125704059034460224",
+          "created_at": "2026-11-25T21:31:56.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Wall Street just pulled off its biggest intraday comeback since April 2025\n\nThe S&amp;P 500 was down 3.21% at the lows and closed down just 0.25% at 7,182.78, a nearly 3 point rebound\n\nThe Dow erased a 1,105 point drop and closed up 164 points (+0.33%) at 50,182.95\n\nThe Nasdaq 100 https://t.co/Wz7KazcSkq",
+          "url": "https://x.com/_Investinq/status/2125704059034460224",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125704050763338049",
+          "created_at": "2026-11-25T21:31:54.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Agreed https://t.co/wO85lRBrdQ",
+          "url": "https://x.com/LauraLoomer/status/2125704050763338049",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125702317685284993",
+          "created_at": "2026-11-25T21:25:00.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Relatively new IRGC hardened facility https://t.co/uZrP2NyjKN",
+          "url": "https://x.com/Osint613/status/2125702317685284993",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125701189237133776",
+          "created_at": "2026-11-25T21:20:31.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Vrabel after getting a call from Aaron Rodgers https://t.co/7daKKbtFmw",
+          "url": "https://x.com/Outkick/status/2125701189237133776",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125699666649964591",
           "created_at": "2026-11-25T21:14:28.000Z",
@@ -249,16 +329,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125686286090694878",
-          "created_at": "2026-11-25T20:21:18.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Jared Kushner on Ukraine War:\n\nWe are not going to decide anything without agreement with Europe and without agreement of Ukraine.",
-          "url": "https://x.com/Osint613/status/2125686286090694878",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125685982494331266",
           "created_at": "2026-11-25T20:20:06.000Z",
           "author_name": "StockMarket.News",
@@ -289,42 +359,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2125683854627242326",
-          "created_at": "2026-11-25T20:11:38.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Jared Kushner on Ukraine War:\n\nMy instinct, and this is just what Steve and I have deciphered from having many, many hours with President Putin and from the Russian team, is that the territorial issue is right now a little bit of a deadlock.",
-          "url": "https://x.com/Osint613/status/2125683854627242326",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125683507234029724",
-          "created_at": "2026-11-25T20:10:16.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Jared Kushner on Ukraine War:\n\nA lot of these soldiers, whether they're on the Ukrainian side or the Russian side, they're really sent there by leaders. \n\nI don't think they hate each other. \n\nI think they'd like to go home to their families.",
-          "url": "https://x.com/Osint613/status/2125683507234029724",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125683023949562363",
           "created_at": "2026-11-25T20:08:20.000Z",
           "author_name": "OutKick",
           "author_handle": "Outkick",
           "text": "🚨 The Steelers are releasing Aaron Rodgers after his appearance on the Pat McAfee show https://t.co/XYxYXaQqhr",
           "url": "https://x.com/Outkick/status/2125683023949562363",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125682400625868990",
-          "created_at": "2026-11-25T20:05:52.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Aaron Rodgers gets benched and immediately starts airing out the Steelers' dirty laundry. 😬\n\n@craigcartonlive says it's ALWAYS been about Aaron Rodgers and this year is NO DIFFERENT https://t.co/hcdD6nzVHv",
-          "url": "https://x.com/Outkick/status/2125682400625868990",
           "verified": true,
           "verified_type": "business"
         },
@@ -509,16 +549,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125636212220469572",
-          "created_at": "2026-11-25T17:02:20.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Bloomberg's Mark Cudmore says this is a \"very late cycle correction\" and the Huang rescue sets up \"one more mania\"\n\n\"Essentially this is bargain basement prices if you don't believe the AI bubble is bursting\"\n\n\"I think fueled by the intervention of the US administration this week https://t.co/svvOwOpWlr",
-          "url": "https://x.com/_Investinq/status/2125636212220469572",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125635650619576785",
           "created_at": "2026-11-25T17:00:06.000Z",
           "author_name": "Clay Travis",
@@ -565,16 +595,6 @@
           "author_handle": "ClayTravis",
           "text": "https://t.co/ORX2KPFC06",
           "url": "https://x.com/ClayTravis/status/2125628041174954349",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125628029040992333",
-          "created_at": "2026-11-25T16:29:49.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Is this an ad for @qatarairways?\n\n@MattWalshBlog \n\nSo bizarre. Why do all of the same people who are friends with the same people constantly glaze Qatar? \n\nYou all know the type. https://t.co/EldNd6M5CG",
-          "url": "https://x.com/LauraLoomer/status/2125628029040992333",
           "verified": true,
           "verified_type": "blue"
         },
@@ -679,16 +699,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125575245235101809",
-          "created_at": "2026-11-25T13:00:04.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The CFP committee finally knocked Alabama down, Indiana fell out of the field and Texas and Notre Dame jumped into the top five. With one week left in the regular season, the playoff picture is starting to take shape and rivalry week can still blow it all up.\n\n@ByGusWilson gives",
-          "url": "https://x.com/SportNState/status/2125575245235101809",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125572185649492132",
           "created_at": "2026-11-25T12:47:54.000Z",
           "author_name": "Matt Walsh",
@@ -697,16 +707,6 @@
           "url": "https://x.com/MattWalshBlog/status/2125572185649492132",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125342179216261600",
-          "created_at": "2026-11-24T21:33:57.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California https://t.co/Nhh8x9ndfO",
-          "url": "https://x.com/SpaceX/status/2125342179216261600",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125287542283206698",
@@ -755,6 +755,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
+          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
+        },
+        {
           "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
           "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
           "source": "CBS News",
@@ -767,22 +773,16 @@
           "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
         },
         {
-          "headline": "Trump administration to issue new tariffs on China, EU and others",
-          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
-        },
-        {
-          "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned. (Image credit: Samuel Corum)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
-        },
-        {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
           "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
+        },
+        {
+          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
+          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
         }
       ]
     },
@@ -791,34 +791,34 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Credit card perks are fueling airline profitability",
+          "summary": "Flying during the holidays can be pricey. So, airlines are pitching more and more specialty brand credit cards on your flight.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability"
+        },
+        {
+          "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+          "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
+        },
+        {
+          "headline": "Most Polymarket users lost money betting on the U.S. midterms",
+          "summary": "More than half of Polymarket accounts lost money betting on the U.S. midterm elections, according to one analysis.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/prediction-markets-polymarket-kalshi-trader-losses/"
+        },
+        {
           "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
           "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
         },
         {
-          "headline": "We're buying more of a stock down big from its July highs",
-          "summary": "We're dipping into our large cash position as the market remains oversold.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html"
-        },
-        {
           "headline": "Why are investors freaking out even as the U.S. economy surges?",
           "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
-        },
-        {
-          "headline": "Average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
-          "summary": "The average long-term U.S. mortgage rate eased this week, though it remains above 7% and near the 2026 high it reached last month",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/average-us-30-year-mortgage-rate-eases-721-138446333"
-        },
-        {
-          "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
-          "summary": "Eurostar has canceled several trains between Paris and London due to an unannounced strike by some staff",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/eurostar-cancels-paris-london-trains-after-staff-unannounced-138434350"
         }
       ]
     },
@@ -827,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Iowa women's basketball trounces Navy: Takeaways from Hawkeyes' win",
-          "summary": "The Iowa women's basketball team ended its stay in the Bahamas with a dominant win over Navy on Wednesday morning. The Hawkeyes controlled the game all day, cruising to a 104-48 rout of the Midshipmen.",
+          "headline": "😳 Bayern star stunned! Mbappé's brother catches FCB on the counter",
+          "summary": "Now Bayern are stumbling in the Champions League after all! Germany’s record champions are trailing 2-1 at Lille in the closing stages.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/iowa-womens-basketball-trounces-navy-211024547.html"
+          "url": "https://sports.yahoo.com/soccer/articles/bayern-star-stunned-mbapp-brother-213500936.html"
         },
         {
-          "headline": "Adams' late shot lifts Long Beach State over Southern Utah 65-64",
-          "summary": "MIAMI (AP) — Noah Amenhauser scored 22 points, McCaden Adams converted a four-point play with eight seconds left, and Long Beach State beat Southern Utah 65-64 on Wednesday in the Florida International MTE. Following Adams' 25-foot 3-pointer and ensuing free throw, Amenhauser blocked Rashaad Davis' layup attempt with three seconds left to seal it for…",
+          "headline": "Historic first quarter powers No. 2 Michigan to blowout win over Toledo",
+          "summary": "NEW YORK, NEW YORK - NOVEMBER 12: Te'Yala Delfosse #33 and Kendall Dudley #22 of the Michigan Wolverines box out Hilke Feldrappe #23 of the Columbia Lions in the second half at Frances S. Levien Gymnasium on November 12, 2026 in New York City.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/adams-shot-lifts-long-beach-210312020.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/historic-first-quarter-powers-no-213000927.html"
         },
         {
-          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
-          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
+          "headline": "Ndjonga puts up 22 as Stony Brook downs Lindenwood 69-63",
+          "summary": "Bryan Ndjonga scores 22 points as Stony Brook beats Lindenwood 69-63",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
+          "url": "https://abcnews.com/Sports/wireStory/ndjonga-puts-22-stony-brook-downs-lindenwood-69-138452503"
         },
         {
-          "headline": "Odih scores 15 off the bench, Fordham knocks off Mercy 104-56",
-          "summary": "Kelvin Odih’s 15 points off of the bench helped Fordham to a 104-56 victory over Mercy on Wednesday",
+          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
+          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/odih-scores-15-off-bench-fordham-knocks-off-138449856"
+          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
         },
         {
           "headline": "CFP chaos scenarios: Rivalry Week upsets could scramble Big Ten, SEC, Big 12 races",
@@ -862,6 +862,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "New ‘Rocky’ Book Celebrates 50th Anniversary With Rare and Never-Seen-Before Paintings",
+          "summary": "Sylvester Stallone’s classic film “Rocky” premiered half a century ago. To mark the occasion, artist John Rivoli has released a new book, “The Fine Art Of Rocky: An Artistic Tribute From Screen To Canvas,” published by Insight Editions.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/rocky-book-50th-anniversary-1236958344/"
+        },
         {
           "headline": "‘Focker In-Law’ Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel",
           "summary": "Over the years, “Meet the Parents” writer John Hamburg would exchange the occasional text or email with his collaborators from the 2000 movie to ask whether anyone had another sequel idea. (They had already revisited the characters, mismatched in-laws portrayed by Ben Stiller and Robert De Niro, to outsized commercial success in 2004’s “Meet the […]",
@@ -881,12 +887,6 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-features/scott-caan-cliff-booth-charlie-peters-fincher-interview-1236761216/"
         },
         {
-          "headline": "Jeff Goldblum Breaks Into ‘Wicked’ Song While Reflecting on His ‘Unexpectedly Enduring Career’ at Marrakech: ‘You Just Follow Your Curiosity and Your Heart’",
-          "summary": "Jeff Goldblum showed off his vocal chops Wednesday during a wide-ranging conversation about his almost 60-year cinema career at the Marrakech Film Festival. During the on-stage talk, the actor launched into a tune from the soundtrack of “Wicked” — in which he plays the Wizard — crooning for the audience, “I’m a sentimental man who […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/jeff-goldblum-sings-wicked-unexpected-career-marrakech-1236958123/"
-        },
-        {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
           "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
           "source": "NPR",
@@ -899,10 +899,22 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘Steven Universe’ Star Zyri Comes Out as Trans",
-          "summary": "Zyri, who voiced the titular character in “Steven Universe” and played Brian Corbett on “The Goldbergs,” has come out as trans. In a Substack post on Wednesday, Zyri wrote about the challenges of being a child star and coming to terms with their gender identity.",
+          "headline": "‘The Hawk’ Starring Will Ferrell Canceled After One Season at Netflix",
+          "summary": "“The Hawk” has hit the rough. Netflix has canceled the golf comedy series after just one season.",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/zyri-steven-universe-trans-comes-out-1236958383/"
+          "url": "https://variety.com/2026/tv/news/the-hawk-will-ferrell-canceled-netflix-1236958470/"
+        },
+        {
+          "headline": "TV Ratings: ‘Dancing With the Stars’ Records Another Huge Finale",
+          "summary": "Early ratings are at a 12-year high among adults 18-49 and even with last year in total viewers.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/"
+        },
+        {
+          "headline": "Tony Romo, After Parting Ways With CBS Sports, Named ‘Chief Predictions Officer’ of Jake Paul’s Betr Betting App",
+          "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
         },
         {
           "headline": "With HBO Series ‘Scams for a Better Tomorrow,’ Oobah Butler Has a Language for Your Frustration",
@@ -911,22 +923,10 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-features/oobah-butler-scams-for-a-better-tomorrow-hbo-max-vice-1236763316/"
         },
         {
-          "headline": "Will Ferrell Comedy ‘The Hawk’ Canceled By Netflix After One Season",
-          "summary": "EXCLUSIVE: The Hawk did not make the cut for a second season. Netflix has opted not to renew the freshman golf comedy, co-created, executive produced and headlined by Will Ferrell.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347/"
-        },
-        {
           "headline": "Aaron Rodgers Released By NFL’s Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching",
           "summary": "Aaron Rodgers has been released by the Pittsburgh Steelers following an explosive interview on ESPN’s Pat McAfee Show. The Super Bowl champion and 4x NFL MVP was benched this week, and backup quarterback Mason Rudolph was named to take his place in the Black Friday game against the Denver Broncos.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/aaron-rodgers-released-nfl-pittsburgh-steelers-espn-interview-1237233574/"
-        },
-        {
-          "headline": "A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)",
-          "summary": "The media brand is working with the company to adapt traditional entertainment projects into mobile-first vertical stories, with episodes no more than two minutes long.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568/"
         }
       ]
     },
@@ -934,12 +934,6 @@
       "id": "media",
       "title": "Media",
       "stories": [
-        {
-          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
-          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
-        },
         {
           "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
           "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
@@ -951,6 +945,12 @@
           "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
+        },
+        {
+          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
+          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
         },
         {
           "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
@@ -971,16 +971,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Duran Duran Guitarist Andy Taylor Dead at 65",
+          "summary": "Rock and Roll Hall of Fame inductee, who co-wrote \"Hungry Like The Wolf\" and \"Rio,\" had been battling stage 4 prostate cancer",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/duran-duran-guitarist-andy-taylor-dead-obituary-1234634531/"
+        },
+        {
           "headline": "Taylor Swift Uggs Story Sparks Hilarious Memes: ‘She Wears High Heels, I Wear Ugg Boots’",
           "summary": "The internet is having a field day with a new detail revealing the pop star’s middle school shoe choices",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/taylor-swift-ugg-memes-1235664209/"
-        },
-        {
-          "headline": "Bob Seger Mourns ‘Extraordinary’ Silver Bullet Band Bassist Chris Campbell",
-          "summary": "\"Chris was like family; we raised our kids together,\" Seger said. \"It was a blessing to share this journey with Chris, and I'll cherish the memories forever\"",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/bob-seger-silver-bullet-band-chris-campbell-tribute-1235664442/"
         },
         {
           "headline": "JO1’s ‘IGNITE’ Tops Japan Hot 100 as Hiromi Ohta’s 1975 Hit ‘Momen no Handkerchief’ Debuts",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T16:18:15-05:00"
+  "updatedAt": "2026-11-25T16:48:09-05:00"
 }
