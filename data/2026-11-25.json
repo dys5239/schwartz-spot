@@ -6,16 +6,16 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+        },
+        {
           "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
           "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
-        },
-        {
-          "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
-          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
         },
         {
           "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Why are investors freaking out even as the U.S. economy surges?",
+          "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
+        },
+        {
           "headline": "Vance says Nvidia's Huang isn't under investigation; doesn't need a pardon",
           "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
-        },
-        {
-          "headline": "Iran denounces U.S. use of AI in war",
-          "summary": "Iran's U.N. envoy claims the U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
           "headline": "MP calls for action after her likeness used for AI porn deepfakes",
@@ -79,6 +79,136 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125684210048393353",
+          "created_at": "2026-11-25T20:13:03.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Need one https://t.co/PMdKRk6Ptz",
+          "url": "https://x.com/Outkick/status/2125684210048393353",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125683854627242326",
+          "created_at": "2026-11-25T20:11:38.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jared Kushner on Ukraine War:\n\nMy instinct, and this is just what Steve and I have deciphered from having many, many hours with President Putin and from the Russian team, is that the territorial issue is right now a little bit of a deadlock.",
+          "url": "https://x.com/Osint613/status/2125683854627242326",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125683507234029724",
+          "created_at": "2026-11-25T20:10:16.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Jared Kushner on Ukraine War:\n\nA lot of these soldiers, whether they're on the Ukrainian side or the Russian side, they're really sent there by leaders. \n\nI don't think they hate each other. \n\nI think they'd like to go home to their families.",
+          "url": "https://x.com/Osint613/status/2125683507234029724",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125683023949562363",
+          "created_at": "2026-11-25T20:08:20.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "🚨 The Steelers are releasing Aaron Rodgers after his appearance on the Pat McAfee show https://t.co/XYxYXaQqhr",
+          "url": "https://x.com/Outkick/status/2125683023949562363",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125682400625868990",
+          "created_at": "2026-11-25T20:05:52.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Aaron Rodgers gets benched and immediately starts airing out the Steelers' dirty laundry. 😬\n\n@craigcartonlive says it's ALWAYS been about Aaron Rodgers and this year is NO DIFFERENT https://t.co/hcdD6nzVHv",
+          "url": "https://x.com/Outkick/status/2125682400625868990",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125680909030690910",
+          "created_at": "2026-11-25T19:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "AMERICA'S VOICE LIVE WITH STEVE GRUBER https://t.co/IGTMkuGJ4b",
+          "url": "https://x.com/RealAmVoice/status/2125680909030690910",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125680336231363016",
+          "created_at": "2026-11-25T19:57:40.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "MORE FOOTAGE: At least 30 dead after a fuel tanker overturned and exploded on Cairo's Ring Road. Flames spread to nearby vehicles. Egypt deployed 39 ambulances.\n\nReuters https://t.co/8gCwLwkrfT",
+          "url": "https://x.com/Osint613/status/2125680336231363016",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125679768083312863",
+          "created_at": "2026-11-25T19:55:24.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Newly released surveillance video from Wake Up Call Coffee in Kennewick, Washington, shows a pregnant barista firing at an armed 17-year-old who crawled through the drive-thru window to rob the shop. https://t.co/16E6wV5ok9",
+          "url": "https://x.com/RealAmVoice/status/2125679768083312863",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125679436636766488",
+          "created_at": "2026-11-25T19:54:05.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Turkey is overrated. Cranberries don't get the credit they deserve. Mashed potatoes are basically Rutgers.\n\nSport &amp; State staffers gave their most overrated and underrated Thanksgiving dishes. No food was safe.\nhttps://t.co/L0Bncr3dL3",
+          "url": "https://x.com/SportNState/status/2125679436636766488",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125679070809636923",
+          "created_at": "2026-11-25T19:52:38.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "MS. RACHEL APPEARS AT NYC IMMIGRATION COURT DEFENDING TRAFFICKERS?\n\nIsn't Ms. Rachel supposed to be a children's entertainer? Yet, she's not thinking through how these children are NOT being protected...\"don't understand the problems that ACTUALLY exist.\" @jackposobiec https://t.co/xMSb9jom7j",
+          "url": "https://x.com/RealAmVoice/status/2125679070809636923",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125678956875780451",
+          "created_at": "2026-11-25T19:52:11.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️What a legend. https://t.co/mfAjQUCACW",
+          "url": "https://x.com/_The_Prophet__/status/2125678956875780451",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125678369543241863",
+          "created_at": "2026-11-25T19:49:51.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡ Human judgment is about to acquire a price tag: the cost of disagreeing with a machine.\n\nDario Amodei argues that humans should remain free to do things themselves even when AI can do them better.\n\nConsider a hospital where an AI consistently outperforms physicians at a https://t.co/eLWtheM1or",
+          "url": "https://x.com/_The_Prophet__/status/2125678369543241863",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125678219672400095",
+          "created_at": "2026-11-25T19:49:15.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Pacifica Pier in California lost a section to a massive wave.\n\nKing tides are at their peak, sending powerful surf into the state's coastline. https://t.co/ebU2F4PNxB",
+          "url": "https://x.com/Osint613/status/2125678219672400095",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125676694123991340",
           "created_at": "2026-11-25T19:43:11.000Z",
           "author_name": "Open Source Intel",
@@ -97,16 +227,6 @@
           "url": "https://x.com/RealAmVoice/status/2125676029658419572",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125673362626425273",
-          "created_at": "2026-11-25T19:29:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NOW: Initial reports of explosions heard in Bandar Abbas, Larak Island and Qeshm, southern Iran.\n\nEarlier, jet activity was heard above Bandar Lengeh.\n\nContributed by: @BeamTracker_ https://t.co/clblYY0ASq",
-          "url": "https://x.com/Osint613/status/2125673362626425273",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125672742641172613",
@@ -189,36 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125668941934784658",
-          "created_at": "2026-11-25T19:12:23.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump envoy Jared Kushner urged Netanyahu in an overnight call to advance humanitarian aid into Gaza before winter and move the multinational force into the Strip.\n\nNetanyahu agreed to push forward on aid and other Gaza plan issues.\n\nBoard of Peace official: \"The conversation was",
-          "url": "https://x.com/Osint613/status/2125668941934784658",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125668542200615181",
-          "created_at": "2026-11-25T19:10:48.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Brandon Aiyuk called his shot 😂 https://t.co/pVBrwF2fXx",
-          "url": "https://x.com/Outkick/status/2125668542200615181",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125668308925968455",
-          "created_at": "2026-11-25T19:09:52.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "\"DID YOU KNOW YOUR GOVERNMENT WAS DOING THIS?!\" USAID FILES RELEASED\n\n\"What exactly was our government up to for this entire time?\" @JackPosobiec lists the countless news outlets taking money from USAID...working as a SHELL. \"It is all out now...go read the USAID files.\" https://t.co/O8TZXrTwNw",
-          "url": "https://x.com/RealAmVoice/status/2125668308925968455",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125667762324541673",
           "created_at": "2026-11-25T19:07:42.000Z",
           "author_name": "Elon Musk",
@@ -227,46 +317,6 @@
           "url": "https://x.com/elonmusk/status/2125667762324541673",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125667384371360059",
-          "created_at": "2026-11-25T19:06:12.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Syria assisted in thwarting an Iranian smuggling operation, drawing thanks from the head of U.S. Central Command.\n\n\"Congratulations to our Syrian partners on their success in disrupting the smuggling of drugs and weapons,\" CENTCOM Commander Brad Cooper said. https://t.co/u1gT7vQ9br",
-          "url": "https://x.com/Osint613/status/2125667384371360059",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125665809473339761",
-          "created_at": "2026-11-25T18:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "HUMAN EVENTS DAILY WITH JACK POSOBIEC https://t.co/dcB4SCyy7V",
-          "url": "https://x.com/RealAmVoice/status/2125665809473339761",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125664774918898074",
-          "created_at": "2026-11-25T18:55:49.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Yeahhh Aaron Rodgers don't give a f*ck anymore https://t.co/muJsEixqdQ",
-          "url": "https://x.com/Outkick/status/2125664774918898074",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125664648007684552",
-          "created_at": "2026-11-25T18:55:19.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "IOWA DETONATION: OBAMA ADMIN \"KICKED THE CAN DOWN THE ROAD\"\n\n\"We became aware that there really was no good option here, 6 months ago. Two options here: just let it sit there...detonate in an uncontrolled way or try to detonate it in a CONTROLLED way. We had to solve it.\" @VP https://t.co/I5wgWe9B7G",
-          "url": "https://x.com/RealAmVoice/status/2125664648007684552",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125664128849133695",
@@ -285,16 +335,6 @@
           "author_handle": "LauraLoomer",
           "text": "It’s why we call it Pallywood. \n\nThe suffering in Gaza is fake and produced like everything in Hollywood. \n\nPallywood https://t.co/Ghna9fRiF3",
           "url": "https://x.com/LauraLoomer/status/2125663368333737994",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125658621904126125",
-          "created_at": "2026-11-25T18:31:22.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Nigerian authorities have dismantled an industrial-scale methamphetamine laboratory in the southeastern state of Enugu, seizing more than 1.5 tonnes of the drug and arresting five Mexican nationals and a Nigerian businessman, according to the BBC. \n\nThe country's National Drug https://t.co/hEUgK5FFSE",
-          "url": "https://x.com/Osint613/status/2125658621904126125",
           "verified": true,
           "verified_type": "blue"
         },
@@ -407,16 +447,6 @@
           "url": "https://x.com/ClayTravis/status/2125635650619576785",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125634569739104543",
-          "created_at": "2026-11-25T16:55:48.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "How Aaron Rodgers is gonna be moving on Friday somewhere in the mountains https://t.co/engtxzig9J",
-          "url": "https://x.com/Outkick/status/2125634569739104543",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125632723079385166",
@@ -659,16 +689,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125365384379301906",
-          "created_at": "2026-11-24T23:06:09.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Vanity Fair spent a year and 100+ anonymous sources trying to take down Taylor Swift. The worst they found is she’s ambitious and protective of her brand. \n\nThe only takedown in this hit piece is of legacy journalism itself. \n\n@Kayceeunplugged has thoughts:",
-          "url": "https://x.com/SportNState/status/2125365384379301906",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125342179216261600",
           "created_at": "2026-11-24T21:33:57.000Z",
           "author_name": "SpaceX",
@@ -781,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+          "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+        },
+        {
           "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
           "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
-        },
-        {
-          "headline": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-          "summary": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html"
         },
         {
           "headline": "Average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
@@ -817,22 +837,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "NFL predictions: 4 keys to a Lions victory over the Bears in Week 12 on Thanksgiving",
-          "summary": "Detroit Lions running back Jahmyr Gibbs (0) runs for a touchdown against Chicago Bears linebacker T.J. Edwards (53) during the first half at Ford Field in Detroit on Sunday, Sept.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/nfl-predictions-4-keys-lions-193805796.html"
-        },
-        {
-          "headline": "Mike Tomlin is the biggest winner of the Aaron Rodgers-Steelers feud",
-          "summary": "On Tuesday night, as a new day approached, the Pittsburgh Steelers benched Aaron Rodgers . It was bizarre timing and an unceremonious end to the four-time MVP's experiment in Pittsburgh.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/mike-tomlin-biggest-winner-aaron-192716180.html"
-        },
-        {
-          "headline": "Dar scores 15 in Rice’s 82-74 victory over Ohio",
-          "summary": "Jacob Dar and Dallas Hobbs each scored 15 points as Rice beat Ohio 82-74 on Wednesday",
+          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
+          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/dar-scores-15-rices-82-74-victory-ohio-138449580"
+          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
         },
         {
           "headline": "CFP chaos scenarios: Rivalry Week upsets could scramble Big Ten, SEC, Big 12 races",
@@ -841,10 +849,22 @@
           "url": "https://www.cbssports.com/college-football/news/cfp-chaos-scenarios-rivalry-week-big-ten-sec-big-12/"
         },
         {
-          "headline": "Carnegie scores 17 of her 19 in 1st half, No. 8 Iowa women cruise after halftime to beat Navy 104-48",
-          "summary": "Dani Carnegie scored 17 of her 19 points in the first half, McKenna Woliczko added 18 points and No. 8 Iowa pulled away after halftime to beat Navy 104-48 on Wednesday in the Baha Mar Pink Flamingo Championship",
+          "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
+          "summary": "USC-UCLA is one of two Rivalry Week games matching teams ranked in The Associated Press Top 25, topping a schedule full of intrigue as the race to secure spots in conference championship games and attempt to lock down College Football Playoff bids cont...",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/carnegie-scores-17-19-1st-half-8-iowa-138448486"
+          "url": "https://abcnews.com/Sports/wireStory/college-football-week-13-usc-ucla-tops-schedule-138441044"
+        },
+        {
+          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
+          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
+        },
+        {
+          "headline": "Aaron Rodgers reveals Steelers teammate who told him he’d be inactive vs. Broncos",
+          "summary": "Mandatory Credit: Barry Reeger-Imagn Images Aaron Rodgers reveals Steelers teammate who told him he’d be inactive vs. Broncos appeared first on ClutchPoints .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/aaron-rodgers-reveals-steelers-teammate-200137247.html"
         }
       ]
     },
@@ -853,28 +873,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Horror ‘Soulala’ Reinforces Saudi YouTube Generation Boom as Director Says U.S. Is ‘a Decade Behind’ on Online-to-Cinema Phenomenon",
-          "summary": "Over the last six months, a conversation has taken over Hollywood: can the unimaginable success of films like “Backrooms” and “Obsession” usher in the YouTube Age? For Saudi filmmakers, this is a decade-long conversation, driven by a wave of filmmakers raised in a country with no cinemas, who relied on online platforms for production and […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/horror-soulala-youtube-generation-saudi-doha-1236956740/"
-        },
-        {
-          "headline": "David Fincher Explains AI Use in ‘Cliff Booth’ and How AI Can Be Used on Film Sets to Reduce The Amount of Takes but Still Have ‘Real Human Beings’",
-          "summary": "David Fincher admitted in an interview published Wednesday that some AI was used in the post-production of “The Further Mis-Adventures of Cliff Booth,” but that it was all done to enhance the work of “real human beings.” Fincher appeared on The Ringer’s “Big Picture” podcast, where he told host Sean Fennessey that AI helped sync the best […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/"
-        },
-        {
-          "headline": "Takashi Miike’s ‘Bad Lieutenant: Tokyo’ From Neon Gets Early 2027 Release",
-          "summary": "The franchise entry from the Japanese auteur stars Shun Oguri and Lily James and will hit theaters in March.",
+          "headline": "Amanda Seyfried Reveals Secret Elizabeth Holmes Role in ‘You Can See Everything’ Required a “Five-Factor Authentication App” to Read Script",
+          "summary": "\"How the hell did I manage to keep it under wraps?,” the actress joked.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/takashi-miike-bad-lieutenant-tokyo-release-date-1236763105/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-script-elizabeth-1236763095/"
         },
         {
-          "headline": "Watch Nathan Fielder and Lance Oppenheim’s Full In-Depth Breakdown of ‘You Can See Everything’",
-          "summary": "The directors behind A24's unlikely powerhouse Oscar contender joined THR at the SCAD Savannah Film Festival last month, for a live Q&A about the making of the movie. You can now watch it here.",
+          "headline": "Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in ‘Cliff Booth’",
+          "summary": "The veteran actor reunites with Brad Pitt in the 'Once Upon a Time in Hollywood' follow-up that sees him taking on manic 1970s TV star Charlie Peters, who's in desperate need of Cliff Booth's help.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/watch-nathan-fielder-lance-oppenheim-you-can-see-everything-1236762706/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/scott-caan-cliff-booth-charlie-peters-fincher-interview-1236761216/"
+        },
+        {
+          "headline": "Jeff Goldblum Breaks Into ‘Wicked’ Song While Reflecting on His ‘Unexpectedly Enduring Career’ at Marrakech: ‘You Just Follow Your Curiosity and Your Heart’",
+          "summary": "Jeff Goldblum showed off his vocal chops Wednesday during a wide-ranging conversation about his almost 60-year cinema career at the Marrakech Film Festival. During the on-stage talk, the actor launched into a tune from the soundtrack of “Wicked” — in which he plays the Wizard — crooning for the audience, “I’m a sentimental man who […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/jeff-goldblum-sings-wicked-unexpected-career-marrakech-1236958123/"
+        },
+        {
+          "headline": "Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan",
+          "summary": "Director Mercedes Bryce Morgan is adamant: the world isn’t ready for Awkwafina’s performance in “Kate Might Die”. “It’s quite incredible to see.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/awkwafina-cancer-drama-kate-might-die-mercedes-bryce-morgan-1236951703/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -888,6 +908,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "NFL On The Future Of Netflix’s Thanksgiving Eve Game & Starting A New Tradition: “We Are Committed”",
+          "summary": "Netflix is launching a new annual NFL tradition: the first-ever Thanksgiving Eve game. The inaugural game will see the Los Angeles Rams and the Green Bay Packers face off a day before the Thanksgiving Day tripleheader, giving fans more football to enjoy with friends and family during the holiday season.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/nfl-future-netflix-thanksgiving-eve-game-tradition-1237233072/"
+        },
         {
           "headline": "‘The Pitt’ Sets Season 3 Premiere Date",
           "summary": "The holidays have arrived early, as HBO Max has revealed that its critically acclaimed medical drama, The Pitt, will premiere its third season on January 7, 2027. The news dropped today via the show’s Instagram account, with actors Taylor Dearden, Isa Briones, and Gerran Howell dressed as their characters Mel, Santos, and Whitaker, respectively.",
@@ -911,12 +937,6 @@
           "summary": "Dropout’s improv interview series “Very Important People” is set to debut its fourth season Dec. 10 with a new batch of weirdo guests.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190/"
-        },
-        {
-          "headline": "Streaming Ratings: ‘Rings of Power,’ ‘Black Doves’ Open Lower After Long Gaps Between Seasons",
-          "summary": "Both shows last had new episodes in 2024.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-nov-9-15-2026-1236763130/"
         }
       ]
     },
@@ -961,16 +981,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Lucy Vives, Sofia Monroy, OKAN, Moy Bobadilla & More Emerging Latin Artists on Our Radar",
+          "summary": "Every month, Billboard Latin and Billboard Español editors spotlight a group of rising artists whose music we love. Think “diamantes en bruto,” or “diamonds in the rough.” These are newcomers who have yet to impact the mainstream — but whose music excites us, and who we believe our readers should make a point to discover.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/on-the-radar-latin-emerging-artists-november-2026-1236389550/"
+        },
+        {
           "headline": "Billboard Hot Latin Songs Top 10 Countdown for Nov. 28, 2026 | Billboard Latin",
           "summary": "“Te Estoy Correteando” rises and Fuerza Regida’s “Suzuki” continues to go higher, but will either song hit No. 1 on the Hot Latin Songs chart this week?",
           "source": "Billboard",
           "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-november-28-2026/"
-        },
-        {
-          "headline": "Luke Bryan & Luke Combs Channel Old-School Influences in ‘Finders Keepers’: ‘I Want to Put Songs Out That Could Go Right Into The Set List’",
-          "summary": "“Luke-ing” back across the years, Luke Bryan didn’t have much country competition in branding his name. Hank Williams recorded a series of recitations under the pseudonym Luke the Drifter, and stretching the boundaries a bit, Waylon Jennings had a landmark hit with “Luckenbach, Texas (Back to the Basics of Love).” Bryan got used to being known in the…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/country/luke-bryan-luke-combs-finders-keepers-makin-tracks-1236389621/"
         },
         {
           "headline": "Cardi B and Offset See Beverly Hills Mansion Lawsuit Dismissed After Settlement",
@@ -993,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T14:45:42-05:00"
+  "updatedAt": "2026-11-25T15:15:13-05:00"
 }
