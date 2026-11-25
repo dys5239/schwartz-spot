@@ -42,22 +42,22 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Thomas Markle indicted in US for possessing child sex abuse images",
-          "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+          "headline": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+          "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Fort Hood shooter Nidal Hasan will petition to delay his execution",
-          "summary": "Nidal Hasan, the Army soldier who fatally shot 13 people in the attack at the Texas Army post in 2009, told a federal court Tuesday that he plans to file a petition to delay his execution by firing squad.",
+          "headline": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
+          "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
+          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/"
-        },
-        {
-          "headline": "Ministers ask public for views on changing age of consent",
-          "summary": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
           "headline": "China launches first foreign astronaut to its space station",
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125412710049341489",
+          "created_at": "2026-11-25T02:14:12.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "For once, the CFP rankings actually make some sense. \n\nDid the committee get it right? https://t.co/Bq9d3WSsax",
+          "url": "https://x.com/Outkick/status/2125412710049341489",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125411174993010839",
+          "created_at": "2026-11-25T02:08:07.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Interesting https://t.co/XRd4shsO4N",
+          "url": "https://x.com/elonmusk/status/2125411174993010839",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125409188637778387",
+          "created_at": "2026-11-25T02:00:13.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Paul Krugman says an $8 billion data center employs about 100 people once it's built, when the same money would normally employ 10,000\n\n\"An $8 billion data center, once it's been built, employs about 100 people\"\n\n\"Most of what goes into a data center is actually imported. In a https://t.co/3FVt5ACB4m",
+          "url": "https://x.com/_Investinq/status/2125409188637778387",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125408126920749411",
+          "created_at": "2026-11-25T01:56:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "COLLEGE SPORTS SHOCKER: SEC WEIGHS OUSTING LSU\n\n@slickricksports reports that LSU could lose more than a shot at the College Football Playoff — it could lose its place in the SEC altogether.\n\nConference leaders are set to vote December 3 on LSU’s membership following controversy https://t.co/PlGTsXKtMi",
+          "url": "https://x.com/RealAmVoice/status/2125408126920749411",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125406391179358276",
+          "created_at": "2026-11-25T01:49:06.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I watch an embarrassing amount of college football. Legit 12 hours every Saturday if I’m not at a game. Not having Joel, Gus and Jenny in the top ten for college football broadcasts is a ranking abomination. https://t.co/D2Vi1qVigX",
+          "url": "https://x.com/ClayTravis/status/2125406391179358276",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125405590520525241",
+          "created_at": "2026-11-25T01:45:55.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Tennessee beat the “big dogs” by 16 and dog walked Alabama up and down the field all day long. Tide was lucky to only lose by 16. https://t.co/B1OMf0Sgig",
+          "url": "https://x.com/ClayTravis/status/2125405590520525241",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125404332728414534",
           "created_at": "2026-11-25T01:40:55.000Z",
@@ -115,26 +175,6 @@
           "author_handle": "ClayTravis",
           "text": "If #5 Tennessee loses to Vandy, I will turn my phone off. Because thousands of Tweets are coming. Maybe tens of thousands.",
           "url": "https://x.com/ClayTravis/status/2125401490013786192",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125400506851836200",
-          "created_at": "2026-11-25T01:25:43.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Biggest takeaway, the Big Ten is on track to just get one playoff team this year. Pretty wild. I didn’t think the committee would drop Indiana this far. Hard to see anyone other than the Big Ten champ getting in the playoff now.",
-          "url": "https://x.com/ClayTravis/status/2125400506851836200",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125400132204015985",
-          "created_at": "2026-11-25T01:24:14.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Beat Vandy and Tennessee would likely get the non-power conference team, the 12 seed, in Neyland. https://t.co/MgbdvKMYJl",
-          "url": "https://x.com/ClayTravis/status/2125400132204015985",
           "verified": true,
           "verified_type": "blue"
         },
@@ -259,16 +299,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125380839219638420",
-          "created_at": "2026-11-25T00:07:34.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: KILMAR ABREGO GARCIA SELF-DEPORTS\n\nAfter a lengthy legal battle with the Trump administration, Kilmar Abrego Garcia, who has been accused of MS-13 ties and indicted on federal human smuggling charges, is leaving the United States.\n\nHis attorneys say he is flying to",
-          "url": "https://x.com/RealAmVoice/status/2125380839219638420",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125377782972895409",
           "created_at": "2026-11-24T23:55:25.000Z",
           "author_name": "Open Source Intel",
@@ -385,16 +415,6 @@
           "author_handle": "Osint613",
           "text": "STATS: Strikes for Nov 26 and a breakdown since the conflict began.\n\nContributed by @live_ais_com https://t.co/U5gCyil3hC",
           "url": "https://x.com/Osint613/status/2125352934158606775",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125349025599869363",
-          "created_at": "2026-11-24T22:01:09.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "HubSpot co-founder Brian Halligan says AI agents are a tailwind, and within a couple of months customers will be able to use all of HubSpot through AI tools like Claude and ChatGPT\n\n\"Is your core business under threat because of these agents?\" \"No, I think it's a tailwind\" https://t.co/1IM9rpN2TP",
-          "url": "https://x.com/_Investinq/status/2125349025599869363",
           "verified": true,
           "verified_type": "blue"
         },
@@ -639,16 +659,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125258360467739118",
-          "created_at": "2026-11-24T16:00:53.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Super pumped for the Thanksgiving slate this year https://t.co/XVJYjwYgCx",
-          "url": "https://x.com/Outkick/status/2125258360467739118",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125257116449648858",
           "created_at": "2026-11-24T15:55:56.000Z",
           "author_name": "SpaceX",
@@ -695,16 +705,6 @@
           "author_handle": "MattWalshBlog",
           "text": "I believe in American exceptionalism but the sad fact of the matter is that most of our domestic airlines are terrible, only getting worse, and (some) foreign airlines are simply much better in every conceivable way https://t.co/aVfZA5Y0mm",
           "url": "https://x.com/MattWalshBlog/status/2125216590933447102",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125178828943184363",
-          "created_at": "2026-11-24T10:44:51.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Bullseye https://t.co/69ar1yur6u",
-          "url": "https://x.com/elonmusk/status/2125178828943184363",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,16 +765,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
-          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
+          "headline": "Iran developing chemical weapons, Israeli defense minister says",
+          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
-          "headline": "Stock market sees declines tied to bipartisan fury over Jensen Huang's reinstatement",
-          "summary": "One day after returning to Nvidia as CEO, a disgraced Jensen Huang apologized in a company town hall, according to The Wall Street Journal, telling staff that he's now in therapy. Weijia Jiang.",
+          "headline": "Fort Hood shooter Nidal Hasan will petition to delay his execution",
+          "summary": "Nidal Hasan, the Army soldier who fatally shot 13 people in the attack at the Texas Army post in 2009, told a federal court Tuesday that he plans to file a petition to delay his execution by firing squad.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/stock-market-sees-declines-tied-bipartisan-fury-jensen-huangs-reinstatement/"
+          "url": "https://www.cbsnews.com/news/nidal-hasan-delay-execution-petition/"
         },
         {
           "headline": "Moving to Florida may become a choice of some Republicans after midterms",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "SoftBank drops over 14% as Wall Street AI sell-off ripples across Asian tech names",
+          "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
+          "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
+        },
+        {
+          "headline": "SoftBank drops 14% as Wall Street AI sell-off ripples across Asian tech names",
           "summary": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattled investors.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
-        },
-        {
-          "headline": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-          "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html"
         },
         {
           "headline": "Shein to pay $100 million to settle claims it deceived customers",
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Koch leads balance Iowa attack to dismantle UMBC 87-48",
+          "summary": "IOWA CITY, Iowa (AP) — Cooper Koch scored 17 points and Trevin Jirak scored 15 points and Iowa nearly doubled-up UMBC for its second-straight win, beating the Retrievers 87-48 on Tuesday. Tate Sage added 14 points as the Hawkeyes (4-2) finished 33-of-52 shooting (63%), including 17 of 32 (53%) from 3-point range.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/koch-leads-balance-iowa-attack-020743146.html"
+        },
+        {
+          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
+          "summary": "GAINESVILLE, Fla. (AP) — Rueben Chinyelu posted his first double-double of the season and made the first 3-pointer of his college career as No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/rueben-chinyelu-comes-big-no-020436019.html"
+        },
+        {
           "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
           "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
         },
         {
-          "headline": "Oregon State wins 87-73 against San Francisco",
-          "summary": "DeShawn Gory had 14 points in Oregon State’s 87-73 win over San Francisco",
+          "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+          "summary": "Jiri Lehecka has led the Czech Republic into the Davis Cup semifinals",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/oregon-state-wins-87-73-san-francisco-138424787"
+          "url": "https://abcnews.com/Sports/wireStory/lehecka-lead-czechs-beat-canada-auger-aliassime-davis-138422175"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
           "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
           "source": "FOX News Sports",
           "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
-        },
-        {
-          "headline": "Jayden Daniels Gets The Better Of Joe Burrow: 3 Takeaways From The Commanders' Win",
-          "summary": "A rainstorm and a temporary blackout couldn’t stop the Bengals and Commanders from giving us an electric Monday night affair for the second time in three seasons. History repeated itself as Jayden Daniels led a game-winning drive to seal the upset, just as he did back in September 2024 in Cincinnati.",
-          "source": "FOX News Sports",
-          "url": "https://www.foxnews.com/sports/cincinnati-bengals-vs-washington-commanders-nfl-takeaways-november-23-2026"
-        },
-        {
-          "headline": "Dar and Rice defeat UIC 68-67",
-          "summary": "Jacob Dar scored 21 points and Jaxson Thompson secured the victory on two free throws with less than a second left as Rice knocked off UIC 68-67",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/dar-rice-defeat-uic-68-67-138424586"
         }
       ]
     },
@@ -873,28 +873,28 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)",
+          "summary": "The Oscar race for visual effects is down to 20, and the road to the 99th Academy Awards runs through Ithaca, Motunui and a galaxy far, far away. The Academy’s Visual Effects Branch notified the artisans behind the 20 films advancing to the next round ahead of the Thanksgiving holiday.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450/"
+        },
+        {
+          "headline": "‘Dancing With the Stars’ Finalist Connor Wood Has Already Won: “I Feel Really Good”",
+          "summary": "The 31-year-old comedian has made it to the finale of the dance competition series show, even though he never quite expected it: \"I really can't put my finger on why this clicked for me, but I leaned in a lot.\"",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/connor-wood-dancing-with-the-stars-finale-interview-1236762661/"
+        },
+        {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ to Dominate Thanksgiving Box Office as ‘Focker In-Law,’ ‘Hexed’ Join Fray",
           "summary": "'Hershey' and 'The Further Mis-Adventures of Cliff Booth' also head to the big screen for the five-day holiday weekend.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/"
         },
         {
-          "headline": "‘Dancing With the Stars’ Season 35 Couples Perform Their Last Dances as a Winner Is Crowned in the Finale: See the Scores, Who Won (Updating Live)",
-          "summary": "Tatyana Ali, Ezra Frech, Amber Glenn, Maura Higgins and Connor Wood are competing for their chance to win the Len Goodman Mirrorball Trophy.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-finale-winner-week-11-recap-scores-freestyle-1236762506/"
-        },
-        {
           "headline": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
           "summary": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for “All That Jazz,” died Oct. 28 in West Palm Beach, Florida.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/"
-        },
-        {
-          "headline": "Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco – Film News in Brief",
-          "summary": "“Obsession” director Curry Barker is returning with his second feature film, “Anything But Ghosts,” which will be released in premium HDR by Barco. The film, which follows a group of fame-seeking aspiring “ghosthunters” navigating terrifyingly unfamiliar territory, premieres in theaters May 7 and features a cast including Violet McGraw, Chris Reinacher,…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -909,6 +909,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Dancing With the Stars’ Season 35 Finale: Who’s Taking Home the Mirrorball? — Updating Live",
+          "summary": "Season 35 of “Dancing With the Stars” is officially coming to an end. On Tuesday, Nov.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/dancing-with-the-stars-winner-season-35-1236957201/"
+        },
+        {
           "headline": "‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams",
           "summary": "Sighle Williams served customers at a Florida burger joint for 37 years. And on her last day at Mac’s Drive Thru, it seemed like the entire city of Gainesville came out to say goodbye.",
           "source": "Variety",
@@ -921,22 +927,16 @@
           "url": "https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942/"
         },
         {
-          "headline": "NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’",
-          "summary": "The 100th celebration of the Macy’s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It’s made it through rain and even snow, but this time it’s facing an incoming storm that is threatening to bring heavy winds.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/"
-        },
-        {
           "headline": "Alfonso Ribeiro on the “Wild” Ride of ‘DWTS’ Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season",
           "summary": "To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/"
         },
         {
-          "headline": "How Amin Joseph Brought “Humanity” to Sonny Liston in ‘The Greatest’",
-          "summary": "Amazon's Muhammad Ali series rewrites history for one of boxing's biggest heels.",
+          "headline": "TV Ratings: NBA Logs Winning Streak in First Month of the Season",
+          "summary": "Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/who-plays-sonny-liston-in-the-greastest-meet-amin-joseph-1236759934/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311/"
         }
       ]
     },
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T20:44:20-05:00"
+  "updatedAt": "2026-11-24T21:15:29-05:00"
 }
