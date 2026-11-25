@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-25",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+          "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
+        },
+        {
+          "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+          "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+        },
+        {
+          "headline": "Some AI-powered toys could offer up inappropriate, sexually explicit content to kids",
+          "summary": "Some of the hottest toys this holiday season are cute, cuddly and filled with AI. Mark Strassmann reports on how some of these toys could offer up inappropriate or even sexually explicit content to kids.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/some-ai-powered-toys-could-offer-up-inappropriate-sexually-explicit-content-kids/"
+        },
+        {
+          "headline": "Even the best AI agents struggle with everyday life",
+          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+        },
+        {
+          "headline": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "stories": [
+        {
+          "headline": "Iran denounces U.S. use of AI in war",
+          "summary": "Iran's U.N. envoy claims the U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+        },
+        {
+          "headline": "Influencers hit back at criticism of Downing Street videos",
+          "summary": "Max Balegde apologises for now deleted TikTok video amid row over content creators in Downing Street.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx987j6e26elo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Boy, 3, died choking on food at nursery, inquest hears",
+          "summary": "Thiago Wall died in hospital three days after choking on food at the nursery, the inquest hears.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2ej77ry1zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Leaked data shows 490,000 Russian forces have died in Ukraine war",
+          "summary": "Russian government data obtained by pro-Ukraine hackers and analyzed by the BBC indicates that Russia has lost at least 490,334 soldiers during its war on Ukraine.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/"
+        },
+        {
+          "headline": "WATCH: Tourist killed in wild elephant attack while hiking with tour group",
+          "summary": "A Swiss man was killed when elephants charged at a tour group in Mount Cameroon National Park, Cameroon authorities confirmed to ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138435167/"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "title": "Politics",
+      "stories": [
+        {
+          "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
+          "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/"
+        },
+        {
+          "headline": "Paperwork, not work, causing enrollees to lose Medicaid in Nebraska",
+          "summary": "Data from the months after Nebraska's early rollout of new Medicaid work mandates offers a look at the challenges enrollees in other states could face.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nebraska-medicaid-work-requirements-paperwork-losses/"
+        },
+        {
+          "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
+          "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
+        },
+        {
+          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
+          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
+        },
+        {
+          "headline": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+          "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S. (Image credit: Justin Sullivan)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "stories": [
+        {
+          "headline": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+          "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html"
+        },
+        {
+          "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
+          "summary": "Eurostar has canceled several trains between Paris and London due to an unannounced strike by some staff",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/eurostar-cancels-paris-london-trains-after-staff-unannounced-138434350"
+        },
+        {
+          "headline": "Budget carrier Norse Atlantic falls 77% after warning its finances are ‘critical’ amid soaring fuel costs",
+          "summary": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html"
+        },
+        {
+          "headline": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
+          "summary": "World stocks are mixed Wednesday after another wave of heavy selling of stocks linked to artificial intelligence hit Wall Street",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/asian-stocks-decline-ai-shares-tumble-after-retreat-138431273"
+        },
+        {
+          "headline": "Buying new things feels wonderful. But it can also be a trap",
+          "summary": "Saying No to New , says that \"you do feel joy and excitement\" from buying new things initially — \"but science says those feelings can't last.\"'/> Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have. (Image credit: ㅤ)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "headline": "Sheffield United 1-1 Southampton: A Tale of Two Halves Show Blades Can Compete With Top Sides",
+          "summary": "Sheffield United secured a point in a 1-1 draw with Southampton at Bramall Lane on Tuesday evening in an entertaining EFL Championship contest. The Saints took the lead early on through Lewis Dobbin with an excellent finish into the top right corner.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/sheffield-united-1-1-southampton-115200191.html"
+        },
+        {
+          "headline": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
+          "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/"
+        },
+        {
+          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
+          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
+        },
+        {
+          "headline": "Vartiainen has 13 points, UC Santa Barbara beats UNC Greensboro 85-65",
+          "summary": "Viljami Vartiainen’s 13 points help UC Santa Barbara defeat UNC Greensboro 85-65",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/vartiainen-13-points-uc-santa-barbara-beats-unc-138432189"
+        },
+        {
+          "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
+          "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "stories": [
+        {
+          "headline": "‘Ramayana’ Language App Cinedubs Named IFFI Accessibility Partner After Reaching More Than 100,000 Moviegoers in 42 Countries",
+          "summary": "The mobile app that let more than 100,000 moviegoers in 42 countries hear “Ramayana” in a language of their choosing has signed on as accessibility partner for the International Film Festival of India (IFFI) 2026 in Goa. The platform, Cinedubs, has brought its audio description and closed-caption technology to the festival, so that visually impaired […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/ramayana-app-cinedubs-iffi-2026-accessibility-partner-1236957861/"
+        },
+        {
+          "headline": "Mark Cousins Backs Kyrgyzstan-Set Refugee Drama ‘A Requiem in Bishkek,’ a FIDMarseille Prize Winner (EXCLUSIVE)",
+          "summary": "Mark Cousins, the Northern Irish filmmaker behind “The Story of Film: An Odyssey,” is executive producer on “A Requiem in Bishkek,” the first feature from Indian director Di Sica Ray, which took the Claudia Cardinale Foundation Award at FIDMarseille. The India-France co-production world premiered in the French festival’s First Film Competition.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/mark-cousins-backs-fidmarseille-winner-requiem-bishkek-1236957835/"
+        },
+        {
+          "headline": "Damian Lewis Boards Short Film ‘Odessa’ as Executive Producer (Exclusive)",
+          "summary": "Harald Swinkels' Oscar-qualified World War II-era drama was shot on 35mm in the Austrian-Italian Dolomites.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/damian-lewis-boards-short-film-odessa-as-executive-producer-1236762810/"
+        },
+        {
+          "headline": "‘Hunger Games: Sunrise on the Reaping’ to Dominate Thanksgiving Box Office as ‘Focker In-Law,’ ‘Hexed’ Join Fray",
+          "summary": "'Hershey' and 'The Further Mis-Adventures of Cliff Booth' also head to the big screen for the five-day holiday weekend.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/"
+        },
+        {
+          "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
+          "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6050929/filmmaker-ava-duvernay-challenges-the-stories-america-tells-about-itself-in-14th"
+        }
+      ]
+    },
+    {
+      "id": "tv",
+      "title": "TV",
+      "stories": [
+        {
+          "headline": "Cole Sprouse Says He Didn’t Make ‘Substantial Money’ on ‘Riverdale’ Until Season 4: TV Is ‘Not as Profitable for Actors Anymore’",
+          "summary": "Cole Sprouse is getting candid about the realities of being a TV actor. During an appearance on his brother Dylan Sprouse’s “Wildmen” podcast — which marked the “Suite Life of Zack & Cody” stars’ first on-screen reunion in a decade — Cole reflected on his time starring on the teen drama series from 2017 to […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/cole-sprouse-didnt-make-good-money-riverdale-season-4-1236957830/"
+        },
+        {
+          "headline": "Design Duo Brian Gluckstein & Lynda Reeves Set Video Podcast With Marlo Miazga’s M Media",
+          "summary": "EXCLUSIVE: Canadian design duo Brian Gluckstein and Lynda Reeves has teamed with Marlo Miazga’s M Media on a video podcast series. By Design With Lynda & Brian will be an eight-part series in which designers Reeves, who was host of HGTV’s House & Home, and Gluckstein, who appeared regularly on Cityline for 30 years, offer […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/brian-gluckstein-lynda-reeves-video-podcast-m-media-1237232655/"
+        },
+        {
+          "headline": "UK Prime Minister Promises To Get Tough On NDAs After “Watershed” Russell Brand Sentencing",
+          "summary": "The UK Prime Minister has promised to tackle non-disclosure agreements (NDAs) following the Russell Brand rape sentencing. Andy Burnham intervened in the debate by calling Brand a “watershed moment, not just for the culture of the entertainment industry but for us as a nation.” Brand’s 10-year sentence for rape and the allegations against David Walliams, […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/russell-brand-andy-burnham-ndas-david-walliams-1237233158/"
+        },
+        {
+          "headline": "Amanda Seyfried Reveals ‘You Can See Everything’ Script Required ‘Five-Factor Authentication App’ to Access",
+          "summary": "The cat’s out of the bag. Amanda Seyfried not only appears in Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes documentary “You Can See Everything,” but her winning turn as Holmes (and herself) may make history as the first doc performance to win an acting Oscar (and perhaps the first to win an Oscar and an […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/amanda-seyfried-you-can-see-everything-script-elizabeth-holmes-nathan-fielder-1236957716/"
+        },
+        {
+          "headline": "‘Dancing With the Stars’: All 35 Winners",
+          "summary": "A Tony winner, several Olympians, Super Bowl champions, Bachelorettes and the Irwin siblings are just a few of the stars who have won the coveted mirrorball trophy throughout the show’s 20-year history.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list/"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Media",
+      "stories": [
+        {
+          "headline": "Take-Two CEO Strauss Zelnick To Talk ‘Grand Theft Auto VI’ At SXSW London 2027; More Speakers Announced",
+          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk “about building one of the world’s biggest entertainment franchises,” is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
+        },
+        {
+          "headline": "IATSE Reaches Tentative Agreement for Broadway Stagehands",
+          "summary": "However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/"
+        },
+        {
+          "headline": "Al Gore To Purchase Hometown Paper Carthage Courier",
+          "summary": "Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly newspaper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838/"
+        },
+        {
+          "headline": "Law Firm Ropes and Gray Expands Los Angeles Presence and Entertainment, Sports and Media Practice With Tom Ara, David Markman Hires",
+          "summary": "Law firm Ropes and Gray aims to significantly raise its profile in Los Angeles and in the entertainment and sports arena with the hiring of the transactional legal team lead by Tom Ara and David Markman. Ara and Markman are relocating to Ropes and Gray after having previously set up shop at Weil, Gotshal and […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/tom-ara-markman-ropes-and-gray-la-entertainment-sports-1236957128/"
+        },
+        {
+          "headline": "Netflix Buys Radford Studio Lot for $380 Million",
+          "summary": "The purchase gives the entertainment giant ownership of a major Los Angeles production campus.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "stories": [
+        {
+          "headline": "The Beatles’ Apple HQ Experience Set For 2027 – But No Rooftop Concerts Permitted",
+          "summary": "Here’s another date for your diary, Beatles fans. On Wednesday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/the-beatles-apple-hq-savile-row-experience-approved-2027/"
+        },
+        {
+          "headline": "‘Unknown Substance’ Released at Evacuated Don Toliver Show in Manchester ‘Could Be Linked to Jewel Thefts,’ Police Say",
+          "summary": "Don Toliver ’s disrupted performance at Manchester’s Co-op Live may have been linked to a string of jewel thefts, says local law enforcement. Related Don Toliver’s Manchester Show Evacuated After ‘Unknown Substance’ Released in Crowd Don Toliver Delays London Gig After Manchester Set Evacuated for ‘Unknown Substance’: ‘Stop Bringing Bulls–t’ Into My…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/don-toliver-concert-jewelry-thefts-1236389403/"
+        },
+        {
+          "headline": "Patti Smith: Tiny Desk Concert",
+          "summary": "Punk's poet laureate settles into the NPR Music office with her band for a moving, close-knit set of spoken word and songs.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/g-s1-151794/patti-smith-tiny-desk-concert"
+        },
+        {
+          "headline": "Brandi Carlile Says the ‘Horror’ of ICE Arrests at Seattle Airport ‘Cannot Be Overstated’",
+          "summary": "The musician called on fans to call their representatives and donate to organizations working to protect immigrants",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/"
+        },
+        {
+          "headline": "Ninajirachi Drops I Love My Computer Remix Album",
+          "summary": "Wet Leg, Mallrat, Genesis Owusu, and more lend their hands to I Love My Computer, All My Friends Are Inside It",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-25T07:10:30-05:00"
+}
