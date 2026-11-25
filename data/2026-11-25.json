@@ -6,13 +6,19 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
+        },
+        {
           "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
           "summary": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for…",
           "source": "The Verge",
           "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
         },
         {
-          "headline": "State AGs fight Character.AI’s plan to auction off users’ private chats",
+          "headline": "State AGs fight Character AI’s plan to auction off users’ private chats",
           "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
@@ -28,12 +34,6 @@
           "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
           "source": "The Verge",
           "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
-        },
-        {
-          "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
         }
       ]
     },
@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Small plane crash off Mississippi kills 6, including 2 children",
-          "summary": "Six people, including two children, have been found dead after a plane crashed off the coast of Mississippi, according to the Coast Guard.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/small-plane-crash-off-mississippi-6-dead-2-children/"
-        },
-        {
           "headline": "Iran denounces U.S. use of AI in war",
           "summary": "Iran's U.N. envoy claims the U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
+          "headline": "Poundland collapses putting 11,000 jobs at risk",
+          "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Army detonates toxic explosives at Iowa plant despite concerns",
+          "summary": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
+        },
+        {
           "headline": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
           "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
-          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
         },
         {
           "headline": "Group of Senate Democrats push to add freshman to leadership",
@@ -79,6 +79,96 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125655091612877055",
+          "created_at": "2026-11-25T18:17:21.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran will turn the White House into “dust” if Pickaxe Mountain, a heavily fortified underground nuclear facility near Natanz, is attacked, warned Iranian lawmaker Abbas Moghtadaei.",
+          "url": "https://x.com/Osint613/status/2125655091612877055",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125654751727780265",
+          "created_at": "2026-11-25T18:16:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "AMERICAN AIRLINES FLIGHT DIVERTED AS PASSENGER ATTEMPTS TO OPEN DOOR MID FLIGHT\n\nThankfully no one was hurt, thanks to the brave passengers that helped to apprehend the disgruntled man. \n\nThe flight was going from San Diego International Airport (SAN) to Chicago O'Hare",
+          "url": "https://x.com/RealAmVoice/status/2125654751727780265",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125654116366225585",
+          "created_at": "2026-11-25T18:13:28.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian forces are attacking Kurds in northern Iraq, and both sides are sending forces to the border, according to Kan News. Kurdish authorities announced their region is closed to soldiers from the Shiite government in Baghdad. Kan describes an internal war as imminent.",
+          "url": "https://x.com/Osint613/status/2125654116366225585",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125652812638101511",
+          "created_at": "2026-11-25T18:08:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "CBS News: Jensen Huang's U.S. security clearance remains active despite his reported affair with an alleged Chinese intelligence asset.",
+          "url": "https://x.com/Osint613/status/2125652812638101511",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125652744757223665",
+          "created_at": "2026-11-25T18:08:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Why Do You Think Democrats Want To Bring Back USAID? 🤔",
+          "url": "https://x.com/RealAmVoice/status/2125652744757223665",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125652542805754368",
+          "created_at": "2026-11-25T18:07:13.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NOW: A man set himself on fire across from the Presidential Palace in Warsaw, according to @ScopeReport_. https://t.co/NOksBNwNDS",
+          "url": "https://x.com/Osint613/status/2125652542805754368",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125652267990692330",
+          "created_at": "2026-11-25T18:06:08.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Israeli PM Netanyahu:\n\n\"I know the enormous and immediate dangers facing the State of Israel.\n\nThere is only one way to deal with them: to unite.\n\nWe must unite to secure Israel's future. Nothing less.\n\nMy hand is extended for unity.\"",
+          "url": "https://x.com/Osint613/status/2125652267990692330",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125649652917612803",
+          "created_at": "2026-11-25T17:55:44.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Dow Jones Industrial Average erases all losses and turns green on the day. https://t.co/HYCmFEAtTW",
+          "url": "https://x.com/KobeissiLetter/status/2125649652917612803",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125649126398591003",
+          "created_at": "2026-11-25T17:53:39.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman's commercial resupply mission to the @Space_Station. Liftoff is targeted for 10:47 a.m. ET on Sunday, November 29 → https://t.co/7HN2qI13he https://t.co/Nk2DIJ4rvY",
+          "url": "https://x.com/SpaceX/status/2125649126398591003",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2125646387819974968",
           "created_at": "2026-11-25T17:42:46.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -89,16 +179,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125645396672422292",
-          "created_at": "2026-11-25T17:38:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The West holds indications that Iran is developing chemical weapons alongside its pursuit of a nuclear bomb, a diplomatic source told Israel Hayom. The source cautioned that toppling the regime by force could lead to the rise of jihadist groups, as happened in Iraq.",
-          "url": "https://x.com/Osint613/status/2125645396672422292",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125645220524286373",
           "created_at": "2026-11-25T17:38:07.000Z",
           "author_name": "The Kobeissi Letter",
@@ -107,16 +187,6 @@
           "url": "https://x.com/KobeissiLetter/status/2125645220524286373",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125643926879015395",
-          "created_at": "2026-11-25T17:32:59.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hamas's head of internal security was eliminated yesterday, and his replacement was taken out overnight, IDF Chief of Staff Lt. Gen. Eyal Zamir told Western Negev local leaders.\n\nZamir: \"We will not allow Hamas to return to what was on October 6, and we will not allow it to build",
-          "url": "https://x.com/Osint613/status/2125643926879015395",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125643286157390108",
@@ -155,16 +225,6 @@
           "author_handle": "ClayTravis",
           "text": "Interesting. Second round match ups would be elite. https://t.co/PwV3ybYtxW",
           "url": "https://x.com/ClayTravis/status/2125642617857953902",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125640731868156285",
-          "created_at": "2026-11-25T17:20:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "REPORT: An Iranian cargo ship was attacked at the port of Benghazi, Libya, according to the Italian newspaper Corriere della Sera. The vessel, named Alwan, appears to have broken through the U.S. naval blockade in the Strait of Hormuz. The attack coincided with Ukrainian strikes",
-          "url": "https://x.com/Osint613/status/2125640731868156285",
           "verified": true,
           "verified_type": "blue"
         },
@@ -217,46 +277,6 @@
           "url": "https://x.com/ClayTravis/status/2125635650619576785",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125635404011290634",
-          "created_at": "2026-11-25T16:59:07.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "@AngelStudiosInc Claim your offer at https://t.co/NtCiIXqTpa",
-          "url": "https://x.com/RealAmVoice/status/2125635404011290634",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125635349133001151",
-          "created_at": "2026-11-25T16:58:54.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hezbollah has rejected a Jordanian court's finding that it used an investment in an Aqaba riding club as cover to undermine the kingdom's security, calling the allegations \"false and baseless.\" The group urged Jordanian authorities not to be drawn into what it described as a https://t.co/coJ8XAVSzo",
-          "url": "https://x.com/Osint613/status/2125635349133001151",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125635038234792420",
-          "created_at": "2026-11-25T16:57:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "JUST IN: The Saudi-led coalition spokesman announced that an unknown Houthi munition struck Jazan Port, western Saudi Arabia.\n\nAccording to the release, the port suffered minor damage with no civilian casualties. https://t.co/CTV4NMfs6T",
-          "url": "https://x.com/Osint613/status/2125635038234792420",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125634619114426462",
-          "created_at": "2026-11-25T16:56:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ECONOMY BOOM THIS MORNING! Todays's GDP numbers show a \"BLOCKBUSTER\", 4.3%\n\n\"This shows an economy hitting on all cylinders.\"\n\nGas and oil have dropped after midterms and now the GDP soars into the Q3. Many are saying the strongest economy in 3 years.\n\nhttps://t.co/tU7wg5aQbX",
-          "url": "https://x.com/RealAmVoice/status/2125634619114426462",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125634569739104543",
@@ -367,16 +387,6 @@
           "url": "https://x.com/_Investinq/status/2125620852637208601",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125620263513432251",
-          "created_at": "2026-11-25T15:58:57.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: US intelligence finds “no evidence” that Alice Huang, the woman Jensen Huang had an affair with, was directed by Chinese intelligence to spy on him, per US officials.\n\nIn fact, current evidence suggests Alice Huang and Jensen Huang’s relationship may have been amorous.",
-          "url": "https://x.com/KobeissiLetter/status/2125620263513432251",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125620198912692615",
@@ -699,36 +709,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125263043244290435",
-          "created_at": "2026-11-24T16:19:29.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/TI8to82O7B",
-          "url": "https://x.com/SpaceX/status/2125263043244290435",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125260653560562086",
-          "created_at": "2026-11-24T16:09:59.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Liftoff! https://t.co/9wGDVxiG4O",
-          "url": "https://x.com/SpaceX/status/2125260653560562086",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125257116449648858",
-          "created_at": "2026-11-24T15:55:56.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "Watch Falcon 9 launch the USSF-266 mission from pad 4E in California https://t.co/4fplvapUs8",
-          "url": "https://x.com/SpaceX/status/2125257116449648858",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125227421477802190",
           "created_at": "2026-11-24T13:57:56.000Z",
           "author_name": "Glenn Beck",
@@ -811,28 +791,28 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Kalshi traders say state data center moratoriums are more likely than not",
-          "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
+          "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+          "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html"
+          "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
         },
         {
-          "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-          "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+          "headline": "Nvidia’s Billion-Dollar Board Bet: Who’s Protected as Lawsuits Mount?",
+          "summary": "Nvidia’s board is under investigation, and directors are already defendants in a shareholder lawsuit accusing them of failing to properly oversee the company.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+          "url": "https://www.cnbc.com/2026/11/25/nvidias-billion-dollar-board-bet-whos-protected-as-lawsuits-mount.html"
+        },
+        {
+          "headline": "Average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
+          "summary": "The average long-term U.S. mortgage rate eased this week, though it remains above 7% and near the 2026 high it reached last month",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/average-us-30-year-mortgage-rate-eases-721-138446333"
         },
         {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
           "summary": "Eurostar has canceled several trains between Paris and London due to an unannounced strike by some staff",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/eurostar-cancels-paris-london-trains-after-staff-unannounced-138434350"
-        },
-        {
-          "headline": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
-          "summary": "World stocks are mixed Wednesday after another wave of heavy selling of stocks linked to artificial intelligence hit Wall Street",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/asian-stocks-decline-ai-shares-tumble-after-retreat-138431273"
         },
         {
           "headline": "Buying new things feels wonderful. But it can also be a trap",
@@ -847,10 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Five field goals, a primetime game-winner, and now a weekly NFL award for Commanders rookie Drew Stevens",
-          "summary": "LANDOVER, MARYLAND- NOVEMBER 23: Drew Stevens #19 of the Washington Commanders celebrates kicking a game winning field goal after an NFL football game against the Cincinnati Bengals at Northwest Stadium on November 23, 2026 in Landover, Maryland. (Photo by Logan Bowles/Getty Images | Getty Images When the Washington Commanders lined up for a 26-yard…",
+          "headline": "Carnegie scores 17 of her 19 in 1st half, No. 8 Iowa women cruise after halftime to beat Navy 104-48",
+          "summary": "NASSAU, Bahamas (AP) — Dani Carnegie scored 17 of her 19 points in the first half, McKenna Woliczko added 18 points and No. 8 Iowa pulled away after halftime to beat Navy 104-48 on Wednesday in the Baha Mar Pink Flamingo Championship.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/five-field-goals-primetime-game-173000401.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/carnegie-scores-17-her-19-181050437.html"
+        },
+        {
+          "headline": "Here’s what Fernando Mendoza told Jonah Coleman after Broncos beat Raiders",
+          "summary": "Game respects game all across the NFL, no matter if it's division rivals or interconference opponents, rookie or veteran. Such was the occasion when Denver Broncos running back and fourth-round pick Jonah Coleman met up with Las Vegas Raiders quarterback and first overall draft pick Fernando Mendoza.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/fernando-mendoza-told-jonah-coleman-180121861.html"
         },
         {
           "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
@@ -859,22 +845,16 @@
           "url": "https://abcnews.com/Sports/wireStory/college-football-week-13-usc-ucla-tops-schedule-138441044"
         },
         {
-          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
-          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
+          "headline": "Baylor holds off No. 15 Alabama 68-63 in Las Vegas to snap 16-game skid against AP Top 25 opponents",
+          "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
+          "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
         },
         {
-          "headline": "Vartiainen has 13 points, UC Santa Barbara beats UNC Greensboro 85-65",
-          "summary": "Viljami Vartiainen’s 13 points help UC Santa Barbara defeat UNC Greensboro 85-65",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/vartiainen-13-points-uc-santa-barbara-beats-unc-138432189"
-        },
-        {
-          "headline": "Lions vs. Bears Thanksgiving prediction: Which team will be in control of NFC North?",
-          "summary": "Sole possession of first place in the NFC North is on the line at Ford Field as two 8-2 rivals clash on Thanksgiving with long winning streaks",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/lions-vs-bears-thanksgiving-prediction-odds-how-to-watch/"
+          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
+          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
+          "source": "FOX News Sports",
+          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
         }
       ]
     },
@@ -883,28 +863,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Michael Urie to Host 79th Writers Guild Awards in New York (EXCLUSIVE)",
-          "summary": "Michael Urie, the two-time Emmy nominee, will host the 79th annual Writers Guild Awards New York ceremony on Saturday, Feb. 13, 2027, Variety has learned exclusively.",
+          "headline": "As ‘The Further Mis-Adventures of Cliff Booth’ Opens on Just 200 Imax Screens, Netflix’s Movie Theater Push Is Still Failing Moviegoers",
+          "summary": "If you’re a fan of Quentin Tarantino and David Fincher and Brad Pitt, and you loved “Once Upon a Time in Hollywood” and have your heart set on seeing that film’s sequel, the highly entertaining (and appropriately well-reviewed) “The Further Mis-Adventures of Cliff Booth,” over Thanksgiving weekend, I have a scientific phrase to describe your […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/michael-urie-host-79th-writers-guild-awards-new-york-1236957790/"
+          "url": "https://variety.com/2026/film/columns/cliff-booth-imax-limited-release-netflix-1236956318/"
+        },
+        {
+          "headline": "Takashi Miike’s ‘Bad Lieutenant: Tokyo’ Sets March 2027 Release Date",
+          "summary": "Neon has set the theatrical release date for Takashi Miike’s gritty cop thriller “Bad Lieutenant: Tokyo” for March 5, 2027. The third installment in the cult classic series, which premiered at the Toronto International Film Festival, stars Shun Oguri, Lily James and WWE wrestler Liv Morgan.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/takashi-miike-bad-lieutenant-tokyo-release-date-neon-1236957562/"
+        },
+        {
+          "headline": "Watch Nathan Fielder and Lance Oppenheim’s Full In-Depth Breakdown of ‘You Can See Everything’",
+          "summary": "The directors behind A24's unlikely powerhouse Oscar contender joined THR at the SCAD Savannah Film Festival last month, for a live Q&A about the making of the movie. You can now watch it here.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/watch-nathan-fielder-lance-oppenheim-you-can-see-everything-1236762706/"
         },
         {
           "headline": "How ‘The Other Bennet Sister’ Defied the Odds as a Smash Hit",
           "summary": "Stars Ella Bruccoleri and Dónal Finn, as well as executive producer Jane Tranter, joined THR for a special post-screening conversation of the romantic BritBox series, which has been a major success with both audiences and critics.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/other-bennet-sister-ella-bruccoleri-donal-finn-interview-1236762265/"
-        },
-        {
-          "headline": "Mike Plante, Sundance Film Festival Shorts Programmer, Dies at 56",
-          "summary": "Mike Plante, the shorts programmer at Sundance Film Festival, died Tuesday. He was 56.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/people-news/mike-plante-dead-sundance-film-festival-1236958042/"
-        },
-        {
-          "headline": "‘Clashing Through the Snow’ Director Carlson Young on Going From “Horror Girly” to Holiday Rom-Com",
-          "summary": "The director and former 'Scream' star talks about finding the \"psychic predator\" in a holiday road-trip romance, filming with her daughter and telling more romance stories — while staying ready to bring her \"horror fangs out.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/clashing-through-the-snow-movie-director-interview-1236751763/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -955,6 +935,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
+          "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        },
+        {
           "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
           "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
           "source": "Variety",
@@ -977,12 +963,6 @@
           "summary": "Maitreyi Ramakrishnan is set to present Kaling with the award at the Los Angeles event, which is presented by founding sponsor Lifetime and title sponsor Lilly. Mary Beth Barone will open the program.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/mindy-kaling-hollywood-reporter-equity-entertainment-award-1236762197/"
-        },
-        {
-          "headline": "Take-Two CEO Strauss Zelnick To Talk ‘Grand Theft Auto VI’ At SXSW London 2027; More Speakers Announced",
-          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk “about building one of the world’s biggest entertainment franchises,” is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
         }
       ]
     },
@@ -990,6 +970,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Drake Shot Future’s ‘Ya Hit’ Video Scenes at Moody Center Without Permission, Rice University Says",
+          "summary": "Drake shot scenes from Future’s “Ya Hit” music video at Rice University’s “Twilight Epiphany” Skyspace installation by artist James Turrell at the Moody Center for the Arts, but reportedly never received proper permission to film the commercial work on campus. Related Future Reunites With Drake & Travis Scott for Supercharged ‘Ya Hit’ Single Featuring…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/drake-ya-hit-video-film-rice-university-without-permission-1236389498/"
+        },
+        {
+          "headline": "Watch Justin Timberlake & Jimmy Fallon Do the ‘Cha Cha Slide’ in Thanksgiving Special Sneak Peek",
+          "summary": "Jimmy Fallon and Justin Timberlake are ready for Turkey Day. In a sneak peek from the upcoming Thanksgiving episode of The Tonight Show , the duo team up for a festive medley of classic hits that’ll get you into celebration mode ahead of the holiday.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/justin-timberlake-jimmy-fallon-cha-cha-slide-thanksgiving-1236389549/"
+        },
         {
           "headline": "How Riot Games Turned ‘League of Legends’ Into a Music Empire",
           "summary": "Virtual artists and reality collide at the 2026 World Championship",
@@ -1003,18 +995,6 @@
           "url": "https://www.rollingstone.com/music/music-news/don-toliver-concert-evacuation-substance-investigation-1235664243/"
         },
         {
-          "headline": "Travis Kelce Celebrates 100th Game at Arrowhead Stadium With Taylor Swift-Coded Comment: ‘It’s Pretty Awesome’",
-          "summary": "Travis Kelce has plenty of great memories playing at the Kansas City Chiefs’ home stadium. In fact, on Sunday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/culture/lifestyle/travis-kelce-celebrates-100th-game-arrowhead-taylor-swift-1236389514/"
-        },
-        {
-          "headline": "Inside Harry Styles’ MSG Residency and Why Fans Want Experiential Concerts",
-          "summary": "What does it take to run some of America’s most iconic venues? Josephine Vaccarello , president of MSG Entertainment, knows a thing or two about it.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/billboard-on-the-record-josephine-vaccarello/"
-        },
-        {
           "headline": "From Duke Ellington to Louis Armstrong, 1926 represented a turning point in jazz",
           "summary": "Jazz historian Kevin Whitehead says that 100 years ago, the music's expressive range and resources were rapidly expanding. He shares six of the dozens of recordings made in November 1926.",
           "source": "NPR",
@@ -1023,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T12:47:13-05:00"
+  "updatedAt": "2026-11-25T13:19:37-05:00"
 }
