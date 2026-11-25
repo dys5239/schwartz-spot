@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+        },
+        {
           "headline": "Has vibe coding made open source the new normal for synths?",
           "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community.",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "Some of the hottest toys this holiday season are cute, cuddly and filled with AI. Mark Strassmann reports on how some of these toys could offer up inappropriate or even sexually explicit content to kids.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/some-ai-powered-toys-could-offer-up-inappropriate-sexually-explicit-content-kids/"
-        },
-        {
-          "headline": "Even the best AI agents struggle with everyday life",
-          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Trump administration to issue new tariffs on 14 trading partners",
-          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from 13 other economies.",
+          "headline": "Amid public outcry, all systems go for lead azide blast at Iowa Army base",
+          "summary": "The detonation is set to occur at approximately 9 a.m. CT on Wednesday at the Iowa Army Ammunition Plant in Middletown, according to the Army.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        },
+        {
+          "headline": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation. (Image credit: Eddie Raynes)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer"
+        },
+        {
+          "headline": "Stock futures plummet as Jensen Huang rebound rally fades",
+          "summary": "The tech-heavy Nasdaq 100 index is on pace to relinquish earlier gains this week, spurred by the stunning return of Nvidia's CEO.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/"
+        },
+        {
+          "headline": "Trump administration to issue new tariffs on China, EU and others",
+          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
-          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
-        },
-        {
-          "headline": "Burnham defends inviting influencers into No 10 in PMQs row with Badenoch",
-          "summary": "The Tory leader calls on the PM to apologise for allowing an \"obscene\" video to be recorded outside Number 10.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx987j6e26elo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
-          "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "US plans to hike tariffs on China, EU, Brazil and others over subsidized production",
-          "summary": "President Donald Trump's administration is getting ready to raise tariffs on China, the European Union and a dozen other trading partners",
+          "headline": "WATCH: 'Dancing with the Stars' superfan gets special surprise",
+          "summary": "A lucky superfan receives two tickets to the \"Dancing with the Stars\" live show on Feb. 16, including a behind-the-scenes tour, a meet-and-greet and exclusive merchandise.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/wireStory/us-plans-hike-tariffs-china-eu-brazil-subsidized-138438618"
+          "url": "https://abcnews.com/video/138439653/"
         }
       ]
     },
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125592823953019229",
+          "created_at": "2026-11-25T14:09:55.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Political projection\n\nLow order thinkers cant imagine motives or emotions outside of their own\n\nPalmer nails it https://t.co/9sxpwV4fEd",
+          "url": "https://x.com/Timcast/status/2125592823953019229",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125591873490194607",
+          "created_at": "2026-11-25T14:06:08.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Trump Accounts hit a MASSIVE $1 BILLION milestone!\n\nTreasury Secretary Scott Bessent announces that more than 3 million Americans have contributed over $1 billion to children’s Trump Accounts.\n\nWith government seed money and philanthropic contributions, total deposits have now https://t.co/ri6axwcVgB",
+          "url": "https://x.com/RealAmVoice/status/2125591873490194607",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125591656829456816",
+          "created_at": "2026-11-25T14:05:17.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Chris Christie says Trump's assurances to Nvidia's board on Jensen Huang were \"incredibly risky and wrong\"\n\n\"You can't possibly know in this short period of time what really happened\"\n\n\"We have been on a 10-year character holiday\"\n\n\"If you're rich and powerful and you're friends https://t.co/7v9IRXQpoC",
+          "url": "https://x.com/_Investinq/status/2125591656829456816",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125590398508601593",
+          "created_at": "2026-11-25T14:00:17.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "A heavily redacted USAID file reveals they seemed to be targeting comedian @JonathanPieNews https://t.co/swD4j2fPVN",
+          "url": "https://x.com/Timcast/status/2125590398508601593",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125590270985097297",
+          "created_at": "2026-11-25T13:59:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "King Tides hit Cannon Beach, Oregon. A sneaker wave pulled a man and his dog off their feet. Both reached another staircase unharmed. https://t.co/hDdhvzJWdx",
+          "url": "https://x.com/Osint613/status/2125590270985097297",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125589808517087609",
+          "created_at": "2026-11-25T13:57:56.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/25/26 https://t.co/wxMJtHYrkb",
+          "url": "https://x.com/glennbeck/status/2125589808517087609",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125589444119986420",
+          "created_at": "2026-11-25T13:56:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Libyan commander Khalifa Haftar met Erdogan in Ankara. https://t.co/RUtNnoEqE9 https://t.co/nIV4tXCh4I",
+          "url": "https://x.com/Osint613/status/2125589444119986420",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125588856934109396",
+          "created_at": "2026-11-25T13:54:09.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IDF: Na'im Abu Nahal, killed yesterday, was part of the secret circle that held the late Staff Sgt. Oron Shaul in Hamas captivity over the years. https://t.co/iNUErJOlv0",
+          "url": "https://x.com/Osint613/status/2125588856934109396",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125588559100850232",
+          "created_at": "2026-11-25T13:52:58.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "PRE-ORDER the vinyl of \"Real America's Christmas\" at https://t.co/21oaE7ckUb",
+          "url": "https://x.com/RealAmVoice/status/2125588559100850232",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125588341064077798",
+          "created_at": "2026-11-25T13:52:06.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Market expectations for a December rate hike rise above 97% after US PCE inflation hits its 2nd highest level since April 2023. \n\nThis will mark the Fed's second interest rate hike of 2026.\n\n12 months ago, markets expected 3 rate cuts in 2026.\n\nHigher rates are on the https://t.co/MuMFi8V4BK",
+          "url": "https://x.com/KobeissiLetter/status/2125588341064077798",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125588054283030692",
+          "created_at": "2026-11-25T13:50:58.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "A Thanksgiving benching AND not even allowed to suit up? \n\nMike McCarthy isn't messing around with Aaron Rodgers.\n\n✍️ @ArmandoSalguero \nhttps://t.co/HV2IDYlnJS",
+          "url": "https://x.com/Outkick/status/2125588054283030692",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125587794051391780",
+          "created_at": "2026-11-25T13:49:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Faith. Family. Freedom. Now on VINYL!\n\nBring home the sounds of an American Christmas with \"Real America's Christmas,\" a special 12-inch vinyl edition celebrating the music, faith and traditions that make this season so special.\n\nThe perfect Christmas gift for someone who loves https://t.co/X8EX44josg",
+          "url": "https://x.com/RealAmVoice/status/2125587794051391780",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125585039320646034",
           "created_at": "2026-11-25T13:38:59.000Z",
@@ -139,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125580585817223630",
-          "created_at": "2026-11-25T13:21:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian reports of explosion heard in the Strait of Hormuz.",
-          "url": "https://x.com/Osint613/status/2125580585817223630",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125580585972228367",
           "created_at": "2026-11-25T13:21:17.000Z",
           "author_name": "The Kobeissi Letter",
@@ -175,26 +285,6 @@
           "author_handle": "Timcast",
           "text": "And these same people kept calling us conspiracy theorists and now its all proven\n\nGovernment coordinated with big tech to silence dissent https://t.co/Ri4fxKils7",
           "url": "https://x.com/Timcast/status/2125579861750071747",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125579416936055249",
-          "created_at": "2026-11-25T13:16:39.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: EU faces proposed U.S. tariff of up to 20% after trade probe",
-          "url": "https://x.com/Osint613/status/2125579416936055249",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125578981462147384",
-          "created_at": "2026-11-25T13:14:55.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: Trump administration proposes tariffs on 14 trading partners, with China facing up to 40%\n\nThe proposed U.S. tariff on China is 20% and could rise to 40% without a trade deal. Vietnam could face 35%. Officials are also weighing targeted tariffs on the EU, Japan, South Korea",
-          "url": "https://x.com/Osint613/status/2125578981462147384",
           "verified": true,
           "verified_type": "blue"
         },
@@ -379,16 +469,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125434367380189629",
-          "created_at": "2026-11-25T03:40:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "TeraWulf CEO Paul Prager says there's panic in market pricing but no panic in demand, pointing to a $19 billion Anthropic contract backed by Google\n\n\"What people are worried about isn't reality. The simple fact is that these companies don't change their plans overnight\"\n\n\"We have https://t.co/cIXksoTEPI",
-          "url": "https://x.com/_Investinq/status/2125434367380189629",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125434088093868048",
           "created_at": "2026-11-25T03:39:09.000Z",
           "author_name": "SightBringer",
@@ -489,36 +569,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125397808547070032",
-          "created_at": "2026-11-25T01:15:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Melissa Tibbetts was strangled to death in an Atlanta hotel room last month.\n\nThe suspect reportedly had 55 prior arrests.\n\nNot five. FIFTY-FIVE.\n\nHow many more innocent lives have to be lost? https://t.co/lKEP3lxAuI",
-          "url": "https://x.com/RealAmVoice/status/2125397808547070032",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125397415650033913",
-          "created_at": "2026-11-25T01:13:26.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: SoftBank stock falls over -10% as the AI selloff continues in Asian markets. https://t.co/9biRGlFSQk",
-          "url": "https://x.com/KobeissiLetter/status/2125397415650033913",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125394135070740662",
-          "created_at": "2026-11-25T01:00:24.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "CIA HACKED in ANOTHER Cyber Attack, FAA Ground Stop in Chicago https://t.co/nTAZD73LNS",
-          "url": "https://x.com/Timcast/status/2125394135070740662",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125393415214928368",
           "created_at": "2026-11-25T00:57:32.000Z",
           "author_name": "Laura Loomer",
@@ -527,26 +577,6 @@
           "url": "https://x.com/LauraLoomer/status/2125393415214928368",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125392775709442324",
-          "created_at": "2026-11-25T00:55:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "‘JUSSIE SMOLLETT 2.0?’ FORMER CONGRESSIONAL AIDE ACCUSED OF STAGING ANTI-TRUMP ATTACK\n\nA former aide to Rep. Jeff Van Drew, Natalie Greene, has been indicted over an alleged staged attack in which she claimed three men targeted her over her political affiliation.\n\nFederal https://t.co/wnXiavPVwY",
-          "url": "https://x.com/RealAmVoice/status/2125392775709442324",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125381628461466090",
-          "created_at": "2026-11-25T00:10:42.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🚨 Coyotes are reportedly advertising how to scale the U.S. border wall using ROPE LADDERS!\n\nVideos reportedly filmed this month by human smugglers south of the border are raising fresh questions about border security.\n\nDespite advanced surveillance technology, are there https://t.co/tCA5NjUrEh",
-          "url": "https://x.com/RealAmVoice/status/2125381628461466090",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125365384379301906",
@@ -567,16 +597,6 @@
           "url": "https://x.com/SpaceX/status/2125342179216261600",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125339758163636236",
-          "created_at": "2026-11-24T21:24:19.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "LIZARD PEOPLE EXPOSED https://t.co/6mIma1fVs9",
-          "url": "https://x.com/Timcast/status/2125339758163636236",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125334036650565865",
@@ -647,16 +667,6 @@
           "url": "https://x.com/_The_Prophet__/status/2125295049139511478",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125289167366263111",
-          "created_at": "2026-11-24T18:03:18.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Trev Alberts getting $17.2 million for doing nothing https://t.co/pC2wcM9rjd",
-          "url": "https://x.com/Outkick/status/2125289167366263111",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125287542283206698",
@@ -747,16 +757,6 @@
           "url": "https://x.com/glennbeck/status/2124944485767668204",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2124865035013128544",
-          "created_at": "2026-11-23T13:57:57.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/23/26 https://t.co/9pLw02glXq",
-          "url": "https://x.com/glennbeck/status/2124865035013128544",
-          "verified": true,
-          "verified_type": "blue"
         }
       ]
     },
@@ -765,16 +765,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+        },
+        {
           "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
           "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/"
-        },
-        {
-          "headline": "Paperwork, not work, causing enrollees to lose Medicaid in Nebraska",
-          "summary": "Data from the months after Nebraska's early rollout of new Medicaid work mandates offers a look at the challenges enrollees in other states could face.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nebraska-medicaid-work-requirements-paperwork-losses/"
         },
         {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-          "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+          "headline": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+          "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+          "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html"
         },
         {
-          "headline": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-          "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
+          "headline": "Our top 10 things to watch in the stock market Wednesday",
+          "summary": "We're headed for a sharply lower open on Wall Street.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html"
         },
         {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
@@ -837,10 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Dyson Daniels Claims Every NBA Team Today Would Beat Teams From 20 Years Ago By 30 Points",
-          "summary": "Mandatory Credit: Alonzo Adams-Imagn Images Atlanta Hawks ‘ defensive specialist Dyson Daniels appeared on the latest episode of Deflected with teammate Kingston Flemings , where they answered some hard questions. At one point, Daniels and Flemings were asked to reveal a basketball opinion they had never shared because NBA Twitter would destroy them.",
+          "headline": "Bailey, Wilson, And Smith Lead Jets To Victory Over Chargers",
+          "summary": "Vincent Carchietta-Imagn Images The New York Jets secured a 27-24 victory over the Los Angeles Chargers on Sunday at SoFi Stadium, ending a five-game losing streak in the process. This win provided a rare moment of celebration for a team that has struggled throughout the 2026 season.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/dyson-daniels-claims-every-nba-132829915.html"
+          "url": "https://sports.yahoo.com/nfl/articles/bailey-wilson-smith-lead-jets-140806363.html"
+        },
+        {
+          "headline": "Potts delivers career-night in Nebraska's 100-56 win over Kansas City",
+          "summary": "Nebraska women's basketball (7-0) returned to Lincoln Tuesday night for a game against Kansas City (3-5). The Huskers dominated the matchup, toppling the Roos, 100-56.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/potts-delivers-career-night-nebraskas-140226522.html"
         },
         {
           "headline": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
@@ -859,12 +865,6 @@
           "summary": "Viljami Vartiainen’s 13 points help UC Santa Barbara defeat UNC Greensboro 85-65",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/vartiainen-13-points-uc-santa-barbara-beats-unc-138432189"
-        },
-        {
-          "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
-          "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
         }
       ]
     },
@@ -873,16 +873,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Luca Guadagnino Apologizes For Controversial Costume Design Comments But Defends Working With Fashion Designers: They’re More ‘in Touch With the Pulse of How We Live’",
+          "headline": "Ava DuVernay to Receive London Critics’ Circle’s Inaugural Female Trailblazer Award",
+          "summary": "The London Critics’ Circle is adding another special award to its 2027 film awards ceremony and has tapped Ava DuVernay as the first recipient. The Laura Mulvey Female Trailblazer Award — named after renowned film theorist and filmmaker (and Critics’ Circle member) Laura Mulvey — will, according to the Circle, recognize the “most influential women in…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/awards/ava-duvernay-ondon-critics-circle-female-trailblazer-award-1236957828/"
+        },
+        {
+          "headline": "Luca Guadagnino Apologizes for Controversial Costume Design Comments But Defends Working With Fashion Designers: They’re More ‘in Touch With the Pulse of How We Live’",
           "summary": "Luca Guadagnino apologized to costume designers at the Marrakech Film Festival on Wednesday, a year after drawing backlash for comments he made about his preference for working with fashion designers on his films. However, the Italian filmmaker doubled down on his admiration for his frequent collaborator Jonathan Anderson, who most recently designed the…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/luca-guadagnino-apology-costume-design-comments-controversy-1236957916/"
-        },
-        {
-          "headline": "Danny DeVito-Produced SXSW Heist Comedy ‘Drag’ Scores Wave of International Sales Out of AFM (EXCLUSIVE)",
-          "summary": "“Drag,” the SXSW heist comedy starring Lizzy Caplan and John Stamos and produced by Danny DeVito, has secured a run of international deals following the American Film Market. U.K.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/danny-devito-produced-heist-comedy-drag-sales-1236957923/"
         },
         {
           "headline": "Damian Lewis Boards Short Film ‘Odessa’ as Executive Producer (Exclusive)",
@@ -897,10 +897,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/"
         },
         {
-          "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
-          "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6050929/filmmaker-ava-duvernay-challenges-the-stories-america-tells-about-itself-in-14th"
+          "headline": "Danny DeVito-Produced SXSW Heist Comedy ‘Drag’ Scores Wave of International Sales Out of AFM (EXCLUSIVE)",
+          "summary": "“Drag,” the SXSW heist comedy starring Lizzy Caplan and John Stamos and produced by Danny DeVito, has secured a run of international deals following the American Film Market. U.K.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/danny-devito-produced-heist-comedy-drag-sales-1236957923/"
         }
       ]
     },
@@ -909,28 +909,28 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "UK Actors Union Equity To Kickstart Negotiations With Streamers Early Next Year",
+          "summary": "EXCLUSIVE: Having nearly signed off on its long-gestating deal with Pact, Equity will soon sit down with a trio of streamers. Deadline is told that the UK actors union intends to enter the negotiating table with Netflix, Disney and Apple at the start of next year.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/streamer-negotiation-equity-actors-union-contracts-next-year-1237227832/"
+        },
+        {
+          "headline": "‘Saint-Pierre’ Is The High-Rating Canadian Cop Series Proving Small-Island Sentiment Can Provide The Drama",
+          "summary": "Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films killing it in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/saint-pierre-canada-cbc-global-breakouts-1237230077/"
+        },
+        {
           "headline": "‘The Body’ Star Kristina Bogic Just Wanted to Take Care of Anya: “A Lot of Young Women Can Relate”",
           "summary": "The 19-year-old star of Netflix's latest hit breaks down how she came to love her dance team captain character: \"Anya always wants to try and do the right thing.\"",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-features/kristina-bogic-anya-the-body-interview-1236762320/"
         },
         {
-          "headline": "‘I’m A Celebrity… Get Me Out Of Here!’ Row Over “Microaggressions” Sparks 900 Complaints",
-          "summary": "A dispute between I’m A Celebrity… Get Me Out Of Here! campmates AJ Odudu and Mariella Frostrup has sparked nearly 900 viewer complaints.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/im-a-celeb-aj-odudu-microaggressions-900-complaints-1237233218/"
-        },
-        {
           "headline": "Cole Sprouse Says He Didn’t Make ‘Substantial Money’ on ‘Riverdale’ Until Season 4: TV Is ‘Not as Profitable for Actors Anymore’",
           "summary": "Cole Sprouse is getting candid about the realities of being a TV actor. During an appearance on his brother Dylan Sprouse’s “Wildmen” podcast — which marked the “Suite Life of Zack & Cody” stars’ first on-screen reunion in a decade — Cole reflected on his time starring on the teen drama series from 2017 to […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/cole-sprouse-didnt-make-good-money-riverdale-season-4-1236957830/"
-        },
-        {
-          "headline": "Design Duo Brian Gluckstein & Lynda Reeves Set Video Podcast With Marlo Miazga’s M Media",
-          "summary": "EXCLUSIVE: Canadian design duo Brian Gluckstein and Lynda Reeves has teamed with Marlo Miazga’s M Media on a video podcast series. By Design With Lynda & Brian will be an eight-part series in which designers Reeves, who was host of HGTV’s House & Home, and Gluckstein, who appeared regularly on Cityline for 30 years, offer […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/brian-gluckstein-lynda-reeves-video-podcast-m-media-1237232655/"
         },
         {
           "headline": "Amanda Seyfried Reveals ‘You Can See Everything’ Script Required ‘Five-Factor Authentication App’ to Access",
@@ -944,12 +944,6 @@
       "id": "media",
       "title": "Media",
       "stories": [
-        {
-          "headline": "Take-Two CEO Strauss Zelnick To Talk ‘Grand Theft Auto VI’ At SXSW London 2027; More Speakers Announced",
-          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk “about building one of the world’s biggest entertainment franchises,” is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
-        },
         {
           "headline": "IATSE Reaches Tentative Agreement for Broadway Stagehands",
           "summary": "However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.",
@@ -973,6 +967,12 @@
           "summary": "The purchase gives the entertainment giant ownership of a major Los Angeles production campus.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/"
+        },
+        {
+          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
+          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
         }
       ]
     },
@@ -981,22 +981,22 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Josephine Vaccarello on Booking Harry Styles, Artist Residencies & the Future of Concerts | Billboard On The Record",
+          "summary": "From Radio City Music Hall to Madison Square Garden and Sphere, Josephine Vaccarello has had a front-row seat to the evolution of live entertainment. The president of MSG Entertainment and Billboard’s 2026 Touring Executive of the Year joins Billboard On The Record host Kristin Robinson live from the Billboard Live Music Summit to discuss how the…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/josephine-vaccarello-booking-harry-styles-artist-residencies/"
+        },
+        {
+          "headline": "Dolly Parton to Receive CNN Heroes Legacy Award, Miley Cyrus to Accept on Her Behalf",
+          "summary": "Dolly Parton will posthumously receive CNN’s Heroes Legacy Award this year, with Miley Cyrus onboard to accept the honor on her behalf. Billboard can exclusively announce Wednesday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/dolly-parton-cnn-heroes-legacy-award-miley-cyrus-accept-1236389084/"
+        },
+        {
           "headline": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
           "summary": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/"
-        },
-        {
-          "headline": "Noah Kahan Caps Epic Year With ‘Live From the Great Divide’ Album",
-          "summary": "What better way to celebrate an absolutely epic year than with a live keepsake? Noah Kahan announced that he will cap 2026 by releasing the Live From the Great Divide album on Dec.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/noah-kahan-live-from-the-great-divide-concert-album-1236389418/"
-        },
-        {
-          "headline": "Belle and Sebastian Sign Worldwide Catalog Deal With Matador Records",
-          "summary": "Matador Records has secured worldwide rights to the complete catalog of Belle and Sebastian , bringing the Glasgow indie-pop group’s recorded output under the independent label’s global representation. The deal extends a relationship between the band and Matador that dates back to 1998, when the label released the group’s third album, The Boy With The…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/belle-and-sebastian-sign-catalog-deal-matador-records/"
         },
         {
           "headline": "Patti Smith: Tiny Desk Concert",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T08:41:35-05:00"
+  "updatedAt": "2026-11-25T09:18:49-05:00"
 }
