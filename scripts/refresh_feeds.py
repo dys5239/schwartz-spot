@@ -104,8 +104,11 @@ FEEDS: list[dict] = [
         "section": "movies",
         "prefer": ["/film/", "/movies/"],
     },
+    # Editor (Nov 24): THR's main feed had <2 /movies/ items, so the fallback put
+    # a TV interview and a Broadway labor story in Movies; use the movies-category
+    # feed (10/10 movie items, all fresh), like TV's /c/tv/feed/.
     {
-        "url": "https://www.hollywoodreporter.com/feed/",
+        "url": "https://www.hollywoodreporter.com/c/movies/feed/",
         "source": "The Hollywood Reporter",
         "section": "movies",
         "prefer": ["/movies/", "/film/"],
@@ -194,7 +197,9 @@ LOCAL_OUTLET_RE = re.compile(
 # Editor (Nov 23): sportsbook guides and promo posts live under /betting/ (CBS Sports).
 # Editor (Nov 23, night): NPR "Up First" newsletter digests (several topics in one
 # headline) held a Politics slot 31 of 33 runs and duplicated the House story.
-JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter", re.I)
+# Editor (Nov 24): Variety ran a BOTOX(R) ad ("Medication Guide, Boxed Warning")
+# in Media for 14 runs; Billboard's evergreen "Music Industry Events Calendar".
+JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter|/biz/lifestyle/|events-calendar", re.I)
 JUNK_HEAD_RE = re.compile(
     r"black friday|cyber monday|gift guide|prime day|promo code|bonus code|"
     r"bonus(es)? (from|at|with) (betting|sportsbook)",  # Editor (Nov 21)
@@ -225,6 +230,9 @@ SPORTS_TEMPLATE_RE = re.compile(
 )
 # Editor (Nov 22): TV keeps TV; film/music URLs and box-office stories belong elsewhere.
 TV_OFF_RE = re.compile(r"/(film|music|movies)/|box office", re.I)
+# Editor (Nov 24): THR's movie feed falls back to TV items; a 'Dancing With the
+# Stars' finalist interview (/tv/tv-features/) ran in Movies. Mirror of TV_OFF_RE.
+MOVIES_OFF_RE = re.compile(r"\.com/tv/|/(tv|television)/", re.I)
 # Editor (Nov 23, night): Sports stays national. Yahoo Sports syndicates local
 # papers and TV stations (Spokesman-Review Gonzaga/Eastern Washington items on
 # Nov 20, 22 and 23; CT Insider prep football; WPXI). The original outlet is in
@@ -530,6 +538,8 @@ def off_rules(story: dict, section: str) -> bool:
         return True
     if section == "tv" and TV_OFF_RE.search(f"{story.get('url') or ''} {head}"):
         return True
+    if section == "movies" and MOVIES_OFF_RE.search(story.get("url") or ""):
+        return True
     return False
 
 
@@ -821,6 +831,12 @@ def headline_anchors(story: dict, vocab: set[str] | None = None) -> frozenset:
         for a, b in zip(words, words[1:]):
             if name_like(a) and name_like(b):
                 out.add(a + " " + b)
+        # Editor (Nov 24): a title-case headline that opens with a one-word name
+        # ("Ninajirachi Drops ...") gives no last-word or pair anchor, so also use
+        # a long (6+ letters) name-like first word. Pitchfork and Rolling Stone ran
+        # the same Ninajirachi album together in Music for 7 runs on Nov 24.
+        if len(words[0]) >= 6 and name_like(words[0]):
+            out.add(words[0])
     return frozenset(out)
 
 

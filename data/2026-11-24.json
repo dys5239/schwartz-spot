@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "summary": "The verdict follows a months-long trial in New York.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Maps show how far lead dust from Iowa detonation could travel",
           "summary": "Maps of the planned lead azide detonation in Middletown show the shaded area stretching from near Burlington toward Macon, Missouri, by noon Wednesday. The forecasts will change with the weather.",
           "source": "CBS News",
@@ -58,12 +64,6 @@
           "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
-          "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Potential health effects of Army's detonation of nearly 5 tons of lead azide",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-          "summary": "This has been the second attack by the Iran-backed group in six days on the tower, although the previous attack did not cause any casualties.",
+          "headline": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+          "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
+          "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html"
         },
         {
-          "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
-          "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+          "headline": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+          "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
+          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
         },
         {
           "headline": "Shein to pay $100 million to settle claims it deceived customers",
@@ -819,16 +819,16 @@
           "url": "https://www.cbsnews.com/news/shein-100-million-ftc-deceptive-practices-settlement/"
         },
         {
-          "headline": "US jury find Chinese tech giant Huawei guilty of 10 counts, including conspiracy to steal trade secrets and bank fraud",
-          "summary": "",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/us-jury-find-chinese-tech-giant-huawei-guilty-138421898"
-        },
-        {
           "headline": "Utah asks to drop charges against Kalshi, founders after Kalshi halts trading there",
           "summary": "Utah is asking asked a court to dismiss the criminal charges it filed last month against Kalshi and two of its executives, accusing the prediction market operator of running an illegal gambling enterprise",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910"
+        },
+        {
+          "headline": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
+          "summary": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/"
         }
       ]
     },
@@ -837,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "South Dakota State beats South Dakota to win Summit League volleyball title",
-          "summary": "BROOKINGS ― No. 2 South Dakota State took down No.",
+          "headline": "No. 14 Vanderbilt beats Ohio State 72-66 as Tyler Tanner hits go-ahead shot late",
+          "summary": "COLUMBUS, Ohio — Tyler Tanner scored 20 points, including the go-ahead jumper with 41 seconds to play, and No. 14 Vanderbilt remained unbeaten with a 72-66 win over Ohio State on Tuesday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-sports/articles/south-dakota-state-beats-south-022603023.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-14-vanderbilt-beats-ohio-025719636.html"
         },
         {
-          "headline": "Ohio State vs Vanderbilt recap: Buckeyes drop heartbreaker at home",
-          "summary": "Well, that one is going to sting for a while. Ohio State led No.",
+          "headline": "Nebraska WBB Beats Kansas City 100-56: Recap",
+          "summary": "Natalie Potts. Natalie Potts.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/ohio-state-vs-vanderbilt-recap-022215671.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/nebraska-wbb-beats-kansas-city-025459575.html"
         },
         {
           "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
@@ -855,10 +855,10 @@
           "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
         },
         {
-          "headline": "Oregon State wins 87-73 against San Francisco",
-          "summary": "DeShawn Gory had 14 points in Oregon State’s 87-73 win over San Francisco",
+          "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
+          "summary": "Jiri Lehecka has led the Czech Republic into the Davis Cup semifinals",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/oregon-state-wins-87-73-san-francisco-138424787"
+          "url": "https://abcnews.com/Sports/wireStory/lehecka-lead-czechs-beat-canada-auger-aliassime-davis-138422175"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
@@ -873,16 +873,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)",
+          "summary": "Six Indonesian projects, each from a director-producer pairing working on a debut or sophomore feature, have been chosen for the 2026 Indonesia-France Film Lab X MTN Lab, which runs Nov. 25-30 in Yogyakarta as part of JAFF Market.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588/"
+        },
+        {
           "headline": "Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)",
           "summary": "The Oscar race for visual effects is down to 20, and the road to the 99th Academy Awards runs through Ithaca, Motunui and a galaxy far, far away. The Academy’s Visual Effects Branch notified the artisans behind the 20 films advancing to the next round ahead of the Thanksgiving holiday.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450/"
-        },
-        {
-          "headline": "‘Dancing With the Stars’ Finalist Connor Wood Has Already Won: “I Feel Really Good”",
-          "summary": "The 31-year-old comedian has made it to the finale of the dance competition series show, even though he never quite expected it: \"I really can't put my finger on why this clicked for me, but I leaned in a lot.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/connor-wood-dancing-with-the-stars-finale-interview-1236762661/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ to Dominate Thanksgiving Box Office as ‘Focker In-Law,’ ‘Hexed’ Join Fray",
@@ -891,10 +891,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-thanksgiving-box-office-1236762317/"
         },
         {
-          "headline": "Philip Rosenberg, Oscar-Winning Production Designer for ‘All That Jazz,’ Dies at 91",
-          "summary": "Philip Rosenberg, a production designer and art director who was part of the team that won the art direction-set decoration Oscar for “All That Jazz,” died Oct. 28 in West Palm Beach, Florida.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/philip-rosenberg-dead-all-that-jazz-1236957540/"
+          "headline": "‘The Spiral’ Director Paolo Strippoli Talks Oscar-Buzzed Horror Pic: “I Try to Lower Expectations”",
+          "summary": "The filmmaker has momentum but acknowledges risks following an award-winning Venice and Toronto run, a breakout Italian box office, and New Line Cinema securing English-language remake rights to Italy’s Oscar entry for Best International Film.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/the-spiral-director-paolo-strippoli-oscars-1236762355/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -909,10 +909,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘Dancing With the Stars’ Season 35 Finale: Who’s Taking Home the Mirrorball? — Updating Live",
-          "summary": "Season 35 of “Dancing With the Stars” is officially coming to an end. On Tuesday, Nov.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/dancing-with-the-stars-winner-season-35-1236957201/"
+          "headline": "‘Dancing With The Stars: The Next Pro’ Renewed For Season 2 At ABC & Prepares To Move Filming To LA",
+          "summary": "EXCLUSIVE: Adele Zaikman, the Israeli-Ukrainian Latin ballroom dancer and choreographer, landed a spot as a professional on the current season of Dancing with the Stars after winning spinoff The Next Pro earlier this year. Expect more dancers like Zaikman after ABC renewed Dancing with the Stars: The Next Pro for a second season.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/dancing-with-the-stars-the-next-pro-renewed-season-2-abc-la-1237233033/"
+        },
+        {
+          "headline": "‘KPop Demon Hunters’ Rei Ami To Host ABC’s ‘Who’s In The Band?’",
+          "summary": "EXCLUSIVE: ABC has officially landed a Kpop Demon Hunter to host its latest musical competition series. Rei Ami, who was the singing voice of the Netflix animated feature hit’s Zoey, including on songs such as breakout single “Golden”, will front the show after closing her deal.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/kpop-demon-hunters-rei-ami-host-abc-whos-in-the-band-1237232706/"
         },
         {
           "headline": "‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams",
@@ -921,22 +927,16 @@
           "url": "https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515/"
         },
         {
-          "headline": "‘The Body’ Summons 86% Audience Boost To Lead Netflix’s Weekly TV Rankings",
-          "summary": "The Body is summoning some interest on Netflix. The YA drama tallied 9.5 million views from November 16 to 22, taking No.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942/"
+          "headline": "NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’",
+          "summary": "The 100th celebration of the Macy’s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It’s made it through rain and even snow, but this time it’s facing an incoming storm that is threatening to bring heavy winds.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/"
         },
         {
           "headline": "Alfonso Ribeiro on the “Wild” Ride of ‘DWTS’ Season 35, Reuniting With Tatyana Ali and Why He Won’t Compete in an All-Winners Season",
           "summary": "To commemorate the finale of ‘DWTS,’ Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can’t predict who will join him in the winners circle on Tuesday night.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/"
-        },
-        {
-          "headline": "TV Ratings: NBA Logs Winning Streak in First Month of the Season",
-          "summary": "Audiences on national media partners NBC/Peacock, ESPN and Prime Video are up by 37 percent year to year.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/nba-tv-ratings-up-2026-27-first-month-1236762311/"
         }
       ]
     },
@@ -987,16 +987,16 @@
           "url": "https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/"
         },
         {
-          "headline": "Billboard’s Music Industry Events Calendar",
-          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
-        },
-        {
           "headline": "Dolly Parton Estate Reveals Creative Team That Will ‘Preserve and Carry Forward’ Her Legacy",
           "summary": "The Dolly Parton estate has announced the leadership of its creative team led by Steve Summers , who worked with Parton for more than 30 years and will serve as the estate’s creative director. Summers will steer a team that also includes creative manager Riley Reed Hanratty , design specialist Vance Nichols and creative specialist Bradley Schnabel .",
           "source": "Billboard",
           "url": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/"
+        },
+        {
+          "headline": "Kodak Black Has Secret Radio Station in ‘Grand Theft Auto VI’: Here’s How to Unlock It",
+          "summary": "Since the release of Grand Theft Auto VI , gamers have been stumbling upon easter eggs that call back to Rockstar Games history and having random encounters like the viral “ Terminator NPC .” They’ve also been uncovering secret radio stations. As people continue to make it through the game’s epic story mode, they’ve unlocked two stations so far.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/kodak-black-secret-radio-station-grand-theft-auto-vi-1236389147/"
         },
         {
           "headline": "Ninajirachi Drops I Love My Computer Remix Album",
@@ -1005,13 +1005,13 @@
           "url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/"
         },
         {
-          "headline": "Ninajirachi Throws a Party With All Her Friends on Surprise Remix Album",
-          "summary": "I Love My Computer, All My Friends Are Inside It , a revamped version of the electronic artist's debut album, features Wet Leg, Underscores, Frost Children, and more",
+          "headline": "Cher’s Victory in Royalties War Under Fire as Mary Bono Pushes for Reversal",
+          "summary": "The lower court “struggled with the concept that copyright terminations preempted Sonny’s right to contract freely and bargain away his heirs’ rights,\" the new filing reads",
           "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/ninajirachi-i-love-my-computer-remix-album-1235663118/"
+          "url": "https://www.rollingstone.com/music/music-news/cher-sonny-bono-mary-royalties-war-appeal-1235663741/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-24T21:40:42-05:00"
+  "updatedAt": "2026-11-24T22:10:09-05:00"
 }
