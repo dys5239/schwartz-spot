@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
+          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
+        },
+        {
+          "headline": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+          "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "U.S.-based firms helping China access Nvidia's most advanced chips",
           "summary": "It's not just Megaspeed. A CBS News investigation reveals that at least two California-based Nvidia customers have Chinese ownership — giving the U.S.",
           "source": "CBS News",
@@ -58,18 +70,6 @@
           "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-          "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
-          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125736976749826488",
+          "created_at": "2026-11-25T23:42:44.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Can I say something? https://t.co/qVv6MzXn6h",
+          "url": "https://x.com/LauraLoomer/status/2125736976749826488",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125733774516470084",
+          "created_at": "2026-11-25T23:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "“Diversity” in England. Does diversity just mean non-white? https://t.co/zsf2m3pNQa",
+          "url": "https://x.com/RealAmVoice/status/2125733774516470084",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125733567129084394",
+          "created_at": "2026-11-25T23:29:11.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "More: https://t.co/miv3FvYshG",
+          "url": "https://x.com/Outkick/status/2125733567129084394",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125730029078467001",
+          "created_at": "2026-11-25T23:15:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Dan Ives says Dario and Daniela made a mistake selling \"over $500 million in stock in the offering\" and Anthropic should have priced its IPO lower\n\n\"That sends a negative signal, even if they weren't trying to send that signal\"\n\n\"If you have something called emotional https://t.co/oEl0f2omCY",
+          "url": "https://x.com/_Investinq/status/2125730029078467001",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125728739338428884",
           "created_at": "2026-11-25T23:10:00.000Z",
@@ -219,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125715718247510327",
-          "created_at": "2026-11-25T22:18:15.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "\"I know how to win. And that's the facts.\"\n\nMike McCarthy standing on business after Aaron Rodgers went nuclear on him  https://t.co/E3Cc3KuXcq",
-          "url": "https://x.com/Outkick/status/2125715718247510327",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125714926916587830",
           "created_at": "2026-11-25T22:15:07.000Z",
           "author_name": "StockMarket.News",
@@ -245,16 +275,6 @@
           "author_handle": "RealAmVoice",
           "text": "Your favorite RAV gear. Your favorite shows. Our BLACK FRIDAY savings!\n\nTake up to 30% OFF hats, tees, hoodies, mugs and more during the Real America's Voice Black Friday Sale!\n\nGet FREE U.S. shipping on orders of $75 or more, PLUS unlock an exclusive VIP offer when you download https://t.co/ramyiUWwAk",
           "url": "https://x.com/RealAmVoice/status/2125713388424876102",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125713016813445627",
-          "created_at": "2026-11-25T22:07:31.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "According to USA TODAY, the Pittsburgh Steelers are reportedly releasing veteran quarterback Aaron Rodgers. https://t.co/izQLyRZ00K",
-          "url": "https://x.com/RealAmVoice/status/2125713016813445627",
           "verified": true,
           "verified_type": "business"
         },
@@ -429,16 +449,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125685982494331266",
-          "created_at": "2026-11-25T20:20:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "FedWatch Advisors founder Ben Emons says stocks \"may go back to the lows of April\" and his math puts the SOX collapse at 17 Fed hikes of tightening\n\n\"We're in the downtrend\"\n\n\"The outlook itself for chips and AI is becoming a bit more cloudy\"\n\n\"This is how much the market has https://t.co/bfIRb2iK39",
-          "url": "https://x.com/_Investinq/status/2125685982494331266",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125685018332893273",
           "created_at": "2026-11-25T20:16:16.000Z",
           "author_name": "SightBringer",
@@ -585,16 +595,6 @@
           "author_handle": "LauraLoomer",
           "text": "“Some of us put America First”.\n\nWow. I didn’t know “the jihad” was America First. \n\nYou learn something new everyday. https://t.co/SEvwTxDu9g https://t.co/lZEdhkIDMU",
           "url": "https://x.com/LauraLoomer/status/2125632723079385166",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125631280696148358",
-          "created_at": "2026-11-25T16:42:44.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "We call her Marjorie Traitor Greene for a reason. \n\nFacts matter! https://t.co/2eHEUdo1eo",
-          "url": "https://x.com/LauraLoomer/status/2125631280696148358",
           "verified": true,
           "verified_type": "blue"
         },
@@ -761,10 +761,10 @@
           "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/"
         },
         {
-          "headline": "China may have surveilled Alice Huang amid affair with Nvidia CEO",
-          "summary": "China's Ministry of State Security may have been surveilling Alice Huang and sought information from her after her affair with Nvidia CEO Jensen Huang began, U.S. officials told congressional staffers.",
+          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
+          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/"
+          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
         },
         {
           "headline": "Group of Senate Democrats push to add freshman to leadership",
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "SE Louisiana earns 73-72 win against North Dakota",
+          "summary": "Tyler Rolison scored 22 points, including the go-ahead basket with seven seconds remaining, and SE Louisiana beat North Dakota 73-72 at the Cancun Challenge",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/se-louisiana-earns-73-72-win-north-dakota-138455034"
+        },
+        {
+          "headline": "Draper scores 22 as Western Michigan takes down Grace Christian 104-52",
+          "summary": "Ramere Draper’s 22 points off the bench have powered Western Michigan to a 104-52 victory against Grace Christian",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/draper-scores-22-western-michigan-takes-grace-christian-138455303"
+        },
+        {
+          "headline": "Match Awards as LOSC Lille dish Bayern Munich their first defeat of the season",
+          "summary": "Photo by Alexander Hassenstein - UEFA/UEFA via Getty Images | UEFA via Getty Images Thanks to Bayern Munich’s attacking shortages, Vincent Kompany was forced to field a line-up akin to Sir Alex Ferguson’s seven-defender Manchester United side that beat Arsenal 2-0 in the 2011 FA Cup Quarter-final. Like Sir Alex, the Belgian manager was forced to field…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/match-awards-losc-lille-dish-232902781.html"
+        },
+        {
           "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
           "summary": "A 2-2 draw with Roma revealed an attack missing its usual bite, raising questions about whether long-term knee injuries to Khvicha Kvaratskhelia and Desire Doue have stripped the European champions of their fear factor",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
         },
         {
-          "headline": "Game Thread: Wake Forest Demon Deacons (5-1) vs Mississippi State Bulldogs (5-1)",
-          "summary": "Time : 9:05 PM* Wednesday, November 25th, 2026 *Start was delayed due to leaking roof Location : Paradise Island, The Bahamas | Imperial Arena, 3,500 capacity TV: ESPN 2 Streaming : ESPN App Radio : Wake Forest Learfield Sports Network , Demon Deacons App ( IOS | Android ) Live Stats: Stat Broadcast Twitter : @WakeMBB Instagram: @WakeBasketball Spread :…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/game-thread-wake-forest-demon-230000167.html"
-        },
-        {
-          "headline": "SE Louisiana earns 73-72 win against North Dakota",
-          "summary": "CANCUN, Mexico (AP) — Tyler Rolison scored 22 points, including the go-ahead basket with sevn seconds remaining, and SE Louisiana beat North Dakota 73-72 at the Cancun Challenge on Wednesday. Rolison had three steals for the Lions (3-4).",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/se-louisiana-earns-73-72-225140765.html"
-        },
-        {
-          "headline": "Ndjonga puts up 22 as Stony Brook downs Lindenwood 69-63",
-          "summary": "Bryan Ndjonga scores 22 points as Stony Brook beats Lindenwood 69-63",
+          "headline": "No. 20 LSU moves to 7-0, rallies to beat Arizona State 94-92 in 2OT",
+          "summary": "Donovan Dent scored 20 points to go with 12 assists, and undefeated and 20th-ranked LSU rallied from a 12-point deficit to beat Arizona State 94-92 in double-overtime on Wednesday in the Acrisure Series",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ndjonga-puts-22-stony-brook-downs-lindenwood-69-138452503"
-        },
-        {
-          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
-          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
+          "url": "https://abcnews.com/Sports/wireStory/20-lsu-moves-7-0-rallies-beat-arizona-138454761"
         }
       ]
     },
@@ -863,22 +863,22 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "King Crimson Original Drummer Michael Giles Dies at 84",
-          "summary": "Michael Giles, whose drumming on King Crimson’s legendary debut album brought fire and abandon to an already wild and innovative sound, has died, according to a post on the band’s website. No cause of death was announced; he was 84.",
+          "headline": "‘Twilight’ Director Reveals Robert Pattinson Inspired James Bond Line in 2008 Film: “We Were Seeing the Future”",
+          "summary": "Earlier this month, it was announced that Pattinson has been tapped as the new 007, succeeding Daniel Craig.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/twilight-director-robert-pattinson-inspired-james-bond-line-1236763521/"
+        },
+        {
+          "headline": "Brad Pitt and Angelina Jolie Settle Winery Lawsuit That Revealed Abuse Allegations",
+          "summary": "Brad Pitt has settled his legal battle with ex-wife Angelina Jolie over the sale of her stake in the couple’s winery in France. Pitt sued Jolie in 2022, accusing her of selling her 50% share in Château Miraval to a subsidiary of Stoli, the Russian spirits company, without Pitt’s approval.",
           "source": "Variety",
-          "url": "https://variety.com/2026/music/news/king-crimson-michael-giles-dead-1236958540/"
+          "url": "https://variety.com/2026/film/news/brad-pitt-angelina-jolie-settlement-chateau-miraval-1236958440/"
         },
         {
           "headline": "‘The Mosquito Bowl’ Producer Alex Gayner Thought He’d Solved Every Problem a Set Could Throw at Him. Then Came a Runaway Parrot.",
           "summary": "Ten seconds of footage ended up being the most nerve-wracking part of the shoot for the movie veteran who has been on sets since the '90s.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-features/the-mosquito-bowl-alex-gayner-1236763483/"
-        },
-        {
-          "headline": "With ‘Guarding Stars,’ Jared Padalecki Finally Takes A Break From All That Action",
-          "summary": "The 'Walker' and 'Supernatural' star enjoys a change of pace in Netflix's latest romantic comedy, based on Katherine Center's 'The Bodyguard.'",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/jared-padalecki-guarding-stars-netflix-holiday-1236760738/"
         },
         {
           "headline": "New ‘Rocky’ Book Celebrates 50th Anniversary With Rare and Never-Seen-Before Paintings",
@@ -898,6 +898,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Constance Wang Denounces ‘The Altruists’ Portrayal As “Very Stereotypical” & “Racist”: “What Did We Expect?”",
+          "summary": "As Netflix’s The Altruists recounts the downfall of FTX, one of the company’s executives had some thoughts about her portrayal and the show’s overall accuracy. Constance Wang, the former FTX COO who is portrayed by Madison Hu, called the depiction “very stereotypical” and “racist” as she unpacked some of the apparent inaccuracies of the limited […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/constance-wang-the-altruists-very-stereotypical-racist-1237233708/"
+        },
         {
           "headline": "NBC Plans to Give Thanksgiving Parade Ads Extra Run After Macy’s Postponement",
           "summary": "NBC has a Thanksgiving Week present for advertisers scheduled to appear in the now-postponed Macy’s Thanksgiving Day Parade. The network plans to run commercials from sponsors of the event twice this week — once when the 2026 parade airs on Saturday and once on Thursday, when the network will run a repeat of last year’s […]",
@@ -921,12 +927,6 @@
           "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
-        },
-        {
-          "headline": "Aaron Rodgers Released By NFL’s Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching",
-          "summary": "Aaron Rodgers has been released by the Pittsburgh Steelers following an explosive interview on ESPN’s Pat McAfee Show. The Super Bowl champion and 4x NFL MVP was benched this week, and backup quarterback Mason Rudolph was named to take his place in the Black Friday game against the Denver Broncos.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/aaron-rodgers-released-nfl-pittsburgh-steelers-espn-interview-1237233574/"
         }
       ]
     },
@@ -934,12 +934,6 @@
       "id": "media",
       "title": "Media",
       "stories": [
-        {
-          "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
-          "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219/"
-        },
         {
           "headline": "‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’",
           "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
@@ -953,16 +947,22 @@
           "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
         },
         {
-          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
-          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
-        },
-        {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        },
+        {
+          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
+          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
+        },
+        {
+          "headline": "Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director",
+          "summary": "After nine years leading the annual Rocky Mountains industry retreat, she will step down on Dec. 11.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/jenn-kuzmyk-exit-banff-1236763033/"
         }
       ]
     },
@@ -970,6 +970,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade",
+          "summary": "The Hunger Games is back on top of Billboard ’s Soundtracks chart, as the latest soundtrack from the long-running film series, The Hunger Games: Sunrise on the Reaping , debuts at No. 1 on the list dated Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/"
+        },
         {
           "headline": "U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts",
           "summary": "U2 ’s latest studio album Carnaval de Luz makes a splash on the Billboard charts as the set launches in the top 10 on seven rankings (dated Nov. 28) – including No.",
@@ -989,12 +995,6 @@
           "url": "https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/"
         },
         {
-          "headline": "From Exception to the Norm: The Latin Boom That Redefined LOS40 in Spain, ‘Integrating Naturally’",
-          "summary": "When the team at the LOS40 group of radio stations began defining the lineup for the LOS40 Music Awards Santander 2026, someone asked a seemingly simple question: “Which Spanish artist is going to perform?” What surprised Vicent Argudo, director of music at the parent company Prisa Media, most wasn’t the question itself but the fact that, until that…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/latin-boom-redefines-los40-spain-music-market-1236389915/"
-        },
-        {
           "headline": "Bradford Cox Reveals Autism Diagnosis",
           "summary": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
           "source": "Pitchfork",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T18:12:31-05:00"
+  "updatedAt": "2026-11-25T18:45:33-05:00"
 }
