@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Badenoch challenges Burnham over university fees for EU students",
-          "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
+          "headline": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+          "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Maps show Iowa lead dust plume possibly drifting into Missouri after detonation, Army model shows",
+          "summary": "Maps released by the Army Tuesday show a possible plume of toxic dust after its detonation of munitions in Iowa drifting southwest toward northeast Missouri between 9 a.m. and 5 p.m.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
         },
         {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
@@ -54,22 +60,16 @@
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Father of teen killed at campsite says it was \"a deliberate act\"",
-          "summary": "Carey Washington \"Wash\" Vinson, 19, was shot and killed while on an annual camping trip with friends in the Florida Panhandle.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/carey-vinson-florida-campsite-fatal-shooting/"
-        },
-        {
-          "headline": "Army detonates nearly 5 tons of toxic lead materials at Iowa plant",
-          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
-        },
-        {
           "headline": "Iran denounces U.S. use of AI in war",
           "summary": "Iran's U.N. envoy claims the U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+        },
+        {
+          "headline": "WATCH: 'Dancing with the Stars' superfan gets special surprise",
+          "summary": "A lucky superfan receives two tickets to the \"Dancing with the Stars\" live show on Feb. 16, including a behind-the-scenes tour, a meet-and-greet and exclusive merchandise.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138439653/"
         }
       ]
     },
@@ -79,6 +79,136 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125640250848657413",
+          "created_at": "2026-11-25T17:18:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: US ARMY CONFIRMS IOWA DETONATION FAR EXCEEDED EXPECTATIONS, NO LEAD IN AIR\n\nhttps://t.co/sHtdN83Awa",
+          "url": "https://x.com/RealAmVoice/status/2125640250848657413",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125639719564333126",
+          "created_at": "2026-11-25T17:16:16.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says the US stock market is “down sharply” because he wasn’t on the ballot for the US Midterm Elections. https://t.co/DIJQSV7sJQ",
+          "url": "https://x.com/KobeissiLetter/status/2125639719564333126",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125637438710153247",
+          "created_at": "2026-11-25T17:07:12.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs to https://t.co/1OpyYXT8MN",
+          "url": "https://x.com/SpaceX/status/2125637438710153247",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125636212220469572",
+          "created_at": "2026-11-25T17:02:20.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Bloomberg's Mark Cudmore says this is a \"very late cycle correction\" and the Huang rescue sets up \"one more mania\"\n\n\"Essentially this is bargain basement prices if you don't believe the AI bubble is bursting\"\n\n\"I think fueled by the intervention of the US administration this week https://t.co/svvOwOpWlr",
+          "url": "https://x.com/_Investinq/status/2125636212220469572",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125635650619576785",
+          "created_at": "2026-11-25T17:00:06.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "LSU Could Be KICKED OUT of the SEC, World Cup Paywall, &amp; Thanksgiving Mailbag https://t.co/ORX2KPFC06",
+          "url": "https://x.com/ClayTravis/status/2125635650619576785",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125635611231187026",
+          "created_at": "2026-11-25T16:59:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THE CHARLIE KIRK SHOW https://t.co/X5efZ1KKkJ",
+          "url": "https://x.com/RealAmVoice/status/2125635611231187026",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125635404011290634",
+          "created_at": "2026-11-25T16:59:07.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "@AngelStudiosInc Claim your offer at https://t.co/NtCiIXqTpa",
+          "url": "https://x.com/RealAmVoice/status/2125635404011290634",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125635349133001151",
+          "created_at": "2026-11-25T16:58:54.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Hezbollah has rejected a Jordanian court's finding that it used an investment in an Aqaba riding club as cover to undermine the kingdom's security, calling the allegations \"false and baseless.\" The group urged Jordanian authorities not to be drawn into what it described as a https://t.co/coJ8XAVSzo",
+          "url": "https://x.com/Osint613/status/2125635349133001151",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125635038234792420",
+          "created_at": "2026-11-25T16:57:40.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "JUST IN: The Saudi-led coalition spokesman announced that an unknown Houthi munition struck Jazan Port, western Saudi Arabia.\n\nAccording to the release, the port suffered minor damage with no civilian casualties. https://t.co/CTV4NMfs6T",
+          "url": "https://x.com/Osint613/status/2125635038234792420",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125634619114426462",
+          "created_at": "2026-11-25T16:56:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ECONOMY BOOM THIS MORNING! Todays's GDP numbers show a \"BLOCKBUSTER\", 4.3%\n\n\"This shows an economy hitting on all cylinders.\"\n\nGas and oil have dropped after midterms and now the GDP soars into the Q3. Many are saying the strongest economy in 3 years.\n\nhttps://t.co/tU7wg5aQbX",
+          "url": "https://x.com/RealAmVoice/status/2125634619114426462",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125634569739104543",
+          "created_at": "2026-11-25T16:55:48.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "How Aaron Rodgers is gonna be moving on Friday somewhere in the mountains https://t.co/engtxzig9J",
+          "url": "https://x.com/Outkick/status/2125634569739104543",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125634379229622712",
+          "created_at": "2026-11-25T16:55:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "It's time to support entertainment that puts FAITH and FAMILY first!\n\nOur friends at @AngelStudiosInc are launching their BIGGEST Black Friday sale of the year!\n\n✨ 44% OFF a Premium Annual Angel Guild membership\n🍫 Two complimentary tickets to see Hershey in theaters\n📺 Access https://t.co/8Rgi4Go2t2",
+          "url": "https://x.com/RealAmVoice/status/2125634379229622712",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125633563110375867",
+          "created_at": "2026-11-25T16:51:48.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Bloomberg Commodity Index is on track for its 6th consecutive weekly decline, its longest losing streak since May 2023.\n\nThis index includes 25 exchange-traded futures contracts across energy, metals, and agriculture.\n\nThis would also mark its 6th longest losing https://t.co/3cSPKyxWu7",
+          "url": "https://x.com/KobeissiLetter/status/2125633563110375867",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2125632723079385166",
           "created_at": "2026-11-25T16:48:28.000Z",
           "author_name": "Laura Loomer",
@@ -87,16 +217,6 @@
           "url": "https://x.com/LauraLoomer/status/2125632723079385166",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125631678961815692",
-          "created_at": "2026-11-25T16:44:19.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Bloomberg Commodity Index is on track for its 6th consecutive weekly decline, its longest losing streak since May 2023.\n\nThis index includes 25 exchange-traded futures contracts across energy, metals, and agriculture.\n\nThis would also mark its 6th longest losing https://t.co/BfXiADibHF",
-          "url": "https://x.com/KobeissiLetter/status/2125631678961815692",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125631280696148358",
@@ -189,62 +309,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125626498237534474",
-          "created_at": "2026-11-25T16:23:44.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "IOWA UPDATE: EPA LIVE MONITORS DETECT NO LEAD IN AIR\n\nAn hour after the lead azide detonation, EPA air monitors read 0.0 µg/m³  with NO LEAD DETECTED. The EPA is giving updates every 5 minutes. \n\nhttps://t.co/sOTzyHxfGE",
-          "url": "https://x.com/RealAmVoice/status/2125626498237534474",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125624820695990653",
           "created_at": "2026-11-25T16:17:04.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
           "text": "UK MoD on sheltering RAF aircraft at night:\n\n\"We are always adapting to counter any potential threats.\" https://t.co/7RiongjKX8",
           "url": "https://x.com/Osint613/status/2125624820695990653",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125623230014910693",
-          "created_at": "2026-11-25T16:10:44.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "💿 BLACK FRIDAY SPECIAL: Save 15% on the exclusive Real America's Christmas 12-inch vinyl — regularly $100, now just $85! No promo code required.\n\nOffer ends Cyber Monday, November 30, at 11:59 PM ET.\n\nOrder your vinyl or get the digital album here:\n👉 https://t.co/21oaE7cSJJ",
-          "url": "https://x.com/RealAmVoice/status/2125623230014910693",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125622964208988185",
-          "created_at": "2026-11-25T16:09:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Poland will set up a limited no-fly zone along its eastern border.\n\nThe strip will reach a dozen to several dozen kilometers inland. Expected start: late December or early January.\n\nIt follows Russian missile and drone incursions into Polish airspace.\n\nDeputy Defense Minister",
-          "url": "https://x.com/Osint613/status/2125622964208988185",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125622566358323643",
-          "created_at": "2026-11-25T16:08:06.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🎄 It's time to take back Christmas!\n\nChristmas is more than a season. It's a celebration of the birth of Jesus Christ, faith, family, and the traditions we hold dear.\n\nReal America's Music proudly presents Real America's Christmas — seven incredible songs celebrating the true https://t.co/DsJxtKFcNl",
-          "url": "https://x.com/RealAmVoice/status/2125622566358323643",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125621145819033918",
-          "created_at": "2026-11-25T16:02:27.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Ukrainian presidential adviser Serhiy \"Flash\" Beskrestnov: \n\nA Russian jet-powered Shahed was downed by a Ukrainian laser air defense system. A first in history. https://t.co/tJTZVjNOJo",
-          "url": "https://x.com/Osint613/status/2125621145819033918",
           "verified": true,
           "verified_type": "blue"
         },
@@ -279,26 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125618776913658051",
-          "created_at": "2026-11-25T15:53:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "@POTUS Good news! Praying for the people affected and the surrounding area! 🙏",
-          "url": "https://x.com/RealAmVoice/status/2125618776913658051",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125616830576316566",
-          "created_at": "2026-11-25T15:45:19.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: Massive plumes rise after Army detonates TONS of unstable explosives in Iowa!\n\nArmy explosive ordnance disposal teams carried out a controlled detonation of 68 barrels of degraded explosives at the Iowa Army Ammunition Plant following an imminent threat alert issued to https://t.co/0r5AJmIPpX",
-          "url": "https://x.com/RealAmVoice/status/2125616830576316566",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125616248184820164",
           "created_at": "2026-11-25T15:43:00.000Z",
           "author_name": "Sport & State",
@@ -327,16 +377,6 @@
           "url": "https://x.com/KobeissiLetter/status/2125609956615573530",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125605735769977063",
-          "created_at": "2026-11-25T15:01:13.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Peter Boockvar says hyperscaler capex growth is set to slow from 100% this year to 50% next year, and \"it may actually be the peak\"\n\n\"CoreWeave's bonds, 2032 bonds trading at 74 cents in the dollar yielding 16%\"\n\n\"I have to believe that Jensen 2.0 is not going to be throwing out https://t.co/2UaBVricyH",
-          "url": "https://x.com/_Investinq/status/2125605735769977063",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125605290376564765",
@@ -417,16 +457,6 @@
           "url": "https://x.com/Timcast/status/2125590398508601593",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125588341064077798",
-          "created_at": "2026-11-25T13:52:06.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Market expectations for a December rate hike rise above 97% after US PCE inflation hits its 2nd highest level since April 2023. \n\nThis will mark the Fed's second interest rate hike of 2026.\n\n12 months ago, markets expected 3 rate cuts in 2026.\n\nHigher rates are on the https://t.co/MuMFi8V4BK",
-          "url": "https://x.com/KobeissiLetter/status/2125588341064077798",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125588054283030692",
@@ -569,16 +599,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125421334612095355",
-          "created_at": "2026-11-25T02:48:29.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Well said. The US men’s soccer team games should be free on broadcast TV. Sports fans keep having to pay more and keep getting less. https://t.co/nA4bbg0M6G",
-          "url": "https://x.com/ClayTravis/status/2125421334612095355",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125416412781097142",
           "created_at": "2026-11-25T02:28:55.000Z",
           "author_name": "SightBringer",
@@ -649,16 +669,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125305232288846087",
-          "created_at": "2026-11-24T19:07:08.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "How it felt guarding your older cousin on Thanksgiving  https://t.co/8mC5zpmS40",
-          "url": "https://x.com/Outkick/status/2125305232288846087",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125296371188330836",
           "created_at": "2026-11-24T18:31:55.000Z",
           "author_name": "SightBringer",
@@ -715,16 +725,6 @@
           "author_handle": "SpaceX",
           "text": "Watch Falcon 9 launch the USSF-266 mission from pad 4E in California https://t.co/4fplvapUs8",
           "url": "https://x.com/SpaceX/status/2125257116449648858",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125247855409692869",
-          "created_at": "2026-11-24T15:19:08.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → https://t.co/qMTrgf8mHf https://t.co/VhkDom1UBk",
-          "url": "https://x.com/SpaceX/status/2125247855409692869",
           "verified": true,
           "verified_type": "business"
         },
@@ -811,16 +811,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+          "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+        },
+        {
           "headline": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
           "summary": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
-        },
-        {
-          "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-          "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
         },
         {
           "headline": "Trump administration to issue new tariffs on China, EU and others",
@@ -829,16 +829,16 @@
           "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
-          "headline": "Stocks plummet as Jensen Huang rebound rally fades",
-          "summary": "The tech-heavy Nasdaq 100 index is on pace to relinquish earlier gains this week, spurred by the stunning return of Nvidia's CEO.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/"
-        },
-        {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
           "summary": "Eurostar has canceled several trains between Paris and London due to an unannounced strike by some staff",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/eurostar-cancels-paris-london-trains-after-staff-unannounced-138434350"
+        },
+        {
+          "headline": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
+          "summary": "World stocks are mixed Wednesday after another wave of heavy selling of stocks linked to artificial intelligence hit Wall Street",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/asian-stocks-decline-ai-shares-tumble-after-retreat-138431273"
         }
       ]
     },
@@ -847,16 +847,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Manchester City goalkeeper Gianluigi Donnarumma was left angered by chants aimed at his family during his side's 2-2 Champions League draw with Napoli on Tuesday night.",
-          "summary": "Manchester City's most divisive figure: Gianluigi Donnarumma? Tuesday night’s meeting with Napoli in the UEFA Champions League carried extra meaning for Manchester City's first-choice goalkeeper and Italy's international team captain, Gianluigi Donnarumma.",
+          "headline": "Ryan Day is hopeful Ohio State can overcome its ‘frustration’ with a win over Michigan",
+          "summary": "LINCOLN, NEBRASKA - NOVEMBER 21: Head coach Ryan Day of the Ohio State Buckeyes stands with the team before the game against the Nebraska Cornhuskers at Memorial Stadium on November 21, 2026 in Lincoln, Nebraska. (Photo by Steven Branscombe/Getty Images) | Getty Images Heading into the week of The Game, this year’s matchup between Michigan and Ohio State…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/manchester-city-goalkeeper-gianluigi-donnarumma-163000833.html"
-        },
-        {
-          "headline": "B/R lays out path for Falcons to upset Vikings in Week 12",
-          "summary": "There are no guarantees in the NFL. We learned that much when the Atlanta Falcons somehow managed to upset the San Francisco 49ers back in Week 7, proving that literally anything is possible in any given matchup.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/b-r-lays-path-falcons-162807635.html"
+          "url": "https://sports.yahoo.com/college-football/articles/ryan-day-hopeful-ohio-state-170000412.html"
         },
         {
           "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
@@ -865,16 +859,22 @@
           "url": "https://abcnews.com/Sports/wireStory/college-football-week-13-usc-ucla-tops-schedule-138441044"
         },
         {
-          "headline": "Rivalry Week spoiler rankings: Measuring the upset potential facing every ranked team",
-          "summary": "With multiple College Football Playoff contenders facing unranked rivals, a chaotic weekend could completely upend the postseason bubble",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/rivalry-week-spoiler-rankings-upset-potential/"
+          "headline": "Baylor holds off No. 15 Alabama 68-63 in Las Vegas to snap 16-game skid against AP Top 25 opponents",
+          "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
         },
         {
-          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
-          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
+          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
+          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
+          "source": "FOX News Sports",
+          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
+        },
+        {
+          "headline": "No. 22 Gonzaga routs Kansas State 101-61 in Players Era 16 first round",
+          "summary": "Gonzaga dominated Kansas State 101-61 in the opening round of the Players Era 16 tournament",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
+          "url": "https://abcnews.com/Sports/wireStory/22-gonzaga-routs-kansas-state-101-61-players-138433328"
         }
       ]
     },
@@ -883,28 +883,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Scores $16 Million on Tuesday, ‘Hexed’ Earns $2 Million in Previews",
-          "summary": "Lionsgate’s “Hunger Games” prequel “Sunrise on the Reaping” continues to power the domestic box office, earning a leading $15.98 million on Tuesday. Those ticket sales rank as the franchise’s best Tuesday haul, above 2013’s “The Hunger Games: Catching Fire,” which grossed $15.96 million on its first Tuesday (not adjusted for inflation).",
+          "headline": "Michael Urie to Host 79th Writers Guild Awards in New York (EXCLUSIVE)",
+          "summary": "Michael Urie, the two-time Emmy nominee, will host the 79th annual Writers Guild Awards New York ceremony on Saturday, Feb. 13, 2027, Variety has learned exclusively.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-hexed-previews-1236958028/"
+          "url": "https://variety.com/2026/film/awards/michael-urie-host-79th-writers-guild-awards-new-york-1236957790/"
         },
         {
-          "headline": "Salma Hayek Pinault and Saúl ‘Canelo’ Álvarez Board Cannes Short Film Palme d’Or Winner ‘For the Opponents,’ Igniting Its Oscar Campaign (EXCLUSIVE)",
-          "summary": "Salma Hayek Pinault and boxing world champion Saúl “Canelo” Álvarez two of Mexico’s greatest contemporary icons, have boarded Cannes 2026 short film Palme d’Or winner “For the Opponents” as executive producers galvanizing Mexico’s push for the film’s contention in the Academy Award Live Action Short Film race. “For the Opponents” (“Para los…",
+          "headline": "How ‘The Other Bennet Sister’ Defied the Odds as a Smash Hit",
+          "summary": "Stars Ella Bruccoleri and Dónal Finn, as well as executive producer Jane Tranter, joined THR for a special post-screening conversation of the romantic BritBox series, which has been a major success with both audiences and critics.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/other-bennet-sister-ella-bruccoleri-donal-finn-interview-1236762265/"
+        },
+        {
+          "headline": "Mike Plante, Sundance Film Festival Shorts Programmer, Dies at 56",
+          "summary": "Mike Plante, the shorts programmer at Sundance Film Festival, died Tuesday. He was 56.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/salma-hayek-pinault-saul-canelo-alvarez-for-the-opponents-1236957909/"
+          "url": "https://variety.com/2026/film/people-news/mike-plante-dead-sundance-film-festival-1236958042/"
         },
         {
           "headline": "‘Clashing Through the Snow’ Director Carlson Young on Going From “Horror Girly” to Holiday Rom-Com",
           "summary": "The director and former 'Scream' star talks about finding the \"psychic predator\" in a holiday road-trip romance, filming with her daughter and telling more romance stories — while staying ready to bring her \"horror fangs out.\"",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-features/clashing-through-the-snow-movie-director-interview-1236751763/"
-        },
-        {
-          "headline": "Gotham Film & Media Institute Names 2026 Winners of Focus Features Student Short Film Showcase (Exclusive)",
-          "summary": "The five winners will each receive a cash grant and have the opportunity for their short to be shown on Focus Features' digital streaming platform.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-gotham-film-media-institute-focus-student-short-films-1236762790/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -919,6 +919,18 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Hallmark’s New Podcast Push Kicks Off With Interview Series Hosted by Melissa Peterman That ‘Breaks the Fourth Wall,’ With More Shows to Come",
+          "summary": "Hallmark Media is gearing up for new expansion into podcasting — aiming to add another vector for connecting with its fanbase. The media company in recent years has stepped up its brand extensions, from cruises and live tours to movies and series centered on heartwarming storylines and holiday themes.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/hallmark-podcast-melissa-peterman-1236956991/"
+        },
+        {
+          "headline": "Netflix Releases New Peter Berg-Directed Spot Inspired By ‘Friday Night Lights’ Highlighting Thanksgiving Eve Game",
+          "summary": "Netflix is streaming its first Thanksgiving Eve Game and has dropped a spot directed by Peter Berg, which was inspired by Friday Night Lights. The new spot titled “Thankful for Football” is narrated by Kyle Chandler and highlights the game between the Los Angeles Rams and the Green Bay Packers.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-peter-berg-directed-friday-night-lights-thanksgiving-eve-game-1237233333/"
+        },
+        {
           "headline": "Studio Lambert Is Digging Into The Archives For Its Next ‘Traitors’-Sized Hit",
           "summary": "One of the interesting consequences of Banijay’s merger with All3Media is that Stephen Lambert, who runs The Traitors producer Studio Lambert, has been reunited with his early work. Before Lambert, a former BBC documentary producer, founded Studio Lambert in 2008, he was Chief Creative Officer at RDF Media, where he produced series such as Wife […]",
           "source": "Deadline",
@@ -929,18 +941,6 @@
           "summary": "Turnaround times are improving, crew union Bectu has revealed. But figures show numerous productions are still breaking the agreement to give crews their legally-enshrined 11-hours rest between shifts.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/turnaround-times-improving-uk-crews-bectu-1236958015/"
-        },
-        {
-          "headline": "BBC Journalists Vote To Take Strike Action Over Job Cuts",
-          "summary": "BBC journalists have voted in favor of taking industrial action over job cuts. The National Union of Journalists (NUJ) has been balloting BBC members since last month over a potential revolt against the corporation’s plan to save more than £51 million ($67M) in its news unit.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bbc-journalists-vote-yes-industrial-action-result-1237233186/"
-        },
-        {
-          "headline": "Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton",
-          "summary": "Dolly Parton, who died this summer at 80, will be honored with a special award at CNN’s 20th annual Heroes All-Star Tribute — and her goddaughter, Miley Cyrus, will be on hand to receive it on the family’s behalf. “The 20th Annual CNN Heroes All-Star Tribute,” which honors everyday people who are making extraordinary contributions […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/miley-cyrus-cnn-heroes-legacy-award-dolly-parton-1236957974/"
         },
         {
           "headline": "‘The Body’ Star Kristina Bogic Just Wanted to Take Care of Anya: “A Lot of Young Women Can Relate”",
@@ -954,6 +954,18 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
+          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
+        },
+        {
+          "headline": "10 Short Films Forging Drama and Discomfort as Routes to Kindness and Compassion",
+          "summary": "Whether it’s Alan Cumming starring in a love story about self-acceptance or a lesson in proudly embracing one’s cultural background or projects examining the U.S. from an international perspective, these 10 shorts spotlight true humanity and, at times, harsh realities of today’s society on screen.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/10-short-films-forging-drama-discomfort-as-routes-to-kindness-compassion-1236956641/"
+        },
         {
           "headline": "Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director",
           "summary": "After nine years leading the annual Rocky Mountains industry retreat, she will step down on Dec. 11.",
@@ -971,18 +983,6 @@
           "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk “about building one of the world’s biggest entertainment franchises,” is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
-        },
-        {
-          "headline": "Broadway Producers & Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike",
-          "summary": "The Broadway League and IATSE Local One of theater workers have reached a tentative deal to avoid a strike that could have disrupted the lucrative holiday season. The agreement is pending ratification by union members.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887/"
-        },
-        {
-          "headline": "Law Firm Ropes and Gray Expands Los Angeles Presence and Entertainment, Sports and Media Practice With Tom Ara, David Markman Hires",
-          "summary": "Law firm Ropes and Gray aims to significantly raise its profile in Los Angeles and in the entertainment and sports arena with the hiring of the transactional legal team lead by Tom Ara and David Markman. Ara and Markman are relocating to Ropes and Gray after having previously set up shop at Weil, Gotshal and […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/tom-ara-markman-ropes-and-gray-la-entertainment-sports-1236957128/"
         }
       ]
     },
@@ -991,37 +991,37 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Inside Harry Styles’ MSG Residency and Why Fans Want Experiential Concerts",
+          "summary": "What does it take to run some of America’s most iconic venues? Josephine Vaccarello , president of MSG Entertainment, knows a thing or two about it.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billboard-on-the-record-josephine-vaccarello/"
+        },
+        {
+          "headline": "Ariana Grande Says ‘Insane’ Backlash to ‘Petal’ Music Video Felt Like ‘Black Mirror’",
+          "summary": "Ariana Grande never predicted that the response to her “Petal” music video earlier this year would directly mirror what she was trying to speak out against in the song in the first place. Related Ariana Grande Announces Eternal Sunshine Tour Concert Film & Behind-the-Scenes Documentary Ariana Grande Over the Moon About Her Four Grammy Nominations: ‘Such…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-music-video-backlash-black-mirror-1236389456/"
+        },
+        {
+          "headline": "From Duke Ellington to Louis Armstrong, 1926 represented a turning point in jazz",
+          "summary": "Jazz historian Kevin Whitehead says that 100 years ago, the music's expressive range and resources were rapidly expanding. He shares six of the dozens of recordings made in November 1926.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6053940/from-duke-ellington-to-louis-armstrong-1926-represented-a-turning-point-in-jazz"
+        },
+        {
           "headline": "See New Order Kick Off First Tour Without Drummer Stephen Morris",
           "summary": "\"We’re sorry Steve and Gillian can’t be here with us,\" frontman Bernard Sumner told the crowd early in the set, \"and we just want them to know how much we’re missing them\"",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/new-order-first-tour-without-drummer-stephen-morris-1235664185/"
         },
         {
-          "headline": "Megan Thee Stallion Is the Big Boss of Netflix’s KShop In New Campaign: Exclusive First Look",
-          "summary": "For her next flex, Megan Thee Stallion works the register and calls all the shots in The KShop. The chart-topping Texas hip-hop star flaunts her acting chops in a custom ad for KPop Demon Hunters merch , which will go to air tonight (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-netflix-kshop-campaign-exclusive-1236389377/"
-        },
-        {
-          "headline": "Horacio Palencia Celebrates Historic Billboard Chart Achievements: ‘I Like Making Music That Transcends’",
-          "summary": "Nearly 20 years ago, Horacio Palencia reached the top of Billboard ‘s Regional Mexican Airplay chart as a songwriter for the first time. Today, the acclaimed Mexican musician has amassed 45 No.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/latin/horacio-palencia-historic-chart-achievements-interview-1236389484/"
-        },
-        {
           "headline": "Seal Returns Favor, Cover’s Tame Impala’s ‘New Person, Same Old Mistakes’",
           "summary": "The \"Kiss From A Rose\" singer said he wanted to return the honor after Tame Impala's cover",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/seal-new-person-tame-impala-cover-like-a-version-1235664192/"
-        },
-        {
-          "headline": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
-          "summary": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T11:49:40-05:00"
+  "updatedAt": "2026-11-25T12:19:21-05:00"
 }
