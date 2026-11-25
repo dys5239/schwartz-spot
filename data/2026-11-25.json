@@ -6,6 +6,18 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+          "summary": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for…",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        },
+        {
+          "headline": "State AGs fight Character.AI’s plan to auction off users’ private chats",
+          "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        },
+        {
           "headline": "How people use AI agents to handle annoying tasks and save money",
           "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
           "source": "CBS News",
@@ -18,22 +30,10 @@
           "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
         },
         {
-          "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
-          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
-        },
-        {
-          "headline": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
-          "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
-        },
-        {
-          "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
-          "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
+          "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
         }
       ]
     },
@@ -42,22 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-          "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Maps show Iowa lead dust plume possibly drifting into Missouri after detonation, Army model shows",
-          "summary": "Maps released by the Army Tuesday show a possible plume of toxic dust after its detonation of munitions in Iowa drifting southwest toward northeast Missouri between 9 a.m. and 5 p.m.",
+          "headline": "Small plane crash off Mississippi kills 6, including 2 children",
+          "summary": "Six people, including two children, have been found dead after a plane crashed off the coast of Mississippi, according to the Coast Guard.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
-        },
-        {
-          "headline": "Poundland collapses putting 11,000 jobs at risk",
-          "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cbsnews.com/news/small-plane-crash-off-mississippi-6-dead-2-children/"
         },
         {
           "headline": "Iran denounces U.S. use of AI in war",
@@ -66,10 +54,22 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
-          "headline": "WATCH: 'Dancing with the Stars' superfan gets special surprise",
-          "summary": "A lucky superfan receives two tickets to the \"Dancing with the Stars\" live show on Feb. 16, including a behind-the-scenes tour, a meet-and-greet and exclusive merchandise.",
+          "headline": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+          "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
+          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138439653/"
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        },
+        {
+          "headline": "Group of Senate Democrats push to add freshman to leadership",
+          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November. (Image credit: Chip Somodevilla/Getty Images)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125646387819974968",
+          "created_at": "2026-11-25T17:42:46.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "\"SO MUCH HERE!\": USAID DOCS RELEASED REVEAL CENSORSHIP\n\n\"One of many revelations coming out\", @AndrewKolvet dives into how this money was supposed to be for foreign aid but instead SHOWS CENSORSHIP on AMERICA. https://t.co/f9p92UL8C5",
+          "url": "https://x.com/RealAmVoice/status/2125646387819974968",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125645396672422292",
+          "created_at": "2026-11-25T17:38:49.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The West holds indications that Iran is developing chemical weapons alongside its pursuit of a nuclear bomb, a diplomatic source told Israel Hayom. The source cautioned that toppling the regime by force could lead to the rise of jihadist groups, as happened in Iraq.",
+          "url": "https://x.com/Osint613/status/2125645396672422292",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125645220524286373",
+          "created_at": "2026-11-25T17:38:07.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Anthropic stock, $ANT, erases losses and turns positive on the day.\n\nThe stock is now trading above its $83/share IPO price. https://t.co/MOgY0OcZVr",
+          "url": "https://x.com/KobeissiLetter/status/2125645220524286373",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125643926879015395",
+          "created_at": "2026-11-25T17:32:59.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Hamas's head of internal security was eliminated yesterday, and his replacement was taken out overnight, IDF Chief of Staff Lt. Gen. Eyal Zamir told Western Negev local leaders.\n\nZamir: \"We will not allow Hamas to return to what was on October 6, and we will not allow it to build",
+          "url": "https://x.com/Osint613/status/2125643926879015395",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125643286157390108",
+          "created_at": "2026-11-25T17:30:26.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Former CBO Director Douglas Holtz-Eakin says bringing Huang back means Nvidia brings back \"a million investigations, a thousand suits by state AGs\"\n\n\"Having Jensen Huang as the CEO of Nvidia doesn't change that threat a bit\"\n\n\"A guy who has slept with two direct reports and it https://t.co/Kk2vCyqn2G",
+          "url": "https://x.com/_Investinq/status/2125643286157390108",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125643186467213665",
+          "created_at": "2026-11-25T17:30:02.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "VP VANCE AND FAMILY SERVE THANKSGIVING MEALS TO TROOPS!\n\nThe Vance family serving food to the Patriots at Wright-Patterson Air Force Base in Ohio. ❤️\n\nhttps://t.co/KqB80JIDM5",
+          "url": "https://x.com/RealAmVoice/status/2125643186467213665",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125643178975936763",
+          "created_at": "2026-11-25T17:30:01.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Retail demand for Anthropic is accelerating:\n\nRetail investors bought +$100 million in Anthropic, $ANT, shares on Monday, marking a 2nd consecutive daily increase in purchases.\n\nAs a result, $ANT was the 2nd-most purchased stock among retail investors during that session.\n\nThat https://t.co/bHrZgAOn7f",
+          "url": "https://x.com/KobeissiLetter/status/2125643178975936763",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125642617857953902",
+          "created_at": "2026-11-25T17:27:47.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Interesting. Second round match ups would be elite. https://t.co/PwV3ybYtxW",
+          "url": "https://x.com/ClayTravis/status/2125642617857953902",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125640731868156285",
+          "created_at": "2026-11-25T17:20:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "REPORT: An Iranian cargo ship was attacked at the port of Benghazi, Libya, according to the Italian newspaper Corriere della Sera. The vessel, named Alwan, appears to have broken through the U.S. naval blockade in the Strait of Hormuz. The attack coincided with Ukrainian strikes",
+          "url": "https://x.com/Osint613/status/2125640731868156285",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125640250848657413",
           "created_at": "2026-11-25T17:18:22.000Z",
@@ -127,16 +217,6 @@
           "url": "https://x.com/ClayTravis/status/2125635650619576785",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125635611231187026",
-          "created_at": "2026-11-25T16:59:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "THE CHARLIE KIRK SHOW https://t.co/X5efZ1KKkJ",
-          "url": "https://x.com/RealAmVoice/status/2125635611231187026",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125635404011290634",
@@ -189,16 +269,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125634379229622712",
-          "created_at": "2026-11-25T16:55:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "It's time to support entertainment that puts FAITH and FAMILY first!\n\nOur friends at @AngelStudiosInc are launching their BIGGEST Black Friday sale of the year!\n\n✨ 44% OFF a Premium Annual Angel Guild membership\n🍫 Two complimentary tickets to see Hershey in theaters\n📺 Access https://t.co/8Rgi4Go2t2",
-          "url": "https://x.com/RealAmVoice/status/2125634379229622712",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125633563110375867",
           "created_at": "2026-11-25T16:51:48.000Z",
           "author_name": "The Kobeissi Letter",
@@ -225,16 +295,6 @@
           "author_handle": "LauraLoomer",
           "text": "We call her Marjorie Traitor Greene for a reason. \n\nFacts matter! https://t.co/2eHEUdo1eo",
           "url": "https://x.com/LauraLoomer/status/2125631280696148358",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125630752197152997",
-          "created_at": "2026-11-25T16:40:38.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Four drones intercepted and destroyed over Ras Tanura.\n\nSaudi-led coalition",
-          "url": "https://x.com/Osint613/status/2125630752197152997",
           "verified": true,
           "verified_type": "blue"
         },
@@ -289,32 +349,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125627057526948017",
-          "created_at": "2026-11-25T16:25:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Employees at Weatherford Aerospace in Weatherford, Texas, evacuated without injury after a fire involving hazardous chemicals broke out at the facility. Officials issued a shelter-in-place order, then lifted it. \n\nResidents can resume normal activity but are asked to stay away",
-          "url": "https://x.com/Osint613/status/2125627057526948017",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125626726835229073",
           "created_at": "2026-11-25T16:24:38.000Z",
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Why the “power imbalance” thing is so incredibly stupid https://t.co/jAJbcCtJ1i",
           "url": "https://x.com/MattWalshBlog/status/2125626726835229073",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125624820695990653",
-          "created_at": "2026-11-25T16:17:04.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "UK MoD on sheltering RAF aircraft at night:\n\n\"We are always adapting to counter any potential threats.\" https://t.co/7RiongjKX8",
-          "url": "https://x.com/Osint613/status/2125624820695990653",
           "verified": true,
           "verified_type": "blue"
         },
@@ -359,26 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125613055509929995",
-          "created_at": "2026-11-25T15:30:19.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Morgan Stanley's Dan Skelly says this week was capitulation and it's time to \"go on offense in AI right now\"\n\n\"It's a combination of four things\"\n\n\"We've seen hedge fund net longs get to that low 40 point\"\n\n\"Our colleague Brian Nowak has kept his expectations for 75% CapEx growth https://t.co/roTziTQ0zN",
-          "url": "https://x.com/_Investinq/status/2125613055509929995",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125609956615573530",
-          "created_at": "2026-11-25T15:18:00.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Bitcoin falls below $57,500 and ETH nears $1,600 as the selloff in crypto gains momentum.\n\nAnother -$500 million worth of levered positions have been liquidated over the last 24 hours. https://t.co/oyvKjyQ9US",
-          "url": "https://x.com/KobeissiLetter/status/2125609956615573530",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125605290376564765",
           "created_at": "2026-11-25T14:59:27.000Z",
           "author_name": "Laura Loomer",
@@ -397,16 +417,6 @@
           "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125601676258111823",
-          "created_at": "2026-11-25T14:45:06.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Nasdaq 100 extends losses to over -4.5% on the day after the Trump Administration announces new tariffs and PCE inflation comes in hot. https://t.co/P50q1Jw8AG",
-          "url": "https://x.com/KobeissiLetter/status/2125601676258111823",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125600399361192224",
@@ -589,16 +599,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125430782101459344",
-          "created_at": "2026-11-25T03:26:01.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Not only do I fly Southwest, I presently have 2.6 million points in my Southwest account, which probably puts me in the 99.9% percentile for Southwest fliers. Best option for non-stops from Nashville by far. https://t.co/o7jQNDMCy3",
-          "url": "https://x.com/ClayTravis/status/2125430782101459344",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125416412781097142",
           "created_at": "2026-11-25T02:28:55.000Z",
           "author_name": "SightBringer",
@@ -775,16 +775,22 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Army wants to resume training flights near site of collision",
-          "summary": "An Army helicopter on a training mission collided with an American Airlines passenger jet on approach at DCA, killing all aboard both aircraft, in January 2025.",
+          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/dc-plane-crash-dca-army-training-flights/"
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         },
         {
-          "headline": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
-          "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
+          "headline": "Trump administration to issue new tariffs on China, EU and others",
+          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
+          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
+        },
+        {
+          "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned. (Image credit: Samuel Corum)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
         },
         {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
@@ -797,12 +803,6 @@
           "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
-        },
-        {
-          "headline": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-          "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S. (Image credit: Justin Sullivan)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
         }
       ]
     },
@@ -811,22 +811,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Kalshi traders say state data center moratoriums are more likely than not",
+          "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html"
+        },
+        {
           "headline": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
           "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
-        },
-        {
-          "headline": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
-          "summary": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
-        },
-        {
-          "headline": "Trump administration to issue new tariffs on China, EU and others",
-          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
@@ -839,6 +833,12 @@
           "summary": "World stocks are mixed Wednesday after another wave of heavy selling of stocks linked to artificial intelligence hit Wall Street",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/asian-stocks-decline-ai-shares-tumble-after-retreat-138431273"
+        },
+        {
+          "headline": "Buying new things feels wonderful. But it can also be a trap",
+          "summary": "Saying No to New , says that \"you do feel joy and excitement\" from buying new things initially — \"but science says those feelings can't last.\"'/> Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have. (Image credit: ㅤ)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle"
         }
       ]
     },
@@ -847,10 +847,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Ryan Day is hopeful Ohio State can overcome its ‘frustration’ with a win over Michigan",
-          "summary": "LINCOLN, NEBRASKA - NOVEMBER 21: Head coach Ryan Day of the Ohio State Buckeyes stands with the team before the game against the Nebraska Cornhuskers at Memorial Stadium on November 21, 2026 in Lincoln, Nebraska. (Photo by Steven Branscombe/Getty Images) | Getty Images Heading into the week of The Game, this year’s matchup between Michigan and Ohio State…",
+          "headline": "Five field goals, a primetime game-winner, and now a weekly NFL award for Commanders rookie Drew Stevens",
+          "summary": "LANDOVER, MARYLAND- NOVEMBER 23: Drew Stevens #19 of the Washington Commanders celebrates kicking a game winning field goal after an NFL football game against the Cincinnati Bengals at Northwest Stadium on November 23, 2026 in Landover, Maryland. (Photo by Logan Bowles/Getty Images | Getty Images When the Washington Commanders lined up for a 26-yard…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/ryan-day-hopeful-ohio-state-170000412.html"
+          "url": "https://sports.yahoo.com/nfl/articles/five-field-goals-primetime-game-173000401.html"
         },
         {
           "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
@@ -859,22 +859,22 @@
           "url": "https://abcnews.com/Sports/wireStory/college-football-week-13-usc-ucla-tops-schedule-138441044"
         },
         {
-          "headline": "Baylor holds off No. 15 Alabama 68-63 in Las Vegas to snap 16-game skid against AP Top 25 opponents",
-          "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
+          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
+          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
+          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
         },
         {
-          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
-          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
-          "source": "FOX News Sports",
-          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
+          "headline": "Vartiainen has 13 points, UC Santa Barbara beats UNC Greensboro 85-65",
+          "summary": "Viljami Vartiainen’s 13 points help UC Santa Barbara defeat UNC Greensboro 85-65",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/vartiainen-13-points-uc-santa-barbara-beats-unc-138432189"
         },
         {
-          "headline": "No. 22 Gonzaga routs Kansas State 101-61 in Players Era 16 first round",
-          "summary": "Gonzaga dominated Kansas State 101-61 in the opening round of the Players Era 16 tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/22-gonzaga-routs-kansas-state-101-61-players-138433328"
+          "headline": "Lions vs. Bears Thanksgiving prediction: Which team will be in control of NFC North?",
+          "summary": "Sole possession of first place in the NFC North is on the line at Ford Field as two 8-2 rivals clash on Thanksgiving with long winning streaks",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/lions-vs-bears-thanksgiving-prediction-odds-how-to-watch/"
         }
       ]
     },
@@ -919,6 +919,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘The Pitt’ Sets Season 3 Release Date at HBO Max",
+          "summary": "“The Pitt” has set its Season 3 premiere date at HBO Max. The third season of the smash hit medical drama will debut on Jan.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/the-pitt-season-3-release-date-hbo-max-1236958110/"
+        },
+        {
           "headline": "Hallmark’s New Podcast Push Kicks Off With Interview Series Hosted by Melissa Peterman That ‘Breaks the Fourth Wall,’ With More Shows to Come",
           "summary": "Hallmark Media is gearing up for new expansion into podcasting — aiming to add another vector for connecting with its fanbase. The media company in recent years has stepped up its brand extensions, from cruises and live tours to movies and series centered on heartwarming storylines and holiday themes.",
           "source": "Variety",
@@ -935,12 +941,6 @@
           "summary": "One of the interesting consequences of Banijay’s merger with All3Media is that Stephen Lambert, who runs The Traitors producer Studio Lambert, has been reunited with his early work. Before Lambert, a former BBC documentary producer, founded Studio Lambert in 2008, he was Chief Creative Officer at RDF Media, where he produced series such as Wife […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/studio-lambert-traitors-circle-monopoly-interview-1237232183/"
-        },
-        {
-          "headline": "Turnaround Times Improve for U.K. Crews Following Union Campaign: ‘Change Is Possible When Workers Speak Out’ (EXCLUSIVE)",
-          "summary": "Turnaround times are improving, crew union Bectu has revealed. But figures show numerous productions are still breaking the agreement to give crews their legally-enshrined 11-hours rest between shifts.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/turnaround-times-improving-uk-crews-bectu-1236958015/"
         },
         {
           "headline": "‘The Body’ Star Kristina Bogic Just Wanted to Take Care of Anya: “A Lot of Young Women Can Relate”",
@@ -991,37 +991,37 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "How Riot Games Turned ‘League of Legends’ Into a Music Empire",
+          "summary": "Virtual artists and reality collide at the 2026 World Championship",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/how-riot-games-turned-league-of-legends-into-music-empire-1235662969/"
+        },
+        {
+          "headline": "Police Say Unknown Substance at Don Toliver Concert Could Be Linked to Arena Robberies",
+          "summary": "The Greater Manchester Police have officially lifted the scene but the investigation continues",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/don-toliver-concert-evacuation-substance-investigation-1235664243/"
+        },
+        {
+          "headline": "Travis Kelce Celebrates 100th Game at Arrowhead Stadium With Taylor Swift-Coded Comment: ‘It’s Pretty Awesome’",
+          "summary": "Travis Kelce has plenty of great memories playing at the Kansas City Chiefs’ home stadium. In fact, on Sunday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/travis-kelce-celebrates-100th-game-arrowhead-taylor-swift-1236389514/"
+        },
+        {
           "headline": "Inside Harry Styles’ MSG Residency and Why Fans Want Experiential Concerts",
           "summary": "What does it take to run some of America’s most iconic venues? Josephine Vaccarello , president of MSG Entertainment, knows a thing or two about it.",
           "source": "Billboard",
           "url": "https://www.billboard.com/pro/billboard-on-the-record-josephine-vaccarello/"
         },
         {
-          "headline": "Ariana Grande Says ‘Insane’ Backlash to ‘Petal’ Music Video Felt Like ‘Black Mirror’",
-          "summary": "Ariana Grande never predicted that the response to her “Petal” music video earlier this year would directly mirror what she was trying to speak out against in the song in the first place. Related Ariana Grande Announces Eternal Sunshine Tour Concert Film & Behind-the-Scenes Documentary Ariana Grande Over the Moon About Her Four Grammy Nominations: ‘Such…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-music-video-backlash-black-mirror-1236389456/"
-        },
-        {
           "headline": "From Duke Ellington to Louis Armstrong, 1926 represented a turning point in jazz",
           "summary": "Jazz historian Kevin Whitehead says that 100 years ago, the music's expressive range and resources were rapidly expanding. He shares six of the dozens of recordings made in November 1926.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-6053940/from-duke-ellington-to-louis-armstrong-1926-represented-a-turning-point-in-jazz"
-        },
-        {
-          "headline": "See New Order Kick Off First Tour Without Drummer Stephen Morris",
-          "summary": "\"We’re sorry Steve and Gillian can’t be here with us,\" frontman Bernard Sumner told the crowd early in the set, \"and we just want them to know how much we’re missing them\"",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/new-order-first-tour-without-drummer-stephen-morris-1235664185/"
-        },
-        {
-          "headline": "Seal Returns Favor, Cover’s Tame Impala’s ‘New Person, Same Old Mistakes’",
-          "summary": "The \"Kiss From A Rose\" singer said he wanted to return the honor after Tame Impala's cover",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/seal-new-person-tame-impala-cover-like-a-version-1235664192/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T12:19:21-05:00"
+  "updatedAt": "2026-11-25T12:47:13-05:00"
 }
