@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Kilmar Abrego Garcia leaving U.S. today for Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+          "headline": "'DWTS' season 35: Ezra Frech and Daniella Karagach win Mirrorball Trophy",
+          "summary": "The winning couple beat out four other finalists to take home the Mirrorball Trophy.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/GMA/Culture/dancing-with-the-stars-season-35-champion/story?id=138388712"
+        },
+        {
+          "headline": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+          "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -60,16 +66,10 @@
           "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
         },
         {
-          "headline": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
-          "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Potential health effects of Army's detonation of nearly 5 tons of lead azide",
-          "summary": "The U.S. Army is planning a controlled detonation of explosive material at an ammunition plant in rural Iowa on Wednesday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Health/potential-health-effects-armys-controlled-detonation-5-tons/story?id=138415656"
+          "headline": "Iran developing chemical weapons, Israeli defense minister says",
+          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         }
       ]
     },
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125441496459411964",
+          "created_at": "2026-11-25T04:08:36.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "FinCEN, the Treasury Department’s financial intelligence bureau, is investigating a cybersecurity breach after unauthorized access was detected in a limited number of its systems. Several systems have been taken offline as a precaution while officials investigate the incident. - https://t.co/9rmsoHVE3G",
+          "url": "https://x.com/Osint613/status/2125441496459411964",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125440622194782343",
+          "created_at": "2026-11-25T04:05:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "California AG Rob Bonta says no amount of therapy sessions or all-hands meetings changes whether Nvidia broke the law\n\n\"What's done is done. If the law is broken, the law has been broken, no matter how many therapy sessions you go to or commit to, how many all-hands meetings that https://t.co/Pe8n6B91Ze",
+          "url": "https://x.com/_Investinq/status/2125440622194782343",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125434367380189629",
           "created_at": "2026-11-25T03:40:16.000Z",
@@ -215,16 +235,6 @@
           "author_handle": "elonmusk",
           "text": "Interesting https://t.co/XRd4shsO4N",
           "url": "https://x.com/elonmusk/status/2125411174993010839",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125409188637778387",
-          "created_at": "2026-11-25T02:00:13.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Paul Krugman says an $8 billion data center employs about 100 people once it's built, when the same money would normally employ 10,000\n\n\"An $8 billion data center, once it's been built, employs about 100 people\"\n\n\"Most of what goes into a data center is actually imported. In a https://t.co/3FVt5ACB4m",
-          "url": "https://x.com/_Investinq/status/2125409188637778387",
           "verified": true,
           "verified_type": "blue"
         },
@@ -455,16 +465,6 @@
           "author_handle": "Osint613",
           "text": "STATS: Strikes for Nov 26 and a breakdown since the conflict began.\n\nContributed by @live_ais_com https://t.co/U5gCyil3hC",
           "url": "https://x.com/Osint613/status/2125352934158606775",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125344467666567274",
-          "created_at": "2026-11-24T21:43:02.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: Al Jazeera Partners With Google Cloud to Build Newsroom AI Using Its Archives",
-          "url": "https://x.com/Osint613/status/2125344467666567274",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,10 +765,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Iran developing chemical weapons, Israeli defense minister says",
-          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
+          "headline": "Kilmar Abrego Garcia leaving U.S. today for Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         },
         {
           "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
@@ -801,16 +801,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-          "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+          "headline": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+          "summary": "The UAE is optimistic about achieving 7%-8% economic growth next year, banking on a \"different\" economic model.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html"
+          "url": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html"
         },
         {
-          "headline": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-          "summary": "Huawei was found guilty of bank fraud, money laundering and trade secret theft conspiracy in a U.S. trial.",
+          "headline": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal",
+          "summary": "Xiamen Airlines has agreed to purchase 50 Boeing 737-8 aircraft with a combined catalog price of around $7.4 billion.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
+          "url": "https://www.cnbc.com/2026/11/25/china-xiamen-boeing-deal.html"
+        },
+        {
+          "headline": "5 questions Nvidia still faces after bringing back Jensen Huang",
+          "summary": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/"
         },
         {
           "headline": "Shein to pay $100 million to settle claims it deceived customers",
@@ -819,16 +825,10 @@
           "url": "https://www.cbsnews.com/news/shein-100-million-ftc-deceptive-practices-settlement/"
         },
         {
-          "headline": "Utah asks to drop charges against Kalshi, founders after Kalshi halts trading there",
-          "summary": "Utah is asking asked a court to dismiss the criminal charges it filed last month against Kalshi and two of its executives, accusing the prediction market operator of running an illegal gambling enterprise",
+          "headline": "US jury find Chinese tech giant Huawei guilty of 10 counts, including conspiracy to steal trade secrets and bank fraud",
+          "summary": "",
           "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/utah-asks-drop-charges-kalshi-founders-after-kalshi-138416910"
-        },
-        {
-          "headline": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
-          "summary": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/"
+          "url": "https://abcnews.com/Business/wireStory/us-jury-find-chinese-tech-giant-huawei-guilty-138421898"
         }
       ]
     },
@@ -837,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Tessa Johnson's career-high 32 points lifts No. 1 South Carolina to 65-56 win over No. 7 UConn",
-          "summary": "UNCASVILLE, Conn. (AP) — Tessa Johnson scored a career-high 32 points and No.",
+          "headline": "Redd Thompson has 27 points as Mount St. Mary’s takes down Morgan State 75-74",
+          "summary": "BALTIMORE (AP) — Redd Thompson had 27 points, including the go-ahead free throws with 19 seconds left, in Mount St. Mary’s 75-74 win over Morgan State on Tuesday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/tessa-johnsons-career-high-32-033032187.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/redd-thompson-27-points-mount-035929151.html"
         },
         {
-          "headline": "Shrewsberry scores career-high 29 points, helps Notre Dame pull away to beat Central Michigan 88-70",
-          "summary": "SOUTH BEND, Ind. (AP) — Braeden Shrewsberry scored 18 of his career-high 29 points in the second half to help Notre Dame pull away and beat Central Michigan 88-70 on Tuesday night.",
+          "headline": "Braylon Wenger has 16 in Louisiana Tech’s 83-41 win against Alcorn State",
+          "summary": "RUSTON, La. (AP) — Braylon Wenger scored 16 points as Louisiana Tech beat Alcorn State 83-41 on Tuesday night.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/shrewsberry-scores-career-high-29-032926943.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/braylon-wenger-16-louisiana-tech-035457662.html"
         },
         {
           "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
@@ -855,10 +855,10 @@
           "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
         },
         {
-          "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
-          "summary": "Jiri Lehecka has led the Czech Republic into the Davis Cup semifinals",
+          "headline": "Oregon State wins 87-73 against San Francisco",
+          "summary": "DeShawn Gory had 14 points in Oregon State’s 87-73 win over San Francisco",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/lehecka-lead-czechs-beat-canada-auger-aliassime-davis-138422175"
+          "url": "https://abcnews.com/Sports/wireStory/oregon-state-wins-87-73-san-francisco-138424787"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
@@ -909,16 +909,16 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "‘Glee’ Star Jenna Ushkowitz Says Show’s Cory Monteith Tribute ‘Wasn’t the Right Thing’ to Do: ‘It Was Too Soon… We Were Grieving’",
-          "summary": "Jenna Ushkowitz, who starred as Tina Cohen-Chang for the entirety of “Glee,” is reflecting on how the Fox series addressed the real-life death of her fellow cast member Cory Monteith, and why she now feels it “wasn’t the right thing” to do at the time. Monteith played Finn Hudson, the show’s leading man and quarterback-turned-Glee […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/glee-jenna-ushkowitz-cory-monteith-tribute-1236957675/"
+          "headline": "‘Dancing With the Stars’: All 35 Winners",
+          "summary": "A Tony winner, several Olympians, Super Bowl champions, Bachelorettes and the Irwin siblings are just a few of the stars who have won the coveted mirrorball trophy throughout the show’s 20-year history.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list/"
         },
         {
-          "headline": "‘Dancing With the Stars: The Next Pro’ Renewed for Second Season",
-          "summary": "Season two will set out to find the next male professional dancer who will join the season 36 cast of 'DWTS.'",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-next-pro-renewed-season-2-male-dancers-1236762752/"
+          "headline": "Jenna Ushkowitz Says ‘Glee’s Cory Monteith Tribute “Wasn’t The Right Thing”: “It Was Too Soon For That”",
+          "summary": "Jenna Ushkowitz doesn’t want to remember when Glee did a tribute to Cory Monteith after his death. In a new interview, the star of the musical comedy explains why it was difficult to film the episode and why she felt they shouldn’t have done it.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jenna-ushkowitz-glee-cory-monteith-tribute-1237233122/"
         },
         {
           "headline": "‘KPop Demon Hunters’ Rei Ami To Host ABC’s ‘Who’s In The Band?’",
@@ -933,10 +933,10 @@
           "url": "https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515/"
         },
         {
-          "headline": "‘The Body’ Summons 86% Audience Boost To Lead Netflix’s Weekly TV Rankings",
-          "summary": "The Body is summoning some interest on Netflix. The YA drama tallied 9.5 million views from November 16 to 22, taking No.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-body-netflix-viewership-season-1-premiere-1237232942/"
+          "headline": "NBC ‘Monitoring’ Storm That Could Ground Macy’s Thanksgiving Day Parade Balloons: ‘Decisions Will Be Made on Parade Morning’",
+          "summary": "The 100th celebration of the Macy’s Thanksgiving Day Parade in New York City is finding itself at the mercy of the weather gods. It’s made it through rain and even snow, but this time it’s facing an incoming storm that is threatening to bring heavy winds.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/nbc-storm-macys-thanksgiving-day-parade-balloons-1236957441/"
         }
       ]
     },
@@ -981,6 +981,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Matthew Capper, Late Music Publishing Exec, Honored With New Award",
+          "summary": "SYDNEY, Australia — Matthew Capper is saluted with a new, annual award which bears his name. Announced Wednesday, Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/matthew-capper-honored-annual-award/"
+        },
+        {
           "headline": "Brandi Carlile Says the ‘Horror’ of ICE Arrests at Seattle Airport ‘Cannot Be Overstated’",
           "summary": "The musician called on fans to call their representatives and donate to organizations working to protect immigrants",
           "source": "Rolling Stone",
@@ -991,12 +997,6 @@
           "summary": "The Dolly Parton estate has announced the leadership of its creative team led by Steve Summers , who worked with Parton for more than 30 years and will serve as the estate’s creative director. Summers will steer a team that also includes creative manager Riley Reed Hanratty , design specialist Vance Nichols and creative specialist Bradley Schnabel .",
           "source": "Billboard",
           "url": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/"
-        },
-        {
-          "headline": "Kodak Black Has Secret Radio Station in ‘Grand Theft Auto VI’: Here’s How to Unlock It",
-          "summary": "Since the release of Grand Theft Auto VI , gamers have been stumbling upon easter eggs that call back to Rockstar Games history and having random encounters like the viral “ Terminator NPC .” They’ve also been uncovering secret radio stations. As people continue to make it through the game’s epic story mode, they’ve unlocked two stations so far.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/kodak-black-secret-radio-station-grand-theft-auto-vi-1236389147/"
         },
         {
           "headline": "Ninajirachi Drops I Love My Computer Remix Album",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T22:42:38-05:00"
+  "updatedAt": "2026-11-24T23:11:12-05:00"
 }
