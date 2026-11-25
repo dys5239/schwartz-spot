@@ -42,22 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "'DWTS' season 35: Ezra Frech and Daniella Karagach win Mirrorball Trophy",
-          "summary": "The winning couple beat out four other finalists to take home the Mirrorball Trophy.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/GMA/Culture/dancing-with-the-stars-season-35-champion/story?id=138388712"
-        },
-        {
-          "headline": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-          "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-          "summary": "The verdict follows a months-long trial in New York.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+          "headline": "Kilmar Abrego Garcia leaves U.S. for Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         },
         {
           "headline": "Maps show how far lead dust from Iowa detonation could travel",
@@ -66,10 +54,22 @@
           "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
         },
         {
-          "headline": "Iran developing chemical weapons, Israeli defense minister says",
-          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
+          "headline": "'DWTS' season 35: Ezra Frech and Daniella Karagach win Mirrorball Trophy",
+          "summary": "The winning couple beat out four other finalists to take home the Mirrorball Trophy.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/GMA/Culture/dancing-with-the-stars-season-35-champion/story?id=138388712"
+        },
+        {
+          "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "summary": "The verdict follows a months-long trial in New York.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+          "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125446916913946881",
+          "created_at": "2026-11-25T04:30:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Trivariate's Adam Parker says in the last 16 cycles, when multiples contracted like this, earnings ended up missing by a lot\n\n\"I think the most compelling bear arguments are just simply that every time in the last 16 cycles, multiples contracted like this, the earnings end up https://t.co/UercTEU2Cv",
+          "url": "https://x.com/_Investinq/status/2125446916913946881",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125442029773623554",
+          "created_at": "2026-11-25T04:10:43.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Wtf https://t.co/tZKKfxry9K",
+          "url": "https://x.com/Timcast/status/2125442029773623554",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125441496459411964",
           "created_at": "2026-11-25T04:08:36.000Z",
@@ -195,16 +215,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️AI is eroding one of the foundations of corporate power: the dependence of talented individuals on the organizations that employ them.\n\nEthan Mollick reports that teams of two or three people using AI are already doing the work of dozens, triggering management conflicts inside https://t.co/x12wNlKv81",
           "url": "https://x.com/_The_Prophet__/status/2125416412781097142",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125415496371798064",
-          "created_at": "2026-11-25T02:25:17.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Kyle Bass says a $7.5 trillion stock market drop in one week just took about $400 billion out of consumer spending\n\n\"We had a seven and a half trillion dollar decline in our stock market in one week\"\n\n\"So we literally just took a hit to spending, call it $400 billion in a week on https://t.co/YqtNMzEbO5",
-          "url": "https://x.com/_Investinq/status/2125415496371798064",
           "verified": true,
           "verified_type": "blue"
         },
@@ -669,16 +679,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125260187045101641",
-          "created_at": "2026-11-24T16:08:08.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "ILHAN WARRANT UNSEALED https://t.co/m6E4qVJVk1",
-          "url": "https://x.com/Timcast/status/2125260187045101641",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125257116449648858",
           "created_at": "2026-11-24T15:55:56.000Z",
           "author_name": "SpaceX",
@@ -765,10 +765,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Kilmar Abrego Garcia leaving U.S. today for Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, is planning to leave the U.S. for Spain on Tuesday, according to multiple U.S.",
+          "headline": "Iran developing chemical weapons, Israeli defense minister says",
+          "summary": "Israeli Defense Minister Israel Katz said Iran was developing chemical weapons and left open the possibility of preemptive strikes if necessary.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/"
         },
         {
           "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
@@ -837,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Redd Thompson has 27 points as Mount St. Mary’s takes down Morgan State 75-74",
-          "summary": "BALTIMORE (AP) — Redd Thompson had 27 points, including the go-ahead free throws with 19 seconds left, in Mount St. Mary’s 75-74 win over Morgan State on Tuesday night.",
+          "headline": "No. 1 South Carolina vs. No. 7 UConn takeaways: Gamecocks once again prove their national supremacy",
+          "summary": "Connecticut’s non-conference schedule is no walk in the park. It’s more a treacherous hike in the mature forever wild acres of the woods.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/redd-thompson-27-points-mount-035929151.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/article/no-1-south-carolina-vs-no-7-uconn-takeaways-gamecocks-once-again-prove-their-national-supremacy-043023804.html"
         },
         {
-          "headline": "Braylon Wenger has 16 in Louisiana Tech’s 83-41 win against Alcorn State",
-          "summary": "RUSTON, La. (AP) — Braylon Wenger scored 16 points as Louisiana Tech beat Alcorn State 83-41 on Tuesday night.",
+          "headline": "Knox and Trimble each score 24 as No. 25 Louisville beats No. 5 Texas Tech 72-64 in Las Vegas",
+          "summary": "LAS VEGAS (AP) — Karter Knox and Seth Trimble each scored 24 points as No. 25 Louisville defeated No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/braylon-wenger-16-louisiana-tech-035457662.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/knox-trimble-score-24-no-042214574.html"
         },
         {
           "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
@@ -981,6 +981,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "6 New Holiday Pop Songs From Hilary Duff, Olivia Rodrigo, Elton John & More for Your Christmas Party Playlist",
+          "summary": "Christmas music is already adorning the Billboard charts, and this year, there are some new holiday hits to add to the Christmas classics we know and love. On the new Billboard Pop Shop Podcast , Katie & Keith are taking a listen to a half-dozen new holiday songs to see if we should add them into the reindeer rotation.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/holiday-pop-songs-hilary-duff-olivia-rodrigo-pop-shop-podcast-1236389093/"
+        },
+        {
           "headline": "Matthew Capper, Late Music Publishing Exec, Honored With New Award",
           "summary": "SYDNEY, Australia — Matthew Capper is saluted with a new, annual award which bears his name. Announced Wednesday, Nov.",
           "source": "Billboard",
@@ -991,12 +997,6 @@
           "summary": "The musician called on fans to call their representatives and donate to organizations working to protect immigrants",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/"
-        },
-        {
-          "headline": "Dolly Parton Estate Reveals Creative Team That Will ‘Preserve and Carry Forward’ Her Legacy",
-          "summary": "The Dolly Parton estate has announced the leadership of its creative team led by Steve Summers , who worked with Parton for more than 30 years and will serve as the estate’s creative director. Summers will steer a team that also includes creative manager Riley Reed Hanratty , design specialist Vance Nichols and creative specialist Bradley Schnabel .",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/"
         },
         {
           "headline": "Ninajirachi Drops I Love My Computer Remix Album",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T23:11:12-05:00"
+  "updatedAt": "2026-11-24T23:41:07-05:00"
 }
