@@ -6,22 +6,16 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-          "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+          "headline": "FCC approves SpaceX plan to put AI data centers in space",
+          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
         },
         {
-          "headline": "Want to buy your kid an AI toy this Christmas? Not in New York",
-          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+          "headline": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/"
-        },
-        {
-          "headline": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-          "summary": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for…",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
           "headline": "How people use AI agents to handle annoying tasks and save money",
@@ -34,6 +28,12 @@
           "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
           "source": "The Verge",
           "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+        },
+        {
+          "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
+          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
+        },
+        {
+          "headline": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+          "summary": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection"
+        },
+        {
+          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
+          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
+        },
+        {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
           "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Judge blocks latest Trump effort to restrict birthright citizenship",
-          "summary": "The judge granted a request for a preliminary injunction blocking the EO.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919"
-        },
-        {
-          "headline": "More than 490,000 Russian soldiers have died in Ukraine war, leaked data suggests",
-          "summary": "More than 490,000 Russian soldiers have died since Russia invaded Ukraine in February 2022, according to leaked Russian government data analyzed by CBS News partner network BBC News. CBS News' Aidan Stretch has more.",
+          "headline": "Leaked data shows 490,000 Russian forces have died in Ukraine war",
+          "summary": "Russian government data obtained by pro-Ukraine hackers and analyzed by the BBC indicates that Russia has lost at least 490,334 soldiers during its war on Ukraine.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/more-than-490000-russian-soldiers-have-died-in-ukraine-war-leaked-data-suggests/"
-        },
-        {
-          "headline": "Trump admin proposes new tariffs on China, EU and 12 other trading partners",
-          "summary": "A senior admin official said the countries were informed of proposed tariffs.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-admin-proposes-new-tariffs-china-eu-12/story?id=138442698"
-        },
-        {
-          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+          "url": "https://www.cbsnews.com/news/russia-ukraine-war-russian-soldier-death-toll-data-leak/"
         }
       ]
     },
@@ -79,12 +79,132 @@
       "stories": [],
       "posts": [
         {
-          "id": "2125692395690094694",
-          "created_at": "2026-11-25T20:45:35.000Z",
+          "id": "2125699666649964591",
+          "created_at": "2026-11-25T21:14:28.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "USAID Doc LEAK Proves Youtube CONSPIRED To Censor Information https://t.co/1kV3NreyDe",
+          "url": "https://x.com/Timcast/status/2125699666649964591",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125699265989357653",
+          "created_at": "2026-11-25T21:12:53.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡Appreciate you.\n\nThe next few weeks are where this market gets decided.\n\nThe Inner Ring is where we read it as it happens. https://t.co/LC6ChKAGRS",
+          "url": "https://x.com/_The_Prophet__/status/2125699265989357653",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125698894499807560",
+          "created_at": "2026-11-25T21:11:24.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
-          "text": "CNN WANTED CHAOS IN IOWA: POTUS FIRES BACK\n\nhttps://t.co/GJzMptTm0q",
-          "url": "https://x.com/RealAmVoice/status/2125692395690094694",
+          "text": "A man reportedly in the country illegally just won $1 MILLION in the lottery — and now ICE is moving to deport him. https://t.co/r0NJabSeNE",
+          "url": "https://x.com/RealAmVoice/status/2125698894499807560",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125697370008555911",
+          "created_at": "2026-11-25T21:05:21.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Dow Jones Industrial Average erases its -1,100 point loss and closes the day positive. https://t.co/Ehiu2UREi8",
+          "url": "https://x.com/KobeissiLetter/status/2125697370008555911",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125697045461880977",
+          "created_at": "2026-11-25T21:04:03.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Aaron Rodgers after burning every possible bridge https://t.co/GtNgJ6i6V8",
+          "url": "https://x.com/Outkick/status/2125697045461880977",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125696538894614588",
+          "created_at": "2026-11-25T21:02:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ERIC BOLLING LIVE https://t.co/PeA1FxHQ2P",
+          "url": "https://x.com/RealAmVoice/status/2125696538894614588",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125696156868989295",
+          "created_at": "2026-11-25T21:00:31.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Within a year, AI will bring \"an avalanche of layoffs or buyouts.\" Shaya says his own company would already have at least 20% more employees if it weren't building its own automation. \n\nAI is cheap right now because users train it for free. https://t.co/tTs9V2VWWA",
+          "url": "https://x.com/Timcast/status/2125696156868989295",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125695867449753674",
+          "created_at": "2026-11-25T20:59:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "DO YOU KNOW ABOUT THE ALASKA TURKEY BOMB TRADITION?\n\nA pilot is helping to reignite the tradition started by Kenny Hughes. Ester brought back the act of loading up turkey's to drop them down to remote Alaska families who live off the grid. WOW! 🦃\n\n@stevegrubershow https://t.co/vuzWb9txLS",
+          "url": "https://x.com/RealAmVoice/status/2125695867449753674",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125694990722736583",
+          "created_at": "2026-11-25T20:55:53.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: MACY'S DAY PARADE POSTPONED, MOVED TO SATURDAY\n\nA nor’easter approaches New York City and this will make the first weather-related postponement in the parade's history. \n\n https://t.co/YtyxwUrAbu",
+          "url": "https://x.com/RealAmVoice/status/2125694990722736583",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125694554749997105",
+          "created_at": "2026-11-25T20:54:10.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡Last Friday, with bitcoin testing its July low, we laid out the path for Inner Ring subscribers:\n\nA push lower that gets bought. A relief bounce alongside stocks. A stall between the low 60,000s and 66,000.\n\nAll three played out within days. \n\nThe flush to 55,000 was bought https://t.co/rap1x5gn9H",
+          "url": "https://x.com/_The_Prophet__/status/2125694554749997105",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125693543532708266",
+          "created_at": "2026-11-25T20:50:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "US Trade Rep Jamieson Greer says \"Nvidia is structurally important\" and the US has to \"make sure that that company remains on top\"\n\n\"For a long time, we have not allowed the sale of Blackwell chips\"\n\n\"Rules were issued by the Commerce Department last week to close off indirect https://t.co/Eh0qhft87N",
+          "url": "https://x.com/_Investinq/status/2125693543532708266",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125693254981034091",
+          "created_at": "2026-11-25T20:49:00.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump: \"Fake News CNN was hoping for a bad outcome in Iowa.\" https://t.co/KE73LJgFbe",
+          "url": "https://x.com/Osint613/status/2125693254981034091",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125692882824593417",
+          "created_at": "2026-11-25T20:47:31.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "RIDICULOUS! COLLEGES HOSTING \"THANKS, BUT NOT THANKSGIVING\"\n\nColleges are MOURNING the holiday and as always leftists are trying to re-write the narrative of our history! 🙄\n\n@campusreform @stevegrubershow https://t.co/2JF06QFdDu",
+          "url": "https://x.com/RealAmVoice/status/2125692882824593417",
           "verified": true,
           "verified_type": "business"
         },
@@ -149,16 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125685797936656845",
-          "created_at": "2026-11-25T20:19:22.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DEADLY OIL TANKER EXPLOSION IN CAIRO, EGYPT\n\nA fuel tanker has overturned, reportedly killing at least 30 invididuals. The fire has spread to the nearby area.\n\nhttps://t.co/LU98rryAl5",
-          "url": "https://x.com/RealAmVoice/status/2125685797936656845",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125685018332893273",
           "created_at": "2026-11-25T20:16:16.000Z",
           "author_name": "SightBringer",
@@ -167,16 +277,6 @@
           "url": "https://x.com/_The_Prophet__/status/2125685018332893273",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125684962741690446",
-          "created_at": "2026-11-25T20:16:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "IOWA 💪🇺🇸\n\nhttps://t.co/sO3VhkkXn1",
-          "url": "https://x.com/RealAmVoice/status/2125684962741690446",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125684210048393353",
@@ -229,26 +329,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125680336231363016",
-          "created_at": "2026-11-25T19:57:40.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "MORE FOOTAGE: At least 30 dead after a fuel tanker overturned and exploded on Cairo's Ring Road. Flames spread to nearby vehicles. Egypt deployed 39 ambulances.\n\nReuters https://t.co/8gCwLwkrfT",
-          "url": "https://x.com/Osint613/status/2125680336231363016",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125679768083312863",
-          "created_at": "2026-11-25T19:55:24.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Newly released surveillance video from Wake Up Call Coffee in Kennewick, Washington, shows a pregnant barista firing at an armed 17-year-old who crawled through the drive-thru window to rob the shop. https://t.co/16E6wV5ok9",
-          "url": "https://x.com/RealAmVoice/status/2125679768083312863",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125679436636766488",
           "created_at": "2026-11-25T19:54:05.000Z",
           "author_name": "Sport & State",
@@ -257,16 +337,6 @@
           "url": "https://x.com/SportNState/status/2125679436636766488",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125679070809636923",
-          "created_at": "2026-11-25T19:52:38.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "MS. RACHEL APPEARS AT NYC IMMIGRATION COURT DEFENDING TRAFFICKERS?\n\nIsn't Ms. Rachel supposed to be a children's entertainer? Yet, she's not thinking through how these children are NOT being protected...\"don't understand the problems that ACTUALLY exist.\" @jackposobiec https://t.co/xMSb9jom7j",
-          "url": "https://x.com/RealAmVoice/status/2125679070809636923",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125678956875780451",
@@ -287,16 +357,6 @@
           "url": "https://x.com/_The_Prophet__/status/2125678369543241863",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125672742641172613",
-          "created_at": "2026-11-25T19:27:29.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "We know a team in New England that could use Aaron Rodger’s reallll bad",
-          "url": "https://x.com/Outkick/status/2125672742641172613",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125671356339499494",
@@ -429,16 +489,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125643178975936763",
-          "created_at": "2026-11-25T17:30:01.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Retail demand for Anthropic is accelerating:\n\nRetail investors bought +$100 million in Anthropic, $ANT, shares on Monday, marking a 2nd consecutive daily increase in purchases.\n\nAs a result, $ANT was the 2nd-most purchased stock among retail investors during that session.\n\nThat https://t.co/bHrZgAOn7f",
-          "url": "https://x.com/KobeissiLetter/status/2125643178975936763",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125642617857953902",
           "created_at": "2026-11-25T17:27:47.000Z",
           "author_name": "Clay Travis",
@@ -505,16 +555,6 @@
           "author_handle": "LauraLoomer",
           "text": "Yah, we know, Tucker Qatarlson. \n\nJust like the Qataris. Everything in excess with zero modesty and very gauche. \n\nEverybody who wears a bow tie is a first class douche bag. \n\nIt’s like science. https://t.co/pgw3VbOFba",
           "url": "https://x.com/LauraLoomer/status/2125629630975721570",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125628907537973749",
-          "created_at": "2026-11-25T16:33:18.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "The Nasdaq 100 just touched bear market territory and wiped out its entire 2026 gain\n\nThe index fell as much as 20.0% from its Oct 6 record close of 31,224 today, hitting an intraday low of 24,978\n\nIt's down 4.3% on the day and now sits below its 2025 close, while the Nasdaq https://t.co/yZzUFx85yK",
-          "url": "https://x.com/_Investinq/status/2125628907537973749",
           "verified": true,
           "verified_type": "blue"
         },
@@ -609,26 +649,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125590398508601593",
-          "created_at": "2026-11-25T14:00:17.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "A heavily redacted USAID file reveals they seemed to be targeting comedian @JonathanPieNews https://t.co/swD4j2fPVN",
-          "url": "https://x.com/Timcast/status/2125590398508601593",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125580453562253755",
-          "created_at": "2026-11-25T13:20:46.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Youtube conspired with the Government to suppress dissent https://t.co/vKkd6LZu5c",
-          "url": "https://x.com/Timcast/status/2125580453562253755",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125576951364731018",
           "created_at": "2026-11-25T13:06:51.000Z",
           "author_name": "Elon Musk",
@@ -675,26 +695,6 @@
           "author_handle": "MattWalshBlog",
           "text": "I'm beginning to understand why all the Canadians are euthanizing themselves https://t.co/nDjz7RGGSm",
           "url": "https://x.com/MattWalshBlog/status/2125572185649492132",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125465480840581570",
-          "created_at": "2026-11-25T05:43:54.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️The most fascinating thing about this creature is what evolution discovered in the darkness.\n\nAt depths where sunlight cannot penetrate, the black seadevil carries its own source of light. But the purpose of that light is to make other creatures come to it.\n\nIn an environment https://t.co/GJpYZ57MLJ",
-          "url": "https://x.com/_The_Prophet__/status/2125465480840581570",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125434088093868048",
-          "created_at": "2026-11-25T03:39:09.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️The next Bitcoin bull market depends on a deterioration in the attractiveness of sovereign debt as a place to store wealth. \n\nThat is the catalyst with the greatest five-year potential.\n\nVinny is looking backward at monetary expansion, inflation, halvings, and institutional https://t.co/0iff7CQg0Y",
-          "url": "https://x.com/_The_Prophet__/status/2125434088093868048",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,10 +755,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
-          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
+          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
+          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
+          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
         },
         {
           "headline": "Group of Senate Democrats push to add freshman to leadership",
@@ -773,16 +773,16 @@
           "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
+          "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned. (Image credit: Samuel Corum)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+        },
+        {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
           "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
-        },
-        {
-          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
-          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
         }
       ]
     },
@@ -791,10 +791,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Vance says he was assured Jensen Huang was not under DOJ investigation",
-          "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+          "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+          "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
+          "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
         },
         {
           "headline": "We're buying more of a stock down big from its July highs",
@@ -827,10 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Most underrated NBA players, Nuggets-Mavs takeaways & Magic frustrations with Dave DuFour",
-          "summary": "Subscribe to The Kevin O'Connor Show Apple Podcasts | Spotify | YouTube Kevin O’Connor is joined by The Athletic’s Dave DuFour to dissect why Denver’s aging core, led by Nikola Jokic and Aaron Gordon, is raising alarm bells and what it means for their playoff hopes. Meanwhile, Minnesota’s league-leading defense powered by Rudy Gobert and Jaden McDaniels…",
+          "headline": "Iowa women's basketball trounces Navy: Takeaways from Hawkeyes' win",
+          "summary": "The Iowa women's basketball team ended its stay in the Bahamas with a dominant win over Navy on Wednesday morning. The Hawkeyes controlled the game all day, cruising to a 104-48 rout of the Midshipmen.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/article/most-underrated-nba-players-nuggets-mavs-takeaways--magic-frustrations-with-dave-dufour-204016807.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/iowa-womens-basketball-trounces-navy-211024547.html"
+        },
+        {
+          "headline": "Adams' late shot lifts Long Beach State over Southern Utah 65-64",
+          "summary": "MIAMI (AP) — Noah Amenhauser scored 22 points, McCaden Adams converted a four-point play with eight seconds left, and Long Beach State beat Southern Utah 65-64 on Wednesday in the Florida International MTE. Following Adams' 25-foot 3-pointer and ensuing free throw, Amenhauser blocked Rashaad Davis' layup attempt with three seconds left to seal it for…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/adams-shot-lifts-long-beach-210312020.html"
         },
         {
           "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
@@ -849,12 +855,6 @@
           "summary": "A chaotic final weekend could reshape conference title races and playoff positioning, with Selection Sunday stakes growing by the hour",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/cfp-chaos-scenarios-rivalry-week-big-ten-sec-big-12/"
-        },
-        {
-          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
-          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
         }
       ]
     },
@@ -862,6 +862,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "‘Focker In-Law’ Director on Casting Ariana Grande, Why Barbra Streisand and Dustin Hoffman Didn’t Return and What the Ending Means for Another Sequel",
+          "summary": "Over the years, “Meet the Parents” writer John Hamburg would exchange the occasional text or email with his collaborators from the 2000 movie to ask whether anyone had another sequel idea. (They had already revisited the characters, mismatched in-laws portrayed by Ben Stiller and Robert De Niro, to outsized commercial success in 2004’s “Meet the […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/features/focker-in-law-director-ariana-grande-casting-next-sequel-1236953332/"
+        },
         {
           "headline": "Amanda Seyfried Reveals Secret Elizabeth Holmes Role in ‘You Can See Everything’ Required a “Five-Factor Authentication App” to Read Script",
           "summary": "\"How the hell did I manage to keep it under wraps?,” the actress joked.",
@@ -881,12 +887,6 @@
           "url": "https://variety.com/2026/film/global/jeff-goldblum-sings-wicked-unexpected-career-marrakech-1236958123/"
         },
         {
-          "headline": "Awkwafina ‘Really Goes for It’ in Surrealist Cancer Drama ‘Kate Might Die,’ Says Director Mercedes Bryce Morgan",
-          "summary": "Director Mercedes Bryce Morgan is adamant: the world isn’t ready for Awkwafina’s performance in “Kate Might Die”. “It’s quite incredible to see.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/awkwafina-cancer-drama-kate-might-die-mercedes-bryce-morgan-1236951703/"
-        },
-        {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
           "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
           "source": "NPR",
@@ -899,34 +899,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "NFL On The Future Of Netflix’s Thanksgiving Eve Game & Starting A New Tradition: “We Are Committed”",
-          "summary": "Netflix is launching a new annual NFL tradition: the first-ever Thanksgiving Eve game. The inaugural game will see the Los Angeles Rams and the Green Bay Packers face off a day before the Thanksgiving Day tripleheader, giving fans more football to enjoy with friends and family during the holiday season.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/nfl-future-netflix-thanksgiving-eve-game-tradition-1237233072/"
+          "headline": "‘Steven Universe’ Star Zyri Comes Out as Trans",
+          "summary": "Zyri, who voiced the titular character in “Steven Universe” and played Brian Corbett on “The Goldbergs,” has come out as trans. In a Substack post on Wednesday, Zyri wrote about the challenges of being a child star and coming to terms with their gender identity.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/zyri-steven-universe-trans-comes-out-1236958383/"
         },
         {
-          "headline": "‘The Pitt’ Sets Season 3 Premiere Date",
-          "summary": "The holidays have arrived early, as HBO Max has revealed that its critically acclaimed medical drama, The Pitt, will premiere its third season on January 7, 2027. The news dropped today via the show’s Instagram account, with actors Taylor Dearden, Isa Briones, and Gerran Howell dressed as their characters Mel, Santos, and Whitaker, respectively.",
+          "headline": "With HBO Series ‘Scams for a Better Tomorrow,’ Oobah Butler Has a Language for Your Frustration",
+          "summary": "The former Vice provocateur's five-part HBO series cons the wellness, tech and music industries to help make viewers \"feel less f***ing insane\" in modern times.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/oobah-butler-scams-for-a-better-tomorrow-hbo-max-vice-1236763316/"
+        },
+        {
+          "headline": "Will Ferrell Comedy ‘The Hawk’ Canceled By Netflix After One Season",
+          "summary": "EXCLUSIVE: The Hawk did not make the cut for a second season. Netflix has opted not to renew the freshman golf comedy, co-created, executive produced and headlined by Will Ferrell.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/the-pitt-season-3-premiere-date-1237233493/"
+          "url": "https://deadline.com/2026/11/will-ferrell-the-hawk-canceled-netflix-one-season-1237233347/"
+        },
+        {
+          "headline": "Aaron Rodgers Released By NFL’s Pittsburgh Steelers Following ESPN Interview Where He Criticized Coach Mike McCarthy After Benching",
+          "summary": "Aaron Rodgers has been released by the Pittsburgh Steelers following an explosive interview on ESPN’s Pat McAfee Show. The Super Bowl champion and 4x NFL MVP was benched this week, and backup quarterback Mason Rudolph was named to take his place in the Black Friday game against the Denver Broncos.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/aaron-rodgers-released-nfl-pittsburgh-steelers-espn-interview-1237233574/"
         },
         {
           "headline": "A+E Doubles Down on Microdramas With Snips Partnership (Exclusive)",
           "summary": "The media brand is working with the company to adapt traditional entertainment projects into mobile-first vertical stories, with episodes no more than two minutes long.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/ae-microdramas-snips-partnership-1236762568/"
-        },
-        {
-          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
-          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
-        },
-        {
-          "headline": "Dropout’s ‘Very Important People’ Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests",
-          "summary": "Dropout’s improv interview series “Very Important People” is set to debut its fourth season Dec. 10 with a new batch of weirdo guests.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190/"
         }
       ]
     },
@@ -935,34 +935,34 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
-          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
+          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
+          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
+          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
+        },
+        {
+          "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
+          "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/brad-pitt-angelina-jolie-lawsuit-settlement-abuse-claims-1236763219/"
+        },
+        {
+          "headline": "‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’",
+          "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
+        },
+        {
+          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
+          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
         },
         {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
-        },
-        {
-          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
-          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
-        },
-        {
-          "headline": "10 Short Films Forging Drama and Discomfort as Routes to Kindness and Compassion",
-          "summary": "Whether it’s Alan Cumming starring in a love story about self-acceptance or a lesson in proudly embracing one’s cultural background or projects examining the U.S. from an international perspective, these 10 shorts spotlight true humanity and, at times, harsh realities of today’s society on screen.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/10-short-films-forging-drama-discomfort-as-routes-to-kindness-compassion-1236956641/"
-        },
-        {
-          "headline": "Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director",
-          "summary": "After nine years leading the annual Rocky Mountains industry retreat, she will step down on Dec. 11.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/jenn-kuzmyk-exit-banff-1236763033/"
         }
       ]
     },
@@ -970,6 +970,18 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Taylor Swift Uggs Story Sparks Hilarious Memes: ‘She Wears High Heels, I Wear Ugg Boots’",
+          "summary": "The internet is having a field day with a new detail revealing the pop star’s middle school shoe choices",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/taylor-swift-ugg-memes-1235664209/"
+        },
+        {
+          "headline": "Bob Seger Mourns ‘Extraordinary’ Silver Bullet Band Bassist Chris Campbell",
+          "summary": "\"Chris was like family; we raised our kids together,\" Seger said. \"It was a blessing to share this journey with Chris, and I'll cherish the memories forever\"",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/bob-seger-silver-bullet-band-chris-campbell-tribute-1235664442/"
+        },
         {
           "headline": "JO1’s ‘IGNITE’ Tops Japan Hot 100 as Hiromi Ohta’s 1975 Hit ‘Momen no Handkerchief’ Debuts",
           "summary": "JO1 ‘s “IGNITE” soars to No. 1 on the Billboard Japan Hot 100 chart released Nov.",
@@ -983,25 +995,13 @@
           "url": "https://www.billboard.com/lists/publishing-briefs-believe-music-publishing-gl-music-entertainment/"
         },
         {
-          "headline": "Cardi B and Offset See Beverly Hills Mansion Lawsuit Dismissed After Settlement",
-          "summary": "The estranged couple was accused of filming Cardi B’s “Like What” music video at the iconic mansion under the guise of shooting a TikTok clip",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/cardi-b-offset-beverly-hills-mansion-lawsuit-settlement-1235664297/"
-        },
-        {
           "headline": "Bradford Cox Reveals Autism Diagnosis",
           "summary": "“I didn’t understand that I was unable to stop talking, that I was in this neurodivergent state”",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/bradford-cox-reveals-autism-diagnosis/"
-        },
-        {
-          "headline": "How Riot Games Turned ‘League of Legends’ Into a Music Empire",
-          "summary": "Virtual artists and reality collide at the 2026 World Championship",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/how-riot-games-turned-league-of-legends-into-music-empire-1235662969/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T15:48:27-05:00"
+  "updatedAt": "2026-11-25T16:18:15-05:00"
 }
