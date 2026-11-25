@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
-          "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+          "headline": "Some AI-powered toys could offer up inappropriate, sexually explicit content to kids",
+          "summary": "Some of the hottest toys this holiday season are cute, cuddly and filled with AI. Mark Strassmann reports on how some of these toys could offer up inappropriate or even sexually explicit content to kids.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/some-ai-powered-toys-could-offer-up-inappropriate-sexually-explicit-content-kids/"
+        },
+        {
+          "headline": "2 men in custody after \"suspicious activity\" reported near Prince William, Princess Kate's home",
+          "summary": "U.K. police sent in dogs, drones and a helicopter after reports of \"suspicious activity\" near the country home of Prince William and Princess Kate.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/2-men-custody-suspicious-activity-reported-near-prince-william-princess-kates-home/"
         },
         {
           "headline": "Households braced for soaring energy bills with new price cap to be announced",
@@ -54,22 +60,16 @@
           "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Inside Issue One's \"Reset America\" tour",
-          "summary": "In response to Democrats' sweeping wins in the midterms, pro-democracy nonprofit Issue One is kicking off a nationwide \"Reset America\" tour to change the way the political system works. Nick Penniman, founder and CEO of Issue One, joins CBS News to discuss.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/inside-issue-ones-reset-america-tour/"
-        },
-        {
-          "headline": "Armed men take hostages at supermarket in Cartagena, Colombia",
-          "summary": "Colombian President Abelardo de la Espriella said that the men were \"common criminals\" who fled into the supermarket after a failed attempt to hold up an armored truck.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/cartagena-colombia-hostages-supermarket/"
-        },
-        {
-          "headline": "Kilmar Abrego Garcia leaves the US, is self-deporting to Spain",
+          "headline": "Kilmar Abrego Garcia leaving the US, self-deporting to Spain",
           "summary": "Kilmar Abrego Garcia, who was returned to the U.S. after being mistakenly deported to a Salvadoran mega-prison, is self-deporting to Spain, sources tell ABC News.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/kilmar-abrego-garcia-leaves-us-deporting-spain/story?id=138414044"
+        },
+        {
+          "headline": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
+          "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125383859592479201",
+          "created_at": "2026-11-25T00:19:34.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Starlink is now approved in 30 of 54 countries in Africa! https://t.co/nTJTFLUD53",
+          "url": "https://x.com/elonmusk/status/2125383859592479201",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125383610266157090",
+          "created_at": "2026-11-25T00:18:35.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Don’t mess with 𝕏 https://t.co/FNYSyWB7iv",
+          "url": "https://x.com/elonmusk/status/2125383610266157090",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125381945672761599",
           "created_at": "2026-11-25T00:11:58.000Z",
@@ -735,16 +755,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Nvidia's Jensen Huang still has security clearance, sources say",
-          "summary": "Attorney General Todd Blanche did not say whether federal investigators interviewed Jensen Huang — who was rehired as CEO on Monday — or examined his relationship with an alleged Chinese spy.",
+          "headline": "Army to detonate unstable explosives in Iowa Wednesday morning",
+          "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-security-clearance-todd-blanche/"
+          "url": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/"
         },
         {
-          "headline": "Rep. Omar D.C. home search sought evidence going back to 1980",
-          "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+          "headline": "Stock market sees declines tied to bipartisan fury over Jensen Huang's reinstatement",
+          "summary": "One day after returning to Nvidia as CEO, a disgraced Jensen Huang apologized in a company town hall, according to The Wall Street Journal, telling staff that he's now in therapy. Weijia Jiang.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
+          "url": "https://www.cbsnews.com/video/stock-market-sees-declines-tied-bipartisan-fury-jensen-huangs-reinstatement/"
         },
         {
           "headline": "Moving to Florida may become a choice of some Republicans after midterms",
@@ -771,10 +791,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Unpacking President Trump's financial stake in Nvidia",
-          "summary": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia"
+          "headline": "5 questions Nvidia still faces after bringing back Jensen Huang",
+          "summary": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/"
         },
         {
           "headline": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
@@ -807,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "No. 10 UCLA extends season-opening win streak to 7 games with a 69-56 win over St. John's",
-          "summary": "UNCASVILLE, Conn. (AP) — Sienna Betts and Elina Aarnisalo each scored 12 points to lead a balanced offense for No.",
+          "headline": "Lakers are 15-3, but here’s why 1 ESPN insider is hating on NBA title contender status",
+          "summary": "Mandatory Credit: Jayne Kamin-Oncea-Imagn Images Lakers are 15-3, but here’s why 1 ESPN insider is hating on NBA title contender status appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/no-10-ucla-extends-season-000419476.html"
+          "url": "https://sports.yahoo.com/nba/articles/lakers-15-3-why-1-002650927.html"
         },
         {
-          "headline": "USC women's basketball dominates Northern Arizona 100-52",
-          "summary": "After splitting its neutral site games against South Carolina and Baylor , the USC women's basketball team returned to Galen Center on Monday night to take on Northern Arizona. Unlike their prior two games, the Trojans entered this matchup as overwhelming favorites.",
+          "headline": "What Ole Miss basketball’s Chris Beard said about Rebels’ insane comeback win over BYU",
+          "summary": "Steve Roberts-Imagn Images What Ole Miss basketball’s Chris Beard said about Rebels’ insane comeback win over BYU appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/usc-womens-basketball-dominates-northern-235405083.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/ole-miss-basketball-chris-beard-002050273.html"
         },
         {
-          "headline": "Ole Miss rallies in the 2nd half and takes down No. 19 BYU 73-63 in Maui Invitational semis",
-          "summary": "Adam Clark scored 20 points and Corey Stephenson added 18 to help Mississippi rally to a 73-63 win over No. 19 BYU in a Maui Invitational semifinal Tuesday",
+          "headline": "Oregon State wins 87-73 against San Francisco",
+          "summary": "DeShawn Gory had 14 points in Oregon State’s 87-73 win over San Francisco",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ole-miss-rallies-2nd-half-takes-19-byu-138424951"
+          "url": "https://abcnews.com/Sports/wireStory/oregon-state-wins-87-73-san-francisco-138424787"
         },
         {
-          "headline": "Lehecka lead Czechs to beat Canada and Auger-Aliassime in Davis Cup quarterfinals",
-          "summary": "Jiri Lehecka has led the Czech Republic into the Davis Cup semifinals",
+          "headline": "Dar and Rice defeat UIC 68-67",
+          "summary": "Jacob Dar scored 21 points and Jaxson Thompson secured the victory on two free throws with less than a second left as Rice knocked off UIC 68-67",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/lehecka-lead-czechs-beat-canada-auger-aliassime-davis-138422175"
+          "url": "https://abcnews.com/Sports/wireStory/dar-rice-defeat-uic-68-67-138424586"
         },
         {
           "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
@@ -843,8 +863,8 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Randy Newman to Receive Society of Composers & Lyricists Lifetime Achievement Award — Film News in Brief",
-          "summary": "Randy Newman, the composer and songwriter behind Disney classics including “Toy Story,” “Cars” and “Monsters, Inc.,” will be honored by the Society of Composers & Lyricists with the Lifetime Achievement Award on Dec. 9 at the 37th Annual SCL Holiday Dinner in Los Angeles.",
+          "headline": "Curry Barker’s ‘Anything But Ghosts’ to Release in Premium HDR by Barco – Film News in Brief- Film News in Brief",
+          "summary": "“Obsession” director Curry Barker is returning with his second feature film, “Anything But Ghosts,” which will be released in premium HDR by Barco. The film, which follows a group of fame-seeking aspiring “ghosthunters” navigating terrifyingly unfamiliar territory, premieres in theaters May 7 and features a cast including Violet McGraw, Chris Reinacher,…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/film-news-in-brief-nov-23-2026-1236955894/"
         },
@@ -879,6 +899,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘One Last Order’: Beloved Drive-Thru Worker Sighle Williams Says ‘I Miss the Community’ as Viral Netflix Doc Streams",
+          "summary": "Sighle Williams served customers at a Florida burger joint for 37 years. And on her last day at Mac’s Drive Thru, it seemed like the entire city of Gainesville came out to say goodbye.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/one-last-order-netflix-drive-thru-worker-sighle-williams-1236957515/"
+        },
+        {
           "headline": "‘The Body’ Summons 86% Audience Boost To Lead Netflix’s Weekly TV Rankings",
           "summary": "The Body is summoning some interest on Netflix. The YA drama tallied 9.5 million views from November 16 to 22, taking No.",
           "source": "Deadline",
@@ -901,12 +927,6 @@
           "summary": "Amazon's Muhammad Ali series rewrites history for one of boxing's biggest heels.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-features/who-plays-sonny-liston-in-the-greastest-meet-amin-joseph-1236759934/"
-        },
-        {
-          "headline": "Kelly Rowland Joins Hulu’s ‘Reasonable Doubt’ For Season 5",
-          "summary": "SPOILER ALERT: The following reveals major plot points from Hulu’s Reasonable Doubt‘s Season 4 finale titled “Moment of Clarity.” Hulu’s Reasonable Doubt has closed out its action-packed fourth season with a bloody good surprise: Kelly Rowland has joined the cast for Season 5. She portrays the character Demitra, a staffer on a mayoral campaign who […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/kelly-rowland-cast-hulu-reasonable-doubt-season-5-1237232824/"
         }
       ]
     },
@@ -916,7 +936,7 @@
       "stories": [
         {
           "headline": "Take-Two CEO Strauss Zelnick To Talk ‘Grand Theft Auto VI’ At SXSW London 2027; More Speakers Announced",
-          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk about building one of the world’s biggest entertainment franchises, is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
+          "summary": "Take-Two Interactive CEO Strauss Zelnick, the man behind Grand Theft Auto VI, will speak at SXSW London 2027, organizers announced Tuesday. Zelnick, who will talk “about building one of the world’s biggest entertainment franchises,” is among the first-wave of speakers for SXSW London, which returns to Shoreditch, east London, for its third year in May.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
         },
@@ -951,16 +971,16 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Chart Rewind: In 1956, ‘Blues’ Singer Marty Robbins Swept 3 Country Charts",
-          "summary": "Arizona native Marty Robbins moved to Nashville in January 1953 on the same day that he joined the Grand Ole Opry, and it became a good fit as Robbins attained a new level of success, beginning with his single “Singing the Blues.” It rose to No. 1 on Billboard ’s Most Played C&W in Juke Boxes chart dated Nov.",
+          "headline": "Billboard’s Music Industry Events Calendar",
+          "summary": "As part of our continuing efforts to serve the music industry and its creators, Billboard Pro now features a music industry events calendar for readers. The calendar will act as music’s most complete summary major national and international industry events, from conferences to festivals to networking mixers and more.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/chart-beat/marty-robbins-singing-the-blues-chart-rewind-1956-1236389281/"
+          "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
         },
         {
-          "headline": "E.D.I. Mean Says 2Pac Was Planning to Squash Beef With Biggie: ‘I’m Deading Everything’",
-          "summary": "Apparently, 2Pac was over the back-and-forth with The Notorious B.I.G. , especially the East Coast/West Coast narrative.",
+          "headline": "Dolly Parton Estate Reveals Creative Team That Will ‘Preserve and Carry Forward’ Her Legacy",
+          "summary": "The Dolly Parton estate has announced the leadership of its creative team led by Steve Summers , who worked with Parton for more than 30 years and will serve as the estate’s creative director. Summers will steer a team that also includes creative manager Riley Reed Hanratty , design specialist Vance Nichols and creative specialist Bradley Schnabel .",
           "source": "Billboard",
-          "url": "https://www.billboard.com/music/rb-hip-hop/e-d-i-mean-2pac-planning-squash-beef-with-biggie-1236389146/"
+          "url": "https://www.billboard.com/pro/dolly-parton-estate-creative-team-star-legacy/"
         },
         {
           "headline": "Ninajirachi Drops I Love My Computer Remix Album",
@@ -983,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-24T19:15:03-05:00"
+  "updatedAt": "2026-11-24T19:47:31-05:00"
 }
