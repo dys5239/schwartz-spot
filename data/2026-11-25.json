@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "How people use AI agents to handle annoying tasks and save money",
+          "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/"
+        },
+        {
           "headline": "Nothing offers a full look at its AI earbuds and charging case",
           "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
           "source": "Wired",
           "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
-        },
-        {
-          "headline": "Some AI-powered toys could offer up inappropriate, sexually explicit content to kids",
-          "summary": "Some of the hottest toys this holiday season are cute, cuddly and filled with AI. Mark Strassmann reports on how some of these toys could offer up inappropriate or even sexually explicit content to kids.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/some-ai-powered-toys-could-offer-up-inappropriate-sexually-explicit-content-kids/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "How people use AI agents to handle annoying tasks and save money",
-          "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/"
-        },
-        {
           "headline": "Badenoch challenges Burnham over university fees for EU students",
           "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Army wants to resume training flights near site of collision",
-          "summary": "An Army helicopter on a training mission collided with an American Airlines passenger jet on approach at DCA, killing all aboard both aircraft, in January 2025.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/dc-plane-crash-dca-army-training-flights/"
-        },
-        {
-          "headline": "US stocks fall further as fears over AI intensify",
-          "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+          "headline": "Poundland collapses putting 11,000 jobs at risk",
+          "summary": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "WATCH: Thanksgiving travel rush underway",
-          "summary": "Major airlines already offering travel waivers in the wake of the Thanksgiving travel rush as a collision between a plane and catering truck at JFK airport creates delays.",
+          "headline": "Father of teen killed at campsite says it was \"a deliberate act\"",
+          "summary": "Carey Washington \"Wash\" Vinson, 19, was shot and killed while on an annual camping trip with friends in the Florida Panhandle.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/carey-vinson-florida-campsite-fatal-shooting/"
+        },
+        {
+          "headline": "Army detonates nearly 5 tons of toxic lead materials at Iowa plant",
+          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138435897/"
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        },
+        {
+          "headline": "Iran denounces U.S. use of AI in war",
+          "summary": "Iran's U.N. envoy claims the U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         }
       ]
     },
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125632723079385166",
+          "created_at": "2026-11-25T16:48:28.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "“Some of us put America First”.\n\nWow. I didn’t know “the jihad” was America First. \n\nYou learn something new everyday. https://t.co/SEvwTxDu9g https://t.co/lZEdhkIDMU",
+          "url": "https://x.com/LauraLoomer/status/2125632723079385166",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125631678961815692",
+          "created_at": "2026-11-25T16:44:19.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Bloomberg Commodity Index is on track for its 6th consecutive weekly decline, its longest losing streak since May 2023.\n\nThis index includes 25 exchange-traded futures contracts across energy, metals, and agriculture.\n\nThis would also mark its 6th longest losing https://t.co/BfXiADibHF",
+          "url": "https://x.com/KobeissiLetter/status/2125631678961815692",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125631280696148358",
+          "created_at": "2026-11-25T16:42:44.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "We call her Marjorie Traitor Greene for a reason. \n\nFacts matter! https://t.co/2eHEUdo1eo",
+          "url": "https://x.com/LauraLoomer/status/2125631280696148358",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125630752197152997",
+          "created_at": "2026-11-25T16:40:38.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Four drones intercepted and destroyed over Ras Tanura.\n\nSaudi-led coalition",
+          "url": "https://x.com/Osint613/status/2125630752197152997",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125629630975721570",
+          "created_at": "2026-11-25T16:36:10.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Yah, we know, Tucker Qatarlson. \n\nJust like the Qataris. Everything in excess with zero modesty and very gauche. \n\nEverybody who wears a bow tie is a first class douche bag. \n\nIt’s like science. https://t.co/pgw3VbOFba",
+          "url": "https://x.com/LauraLoomer/status/2125629630975721570",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125628907537973749",
+          "created_at": "2026-11-25T16:33:18.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "The Nasdaq 100 just touched bear market territory and wiped out its entire 2026 gain\n\nThe index fell as much as 20.0% from its Oct 6 record close of 31,224 today, hitting an intraday low of 24,978\n\nIt's down 4.3% on the day and now sits below its 2025 close, while the Nasdaq https://t.co/yZzUFx85yK",
+          "url": "https://x.com/_Investinq/status/2125628907537973749",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125628359166120370",
+          "created_at": "2026-11-25T16:31:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Either there has been some serious manipulation surrounding this entire situation or something seems really fishy here.\n\nWe went from Jensen Huang resigning over national security concerns, to Nvidia's board insisting he wouldn't be reinstated, to the government stepping in to https://t.co/NBrFPUaJL3 https://t.co/VODSvrLnRG",
+          "url": "https://x.com/_Investinq/status/2125628359166120370",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125628041174954349",
+          "created_at": "2026-11-25T16:29:51.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "https://t.co/ORX2KPFC06",
+          "url": "https://x.com/ClayTravis/status/2125628041174954349",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125628029040992333",
+          "created_at": "2026-11-25T16:29:49.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Is this an ad for @qatarairways?\n\n@MattWalshBlog \n\nSo bizarre. Why do all of the same people who are friends with the same people constantly glaze Qatar? \n\nYou all know the type. https://t.co/EldNd6M5CG",
+          "url": "https://x.com/LauraLoomer/status/2125628029040992333",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125627057526948017",
+          "created_at": "2026-11-25T16:25:57.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Employees at Weatherford Aerospace in Weatherford, Texas, evacuated without injury after a fire involving hazardous chemicals broke out at the facility. Officials issued a shelter-in-place order, then lifted it. \n\nResidents can resume normal activity but are asked to stay away",
+          "url": "https://x.com/Osint613/status/2125627057526948017",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125626726835229073",
+          "created_at": "2026-11-25T16:24:38.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Why the “power imbalance” thing is so incredibly stupid https://t.co/jAJbcCtJ1i",
+          "url": "https://x.com/MattWalshBlog/status/2125626726835229073",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125626498237534474",
+          "created_at": "2026-11-25T16:23:44.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "IOWA UPDATE: EPA LIVE MONITORS DETECT NO LEAD IN AIR\n\nAn hour after the lead azide detonation, EPA air monitors read 0.0 µg/m³  with NO LEAD DETECTED. The EPA is giving updates every 5 minutes. \n\nhttps://t.co/sOTzyHxfGE",
+          "url": "https://x.com/RealAmVoice/status/2125626498237534474",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125624820695990653",
           "created_at": "2026-11-25T16:17:04.000Z",
@@ -139,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125620559610364053",
-          "created_at": "2026-11-25T16:00:08.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NATO Secretary General Rutte:\n\nRussia has never attacked any NATO country, but Russia has attacked, in the past, Afghanistan, Georgia and Ukraine.\n\nNATO is extremely strong. This is peace through strength.",
-          "url": "https://x.com/Osint613/status/2125620559610364053",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125620263513432251",
           "created_at": "2026-11-25T15:58:57.000Z",
           "author_name": "The Kobeissi Letter",
@@ -199,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125615298959253919",
-          "created_at": "2026-11-25T15:39:13.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Lead azide detonation by the Army in Iowa, filmed from a drone. https://t.co/aoSOyVxYqf",
-          "url": "https://x.com/Osint613/status/2125615298959253919",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125613055509929995",
           "created_at": "2026-11-25T15:30:19.000Z",
           "author_name": "StockMarket.News",
@@ -217,16 +317,6 @@
           "url": "https://x.com/_Investinq/status/2125613055509929995",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125612280968515634",
-          "created_at": "2026-11-25T15:27:14.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS: \"Early reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.\" https://t.co/nnwAWr2RWl",
-          "url": "https://x.com/RealAmVoice/status/2125612280968515634",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125609956615573530",
@@ -255,16 +345,6 @@
           "author_handle": "LauraLoomer",
           "text": "Hi @SecWar, \n\nHow is it that the Office of the Secretary of War awarded @Replit, the company founded by Muslim, Jordanian born immigrant Amjad Masad @amasad, a contract for $50,000 in 2026? \n\nAs you can see below, Amjad, who just met with Vice President @JDVance to discuss “AI https://t.co/soIgxMZRl4 https://t.co/NOcwaSW8TU",
           "url": "https://x.com/LauraLoomer/status/2125605290376564765",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125604670941077686",
-          "created_at": "2026-11-25T14:57:00.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Trump, after wiping out $2T from the market with the Iran war and inflation, is now adding tariffs on top.\n\nI’m sure his shorts are printing right now. https://t.co/B6WMJWMMgz https://t.co/hJucibMa0c",
-          "url": "https://x.com/_Investinq/status/2125604670941077686",
           "verified": true,
           "verified_type": "blue"
         },
@@ -305,26 +385,6 @@
           "author_handle": "Timcast",
           "text": "haha we are so cooked https://t.co/OZW68uTyYm",
           "url": "https://x.com/Timcast/status/2125599693325406648",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125598024693072110",
-          "created_at": "2026-11-25T14:30:35.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "The Fed's preferred inflation gauge just moved further away from target, and a December rate hike is now fully priced in\n\nOctober PCE inflation rose to 3.8% year over year, up from 3.7% in September and nearly double the Fed's 2% goal\n\nCore PCE jumped to 3.3% from 3.1%, above the https://t.co/kU18j7Nvjf",
-          "url": "https://x.com/_Investinq/status/2125598024693072110",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125597567497146524",
-          "created_at": "2026-11-25T14:28:46.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "“Why is the Daily Caller undermining the Trump admin with multiple anti-Trump articles.”\n\nUh you must be new here…\n\nThe Daily Caller @DailyCaller was founded by Tucker Qatarlson and so now most of the people who work there are anti-Trump Jew haters and Islamic sympathizers. https://t.co/dg0ZpANkJb",
-          "url": "https://x.com/LauraLoomer/status/2125597567497146524",
           "verified": true,
           "verified_type": "blue"
         },
@@ -375,16 +435,6 @@
           "author_handle": "Outkick",
           "text": "A Thanksgiving benching AND not even allowed to suit up? \n\nMike McCarthy isn't messing around with Aaron Rodgers.\n\n✍️ @ArmandoSalguero \nhttps://t.co/HV2IDYlnJS",
           "url": "https://x.com/Outkick/status/2125588054283030692",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125585039320646034",
-          "created_at": "2026-11-25T13:38:59.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The US Financial Crimes Enforcement Network (FinCEN) has suffered a cybersecurity breach, resulting in unauthorized access to a \"limited subset\" of its systems, per a US government official.\n\nFinCEN oversees some of the US government's most sensitive financial",
-          "url": "https://x.com/KobeissiLetter/status/2125585039320646034",
           "verified": true,
           "verified_type": "business"
         },
@@ -459,36 +509,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125564942078153054",
-          "created_at": "2026-11-25T12:19:07.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "When someone tells you they are a jihadist, believe them. \n\nDEPORT\n\nCc: @marcorubio https://t.co/NOcwaSW8TU",
-          "url": "https://x.com/LauraLoomer/status/2125564942078153054",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125554289619636361",
-          "created_at": "2026-11-25T11:36:48.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "I wonder how this lead bomb is going to go over ahead of the Iowa Caucus in 2028.\n\nI hope people and the animals stay safe. Horrible to be doing this the day before Thanksgiving.",
-          "url": "https://x.com/LauraLoomer/status/2125554289619636361",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125551016758096137",
-          "created_at": "2026-11-25T11:23:47.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "https://t.co/iJcaLPViXA https://t.co/PnJ8dM7cHh",
-          "url": "https://x.com/LauraLoomer/status/2125551016758096137",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125516563277328690",
           "created_at": "2026-11-25T09:06:53.000Z",
           "author_name": "Elon Musk",
@@ -555,16 +575,6 @@
           "author_handle": "ClayTravis",
           "text": "Well said. The US men’s soccer team games should be free on broadcast TV. Sports fans keep having to pay more and keep getting less. https://t.co/nA4bbg0M6G",
           "url": "https://x.com/ClayTravis/status/2125421334612095355",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125418963270308124",
-          "created_at": "2026-11-25T02:39:03.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Just had my first @SouthwestAir flight with @Starlink. Holy crap. Absolutely phenomenal. Infinitely better than WiFi on Southwest has ever been before. I fly Southwest everywhere so the WiFi on their planes has often driven me insane. Phenomenal addition.",
-          "url": "https://x.com/ClayTravis/status/2125418963270308124",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,16 +775,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Army wants to resume training flights near site of collision",
+          "summary": "An Army helicopter on a training mission collided with an American Airlines passenger jet on approach at DCA, killing all aboard both aircraft, in January 2025.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/dc-plane-crash-dca-army-training-flights/"
+        },
+        {
           "headline": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
           "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
-        },
-        {
-          "headline": "Trump administration to issue new tariffs on China, EU and others",
-          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
@@ -801,16 +811,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-          "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+          "headline": "There are 5,100 newly minted Anthropic millionaires—here’s all the stuff they don’t tell you about when you suddenly get rich",
+          "summary": "Anthropic’s IPO made about 5,100 employees paper millionaires. Experts explain the risks of sudden wealth.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
+          "url": "https://www.cnbc.com/2026/11/25/anthropic-ipo-employee-millionaires-sudden-wealth.html"
         },
         {
-          "headline": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
-          "summary": "Shares of Anthropic are trading below their IPO price, creating an overhang on other artificial intelligence names.",
+          "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+          "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html"
+          "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+        },
+        {
+          "headline": "Trump administration to issue new tariffs on China, EU and others",
+          "summary": "The U.S. will increase tariffs on Chinese goods by an additional 20% and raise import taxes on goods from other major economies.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
           "headline": "Stocks plummet as Jensen Huang rebound rally fades",
@@ -823,12 +839,6 @@
           "summary": "Eurostar has canceled several trains between Paris and London due to an unannounced strike by some staff",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/eurostar-cancels-paris-london-trains-after-staff-unannounced-138434350"
-        },
-        {
-          "headline": "Global stocks are mixed as AI shares tumble after a retreat on Wall Street",
-          "summary": "World stocks are mixed Wednesday after another wave of heavy selling of stocks linked to artificial intelligence hit Wall Street",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/asian-stocks-decline-ai-shares-tumble-after-retreat-138431273"
         }
       ]
     },
@@ -837,10 +847,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Mid-Major Madness Men’s Player of the Week Voting: Nov. 16-22",
-          "summary": "Here are our top six men’s Player of the Week candidates for Nov. 16-22 and a recap of their outstanding performances from across the third week of the college basketball season.",
+          "headline": "Manchester City goalkeeper Gianluigi Donnarumma was left angered by chants aimed at his family during his side's 2-2 Champions League draw with Napoli on Tuesday night.",
+          "summary": "Manchester City's most divisive figure: Gianluigi Donnarumma? Tuesday night’s meeting with Napoli in the UEFA Champions League carried extra meaning for Manchester City's first-choice goalkeeper and Italy's international team captain, Gianluigi Donnarumma.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/mid-major-madness-men-player-160605655.html"
+          "url": "https://sports.yahoo.com/soccer/articles/manchester-city-goalkeeper-gianluigi-donnarumma-163000833.html"
+        },
+        {
+          "headline": "B/R lays out path for Falcons to upset Vikings in Week 12",
+          "summary": "There are no guarantees in the NFL. We learned that much when the Atlanta Falcons somehow managed to upset the San Francisco 49ers back in Week 7, proving that literally anything is possible in any given matchup.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/b-r-lays-path-falcons-162807635.html"
         },
         {
           "headline": "College football Week 13: USC-UCLA tops schedule with conference title game spots, CFP bids at stake",
@@ -855,16 +871,10 @@
           "url": "https://www.cbssports.com/college-football/news/rivalry-week-spoiler-rankings-upset-potential/"
         },
         {
-          "headline": "Baylor holds off No. 15 Alabama 68-63 in Las Vegas to snap 16-game skid against AP Top 25 opponents",
-          "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
+          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
+          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
-        },
-        {
-          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
-          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
-          "source": "FOX News Sports",
-          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
+          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
         }
       ]
     },
@@ -872,6 +882,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Scores $16 Million on Tuesday, ‘Hexed’ Earns $2 Million in Previews",
+          "summary": "Lionsgate’s “Hunger Games” prequel “Sunrise on the Reaping” continues to power the domestic box office, earning a leading $15.98 million on Tuesday. Those ticket sales rank as the franchise’s best Tuesday haul, above 2013’s “The Hunger Games: Catching Fire,” which grossed $15.96 million on its first Tuesday (not adjusted for inflation).",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-prequel-hexed-previews-1236958028/"
+        },
         {
           "headline": "Salma Hayek Pinault and Saúl ‘Canelo’ Álvarez Board Cannes Short Film Palme d’Or Winner ‘For the Opponents,’ Igniting Its Oscar Campaign (EXCLUSIVE)",
           "summary": "Salma Hayek Pinault and boxing world champion Saúl “Canelo” Álvarez two of Mexico’s greatest contemporary icons, have boarded Cannes 2026 short film Palme d’Or winner “For the Opponents” as executive producers galvanizing Mexico’s push for the film’s contention in the Academy Award Live Action Short Film race. “For the Opponents” (“Para los…",
@@ -885,16 +901,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-features/clashing-through-the-snow-movie-director-interview-1236751763/"
         },
         {
-          "headline": "‘Hunger Games’ Producer Admits ‘Mockingjay’ Should Have Been One Movie",
-          "summary": "Franchise producer Nina Jacobson says adapting one book into two movies rubs fans the wrong way: \"I think audiences find it cynical.\"",
+          "headline": "Gotham Film & Media Institute Names 2026 Winners of Focus Features Student Short Film Showcase (Exclusive)",
+          "summary": "The five winners will each receive a cash grant and have the opportunity for their short to be shown on Focus Features' digital streaming platform.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-mockingjay-one-movie-1236763038/"
-        },
-        {
-          "headline": "Gilles Villeneuve Biopic ‘The Rise of a Legend’ Gives Racing Genre a Grungier Spin: It’s the ‘Anti-“F1”’",
-          "summary": "“Villeneuve: The Rise of a Legend” director Yan Lanouette Turgeon doesn’t mince his words, saying his 1970s-set biopic of Formula 1 racer Gilles Villeneuve is the antithesis of Joseph Kosinski’s “F1,” starring Brad Pitt. His film closes Torino Film Festival next week before a wider international rollout.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/gilles-villeneuve-biopic-the-rise-of-a-legend-1236957807/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-gotham-film-media-institute-focus-student-short-films-1236762790/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -908,6 +918,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Studio Lambert Is Digging Into The Archives For Its Next ‘Traitors’-Sized Hit",
+          "summary": "One of the interesting consequences of Banijay’s merger with All3Media is that Stephen Lambert, who runs The Traitors producer Studio Lambert, has been reunited with his early work. Before Lambert, a former BBC documentary producer, founded Studio Lambert in 2008, he was Chief Creative Officer at RDF Media, where he produced series such as Wife […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/studio-lambert-traitors-circle-monopoly-interview-1237232183/"
+        },
         {
           "headline": "Turnaround Times Improve for U.K. Crews Following Union Campaign: ‘Change Is Possible When Workers Speak Out’ (EXCLUSIVE)",
           "summary": "Turnaround times are improving, crew union Bectu has revealed. But figures show numerous productions are still breaking the agreement to give crews their legally-enshrined 11-hours rest between shifts.",
@@ -927,12 +943,6 @@
           "url": "https://variety.com/2026/tv/news/miley-cyrus-cnn-heroes-legacy-award-dolly-parton-1236957974/"
         },
         {
-          "headline": "Jenn Kuzmyk Stepping Down From Banff World Media Festival After Nearly A Decade",
-          "summary": "It’s the end of an era for the Banff World Media Festival with its long-serving boss Jenn Kuzmyk stepping down. Kuzmyk will leave her role as Executive Director of Banff and publisher of Canadian trade title Playback on December 11.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jenn-kuzmyk-stepping-down-banff-world-media-festival-1237233161/"
-        },
-        {
           "headline": "‘The Body’ Star Kristina Bogic Just Wanted to Take Care of Anya: “A Lot of Young Women Can Relate”",
           "summary": "The 19-year-old star of Netflix's latest hit breaks down how she came to love her dance team captain character: \"Anya always wants to try and do the right thing.\"",
           "source": "The Hollywood Reporter",
@@ -944,6 +954,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Jenn Kuzmyk to Exit Banff World Media Festival as Executive Director",
+          "summary": "After nine years leading the annual Rocky Mountains industry retreat, she will step down on Dec. 11.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/jenn-kuzmyk-exit-banff-1236763033/"
+        },
         {
           "headline": "Mindy Kaling Will Be Honored With The Hollywood Reporter’s Equity in Entertainment Award at Women in Entertainment Gala",
           "summary": "Maitreyi Ramakrishnan is set to present Kaling with the award at the Los Angeles event, which is presented by founding sponsor Lifetime and title sponsor Lilly. Mary Beth Barone will open the program.",
@@ -957,16 +973,10 @@
           "url": "https://deadline.com/2026/11/gta-6-take-two-ceo-strauss-zelnick-sxsw-london-2027-speaker-1237232963/"
         },
         {
-          "headline": "IATSE Reaches Tentative Agreement for Broadway Stagehands",
-          "summary": "However, the union said its Broadway wardrobe workers are still without a new contract and have voted to authorize a strike.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/iatse-reaches-tentative-agreement-broadway-stagehands-1236762558/"
-        },
-        {
-          "headline": "Al Gore To Purchase Hometown Paper Carthage Courier",
-          "summary": "Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly newspaper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks.",
+          "headline": "Broadway Producers & Stagehands Union Reach Tentative Contract Deal, Avoiding Holiday Strike",
+          "summary": "The Broadway League and IATSE Local One of theater workers have reached a tentative deal to avoid a strike that could have disrupted the lucrative holiday season. The agreement is pending ratification by union members.",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838/"
+          "url": "https://deadline.com/2026/11/broadway-producers-stagehands-union-deal-1237232887/"
         },
         {
           "headline": "Law Firm Ropes and Gray Expands Los Angeles Presence and Entertainment, Sports and Media Practice With Tom Ara, David Markman Hires",
@@ -981,37 +991,37 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Coachella Sues Walmart for Selling Knockoffs at Stores Near Festival: ‘Who Needs the Merch Tent?’",
-          "summary": "Coachella is suing Walmart over accusations that the retail giant has sold fake festival merchandise for years despite repeated demands to stop. In a lawsuit Tuesday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/pro/coachella-sues-walmart-for-selling-knockoffs-near-festival/"
+          "headline": "See New Order Kick Off First Tour Without Drummer Stephen Morris",
+          "summary": "\"We’re sorry Steve and Gillian can’t be here with us,\" frontman Bernard Sumner told the crowd early in the set, \"and we just want them to know how much we’re missing them\"",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/new-order-first-tour-without-drummer-stephen-morris-1235664185/"
         },
         {
-          "headline": "The Chicks & Willie Colón Join AI Music Lawsuit Against Suno: ‘Misappropriated Identities’",
-          "summary": "The Chicks , Willie Colón and Sam Moore are joining the legal fight against AI music. The trio of acts and their estates were among a slew of artists added Tuesday (Nov.",
+          "headline": "Megan Thee Stallion Is the Big Boss of Netflix’s KShop In New Campaign: Exclusive First Look",
+          "summary": "For her next flex, Megan Thee Stallion works the register and calls all the shots in The KShop. The chart-topping Texas hip-hop star flaunts her acting chops in a custom ad for KPop Demon Hunters merch , which will go to air tonight (Nov.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/pro/the-chicks-willie-colon-join-ai-music-lawsuit-against-suno/"
+          "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-netflix-kshop-campaign-exclusive-1236389377/"
+        },
+        {
+          "headline": "Horacio Palencia Celebrates Historic Billboard Chart Achievements: ‘I Like Making Music That Transcends’",
+          "summary": "Nearly 20 years ago, Horacio Palencia reached the top of Billboard ‘s Regional Mexican Airplay chart as a songwriter for the first time. Today, the acclaimed Mexican musician has amassed 45 No.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/horacio-palencia-historic-chart-achievements-interview-1236389484/"
+        },
+        {
+          "headline": "Seal Returns Favor, Cover’s Tame Impala’s ‘New Person, Same Old Mistakes’",
+          "summary": "The \"Kiss From A Rose\" singer said he wanted to return the honor after Tame Impala's cover",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/seal-new-person-tame-impala-cover-like-a-version-1235664192/"
         },
         {
           "headline": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
           "summary": "Her rendition of the Alchemist-assisted single interpolated “Bennie and the Jets”",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/erykah-badu-does-breezy-salutes-elton-john-on-fallon/"
-        },
-        {
-          "headline": "Patti Smith: Tiny Desk Concert",
-          "summary": "Punk's poet laureate settles into the NPR Music office with her band for a moving, close-knit set of spoken word and songs.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/g-s1-151794/patti-smith-tiny-desk-concert"
-        },
-        {
-          "headline": "Brandi Carlile Says the ‘Horror’ of ICE Arrests at Seattle Airport ‘Cannot Be Overstated’",
-          "summary": "The musician called on fans to call their representatives and donate to organizations working to protect immigrants",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/brandi-carlile-ice-arrests-seattle-airport-action-1235664018/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T11:19:54-05:00"
+  "updatedAt": "2026-11-25T11:49:40-05:00"
 }
