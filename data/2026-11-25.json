@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+          "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come…",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
+        },
+        {
           "headline": "How to talk AI around the Thanksgiving table",
           "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
           "source": "NPR",
@@ -28,12 +34,6 @@
           "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/"
-        },
-        {
-          "headline": "Nothing offers a full look at its AI earbuds and charging case",
-          "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+          "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed, Macy's said Wednesday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
+        },
+        {
+          "headline": "Iran denounces U.S. use of AI in war",
+          "summary": "Iran's U.N. envoy claims the U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+        },
+        {
+          "headline": "Duran Duran guitarist Andy Taylor dies, aged 65",
+          "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Poundland collapses putting 11,000 jobs at risk",
           "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "China may have surveilled Alice Huang amid affair with Nvidia CEO",
-          "summary": "China's Ministry of State Security may have been surveilling Alice Huang and sought information from her after her affair with Nvidia CEO Jensen Huang began, U.S. officials told congressional staffers.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/"
-        },
-        {
-          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
-          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
-        },
-        {
-          "headline": "Blindsided by Iowa detonation, White House scrambled, sources say",
-          "summary": "White House officials have expressed frustration in internal conversations that they had to scramble to deal with the crisis.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/"
-        },
-        {
-          "headline": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-          "summary": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+          "headline": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+          "summary": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of community.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125713388424876102",
+          "created_at": "2026-11-25T22:09:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Your favorite RAV gear. Your favorite shows. Our BLACK FRIDAY savings!\n\nTake up to 30% OFF hats, tees, hoodies, mugs and more during the Real America's Voice Black Friday Sale!\n\nGet FREE U.S. shipping on orders of $75 or more, PLUS unlock an exclusive VIP offer when you download https://t.co/ramyiUWwAk",
+          "url": "https://x.com/RealAmVoice/status/2125713388424876102",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125713016813445627",
+          "created_at": "2026-11-25T22:07:31.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "According to USA TODAY, the Pittsburgh Steelers are reportedly releasing veteran quarterback Aaron Rodgers. https://t.co/izQLyRZ00K",
+          "url": "https://x.com/RealAmVoice/status/2125713016813445627",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125711139006984208",
+          "created_at": "2026-11-25T22:00:03.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "A fight broke out at the King of Cars Custom Car Show in Houston. People came to see custom rides and got a free brawl with their ticket. https://t.co/Sw6HuJgon8",
+          "url": "https://x.com/RealAmVoice/status/2125711139006984208",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125711110158574002",
+          "created_at": "2026-11-25T21:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "WAR ROOM WITH STEVE BANNON PM EDITION https://t.co/KfyRxli3W0",
+          "url": "https://x.com/RealAmVoice/status/2125711110158574002",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125710055286718499",
+          "created_at": "2026-11-25T21:55:45.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BOLLING TORCHES HOSTIN’S ‘HILLARY IS NEVER WRONG’ CLAIM\n\nThe View’s Sunny Hostin made a bold declaration while discussing the controversy surrounding Nvidia CEO Jensen Huang.\n\n“She's never been wrong, and this is what it is.”\n\n@ericbolling wasn't about to let that one slide, https://t.co/rFsPxyXV5i",
+          "url": "https://x.com/RealAmVoice/status/2125710055286718499",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125708090586677661",
+          "created_at": "2026-11-25T21:47:57.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "You guys sent in a ton of great questions, and I hit on a wide variety of topics. Thanksgiving Mailbag. Enjoy:\nhttps://t.co/4xhJ5tzLRL",
+          "url": "https://x.com/ClayTravis/status/2125708090586677661",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125707395691430008",
           "created_at": "2026-11-25T21:45:11.000Z",
@@ -179,16 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125698894499807560",
-          "created_at": "2026-11-25T21:11:24.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "A man reportedly in the country illegally just won $1 MILLION in the lottery — and now ICE is moving to deport him. https://t.co/r0NJabSeNE",
-          "url": "https://x.com/RealAmVoice/status/2125698894499807560",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125697370008555911",
           "created_at": "2026-11-25T21:05:21.000Z",
           "author_name": "The Kobeissi Letter",
@@ -209,16 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125696538894614588",
-          "created_at": "2026-11-25T21:02:03.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ERIC BOLLING LIVE https://t.co/PeA1FxHQ2P",
-          "url": "https://x.com/RealAmVoice/status/2125696538894614588",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125696156868989295",
           "created_at": "2026-11-25T21:00:31.000Z",
           "author_name": "Tim Pool",
@@ -227,26 +267,6 @@
           "url": "https://x.com/Timcast/status/2125696156868989295",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125695867449753674",
-          "created_at": "2026-11-25T20:59:22.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DO YOU KNOW ABOUT THE ALASKA TURKEY BOMB TRADITION?\n\nA pilot is helping to reignite the tradition started by Kenny Hughes. Ester brought back the act of loading up turkey's to drop them down to remote Alaska families who live off the grid. WOW! 🦃\n\n@stevegrubershow https://t.co/vuzWb9txLS",
-          "url": "https://x.com/RealAmVoice/status/2125695867449753674",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125694990722736583",
-          "created_at": "2026-11-25T20:55:53.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: MACY'S DAY PARADE POSTPONED, MOVED TO SATURDAY\n\nA nor’easter approaches New York City and this will make the first weather-related postponement in the parade's history. \n\n https://t.co/YtyxwUrAbu",
-          "url": "https://x.com/RealAmVoice/status/2125694990722736583",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125694554749997105",
@@ -277,16 +297,6 @@
           "url": "https://x.com/Osint613/status/2125693254981034091",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125692882824593417",
-          "created_at": "2026-11-25T20:47:31.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "RIDICULOUS! COLLEGES HOSTING \"THANKS, BUT NOT THANKSGIVING\"\n\nColleges are MOURNING the holiday and as always leftists are trying to re-write the narrative of our history! 🙄\n\n@campusreform @stevegrubershow https://t.co/2JF06QFdDu",
-          "url": "https://x.com/RealAmVoice/status/2125692882824593417",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125691671623110905",
@@ -589,16 +599,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125628041174954349",
-          "created_at": "2026-11-25T16:29:51.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "https://t.co/ORX2KPFC06",
-          "url": "https://x.com/ClayTravis/status/2125628041174954349",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125626726835229073",
           "created_at": "2026-11-25T16:24:38.000Z",
           "author_name": "Matt Walsh",
@@ -755,16 +755,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Vance says Nvidia's Huang isn't under investigation, doesn't need a pardon",
-          "summary": "Vice President JD Vance said he was assured Nvidia CEO Jensen Huang isn't under federal investigation.",
+          "headline": "China may have surveilled Alice Huang amid affair with Nvidia CEO",
+          "summary": "China's Ministry of State Security may have been surveilling Alice Huang and sought information from her after her affair with Nvidia CEO Jensen Huang began, U.S. officials told congressional staffers.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/vance-says-jensen-huang-doesnt-need-pardon/"
+          "url": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/"
         },
         {
-          "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
-          "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
+          "headline": "Blindsided by Iowa detonation, White House scrambled, sources say",
+          "summary": "White House officials have expressed frustration in internal conversations that they had to scramble to deal with the crisis.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+          "url": "https://www.cbsnews.com/news/iowa-detonation-lead-white-house-blindsided-accountability/"
         },
         {
           "headline": "Group of Senate Democrats push to add freshman to leadership",
@@ -791,34 +791,34 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "How major US stock indexes fared Wednesday 11/25/2026",
+          "summary": "Stocks on Wall Street recovered most of their steep early losses as a pullback in AI stocks eased",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529"
+        },
+        {
+          "headline": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+          "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html"
+        },
+        {
+          "headline": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+          "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+        },
+        {
+          "headline": "Stocks turn volatile as Jensen Huang rebound rally fades",
+          "summary": "The tech-heavy Nasdaq index fell more than 1,000 points in early trading before clawing back most of the losses.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/"
+        },
+        {
           "headline": "Credit card perks are fueling airline profitability",
           "summary": "Flying during the holidays can be pricey. So, airlines are pitching more and more specialty brand credit cards on your flight.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability"
-        },
-        {
-          "headline": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-          "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html"
-        },
-        {
-          "headline": "Most Polymarket users lost money betting on the U.S. midterms",
-          "summary": "More than half of Polymarket accounts lost money betting on the U.S. midterm elections, according to one analysis.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/prediction-markets-polymarket-kalshi-trader-losses/"
-        },
-        {
-          "headline": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
-          "summary": "Bond yields moved lower Wednesday as investors fled to bonds for protection amid sticky inflation data.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
-        },
-        {
-          "headline": "Why are investors freaking out even as the U.S. economy surges?",
-          "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
         }
       ]
     },
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "😳 Bayern star stunned! Mbappé's brother catches FCB on the counter",
-          "summary": "Now Bayern are stumbling in the Champions League after all! Germany’s record champions are trailing 2-1 at Lille in the closing stages.",
+          "headline": "2 goals, 84% passing accuracy: Bruno Fernandes’ efforts go to waste as Man United held 2-2 by Sporting",
+          "summary": "Manchester United were held to a 2-2 draw by Sporting at the Estádio José Alvalade on Wednesday, 25 November, in the Champions League. A Bruno Fernandes brace was cancelled out by two goals from Luis Suárez in an entertaining game that earned Mauricio Pochettino his first points since taking charge at Old Trafford.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/bayern-star-stunned-mbapp-brother-213500936.html"
+          "url": "https://sports.yahoo.com/soccer/articles/2-goals-84-passing-accuracy-215500829.html"
         },
         {
-          "headline": "Historic first quarter powers No. 2 Michigan to blowout win over Toledo",
-          "summary": "NEW YORK, NEW YORK - NOVEMBER 12: Te'Yala Delfosse #33 and Kendall Dudley #22 of the Michigan Wolverines box out Hilke Feldrappe #23 of the Columbia Lions in the second half at Frances S. Levien Gymnasium on November 12, 2026 in New York City.",
+          "headline": "LOSC Lille 2-1 Bayern Munich: Initial Observations and Reactions",
+          "summary": "LILLE, FRANCE - NOVEMBER 25: Aleksandar Pavlovic of FC Bayern Munich reacts after scoring an own goal, the second goal for LOSC Lille during the UEFA Champions League 2026/27 League Phase MD5 match between LOSC Lille and FC Bayern München at Stade Pierre Mauroy on November 25, 2026 in Lille, France. (Photo by Alexander Hassenstein - UEFA/UEFA via Getty…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/historic-first-quarter-powers-no-213000927.html"
+          "url": "https://sports.yahoo.com/soccer/articles/losc-lille-vs-bayern-munich-170000075.html"
         },
         {
           "headline": "Ndjonga puts up 22 as Stony Brook downs Lindenwood 69-63",
@@ -863,6 +863,12 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "With ‘Guarding Stars,’ Jared Padalecki Finally Takes A Break From All That Action",
+          "summary": "The 'Walker' and 'Supernatural' star takes a backseat on the action in Netflix's latest romantic comedy, based on Katherine Center's 'The Bodyguard.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/jared-padalecki-guarding-stars-netflix-holiday-1236760738/"
+        },
+        {
           "headline": "New ‘Rocky’ Book Celebrates 50th Anniversary With Rare and Never-Seen-Before Paintings",
           "summary": "Sylvester Stallone’s classic film “Rocky” premiered half a century ago. To mark the occasion, artist John Rivoli has released a new book, “The Fine Art Of Rocky: An Artistic Tribute From Screen To Canvas,” published by Insight Editions.",
           "source": "Variety",
@@ -879,12 +885,6 @@
           "summary": "\"How the hell did I manage to keep it under wraps?,” the actress joked.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-script-elizabeth-1236763095/"
-        },
-        {
-          "headline": "Scott Caan Thought He Got a Prank Text. It Was Actually David Fincher Wanting Him in ‘Cliff Booth’",
-          "summary": "The veteran actor reunites with Brad Pitt in the 'Once Upon a Time in Hollywood' follow-up that sees him taking on manic 1970s TV star Charlie Peters, who's in desperate need of Cliff Booth's help.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/scott-caan-cliff-booth-charlie-peters-fincher-interview-1236761216/"
         },
         {
           "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
@@ -911,10 +911,10 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/"
         },
         {
-          "headline": "Tony Romo, After Parting Ways With CBS Sports, Named ‘Chief Predictions Officer’ of Jake Paul’s Betr Betting App",
-          "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
+          "headline": "‘Steven Universe’ Star Zyri Comes Out as Trans",
+          "summary": "Zyri, who voiced the titular character in “Steven Universe” and played Brian Corbett on “The Goldbergs,” has come out as trans. In a Substack post on Wednesday, Zyri wrote about the challenges of being a child star and coming to terms with their gender identity.",
           "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
+          "url": "https://variety.com/2026/tv/news/zyri-steven-universe-trans-comes-out-1236958383/"
         },
         {
           "headline": "With HBO Series ‘Scams for a Better Tomorrow,’ Oobah Butler Has a Language for Your Frustration",
@@ -935,6 +935,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
+          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
+        },
+        {
           "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
           "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
           "source": "The Hollywood Reporter",
@@ -947,22 +953,16 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
-          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
-          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
-        },
-        {
-          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
-          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
-        },
-        {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        },
+        {
+          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
+          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -971,28 +971,28 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Duran Duran Guitarist Andy Taylor Dead at 65",
-          "summary": "Rock and Roll Hall of Fame inductee, who co-wrote \"Hungry Like The Wolf\" and \"Rio,\" had been battling stage 4 prostate cancer",
+          "headline": "Andy Taylor, Former Duran Duran Guitarist, Dead at 65",
+          "summary": "Andy Taylor , guitarist and former member of Duran Duran , has died after a yearslong battle with prostate cancer. He was 65 years old.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/andy-taylor-death-duran-duran-guitarist-1236389920/"
+        },
+        {
+          "headline": "Coachella Sues Walmart Over Unauthorized Festival Merch, Citing ‘Willful and Repeated Acts’",
+          "summary": "“Walmart has intentionally created a likelihood of confusion and false association,\" the new lawsuit claims",
           "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/duran-duran-guitarist-andy-taylor-dead-obituary-1234634531/"
+          "url": "https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/"
+        },
+        {
+          "headline": "From Exception to the Norm: The Latin Boom That Redefined LOS40 in Spain, ‘Integrating Naturally’",
+          "summary": "When the team at the LOS40 group of radio stations began defining the lineup for the LOS40 Music Awards Santander 2026, someone asked a seemingly simple question: “Which Spanish artist is going to perform?” What surprised Vicent Argudo, director of music at the parent company Prisa Media, most wasn’t the question itself but the fact that, until that…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/latin-boom-redefines-los40-spain-music-market-1236389915/"
         },
         {
           "headline": "Taylor Swift Uggs Story Sparks Hilarious Memes: ‘She Wears High Heels, I Wear Ugg Boots’",
           "summary": "The internet is having a field day with a new detail revealing the pop star’s middle school shoe choices",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/taylor-swift-ugg-memes-1235664209/"
-        },
-        {
-          "headline": "JO1’s ‘IGNITE’ Tops Japan Hot 100 as Hiromi Ohta’s 1975 Hit ‘Momen no Handkerchief’ Debuts",
-          "summary": "JO1 ‘s “IGNITE” soars to No. 1 on the Billboard Japan Hot 100 chart released Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/chart-beat/jo1-ignite-japan-hot-100-hiromi-ohta-momen-no-handkerchief-1236389887/"
-        },
-        {
-          "headline": "Publishing Briefs: Believe & GL Music Form JV, Gram Parsons to Be Administered by Peermusic",
-          "summary": "Believe Music Publishing and GL Music Entertainment have formed a joint venture, which sees Believe Music Publishing administering GL Music Entertainment’s catalog. GL Music Entertainment was founded by Kim Nowak-Zorde , Daniel Fält and Lasse Lindorff , who also all work as songwriters and producers.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/publishing-briefs-believe-music-publishing-gl-music-entertainment/"
         },
         {
           "headline": "Bradford Cox Reveals Autism Diagnosis",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T16:48:09-05:00"
+  "updatedAt": "2026-11-25T17:11:24-05:00"
 }
