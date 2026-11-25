@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Army detonates toxic bomb-making materials at Iowa plant following delays",
-          "summary": "The Army has started the detonation of nearly five tons of lead azide at an ammunition plant in Iowa.",
+          "headline": "Maps show how far lead dust from Iowa detonation could travel",
+          "summary": "Maps of the planned lead azide detonation in Middletown show the shaded area stretching from near Burlington toward Macon, Missouri, by noon Wednesday. The forecasts will change with the weather.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/maps-show-how-far-lead-dust-from-about-5-tons-of-iowa-explosives-could-spread/"
+        },
+        {
+          "headline": "How Aaron Baker beat the odds",
+          "summary": "A doctor gave him a one-in-a-million chance of feeding himself after an accident. Aaron Baker chose to fight.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/how-aaron-baker-beat-the-odds/"
+        },
+        {
+          "headline": "Army detonates 5-tons of toxic lead materials at Iowa plant following delays",
+          "summary": "The Army detonated nearly five tons of lead azide at an ammunition plant in Iowa.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
         },
         {
-          "headline": "Man and daughter who dumped murdered woman in canal jailed",
-          "summary": "Chereiss Bailey was killed by John Anslow who then, along with his daughter, tried to hide the body.",
+          "headline": "WATCH: Thanksgiving travel rush underway",
+          "summary": "Major airlines already offering travel waivers in the wake of the Thanksgiving travel rush as a collision between a plane and catering truck at JFK airport creates delays.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138435897/"
+        },
+        {
+          "headline": "US stocks fall further as fears over AI intensify",
+          "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq3dg1r3ypvpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Two men charged with trying to steal cufflinks and clock from Royal home",
-          "summary": "The court hears the items from the Sandringham estate are of an unknown value.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Father of camping trip shooting victim says \"there was malicious intent\" in surprise attack",
-          "summary": "Joe Vinson, who was recently elected as a county commissioner in Escambia County, Florida, sat down with Tom Hanson to discuss the fatal shooting of his 19-year-old son Carey, who was on a camping trip with friends.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/father-of-camping-trip-shooting-victim-says-there-was-malicious-intent-in-surprise-attack/"
-        },
-        {
-          "headline": "Breaking down the health impacts of lead exposure amid Iowa detonation",
-          "summary": "Dr. Céline Gounder breaks down the potential health impacts of the Army's planned detonation of explosive lead in Iowa on Wednesday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/breaking-down-the-health-impacts-of-lead-exposure-amid-iowa-detonation/"
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -79,22 +79,92 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125615298959253919",
+          "created_at": "2026-11-25T15:39:13.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Lead azide detonation by the Army in Iowa, filmed from a drone. https://t.co/aoSOyVxYqf",
+          "url": "https://x.com/Osint613/status/2125615298959253919",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125614544936480863",
+          "created_at": "2026-11-25T15:36:14.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IRGC Navy claim: A liquefied gas carrier exploded this evening after switching off its positioning systems on an \"American-Zionist\" route.\n\nHours earlier, an oil tanker caught fire east of the Strait of Hormuz, per Iran's Army Navy.\n\nNot independently confirmed. https://t.co/rhErxeeOvS",
+          "url": "https://x.com/Osint613/status/2125614544936480863",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125614180376199562",
+          "created_at": "2026-11-25T15:34:47.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Well, Hamas says there’s widespread starvation https://t.co/OVBnfGXsCB",
+          "url": "https://x.com/Osint613/status/2125614180376199562",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125613760035573837",
+          "created_at": "2026-11-25T15:33:07.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "President Trump:\n\nEarly reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations. https://t.co/zxL1qDEehE",
+          "url": "https://x.com/Osint613/status/2125613760035573837",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125613055509929995",
+          "created_at": "2026-11-25T15:30:19.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Morgan Stanley's Dan Skelly says this week was capitulation and it's time to \"go on offense in AI right now\"\n\n\"It's a combination of four things\"\n\n\"We've seen hedge fund net longs get to that low 40 point\"\n\n\"Our colleague Brian Nowak has kept his expectations for 75% CapEx growth https://t.co/roTziTQ0zN",
+          "url": "https://x.com/_Investinq/status/2125613055509929995",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125612280968515634",
+          "created_at": "2026-11-25T15:27:14.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS: \"Early reports from Iowa are that the Army’s mitigation efforts have far exceeded expectations.\" https://t.co/nnwAWr2RWl",
+          "url": "https://x.com/RealAmVoice/status/2125612280968515634",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125609956615573530",
+          "created_at": "2026-11-25T15:18:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Bitcoin falls below $57,500 and ETH nears $1,600 as the selloff in crypto gains momentum.\n\nAnother -$500 million worth of levered positions have been liquidated over the last 24 hours. https://t.co/oyvKjyQ9US",
+          "url": "https://x.com/KobeissiLetter/status/2125609956615573530",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125609545107956066",
+          "created_at": "2026-11-25T15:16:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "A visual representation of when Congress says everything is under control.😂",
+          "url": "https://x.com/RealAmVoice/status/2125609545107956066",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2125609053388673085",
           "created_at": "2026-11-25T15:14:24.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
           "text": "Additional footage of a planned, controlled detonation at the Iowa Army Ammunition Plant in Middletown. https://t.co/IdcPBgCOaW https://t.co/Dhj9EuNn2U",
           "url": "https://x.com/Osint613/status/2125609053388673085",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125607926366720367",
-          "created_at": "2026-11-25T15:09:56.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Iowa Ammunition Plant's stockpile of lead azide, 5 tons in total, has just been detonated by the U.S. Army. https://t.co/EDO86n1ltd https://t.co/b9pjA1wnUY",
-          "url": "https://x.com/Osint613/status/2125607926366720367",
           "verified": true,
           "verified_type": "blue"
         },
@@ -107,16 +177,6 @@
           "url": "https://x.com/RealAmVoice/status/2125606837449875504",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125605749308948650",
-          "created_at": "2026-11-25T15:01:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "9,700 pounds of degraded lead azide at the Iowa Army Ammunition Plant is set for a controlled detonation.\n\nWater walls, foam barriers and gel blocks will capture lead particulates. Optional evacuations and shelter-in-place advisories are in effect. https://t.co/a0NlRxPKdr https://t.co/b9pjA1wnUY",
-          "url": "https://x.com/Osint613/status/2125605749308948650",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125605735769977063",
@@ -179,16 +239,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125600397993582827",
-          "created_at": "2026-11-25T14:40:01.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "U.S. Army controlled detonation set for 10 a.m. EST at the Iowa Army Ammunition Plant in Middletown.\n\nA 100,000+ gallon water wall, earth berms and sand-filled blocks are in place to protect nearby residents. https://t.co/uQR8hKBMI1 https://t.co/fr37mmZ8nc",
-          "url": "https://x.com/Osint613/status/2125600397993582827",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125600399361192224",
           "created_at": "2026-11-25T14:40:01.000Z",
           "author_name": "Clay Travis",
@@ -209,32 +259,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125599317071204541",
-          "created_at": "2026-11-25T14:35:43.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Footage: Smoke over Saudi Arabia's Ras Tanura refinery after a Houthi drone attack. https://t.co/CJeWjcA2a1",
-          "url": "https://x.com/Osint613/status/2125599317071204541",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125599060115763420",
           "created_at": "2026-11-25T14:34:42.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "Nothing says Christmas spirit like ruining it for everyone else.🙄",
           "url": "https://x.com/RealAmVoice/status/2125599060115763420",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125598180603838569",
-          "created_at": "2026-11-25T14:31:12.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Investing in America's children is investing in America's future! 🇺🇸",
-          "url": "https://x.com/RealAmVoice/status/2125598180603838569",
           "verified": true,
           "verified_type": "business"
         },
@@ -277,16 +307,6 @@
           "url": "https://x.com/Timcast/status/2125592823953019229",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125591873490194607",
-          "created_at": "2026-11-25T14:06:08.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Trump Accounts hit a MASSIVE $1 BILLION milestone!\n\nTreasury Secretary Scott Bessent announces that more than 3 million Americans have contributed over $1 billion to children’s Trump Accounts.\n\nWith government seed money and philanthropic contributions, total deposits have now https://t.co/ri6axwcVgB",
-          "url": "https://x.com/RealAmVoice/status/2125591873490194607",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125591656829456816",
@@ -369,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125580585972228367",
-          "created_at": "2026-11-25T13:21:17.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Trump Administration proposes new tariffs on 14 major US trading partners following the conclusion of its trade investigations.\n\nProposed tariff rates include:\n\n1. China: 20%, potentially rising to 40%\n2. Vietnam: Up to 35%\n3. India: Up to 25%\n4. Taiwan: Up to 25%",
-          "url": "https://x.com/KobeissiLetter/status/2125580585972228367",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125580453562253755",
           "created_at": "2026-11-25T13:20:46.000Z",
           "author_name": "Tim Pool",
@@ -435,16 +445,6 @@
           "author_handle": "MattWalshBlog",
           "text": "I'm beginning to understand why all the Canadians are euthanizing themselves https://t.co/nDjz7RGGSm",
           "url": "https://x.com/MattWalshBlog/status/2125572185649492132",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125569711903760640",
-          "created_at": "2026-11-25T12:38:05.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "SoftBank just had its worst day since August 2024\n\n$SFTBY shares crashed 14.8% in Tokyo to ¥2,696.5, the biggest one-day drop since the Aug 5, 2024 yen carry trade crash\n\nThe stock is now down 68.8% from its record close of ¥8,632 on June 2\n\nThe AI selloff hit all of Asia https://t.co/Z2EKGByzB0",
-          "url": "https://x.com/_Investinq/status/2125569711903760640",
           "verified": true,
           "verified_type": "blue"
         },
@@ -719,26 +719,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125249779642859578",
-          "created_at": "2026-11-24T15:26:47.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "Bold words from two women who look like Willem Dafoe and John Kerry decided to dress in drag and start a podcast https://t.co/JZfSsp4Hf0",
-          "url": "https://x.com/MattWalshBlog/status/2125249779642859578",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125247855409692869",
-          "created_at": "2026-11-24T15:19:08.000Z",
-          "author_name": "SpaceX",
-          "author_handle": "SpaceX",
-          "text": "All systems are looking good, and weather is favorable for liftoff. Propellant load is about to begin for Falcon 9’s launch of the USSF-266 mission from California → https://t.co/qMTrgf8mHf https://t.co/VhkDom1UBk",
-          "url": "https://x.com/SpaceX/status/2125247855409692869",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125227421477802190",
           "created_at": "2026-11-24T13:57:56.000Z",
           "author_name": "Glenn Beck",
@@ -811,16 +791,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
+          "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html"
+        },
+        {
           "headline": "Wealthy investors seek tax savings from municipal bonds as yields remain elevated",
           "summary": "Done right, bonds can be used to reduce taxes rather than defer them.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/25/wealthy-investors-seek-tax-savings-from-municipal-bonds.html"
-        },
-        {
-          "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-          "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
         },
         {
           "headline": "Stocks plummet as Jensen Huang rebound rally fades",
@@ -847,6 +827,18 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Men’s Basketball Recap: #13 St. John’s",
+          "summary": "LAS VEGAS, NEVADA - NOVEMBER 24: Interim head coach Tony Stubblefield of the Oregon Ducks looks on against the St. John's Red Storm during the first half during the Players Era 16 bracket of The 2026 Players Era Men's Championship at Michelob ULTRA Arena on November 24, 2026 in Las Vegas, Nevada.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/men-basketball-recap-13-st-153000790.html"
+        },
+        {
+          "headline": "Imesha Dulani, Sathya Sandeepani star as Sri Lanka beat Ireland to win Women's Emerging Nations Trophy",
+          "summary": "Sri Lanka produced a commanding all-round performance to defeat Ireland by six wickets and clinch the ICC Women's Emerging Nations Trophy 2026 on Wednesday. Imesha Dulani starred with an unbeaten 44 as Sri Lanka comfortably chased down the 97-run target in just 12.4 overs in the final at the Karwan Sports Club.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/imesha-dulani-sathya-sandeepani-star-152500234.html"
+        },
+        {
           "headline": "Rivalry Week spoiler rankings: Measuring the upset potential facing every ranked team",
           "summary": "With multiple College Football Playoff contenders facing unranked rivals, a chaotic weekend could completely upend the postseason bubble",
           "source": "CBS Sports",
@@ -863,18 +855,6 @@
           "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
-        },
-        {
-          "headline": "No. 22 Gonzaga routs Kansas State 101-61 in Players Era 16 first round",
-          "summary": "Gonzaga dominated Kansas State 101-61 in the opening round of the Players Era 16 tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/22-gonzaga-routs-kansas-state-101-61-players-138433328"
-        },
-        {
-          "headline": "No. 13 St. John's beats Oregon 90-79 in opening round of Players Era 16 tournament",
-          "summary": "Ian Jackson scored 21 points as part of a balanced effort by No. 13 St.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/13-st-johns-beats-oregon-90-79-opening-138433059"
         }
       ]
     },
@@ -919,16 +899,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Miley Cyrus to Accept CNN Heroes Legacy Award to Dolly Parton",
+          "summary": "Dolly Parton, who died this summer at 80, will be honored with a special award at CNN’s 20th annual Heroes All-Star Tribute — and her goddaughter, Miley Cyrus, will be on hand to receive it on the family’s behalf. “The 20th Annual CNN Heroes All-Star Tribute,” which honors everyday people who are making extraordinary contributions […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/miley-cyrus-cnn-heroes-legacy-award-dolly-parton-1236957974/"
+        },
+        {
           "headline": "Russell Brand Rape Conviction Sees Spike in Whistleblowing Reports to U.K. Harassment Watchdog CIISA",
           "summary": "The U.K.’s harassment and bullying watchdog has seen a spike in whistleblowing reports following Russell Brand’s conviction for rape earlier this month. Creative Industries Independent Standards Authority, a voluntary body with support across media and the arts, has said it received over 90 reports since launching its whistleblowing service in June, with…",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/russell-brand-ciisa-reports-spike-1236957913/"
-        },
-        {
-          "headline": "Netflix As The New Cable: From Friend To Foe To Friend Again, How Streamer Became Go-To Source Of Off-Network Revenue & Tune-In Promotion",
-          "summary": "Initially welcomed by legacy media companies as an additional revenue stream for library content to offset the declines in DVD sales, third-party streamers, particularly Netflix, have evolved into a replacement for the depressed off-network syndication business and a viable promotional platform to drum up interest for new season launches on broadcast —…",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-streaming-licensing-off-network-revenue-promotion-1237213705/"
         },
         {
           "headline": "Jenn Kuzmyk Stepping Down From Banff World Media Festival After Nearly A Decade",
@@ -937,10 +917,10 @@
           "url": "https://deadline.com/2026/11/jenn-kuzmyk-stepping-down-banff-world-media-festival-1237233161/"
         },
         {
-          "headline": "Danny McBride Stars in Another Kalshi Ad as Annoying Uncle at Thanksgiving (EXCLUSIVE)",
-          "summary": "Danny McBride has teamed up with Kalshi again, writing and starring in another ad for the prediction market platform. In the one-minute spot, McBride plays a know-it-all uncle at the Thanksgiving dinner table, spewing predictions while his niece fact-checks him with odds on Kalshi.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/danny-mcbride-kalshi-ad-thanksgiving-1236957541/"
+          "headline": "Netflix Only Big Player Not Funding UK’s Independent Bullying & Harassment Complaints Body",
+          "summary": "Netflix is the only major industry player not currently funding the UK’s anonymous whistleblowing service for complaints about bullying and harassment, it has been revealed. The Creative Industries Independent Standards Authority (CIISA) has released its long-expected list of funders and the streamer’s absence is notable, along with a number of talent…",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ciisa-netflix-not-funding-bullying-harassment-body-brand-1237233203/"
         },
         {
           "headline": "‘The Body’ Star Kristina Bogic Just Wanted to Take Care of Anya: “A Lot of Young Women Can Relate”",
@@ -991,16 +971,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Coachella Sues Walmart for Selling Knockoffs at Stores Near Festival: ‘Who Needs the Merch Tent?’",
+          "summary": "Coachella is suing Walmart over accusations that the retail giant has sold fake festival merchandise for years despite repeated demands to stop. In a lawsuit Tuesday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/coachella-sues-walmart-for-selling-knockoffs-near-festival/"
+        },
+        {
           "headline": "The Chicks & Willie Colón Join AI Music Lawsuit Against Suno: ‘Misappropriated Identities’",
           "summary": "The Chicks , Willie Colón and Sam Moore are joining the legal fight against AI music. The trio of acts and their estates were among a slew of artists added Tuesday (Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/pro/the-chicks-willie-colon-join-ai-music-lawsuit-against-suno/"
-        },
-        {
-          "headline": "Josephine Vaccarello on Booking Harry Styles, Artist Residencies & the Future of Concerts | Billboard On The Record",
-          "summary": "From Radio City Music Hall to Madison Square Garden and Sphere, Josephine Vaccarello has had a front-row seat to the evolution of live entertainment. The president of MSG Entertainment and Billboard’s 2026 Touring Executive of the Year joins Billboard On The Record host Kristin Robinson live from the Billboard Live Music Summit to discuss how the…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/video/josephine-vaccarello-booking-harry-styles-artist-residencies/"
         },
         {
           "headline": "Erykah Badu Does “Breezy,” Salutes Elton John on Fallon",
@@ -1023,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T10:15:48-05:00"
+  "updatedAt": "2026-11-25T10:40:34-05:00"
 }
