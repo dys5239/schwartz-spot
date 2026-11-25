@@ -6,10 +6,10 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-          "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+          "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
         },
         {
           "headline": "Has vibe coding made open source the new normal for synths?",
@@ -42,22 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Amid public outcry, all systems go for lead azide blast at Iowa Army base",
-          "summary": "The detonation is set to occur at approximately 9 a.m. CT on Wednesday at the Iowa Army Ammunition Plant in Middletown, according to the Army.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
-        },
-        {
-          "headline": "How American Thanksgiving took root -- and evolved -- in Liberia",
-          "summary": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation. (Image credit: Eddie Raynes)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer"
-        },
-        {
-          "headline": "Stock futures plummet as Jensen Huang rebound rally fades",
-          "summary": "The tech-heavy Nasdaq 100 index is on pace to relinquish earlier gains this week, spurred by the stunning return of Nvidia's CEO.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/"
+          "headline": "Man and daughter who dumped murdered woman in canal jailed",
+          "summary": "Chereiss Bailey was killed by John Anslow who then, along with his daughter, tried to hide the body.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dg1r3ypvpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Trump administration to issue new tariffs on China, EU and others",
@@ -66,10 +54,22 @@
           "url": "https://www.cbsnews.com/news/trump-administration-tariffs-14-trading-partners/"
         },
         {
-          "headline": "WATCH: 'Dancing with the Stars' superfan gets special surprise",
-          "summary": "A lucky superfan receives two tickets to the \"Dancing with the Stars\" live show on Feb. 16, including a behind-the-scenes tour, a meet-and-greet and exclusive merchandise.",
+          "headline": "6 killed in plane crash off Mississippi coast, officials say",
+          "summary": "An investigation is underway after a plane crash off the coast of Mississippi killed six people, according to authorities. Jason Allen reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/6-killed-in-plane-crash-off-mississippi-coast-officials-say/"
+        },
+        {
+          "headline": "Amid public outcry, all systems go for lead azide blast at Iowa Army base",
+          "summary": "The detonation is set to occur at approximately 9 a.m. CT on Wednesday at the Iowa Army Ammunition Plant in Middletown, according to the Army.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138439653/"
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        },
+        {
+          "headline": "Badenoch challenges Burnham over university fees for EU students",
+          "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125599693325406648",
+          "created_at": "2026-11-25T14:37:13.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "haha we are so cooked https://t.co/OZW68uTyYm",
+          "url": "https://x.com/Timcast/status/2125599693325406648",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125599317071204541",
+          "created_at": "2026-11-25T14:35:43.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Footage: Smoke over Saudi Arabia's Ras Tanura refinery after a Houthi drone attack. https://t.co/CJeWjcA2a1",
+          "url": "https://x.com/Osint613/status/2125599317071204541",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125599060115763420",
+          "created_at": "2026-11-25T14:34:42.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Nothing says Christmas spirit like ruining it for everyone else.🙄",
+          "url": "https://x.com/RealAmVoice/status/2125599060115763420",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125598251160055877",
+          "created_at": "2026-11-25T14:31:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Sec. Bessent: “The Iranian regime is a sinking ship. After failing to load a single tanker since Treasury launched Operation Economic Outcast in August, Iran doesn’t have a drop of oil on the water left to sell.” https://t.co/SCApDpvn6B",
+          "url": "https://x.com/Osint613/status/2125598251160055877",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125598180603838569",
+          "created_at": "2026-11-25T14:31:12.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Investing in America's children is investing in America's future! 🇺🇸",
+          "url": "https://x.com/RealAmVoice/status/2125598180603838569",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125598024693072110",
+          "created_at": "2026-11-25T14:30:35.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "The Fed's preferred inflation gauge just moved further away from target, and a December rate hike is now fully priced in\n\nOctober PCE inflation rose to 3.8% year over year, up from 3.7% in September and nearly double the Fed's 2% goal\n\nCore PCE jumped to 3.3% from 3.1%, above the https://t.co/kU18j7Nvjf",
+          "url": "https://x.com/_Investinq/status/2125598024693072110",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125597747227279524",
+          "created_at": "2026-11-25T14:29:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Residents are being urged to shelter in place ahead of a controlled detonation at the Iowa Army Ammunition Plant. A new emergency alert warns: \"EVACUATION IS NO LONGER SAFE OR ADVISED!\" https://t.co/cr4fhmIowu https://t.co/uSOJOm44gw",
+          "url": "https://x.com/Osint613/status/2125597747227279524",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125597567497146524",
+          "created_at": "2026-11-25T14:28:46.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "“Why is the Daily Caller undermining the Trump admin with multiple anti-Trump articles.”\n\nUh you must be new here…\n\nThe Daily Caller @DailyCaller was founded by Tucker Qatarlson and so now most of the people who work there are anti-Trump Jew haters and Islamic sympathizers. https://t.co/dg0ZpANkJb",
+          "url": "https://x.com/LauraLoomer/status/2125597567497146524",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125596837306335681",
+          "created_at": "2026-11-25T14:25:52.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Videos we produced would get flagged as fake news on Facebook by certified fact checkers despite being 100% true\n\nThis happened all the time\n\nThe game was to derank truthful information so it couldnt spread. The process was the punishment https://t.co/PzGL6XF91q",
+          "url": "https://x.com/Timcast/status/2125596837306335681",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125595099497161151",
+          "created_at": "2026-11-25T14:18:58.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Houthi Spokesman Yahya Saree:\n\nThe armed forces reaffirm that the port of Jeddah and all enemy Saudi ports along the Red Sea coast will be targets for our forces if the enemy carries out its threats to bomb the port of Hodeidah.\nWe warn employees, workers and those near these https://t.co/BY3oQND6kb",
+          "url": "https://x.com/Osint613/status/2125595099497161151",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125592823953019229",
           "created_at": "2026-11-25T14:09:55.000Z",
@@ -139,26 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125589444119986420",
-          "created_at": "2026-11-25T13:56:29.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Libyan commander Khalifa Haftar met Erdogan in Ankara. https://t.co/RUtNnoEqE9 https://t.co/nIV4tXCh4I",
-          "url": "https://x.com/Osint613/status/2125589444119986420",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125588856934109396",
-          "created_at": "2026-11-25T13:54:09.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IDF: Na'im Abu Nahal, killed yesterday, was part of the secret circle that held the late Staff Sgt. Oron Shaul in Hamas captivity over the years. https://t.co/iNUErJOlv0",
-          "url": "https://x.com/Osint613/status/2125588856934109396",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125588559100850232",
           "created_at": "2026-11-25T13:52:58.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -209,26 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125584705185571113",
-          "created_at": "2026-11-25T13:37:39.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Polish Foreign Minister Sikorski:\n\nRussia is proposing some new security architecture on the international stage. Of course, we already have the old one, of which Russia is a member: the OSCE.\n\nThere are ten principles of the OSCE. Russia violates all of them.\n\nThen, in effect, https://t.co/oUZ1mfNSz7",
-          "url": "https://x.com/Osint613/status/2125584705185571113",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125583451973709942",
-          "created_at": "2026-11-25T13:32:41.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "PETA activists STORM the stage during a Christmas performance.\n\nThe activists interrupted the holiday production to protest the use of animals in Christian Nativity scenes, sparking outrage over the disruption of a cherished Christmas tradition.\n\nhttps://t.co/OhINjCxB3j",
-          "url": "https://x.com/RealAmVoice/status/2125583451973709942",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125583144338260387",
           "created_at": "2026-11-25T13:31:27.000Z",
           "author_name": "The Kobeissi Letter",
@@ -249,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125581241185612150",
-          "created_at": "2026-11-25T13:23:53.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Round the clock refueling for aircraft in Middle East operations, handled by U.S. Airmen.\n\nCENTCOM https://t.co/9fWymhjCx1",
-          "url": "https://x.com/Osint613/status/2125581241185612150",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125580585972228367",
           "created_at": "2026-11-25T13:21:17.000Z",
           "author_name": "The Kobeissi Letter",
@@ -275,16 +325,6 @@
           "author_handle": "Timcast",
           "text": "Youtube conspired with the Government to suppress dissent https://t.co/vKkd6LZu5c",
           "url": "https://x.com/Timcast/status/2125580453562253755",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125579861750071747",
-          "created_at": "2026-11-25T13:18:25.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "And these same people kept calling us conspiracy theorists and now its all proven\n\nGovernment coordinated with big tech to silence dissent https://t.co/Ri4fxKils7",
-          "url": "https://x.com/Timcast/status/2125579861750071747",
           "verified": true,
           "verified_type": "blue"
         },
@@ -449,26 +489,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125442029773623554",
-          "created_at": "2026-11-25T04:10:43.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Wtf https://t.co/tZKKfxry9K",
-          "url": "https://x.com/Timcast/status/2125442029773623554",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125440622194782343",
-          "created_at": "2026-11-25T04:05:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "California AG Rob Bonta says no amount of therapy sessions or all-hands meetings changes whether Nvidia broke the law\n\n\"What's done is done. If the law is broken, the law has been broken, no matter how many therapy sessions you go to or commit to, how many all-hands meetings that https://t.co/Pe8n6B91Ze",
-          "url": "https://x.com/_Investinq/status/2125440622194782343",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125434088093868048",
           "created_at": "2026-11-25T03:39:09.000Z",
           "author_name": "SightBringer",
@@ -539,16 +559,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125408126920749411",
-          "created_at": "2026-11-25T01:56:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "COLLEGE SPORTS SHOCKER: SEC WEIGHS OUSTING LSU\n\n@slickricksports reports that LSU could lose more than a shot at the College Football Playoff — it could lose its place in the SEC altogether.\n\nConference leaders are set to vote December 3 on LSU’s membership following controversy https://t.co/PlGTsXKtMi",
-          "url": "https://x.com/RealAmVoice/status/2125408126920749411",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125406391179358276",
           "created_at": "2026-11-25T01:49:06.000Z",
           "author_name": "Clay Travis",
@@ -565,16 +575,6 @@
           "author_handle": "LauraLoomer",
           "text": "Just wait till you see who swears Abdul El-Sayed in on the Quran. \n\nWill be interesting to see the GOP reaction when this happens.",
           "url": "https://x.com/LauraLoomer/status/2125401966876495908",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125393415214928368",
-          "created_at": "2026-11-25T00:57:32.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Nobody voted for socialized medicine.\n\nNobody voted for our country to be subverted by the CCP.\n\nNobody voted for entertaining amnesty. \n\nNobody voted for Islamic supremacy. \n\nNobody voted for poor vetting. \n\nNobody voted for a lack of accountability. \n\nNobody voted for unchecked",
-          "url": "https://x.com/LauraLoomer/status/2125393415214928368",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,16 +765,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO",
+          "summary": "Jensen Huang's comeback as Nvidia CEO came after a weekend of strategizing by Trump administration officials, who offered assurances to the company.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/"
+        },
+        {
           "headline": "Kilmar Abrego Garcia leaves U.S. and arrives in Spain",
           "summary": "Kilmar Abrego Garcia, the El Salvador native who was mistakenly deported last year, left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
-        },
-        {
-          "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
-          "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/"
         },
         {
           "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-          "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
+          "headline": "Trump open to pardoning Jensen Huang if needed: NY Post",
+          "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html"
+          "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
         },
         {
-          "headline": "Our top 10 things to watch in the stock market Wednesday",
-          "summary": "We're headed for a sharply lower open on Wall Street.",
+          "headline": "Budget carrier Norse Atlantic falls 78% after warning its finances are ‘critical’ amid soaring fuel costs",
+          "summary": "The Norwegian low-cost carrier said its situation is dependent on securing financing for its short-term liquidity needs.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/11/25/our-top-10-things-to-watch-in-the-stock-market-wednesday.html"
+          "url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html"
         },
         {
           "headline": "Eurostar cancels Paris-London trains after staff go on unannounced strike",
@@ -837,34 +837,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bailey, Wilson, And Smith Lead Jets To Victory Over Chargers",
-          "summary": "Vincent Carchietta-Imagn Images The New York Jets secured a 27-24 victory over the Los Angeles Chargers on Sunday at SoFi Stadium, ending a five-game losing streak in the process. This win provided a rare moment of celebration for a team that has struggled throughout the 2026 season.",
+          "headline": "Josh Downs shares what Travis Kelce is doing to help him during games for the Chiefs",
+          "summary": "Photo by Scott Winters/Icon Sportswire via Getty Images Josh Downs has proven to be a solid addition to the Kansas City Chiefs, having racked up over 50 receiving yards in each of his opening two games. The wide receiver will need to fully earn the trust of quarterback Patrick Mahomes, but he is certainly on the right track.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bailey-wilson-smith-lead-jets-140806363.html"
+          "url": "https://sports.yahoo.com/nfl/articles/josh-downs-shares-travis-kelce-141754487.html"
         },
         {
-          "headline": "Potts delivers career-night in Nebraska's 100-56 win over Kansas City",
-          "summary": "Nebraska women's basketball (7-0) returned to Lincoln Tuesday night for a game against Kansas City (3-5). The Huskers dominated the matchup, toppling the Roos, 100-56.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/potts-delivers-career-night-nebraskas-140226522.html"
-        },
-        {
-          "headline": "Prisco's Week 12 NFL picks: Packers edge Rams, Cowboys feast on Eagles, Bills win thriller over Chiefs",
-          "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/"
-        },
-        {
-          "headline": "Rueben Chinyelu comes up big and No. 3 Florida escapes with a 76-67 win against Milwaukee",
-          "summary": "Rueben Chinyelu posted his first double-double this season and made the first 3-pointer of his college career as No. 3 Florida escaped with a 76-67 victory against Milwaukee",
+          "headline": "Baylor holds off No. 15 Alabama 68-63 in Las Vegas to snap 16-game skid against AP Top 25 opponents",
+          "summary": "Kayden Mingo scored 19 points and Baylor held off a late charge by No. 15 Alabama to win 68-63 in the opening round of the Players Era 16 tournament",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/rueben-chinyelu-big-3-florida-escapes-76-67-138429391"
+          "url": "https://abcnews.com/Sports/wireStory/baylor-holds-off-15-alabama-68-63-las-138432821"
         },
         {
-          "headline": "Vartiainen has 13 points, UC Santa Barbara beats UNC Greensboro 85-65",
-          "summary": "Viljami Vartiainen’s 13 points help UC Santa Barbara defeat UNC Greensboro 85-65",
+          "headline": "No. 22 Gonzaga routs Kansas State 101-61 in Players Era 16 first round",
+          "summary": "Gonzaga dominated Kansas State 101-61 in the opening round of the Players Era 16 tournament",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/vartiainen-13-points-uc-santa-barbara-beats-unc-138432189"
+          "url": "https://abcnews.com/Sports/wireStory/22-gonzaga-routs-kansas-state-101-61-players-138433328"
+        },
+        {
+          "headline": "All-Pro Edge Rusher Micah Parsons Cleared To Return For Packers Against Rams",
+          "summary": "The Green Bay Packers are finally getting an All-Pro defender back, as Micah Parsons was fully cleared to return from the knee injuries that have cost him nearly a year, per NFL Network . Parsons had stopped short Monday of declaring himself good to go for the Green Bay Packers' Wednesday night matchup with the Los Angeles Rams, but the All-Pro edge…",
+          "source": "FOX News Sports",
+          "url": "https://www.foxnews.com/sports/green-bay-packers-micah-parsons-knee-injury-surgery"
+        },
+        {
+          "headline": "No. 13 St. John's beats Oregon 90-79 in opening round of Players Era 16 tournament",
+          "summary": "Ian Jackson scored 21 points as part of a balanced effort by No. 13 St.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/13-st-johns-beats-oregon-90-79-opening-138433059"
         }
       ]
     },
@@ -915,7 +915,7 @@
           "url": "https://deadline.com/2026/11/streamer-negotiation-equity-actors-union-contracts-next-year-1237227832/"
         },
         {
-          "headline": "‘Saint-Pierre’ Is The High-Rating Canadian Cop Series Proving Small-Island Sentiment Can Provide The Drama",
+          "headline": "‘Saint-Pierre’ Is The High-Rating Canadian Cop Series Proving Small Island Life Can Provide The Drama",
           "summary": "Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films killing it in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/saint-pierre-canada-cbc-global-breakouts-1237230077/"
@@ -969,10 +969,10 @@
           "url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/"
         },
         {
-          "headline": "Bela Bajaria Reflects on Her Netflix Experience and Says ‘Stay Tuned’ at International Emmy Awards",
-          "summary": "Former Netflix executive Bela Bajaria put the emphasis on her belief in the transformative power of storytelling while accepting the Founders Award Monday night at the International Emmy Awards in New York. Bajaria was ousted from her role as chief content officer of Netflix in a very public fashion last month amid a larger shake-up […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/bela-bajaria-netflix-stay-tuned-international-emmy-awards-1236956315/"
+          "headline": "“Alarming” Diversity Backtrack Happening In Film and TV Industry In Canada, Report Finds",
+          "summary": "Despite homegrown hits like 'Heated Rivalry' and 'North of North,' the Writers Guild of Canada warns “key barriers” to future work stand in the way of new diverse members joining its ranks.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/diverse-canadian-writers-struggling-1236762221/"
         }
       ]
     },
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T09:18:49-05:00"
+  "updatedAt": "2026-11-25T09:41:09-05:00"
 }
