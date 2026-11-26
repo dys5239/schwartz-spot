@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
           "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
           "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
           "source": "TechCrunch",
@@ -22,12 +28,6 @@
           "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table"
-        },
-        {
-          "headline": "FCC approves SpaceX plan to put AI data centers in space",
-          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
         },
         {
           "headline": "How people use AI agents to handle annoying tasks and save money",
@@ -48,6 +48,18 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
+          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
+          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
+          "headline": "Trump claims \"fake economic numbers\" were released before election",
+          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
+        },
+        {
           "headline": "Bands drum up support so the show goes on for postponed Macy's Thanksgiving parade",
           "summary": "Bands from across the country are drumming up support to stay in New York City through the weekend for the now-postponed 100th Macy's Thanksgiving Day Parade.",
           "source": "ABC News",
@@ -58,18 +70,6 @@
           "summary": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
-          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
-        },
-        {
-          "headline": "Germany arrests 2 Iraqis allegedly tied to Iran-linked terror group",
-          "summary": "German police arrested two Iraqi men alleged to be members of an Iran-linked terrorist organization​ that is said to have targeted U.S., Israeli and Jewish institutions in Europe.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/germany-arrests-iraqi-iran-linked-terror-suspects/"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126046585809469706",
+          "created_at": "2026-11-26T20:13:00.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Empires rise and fall. Consensus shifts. Models break. \n\nThe signal remains. \n\nI remain with it.",
+          "url": "https://x.com/_The_Prophet__/status/2126046585809469706",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126046022514217256",
+          "created_at": "2026-11-26T20:10:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Fox News: North Korea has halted missile shipments to Russia for now amid tensions over South Korea, Ukrainian intelligence says.",
+          "url": "https://x.com/Osint613/status/2126046022514217256",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126045116624216127",
+          "created_at": "2026-11-26T20:07:10.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "❤️❤️ Happy Thanksgiving! ❤️❤️",
+          "url": "https://x.com/elonmusk/status/2126045116624216127",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126044299729248569",
+          "created_at": "2026-11-26T20:03:55.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran FM on Iran attack on Kuwait:\n\n“The incident is suspicious and looks like a precooked recipe for war.”",
+          "url": "https://x.com/Osint613/status/2126044299729248569",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126043337098400208",
+          "created_at": "2026-11-26T20:00:06.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TRUE HISTORY RECLAIMED, MARXISM THREATENS FREEDOM | AMERICAS VOICE LIVE https://t.co/NNMnxK3xuo",
+          "url": "https://x.com/RealAmVoice/status/2126043337098400208",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126040859498160208",
+          "created_at": "2026-11-26T19:50:15.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Former Deputy Treasury Secretary Michael Faulkender says there's no reason for a 50 basis point Fed hike and expects November CPI energy to turn negative\n\n\"I don't think that there's any reason for a 50 basis point increase\"\n\n\"There are still too many Keynesians and Phillips https://t.co/OmowS91fUP",
+          "url": "https://x.com/_Investinq/status/2126040859498160208",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126039382658555929",
           "created_at": "2026-11-26T19:44:23.000Z",
@@ -169,16 +229,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126029287186702455",
-          "created_at": "2026-11-26T19:04:16.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iranian FM Abbas Araghchi denies Tehran was behind the drone attack on a Kuwaiti air defense site.\n\nTwo Italian technicians from Rheinmetall were killed. A Kuwaiti and a Pakistani national were injured.\n\nKuwait's Defence Ministry and Italy's Foreign Minister both pin the strike",
-          "url": "https://x.com/Osint613/status/2126029287186702455",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126028640823488954",
           "created_at": "2026-11-26T19:01:42.000Z",
           "author_name": "OutKick",
@@ -187,16 +237,6 @@
           "url": "https://x.com/Outkick/status/2126028640823488954",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126028453140894010",
-          "created_at": "2026-11-26T19:00:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Europa League match between Israel's Hapoel Be'er Sheva and Türkiye's Beşiktaş in Batumi, Georgia, has resumed after UEFA suspended it over severe crowd unrest. Play stopped when a scuffle between players triggered anti-Israel chants in the stands, and both teams walked off. https://t.co/05e2zNqUxT",
-          "url": "https://x.com/Osint613/status/2126028453140894010",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126028305103044917",
@@ -255,16 +295,6 @@
           "author_handle": "KobeissiLetter",
           "text": "Demand for corporate default protection is rapidly rising.\n\nCumulative trading volume in US corporate credit default swap (CDS) indexes is up to a record $9.6 trillion so far in 2026.\n\nThis already surpasses the full-year 2025 record of $9.0 trillion and exceeds the full-year https://t.co/cr56PUvjjz",
           "url": "https://x.com/KobeissiLetter/status/2126022743519101369",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126019404358123847",
-          "created_at": "2026-11-26T18:25:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BIGGEST HOLIDAY DEBATE: PECAN PIE OR PUMPKIN PIE?\n\nWhich team are you? Drop it in the comments...\n\nRecounting this memory with @charliekirk11 and @JackPosobiec 🥧🥧 https://t.co/vaf3ZG3mBC",
-          "url": "https://x.com/RealAmVoice/status/2126019404358123847",
           "verified": true,
           "verified_type": "business"
         },
@@ -355,16 +385,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️ https://t.co/lx9naIeXED https://t.co/NvAeS8TDpm",
           "url": "https://x.com/_The_Prophet__/status/2126004402763051375",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125999302925578533",
-          "created_at": "2026-11-26T17:05:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Joe Terranova says the market is \"prioritizing liquidity\" right now, and that makes it \"nearly impossible for the neoclouds to go out and raise capital\"\n\n\"The market wants the liquidity. That's what I see in front of me\"\n\n\"I've been wrong on my market calls for the last 30 days\" https://t.co/V0puj19eAH",
-          "url": "https://x.com/_Investinq/status/2125999302925578533",
           "verified": true,
           "verified_type": "blue"
         },
@@ -539,16 +559,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125858270296285463",
-          "created_at": "2026-11-26T07:44:42.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Hard to believe this finally happened https://t.co/427CZqEEZY",
-          "url": "https://x.com/elonmusk/status/2125858270296285463",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125782865455751359",
           "created_at": "2026-11-26T02:45:04.000Z",
           "author_name": "Matt Walsh",
@@ -619,16 +629,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125719171334095311",
-          "created_at": "2026-11-25T22:31:59.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️I'm Tony Montana. 😂 https://t.co/aDokRX55HZ",
-          "url": "https://x.com/_The_Prophet__/status/2125719171334095311",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125707395691430008",
           "created_at": "2026-11-25T21:45:11.000Z",
           "author_name": "Matt Walsh",
@@ -655,16 +655,6 @@
           "author_handle": "glennbeck",
           "text": "Thanksgiving feels a little different this year. It’s kind of hard to focus on prepping a turkey when doomsday could strike at any moment. \n\nBut your oven’s still working. You have water for the incoming piles of dishes. And you’ve probably already done the shopping, right? https://t.co/C8pIR80mw0",
           "url": "https://x.com/glennbeck/status/2125690742635221165",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125679436636766488",
-          "created_at": "2026-11-25T19:54:05.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Turkey is overrated. Cranberries don't get the credit they deserve. Mashed potatoes are basically Rutgers.\n\nSport &amp; State staffers gave their most overrated and underrated Thanksgiving dishes. No food was safe.\nhttps://t.co/L0Bncr3dL3",
-          "url": "https://x.com/SportNState/status/2125679436636766488",
           "verified": true,
           "verified_type": "blue"
         },
@@ -857,10 +847,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Pop Isaacs scores 17 points, Oklahoma beats Purdue 70-63 at Fort Myers Tip-Off",
-          "summary": "FORT MYERS, Fla. (AP) — Pop Isaacs made 7 of 9 from the field and finished with 17 points, five rebounds and five assists to help Oklahoma beat Purdue 70-63 on Thursday at the Fort Myers Tip-Off - Beach Division.",
+          "headline": "Milan fight back to beat Olympiacos in Europa League",
+          "summary": "FILE PHOTO - The UEFA Europa League logo is pictured at the Europa-Park Stadium. (is associated with: «Milan fight back to beat Olympiacos in Europa League») Harry Langer/dpa AC Milan produced a second-half fightback from 2-0 down to beat Olympiacos 4-2 in Piraeus and kick-start their Europa League campaign.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/pop-isaacs-scores-17-points-193035041.html"
+          "url": "https://sports.yahoo.com/soccer/articles/milan-fight-back-beat-olympiacos-200341743.html"
+        },
+        {
+          "headline": "Five things we learned from Barcelona’s 4-1 win over Sabah in the Champions League",
+          "summary": "Barcelona secured their fourth victory in the league phase of the UEFA Champions League last night, beating Sabah 4-1 away in Baku. The game was a real eye-opener for Hansi Flick for multiple reasons, including the performances of new summer signings as well as the debut of Alex Campos, among others.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/five-things-learned-barcelona-4-200000639.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -869,22 +865,16 @@
           "url": "https://abcnews.com/Sports/wireStory/montana-state-takes-northwest-indian-110-43-138462338"
         },
         {
-          "headline": "Stokes, Esso-Essis lead UC Davis to 80-78 OT win over Omaha",
-          "summary": "Jalen Stokes scored 24 points and Ylan Esso-Essis added five points in the overtime as UC Davis beat Omaha 80-78 on Wednesday",
+          "headline": "Avdija, Lillard lead Trail Blazers to 116-111 win over Spurs in NBA Cup play",
+          "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
+          "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
         },
         {
-          "headline": "De'Anthony Melton scores 24 points, matches career high with eight 3s as Warriors beat Kings 129-110",
-          "summary": "De’Anthony Melton scored 24 points and matched his career high with eight 3-pointers and the Golden State Warriors made 20 total 3s on the way to beating the Sacramento Kings 129-110 in an NBA Cup game",
+          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
+          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/deanthony-melton-scores-24-points-matches-career-high-138462716"
-        },
-        {
-          "headline": "Leverkusen return to winning ways in Europe with comfortable victory in Zagreb",
-          "summary": "Bayer Leverkusen momentarily climbed to second in the Europa League standings after their comfortable win at GNK Dinamo Zagreb. Die Werkself have won four of their first five games in the competition as they only conceded a goal in their narrow defeat to Lyon.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/leverkusen-return-winning-ways-europe-193700704.html"
+          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
         }
       ]
     },
@@ -892,6 +882,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Jessy Moussallem’s ‘Faux Bijoux,’ Laila Abbas’ ‘America Is Behind the Door’ Take Top Prizes at Marrakech’s Atlas Workshops",
+          "summary": "Jessy Moussallem’s “Faux Bijoux” and Laila Abbas’ “America Is Behind the Door” claimed the top post-production and development prizes, respectively, at this year’s Atlas Workshops, the industry strand running Nov. 22 – 26 as part of the Marrakech Film Festival.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/"
+        },
         {
           "headline": "Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’",
           "summary": "Billy Evans, Elizabeth Holmes’ partner and the father of their two children, took to X on Nov. 26 to write an emotional Thanksgiving message to her.",
@@ -915,12 +911,6 @@
           "summary": "Mark Tildesley, the acclaimed British production designer who worked on major titles including the most recent James Bond movie “No Time to Die,” has died. He was 63.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968/"
-        },
-        {
-          "headline": "Get Ready for the Great Asterix Film Festival and Three Restored ‘Asterix’ Animated Movies!",
-          "summary": "StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/"
         }
       ]
     },
@@ -989,10 +979,10 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
-          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
-          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
+          "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
+          "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
         }
       ]
     },
@@ -1033,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T14:47:20-05:00"
+  "updatedAt": "2026-11-26T15:20:01-05:00"
 }
