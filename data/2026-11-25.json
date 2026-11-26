@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Macy's Thanksgiving Day parade postponed for weather for 1st time in 100-year history",
+          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
+        },
+        {
           "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
           "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
           "source": "CBS News",
@@ -52,12 +58,6 @@
           "summary": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
-        },
-        {
-          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
-          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
         },
         {
           "headline": "UK government set to publish new treaties agreed with EU",
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125809348912009694",
+          "created_at": "2026-11-26T04:30:19.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Former CBO Director Douglas Holtz-Eakin says a 50 basis point hike would send the message that \"this Fed is not going to wait three more years to get back to the target\"\n\n\"This is an excessively demand-driven economy\"\n\n\"If you look at nominal GDP growth, so prices plus output, it https://t.co/zO2LPjRRds",
+          "url": "https://x.com/_Investinq/status/2125809348912009694",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125806622270517750",
+          "created_at": "2026-11-26T04:19:28.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Jordan Love trying to get that Subway endorsement  https://t.co/rEp4Cq1QRe",
+          "url": "https://x.com/Outkick/status/2125806622270517750",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125804760053989735",
           "created_at": "2026-11-26T04:12:04.000Z",
@@ -177,16 +197,6 @@
           "url": "https://x.com/_Investinq/status/2125779100543697382",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125778449851941204",
-          "created_at": "2026-11-26T02:27:32.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Gonna pull this one out when I sack my brother-in-law in backyard football tomorrow  https://t.co/riSG1WQ8jh",
-          "url": "https://x.com/Outkick/status/2125778449851941204",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125774119023038803",
@@ -325,16 +335,6 @@
           "author_handle": "Timcast",
           "text": "I hate FedEx",
           "url": "https://x.com/Timcast/status/2125745504843595960",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125745128530948101",
-          "created_at": "2026-11-26T00:15:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Dan Ives says the AI selloff is \"a 97 moment,\" not a 1999 bubble, with $3 to $4 trillion of capex still coming\n\n\"Even with that, demand supply is 8 to 1, 10 to 1\"\n\n\"We're not done. We're less than call it 5% of enterprises have gone down the AI path\"\n\n\"This is not a 99, 2000 https://t.co/m2bFXjiu4g",
-          "url": "https://x.com/_Investinq/status/2125745128530948101",
           "verified": true,
           "verified_type": "blue"
         },
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Hedge funds are no longer just for the rich. They’re wooing everyday investors",
+          "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html"
+        },
+        {
           "headline": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
           "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
-        },
-        {
-          "headline": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-          "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
         },
         {
           "headline": "Trump blames volatile stock market on midterm election results",
@@ -837,16 +837,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "No. 2 Virginia beats Marquette after 90-minute delay due to a leaky roof in Bahamas",
-          "summary": "NASSAU, Bahamas (AP) — Johann Grunloh scored 14 points, Elijah Gertrude made a key 3-pointer with 2:32 remaining and No. 2 Virginia beat Marquette 60-54 on Wednesday in the opening game of the Battle 4 Atlantis that was delayed for over 90 minutes due to leaky roof at Imperial Arena .",
+          "headline": "Rams shut down Packers in second half for a 26-13 win in NFL's first Thanksgiving Eve game",
+          "summary": "The Rams and Packers played to a tie in the first 30 minutes of Wednesday night's game in Los Angeles, but the second half was all Rams. Blake Corum ran for 151 yards and a score in final 30 minutes and the Rams defense shut out the Packers to pave the way to a 26-13 win.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-2-virginia-beats-marquette-035015008.html"
+          "url": "https://sports.yahoo.com/nfl/articles/rams-shut-down-packers-second-043048414.html"
         },
         {
-          "headline": "Capitals Glide Past Flyers, 7-3, End Losing Skid",
-          "summary": "The Washington Capitals ended their five game skid Wednesday evening, taking down the Philadelphia Flyers , 7-3, in a critical game to start the second quarter of the season. Despite an early lapse, the Capitals took control and Logan Thompson stood tall in net — allowing just one goal from the second through the 59th minute of the contest.",
+          "headline": "What Patriots Fans Can Be Thankful for This Thanksgiving, Even at 5-5",
+          "summary": "originally appeared on NESN . Add NESN as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nhl/articles/capitals-glide-past-flyers-7-034950054.html"
+          "url": "https://sports.yahoo.com/nfl/articles/patriots-fans-thankful-thanksgiving-even-043045842.html"
+        },
+        {
+          "headline": "Hicke, O’Keefe lead Princeton past Liberty 79-72",
+          "summary": "Jackson Hicke scored 15 points and Princeton knocked off Liberty 79-72",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/hicke-okeefe-lead-princeton-past-liberty-79-72-138455693"
         },
         {
           "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
@@ -855,16 +861,10 @@
           "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
         },
         {
-          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
-          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
+          "headline": "No. 20 LSU moves to 7-0, rallies to beat Arizona State 94-92 in 2OT",
+          "summary": "Donovan Dent scored 20 points to go with 12 assists, and undefeated and 20th-ranked LSU rallied from a 12-point deficit to beat Arizona State 94-92 in double-overtime on Wednesday in the Acrisure Series",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
-        },
-        {
-          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
-          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
+          "url": "https://abcnews.com/Sports/wireStory/20-lsu-moves-7-0-rallies-beat-arizona-138454761"
         }
       ]
     },
@@ -915,12 +915,6 @@
           "url": "https://variety.com/2026/tv/news/south-park-season-29-finale-gta-6-billionares-spies-1236958735/"
         },
         {
-          "headline": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
-          "summary": "No matter how many hits and tricks U2 pulled out of the hat at L.A.’s SoFi Stadium, today’s Bono Bowl on Netflix was always going to live in the shadow of the streamer’s square dancing filled Beyoncé Bowl from Christmas Day 2024. Accepting the inevitable, the elder statesmen of anthem rock took their halftime spin […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/"
-        },
-        {
           "headline": "Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report",
           "summary": "The global microdrama business is booming, but outside of China, where ByteDance rules the roost, profits haven’t yet caught with revenues. That’s according to a Media Partners Asia (MPA) report, which reveals revenues on a global basis are estimated to rise 24% year-on-year to hit $20B in 2026, and that will hit $32B by 2031, […]",
           "source": "Deadline",
@@ -931,6 +925,12 @@
           "summary": "Former FTX COO Constance Wang is calling out Netflix’s “The Altruists.” Wang took to social media on Wednesday to respond to whether the streamer had consulted her about what she describes as a “very stereotypical” portrayal of her by actress Madison Hu. “People have asked whether Netflix consulted me.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/ftx-constance-wang-slams-altruists-portrayal-racist-netflix-1236958694/"
+        },
+        {
+          "headline": "Ms. Rachel Explains How Mr. Rogers’ “Radical” Programming Inspired Her: “A Huge Responsibility”",
+          "summary": "As Ms. Rachel continues her mission-driven work, she’s crediting the “radical” influence of Mr.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/ms-rachel-mr-rogers-radical-programming-inspired-her-1237233868/"
         },
         {
           "headline": "Will Ferrell’s Netflix Golf Comedy ‘The Hawk’ Canceled After One Season",
@@ -987,6 +987,12 @@
           "url": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/"
         },
         {
+          "headline": "U2 Wind Back the Years With Classics, Dolly Parton Tribute for Thanksgiving Eve NFL Halftime Show",
+          "summary": "Cometh the hour, cometh U2 . The legendary Irish rock band, as they’ve done so often in the past, stepped into the cauldron, rocked out, and gave everyone what they were looking for.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/u2-dolly-parton-tribute-thanksgiving-eve-nfl-halftime-show-1236390070/"
+        },
+        {
           "headline": "King Crimson Co-Founder Michael Giles Dies at 84",
           "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King",
           "source": "Pitchfork",
@@ -999,12 +1005,6 @@
           "url": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/"
         },
         {
-          "headline": "U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts",
-          "summary": "U2 ’s latest studio album Carnaval de Luz makes a splash on the Billboard charts as the set launches in the top 10 on seven rankings (dated Nov. 28) – including No.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/"
-        },
-        {
           "headline": "Duran Duran’s Andy Taylor Dies at 65",
           "summary": "The guitarist was diagnosed with prostate cancer in 2018",
           "source": "Pitchfork",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T23:15:16-05:00"
+  "updatedAt": "2026-11-25T23:47:35-05:00"
 }
