@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
-          "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+          "headline": "FedEx cargo plane runs off MIA runway, causing brief ground stop",
+          "summary": "The National Transportation Safety Board said it was investigating the incident.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+          "url": "https://www.cbsnews.com/news/miami-international-airport-ground-stop-fedex-md-11-runway-excursion-faa/"
         },
         {
-          "headline": "Huw Edwards gives first interviews since child abuse image conviction",
-          "summary": "The disgraced ex-BBC News presenter will appear in a TV documentary, newspaper interview and podcast.",
+          "headline": "Burnham joined by former PMs at Ann Widdecombe service",
+          "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Scotland's chief medical officer Gregor Smith resigns on mental health grounds",
-          "summary": "Sir Gregor Smith said he was unable to continue with the \"exceptional challenges\" his role demands.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm5y108evd7qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Maps show where Thanksgiving storms are disrupting holiday plans",
-          "summary": "Rain, snow and powerful winds were affecting large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
+          "headline": "Elon Musk doubles SpaceX share pledge for U.S. children",
+          "summary": "Every child in the U.S. will receive one share of SpaceX from the company and one from Elon Musk.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/"
+          "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
+        },
+        {
+          "headline": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Iran live updates: Iranian drone attack killed 2 Italians, Kuwait says",
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126022765056848283",
+          "created_at": "2026-11-26T18:38:21.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "$SAP is preparing to cut at least 10,000 jobs to rebuild its software business for the AI era, per Bloomberg\n\nThat would be at least 9% of the more than 110,000 people Europe's most valuable software company employs worldwide\n\nEvery department has been asked to find cuts, with https://t.co/114M9YBH2L",
+          "url": "https://x.com/_Investinq/status/2126022765056848283",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126022743519101369",
+          "created_at": "2026-11-26T18:38:16.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Demand for corporate default protection is rapidly rising.\n\nCumulative trading volume in US corporate credit default swap (CDS) indexes is up to a record $9.6 trillion so far in 2026.\n\nThis already surpasses the full-year 2025 record of $9.0 trillion and exceeds the full-year https://t.co/cr56PUvjjz",
+          "url": "https://x.com/KobeissiLetter/status/2126022743519101369",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126019404358123847",
+          "created_at": "2026-11-26T18:25:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BIGGEST HOLIDAY DEBATE: PECAN PIE OR PUMPKIN PIE?\n\nWhich team are you? Drop it in the comments...\n\nRecounting this memory with @charliekirk11 and @JackPosobiec 🥧🥧 https://t.co/vaf3ZG3mBC",
+          "url": "https://x.com/RealAmVoice/status/2126019404358123847",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126018359947112515",
+          "created_at": "2026-11-26T18:20:51.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
+          "url": "https://x.com/_Investinq/status/2126018359947112515",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126014874807423231",
           "created_at": "2026-11-26T18:07:00.000Z",
@@ -209,16 +249,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126006318586646741",
-          "created_at": "2026-11-26T17:33:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "HALF THE PILGRIMS DIED BEFORE THE FIRST THANKSGIVING!\n\nStarvation. Disease. Bitter cold. Families torn apart.\n\nBy the spring of 1621, nearly HALF of the Mayflower passengers were dead. Those who survived faced unimaginable hardship, relying on faith, determination, and help from https://t.co/q9aGIdY35J",
-          "url": "https://x.com/RealAmVoice/status/2126006318586646741",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126006295572721881",
           "created_at": "2026-11-26T17:32:54.000Z",
           "author_name": "Open Source Intel",
@@ -319,16 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125991227694956800",
-          "created_at": "2026-11-26T16:33:02.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Huawei is about to unveil an AI memory chip with twice the data pins of anything Samsung and SK Hynix mass produce today\n\nThe Shenzhen company is set to present a custom HBM design with 64 channels and a 4,096-bit interface at the ISSCC chip conference in San Francisco on https://t.co/R7ZBpciBpS",
-          "url": "https://x.com/_Investinq/status/2125991227694956800",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125990467653222506",
           "created_at": "2026-11-26T16:30:01.000Z",
           "author_name": "OutKick",
@@ -367,16 +387,6 @@
           "url": "https://x.com/KobeissiLetter/status/2125983454097543386",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125983257540092328",
-          "created_at": "2026-11-26T16:01:22.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Wharton's Jeremy Siegel says Nasdaq futures just put in a double bottom, hitting last Friday's low and bouncing \"very rigorously\"\n\n\"In my younger days, I was kind of an amateur chartist\"\n\n\"To have 28% year-over-year gains in the middle of an economic expansion is unprecedented\" https://t.co/KH8xOiGkjC",
-          "url": "https://x.com/_Investinq/status/2125983257540092328",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125980206053708183",
@@ -447,16 +457,6 @@
           "url": "https://x.com/elonmusk/status/2125877031816630636",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125867873218470307",
-          "created_at": "2026-11-26T08:22:52.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Elon Musk says SpaceX, $SPCX, will be matching his 1 share donation to every child in America. https://t.co/euRhagXKX1",
-          "url": "https://x.com/KobeissiLetter/status/2125867873218470307",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125867631546712066",
@@ -812,15 +812,15 @@
       "stories": [
         {
           "headline": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-          "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a historic mistake, claiming that it should be \"immediately investigated.\"",
+          "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
         },
         {
-          "headline": "Semiconductor chips are the new oil. Here's why",
-          "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+          "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+          "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+          "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
         },
         {
           "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
@@ -847,34 +847,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Caleb Martin’s Hot Shooting Stuns Mavericks Fans",
+          "summary": "Ron Chenoy-Imagn Images The forward went from a player many wanted to see gone to a starter the team cannot live without. This surge comes after a rough start where he struggled to find his rhythm.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/articles/caleb-martin-hot-shooting-stuns-181742967.html"
+        },
+        {
+          "headline": "Lions edge rusher DJ Wonnum, safety Chuck Clark and Bears DB Kyler Gordon inactive with injuries",
+          "summary": "DETROIT (AP) — The Detroit Lions were down two more starters on defense and Chicago missed one starter on that side of the ball in their matchup on Thanksgiving with first place in the NFC North at stake. Detroit edge rusher DJ Wonnum (back) and safety Chuck Clark (hamstring) were ruled out on Thursday as well as Chicago defensive back Kyler Gordon…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/lions-edge-rusher-dj-wonnum-180933821.html"
+        },
+        {
           "headline": "Montana State takes down Northwest Indian 110-43",
           "summary": "DJ Johnson scored 16 points as Montana State beat Northwest Indian 110-43",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/montana-state-takes-northwest-indian-110-43-138462338"
         },
         {
-          "headline": "Avdija, Lillard lead Trail Blazers to 116-111 win over Spurs in NBA Cup play",
-          "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
+          "headline": "Stokes, Esso-Essis lead UC Davis to 80-78 OT win over Omaha",
+          "summary": "Jalen Stokes scored 24 points and Ylan Esso-Essis added five points in the overtime as UC Davis beat Omaha 80-78 on Wednesday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
+          "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
         },
         {
-          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
-          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
+          "headline": "De'Anthony Melton scores 24 points, matches career high with eight 3s as Warriors beat Kings 129-110",
+          "summary": "De’Anthony Melton scored 24 points and matched his career high with eight 3-pointers and the Golden State Warriors made 20 total 3s on the way to beating the Sacramento Kings 129-110 in an NBA Cup game",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
-        },
-        {
-          "headline": "Jared Goff gets exciting recognition before Lions vs. Bears Thanksgiving game",
-          "summary": "originally appeared on The Sporting News . Add The Sporting News as a Preferred Source by clicking here .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/jared-goff-gets-exciting-recognition-180730505.html"
-        },
-        {
-          "headline": "Will Anderson reacts to winning AFC DPOW after his safety vs Colts",
-          "summary": "All-Pro defensive end Will Anderson added to his campaign to be this year’s Defensive Player of the Year with his performance in the Houston Texans ’ win against the Indianapolis Colts , which included his first-ever regular-season safety. It is the first time this season Anderson has received this recognition.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/anderson-reacts-winning-afc-dpow-180127977.html"
+          "url": "https://abcnews.com/Sports/wireStory/deanthony-melton-scores-24-points-matches-career-high-138462716"
         }
       ]
     },
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T13:19:16-05:00"
+  "updatedAt": "2026-11-26T13:40:32-05:00"
 }
