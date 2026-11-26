@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Judge temporarily blocks FCC from reviewing ABC's licenses",
+          "summary": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/"
+        },
+        {
           "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
           "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
           "source": "ABC News",
@@ -64,12 +70,6 @@
           "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
-        },
-        {
-          "headline": "Jennifer Lopez's choreographer on what to expect from \"The JLo Show\"",
-          "summary": "Kiel Tutin, supervising choreographer for \"The JLo Show,\" joins \"The Daily Report\" to discuss the film and Jennifer Lopez's intense Las Vegas residency. \"The JLo Show\" premieres Thursday night on CBS and Paramount+.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/jennifer-lopezs-choreographer-on-what-to-expect-from-the-jlo-show/"
         }
       ]
     },
@@ -791,12 +791,6 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-          "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
-        },
-        {
           "headline": "Norse Atlantic flights suspended after warning finances 'critical'",
           "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
           "source": "CNBC",
@@ -819,6 +813,12 @@
           "summary": "Flying during the holidays can be pricey. So, airlines are pitching more and more specialty brand credit cards on your flight.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability"
+        },
+        {
+          "headline": "Most Polymarket users lost money betting on the U.S. midterms",
+          "summary": "More than half of Polymarket accounts lost money betting on the U.S. midterm elections, according to one analysis.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/prediction-markets-polymarket-kalshi-trader-losses/"
         }
       ]
     },
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "John Blackwell ends his cold streak, leads No. 16 Duke to statement win over Silas Demary Jr. and No. 10 UConn",
-          "summary": "The No. 16 Duke Blue Devils bested the No.",
+          "headline": "Hurricanes rally past Lightning in third, 3-1",
+          "summary": "NEW YORK, NEW YORK - NOVEMBER 22: Sean Walker #26 of the Carolina Hurricanes celebrates with teammates after scoring a goal during the second period against the New York Rangers at Madison Square Garden on November 22, 2026 in New York City. (Photo by Jared Silber/NHLI via Getty Images) | NHLI via Getty Images The Carolina Hurricanes picked up their…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/john-blackwell-ends-his-cold-streak-leads-no-16-duke-to-statement-win-over-silas-demary-jr-and-no-10-uconn-022353928.html"
+          "url": "https://sports.yahoo.com/nhl/articles/hurricanes-rally-past-lightning-third-025613833.html"
         },
         {
-          "headline": "Griffith scores 20 as Cleveland State beats Case Western Reserve 76-46",
-          "summary": "CLEVELAND (AP) — Rayvon Griffith’s 20 points helped Cleveland State defeat Case Western Reserve 76-46 on Wednesday. Griffith finished 10 of 17 from the field for the Vikings (4-4).",
+          "headline": "No. 16 Duke beats No. 10 UConn 77-63 as John Blackwell scores 25",
+          "summary": "LAS VEGAS — John Blackwell scored 20 of his 25 points in the second half and No. 16 Duke defeated No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/general/articles/griffith-scores-20-cleveland-state-021814324.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-16-duke-beats-no-025529794.html"
         },
         {
           "headline": "Hicke, O’Keefe lead Princeton past Liberty 79-72",
@@ -845,16 +845,16 @@
           "url": "https://abcnews.com/Sports/wireStory/hicke-okeefe-lead-princeton-past-liberty-79-72-138455693"
         },
         {
-          "headline": "Mackay scores 27 in Utah Tech’s 124-54 win against Bethesda (CA)",
-          "summary": "Owen Mackay had 27 points in Utah Tech’s 124-54 win over Bethesda (Calif",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/mackay-scores-27-utah-techs-124-54-win-138455928"
-        },
-        {
           "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
           "summary": "A 2-2 draw with Roma revealed an attack missing its usual bite, raising questions about whether long-term knee injuries to Khvicha Kvaratskhelia and Desire Doue have stripped the European champions of their fear factor",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
+        },
+        {
+          "headline": "No. 20 LSU moves to 7-0, rallies to beat Arizona State 94-92 in 2OT",
+          "summary": "Donovan Dent scored 20 points to go with 12 assists, and undefeated and 20th-ranked LSU rallied from a 12-point deficit to beat Arizona State 94-92 in double-overtime on Wednesday in the Acrisure Series",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/20-lsu-moves-7-0-rallies-beat-arizona-138454761"
         }
       ]
     },
@@ -863,16 +863,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "‘Baahubali,’ ‘RRR’ Tech Chief C.V. Rao, New SMPTE Fellow, on Why Indian Filmmakers Shouldn’t Depend on Overseas Facilities",
+          "summary": "C.V. Rao, who helped shape the production and post-production pipelines behind S.S.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/baahubali-rrr-tech-chief-weaning-india-off-overseas-facilities-1236958697/"
+        },
+        {
           "headline": "‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland’s Oscar Entry Makes a Case for Organic Love in the Age of Automation",
           "summary": "If Finnish master Aki Kaurismäki, with his measured emotional register and stoic humor, were to ever make a science-fiction film taking a page from a seminal text in the genre like “Blade Runner,” it may resemble Markus Lehmusruusu’s endearing dramedy “The Squirrel.” Before one learns anything else about how the film’s unspecified, seemingly idyllic…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/reviews/the-squirrel-review-1236955178/"
-        },
-        {
-          "headline": "‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism",
-          "summary": "A gloriously executed slow burn of a suspense thriller, mixed with magical realism and other genre tropes, “Four Seasons In Java” connects the themes and concerns of Indonesian writer-director Kamila Andini’s previous films in an exhilarating and emotionally moving way. It follows a formerly incarcerated, sexually abused woman who returns to her remote…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446/"
         },
         {
           "headline": "‘Twilight’ Director Reveals Robert Pattinson Inspired James Bond Line in 2008 Film: “We Were Seeing the Future”",
@@ -899,34 +899,34 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Mayor Zohran Mamdani Says Famed Balloons Will Soar Again At Rescheduled Macy’s Parade: “It’s The Only Inflation We Support In New York City”",
-          "summary": "New York Mayor Zohran Mamdani struck a personal note during a press briefing Wednesday about the postponement of the Macy’s Thanksgiving Day Parade due to a major storm. “Many New Yorkers, myself included, as well as millions around the world were looking forward to the parade being held tomorrow,” the mayor said.",
+          "headline": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
+          "summary": "No matter how many hits and tricks U2 pulled out of the hat at L.A.’s SoFi Stadium, today’s Bono Bowl on Netflix was always going to live in the shadow of the streamer’s square dancing filled Beyoncé Bowl from Christmas Day 2024. Accepting the inevitable, the elder statesmen of anthem rock took their halftime spin […]",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/mayor-zohran-mamdani-macys-thanksgiving-day-parade-postponed-1237233704/"
+          "url": "https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/"
         },
         {
-          "headline": "‘Monster: The Lizzie Borden Story’ Team On Taking A Whack At Romance & Female Agency Inspired By ‘Atonement’ & ‘Saltburn’ — The Process",
-          "summary": "Talk about taking an axe to the heart. Putting together the opening of Netflix’s Monster: The Lizzie Borden Story was a beautiful challenge.",
+          "headline": "Microdrama Revenues Hit $20B, But Profits Outside China Still Weak – MPA Report",
+          "summary": "The global microdrama business is booming, but outside of China, where ByteDance rules the roost, profits haven’t yet caught with revenues. That’s according to a Media Partners Asia (MPA) report, which reveals revenues on a global basis are estimated to rise 24% year-on-year to hit $20B in 2026, and that will hit $32B by 2031, […]",
           "source": "Deadline",
-          "url": "https://deadline.com/video/monster-the-lizzie-borden-story-interview-ella-beatty-vicky-krieps-max-winkler-michael-bauman/"
+          "url": "https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205/"
+        },
+        {
+          "headline": "Crypto Exec Constance Wang Slams Her Portrayal in Netflix Series ‘The Altruists’ as ‘Racist’ and ‘Very Stereotypical’",
+          "summary": "Former FTX COO Constance Wang is calling out Netflix’s “The Altruists.” Wang took to social media on Wednesday to respond to whether the streamer had consulted her about what she describes as a “very stereotypical” portrayal of her by actress Madison Hu. “People have asked whether Netflix consulted me.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/ftx-constance-wang-slams-altruists-portrayal-racist-netflix-1236958694/"
+        },
+        {
+          "headline": "NBC Plans to Give Thanksgiving Parade Ads Extra Run After Macy’s Postponement",
+          "summary": "NBC has a Thanksgiving Week present for advertisers scheduled to appear in the now-postponed Macy’s Thanksgiving Day Parade. The network plans to run commercials from sponsors of the event twice this week — once when the 2026 parade airs on Saturday and once on Thursday, when the network will run a repeat of last year’s […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/nbc-macys-thanksgiving-parade-commercials-twice-1236958525/"
         },
         {
           "headline": "Will Ferrell’s Netflix Golf Comedy ‘The Hawk’ Canceled After One Season",
           "summary": "So you can forget about the back nine.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/will-ferrell-netflix-comedy-the-hawk-canceled-one-season-1236763480/"
-        },
-        {
-          "headline": "TV Ratings: ‘Dancing With the Stars’ Records Another Huge Finale",
-          "summary": "Early ratings are at a 12-year high among adults 18-49 and even with last year in total viewers.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/"
-        },
-        {
-          "headline": "Tony Romo, After Parting Ways With CBS Sports, Named ‘Chief Predictions Officer’ of Jake Paul’s Betr Betting App",
-          "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
         }
       ]
     },
@@ -934,6 +934,12 @@
       "id": "media",
       "title": "Media",
       "stories": [
+        {
+          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
+          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
+        },
         {
           "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
           "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
@@ -945,12 +951,6 @@
           "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
-        },
-        {
-          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
-          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
         },
         {
           "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
@@ -971,12 +971,6 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More",
-          "summary": "Duran Duran charted 15 hits in the top 40 of the Billboard Hot 100 in 1983-93, a run of synth-pop classics, boosted by stylish videos amid MTV’s most tastemaking era, that led to the band ranking among the 100 top-performing acts in the chart’s history. After John Taylor and Nick Rhodes formed the group in Birmingham, England, in 1978, Duran Duran — by…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/"
-        },
-        {
           "headline": "King Crimson Co-Founder Michael Giles Dies at 84",
           "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King",
           "source": "Pitchfork",
@@ -989,19 +983,25 @@
           "url": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/"
         },
         {
+          "headline": "U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts",
+          "summary": "U2 ’s latest studio album Carnaval de Luz makes a splash on the Billboard charts as the set launches in the top 10 on seven rankings (dated Nov. 28) – including No.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/"
+        },
+        {
+          "headline": "Duran Duran’s Andy Taylor Dies at 65",
+          "summary": "The guitarist was diagnosed with prostate cancer in 2018",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/duran-durans-andy-taylor-dies-at-65/"
+        },
+        {
           "headline": "Coachella Sues Walmart Over Unauthorized Festival Merch, Citing ‘Willful and Repeated Acts’",
           "summary": "“Walmart has intentionally created a likelihood of confusion and false association,\" the new lawsuit claims",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/"
-        },
-        {
-          "headline": "Taylor Swift Uggs Story Sparks Hilarious Memes: ‘She Wears High Heels, I Wear Ugg Boots’",
-          "summary": "The internet is having a field day with a new detail revealing the pop star’s middle school shoe choices",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/taylor-swift-ugg-memes-1235664209/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T21:41:19-05:00"
+  "updatedAt": "2026-11-25T22:09:38-05:00"
 }

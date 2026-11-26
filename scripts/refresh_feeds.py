@@ -220,12 +220,23 @@ JUNK_NEWS_RE = re.compile(r"^the papers:|^this week on .?sunday morning", re.I)
 # ("Lipscomb secures 92-67 win over Milligan", "George Mason defeats South
 # Florida 73-62") and betting odds/picks posts. Not a team filter.
 SPORTS_TEMPLATE_RE = re.compile(
-    r"\b(secures|earns) (an? )?\d+-\d+ (win|victory) over\b|\bdefeats [^,]+ \d+-\d+$|"
+    r"\b(secures|earns) (an? )?\d+-\d+ (win|victory) (over|against)\b|\bdefeats [^,]+ \d+-\d+$|"
     r"^[^,]+ (scores|puts up|has|posts|totals) \d+, [^,]+ \d+-\d+$|"
     r"^[^,\s]+[’']s? \d+ (help|helps|lead|leads|lift|lifts|power|powers|carry|carries) [^,]+ \d+-\d+$|"
     # Editor (Nov 23): AP small-college "Name scores 28 to help Utah Valley hold off ..." template.
     r"^[^,]+ (scores|puts up|posts|totals|has) \d+ (points )?to (help|lead|lift|power|carry) |"
+    # Editor (Nov 25): AP small-college "Name scores 27 in Utah Tech's 124-54 win against
+    # Bethesda (CA)" / "Name scores 20 as Cleveland State beats Case Western 76-46"
+    # (7 seen Nov 15-25, none with a ranked team). Ranked ("No. 16") games still pass.
+    r"^(?!.*\bNo\. \d)[^,]+ (scores|puts up|posts|totals|has) \d+ (points )?(in|as) [^,]+ \d+-\d+|"
     r"\bodds\b.*\b(picks?|prediction|best bets?)\b|\b(prediction|picks?)\b.*\bodds\b",
+    re.I,
+)
+# Editor (Nov 25): Billboard's "Duran Duran's Biggest Billboard Hits" list took the
+# Music slot while the actual news (guitarist Andy Taylor dies, Pitchfork/Rolling
+# Stone) was blocked as the same subject. Such lists rank after fresh news.
+MUSIC_EVERGREEN_RE = re.compile(
+    r"biggest (billboard )?hits|greatest hits:|best songs|essential (songs|albums)|songs? (of all time|to know)",
     re.I,
 )
 # Editor (Nov 22): TV keeps TV; film/music URLs and box-office stories belong elsewhere.
@@ -985,6 +996,11 @@ def pick_section(
         ranked = sorted(candidates, key=section_rank_key("sports"))
     fresh = [s for s in ranked if not is_stale(s)]
     stale = [s for s in ranked if is_stale(s)]
+    if section_id == "music":
+        # Editor (Nov 25): evergreen retrospective lists rank after real news.
+        evergreen = [s for s in fresh if MUSIC_EVERGREEN_RE.search(s.get("headline") or "")]
+        fresh = [s for s in fresh if s not in evergreen]
+        stale = stale + evergreen
     passes = ((fresh, False), (fresh, True), (stale, False), (stale, True))
     if section_id == "sports":
         # Editor (Nov 23): games (results, previews, stakes, on-field news) from
