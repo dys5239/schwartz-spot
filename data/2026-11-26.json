@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "WATCH: Tips for navigating the holiday travel rush",
+          "summary": "The Points Guy Clint Henderson provides some tips and tricks travelers can use to navigate the Thanksgiving weekend.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138472441/"
+        },
+        {
+          "headline": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show",
+          "summary": "The black and tan coonhound defeated six other outstanding dogs to claim the 2026 National Dog Show's top honor.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/2026-national-dog-show-winner-rocker-coonhound/"
+        },
+        {
           "headline": "WATCH: The tradition of Thanksgiving",
           "summary": "ABC News' Michelle Franzen takes us to Plymouth, Massachusetts, where the tradition of Thanksgiving began when English settlers shared a meal with native tribes.",
           "source": "ABC News",
@@ -58,18 +70,6 @@
           "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
-          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
-        },
-        {
-          "headline": "Trump to visit Arizona manufacturer of semiconductor chips",
-          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126091152407531656",
+          "created_at": "2026-11-26T23:10:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "UMass economist Isabella Weber says Fed rate hikes aim to throw people out of work while US corporate profits sit at a record high\n\n\"Profits are at a record high, the share in the economy that goes to profits at a record high\"\n\n\"And then we hike interest rates with the declared https://t.co/B7zXTgFidj",
+          "url": "https://x.com/_Investinq/status/2126091152407531656",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126091027635114320",
+          "created_at": "2026-11-26T23:09:36.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "“IF YOU WANT A F*CKIN STANKY LEG YOU’LL GET A STANKY LEG!”  https://t.co/P2uK2I0UKX",
+          "url": "https://x.com/Outkick/status/2126091027635114320",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126090751100756344",
+          "created_at": "2026-11-26T23:08:30.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "BAZOOKA JOEEEE https://t.co/rSIlaUXw02",
+          "url": "https://x.com/Outkick/status/2126090751100756344",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126088597535432869",
+          "created_at": "2026-11-26T22:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "JUST THE NEWS - NO NOISE https://t.co/9SvEuLHLHv",
+          "url": "https://x.com/RealAmVoice/status/2126088597535432869",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126086064679047463",
+          "created_at": "2026-11-26T22:49:53.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The Nasdaq 100 has recorded an average intraday range of 3.8% over the last 5 trading sessions, its highest 5-day volatility since April 2025.\n\nThis is also its 2nd-highest reading since the 2022 bear market, when it peaked at 4.0%.\n\nOn Wednesday alone, this figure rose https://t.co/5O4ghJXrRA",
+          "url": "https://x.com/KobeissiLetter/status/2126086064679047463",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126084861861781815",
+          "created_at": "2026-11-26T22:45:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "BondCliQ CEO Chris White says AI hyperscalers are now 13% of the entire corporate bond market\n\n\"Right now, AI hyperscalers are 13% of the overall corporate bond market. That is such a massive number, it's mind-boggling\"\n\n\"There are no suckers out here\"\n\n\"Oracle is the one with https://t.co/7m2peDxgaN",
+          "url": "https://x.com/_Investinq/status/2126084861861781815",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126083988905230502",
+          "created_at": "2026-11-26T22:41:38.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "And all the kids chewing khat https://t.co/xTDA3pstwh",
+          "url": "https://x.com/Osint613/status/2126083988905230502",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126081070252650888",
           "created_at": "2026-11-26T22:30:02.000Z",
@@ -189,16 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126068651245621311",
-          "created_at": "2026-11-26T21:40:41.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "ICEMAN DOES IT AGAIN https://t.co/ESU6DfafRX",
-          "url": "https://x.com/Outkick/status/2126068651245621311",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126068589807747566",
           "created_at": "2026-11-26T21:40:26.000Z",
           "author_name": "StockMarket.News",
@@ -219,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126065961392545981",
-          "created_at": "2026-11-26T21:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JOHN BERRY TALKS 30 YEARS ON THE ROAD, DOLLY PARTON AND THE RISE OF AI\n\nCountry music star John Berry reflects on three decades of Christmas tours, loyal fans, and the lasting legacy of Dolly Parton.\n\n“Dolly was a great singer and wonderful songwriter, and an ultimate https://t.co/sWNC2nK4wz",
-          "url": "https://x.com/RealAmVoice/status/2126065961392545981",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126064330022265197",
           "created_at": "2026-11-26T21:23:31.000Z",
           "author_name": "Elon Musk",
@@ -237,16 +287,6 @@
           "url": "https://x.com/elonmusk/status/2126064330022265197",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126059991627153813",
-          "created_at": "2026-11-26T21:06:16.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "A Thanksgiving first Jared Goff won't be celebrating https://t.co/iIolpqu7lS",
-          "url": "https://x.com/Outkick/status/2126059991627153813",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126058529895096552",
@@ -275,16 +315,6 @@
           "author_handle": "ClayTravis",
           "text": "Gibbs, that speed, insane. Cha Ching, nice over win to start off the day!",
           "url": "https://x.com/ClayTravis/status/2126056360114581687",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126050915132346631",
-          "created_at": "2026-11-26T20:30:12.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Rep. Pat Fallon says the Jensen Huang affair has \"all the telltale signs\" of a Red Sparrow operation, even after US officials told Congress there's no evidence of it\n\n\"That doesn't mean that she doesn't have anything to do with the Chinese Communist Party's intelligence https://t.co/Ceh7jJs2Bt",
-          "url": "https://x.com/_Investinq/status/2126050915132346631",
           "verified": true,
           "verified_type": "blue"
         },
@@ -325,26 +355,6 @@
           "author_handle": "elonmusk",
           "text": "❤️❤️ Happy Thanksgiving! ❤️❤️",
           "url": "https://x.com/elonmusk/status/2126045116624216127",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126044299729248569",
-          "created_at": "2026-11-26T20:03:55.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iran FM on Iran attack on Kuwait:\n\n“The incident is suspicious and looks like a precooked recipe for war.”",
-          "url": "https://x.com/Osint613/status/2126044299729248569",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126040859498160208",
-          "created_at": "2026-11-26T19:50:15.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Former Deputy Treasury Secretary Michael Faulkender says there's no reason for a 50 basis point Fed hike and expects November CPI energy to turn negative\n\n\"I don't think that there's any reason for a 50 basis point increase\"\n\n\"There are still too many Keynesians and Phillips https://t.co/OmowS91fUP",
-          "url": "https://x.com/_Investinq/status/2126040859498160208",
           "verified": true,
           "verified_type": "blue"
         },
@@ -505,16 +515,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: President Trump issues a Thanksgiving message and claims that fake US economic data was released prior to the US Midterm Elections.\n\n“It should be immediately investigated, Trump says. https://t.co/TU0Mnnj8kW",
           "url": "https://x.com/KobeissiLetter/status/2125983454097543386",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125980206053708183",
-          "created_at": "2026-11-26T15:49:14.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: US new home sales jumped +14.2% MoM in October, to an annualized rate of 701,000 units, the highest since December 2025, crushing expectations of a -3.8% decline.\n\nThis marks the largest monthly increase since November 2025 and the 2nd-largest since August 2022.\n\nIt https://t.co/flPuixgn8K",
-          "url": "https://x.com/KobeissiLetter/status/2125980206053708183",
           "verified": true,
           "verified_type": "business"
         },
@@ -755,6 +755,18 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+          "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
+        },
+        {
+          "headline": "Trump to visit Arizona manufacturer of semiconductor chips",
+          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
+        },
+        {
           "headline": "Trump claims \"fake economic numbers\" were released before election",
           "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
           "source": "CBS News",
@@ -767,22 +779,10 @@
           "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
         },
         {
-          "headline": "ICE detains man after he picked up $1 million lottery winnings",
-          "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
-        },
-        {
           "headline": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
           "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
-        },
-        {
-          "headline": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
-          "summary": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
         }
       ]
     },
@@ -827,16 +827,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bears stun Lions in NFL Thanksgiving thriller",
-          "summary": "Chicago's Rome Odunze celebrates his game-winning touchdown catch with Bears teammate Kalif Raymond after the team's NFL win over the Detroit Lions (Gregory Shamus) Caleb Williams hit Rome Odunze for a game-winning touchdown with three seconds remaining on Thursday as the Chicago Bears beat the Detroit Lions 39-35 in an NFL Thanksgiving holiday thriller.…",
+          "headline": "Henderson, Allen power No. 17 Miami to a 97-70 win over Michigan at Players Era 16 tournament",
+          "summary": "LAS VEGAS (AP) — Shelton Henderson had 25 points, 10 rebounds and six assists as No. 17 Miami cruised past Michigan 97-70 in a consolation-round game of the Players Era 16 tournament on Thursday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bears-stun-lions-nfl-thanksgiving-222354081.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/henderson-allen-power-no-17-230058986.html"
         },
         {
-          "headline": "Maryland men’s basketball wastes lead in 75-71 loss to San Diego State",
-          "summary": "Be thankful for Buzz Williams’ theatrics. There has been considerably less to appreciate about the basketball.",
+          "headline": "Caleb Williams Undergoes X-Ray After Leading Bears to Dramatic Win Over Lions",
+          "summary": "IMAGN IMAGES via Reuters Connect Caleb Williams gave the Chicago Bears a Thanksgiving finish they won’t soon forget. After the game, their quarterback underwent an X-ray that briefly gave fans something else to think about.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/maryland-men-basketball-wastes-lead-222100153.html"
+          "url": "https://sports.yahoo.com/nfl/articles/caleb-williams-undergoes-x-ray-225831269.html"
+        },
+        {
+          "headline": "Tejada and Colvin score 23 apiece, Cincinnati beats Georgia at ESPN Events Invitational",
+          "summary": "Tyler Tejada and Myles Colvin scored 23 points apiece and Cincinnati blew a 17-point lead before the Bearcats beat previously-undefeated Georgia 83-81 at the ESPN Events Invitational - Magic Bracket for their fourth consecutive win",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/tejada-colvin-score-23-apiece-cincinnati-beats-georgia-138471287"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -849,12 +855,6 @@
           "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
-        },
-        {
-          "headline": "Freiburg claim stoppage-time win over Twente in Conference League",
-          "summary": "Freiburg's Yuito Suzuki and Enschede's Aske Adelgaard battle for the ball during the UEFA Europa League soccer match between SC Freiburg and Twente Enschede at Europa-Park Stadium. (is associated with: «Freiburg claim stoppage-time win over Twente in Conference League») Tom Weller/dpa Freiburg needed a goal in stoppage time to secure a 2-1 victory…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/freiburg-claim-stoppage-time-win-221840515.html"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T17:41:39-05:00"
+  "updatedAt": "2026-11-26T18:12:20-05:00"
 }
