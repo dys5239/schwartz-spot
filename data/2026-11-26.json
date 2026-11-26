@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+        },
+        {
           "headline": "Waymo conquered city streets — why does it keep stumbling on freeways?",
           "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test.",
           "source": "The Verge",
@@ -28,12 +34,6 @@
           "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table"
-        },
-        {
-          "headline": "FCC approves SpaceX plan to put AI data centers in space",
-          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Burnham joined by former PMs at Ann Widdecombe service",
+          "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
+          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
           "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
           "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
-          "headline": "How the train attack unfolded - carriage by carriage",
-          "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Double jeopardy killer recommended for release from prison",
-          "summary": "William Dunlop, who strangled Julie Hogg in County Durham, was jailed after a double jeopardy law change.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8n50e4z9559o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Where to get the latest CBS Mornings Deals",
           "summary": "It's Day 2 of CBS Mornings Deals' special series, 12 Days of Gifting, where we show viewers even more products at even lower prices. Visit cbsdeals.com to take advantage of these exclusive deals today.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112626/"
-        },
-        {
-          "headline": "French actor Gérard Depardieu to stand trial on rape charge, lawyer says",
-          "summary": "A lawyer representing French actor Gérard Depardieu says he has been ordered to stand trial on a charge of raping a young actress at his Paris home in 2018",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Entertainment/wireStory/french-actor-grard-depardieu-stand-trial-rape-charge-138468068"
         }
       ]
     },
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125987669205254402",
+          "created_at": "2026-11-26T16:18:53.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Turkey is in the oven, for Thanksgiving in Florida. Four people short this year, but always grateful for the love we all share.  FYI: We are grateful to be current stewards of the place settings.  Once owned and used by John F and Jackie Kennedy in their Nantucket home. https://t.co/aXqHZ8qDsb",
+          "url": "https://x.com/glennbeck/status/2125987669205254402",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125986933642019241",
+          "created_at": "2026-11-26T16:15:58.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Prime Minister of Kurdistan:\n\n\"We reject targeting the rights of the people of Kurdistan under the pretext of fighting corruption.\" https://t.co/QAKL8s4gP2",
+          "url": "https://x.com/Osint613/status/2125986933642019241",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125983900946088364",
+          "created_at": "2026-11-26T16:03:55.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "We all know who’s getting carved up today. 😂 https://t.co/hMlrAzhLzt",
+          "url": "https://x.com/Outkick/status/2125983900946088364",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125983454097543386",
+          "created_at": "2026-11-26T16:02:08.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump issues a Thanksgiving message and claims that fake US economic data was released prior to the US Midterm Elections.\n\n“It should be immediately investigated, Trump says. https://t.co/TU0Mnnj8kW",
+          "url": "https://x.com/KobeissiLetter/status/2125983454097543386",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125983257540092328",
+          "created_at": "2026-11-26T16:01:22.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Wharton's Jeremy Siegel says Nasdaq futures just put in a double bottom, hitting last Friday's low and bouncing \"very rigorously\"\n\n\"In my younger days, I was kind of an amateur chartist\"\n\n\"To have 28% year-over-year gains in the middle of an economic expansion is unprecedented\" https://t.co/KH8xOiGkjC",
+          "url": "https://x.com/_Investinq/status/2125983257540092328",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125982907315503248",
+          "created_at": "2026-11-26T15:59:58.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "The quiet part out loud https://t.co/AfLE2Uo2on",
+          "url": "https://x.com/RealAmVoice/status/2125982907315503248",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125982153708384552",
+          "created_at": "2026-11-26T15:56:58.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Trump unleashes a fiery Thanksgiving message!\n\nPresident Trump takes aim at the radical left, alleged manipulation of pre-election GDP numbers, critics of his White House renovations and illegal immigration in a lengthy Thanksgiving post.\n\n“HAPPY THANKSGIVING TO ALL AMERICAN https://t.co/GrUzJus1kr",
+          "url": "https://x.com/RealAmVoice/status/2125982153708384552",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125981461798957351",
+          "created_at": "2026-11-26T15:54:13.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "America is — and always will be — one Nation under God. https://t.co/sVTHaIVe5g",
+          "url": "https://x.com/RealAmVoice/status/2125981461798957351",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125980206053708183",
+          "created_at": "2026-11-26T15:49:14.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: US new home sales jumped +14.2% MoM in October, to an annualized rate of 701,000 units, the highest since December 2025, crushing expectations of a -3.8% decline.\n\nThis marks the largest monthly increase since November 2025 and the 2nd-largest since August 2022.\n\nIt https://t.co/flPuixgn8K",
+          "url": "https://x.com/KobeissiLetter/status/2125980206053708183",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125979313761833455",
+          "created_at": "2026-11-26T15:45:41.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "You know what happens if Tesla and SpaceX merge, right?? https://t.co/Yf0Z8yPYkI https://t.co/xPyN7WtDnA",
+          "url": "https://x.com/_Investinq/status/2125979313761833455",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125978186148389023",
           "created_at": "2026-11-26T15:41:12.000Z",
@@ -109,16 +209,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125975803376677167",
-          "created_at": "2026-11-26T15:31:44.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "\"Our soldiers are the best in the world, our equipment is elite, and our determination is second to none.\" - @FLOTUS \n\nhttps://t.co/L9rDKkFfEf",
-          "url": "https://x.com/RealAmVoice/status/2125975803376677167",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125975457225211988",
           "created_at": "2026-11-26T15:30:22.000Z",
           "author_name": "StockMarket.News",
@@ -127,26 +217,6 @@
           "url": "https://x.com/_Investinq/status/2125975457225211988",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125975347942371352",
-          "created_at": "2026-11-26T15:29:56.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "GET THE VINYL at https://t.co/21oaE7ckUb",
-          "url": "https://x.com/RealAmVoice/status/2125975347942371352",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125974609824542764",
-          "created_at": "2026-11-26T15:27:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "THE THANKSGIVING HISTORY YOU RARELY HEAR!\n\nHistorian Larry Schweikart joins Steve Bannon to explore the complex relationships between Native American tribes and European settlers — from rivalries and strategic alliances to trade and territorial disputes.\n\n“There are all these https://t.co/s9BdPkkjSw",
-          "url": "https://x.com/RealAmVoice/status/2125974609824542764",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125973740420751684",
@@ -175,16 +245,6 @@
           "author_handle": "Osint613",
           "text": "The Jazan refinery in southern Saudi Arabia was hit by the Houthis.\n\nAttacks on civilians and civilian sites will bring a powerful military response, Riyadh warns.\n\nSaudi military spokesman",
           "url": "https://x.com/Osint613/status/2125970296368771575",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125970066009362692",
-          "created_at": "2026-11-26T15:08:57.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Saudi Arabia strongly condemns Iran's attack on Kuwait. https://t.co/kI29rz1ehD",
-          "url": "https://x.com/Osint613/status/2125970066009362692",
           "verified": true,
           "verified_type": "blue"
         },
@@ -245,26 +305,6 @@
           "author_handle": "LauraLoomer",
           "text": "Of course he is… \n\nJust like last year. And notice the Doha Forum is scheduled during Hanukkah. \n\nI’m sure that was done on purpose too. https://t.co/Z4PI15jxfk",
           "url": "https://x.com/LauraLoomer/status/2125959025032581450",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125954000638116324",
-          "created_at": "2026-11-26T14:05:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Fundstrat's Tom Lee says the VIX hitting 40 last Friday is the same signal that marked the 2018 bottom, and we've \"already reached max pain\"\n\n\"I think it's a mistake for anybody to sell stocks here\"\n\n\"In 2018, the exact day of the low took place when the VIX touched 36\"\n\n\"Maybe https://t.co/0Mt2kM5ZRu",
-          "url": "https://x.com/_Investinq/status/2125954000638116324",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125945522121044130",
-          "created_at": "2026-11-26T13:31:25.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
-          "url": "https://x.com/_Investinq/status/2125945522121044130",
           "verified": true,
           "verified_type": "blue"
         },
@@ -379,16 +419,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125786424767328654",
-          "created_at": "2026-11-26T02:59:13.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "U2 pays tribute to Dolly Parton 🦋 https://t.co/XmyUqYW8qo",
-          "url": "https://x.com/Outkick/status/2125786424767328654",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125782865455751359",
           "created_at": "2026-11-26T02:45:04.000Z",
           "author_name": "Matt Walsh",
@@ -469,16 +499,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125726722200842708",
-          "created_at": "2026-11-25T23:01:59.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: US oil prices have recorded 3 drawdowns of at least 20% so far in 2026, matching their 2nd-longest such streak since the 1980s.\n\n2020 was the only year with a longer streak, at 4 such declines, while 1990, 1991, 1998, and 2022 each recorded 3.\n\nTaking intraday prices https://t.co/2XmhHzu61D",
-          "url": "https://x.com/KobeissiLetter/status/2125726722200842708",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125723982519566730",
           "created_at": "2026-11-25T22:51:06.000Z",
           "author_name": "Clay Travis",
@@ -557,16 +577,6 @@
           "url": "https://x.com/_The_Prophet__/status/2125699265989357653",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125697370008555911",
-          "created_at": "2026-11-25T21:05:21.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Dow Jones Industrial Average erases its -1,100 point loss and closes the day positive. https://t.co/Ehiu2UREi8",
-          "url": "https://x.com/KobeissiLetter/status/2125697370008555911",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125696156868989295",
@@ -689,6 +699,16 @@
           "verified_type": "blue"
         },
         {
+          "id": "2125575837747458516",
+          "created_at": "2026-11-25T13:02:25.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Did Vols fans just \"Schiano Sunday\" the CFP committee?\n\n🏈 Michigan rescinds Trev Alberts offer\n🏈 Top 10 games of Rivalry Week\n🏈 The Rams' insane NFL schedule\n🏈 Thanksgiving football preview\n\nHutton &amp; Withrow LIVE! https://t.co/IeunpNoA7p",
+          "url": "https://x.com/SportNState/status/2125575837747458516",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125287542283206698",
           "created_at": "2026-11-24T17:56:50.000Z",
           "author_name": "Glenn Beck",
@@ -715,16 +735,6 @@
           "author_handle": "glennbeck",
           "text": "To all the guys out there who have stayed in their car for way too long before heading inside, you're not alone.\n\nI have been afraid of failing most of my life. But I've also been afraid of succeeding.\n\nWinning raises the bar permanently and kills every comfortable excuse we've https://t.co/TpTBCY4cwQ",
           "url": "https://x.com/glennbeck/status/2125008998915023099",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2124944485767668204",
-          "created_at": "2026-11-23T19:13:39.000Z",
-          "author_name": "Glenn Beck",
-          "author_handle": "glennbeck",
-          "text": "Before we sit at the Thanksgiving table this year, there’s one thing I think we should all be grateful for…\n\nThe pain.\n\nUsually, Thanksgiving is full of the easy things to be grateful for. Nobody wants to sit with the hard stuff, even though it’s usually what shapes us the most. https://t.co/2bcHHMCA3Y",
-          "url": "https://x.com/glennbeck/status/2124944485767668204",
           "verified": true,
           "verified_type": "blue"
         }
@@ -771,16 +781,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+          "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+        },
+        {
           "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
           "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
-        },
-        {
-          "headline": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-          "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html"
         },
         {
           "headline": "China and other U.S. trading partners hit back at Trump's new tariff plans",
@@ -807,10 +817,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Why the Bears will or won't beat the Lions on Thanksgiving in Week 12",
-          "summary": "The Chicago Bears are looking for their sixth straight win and first NFC North win of the season when they face the Detroit Lions on Thanksgiving. With both teams coming into this game with an 8-2 record, the winner of this game will become the leader of the North.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/why-bears-wont-beat-lions-152023288.html"
+          "headline": "Duke beat UConn, which was big. John Blackwell's night was even bigger — and so crucial for Duke's title hopes",
+          "summary": "Duke was on the verge of a crisis, and then Blackwell finally showed why he's so key to everything the Blue Devils want to be this season",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/duke-uconn-las-vegas-john-blackwell-jon-scheyer/"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -825,16 +835,16 @@
           "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
         },
         {
-          "headline": "Duke beat UConn, which was big. John Blackwell's night was even bigger — and so crucial for Duke's title hopes",
-          "summary": "Duke was on the verge of a crisis, and then Blackwell finally showed why he's so key to everything the Blue Devils want to be this season",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/duke-uconn-las-vegas-john-blackwell-jon-scheyer/"
-        },
-        {
           "headline": "Alabama, Tennessee, Iowa among top 25 teams on upset alert during Rivalry Week",
           "summary": "We've got five ranked teams on upset alert in games that could rattle the College Football Playoff picture",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/alabama-tennessee-iowa-ohio-state-upset-alert-rivalry-week/"
+        },
+        {
+          "headline": "De'Anthony Melton scores 24 points, matches career high with eight 3s as Warriors beat Kings 129-110",
+          "summary": "De’Anthony Melton scored 24 points and matched his career high with eight 3-pointers and the Golden State Warriors made 20 total 3s on the way to beating the Sacramento Kings 129-110 in an NBA Cup game",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/deanthony-melton-scores-24-points-matches-career-high-138462716"
         }
       ]
     },
@@ -842,6 +852,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Leads With $15 Million on Thanksgiving Eve, ‘Focker In-Law’ Earns $5 Million on Opening Day",
+          "summary": "“Sunrise on the Reaping” stuffed the box office competition ahead of Thanksgiving, generating $15 million on Wednesday. Fueled by positive word-of-mouth, Lionsgate’s “Hunger Games” prequel looks to collect $85 million over the five-day holiday period, which would push its domestic tally to $233 million.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-thanksgiving-eve-focker-in-law-1236958999/"
+        },
         {
           "headline": "Get Ready for the Great Asterix Film Festival and Three Restored ‘Asterix’ Animated Movies!",
           "summary": "StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.",
@@ -861,16 +877,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/roma-producer-warwick-thornton-films-rotterdam-market-iffr-1236763960/"
         },
         {
-          "headline": "Qatar Is Forging Ahead With Film and TV Industry Plan, Undeterred by Regional Turbulence",
-          "summary": "Undeterred by regional turbulence, Qatar is forging ahead with its plan to build a film and TV industry that intends to put the tiny Arab state rich in oil and gas on the global entertainment map. That is the main takeaway of the recently concluded second edition of the Doha Industry Days, held Nov.",
+          "headline": "Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal",
+          "summary": "French actor Gérard Depardieu will face a criminal rape trial after an appeal from his lawyers failed. According to Reuters, on Thursday the Paris Court of Appeal ruled that a trial would go ahead regarding rape charges that stemmed from accusations made by actress Charlotte Arnould in 2018.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/"
-        },
-        {
-          "headline": "‘Ramayana’ Doubled Visitors at Kerala’s Jatayu Rock, Official Says as India Pitches Itself to Global Productions at WAVES Film Bazaar",
-          "summary": "Nitesh Tiwari’s “Ramayana” has doubled visitor numbers at Kerala’s Jatayu Earth’s Center, known locally as Jatayu Rock, Ministry of Tourism joint secretary Harikishore S. told a WAVES Film Bazaar panel in Goa, where Indian officials pitched a single-window filming portal and state incentives to international producers.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/ramayana-shoot-doubled-jatayu-rock-visitors-1236958905/"
+          "url": "https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/"
         }
       ]
     },
@@ -878,6 +888,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Denmark’s TV2 Seeks Penance With Acting Program Director Hire After ‘Everyone Loves Rasmus’ Debacle",
+          "summary": "Denmark’s TV2 has dipped into the independent production market for an Acting Program Director as it seeks penance for the scandal around Truman Show-like reality series Everybody Loves Rasmus Sune Roland will take up the position on December 1, and will lead the TV2 programming division during a period the network “is working to rebuild […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/tv2-denmark-hires-program-boss-everybody-loves-rasmus-shame-1237234057/"
+        },
         {
           "headline": "‘Saint-Pierre’ Season 3 Trailer Sees New Faces Shake Up Life For Fitz & Arch",
           "summary": "EXCLUSIVE: Here’s the trailer for Season 3 of this week’s Global Breakout, Saint-Pierre. The CBC drama series, which stars Allan Hawco and Jósephine Jobert as a cop duo on a small island off Newfoundland, is returning to Canadian screens on January 4, 2027, and we’ve got a first video for the new season.",
@@ -901,12 +917,6 @@
           "summary": "The BBC is set to be investigated over antisemitism. The government’s independent adviser on antisemitism, Lord John Mann, has written to the broadcaster to outline his investigation.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/bbc-investigation-antisemitism-lord-mann-1236958910/"
-        },
-        {
-          "headline": "BBC Being Investigated Over Antisemitism By Government Adviser",
-          "summary": "The UK government’s antisemitism tsar is probing the BBC. John Mann told the Today programme he has opened an investigation to see how “widespread” Jewish staff’s “feeling of discomfort” is within the corporation.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bbc-antisemitism-investigation-john-mann-government-1237233983/"
         }
       ]
     },
@@ -921,10 +931,10 @@
           "url": "https://www.hollywoodreporter.com/business/business-news/nbc-new-2028-la-olympics-spot-thanksgiving-1236763173/"
         },
         {
-          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
-          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
+          "headline": "FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network",
+          "summary": "The ruling is a major setback for the administration in the government's campaign against ABC and national media.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
+          "url": "https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790/"
         },
         {
           "headline": "‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’",
@@ -983,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T10:42:16-05:00"
+  "updatedAt": "2026-11-26T11:20:28-05:00"
 }
