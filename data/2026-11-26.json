@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
+          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
+          "headline": "Huw Edwards gives first interviews since child abuse image conviction",
+          "summary": "Minister Anna Turley said she was \"deeply uncomfortable\" with the interviews, while Channel 4 has insisted it \"holds Edwards to account\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Trump claims \"fake economic numbers\" were released before election",
+          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
+        },
+        {
+          "headline": "UK to pay 'participation' fee to deliver EU deals",
+          "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "WATCH: Tips for navigating the holiday travel rush",
           "summary": "The Points Guy Clint Henderson provides some tips and tricks travelers can use to navigate the Thanksgiving weekend.",
           "source": "ABC News",
           "url": "https://abcnews.com/video/138472441/"
-        },
-        {
-          "headline": "Rocker the coonhound nabs Best in Show at 2026 National Dog Show",
-          "summary": "The black and tan coonhound defeated six other outstanding dogs to claim the 2026 National Dog Show's top honor.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/2026-national-dog-show-winner-rocker-coonhound/"
-        },
-        {
-          "headline": "WATCH: The tradition of Thanksgiving",
-          "summary": "ABC News' Michelle Franzen takes us to Plymouth, Massachusetts, where the tradition of Thanksgiving began when English settlers shared a meal with native tribes.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138468476/"
-        },
-        {
-          "headline": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-          "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
-          "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126097449702097110",
+          "created_at": "2026-11-26T23:35:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "XPeng President Brian Gu says the company could deliver tens of thousands of humanoid robots next year, priced like a mid-range EV\n\n\"Next year will be a critical year for scale up and commercialization\"\n\n\"We see the delivery potentially in the tens of thousands\"\n\n\"Robots will be https://t.co/iYmafTdrGu",
+          "url": "https://x.com/_Investinq/status/2126097449702097110",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126096160389501167",
+          "created_at": "2026-11-26T23:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "DR. MCCULLOUGH: PREPARE FOR AN EMERGENCY BEFORE IT HAPPENS\n\nWith recent service outages and uncertainty surrounding potential national security threats, @P_McCulloughMD stresses the importance of medical preparedness.\n\nThe Wellness Company’s emergency medical kits are designed to https://t.co/oaDsrLxHNs",
+          "url": "https://x.com/RealAmVoice/status/2126096160389501167",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126095480543117373",
+          "created_at": "2026-11-26T23:27:18.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Javonte Williams already has 3 TD’s\n\nThis games getting ugly https://t.co/4pk1hzqC8q",
+          "url": "https://x.com/Outkick/status/2126095480543117373",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126092135719932140",
+          "created_at": "2026-11-26T23:14:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS and @FLOTUS call members of the @USArmy 1st Battalion of the 7th Air Defense Artillery Regiment: \n\n\"As your Commander-in-Chief, I am proud to say, 'A JOB WELL DONE!' The job you do is incredible.\" https://t.co/5wahwKSMC6",
+          "url": "https://x.com/RealAmVoice/status/2126092135719932140",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126092133820223985",
+          "created_at": "2026-11-26T23:14:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "This Christmas, celebrate the traditions that bring us together and the faith that gives the season its meaning.\n\n@Real_AM_Music presents \"Real America's Christmas\" — a collection of festive, heartfelt and faith-filled songs celebrating Christmas the way America celebrates it! https://t.co/QnxXb84FrQ",
+          "url": "https://x.com/RealAmVoice/status/2126092133820223985",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126091910150291470",
+          "created_at": "2026-11-26T23:13:06.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS: \"I'm pleased to announce that I have officially approved major disaster declarations for FEMA and emergency relief funding for the state of Florida in the wake of the severe storms and flooding that has ravaged the state since October.\" https://t.co/Lyne5chCGp",
+          "url": "https://x.com/RealAmVoice/status/2126091910150291470",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126091761953149317",
+          "created_at": "2026-11-26T23:12:31.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "JUST IN: President Trump just IMPROMPTU invited press into the room at Mar-a-Lago on Thanksgiving https://t.co/zzFTAzE59q",
+          "url": "https://x.com/RealAmVoice/status/2126091761953149317",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126091152407531656",
           "created_at": "2026-11-26T23:10:06.000Z",
@@ -105,16 +175,6 @@
           "author_handle": "Outkick",
           "text": "BAZOOKA JOEEEE https://t.co/rSIlaUXw02",
           "url": "https://x.com/Outkick/status/2126090751100756344",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126088597535432869",
-          "created_at": "2026-11-26T22:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST THE NEWS - NO NOISE https://t.co/9SvEuLHLHv",
-          "url": "https://x.com/RealAmVoice/status/2126088597535432869",
           "verified": true,
           "verified_type": "business"
         },
@@ -199,26 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126075776252403835",
-          "created_at": "2026-11-26T22:09:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Your favorite RAV gear. Your favorite shows. Our BLACK FRIDAY savings!\n\nTake up to 30% OFF hats, tees, hoodies, mugs and more during the Real America's Voice Black Friday Sale!\n\nGet FREE U.S. shipping on orders of $75 or more, PLUS unlock an exclusive VIP offer when you download https://t.co/9QCPc53kwo",
-          "url": "https://x.com/RealAmVoice/status/2126075776252403835",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126073757810765984",
-          "created_at": "2026-11-26T22:00:59.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "REVOLUTIONARY SNIPERS SEAL SARATOGA, CULTURAL MARXISTS MARCH | WAR ROOM W STEVE BANNON https://t.co/yvEGQWlrcx",
-          "url": "https://x.com/RealAmVoice/status/2126073757810765984",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126073707353239637",
           "created_at": "2026-11-26T22:00:47.000Z",
           "author_name": "Open Source Intel",
@@ -229,52 +269,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126071503393538367",
-          "created_at": "2026-11-26T21:52:01.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "HARD PASS! on these Thanksgiving dishes. \n\nJalen Brunson, Trevor Lawrence and more reveal what they're leaving off their plates this Turkey Day https://t.co/IFH5LZsBT9",
-          "url": "https://x.com/Outkick/status/2126071503393538367",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126070186981613745",
-          "created_at": "2026-11-26T21:46:47.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "NYC Public Advocate Jumaane Williams calls Thanksgiving a “commemoration of a horrible time in history.”\n\nWilliams made the remarks while standing alongside Zohran Mamdani, Letitia James and Al Sharpton.\n\nhttps://t.co/iNLz8iv0Kv",
-          "url": "https://x.com/RealAmVoice/status/2126070186981613745",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126068837334544793",
-          "created_at": "2026-11-26T21:41:25.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Get the vinyl at https://t.co/21oaE7cSJJ",
-          "url": "https://x.com/RealAmVoice/status/2126068837334544793",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126068589807747566",
           "created_at": "2026-11-26T21:40:26.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
           "url": "https://x.com/_Investinq/status/2126068589807747566",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126067549624475649",
-          "created_at": "2026-11-26T21:36:18.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Brent crude settled at $96.57 a barrel today, up 8% in just three sessions, while US stock markets were closed for Thanksgiving\n\nOn Monday Brent closed at $89.37, its lowest finish since August 31\n\nSince then it has gained more than 2% on Tuesday, 3.5% on Wednesday and another https://t.co/vUPObifj5I",
-          "url": "https://x.com/_Investinq/status/2126067549624475649",
           "verified": true,
           "verified_type": "blue"
         },
@@ -767,16 +767,16 @@
           "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
         },
         {
-          "headline": "Trump claims \"fake economic numbers\" were released before election",
-          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
-        },
-        {
           "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
           "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
+        },
+        {
+          "headline": "ICE detains man after he picked up $1 million lottery winnings",
+          "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
         },
         {
           "headline": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Henderson, Allen power No. 17 Miami to a 97-70 win over Michigan at Players Era 16 tournament",
-          "summary": "LAS VEGAS (AP) — Shelton Henderson had 25 points, 10 rebounds and six assists as No. 17 Miami cruised past Michigan 97-70 in a consolation-round game of the Players Era 16 tournament on Thursday.",
+          "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
+          "summary": "LAS VEGAS (AP) — Dai Dai Ames scored 19 points and No. 9 Tennessee beat Iowa State 75-64 on Thursday to advance to the championship game of the Players Era tournament.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/henderson-allen-power-no-17-230058986.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/ames-scores-19-no-9-233305651.html"
         },
         {
-          "headline": "Caleb Williams Undergoes X-Ray After Leading Bears to Dramatic Win Over Lions",
-          "summary": "IMAGN IMAGES via Reuters Connect Caleb Williams gave the Chicago Bears a Thanksgiving finish they won’t soon forget. After the game, their quarterback underwent an X-ray that briefly gave fans something else to think about.",
+          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
+          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
+        },
+        {
+          "headline": "Money Williams scores 27, scores with 2 seconds left as BC beats UCF 75-73 at ESPN Events invite",
+          "summary": "Money Williams made 10 of 10 from the free-throw line, finished with 27 points and scored with 2 seconds left to help Boston College beat UCF 75-73 in a battle of cold-shooting teams at the ESPN Events Invitational - Magic Bracket",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/money-williams-scores-27-scores-2-seconds-left-138472528"
+        },
+        {
+          "headline": "Tennessee basketball defeats Iowa State in Las Vegas",
+          "summary": "No. 11 Tennessee (7-0) defeated Iowa State (4-2), 75-64, on Thursday in the Players Era 16 at Michelob ULTRA Arena in Las Vegas, Nevada.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/caleb-williams-undergoes-x-ray-225831269.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/tennessee-basketball-defeats-iowa-state-232035137.html"
         },
         {
-          "headline": "Tejada and Colvin score 23 apiece, Cincinnati beats Georgia at ESPN Events Invitational",
-          "summary": "Tyler Tejada and Myles Colvin scored 23 points apiece and Cincinnati blew a 17-point lead before the Bearcats beat previously-undefeated Georgia 83-81 at the ESPN Events Invitational - Magic Bracket for their fourth consecutive win",
+          "headline": "Bournemouth tops Europa League after beating Celta Vigo, Benfica stunned, AC Milan rallies",
+          "summary": "Bournemouth has extended its winning streak to 10 games by defeating Celta Vigo 2-1 in the Europa League",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/tejada-colvin-score-23-apiece-cincinnati-beats-georgia-138471287"
-        },
-        {
-          "headline": "Montana State takes down Northwest Indian 110-43",
-          "summary": "DJ Johnson scored 16 points as Montana State beat Northwest Indian 110-43",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/montana-state-takes-northwest-indian-110-43-138462338"
-        },
-        {
-          "headline": "Avdija, Lillard lead Trail Blazers to 116-111 win over Spurs in NBA Cup play",
-          "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
+          "url": "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338"
         }
       ]
     },
@@ -863,22 +863,22 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
+          "summary": "Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/"
+        },
+        {
           "headline": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
           "summary": "Asha Bhosle and S. Janaki, two of Indian cinema’s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/"
         },
         {
-          "headline": "Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character’s Motivations",
-          "summary": "“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film. Plemons plays Plutarch Heavensbee, a Capitol insider, who becomes a key figure in the rebellion that sparks in the latter half of Suzanne Collins’ original trilogy of dystopian novels.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/"
-        },
-        {
-          "headline": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
-          "summary": "He also worked with Steven Spielberg on ‘Jurassic Park,’ ‘Minority Report,’ ‘The Color Purple’ and ‘Twister’ and headed production at Amblin Entertainment.",
+          "headline": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch",
+          "summary": "Lionsgate's sixth film in its dystopian franchise looks to win its sophomore frame after notching series records with its debut Monday and Tuesday.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
         },
         {
           "headline": "Scott Caan Is “100 Percent” Open to Reprising Role in ‘Ocean’s 14’ With Casey Affleck",
@@ -899,16 +899,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Percy Jackson’s Courtney B. Vance On “Doing Right By” Late Lance Reddick After Taking Over Zeus Role",
+          "summary": "As the gods and demigods of Percy Jackson and the Olympians return for Season 3, Courtney B. Vance had a mighty toga to fill.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178/"
+        },
+        {
           "headline": "Erika Hammond Teases “Drama” & “Resolution” At ‘RHONY’ Season 16 Reunion, Says Devyn Simone Is “Not A Friend I Want”",
           "summary": "Erika Hammond is teasing The Real Housewives of New York City Season 16 reunion, revealing there will be “drama” and “resolution.” In a new interview, Hammond hinted that although some problems among the group will be resolved, she doesn’t see a path forward with the new “friend of” Devyn Simone. “I will say it is […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/erika-hammond-drama-rhony-season-16-reunion-devyn-simone-1237234147/"
-        },
-        {
-          "headline": "The Show Must Go On: Broadway Will Perform Saturday In Macy’s Thanksgiving Parade",
-          "summary": "New Yorkers woke up this Thanksgiving morning to drizzly, gray skies along with winds that had sidewalks covered in dead, yellow leaves, though the weather throughout the pre-noon hours was hardly the fearsome nor’easter blast that prompted the postponement till Saturday of Macy’s 100th Thanksgiving Day Parade. Still, with wind levels of up to 23 […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/macys-thanksgiving-parade-saturday-broadway-medley-1237234098/"
         },
         {
           "headline": "‘A Paw Patrol Christmas’: When and Where to Stream the Animated Holiday Special Online Free",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T18:12:20-05:00"
+  "updatedAt": "2026-11-26T18:41:39-05:00"
 }
