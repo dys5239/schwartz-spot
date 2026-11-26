@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
+          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
           "headline": "Huw Edwards gives first interviews since child abuse image conviction",
           "summary": "Minister Anna Turley said she was \"deeply uncomfortable\" with the interviews, while Channel 4 has insisted it \"holds Edwards to account\".",
           "source": "BBC News",
@@ -54,22 +60,16 @@
           "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
+          "headline": "Mexican president blasts DEA over tip lines",
+          "summary": "Mexico's president has criticized the U.S. Drug Enforcement Administration for setting up anonymous tip lines in the country",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560"
+        },
+        {
           "headline": "Faisal Islam: Why Trump's new tariffs are less of a threat",
           "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
-          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
-        },
-        {
-          "headline": "Trump claims \"fake economic numbers\" were released before election",
-          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126060424986853794",
+          "created_at": "2026-11-26T21:08:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "An American Christmas deserves an American soundtrack!\n\nCelebrate the faith, family and freedom that make this season so special with \"Real America's Christmas,\" now available to preorder in a special 12-inch vinyl edition!\n\n🎶 Timeless sounds. Cherished traditions. Music that https://t.co/rT54srK9TG",
+          "url": "https://x.com/RealAmVoice/status/2126060424986853794",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126059991627153813",
+          "created_at": "2026-11-26T21:06:16.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "A Thanksgiving first Jared Goff won't be celebrating https://t.co/iIolpqu7lS",
+          "url": "https://x.com/Outkick/status/2126059991627153813",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126058529895096552",
+          "created_at": "2026-11-26T21:00:28.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Self-driving cars are coming soon, but a world where nobody drives at all is generations away. \n\nRegulation is the only thing holding back Tesla's Cybercab, but eventually synchronized robot cars will end traffic for good. https://t.co/ou3hcQYzQC",
+          "url": "https://x.com/Timcast/status/2126058529895096552",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126058398567514348",
+          "created_at": "2026-11-26T20:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "JOHN BERRY LAUNCHES TOUR, THANKSGIVING FAMILIES GATHER | BOLLING SHOW https://t.co/9aWYofQgrc",
+          "url": "https://x.com/RealAmVoice/status/2126058398567514348",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126057908471243259",
+          "created_at": "2026-11-26T20:58:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "MAN TURNS PUMPKIN PIE MEMORY INTO AN ORGANIZATION TO FEED OTHERS 🥧\n\nTurning his hardship into HOPE, Rob Adams has set out to FEED families through his organization, Thanksgivings Heroes. All starting with ONE family showing his family kindness when he and his Mother were living https://t.co/dz7BALML1x",
+          "url": "https://x.com/RealAmVoice/status/2126057908471243259",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126056773610246386",
+          "created_at": "2026-11-26T20:53:29.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Fantasy managers extra thankful for Gibbs today  https://t.co/aWcSARy3KH",
+          "url": "https://x.com/Outkick/status/2126056773610246386",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126056621667438710",
+          "created_at": "2026-11-26T20:52:53.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Loser! #respectthepicks #happythanksgivingtoeveryonebutkelly https://t.co/6AYrouZTDy",
+          "url": "https://x.com/ClayTravis/status/2126056621667438710",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126056360114581687",
+          "created_at": "2026-11-26T20:51:51.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Gibbs, that speed, insane. Cha Ching, nice over win to start off the day!",
+          "url": "https://x.com/ClayTravis/status/2126056360114581687",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126056355098480802",
+          "created_at": "2026-11-26T20:51:49.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Slim Shady took over JJ Watt when he saw Eminem  🍝🍝 https://t.co/kYPIaXbZib",
+          "url": "https://x.com/Outkick/status/2126056355098480802",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126053378463531055",
           "created_at": "2026-11-26T20:40:00.000Z",
@@ -159,16 +249,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126043337098400208",
-          "created_at": "2026-11-26T20:00:06.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUE HISTORY RECLAIMED, MARXISM THREATENS FREEDOM | AMERICAS VOICE LIVE https://t.co/NNMnxK3xuo",
-          "url": "https://x.com/RealAmVoice/status/2126043337098400208",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126040859498160208",
           "created_at": "2026-11-26T19:50:15.000Z",
           "author_name": "StockMarket.News",
@@ -179,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126039382658555929",
-          "created_at": "2026-11-26T19:44:23.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Three Illegal Aliens Sneak Past a CBP Truck at the Border  https://t.co/Exu9UeVQgl",
-          "url": "https://x.com/RealAmVoice/status/2126039382658555929",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126037052039045207",
           "created_at": "2026-11-26T19:35:07.000Z",
           "author_name": "Open Source Intel",
@@ -197,16 +267,6 @@
           "url": "https://x.com/Osint613/status/2126037052039045207",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126037020803727727",
-          "created_at": "2026-11-26T19:35:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "🎥 MUST WATCH: THE REAL STORY OF THANKSGIVING, WHAT MODERN HISTORY OMITS\n\nKing James persecuted pilgrims for not believing in HIS religion, IMPRISONING THEM. Spearheading the pilgrims exodus.\n\nThey faced a perilous journey to the new world, had many trials and tribulations, some https://t.co/O4kmrbjiCp",
-          "url": "https://x.com/RealAmVoice/status/2126037020803727727",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126036819309404617",
@@ -287,16 +347,6 @@
           "url": "https://x.com/_The_Prophet__/status/2126026948719923242",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126026404814815705",
-          "created_at": "2026-11-26T18:52:49.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "The play Colston Loveland was injured on 💔 https://t.co/VNp4DcKfxg",
-          "url": "https://x.com/Outkick/status/2126026404814815705",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126022765056848283",
@@ -429,16 +479,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125996931260506487",
-          "created_at": "2026-11-26T16:55:42.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "President Trump’s Thanksgiving message is hysterical. Enjoy. And Happy Thanksgiving to all.  https://t.co/ALaalmiAEK",
-          "url": "https://x.com/ClayTravis/status/2125996931260506487",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125987669205254402",
           "created_at": "2026-11-26T16:18:53.000Z",
           "author_name": "Glenn Beck",
@@ -447,16 +487,6 @@
           "url": "https://x.com/glennbeck/status/2125987669205254402",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125983900946088364",
-          "created_at": "2026-11-26T16:03:55.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "We all know who’s getting carved up today. 😂 https://t.co/hMlrAzhLzt",
-          "url": "https://x.com/Outkick/status/2125983900946088364",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125983454097543386",
@@ -477,26 +507,6 @@
           "url": "https://x.com/KobeissiLetter/status/2125980206053708183",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125967835348247018",
-          "created_at": "2026-11-26T15:00:05.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Happy Thanksgiving from OutKick! 🦃 🏈\n\nWishing you a day filled with great food, family, and plenty of football. https://t.co/JADDiP8Y3T",
-          "url": "https://x.com/Outkick/status/2125967835348247018",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125962593198055518",
-          "created_at": "2026-11-26T14:39:15.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Happy Thanksgiving to you and your families. Four winners today with @HardRockBet: the over in Bears-Lions,\nCowboys -9, Bills to cover and over hits against Chiefs. Get rich, kids: https://t.co/oPUR3gq3Js",
-          "url": "https://x.com/ClayTravis/status/2125962593198055518",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125959386514260377",
@@ -595,16 +605,6 @@
           "author_handle": "LauraLoomer",
           "text": "Horrible scenes unfolding in Orlando, Florida tonight.\n\nNow, 50 to 200 animals are missing and there’s fears they were taken out of spite by Muslims who may slaughter the animals who were state evidence and were set to be seized from the Islamic Halal slaughterhouse today. \n\nI https://t.co/q11MhM7UoN",
           "url": "https://x.com/LauraLoomer/status/2125752144041329111",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125745504843595960",
-          "created_at": "2026-11-26T00:16:37.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "I hate FedEx",
-          "url": "https://x.com/Timcast/status/2125745504843595960",
           "verified": true,
           "verified_type": "blue"
         },
@@ -775,6 +775,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump claims \"fake economic numbers\" were released before election",
+          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
+        },
+        {
           "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
           "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
           "source": "ABC News",
@@ -797,12 +803,6 @@
           "summary": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
-        },
-        {
-          "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
-          "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/"
         }
       ]
     },
@@ -847,16 +847,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bears back within 26-24 on D'Andre Swift TD run",
-          "summary": "The Bears and Lions are putting together a shootout in the second half in Detroit. Bears running back D'Andre Swift broke loose for a 30-yard touchdown with 3:09 left in the third quarter.",
+          "headline": "😨 Atalanta shocker: 2-0 down to Borac in Bosnia! Horror show",
+          "summary": "Maurizio Sarri's Atalanta continue their difficult journey, stumbling in the league and in the Conference League, despite facing opponents considered weak on paper. Watch every Serie BKT match live on OneFootball for just €49.99.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bears-back-within-26-24-203138701.html"
+          "url": "https://sports.yahoo.com/soccer/articles/atalanta-shocker-2-0-down-210200563.html"
         },
         {
-          "headline": "MATCH REPORT | Marseille 1-0 Levski Sofia: Amine Gouiri’s penalty secures back-to-back wins for OM in Europa League",
-          "summary": "UEFA Europa League, Matchday 5, 26/11/26 Olympique de Marseille backed up their win over Bayer Leverkusen by dispatching a limited Levski Sofia side at the Vélodrome to register their first home win in Europe in 2026 and provisionally move into the qualification places in the UEFA Europa League (1-0). Marseille got their first points of their Europa…",
+          "headline": "Big 12 football Week 13 schedule breakdown: Top matchups, upset pick",
+          "summary": "It is the final week of the regular season, and a lot is on the line for some Big 12 teams. Utah, Texas Tech and BYU are looking to add to their playoff resumes, while TCU and West Virginia are looking for upsets to become bowl-eligible.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/match-report-marseille-1-0-200900440.html"
+          "url": "https://sports.yahoo.com/college-football/articles/big-12-football-week-13-205955854.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -865,16 +865,16 @@
           "url": "https://abcnews.com/Sports/wireStory/montana-state-takes-northwest-indian-110-43-138462338"
         },
         {
-          "headline": "Avdija, Lillard lead Trail Blazers to 116-111 win over Spurs in NBA Cup play",
-          "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
+          "headline": "Stokes, Esso-Essis lead UC Davis to 80-78 OT win over Omaha",
+          "summary": "Jalen Stokes scored 24 points and Ylan Esso-Essis added five points in the overtime as UC Davis beat Omaha 80-78 on Wednesday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
+          "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
         },
         {
-          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
-          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
+          "headline": "Jahmyr Gibbs up to three touchdowns, Lions up 35-24",
+          "summary": "Lions running back Jahmyr Gibbs scored a pair of short touchdowns on Thursday and he decided for something a little more extravagant for his third trip to the end zone. Gibbs broke free for a 70-yard touchdown with 8:20 left to play in the game and the Lions now have a 35-24 lead over the Bears.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/jahmyr-gibbs-three-touchdowns-lions-205618957.html"
         }
       ]
     },
@@ -883,16 +883,22 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Jessy Moussallem’s ‘Faux Bijoux,’ Laila Abbas’ ‘America Is Behind the Door’ Take Top Prizes at Marrakech’s Atlas Workshops",
-          "summary": "Jessy Moussallem’s “Faux Bijoux” and Laila Abbas’ “America Is Behind the Door” claimed the top post-production and development prizes, respectively, at this year’s Atlas Workshops, the industry strand running Nov. 22 – 26 as part of the Marrakech Film Festival.",
+          "headline": "Chiwetel Ejiofor on How Stephen Frears’ ‘Dirty Pretty Things’ Led Him to Fall in Love With Film",
+          "summary": "Chiwetel Ejiofor started his film career by doing something that many would consider as the absolute peak: he made a film with Steven Spielberg. “Amistad” was his very first film and, understandably, he was afraid of peaking too soon.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/"
+          "url": "https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/"
         },
         {
-          "headline": "Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’",
-          "summary": "Billy Evans, Elizabeth Holmes’ partner and the father of their two children, took to X on Nov. 26 to write an emotional Thanksgiving message to her.",
+          "headline": "Luca Guadagnino Wants Next Movie to Be a ‘Love Story,’ Confirms ‘American Psycho’ and ‘Separate Rooms’ Not Happening",
+          "summary": "Luca Guadagnino wants to return to romance. Speaking to Variety at the Marrakech Film Festival where he’s presenting “Artificial,” the Italian filmmaker behind “Call Me by Your Name,” “Bones and All” and “Queer” revealed that he hopes his next directorial endeavor will be another love story.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067/"
+          "url": "https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/"
+        },
+        {
+          "headline": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
+          "summary": "He also worked with Steven Spielberg on ‘Jurassic Park,’ ‘Minority Report,’ ‘The Color Purple’ and ‘Twister’ and headed production at Amblin Entertainment.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch",
@@ -901,16 +907,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
         },
         {
-          "headline": "Scott Caan Is “100 Percent” Open to Reprising Role in ‘Ocean’s 14’ With Casey Affleck",
-          "summary": "The pair played Turk and Virgil Malloy, respectively, in the 2001 heist movie and its sequels.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/"
-        },
-        {
-          "headline": "Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63",
-          "summary": "Mark Tildesley, the acclaimed British production designer who worked on major titles including the most recent James Bond movie “No Time to Die,” has died. He was 63.",
+          "headline": "Jessy Moussallem’s ‘Faux Bijoux,’ Laila Abbas’ ‘America Is Behind the Door’ Take Top Prizes at Marrakech’s Atlas Workshops",
+          "summary": "Jessy Moussallem’s “Faux Bijoux” and Laila Abbas’ “America Is Behind the Door” claimed the top post-production and development prizes, respectively, at this year’s Atlas Workshops, the industry strand running Nov. 22 – 26 as part of the Marrakech Film Festival.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968/"
+          "url": "https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/"
         }
       ]
     },
@@ -955,6 +955,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Trump’s “Noisy Name-Calling” Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter’s Nvidia Dispatch",
+          "summary": "Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141/"
+        },
+        {
           "headline": "New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To “Traumatic Termination Procedure”",
           "summary": "A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in “a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by […]",
           "source": "Deadline",
@@ -977,12 +983,6 @@
           "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
-        },
-        {
-          "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
-          "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
         }
       ]
     },
@@ -1023,5 +1023,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T15:43:06-05:00"
+  "updatedAt": "2026-11-26T16:15:27-05:00"
 }
