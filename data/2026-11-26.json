@@ -6,16 +6,10 @@
       "title": "AI",
       "stories": [
         {
-          "headline": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
           "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
-        },
-        {
-          "headline": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-          "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls"
         },
         {
           "headline": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
@@ -34,6 +28,12 @@
           "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        },
+        {
+          "headline": "How people use AI agents to handle annoying tasks and save money",
+          "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "FedEx cargo plane runs off MIA runway, causing brief ground stop",
-          "summary": "The National Transportation Safety Board said it was investigating the incident.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/miami-international-airport-ground-stop-fedex-md-11-runway-excursion-faa/"
-        },
-        {
-          "headline": "Burnham joined by former PMs at Ann Widdecombe service",
-          "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Elon Musk doubles SpaceX share pledge for U.S. children",
-          "summary": "Every child in the U.S. will receive one share of SpaceX from the company and one from Elon Musk.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
-        },
-        {
-          "headline": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Iran live updates: Iranian drone attack killed 2 Italians, Kuwait says",
-          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+          "headline": "Bands drum up support so the show goes on for postponed Macy's Thanksgiving parade",
+          "summary": "Bands from across the country are drumming up support to stay in New York City through the weekend for the now-postponed 100th Macy's Thanksgiving Day Parade.",
           "source": "ABC News",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+          "url": "https://abcnews.com/US/bands-drum-community-support-ensure-postponed-macys-thanksgiving/story?id=138469612"
+        },
+        {
+          "headline": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+          "summary": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
+          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
+          "headline": "Germany arrests 2 Iraqis allegedly tied to Iran-linked terror group",
+          "summary": "German police arrested two Iraqi men alleged to be members of an Iran-linked terrorist organization​ that is said to have targeted U.S., Israeli and Jewish institutions in Europe.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/germany-arrests-iraqi-iran-linked-terror-suspects/"
+        },
+        {
+          "headline": "Maps show where Thanksgiving storms are disrupting holiday plans",
+          "summary": "Rain, snow and powerful winds were affecting large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/"
         }
       ]
     },
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126031703152164875",
+          "created_at": "2026-11-26T19:13:52.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Liberal aunts pulling up to Thanksgiving after the Blue Wave https://t.co/rGsBDZyFJW",
+          "url": "https://x.com/Outkick/status/2126031703152164875",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126031596889186693",
+          "created_at": "2026-11-26T19:13:27.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A shooting at an Airbnb hosting a Thanksgiving party in Davenport, Florida, left one person dead and six others injured, according to WFLA.",
+          "url": "https://x.com/Osint613/status/2126031596889186693",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126030966724706459",
+          "created_at": "2026-11-26T19:10:56.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THANKSGIVING IS NOT SECULAR: KNOWING WHERE WE CAME FROM AS A COUNTRY\n\n\"What the pilgrims went through in the early years was unbelievable. Set out to create the most successful nation. Thanksgiving is about giving thanks to God. It IS NOT SECULAR.\" @JackPosobiec https://t.co/8LDtEUfQte",
+          "url": "https://x.com/RealAmVoice/status/2126030966724706459",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126029287186702455",
+          "created_at": "2026-11-26T19:04:16.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian FM Abbas Araghchi denies Tehran was behind the drone attack on a Kuwaiti air defense site.\n\nTwo Italian technicians from Rheinmetall were killed. A Kuwaiti and a Pakistani national were injured.\n\nKuwait's Defence Ministry and Italy's Foreign Minister both pin the strike",
+          "url": "https://x.com/Osint613/status/2126029287186702455",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126028640823488954",
+          "created_at": "2026-11-26T19:01:42.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Jamo slowly backing away from the Lions celly is hilarious https://t.co/pVPMNgZDyy",
+          "url": "https://x.com/Outkick/status/2126028640823488954",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126028453140894010",
+          "created_at": "2026-11-26T19:00:57.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The Europa League match between Israel's Hapoel Be'er Sheva and Türkiye's Beşiktaş in Batumi, Georgia, has resumed after UEFA suspended it over severe crowd unrest. Play stopped when a scuffle between players triggered anti-Israel chants in the stands, and both teams walked off. https://t.co/05e2zNqUxT",
+          "url": "https://x.com/Osint613/status/2126028453140894010",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126028305103044917",
+          "created_at": "2026-11-26T19:00:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Here’s your Daily dose of Human Events with @JackPosobiec. Tune in every M-F at 2PM ET. @HumanEventsLive https://t.co/3NgkkviFAC",
+          "url": "https://x.com/RealAmVoice/status/2126028305103044917",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126027432692248843",
+          "created_at": "2026-11-26T18:56:54.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The sports documentary industry has become overrun by self-produced PR projects, but at its best, the genre can still produce extraordinary films.\n\nFrom \"Hoop Dreams\" to \"Red Army,\" here are six all-time classics and where to stream them while avoiding your family this holiday",
+          "url": "https://x.com/SportNState/status/2126027432692248843",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126026948719923242",
+          "created_at": "2026-11-26T18:54:58.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Happy Thanksgiving, signal-bearers. \n\nMarkets rest today. The signal never sleeps.",
+          "url": "https://x.com/_The_Prophet__/status/2126026948719923242",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126026404814815705",
+          "created_at": "2026-11-26T18:52:49.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "The play Colston Loveland was injured on 💔 https://t.co/VNp4DcKfxg",
+          "url": "https://x.com/Outkick/status/2126026404814815705",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126022765056848283",
           "created_at": "2026-11-26T18:38:21.000Z",
@@ -179,26 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126011855504110007",
-          "created_at": "2026-11-26T17:55:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "It's time to support entertainment that puts FAITH and FAMILY first!\n\nOur friends at @AngelStudiosInc are launching their BIGGEST Black Friday sale of the year!\n\n✨ 44% OFF a Premium Annual Angel Guild membership\n🍫 Two complimentary tickets to see Hershey in theaters\n📺 Access https://t.co/II0eHYStBb",
-          "url": "https://x.com/RealAmVoice/status/2126011855504110007",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126010848237732099",
-          "created_at": "2026-11-26T17:51:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICA WAS TEARING ITSELF APART WHEN LINCOLN CALLED THE NATION TO GIVE THANKS!\n\nIn 1863, with the Civil War raging and families mourning unimaginable losses, President Abraham Lincoln issued the proclamation that helped establish Thanksgiving as an annual national tradition. https://t.co/SDcwISncHc",
-          "url": "https://x.com/RealAmVoice/status/2126010848237732099",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126010653353664954",
           "created_at": "2026-11-26T17:50:13.000Z",
           "author_name": "Tim Pool",
@@ -249,52 +329,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126006295572721881",
-          "created_at": "2026-11-26T17:32:54.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Mamdani visits a Sikh temple in Queens to mark Guru Nanak’s birthday.  https://t.co/uBlmPXhloC",
-          "url": "https://x.com/Osint613/status/2126006295572721881",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126004975117414425",
-          "created_at": "2026-11-26T17:27:39.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Putin on AI:\n\nAlmost ten years ago, I said that if any country achieved leadership in the development of artificial intelligence, that country would become the ruler of the world.\n\nThe situation has changed dramatically since then.\n\nSimply possessing even the latest generation of https://t.co/iVnI4fN7sg",
-          "url": "https://x.com/Osint613/status/2126004975117414425",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126004962673226182",
-          "created_at": "2026-11-26T17:27:37.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "All the hot takes! \nhttps://t.co/kpeUdaFSe3",
-          "url": "https://x.com/Outkick/status/2126004962673226182",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126004402763051375",
           "created_at": "2026-11-26T17:25:23.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️ https://t.co/lx9naIeXED https://t.co/NvAeS8TDpm",
           "url": "https://x.com/_The_Prophet__/status/2126004402763051375",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126004336090308991",
-          "created_at": "2026-11-26T17:25:07.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Med Emre, a Maltese-flagged tanker, went down 25 nautical miles northwest of Ibiza with 7,000 tons of diesel fuel on board.\n\nOne crew member is confirmed dead. https://t.co/7AmHnS9lBh",
-          "url": "https://x.com/Osint613/status/2126004336090308991",
           "verified": true,
           "verified_type": "blue"
         },
@@ -347,16 +387,6 @@
           "url": "https://x.com/ClayTravis/status/2125996931260506487",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125990467653222506",
-          "created_at": "2026-11-26T16:30:01.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "HARD PASS! on these Thanksgiving dishes. \n\nJalen Brunson, Trevor Lawrence and more reveal what they're leaving off their plates this Turkey Day. https://t.co/UnxDxWmlmL",
-          "url": "https://x.com/Outkick/status/2125990467653222506",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125987669205254402",
@@ -499,16 +529,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125806622270517750",
-          "created_at": "2026-11-26T04:19:28.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Jordan Love trying to get that Subway endorsement  https://t.co/rEp4Cq1QRe",
-          "url": "https://x.com/Outkick/status/2125806622270517750",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125782865455751359",
           "created_at": "2026-11-26T02:45:04.000Z",
           "author_name": "Matt Walsh",
@@ -639,16 +659,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125685018332893273",
-          "created_at": "2026-11-25T20:16:16.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Private equity is heading toward a forced repricing of ownership, and the people who ultimately acquire these companies won't necessarily have to outbid their current owners. \n\nThey'll have to outlast them.\n\nA private equity firm can carry a company at a $1 billion valuation https://t.co/2nMYK8VQt9",
-          "url": "https://x.com/_The_Prophet__/status/2125685018332893273",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125679436636766488",
           "created_at": "2026-11-25T19:54:05.000Z",
           "author_name": "Sport & State",
@@ -775,16 +785,16 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
+          "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
+        },
+        {
           "headline": "ICE detains man in Mass. after he picks up lottery winnings",
           "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
-        },
-        {
-          "headline": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
-          "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
         },
         {
           "headline": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
@@ -823,6 +833,12 @@
           "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
         },
         {
+          "headline": "Elon Musk doubles SpaceX share pledge for U.S. children",
+          "summary": "Every child in the U.S. will receive one share of SpaceX from the company and one from Elon Musk.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
+        },
+        {
           "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
           "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
           "source": "CBS News",
@@ -833,12 +849,6 @@
           "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
-        },
-        {
-          "headline": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
-          "summary": "Shares have advanced in Europe and Asia while U.S. markets are closed for the Thanksgiving holiday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
         }
       ]
     },
@@ -847,16 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Caleb Martin’s Hot Shooting Stuns Mavericks Fans",
-          "summary": "Ron Chenoy-Imagn Images The forward went from a player many wanted to see gone to a starter the team cannot live without. This surge comes after a rough start where he struggled to find his rhythm.",
+          "headline": "Advertiser's boys and girls Athletes of the Week for Nov. 14-20 presented by The Vance Law Firm",
+          "summary": "The results are in for the Montgomery Advertiser's Boys and Girls Athlete of the Week poll presented by The Vance Law Firm. Readers were given the option to vote from Sunday, Nov.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/caleb-martin-hot-shooting-stuns-181742967.html"
+          "url": "https://sports.yahoo.com/high-school-sports/articles/advertisers-boys-girls-athletes-week-190911534.html"
         },
         {
-          "headline": "Lions edge rusher DJ Wonnum, safety Chuck Clark and Bears DB Kyler Gordon inactive with injuries",
-          "summary": "DETROIT (AP) — The Detroit Lions were down two more starters on defense and Chicago missed one starter on that side of the ball in their matchup on Thanksgiving with first place in the NFC North at stake. Detroit edge rusher DJ Wonnum (back) and safety Chuck Clark (hamstring) were ruled out on Thursday as well as Chicago defensive back Kyler Gordon…",
+          "headline": "FPL GW12 Scout Picks: The XI to Beat Before Friday’s Early Deadline",
+          "summary": "BRUGES, BELGIUM - NOVEMBER 25: Alexander Isak of Liverpool celebrates scoring his team’s third goal during the UEFA Champions League 2026/27 League Phase MD5 match between Club Brugge KV and Liverpool FC at Jan Breydel Stadium on November 25, 2026 in Bruges, Belgium. (Photo by Dean Mouhtaropoulos/Getty Images) | Getty Images With Gameweek 12 of the…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/lions-edge-rusher-dj-wonnum-180933821.html"
+          "url": "https://sports.yahoo.com/fantasy/articles/fpl-gw12-scout-picks-xi-190610958.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -871,10 +881,10 @@
           "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
         },
         {
-          "headline": "De'Anthony Melton scores 24 points, matches career high with eight 3s as Warriors beat Kings 129-110",
-          "summary": "De’Anthony Melton scored 24 points and matched his career high with eight 3-pointers and the Golden State Warriors made 20 total 3s on the way to beating the Sacramento Kings 129-110 in an NBA Cup game",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/deanthony-melton-scores-24-points-matches-career-high-138462716"
+          "headline": "D-Y wins league title in dramatic Thanksgiving victory over Nauset",
+          "summary": "The Dennis-Yarmouth and Nauset football teams staged a classic in their Thanksgiving Day showdown. The Dolphins (8-3) beat the Warriors (5-6), 17-14.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/high-school-sports/articles/d-y-wins-league-title-190232139.html"
         }
       ]
     },
@@ -882,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Elizabeth Holmes’ Partner Billy Evans Writes Her an Emotional Thanksgiving Love Letter: ‘Our Most Beautiful Days Are Still Ahead of Us’",
+          "summary": "Billy Evans, Elizabeth Holmes’ partner and the father of their two children, took to X on Nov. 26 to write an emotional Thanksgiving message to her.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/elizabeth-holmes-billy-evans-thanksgiving-love-letter-1236959067/"
+        },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch",
           "summary": "Lionsgate's sixth film in its dystopian franchise looks to win its sophomore frame after notching series records with its debut Monday and Tuesday.",
@@ -901,12 +917,6 @@
           "url": "https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968/"
         },
         {
-          "headline": "Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal",
-          "summary": "French actor Gérard Depardieu will face a criminal rape trial after an appeal from his lawyers failed. According to Reuters, on Thursday the Paris Court of Appeal ruled that a trial would go ahead regarding rape charges that stemmed from accusations made by actress Charlotte Arnould in 2018.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/"
-        },
-        {
           "headline": "Get Ready for the Great Asterix Film Festival and Three Restored ‘Asterix’ Animated Movies!",
           "summary": "StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.",
           "source": "The Hollywood Reporter",
@@ -918,6 +928,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "‘A Paw Patrol Christmas’: When and Where to Stream the Animated Holiday Special Online Free",
+          "summary": "The pups are returning to primetime for a special Christmas event.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-a-paw-patrol-christmas-stream-cbs-special-online-free-1236436268/"
+        },
         {
           "headline": "Matt Damon Narrates Ford Racing’s ‘Go Like Hell’ Thanksgiving Day Ad Directed by Zack Snyder",
           "summary": "Ford Racing tapped Matt Damon, star of “Ford v Ferrari,” to introduce the all-new Ford GT41 Hypercar in a new ad directed by filmmaker Zack Snyder. The ad is slated to air during CBS’s broadcast of the Detroit Lions-Chicago Bears Thanksgiving Day NFL game, which starts at 1 p.m.",
@@ -941,12 +957,6 @@
           "summary": "Denmark’s TV2 has dipped into the independent production market for an Acting Program Director as it seeks penance over the scandal around Truman Show-like reality series Everybody Loves Rasmus Sune Roland will take up the position on December 1, and will lead the TV2 programming division during a period the network “is working to rebuild […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/tv2-denmark-hires-program-boss-everybody-loves-rasmus-shame-1237234057/"
-        },
-        {
-          "headline": "‘Dark’ Creators Revisit Eerie German Forests in First ‘Sonnental’ Teaser",
-          "summary": "Lisa Vicari stars as a profiler investigating a gruesome murder in her old hometown, inspired by 'Struwwelpeter,' a real and really sinister German children's book.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/"
         }
       ]
     },
@@ -973,16 +983,16 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
-          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
-          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
-        },
-        {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        },
+        {
+          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
+          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -990,6 +1000,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84",
+          "summary": "Michael Giles, co-founder and original drummer of King Crimson , has died. He was 84.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/"
+        },
         {
           "headline": "PUP Compose New Music for Sample Pack Benefitting Kids in Toronto",
           "summary": "Proceeds from the eight new songs will go to Community Music Schools of Toronto",
@@ -1009,12 +1025,6 @@
           "url": "https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/"
         },
         {
-          "headline": "Was The Rolling Stones’ 1973 Still Part of the Band’s Classic Period, Or the Beginning of the End? (Greatest Pop Stars Podcast)",
-          "summary": "In 1973, The Rolling Stones were coming off one of the greatest album runs in rock and roll history, a four-album stretch that cemented them as the World’s Greatest Rock and Roll Band, culminating in 1972’s Exile on Main Street and its legendarily hedonistic accompanying tour. Rather than take time off to victory lap following this iconic period, they…",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/"
-        },
-        {
           "headline": "'Everywhere Man' traces the trajectory of under-the-radar music producer Peter Asher",
           "summary": "When Asher was a teen, Paul McCartney lived with his family and wrote The Beatles' songs. Asher was part of the British Invasion before becoming a music producer.",
           "source": "NPR",
@@ -1023,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T13:40:32-05:00"
+  "updatedAt": "2026-11-26T14:16:24-05:00"
 }
