@@ -42,6 +42,24 @@
       "title": "News",
       "stories": [
         {
+          "headline": "French actor Gérard Depardieu to stand trial on rape charge",
+          "summary": "A lawyer representing French actor Gérard Depardieu says he has been ordered to stand trial on a charge of raping a young actress at his Paris home in 2018.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/gerard-depardieu-trial-alleged-rape-paris/"
+        },
+        {
+          "headline": "Burnham joined by former PMs at Ann Widdecombe service",
+          "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "UK net migration at lowest level since 1997 as asylum claims also fall",
+          "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Iran live updates: Iranian drone attack killed 2 Italians, Kuwait says",
           "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
           "source": "ABC News",
@@ -52,24 +70,6 @@
           "summary": "Food banks and resource centers are overwhelmed this season, with nearly 6.5 million fewer Americans receiving food assistance this year. Jason Allen reports.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/food-banks-overwhelmed-as-people-struggle-to-afford-thanksgiving-meals/"
-        },
-        {
-          "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
-          "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
-        },
-        {
-          "headline": "UK net migration at lowest level since 1997 as asylum claims also fall",
-          "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Millions of people to see average monthly mortgage payments rise by £100",
-          "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125970296368771575",
+          "created_at": "2026-11-26T15:09:51.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The Jazan refinery in southern Saudi Arabia was hit by the Houthis.\n\nAttacks on civilians and civilian sites will bring a powerful military response, Riyadh warns.\n\nSaudi military spokesman",
+          "url": "https://x.com/Osint613/status/2125970296368771575",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125970066009362692",
+          "created_at": "2026-11-26T15:08:57.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Saudi Arabia strongly condemns Iran's attack on Kuwait. https://t.co/kI29rz1ehD",
+          "url": "https://x.com/Osint613/status/2125970066009362692",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125969384682455270",
+          "created_at": "2026-11-26T15:06:14.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump: \n\nThere's a strong chance Russia pulls back military aggression",
+          "url": "https://x.com/Osint613/status/2125969384682455270",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125968329127129305",
+          "created_at": "2026-11-26T15:02:02.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Trump briefed NATO chief Mark Rutte at Mar-a-Lago last night on his Putin talks.\n\nIn China, Trump pushed Putin to pull back all military aggression in Europe. The goal is a fast Russia-Ukraine deal, which Trump calls a strong possibility.\n\n\"A COMPLETE BLOODBATH\" https://t.co/rxFG9ZnXF4 https://t.co/BcqS78C65X",
+          "url": "https://x.com/Osint613/status/2125968329127129305",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125967835348247018",
+          "created_at": "2026-11-26T15:00:05.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Happy Thanksgiving from OutKick! 🦃 🏈\n\nWishing you a day filled with great food, family, and plenty of football. https://t.co/JADDiP8Y3T",
+          "url": "https://x.com/Outkick/status/2125967835348247018",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125965298679390430",
+          "created_at": "2026-11-26T14:50:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Faith. Family. Freedom. Now on VINYL!\n\nBring home the sounds of an American Christmas with \"Real America's Christmas,\" a special 12-inch vinyl edition celebrating the music, faith and traditions that make this season so special.\n\n🎁 The perfect Christmas gift for someone who https://t.co/GA0VKB1AMO",
+          "url": "https://x.com/RealAmVoice/status/2125965298679390430",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125964696385671241",
+          "created_at": "2026-11-26T14:47:36.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Ma'amadani Hospital in the northern Gaza Strip is being used by Hamas for interrogations and torture, the IDF and the General Security Service (Shin Bet) revealed today.\n\nOn the hospital's role:\n\n\"It constitutes a significant center of gravity in the governance of Hamas in the https://t.co/bVQUJb0r50",
+          "url": "https://x.com/Osint613/status/2125964696385671241",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125962593198055518",
           "created_at": "2026-11-26T14:39:15.000Z",
@@ -119,16 +189,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125960185608896840",
-          "created_at": "2026-11-26T14:29:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hamas is in talks with other Palestinian factions on how to respond to continued Israeli strikes and the siege of Gaza. Hamas leader Khalil al-Hayya called both unacceptable given the ceasefire agreement, and criticized the Board of Peace and mediators for what he described as a",
-          "url": "https://x.com/Osint613/status/2125960185608896840",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125959386514260377",
           "created_at": "2026-11-26T14:26:30.000Z",
           "author_name": "Laura Loomer",
@@ -145,16 +205,6 @@
           "author_handle": "LauraLoomer",
           "text": "Of course he is… \n\nJust like last year. And notice the Doha Forum is scheduled during Hanukkah. \n\nI’m sure that was done on purpose too. https://t.co/Z4PI15jxfk",
           "url": "https://x.com/LauraLoomer/status/2125959025032581450",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125954823103324190",
-          "created_at": "2026-11-26T14:08:22.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Flydubai is scheduled to resume flights between Dubai and Tel Aviv on Thursday, December 3, 2026, and has reopened ticket sales for the route.\n\nTimes of Israel.",
-          "url": "https://x.com/Osint613/status/2125954823103324190",
           "verified": true,
           "verified_type": "blue"
         },
@@ -189,16 +239,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125952417938198565",
-          "created_at": "2026-11-26T13:58:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Two Italian Rheinmetall technicians are dead after an alleged Iranian drone attack on a vital site in Kuwait.\n\nBoth were supporting anti-drone systems in the Gulf. https://t.co/HNmGDlktOa https://t.co/kI29rz0Gs5",
-          "url": "https://x.com/Osint613/status/2125952417938198565",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125950831123927507",
           "created_at": "2026-11-26T13:52:31.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -207,36 +247,6 @@
           "url": "https://x.com/RealAmVoice/status/2125950831123927507",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125950732398395864",
-          "created_at": "2026-11-26T13:52:07.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Trump fires back at The New York Times over what he says the paper LEFT OUT!\n\nPresident Trump blasts reporter David Sanger for overlooking what he describes as historic accomplishments on border security, crime reduction, tax cuts, military operations and international diplomacy. https://t.co/GsjLsITdhS",
-          "url": "https://x.com/RealAmVoice/status/2125950732398395864",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125949366728802387",
-          "created_at": "2026-11-26T13:46:41.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Two Italian workers wounded in an Iranian strike on Kuwait have died of their injuries, according to Italian news agency ANSA. https://t.co/kI29rz0Gs5",
-          "url": "https://x.com/Osint613/status/2125949366728802387",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125947739368567155",
-          "created_at": "2026-11-26T13:40:13.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "\"The war must not spread to the Mediterranean Sea, it cannot spread there. We must be very clear about this to our Ukrainian friends.\"\n\nItalian Prime Minister Giorgia Meloni, reacting to Ukrainian attacks on Russian vessels in Libya.",
-          "url": "https://x.com/Osint613/status/2125947739368567155",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125945522121044130",
@@ -387,16 +397,6 @@
           "url": "https://x.com/MattWalshBlog/status/2125782865455751359",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125780799962350057",
-          "created_at": "2026-11-26T02:36:52.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "In 2006 this hit would’ve been featured on a beer commercial \n\nIn 2026 it’s an ejection… https://t.co/3YXCtapwjx",
-          "url": "https://x.com/Outkick/status/2125780799962350057",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125766936109646067",
@@ -689,16 +689,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125602930891853975",
-          "created_at": "2026-11-25T14:50:05.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "Everything You Need To Know About The Jensen Huang Scandal | Ep. 1879\n\nhttps://t.co/IU3BUL923Q",
-          "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125287542283206698",
           "created_at": "2026-11-24T17:56:50.000Z",
           "author_name": "Glenn Beck",
@@ -817,18 +807,6 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "“Worst Ranked Team I’ve Ever Seen”: UConn Fans React Furiously After 77-63 Loss to Duke",
-          "summary": "Dan Hurley © Imagn. Duke inflicted the second defeat of the season on the UConn Huskies as the Blue Devils won 77-63 on Wednesday.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/worst-ranked-team-ve-ever-143955456.html"
-        },
-        {
-          "headline": "3 Positions the Vikings have an edge over the Falcons in Week 12",
-          "summary": "The Minnesota Vikings entered Week 11 with momentum and wind in their sails after an impressive win over the Green Bay Packers the week before. Despite all of that, they left Mexico City and Week 11 bruised up and defeated both literally and figuratively.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/3-positions-vikings-edge-over-142246318.html"
-        },
-        {
           "headline": "Montana State takes down Northwest Indian 110-43",
           "summary": "DJ Johnson scored 16 points as Montana State beat Northwest Indian 110-43",
           "source": "ABC News",
@@ -841,10 +819,22 @@
           "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
         },
         {
+          "headline": "Duke beat UConn, which was big. John Blackwell's night was even bigger — and so crucial for Duke's title hopes",
+          "summary": "Duke was on the verge of a crisis, and then Blackwell finally showed why he's so key to everything the Blue Devils want to be this season",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/duke-uconn-las-vegas-john-blackwell-jon-scheyer/"
+        },
+        {
           "headline": "Alabama, Tennessee, Iowa among top 25 teams on upset alert during Rivalry Week",
           "summary": "We've got five ranked teams on upset alert in games that could rattle the College Football Playoff picture",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/alabama-tennessee-iowa-ohio-state-upset-alert-rivalry-week/"
+        },
+        {
+          "headline": "De'Anthony Melton scores 24 points, matches career high with eight 3s as Warriors beat Kings 129-110",
+          "summary": "De’Anthony Melton scored 24 points and matched his career high with eight 3-pointers and the Golden State Warriors made 20 total 3s on the way to beating the Sacramento Kings 129-110 in an NBA Cup game",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/deanthony-melton-scores-24-points-matches-career-high-138462716"
         }
       ]
     },
@@ -853,10 +843,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal",
-          "summary": "French actor Gérard Depardieu will face a criminal rape trial after an appeal from his lawyers failed. According to Reuters, on Thursday the Paris Court of Appeal ruled that a trial would go ahead regarding rape charges that stemmed from accusations made by actress Charlotte Arnould in 2018.",
+          "headline": "Get Ready for the Great Asterix Film Festival and Three Restored ‘Asterix’ Animated Movies!",
+          "summary": "StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/"
+        },
+        {
+          "headline": "Danny Boyle Backs Jack O’Connell as a Bond Villain, but Says He ‘Would Have Been Great’ as 007",
+          "summary": "Danny Boyle has thrown his support behind his “Ink” star Jack O’Connell as the man to battle Robert Pattinson’s James Bond in the next 007 movie. The director — who himself was due to direct the last Bond “No Time to Die” before leaving over creative differences — has acknowledged that with the lead role now cast, […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/"
+          "url": "https://variety.com/2026/film/global/danny-boyle-backs-jack-oconnell-as-bond-villain-1236958935/"
         },
         {
           "headline": "‘Roma’ Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro",
@@ -871,12 +867,6 @@
           "url": "https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/"
         },
         {
-          "headline": "Director Cédric Klapisch to Receive César Lifetime Achievement Honor",
-          "summary": "The 'Spanish Apartment' and 'Call my Agent!' director will be honored at the 52nd César Awards on Feb. 25.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946/"
-        },
-        {
           "headline": "‘Ramayana’ Doubled Visitors at Kerala’s Jatayu Rock, Official Says as India Pitches Itself to Global Productions at WAVES Film Bazaar",
           "summary": "Nitesh Tiwari’s “Ramayana” has doubled visitor numbers at Kerala’s Jatayu Earth’s Center, known locally as Jatayu Rock, Ministry of Tourism joint secretary Harikishore S. told a WAVES Film Bazaar panel in Goa, where Indian officials pitched a single-window filming portal and state incentives to international producers.",
           "source": "Variety",
@@ -888,6 +878,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "‘Saint-Pierre’ Season 3 Trailer Sees New Faces Shake Up Life For Fitz & Arch",
+          "summary": "EXCLUSIVE: Here’s the trailer for Season 3 of this week’s Global Breakout, Saint-Pierre. The CBC drama series, which stars Allan Hawco and Jósephine Jobert as a cop duo on a small island off Newfoundland, is returning to Canadian screens on January 4, 2027, and we’ve got a first video for the new season.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/saint-pierre-season-3-trailer-cbc-1237233967/"
+        },
         {
           "headline": "‘Dark’ Creators Revisit Eerie German Forests in First ‘Sonnental’ Teaser",
           "summary": "Lisa Vicari stars as a profiler investigating a gruesome murder in her old hometown, inspired by 'Struwwelpeter,' a real and really sinister German children's book.",
@@ -911,12 +907,6 @@
           "summary": "The UK government’s antisemitism tsar is probing the BBC. John Mann told the Today programme he has opened an investigation to see how “widespread” Jewish staff’s “feeling of discomfort” is within the corporation.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/bbc-antisemitism-investigation-john-mann-government-1237233983/"
-        },
-        {
-          "headline": "Richard Hammond Says He Was Approached About ‘Top Gear’ Return, but Decided: ‘No, I’m Too Old’",
-          "summary": "Former “Top Gear” co-host Richard Hammond has revealed that he was approached about returning to the BBC’s revived version of the car show, but declined because he’s “too old.” Hammond appeared on Times Radio on Wednesday to discuss the series, shortly after it was announced that Gordon Ramsay would be taking the wheel as lead […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/top-gear-richard-hammond-declined-return-1236958870/"
         }
       ]
     },
@@ -926,7 +916,7 @@
       "stories": [
         {
           "headline": "NBC Uses Thanksgiving TV to Kickstart 2028 LA Olympics Marketing Push",
-          "summary": "Olympic gold medalists Sydney Levrone and Rai Benjamin star in the spot, which sees the Olympic rings appearing in some of the city's most iconic locations.",
+          "summary": "Olympic gold medalists Sydney Levrone and Rai Benjamin star in the spots, which sees the Olympic rings appearing in some of the city's most iconic locations.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/nbc-new-2028-la-olympics-spot-thanksgiving-1236763173/"
         },
@@ -961,37 +951,37 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’",
+          "summary": "At the 2026 Billboard Latin Music Awards last month, a mob of Chuyíns in white straitjackets turned the stage into a psychiatric ward during a performance of “Pues Ya Ni Pedo.” The show’s closing gag revealed members of Fuerza Regida beneath the oversized masks — a fitting glimpse into the wonderfully chaotic world of the música mexicana breakout star’s…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/"
+        },
+        {
+          "headline": "Was The Rolling Stones’ 1973 Still Part of the Band’s Classic Period, Or the Beginning of the End? (Greatest Pop Stars Podcast)",
+          "summary": "In 1973, The Rolling Stones were coming off one of the greatest album runs in rock and roll history, a four-album stretch that cemented them as the World’s Greatest Rock and Roll Band, culminating in 1972’s Exile on Main Street and its legendarily hedonistic accompanying tour. Rather than take time off to victory lap following this iconic period, they…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/"
+        },
+        {
           "headline": "'Everywhere Man' traces the trajectory of under-the-radar music producer Peter Asher",
           "summary": "When Asher was a teen, Paul McCartney lived with his family and wrote The Beatles' songs. Asher was part of the British Invasion before becoming a music producer.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-6053221/everywhere-man-peter-asher"
         },
         {
-          "headline": "‘What A Talent’: Belinda Carlisle, UB40, Spandau Ballet & More Remember Andy Taylor",
-          "summary": "Tributes are flooding in for Andy Taylor , the brawny founding guitarist for Duran Duran and The Power Station, who has passed away after a years-long battle with prostate cancer. He was 65.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/rock/belinda-carlisle-ub40-spandau-ballet-remember-andy-taylor-1236390136/"
+          "headline": "Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65",
+          "summary": "Taylor revealed his battle with Stage 4 metastatic prostate cancer in 2022. He was the guitarist of the 1980s English band Duran Duran, whose pop hits included \"Hungry Like the Wolf\" and \"Rio\".",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit"
         },
         {
           "headline": "U2 Perform Dolly Parton’s Final Recording During NFL Halftime Show",
           "summary": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/"
-        },
-        {
-          "headline": "Ariana Grande Says Reaction to ‘Petal’ Video Felt Like ‘Black Mirror’",
-          "summary": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\"",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/"
-        },
-        {
-          "headline": "King Crimson Co-Founder Michael Giles Dies at 84",
-          "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/king-crimson-co-founder-michael-giles-dies-at-84/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-26T09:47:12-05:00"
+  "updatedAt": "2026-11-26T10:12:22-05:00"
 }
