@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
+          "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
+          "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
-          "headline": "ICE detains man in Mass. after he picks up lottery winnings",
-          "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
+          "headline": "Food banks see influx of families ahead of Thanksgiving",
+          "summary": "Across the U.S., volunteers have noticed more families than usual seeking food assistance as people struggle with higher grocery costs.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
-        },
-        {
-          "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
-          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+          "url": "https://www.cbsnews.com/news/thanksgiving-food-bank-demand-meal-costs/"
         },
         {
           "headline": "Burnham joined by former PMs at Ann Widdecombe service",
           "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
@@ -78,6 +78,116 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126001788859892066",
+          "created_at": "2026-11-26T17:15:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BEFORE THANKSGIVING BECAME A CELEBRATION, SURVIVAL CAME AT A DEVASTATING COST!\n\nDisease. Starvation. Hundreds dead.\n\nAmerica's earliest English settlers endured unimaginable hardships, and the Pilgrims would face their own struggle for survival.\n\n@thebeaudavidson https://t.co/VUWAOXgQBF",
+          "url": "https://x.com/RealAmVoice/status/2126001788859892066",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126000962422612072",
+          "created_at": "2026-11-26T17:11:43.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "The Federal Communications Commission (FCC) this week approved SpaceX owner Elon Musk’s plans to build data centers in space.\n\n“Today, in a historic first, the FCC approved SpaceX’s request for 1 million satellites (orbital compute modules) to create data centers in space,” FCC https://t.co/01OsVP8oz2",
+          "url": "https://x.com/RealAmVoice/status/2126000962422612072",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125999875254882402",
+          "created_at": "2026-11-26T17:07:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Tehran denies responsibility for the drone attack on an air defense system in Kuwait.\n\nIran's military spokesperson, Brig. Gen. Abolfazl Shekarchi, on Thursday: Iranian forces have carried out no offensive operations in the region. https://t.co/kI29rz0Gs5",
+          "url": "https://x.com/Osint613/status/2125999875254882402",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125999302925578533",
+          "created_at": "2026-11-26T17:05:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Joe Terranova says the market is \"prioritizing liquidity\" right now, and that makes it \"nearly impossible for the neoclouds to go out and raise capital\"\n\n\"The market wants the liquidity. That's what I see in front of me\"\n\n\"I've been wrong on my market calls for the last 30 days\" https://t.co/V0puj19eAH",
+          "url": "https://x.com/_Investinq/status/2125999302925578533",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125998958841675795",
+          "created_at": "2026-11-26T17:03:45.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Happy Thanksgiving to my favorite people on the planet, Alabama fans! https://t.co/5EqGrymdny",
+          "url": "https://x.com/ClayTravis/status/2125998958841675795",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125998543437516910",
+          "created_at": "2026-11-26T17:02:06.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "They even X’d out my head?!",
+          "url": "https://x.com/ClayTravis/status/2125998543437516910",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125998424734523490",
+          "created_at": "2026-11-26T17:01:38.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A bill banning Chinese-linked vehicles from the U.S. is headed for a House fast-track after a bipartisan Senate deal.\n\nA planned voice vote in the senate is planned for December.",
+          "url": "https://x.com/Osint613/status/2125998424734523490",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125998014594519270",
+          "created_at": "2026-11-26T17:00:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THANKSGIVING IS THE MOST AMERICAN HOLIDAY! \n\n\"Thanksgiving is the about being grateful for everything God gave us...regardless of the problems we face.\"\n\n@AndrewKolvet https://t.co/1973tBGrj8",
+          "url": "https://x.com/RealAmVoice/status/2125998014594519270",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125997278842466512",
+          "created_at": "2026-11-26T16:57:05.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I can’t believe this is up on the @HardRockBet app today. Outrageous. The HR file just keeps getting more extensive. https://t.co/6AYrouZTDy",
+          "url": "https://x.com/ClayTravis/status/2125997278842466512",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125996931260506487",
+          "created_at": "2026-11-26T16:55:42.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "President Trump’s Thanksgiving message is hysterical. Enjoy. And Happy Thanksgiving to all.  https://t.co/ALaalmiAEK",
+          "url": "https://x.com/ClayTravis/status/2125996931260506487",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125995044846948576",
+          "created_at": "2026-11-26T16:48:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran's Marandi:\n\nIt is widely believed in Iran that the attack on Kuwait was a false flag operation, likely carried out by the Ukrainian regime, because its operatives are now present across the region, including in northern Iraq and Syria. Ukraine aims to demonstrate its https://t.co/kI29rz0Gs5",
+          "url": "https://x.com/Osint613/status/2125995044846948576",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125993126632341837",
           "created_at": "2026-11-26T16:40:35.000Z",
@@ -139,16 +249,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125986933642019241",
-          "created_at": "2026-11-26T16:15:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Prime Minister of Kurdistan:\n\n\"We reject targeting the rights of the people of Kurdistan under the pretext of fighting corruption.\" https://t.co/QAKL8s4gP2",
-          "url": "https://x.com/Osint613/status/2125986933642019241",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125983900946088364",
           "created_at": "2026-11-26T16:03:55.000Z",
           "author_name": "OutKick",
@@ -189,26 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125982153708384552",
-          "created_at": "2026-11-26T15:56:58.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Trump unleashes a fiery Thanksgiving message!\n\nPresident Trump takes aim at the radical left, alleged manipulation of pre-election GDP numbers, critics of his White House renovations and illegal immigration in a lengthy Thanksgiving post.\n\n“HAPPY THANKSGIVING TO ALL AMERICAN https://t.co/GrUzJus1kr",
-          "url": "https://x.com/RealAmVoice/status/2125982153708384552",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125981461798957351",
-          "created_at": "2026-11-26T15:54:13.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "America is — and always will be — one Nation under God. https://t.co/sVTHaIVe5g",
-          "url": "https://x.com/RealAmVoice/status/2125981461798957351",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125980206053708183",
           "created_at": "2026-11-26T15:49:14.000Z",
           "author_name": "The Kobeissi Letter",
@@ -229,42 +309,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125978186148389023",
-          "created_at": "2026-11-26T15:41:12.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Happy Thanksgiving from @POTUS! https://t.co/CUawdHV1s6",
-          "url": "https://x.com/RealAmVoice/status/2125978186148389023",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125977198452744338",
-          "created_at": "2026-11-26T15:37:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hamas political bureau chief Al-Hayya: \"We cannot accept the equation of killing and siege despite the ceasefire in Gaza.\"\n\nAl Jazeera https://t.co/dIiTgFrKAd",
-          "url": "https://x.com/Osint613/status/2125977198452744338",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125975457225211988",
           "created_at": "2026-11-26T15:30:22.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Ed Yardeni says baby boomers \"collectively have $100 trillion of net worth\" and rejects the idea that the economy only works because of AI\n\n\"There's all this talk that the economy would be dead if it wasn't for AI. I don't buy that at all\"\n\n\"They didn't blink when there was a https://t.co/XGqFlvPuLH",
           "url": "https://x.com/_Investinq/status/2125975457225211988",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125973740420751684",
-          "created_at": "2026-11-26T15:23:33.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Qatar and Pakistan are still mediating and passing along ideas and proposals, per Iran's foreign minister.",
-          "url": "https://x.com/Osint613/status/2125973740420751684",
           "verified": true,
           "verified_type": "blue"
         },
@@ -285,16 +335,6 @@
           "author_handle": "ClayTravis",
           "text": "Happy Thanksgiving to you and your families. Four winners today with @HardRockBet: the over in Bears-Lions,\nCowboys -9, Bills to cover and over hits against Chiefs. Get rich, kids: https://t.co/oPUR3gq3Js",
           "url": "https://x.com/ClayTravis/status/2125962593198055518",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125960672928489614",
-          "created_at": "2026-11-26T14:31:37.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
-          "url": "https://x.com/_Investinq/status/2125960672928489614",
           "verified": true,
           "verified_type": "blue"
         },
@@ -389,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125832628292960497",
-          "created_at": "2026-11-26T06:02:49.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Phenomenal. https://t.co/1EH4o3aSnn",
-          "url": "https://x.com/ClayTravis/status/2125832628292960497",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125806622270517750",
           "created_at": "2026-11-26T04:19:28.000Z",
           "author_name": "OutKick",
@@ -469,16 +499,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125748871750197709",
-          "created_at": "2026-11-26T00:30:00.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I've got a Thanksgiving Day parlay boosted to +1557 on @HardRockBet. Make a first bet and if the bet hits you get your winnings. If it loses you get a bonus bet back equal to your first wager, up to $1500. Great day of football ahead. https://t.co/7TGVPvpwR7",
-          "url": "https://x.com/ClayTravis/status/2125748871750197709",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125745504843595960",
           "created_at": "2026-11-26T00:16:37.000Z",
           "author_name": "Tim Pool",
@@ -499,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125723982519566730",
-          "created_at": "2026-11-25T22:51:06.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I’m on the Rams -2.5 tonight. NFL picks with @HardRockBet are up on @SportNState. Happy Thanksgiving to all of you and your families! https://t.co/oPUR3gqBz0",
-          "url": "https://x.com/ClayTravis/status/2125723982519566730",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125720495043879268",
           "created_at": "2026-11-25T22:37:14.000Z",
           "author_name": "Laura Loomer",
@@ -525,16 +535,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️I'm Tony Montana. 😂 https://t.co/aDokRX55HZ",
           "url": "https://x.com/_The_Prophet__/status/2125719171334095311",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125716009101459690",
-          "created_at": "2026-11-25T22:19:25.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "99% of meetings are worthless. Just work! https://t.co/d1eWWHMbMV",
-          "url": "https://x.com/ClayTravis/status/2125716009101459690",
           "verified": true,
           "verified_type": "blue"
         },
@@ -729,6 +729,16 @@
           "verified_type": "blue"
         },
         {
+          "id": "2125342179216261600",
+          "created_at": "2026-11-24T21:33:57.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California https://t.co/Nhh8x9ndfO",
+          "url": "https://x.com/SpaceX/status/2125342179216261600",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2125287542283206698",
           "created_at": "2026-11-24T17:56:50.000Z",
           "author_name": "Glenn Beck",
@@ -737,6 +747,16 @@
           "url": "https://x.com/glennbeck/status/2125287542283206698",
           "verified": true,
           "verified_type": "blue"
+        },
+        {
+          "id": "2125263043244290435",
+          "created_at": "2026-11-24T16:19:29.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/TI8to82O7B",
+          "url": "https://x.com/SpaceX/status/2125263043244290435",
+          "verified": true,
+          "verified_type": "business"
         },
         {
           "id": "2125227421477802190",
@@ -765,6 +785,18 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "ICE detains man in Mass. after he picks up lottery winnings",
+          "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
+        },
+        {
+          "headline": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+          "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
+        },
+        {
           "headline": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
           "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
           "source": "NPR",
@@ -781,18 +813,6 @@
           "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/"
-        },
-        {
-          "headline": "Judge temporarily blocks FCC from reviewing ABC's licenses",
-          "summary": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/"
-        },
-        {
-          "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
-          "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
         }
       ]
     },
@@ -800,6 +820,12 @@
       "id": "economy",
       "title": "Economy",
       "stories": [
+        {
+          "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
+          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+        },
         {
           "headline": "China and other US trading partners hit back at Trump's new tariff plans",
           "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
@@ -823,12 +849,6 @@
           "summary": "Shares have advanced in Europe and Asia while U.S. markets are closed for the Thanksgiving holiday",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
-        },
-        {
-          "headline": "What's open and closed today on Thanksgiving Day 2026?",
-          "summary": "A handful of grocery stores will welcome customers on Thanksgiving this year, while most retailers will be closed. Here's what to know.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/"
         }
       ]
     },
@@ -837,16 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "U17 World Cup: Italy maintain perfect record with 3-1 victory",
-          "summary": "Italy maintained their 100 per cent record in the FIFA Under-17 World Cup, winning all three group games to secure top spot and passage to the Round of 32. The Azzurrini had already thumped Jamaica 6-0 and saw off the Ivory Coast 2-1, then this afternoon got the better of Uzbekistan 3-1.",
+          "headline": "3 quick takeaways from Wisconsin’s win over Northeastern: The bench provides a spark",
+          "summary": "Hayden Jones #13 of the Wisconsin Badgers shoots while defended by Petar Pinter #13 of the Northeastern Huskies at the Kohl Center in Madison, Wisconsin, United States, on November 25, 2026. (Photo by Ross Harried/NurPhoto via Getty Images) | NurPhoto via Getty Images The Wisconsin Badgers blew past the Northeastern Huskies 91-54 on Wednesday evening,…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/u17-world-cup-italy-maintain-163100699.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/3-quick-takeaways-wisconsin-win-170201100.html"
         },
         {
-          "headline": "Duke beat UConn, which was big. John Blackwell's night was even bigger — and so crucial for Duke's title hopes",
-          "summary": "Duke was on the verge of a crisis, and then Blackwell finally showed why he's so key to everything the Blue Devils want to be this season",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/duke-uconn-las-vegas-john-blackwell-jon-scheyer/"
+          "headline": "Adepoju Adebawore reveals what it will take to beat Missouri",
+          "summary": "The Oklahoma Sooners are heading into their final game of the 2026 regular season. The season has been disappointing overall, as the Sooners entered ranked No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/college-football/articles/adepoju-adebawore-reveals-beat-missouri-170144624.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -873,6 +893,12 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Scott Caan Is “100 Percent” Open to Reprising Role in ‘Ocean’s 14’ With Casey Affleck",
+          "summary": "The pair played Turk and Virgil Malloy, respectively, in the 2001 heist movie and its sequels.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/"
+        },
+        {
           "headline": "Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63",
           "summary": "Mark Tildesley, the acclaimed British production designer who worked on major titles including the most recent James Bond movie “No Time to Die,” has died. He was 63.",
           "source": "Variety",
@@ -889,12 +915,6 @@
           "summary": "StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/"
-        },
-        {
-          "headline": "‘Roma’ Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro",
-          "summary": "Berlinale award winner and auteur Teona Strugar Mitevska will bring 'Petra Doesn't Want to Die' to the market.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/roma-producer-warwick-thornton-films-rotterdam-market-iffr-1236763960/"
         },
         {
           "headline": "Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal",
@@ -1013,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T11:48:53-05:00"
+  "updatedAt": "2026-11-26T12:18:32-05:00"
 }
