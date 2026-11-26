@@ -79,6 +79,26 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125804760053989735",
+          "created_at": "2026-11-26T04:12:04.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "I would’ve rage quit in Madden already https://t.co/RzW4Oj7RJi",
+          "url": "https://x.com/Outkick/status/2125804760053989735",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125801797902319935",
+          "created_at": "2026-11-26T04:00:18.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Former acting White House chief of staff Mick Mulvaney says \"my money's on him getting a pardon\" and warns the president \"is reading the room wrong\" on Jensen Huang\n\n\"What is he thinking doing with this Jensen Huang thing?\"\n\n\"There's not a single Republican, not one who has come https://t.co/CTjNYDRrrx",
+          "url": "https://x.com/_Investinq/status/2125801797902319935",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125797463047258119",
           "created_at": "2026-11-26T03:43:05.000Z",
           "author_name": "Elon Musk",
@@ -199,16 +219,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125769264812671455",
-          "created_at": "2026-11-26T01:51:02.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "“I think this is the last time we see him. I don’t think another team wants him as a QB right now.”\n\nClay Matthews got honest when asked about the drama surrounding his former teammate 😬 https://t.co/u9Sz5lWfh0",
-          "url": "https://x.com/Outkick/status/2125769264812671455",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125768984951947517",
           "created_at": "2026-11-26T01:49:55.000Z",
           "author_name": "Open Source Intel",
@@ -325,16 +335,6 @@
           "author_handle": "_Investinq",
           "text": "Dan Ives says the AI selloff is \"a 97 moment,\" not a 1999 bubble, with $3 to $4 trillion of capex still coming\n\n\"Even with that, demand supply is 8 to 1, 10 to 1\"\n\n\"We're not done. We're less than call it 5% of enterprises have gone down the AI path\"\n\n\"This is not a 99, 2000 https://t.co/m2bFXjiu4g",
           "url": "https://x.com/_Investinq/status/2125745128530948101",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125737615894909134",
-          "created_at": "2026-11-25T23:45:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "White House economic adviser Kevin Hassett says this is \"one of the biggest capital spending blowouts I've ever seen\" and calls it a Goldilocks economy\n\n\"GDP growth north of 4%. And in that, 22% growth in capital spending\"\n\n\"We're in a very Goldilocks economy right now\"\n\n\"The https://t.co/69dxrrVSfj",
-          "url": "https://x.com/_Investinq/status/2125737615894909134",
           "verified": true,
           "verified_type": "blue"
         },
@@ -801,6 +801,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+          "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
+        },
+        {
           "headline": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
           "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
           "source": "CNBC",
@@ -823,12 +829,6 @@
           "summary": "Puerto Rico’s Supreme Court has narrowly ruled in favor of canceling the government’s contract with Luma Energy, following a contentious legal fight with the private power company",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/puerto-ricos-supreme-court-cancels-key-power-contract-138448040"
-        },
-        {
-          "headline": "After 3 decades, Essence Music Festival bidding farewell to New Orleans",
-          "summary": "A fixture in New Orleans for over 30 years is leaving the Big Easy",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/after-3-decades-essence-music-festival-bidding-farewell-138456631"
         }
       ]
     },
@@ -837,22 +837,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Timberwolves beat the Thunder 113-106 to improve to 3-0 in NBA Cup play",
-          "summary": "OKLAHOMA CITY (AP) — Jaden McDaniels had 32 points and 10 rebounds, LaMelo Ball added 19 points before leaving with an ankle injury and the Minnesota Timberwolves improved to 3-0 in NBA Cup play with a 113-106 win over the Oklahoma City Thunder on Wednesday night. Ball left the game in the the final 2:30 after landing on the foot of Thunder center Isaiah…",
+          "headline": "No. 2 Virginia beats Marquette after 90-minute delay due to a leaky roof in Bahamas",
+          "summary": "NASSAU, Bahamas (AP) — Johann Grunloh scored 14 points, Elijah Gertrude made a key 3-pointer with 2:32 remaining and No. 2 Virginia beat Marquette 60-54 on Wednesday in the opening game of the Battle 4 Atlantis that was delayed for over 90 minutes due to leaky roof at Imperial Arena .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/timberwolves-beat-thunder-113-106-034107047.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-2-virginia-beats-marquette-035015008.html"
         },
         {
-          "headline": "Dame Sarr to get MRI following Duke basketball's win over UConn",
-          "summary": "LAS VEGAS — Dame Sarr will be getting an MRI following Duke basketball 's 77-63 win over UConn on Wednesday, Nov. 25, coach Jon Scheyer said after the game.",
+          "headline": "Capitals Glide Past Flyers, 7-3, End Losing Skid",
+          "summary": "The Washington Capitals ended their five game skid Wednesday evening, taking down the Philadelphia Flyers , 7-3, in a critical game to start the second quarter of the season. Despite an early lapse, the Capitals took control and Logan Thompson stood tall in net — allowing just one goal from the second through the 59th minute of the contest.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/dame-sarr-mri-following-duke-033553442.html"
+          "url": "https://sports.yahoo.com/nhl/articles/capitals-glide-past-flyers-7-034950054.html"
         },
         {
-          "headline": "No. 2 Virginia beats Marquette 60-54 after 90-minute delay due to a leaky roof in Bahamas",
-          "summary": "Johann Grunloh scored 14 points, Elijah Gertrude made a key 3-pointer with 2:32 remaining and No. 2 Virginia beat Marquette 60-54 on Wednesday in the opening game of the Battle 4 Atlantis that was delayed for over 90 minutes due to leaky roof at Imperi...",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/2-virginia-beats-marquette-60-54-after-90-138452990"
+          "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
+          "summary": "A 2-2 draw with Roma revealed an attack missing its usual bite, raising questions about whether long-term knee injuries to Khvicha Kvaratskhelia and Desire Doue have stripped the European champions of their fear factor",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
         },
         {
           "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
@@ -861,10 +861,10 @@
           "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
         },
         {
-          "headline": "Happy Thanksgiving! NC State Beats Norfolk State 80-49",
-          "summary": "RALEIGH, NC - NOVEMBER 25: Guard R.J. Keene II (5) of the NC State Wolfpack dives to collect the loose ball during the college basketball game between the NC State Wolfpack and the Norfolk State Spartans on November 25, 2026 at Lenovo Center in Raleigh, North Carolina.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/happy-thanksgiving-nc-state-beats-032900953.html"
+          "headline": "Ranson scores 16 for Saint Joseph’s in 104-48 victory over Penn State-Abington",
+          "summary": "BJ Ranson’s 16 points helped Saint Joseph’s defeat Penn State-Abington 104-48",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/ranson-scores-16-saint-josephs-104-48-victory-138451035"
         }
       ]
     },
@@ -909,6 +909,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘South Park’ Season 29 Finale: ‘GTA 6’ Inspires Stan, Kyle and Cartman to Get to the Bottom of South America’s Power Outages",
+          "summary": "In the sixth and final episode of “South Park” Season 29, South America has once again been hit with major power outages — but this time it’s serious, considering “Grand Theft Auto VI” has finally been released, which means the residents of the mountain town will stop at nothing to restore their Xboxes and PlayStations […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/south-park-season-29-finale-gta-6-billionares-spies-1236958735/"
+        },
+        {
           "headline": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL’s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
           "summary": "No matter how many hits and tricks U2 pulled out of the hat at L.A.’s SoFi Stadium, today’s Bono Bowl on Netflix was always going to live in the shadow of the streamer’s square dancing filled Beyoncé Bowl from Christmas Day 2024. Accepting the inevitable, the elder statesmen of anthem rock took their halftime spin […]",
           "source": "Deadline",
@@ -925,12 +931,6 @@
           "summary": "Former FTX COO Constance Wang is calling out Netflix’s “The Altruists.” Wang took to social media on Wednesday to respond to whether the streamer had consulted her about what she describes as a “very stereotypical” portrayal of her by actress Madison Hu. “People have asked whether Netflix consulted me.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/ftx-constance-wang-slams-altruists-portrayal-racist-netflix-1236958694/"
-        },
-        {
-          "headline": "NBC Plans to Give Thanksgiving Parade Ads Extra Run After Macy’s Postponement",
-          "summary": "NBC has a Thanksgiving Week present for advertisers scheduled to appear in the now-postponed Macy’s Thanksgiving Day Parade. The network plans to run commercials from sponsors of the event twice this week — once when the 2026 parade airs on Saturday and once on Thursday, when the network will run a repeat of last year’s […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/nbc-macys-thanksgiving-parade-commercials-twice-1236958525/"
         },
         {
           "headline": "Will Ferrell’s Netflix Golf Comedy ‘The Hawk’ Canceled After One Season",
@@ -981,6 +981,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Ariana Grande Says Reaction to ‘Petal’ Video Felt Like ‘Black Mirror’",
+          "summary": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\"",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/"
+        },
+        {
           "headline": "King Crimson Co-Founder Michael Giles Dies at 84",
           "summary": "The drummer played an essential role in the recording of In the Court of the Crimson King",
           "source": "Pitchfork",
@@ -1003,15 +1009,9 @@
           "summary": "The guitarist was diagnosed with prostate cancer in 2018",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/duran-durans-andy-taylor-dies-at-65/"
-        },
-        {
-          "headline": "Coachella Sues Walmart Over Unauthorized Festival Merch, Citing ‘Willful and Repeated Acts’",
-          "summary": "“Walmart has intentionally created a likelihood of confusion and false association,\" the new lawsuit claims",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/coachella-walmart-over-trademark-infringement-lawsuit-1235664484/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-25T22:44:25-05:00"
+  "updatedAt": "2026-11-25T23:15:16-05:00"
 }
