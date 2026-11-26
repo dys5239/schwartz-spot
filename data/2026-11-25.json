@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
+          "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
+        },
+        {
           "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
           "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
-        },
-        {
-          "headline": "Jennifer Lopez's choreographer on what to expect from \"The JLo Show\"",
-          "summary": "Kiel Tutin, supervising choreographer for \"The JLo Show,\" joins \"The Daily Report\" to discuss the film and Jennifer Lopez's intense Las Vegas residency. \"The JLo Show\" premieres Thursday night on CBS and Paramount+.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/jennifer-lopezs-choreographer-on-what-to-expect-from-the-jlo-show/"
         },
         {
           "headline": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125774119023038803",
+          "created_at": "2026-11-26T02:10:19.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Footage captures the aftermath of a FedEx cargo plane overshooting the runway at Miami International Airport (MIA). The extent of any injuries has not yet been confirmed. https://t.co/nn2207N8Or https://t.co/RxAlwQ91Fh",
+          "url": "https://x.com/Osint613/status/2125774119023038803",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125771932515856399",
+          "created_at": "2026-11-26T02:01:38.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "WATCH: A Miami air traffic controller announces the airport has CLOSED after a FedEx MD-11 went off the runway while landing tonight. https://t.co/KIly9owaAD",
+          "url": "https://x.com/RealAmVoice/status/2125771932515856399",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125770263052550328",
+          "created_at": "2026-11-26T01:55:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "A THANKSGIVING MESSAGE: NEVER TAKE AMERICA’S FREEDOM FOR GRANTED\n\n@damonroberts reminds us that Thanksgiving is about more than turkey and tradition. It’s about gratitude for the freedoms, opportunities, and sacrifices that have shaped America.\n\n“This country is the greatest https://t.co/P9a3weXbXY",
+          "url": "https://x.com/RealAmVoice/status/2125770263052550328",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125769264812671455",
+          "created_at": "2026-11-26T01:51:02.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "“I think this is the last time we see him. I don’t think another team wants him as a QB right now.”\n\nClay Matthews got honest when asked about the drama surrounding his former teammate 😬 https://t.co/u9Sz5lWfh0",
+          "url": "https://x.com/Outkick/status/2125769264812671455",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125768984951947517",
+          "created_at": "2026-11-26T01:49:55.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A FedEx cargo aircraft went off the runway at Miami International Airport in Florida, triggering a ground stop. https://t.co/IMv6Ayimck",
+          "url": "https://x.com/Osint613/status/2125768984951947517",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125766982805176349",
           "created_at": "2026-11-26T01:41:58.000Z",
@@ -209,26 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125743838899720508",
-          "created_at": "2026-11-26T00:10:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BREAKING: FORMER DEMOCRAT MAYOR PLEADS GUILTY TO CHILD S*X CRIMES**\n\nFormer Gettysburg, Pennsylvania, Mayor Chad Alan Carr has pleaded GUILTY to multiple child s*x crimes, including child p*rnography charges.\n\nCarr is scheduled to be sentenced on February 18, 2027.",
-          "url": "https://x.com/RealAmVoice/status/2125743838899720508",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125740500481409534",
-          "created_at": "2026-11-25T23:56:44.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TRUMP’S ‘DREAM TEAM’ IS JUST GETTING STARTED\n\n@RodDMartin dismisses speculation that President Trump would pursue mass amnesty, pointing to Stephen Miller’s appointment as chief of staff.\n\n“There's no way you do that if you're planning an amnesty. That's just absurd.”\n\nMartin https://t.co/9uYBszH7j4",
-          "url": "https://x.com/RealAmVoice/status/2125740500481409534",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125737615894909134",
           "created_at": "2026-11-25T23:45:16.000Z",
           "author_name": "StockMarket.News",
@@ -285,16 +315,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: US oil prices have recorded 3 drawdowns of at least 20% so far in 2026, matching their 2nd-longest such streak since the 1980s.\n\n2020 was the only year with a longer streak, at 4 such declines, while 1990, 1991, 1998, and 2022 each recorded 3.\n\nTaking intraday prices https://t.co/2XmhHzu61D",
           "url": "https://x.com/KobeissiLetter/status/2125726722200842708",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125726237683249162",
-          "created_at": "2026-11-25T23:00:03.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "NO HOLDING BACK 😳\n\n@DontAtMeDD absolutely UNLOADED on Coach Prime. https://t.co/KkzFisV7j5",
-          "url": "https://x.com/Outkick/status/2125726237683249162",
           "verified": true,
           "verified_type": "business"
         },
@@ -409,32 +429,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125704190500511860",
-          "created_at": "2026-11-25T21:32:27.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Interesting https://t.co/Xwro3Cwlam",
-          "url": "https://x.com/Osint613/status/2125704190500511860",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125704050763338049",
           "created_at": "2026-11-25T21:31:54.000Z",
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "Agreed https://t.co/wO85lRBrdQ",
           "url": "https://x.com/LauraLoomer/status/2125704050763338049",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125702317685284993",
-          "created_at": "2026-11-25T21:25:00.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Relatively new IRGC hardened facility https://t.co/uZrP2NyjKN",
-          "url": "https://x.com/Osint613/status/2125702317685284993",
           "verified": true,
           "verified_type": "blue"
         },
@@ -791,13 +791,13 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-          "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+          "headline": "Norse Atlantic flights suspended after warning finances 'critical'",
+          "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html"
+          "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
         },
         {
-          "headline": "South Korea raises rates to highest in two years, as inflation remains above target",
+          "headline": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
           "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
@@ -815,10 +815,10 @@
           "url": "https://abcnews.com/Business/wireStory/after-3-decades-essence-music-festival-bidding-farewell-138456631"
         },
         {
-          "headline": "U.S.-based firms helping China access Nvidia's most advanced chips",
-          "summary": "It's not just Megaspeed. A CBS News investigation reveals that at least two California-based Nvidia customers have Chinese ownership — giving the U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/"
+          "headline": "Credit card perks are fueling airline profitability",
+          "summary": "Flying during the holidays can be pricey. So, airlines are pitching more and more specialty brand credit cards on your flight.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability"
         }
       ]
     },
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Siby scores 17 off the bench and Syracuse rolls in second half to top Albany 74-53",
-          "summary": "SYRACUSE, N.Y. (AP) — Abdramane Siby scored a season-high 17 points off the bench, Ryan Moesch had a near triple-double, and Syracuse dominated the second half on the way to a 74-53 victory over Albany on Wednesday night.",
+          "headline": "CSU Northridge secures 89-67 win against Weber State",
+          "summary": "OGDEN, Utah (AP) — Brooklyn Hicks scored 23 points as CSU Northridge beat Weber State 89-67 on Wednesday. Hicks also contributed seven rebounds for the Matadors (2-4).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/siby-scores-17-off-bench-014238894.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/csu-northridge-secures-89-67-020300548.html"
         },
         {
-          "headline": "3 Reasons Missouri Football Will Beat Oklahoma in SEC Rivalry Showdown",
-          "summary": "Nov 7, 2026; Columbia, Missouri, USA; Missouri Tigers quarterback Austin Simmons (13) looks to pass during the second half against the Texas Longhorns at Faurot Field at Memorial Stadium. Mandatory Credit: William Purnell-Imagn Images Credit: IMAGN IMAGES via Reuters Connect (Reuters) COLUMBIA, Mo.",
+          "headline": "Johnson scores 32 as Charleston downs Kennesaw State 91-77",
+          "summary": "CANCUN, Mexico (AP) — Tavari Johnson scored 32 points as Charleston beat Kennesaw State 91-77 on Wednesday. Johnson had five steals for the Cougars (5-2).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/3-reasons-missouri-football-beat-013000723.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/johnson-scores-32-charleston-downs-015946244.html"
         },
         {
           "headline": "Arkansas State secures 92-88 win against Florida International",
@@ -863,16 +863,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Colman Domingo Responds to Post Telling Oscar Pundits Not to Add His ‘Michael’ Performance to Predictions: ‘Who Hurt You?’",
-          "summary": "Coleman Domingo is firing back at a critic of “Michael” and his performance as Joe Jackson, which some members of the film press forecast will earn him major nominations this awards season. “Hot take: Awards prognosticators adding Colman Domingo for Michael, you really don’t need to add a mid performance/bad movie.",
+          "headline": "‘The Squirrel’ Review: An Endearing Futuristic Dramedy, Finland’s Oscar Entry Makes a Case for Organic Love in the Age of Automation",
+          "summary": "If Finnish master Aki Kaurismäki, with his measured emotional register and stoic humor, were to ever make a science-fiction film taking a page from a seminal text in the genre like “Blade Runner,” it may resemble Markus Lehmusruusu’s endearing dramedy “The Squirrel.” Before one learns anything else about how the film’s unspecified, seemingly idyllic…",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/coleman-domingo-responds-michael-performance-1236958665/"
+          "url": "https://variety.com/2026/film/reviews/the-squirrel-review-1236955178/"
         },
         {
-          "headline": "‘Situations’ Review: Greg Vrotsos’ Filmmaking Debut Is a Winning, Relatable Throwback",
-          "summary": "“Swingers” isn’t the kind of movie that people often talk about Hollywood not making anymore. But when a new film is worthy of being mentioned in the same sentence as that 1996 comedy, it’s a reminder of how rare such projects are these days.",
+          "headline": "‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism",
+          "summary": "A gloriously executed slow burn of a suspense thriller, mixed with magical realism and other genre tropes, “Four Seasons In Java” connects the themes and concerns of Indonesian writer-director Kamila Andini’s previous films in an exhilarating and emotionally moving way. It follows a formerly incarcerated, sexually abused woman who returns to her remote…",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/reviews/situations-review-1236958625/"
+          "url": "https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446/"
         },
         {
           "headline": "‘Twilight’ Director Reveals Robert Pattinson Inspired James Bond Line in 2008 Film: “We Were Seeing the Future”",
@@ -953,16 +953,16 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
+          "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
+          "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        },
+        {
           "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
           "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
-        },
-        {
-          "headline": "2026 Deaths Photo Gallery: Hollywood & Media Obituaries",
-          "summary": "Click through a photo gallery of Hollywood and media figures we’ve lost during 2026.",
-          "source": "Deadline",
-          "url": "https://deadline.com/gallery/2026-hollywood-media-deaths-photo-gallery-obituaries/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T20:48:59-05:00"
+  "updatedAt": "2026-11-25T21:14:12-05:00"
 }
