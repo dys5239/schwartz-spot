@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Judge temporarily blocks FCC from reviewing ABC's licenses",
-          "summary": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
+          "headline": "Trump owned millions in Nvidia stock as he pressed for Jensen Huang's reinstatement",
+          "summary": "President Trump holds tens of millions in Nvidia shares, giving him a personal stake in the company's stock market roller coaster ride of the past two weeks, financial disclosure documents show.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/"
+          "url": "https://www.cbsnews.com/news/trump-nvidia-stock-jensen-huang/"
         },
         {
-          "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
-          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+          "headline": "Army detonates toxic explosives at Iowa plant despite concerns",
+          "summary": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
         },
         {
           "headline": "Macy's Thanksgiving Day parade postponed due to weather",
@@ -66,10 +66,10 @@
           "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
-          "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
+          "headline": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+          "summary": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -79,6 +79,36 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125797463047258119",
+          "created_at": "2026-11-26T03:43:05.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Every child in America will receive two SpaceX shares, one from the company and one from me personally",
+          "url": "https://x.com/elonmusk/status/2125797463047258119",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125797443963076662",
+          "created_at": "2026-11-26T03:43:00.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Jordan Love… who we throwing to there? https://t.co/rCB3CQRTro",
+          "url": "https://x.com/Outkick/status/2125797443963076662",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125794220552474698",
+          "created_at": "2026-11-26T03:30:12.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "DecisionTree Research CEO Gregory Allen says AI models \"have been getting 10 times as capable every single year,\" so the compute buildout is not overbuilt\n\n\"In two years, AI is going to make the AI of today look like the Stone Age\"\n\n\"If we made no AI model progress over the next https://t.co/v9xKmARMiS",
+          "url": "https://x.com/_Investinq/status/2125794220552474698",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125786907837923520",
           "created_at": "2026-11-26T03:01:08.000Z",
           "author_name": "StockMarket.News",
@@ -87,16 +117,6 @@
           "url": "https://x.com/_Investinq/status/2125786907837923520",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125786607613829505",
-          "created_at": "2026-11-26T02:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TURNING POINT TONIGHT https://t.co/8ClHLSq40H",
-          "url": "https://x.com/RealAmVoice/status/2125786607613829505",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125786424767328654",
@@ -219,22 +239,22 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125761851552334109",
-          "created_at": "2026-11-26T01:21:34.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Show this to someone who says they don’t like hockey  https://t.co/IuJpwZLEs4",
-          "url": "https://x.com/Outkick/status/2125761851552334109",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125760038325067858",
           "created_at": "2026-11-26T01:14:22.000Z",
           "author_name": "Real America's Voice (RAV)",
           "author_handle": "RealAmVoice",
           "text": "“THANK YOU, LORD” BEN BERGQUAM SURVIVES 50-FOOT FALL\n\nRAV’s @BenBergquam recounts the terrifying moment he fell approximately 50 feet while hiking and crystal prospecting in Arkansas — an accident that left him hospitalized for six days and requiring three surgeries.\n\n“I should https://t.co/7ODOGYyAbC",
           "url": "https://x.com/RealAmVoice/status/2125760038325067858",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125759623529447559",
+          "created_at": "2026-11-26T01:12:43.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "92-YEAR-OLD TEXAS WOMAN CHARGED WITH M*RDER\n\nHarriet Hall, 92, has been indicted by a Bexar County grand jury in connection with the death of her young son, Ronald Hall, in November 1969.\n\nRonald, who was under five years old, was allegedly beaten, had his hands and feet tied,",
+          "url": "https://x.com/RealAmVoice/status/2125759623529447559",
           "verified": true,
           "verified_type": "business"
         },
@@ -325,16 +345,6 @@
           "author_handle": "LauraLoomer",
           "text": "Can I say something? https://t.co/qVv6MzXn6h",
           "url": "https://x.com/LauraLoomer/status/2125736976749826488",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125730029078467001",
-          "created_at": "2026-11-25T23:15:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Dan Ives says Dario and Daniela made a mistake selling \"over $500 million in stock in the offering\" and Anthropic should have priced its IPO lower\n\n\"That sends a negative signal, even if they weren't trying to send that signal\"\n\n\"If you have something called emotional https://t.co/oEl0f2omCY",
-          "url": "https://x.com/_Investinq/status/2125730029078467001",
           "verified": true,
           "verified_type": "blue"
         },
@@ -689,16 +699,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125576163720642762",
-          "created_at": "2026-11-25T13:03:43.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Yes https://t.co/fwFN4qiOI8",
-          "url": "https://x.com/elonmusk/status/2125576163720642762",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125575837747458516",
           "created_at": "2026-11-25T13:02:25.000Z",
           "author_name": "Sport & State",
@@ -765,6 +765,48 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Judge temporarily blocks FCC from reviewing ABC's licenses",
+          "summary": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/"
+        },
+        {
+          "headline": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
+          "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
+        },
+        {
+          "headline": "Group of Senate Democrats push to add freshman to leadership",
+          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November. (Image credit: Chip Somodevilla/Getty Images)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
+        },
+        {
+          "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
+          "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
+        },
+        {
+          "headline": "Moving to Florida may become a choice of some Republicans after midterms",
+          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "stories": [
+        {
+          "headline": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+          "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
+        },
+        {
           "headline": "Trump blames volatile stock market on midterm election results",
           "summary": "President Trump blamed the volatile stock market on the midterm election results that will put Democrats in control of Congress in January. Weijia Jiang has more.",
           "source": "CBS News",
@@ -777,30 +819,6 @@
           "url": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/"
         },
         {
-          "headline": "Group of Senate Democrats push to add freshman to leadership",
-          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November. (Image credit: Chip Somodevilla/Getty Images)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen"
-        },
-        {
-          "headline": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned. (Image credit: Samuel Corum)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
-        },
-        {
-          "headline": "These young Republicans have a message for their party: it's time to \"grow up\"",
-          "summary": "Several weeks after the midterm elections, young Republicans in Tarrant County, Texas, are reflecting on their party's setbacks",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/young-republicans-message-party-time-grow-138432115"
-        }
-      ]
-    },
-    {
-      "id": "economy",
-      "title": "Economy",
-      "stories": [
-        {
           "headline": "Puerto Rico's Supreme Court cancels a key power contract and many wonder what's next",
           "summary": "Puerto Rico’s Supreme Court has narrowly ruled in favor of canceling the government’s contract with Luma Energy, following a contentious legal fight with the private power company",
           "source": "ABC News",
@@ -811,24 +829,6 @@
           "summary": "A fixture in New Orleans for over 30 years is leaving the Big Easy",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/after-3-decades-essence-music-festival-bidding-farewell-138456631"
-        },
-        {
-          "headline": "Credit card perks are fueling airline profitability",
-          "summary": "Flying during the holidays can be pricey. So, airlines are pitching more and more specialty brand credit cards on your flight.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability"
-        },
-        {
-          "headline": "Most Polymarket users lost money betting on the U.S. midterms",
-          "summary": "More than half of Polymarket accounts lost money betting on the U.S. midterm elections, according to one analysis.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/prediction-markets-polymarket-kalshi-trader-losses/"
-        },
-        {
-          "headline": "Why are investors freaking out even as the U.S. economy surges?",
-          "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
         }
       ]
     },
@@ -837,22 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Knicks blow by the Cavaliers in the fourth, win 121-102 for sixth straight victory",
-          "summary": "NEW YORK (AP) — Jose Alvarado scored a season-high 21 points, Mikal Bridges had a season-best 19 and the New York Knicks rode a blitz by their bench to a 121-102 victory over the Cleveland Cavaliers on Wednesday night that extended their winning streak to six. Jalen Brunson also scored 19, but the Knicks captain, who was questionable earlier in the day…",
+          "headline": "Timberwolves beat the Thunder 113-106 to improve to 3-0 in NBA Cup play",
+          "summary": "OKLAHOMA CITY (AP) — Jaden McDaniels had 32 points and 10 rebounds, LaMelo Ball added 19 points before leaving with an ankle injury and the Minnesota Timberwolves improved to 3-0 in NBA Cup play with a 113-106 win over the Oklahoma City Thunder on Wednesday night. Ball left the game in the the final 2:30 after landing on the foot of Thunder center Isaiah…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/knicks-blow-cavaliers-fourth-win-031145067.html"
+          "url": "https://sports.yahoo.com/nba/articles/timberwolves-beat-thunder-113-106-034107047.html"
         },
         {
-          "headline": "Alex Tuch leads Capitals with a goal and 2 assists in 7-3 win over Flyers",
-          "summary": "WASHINGTON (AP) — Alex Tuch had a goal and two assists, and the Washington Capitals scored four times inside the final three minutes of a 7-3 victory over the Philadelphia Flyers on Wednesday night. Ryan Leonard scored his 10th goal and added his ninth assist as Washington snapped a five-game slide and improved to 5-1-0 at home against Metropolitan…",
+          "headline": "Dame Sarr to get MRI following Duke basketball's win over UConn",
+          "summary": "LAS VEGAS — Dame Sarr will be getting an MRI following Duke basketball 's 77-63 win over UConn on Wednesday, Nov. 25, coach Jon Scheyer said after the game.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nhl/articles/alex-tuch-leads-capitals-goal-030857873.html"
-        },
-        {
-          "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
-          "summary": "A 2-2 draw with Roma revealed an attack missing its usual bite, raising questions about whether long-term knee injuries to Khvicha Kvaratskhelia and Desire Doue have stripped the European champions of their fear factor",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/dame-sarr-mri-following-duke-033553442.html"
         },
         {
           "headline": "No. 2 Virginia beats Marquette 60-54 after 90-minute delay due to a leaky roof in Bahamas",
@@ -865,6 +859,12 @@
           "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
+        },
+        {
+          "headline": "Happy Thanksgiving! NC State Beats Norfolk State 80-49",
+          "summary": "RALEIGH, NC - NOVEMBER 25: Guard R.J. Keene II (5) of the NC State Wolfpack dives to collect the loose ball during the college basketball game between the NC State Wolfpack and the Norfolk State Spartans on November 25, 2026 at Lenovo Center in Raleigh, North Carolina.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/happy-thanksgiving-nc-state-beats-032900953.html"
         }
       ]
     },
@@ -897,10 +897,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-features/the-mosquito-bowl-alex-gayner-1236763483/"
         },
         {
-          "headline": "Filmmaker Ava DuVernay challenges the stories America tells about itself in '14th'",
-          "summary": "A decade after examining the 13th Amendment and its connection to mass incarceration, DuVernay has a new documentary about the 14th Amendment and the struggle over citizenship and equal rights.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/24/nx-s1-6050929/filmmaker-ava-duvernay-challenges-the-stories-america-tells-about-itself-in-14th"
+          "headline": "‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism",
+          "summary": "A gloriously executed slow burn of a suspense thriller, mixed with magical realism and other genre tropes, “Four Seasons In Java” connects the themes and concerns of Indonesian writer-director Kamila Andini’s previous films in an exhilarating and emotionally moving way. It follows a formerly incarcerated, sexually abused woman who returns to her remote…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446/"
         }
       ]
     },
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T22:20:01-05:00"
+  "updatedAt": "2026-11-25T22:44:25-05:00"
 }
