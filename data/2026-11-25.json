@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Federal officials say 'zero' airborne lead detected after Iowa munitions blast",
+          "summary": "The Army detonated several tons of lead azide at an ammunition plant in Iowa.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051"
+        },
+        {
+          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
+          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
+        },
+        {
+          "headline": "UK government set to publish new treaties agreed with EU",
+          "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "A look at the probes involving Nvidia, Jensen Huang and Megaspeed",
           "summary": "The reinstatement of Jensen Huang as president and CEO of Nvidia sent shockwaves through the political and business world, and has fueled scrutiny by Congress.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-megaspeed-investigations/"
         },
         {
-          "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
-          "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+          "headline": "Jennifer Lopez's choreographer on what to expect from \"The JLo Show\"",
+          "summary": "Kiel Tutin, supervising choreographer for \"The JLo Show,\" joins \"The Daily Report\" to discuss the film and Jennifer Lopez's intense Las Vegas residency. \"The JLo Show\" premieres Thursday night on CBS and Paramount+.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
-        },
-        {
-          "headline": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
-          "summary": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "The US pastor who wants to see women's right to vote overturned",
-          "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "WATCH: Tips for staying healthy and keeping the peace at the Thanksgiving table",
-          "summary": "Nutrition specialist J.J. Virgin and etiquette expert Thomas Farley discuss how you can navigate some of Thanksgiving's tricky problems.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138454493/"
+          "url": "https://www.cbsnews.com/video/jennifer-lopezs-choreographer-on-what-to-expect-from-the-jlo-show/"
         }
       ]
     },
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125780799962350057",
+          "created_at": "2026-11-26T02:36:52.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "In 2006 this hit would’ve been featured on a beer commercial \n\nIn 2026 it’s an ejection… https://t.co/3YXCtapwjx",
+          "url": "https://x.com/Outkick/status/2125780799962350057",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125779100543697382",
+          "created_at": "2026-11-26T02:30:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Ed Yardeni says stocks are finding support \"right around 6,900, 7,000\" and that earnings are \"what's going to save this bull market\"\n\n\"I think we're doing our best here to find a bottom\"\n\n\"Margin debt is very high. There's a lot of leveraged ETFs\"\n\n\"That leads to capitulation at https://t.co/rL7kJ9vJz4",
+          "url": "https://x.com/_Investinq/status/2125779100543697382",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125778449851941204",
+          "created_at": "2026-11-26T02:27:32.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Gonna pull this one out when I sack my brother-in-law in backyard football tomorrow  https://t.co/riSG1WQ8jh",
+          "url": "https://x.com/Outkick/status/2125778449851941204",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2125774119023038803",
           "created_at": "2026-11-26T02:10:19.000Z",
@@ -279,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125733567129084394",
-          "created_at": "2026-11-25T23:29:11.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "More: https://t.co/miv3FvYshG",
-          "url": "https://x.com/Outkick/status/2125733567129084394",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125730029078467001",
           "created_at": "2026-11-25T23:15:07.000Z",
           "author_name": "StockMarket.News",
@@ -297,16 +317,6 @@
           "url": "https://x.com/_Investinq/status/2125730029078467001",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125728532181754363",
-          "created_at": "2026-11-25T23:09:10.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "CONFIRMED. 😭\n\nMike McCarthy doesn't deny the \"1-2-3 Packers!\" moment that Aaron Rodgers revealed. https://t.co/yUIa7goI3v",
-          "url": "https://x.com/Outkick/status/2125728532181754363",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125726722200842708",
@@ -375,16 +385,6 @@
           "author_handle": "ClayTravis",
           "text": "99% of meetings are worthless. Just work! https://t.co/d1eWWHMbMV",
           "url": "https://x.com/ClayTravis/status/2125716009101459690",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125714926916587830",
-          "created_at": "2026-11-25T22:15:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Mohamed El-Erian says a 2018-style Fed pivot is off the table and the December hike is now very hard to avoid\n\n\"I don't think they can do a 2018 with the inflation numbers we got today\"\n\n\"If people had followed Kevin Warsh in refraining from forward guidance, we wouldn't be in a https://t.co/xaG5r1hYgR",
-          "url": "https://x.com/_Investinq/status/2125714926916587830",
           "verified": true,
           "verified_type": "blue"
         },
@@ -791,16 +791,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+          "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
           "headline": "Norse Atlantic flights suspended after warning finances 'critical'",
           "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
-        },
-        {
-          "headline": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-          "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html"
         },
         {
           "headline": "Puerto Rico's Supreme Court cancels a key power contract and many wonder what's next",
@@ -827,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "CSU Northridge secures 89-67 win against Weber State",
-          "summary": "OGDEN, Utah (AP) — Brooklyn Hicks scored 23 points as CSU Northridge beat Weber State 89-67 on Wednesday. Hicks also contributed seven rebounds for the Matadors (2-4).",
+          "headline": "John Blackwell ends his cold streak, leads No. 16 Duke to statement win over Silas Demary Jr. and No. 10 UConn",
+          "summary": "The No. 16 Duke Blue Devils bested the No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/csu-northridge-secures-89-67-020300548.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/john-blackwell-ends-his-cold-streak-leads-no-16-duke-to-statement-win-over-silas-demary-jr-and-no-10-uconn-022353928.html"
         },
         {
-          "headline": "Johnson scores 32 as Charleston downs Kennesaw State 91-77",
-          "summary": "CANCUN, Mexico (AP) — Tavari Johnson scored 32 points as Charleston beat Kennesaw State 91-77 on Wednesday. Johnson had five steals for the Cougars (5-2).",
+          "headline": "Griffith scores 20 as Cleveland State beats Case Western Reserve 76-46",
+          "summary": "CLEVELAND (AP) — Rayvon Griffith’s 20 points helped Cleveland State defeat Case Western Reserve 76-46 on Wednesday. Griffith finished 10 of 17 from the field for the Vikings (4-4).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/johnson-scores-32-charleston-downs-015946244.html"
+          "url": "https://sports.yahoo.com/general/articles/griffith-scores-20-cleveland-state-021814324.html"
         },
         {
-          "headline": "Arkansas State secures 92-88 win against Florida International",
-          "summary": "Layne Taylor’s 26 points helped Arkansas State defeat Florida International 92-88",
+          "headline": "Hicke, O’Keefe lead Princeton past Liberty 79-72",
+          "summary": "Jackson Hicke scored 15 points and Princeton knocked off Liberty 79-72",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/arkansas-state-secures-92-88-win-florida-international-138455929"
+          "url": "https://abcnews.com/Sports/wireStory/hicke-okeefe-lead-princeton-past-liberty-79-72-138455693"
         },
         {
-          "headline": "SE Louisiana earns 73-72 win against North Dakota",
-          "summary": "Tyler Rolison scored 22 points, including the go-ahead basket with seven seconds remaining, and SE Louisiana beat North Dakota 73-72 at the Cancun Challenge",
+          "headline": "Mackay scores 27 in Utah Tech’s 124-54 win against Bethesda (CA)",
+          "summary": "Owen Mackay had 27 points in Utah Tech’s 124-54 win over Bethesda (Calif",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/se-louisiana-earns-73-72-win-north-dakota-138455034"
+          "url": "https://abcnews.com/Sports/wireStory/mackay-scores-27-utah-techs-124-54-win-138455928"
         },
         {
           "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
@@ -899,12 +899,6 @@
       "title": "TV",
       "stories": [
         {
-          "headline": "Judge Blocks FCC’s Move Against ABC’s Station Licenses: ‘This Is Not a Close Case’",
-          "summary": "A judge on Wednesday blocked the Federal Communications Commission from seeking early license renewals from ABC stations, finding that the network has faced a “campaign of retaliation” for its protected speech. The FCC ordered Disney-owned ABC in April to file renewal applications for its eight owned stations, including WABC-TV New York, KABC-TV Los…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/fcc-abc-license-renewals-injunction-1236958634/"
-        },
-        {
           "headline": "Mayor Zohran Mamdani Says Famed Balloons Will Soar Again At Rescheduled Macy’s Parade: “It’s The Only Inflation We Support In New York City”",
           "summary": "New York Mayor Zohran Mamdani struck a personal note during a press briefing Wednesday about the postponement of the Macy’s Thanksgiving Day Parade due to a major storm. “Many New Yorkers, myself included, as well as millions around the world were looking forward to the parade being held tomorrow,” the mayor said.",
           "source": "Deadline",
@@ -927,6 +921,12 @@
           "summary": "Early ratings are at a 12-year high among adults 18-49 and even with last year in total viewers.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/"
+        },
+        {
+          "headline": "Tony Romo, After Parting Ways With CBS Sports, Named ‘Chief Predictions Officer’ of Jake Paul’s Betr Betting App",
+          "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
         }
       ]
     },
@@ -934,12 +934,6 @@
       "id": "media",
       "title": "Media",
       "stories": [
-        {
-          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
-          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
-        },
         {
           "headline": "Brad Pitt, Angelina Jolie Call It Quits on Years-long Legal Saga, Settle Case That Led to Abuse Claims",
           "summary": "After the 'Cliff Booth' star sued in 2022 to stop Jolie from selling her stake in winery Château Miraval, the actress revealed accusations of abuse during an altercation on a private plane.",
@@ -953,16 +947,22 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
+          "headline": "Ryan Reynolds Signs With Power Publicist Kelly Bush Novak, Joining Blake Lively",
+          "summary": "The move from Vision PR will see the ‘Deadpool’ star repped by the CEO and founder of ID-PR.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
+        },
+        {
+          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
+          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
+        },
+        {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
-        },
-        {
-          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
-          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T21:14:12-05:00"
+  "updatedAt": "2026-11-25T21:41:19-05:00"
 }
