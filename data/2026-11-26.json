@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Iran live updates: Iranian drone attack killed 2 Italians, Kuwait says",
+          "summary": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+        },
+        {
+          "headline": "Food banks overwhelmed as people struggle to afford Thanksgiving meals",
+          "summary": "Food banks and resource centers are overwhelmed this season, with nearly 6.5 million fewer Americans receiving food assistance this year. Jason Allen reports.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/food-banks-overwhelmed-as-people-struggle-to-afford-thanksgiving-meals/"
+        },
+        {
+          "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
+          "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+        },
+        {
           "headline": "UK net migration at lowest level since 1997 as asylum claims also fall",
           "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "FedEx plane slides off Miami runway while landing during stormy weather, causes ground stop",
-          "summary": "A FedEx cargo plane slid off the runway at Miami International Airport on Wednesday. Kris Van Cleave reports.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/fedex-plane-slides-off-miami-runway-while-landing-during-stormy-weather-causes-ground-stop/"
-        },
-        {
           "headline": "Millions of people to see average monthly mortgage payments rise by £100",
           "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Maps show where Thanksgiving storms could disrupt holiday",
-          "summary": "Rain, snow and powerful winds were forecast to impact large stretches of the country on Thanksgiving, potentially disrupting holiday festivities and, in some areas, hampering travel plans.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/"
-        },
-        {
-          "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
-          "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
         }
       ]
     },
@@ -78,6 +78,76 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125962593198055518",
+          "created_at": "2026-11-26T14:39:15.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Happy Thanksgiving to you and your families. Four winners today with @HardRockBet: the over in Bears-Lions,\nCowboys -9, Bills to cover and over hits against Chiefs. Get rich, kids: https://t.co/oPUR3gq3Js",
+          "url": "https://x.com/ClayTravis/status/2125962593198055518",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125960672928489614",
+          "created_at": "2026-11-26T14:31:37.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
+          "url": "https://x.com/_Investinq/status/2125960672928489614",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125960517021827309",
+          "created_at": "2026-11-26T14:31:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Todd Starnes warns America is in danger of losing God's blessing!\n\n@toddstarnes joins American Sunrise to explain why he believes America's greatest crisis isn't political — it's spiritual — and calls out churches for remaining silent on critical cultural issues.\n\n“The Bible https://t.co/ObvPrPxvOK",
+          "url": "https://x.com/RealAmVoice/status/2125960517021827309",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125960381415977046",
+          "created_at": "2026-11-26T14:30:28.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Wall Street banks are now trying to offload their AI loans\n\n$C and $JPM are marketing portfolios of AI-related loans to investors, Semafor reports, either to cut risk or to free up room to lend even more\n\nSome banks are pitching synthetic risk transfers, which keep the loans on https://t.co/e10s677Lro",
+          "url": "https://x.com/_Investinq/status/2125960381415977046",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125960185608896840",
+          "created_at": "2026-11-26T14:29:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Hamas is in talks with other Palestinian factions on how to respond to continued Israeli strikes and the siege of Gaza. Hamas leader Khalil al-Hayya called both unacceptable given the ceasefire agreement, and criticized the Board of Peace and mediators for what he described as a",
+          "url": "https://x.com/Osint613/status/2125960185608896840",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125959386514260377",
+          "created_at": "2026-11-26T14:26:30.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Muslim mayor destroys 100 years of tradition. https://t.co/gPFU0wxQz3",
+          "url": "https://x.com/LauraLoomer/status/2125959386514260377",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125959025032581450",
+          "created_at": "2026-11-26T14:25:04.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Of course he is… \n\nJust like last year. And notice the Doha Forum is scheduled during Hanukkah. \n\nI’m sure that was done on purpose too. https://t.co/Z4PI15jxfk",
+          "url": "https://x.com/LauraLoomer/status/2125959025032581450",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125954823103324190",
           "created_at": "2026-11-26T14:08:22.000Z",
@@ -169,26 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125946550635409712",
-          "created_at": "2026-11-26T13:35:30.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Houthis are reporting airstrikes in Hodeidah. At the same time, Saudi airstrikes hit Houthi sites in Sana'a, the Yemeni capital. https://t.co/56qZRsc1qX",
-          "url": "https://x.com/Osint613/status/2125946550635409712",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125946424097730587",
-          "created_at": "2026-11-26T13:35:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Forget the rule about NEVER discussing politics or religion at Thanksgiving dinner!\n\nClinical psychologist @DrChloe_  joins American Sunrise to explain why avoiding difficult conversations can do more harm than good.\n\n“If it weren't for people talking about politics, there https://t.co/RmTcLN7WBi",
-          "url": "https://x.com/RealAmVoice/status/2125946424097730587",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125945522121044130",
           "created_at": "2026-11-26T13:31:25.000Z",
           "author_name": "StockMarket.News",
@@ -215,16 +265,6 @@
           "author_handle": "_Investinq",
           "text": "Elon Musk and SpaceX just pledged around $18 billion of $SPCX stock to American kids\n\nMusk says every child in America will get two SpaceX shares, one from the company and one from him personally\n\nSpaceX says it will issue one new Class A share to every active Trump Account, and https://t.co/xGlZsrJtYd",
           "url": "https://x.com/_Investinq/status/2125931154717254129",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125900210090242183",
-          "created_at": "2026-11-26T10:31:22.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
-          "url": "https://x.com/_Investinq/status/2125900210090242183",
           "verified": true,
           "verified_type": "blue"
         },
@@ -275,16 +315,6 @@
           "author_handle": "elonmusk",
           "text": "Community Notes just saved a lot of guys from thinking their wiener is too small https://t.co/g38XSNeQxM",
           "url": "https://x.com/elonmusk/status/2125864501019070680",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125859964908675551",
-          "created_at": "2026-11-26T07:51:26.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
-          "url": "https://x.com/_Investinq/status/2125859964908675551",
           "verified": true,
           "verified_type": "blue"
         },
@@ -489,16 +519,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125708090586677661",
-          "created_at": "2026-11-25T21:47:57.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "You guys sent in a ton of great questions, and I hit on a wide variety of topics. Thanksgiving Mailbag. Enjoy:\nhttps://t.co/4xhJ5tzLRL",
-          "url": "https://x.com/ClayTravis/status/2125708090586677661",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125707395691430008",
           "created_at": "2026-11-25T21:45:11.000Z",
           "author_name": "Matt Walsh",
@@ -515,16 +535,6 @@
           "author_handle": "SportNState",
           "text": "An Aaron Rodgers-Mike McCarthy reunion in the Steel City didn’t exactly go according to plan.\n\nRodgers went scorched-earth Wednesday, sharing unflattering details about McCarthy, such as sleeping on the job and skipping meetings.\n\n✍️: @markjburns88\nhttps://t.co/c4rwqglATq",
           "url": "https://x.com/SportNState/status/2125706856525873295",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125704050763338049",
-          "created_at": "2026-11-25T21:31:54.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Agreed https://t.co/wO85lRBrdQ",
-          "url": "https://x.com/LauraLoomer/status/2125704050763338049",
           "verified": true,
           "verified_type": "blue"
         },
@@ -627,16 +637,6 @@
           "url": "https://x.com/SpaceX/status/2125671356339499494",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125663368333737994",
-          "created_at": "2026-11-25T18:50:14.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "It’s why we call it Pallywood. \n\nThe suffering in Gaza is fake and produced like everything in Hollywood. \n\nPallywood https://t.co/Ghna9fRiF3",
-          "url": "https://x.com/LauraLoomer/status/2125663368333737994",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125649126398591003",
@@ -781,6 +781,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+          "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        },
+        {
           "headline": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
           "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
           "source": "CNBC",
@@ -799,12 +805,6 @@
           "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
         },
         {
-          "headline": "Semiconductor chips are the new oil. Here's why",
-          "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
-        },
-        {
           "headline": "What's open and closed today on Thanksgiving Day 2026?",
           "summary": "A handful of grocery stores will welcome customers on Thanksgiving this year, while most retailers will be closed. Here's what to know.",
           "source": "CBS News",
@@ -817,16 +817,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "3 things from Charlotte's 107-105 loss to Chicago",
-          "summary": "After a six-point defeat Monday against the Memphis Grizzlies , the Charlotte Hornets came even closer to a win Wednesday against the Chicago Bulls . However, they still fell short, as Coby White missed the potential game-tying jumper in the final seconds to force overtime.",
+          "headline": "“Worst Ranked Team I’ve Ever Seen”: UConn Fans React Furiously After 77-63 Loss to Duke",
+          "summary": "Dan Hurley © Imagn. Duke inflicted the second defeat of the season on the UConn Huskies as the Blue Devils won 77-63 on Wednesday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/3-things-charlottes-107-105-140145203.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/worst-ranked-team-ve-ever-143955456.html"
         },
         {
-          "headline": "Joshua Kimmich refuses to blame injury crisis for Lille defeat in the UCL",
-          "summary": "(Photo by Alexander Hassenstein - UEFA/UEFA via Getty Images) | UEFA via Getty Images Bayern Munich went down for the first time this season as it lost its UEFA Champions League clash against LOSC Lille. The Bavarians entered the match with a depleted squad, missing several key players—including Harry Kane, Michael Olise , Manuel Neuer, Ismael Saibari,…",
+          "headline": "3 Positions the Vikings have an edge over the Falcons in Week 12",
+          "summary": "The Minnesota Vikings entered Week 11 with momentum and wind in their sails after an impressive win over the Green Bay Packers the week before. Despite all of that, they left Mexico City and Week 11 bruised up and defeated both literally and figuratively.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/joshua-kimmich-refuses-blame-injury-140000740.html"
+          "url": "https://sports.yahoo.com/nfl/articles/3-positions-vikings-edge-over-142246318.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -835,16 +835,16 @@
           "url": "https://abcnews.com/Sports/wireStory/montana-state-takes-northwest-indian-110-43-138462338"
         },
         {
-          "headline": "Avdija, Lillard lead Trail Blazers to 116-111 win over Spurs in NBA Cup play",
-          "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
+          "headline": "Stokes, Esso-Essis lead UC Davis to 80-78 OT win over Omaha",
+          "summary": "Jalen Stokes scored 24 points and Ylan Esso-Essis added five points in the overtime as UC Davis beat Omaha 80-78 on Wednesday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
+          "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
         },
         {
-          "headline": "Duke beat UConn, which was big. John Blackwell's night was even bigger — and so crucial for Duke's title hopes",
-          "summary": "Duke was on the verge of a crisis, and then Blackwell finally showed why he's so key to everything the Blue Devils want to be this season",
+          "headline": "Alabama, Tennessee, Iowa among top 25 teams on upset alert during Rivalry Week",
+          "summary": "We've got five ranked teams on upset alert in games that could rattle the College Football Playoff picture",
           "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/duke-uconn-las-vegas-john-blackwell-jon-scheyer/"
+          "url": "https://www.cbssports.com/college-football/news/alabama-tennessee-iowa-ohio-state-upset-alert-rivalry-week/"
         }
       ]
     },
@@ -852,6 +852,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Gérard Depardieu to Stand Trial for Rape Charges After Failed Appeal",
+          "summary": "French actor Gérard Depardieu will face a criminal rape trial after an appeal from his lawyers failed. According to Reuters, on Thursday the Paris Court of Appeal ruled that a trial would go ahead regarding rape charges that stemmed from accusations made by actress Charlotte Arnould in 2018.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/gerard-depardieu-trial-rape-charges-failed-appeal-1236958940/"
+        },
         {
           "headline": "‘Roma’ Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro",
           "summary": "Berlinale award winner and auteur Teona Strugar Mitevska will bring 'Petra Doesn't Want to Die' to the market.",
@@ -865,22 +871,16 @@
           "url": "https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/"
         },
         {
-          "headline": "‘Ramayana’ Doubled Visitors at Kerala’s Jatayu Rock, Official Says as India Pitches Itself to Global Productions at WAVES Film Bazaar",
-          "summary": "Nitesh Tiwari’s “Ramayana” has doubled visitor numbers at Kerala’s Jatayu Earth’s Center, known locally as Jatayu Rock, Ministry of Tourism joint secretary Harikishore S. told a WAVES Film Bazaar panel in Goa, where Indian officials pitched a single-window filming portal and state incentives to international producers.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/ramayana-shoot-doubled-jatayu-rock-visitors-1236958905/"
-        },
-        {
           "headline": "Director Cédric Klapisch to Receive César Lifetime Achievement Honor",
           "summary": "The 'Spanish Apartment' and 'Call my Agent!' director will be honored at the 52nd César Awards on Feb. 25.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/french-cesar-honor-for-director-cedric-klapisch-1236763946/"
         },
         {
-          "headline": "‘Bandit Queen’ Sequel From Bobby Bedi, ‘Satluj’ Director Honey Trehan Targets Late 2027 or Early 2028 Release, Enters Casting (EXCLUSIVE)",
-          "summary": "The sequel to “Bandit Queen,” the 1994 drama about Indian outlaw Phoolan Devi, is aiming for a release at the end of 2027 or early 2028, producer Bobby Bedi tells Variety, with the screenplay now in its final draft and casting underway. Bedi, who produced Shekhar Kapur’s original, is calling the follow-up “Bandit Queen MP.” […]",
+          "headline": "‘Ramayana’ Doubled Visitors at Kerala’s Jatayu Rock, Official Says as India Pitches Itself to Global Productions at WAVES Film Bazaar",
+          "summary": "Nitesh Tiwari’s “Ramayana” has doubled visitor numbers at Kerala’s Jatayu Earth’s Center, known locally as Jatayu Rock, Ministry of Tourism joint secretary Harikishore S. told a WAVES Film Bazaar panel in Goa, where Indian officials pitched a single-window filming portal and state incentives to international producers.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/news/bandit-queen-sequel-bobby-bedi-honey-trehan-2027-28-release-1236958895/"
+          "url": "https://variety.com/2026/film/markets-festivals/ramayana-shoot-doubled-jatayu-rock-visitors-1236958905/"
         }
       ]
     },
@@ -889,16 +889,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Dark’ Creators Revisit Eerie German Forests in First ‘Sonnental’ Teaser",
+          "summary": "Lisa Vicari stars as a profiler investigating a gruesome murder in her old hometown, inspired by 'Struwwelpeter,' a real and really sinister German children's book.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/"
+        },
+        {
           "headline": "Huw Edwards Lets Cameras Into His Home in Channel 4 Doc Confronting Child Sex Abuse Images Conviction",
           "summary": "\"I'd lost the plot,\" says the disgraced ex-BBC newsreader in a teaser for 'Huw Edwards - Guilty.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/huw-edwards-guilty-channel-4-documentary-abuse-scandal-tv-1236763981/"
-        },
-        {
-          "headline": "How ‘The Lowdown’ Season 2 Finale Sets Up a (Hoped for) Third Season",
-          "summary": "Creator Sterlin Harjo and Ethan Hawke break down Lee's growth as a person and the loose threads still left to explore.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-features/the-lowdown-season-2-finale-ethan-hawke-sterlin-harjo-1236763783/"
         },
         {
           "headline": "BBC Set to Be Investigated Over Antisemitism as Former Producer Says: ‘It Is a Hostile Environment for Jews Who Want to Be Openly Jewish’",
@@ -993,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T09:18:06-05:00"
+  "updatedAt": "2026-11-26T09:47:12-05:00"
 }
