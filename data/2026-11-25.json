@@ -79,6 +79,46 @@
       "stories": [],
       "posts": [
         {
+          "id": "2125786907837923520",
+          "created_at": "2026-11-26T03:01:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Vice President JD Vance says Jensen Huang doesn't need a pardon \"at all\" and that the Department of Justice told him Huang \"was under no investigation\"\n\n\"I haven't seen any evidence, again, that he committed a crime\"\n\n\"The accusations against him were based on anonymous https://t.co/7NMsutldXr",
+          "url": "https://x.com/_Investinq/status/2125786907837923520",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125786607613829505",
+          "created_at": "2026-11-26T02:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TURNING POINT TONIGHT https://t.co/8ClHLSq40H",
+          "url": "https://x.com/RealAmVoice/status/2125786607613829505",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125786424767328654",
+          "created_at": "2026-11-26T02:59:13.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "U2 pays tribute to Dolly Parton 🦋 https://t.co/XmyUqYW8qo",
+          "url": "https://x.com/Outkick/status/2125786424767328654",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125782865455751359",
+          "created_at": "2026-11-26T02:45:04.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "This is probably the most important point I’ve ever made https://t.co/Xk81Ww438T",
+          "url": "https://x.com/MattWalshBlog/status/2125782865455751359",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125780799962350057",
           "created_at": "2026-11-26T02:36:52.000Z",
           "author_name": "OutKick",
@@ -199,26 +239,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125759623529447559",
-          "created_at": "2026-11-26T01:12:43.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "92-YEAR-OLD TEXAS WOMAN CHARGED WITH M*RDER\n\nHarriet Hall, 92, has been indicted by a Bexar County grand jury in connection with the death of her young son, Ronald Hall, in November 1969.\n\nRonald, who was under five years old, was allegedly beaten, had his hands and feet tied,",
-          "url": "https://x.com/RealAmVoice/status/2125759623529447559",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125758324943782170",
-          "created_at": "2026-11-26T01:07:34.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "All that talent. All that hype. ONE Super Bowl. 😬\n\n@craigcartonlive says Aaron Rodgers' career was a massive disappointment and his legacy doesn't come close to matching his talent. https://t.co/z9aHqxQsmM",
-          "url": "https://x.com/Outkick/status/2125758324943782170",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125756529882403062",
           "created_at": "2026-11-26T01:00:26.000Z",
           "author_name": "Open Source Intel",
@@ -335,16 +355,6 @@
           "author_handle": "ClayTravis",
           "text": "I’m on the Rams -2.5 tonight. NFL picks with @HardRockBet are up on @SportNState. Happy Thanksgiving to all of you and your families! https://t.co/oPUR3gqBz0",
           "url": "https://x.com/ClayTravis/status/2125723982519566730",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125722480421765147",
-          "created_at": "2026-11-25T22:45:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Deutsche Bank's Binky Chadha says Huang's return was \"a circuit breaker\" and he is sticking with his 9,000 S&amp;P 500 target for next year\n\n\"I would argue we are massively, massively oversold on any positioning measure\"\n\n\"The market is now pricing in a contraction in next year's https://t.co/SFWkbH8Gvj",
-          "url": "https://x.com/_Investinq/status/2125722480421765147",
           "verified": true,
           "verified_type": "blue"
         },
@@ -791,12 +801,6 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Norse Atlantic flights suspended after warning finances 'critical'",
-          "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
-        },
-        {
           "headline": "Puerto Rico's Supreme Court cancels a key power contract and many wonder what's next",
           "summary": "Puerto Rico’s Supreme Court has narrowly ruled in favor of canceling the government’s contract with Luma Energy, following a contentious legal fight with the private power company",
           "source": "ABC News",
@@ -819,6 +823,12 @@
           "summary": "More than half of Polymarket accounts lost money betting on the U.S. midterm elections, according to one analysis.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/prediction-markets-polymarket-kalshi-trader-losses/"
+        },
+        {
+          "headline": "Why are investors freaking out even as the U.S. economy surges?",
+          "summary": "The economy is sending mixed signals, with growth jumping while stocks gyrate. Here's what economists say is going on.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-economy-stocks-ai-inflation/"
         }
       ]
     },
@@ -827,22 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Hurricanes rally past Lightning in third, 3-1",
-          "summary": "NEW YORK, NEW YORK - NOVEMBER 22: Sean Walker #26 of the Carolina Hurricanes celebrates with teammates after scoring a goal during the second period against the New York Rangers at Madison Square Garden on November 22, 2026 in New York City. (Photo by Jared Silber/NHLI via Getty Images) | NHLI via Getty Images The Carolina Hurricanes picked up their…",
+          "headline": "Knicks blow by the Cavaliers in the fourth, win 121-102 for sixth straight victory",
+          "summary": "NEW YORK (AP) — Jose Alvarado scored a season-high 21 points, Mikal Bridges had a season-best 19 and the New York Knicks rode a blitz by their bench to a 121-102 victory over the Cleveland Cavaliers on Wednesday night that extended their winning streak to six. Jalen Brunson also scored 19, but the Knicks captain, who was questionable earlier in the day…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nhl/articles/hurricanes-rally-past-lightning-third-025613833.html"
+          "url": "https://sports.yahoo.com/nba/articles/knicks-blow-cavaliers-fourth-win-031145067.html"
         },
         {
-          "headline": "No. 16 Duke beats No. 10 UConn 77-63 as John Blackwell scores 25",
-          "summary": "LAS VEGAS — John Blackwell scored 20 of his 25 points in the second half and No. 16 Duke defeated No.",
+          "headline": "Alex Tuch leads Capitals with a goal and 2 assists in 7-3 win over Flyers",
+          "summary": "WASHINGTON (AP) — Alex Tuch had a goal and two assists, and the Washington Capitals scored four times inside the final three minutes of a 7-3 victory over the Philadelphia Flyers on Wednesday night. Ryan Leonard scored his 10th goal and added his ninth assist as Washington snapped a five-game slide and improved to 5-1-0 at home against Metropolitan…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-16-duke-beats-no-025529794.html"
-        },
-        {
-          "headline": "Hicke, O’Keefe lead Princeton past Liberty 79-72",
-          "summary": "Jackson Hicke scored 15 points and Princeton knocked off Liberty 79-72",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/hicke-okeefe-lead-princeton-past-liberty-79-72-138455693"
+          "url": "https://sports.yahoo.com/nhl/articles/alex-tuch-leads-capitals-goal-030857873.html"
         },
         {
           "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
@@ -851,10 +855,16 @@
           "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
         },
         {
-          "headline": "No. 20 LSU moves to 7-0, rallies to beat Arizona State 94-92 in 2OT",
-          "summary": "Donovan Dent scored 20 points to go with 12 assists, and undefeated and 20th-ranked LSU rallied from a 12-point deficit to beat Arizona State 94-92 in double-overtime on Wednesday in the Acrisure Series",
+          "headline": "No. 2 Virginia beats Marquette 60-54 after 90-minute delay due to a leaky roof in Bahamas",
+          "summary": "Johann Grunloh scored 14 points, Elijah Gertrude made a key 3-pointer with 2:32 remaining and No. 2 Virginia beat Marquette 60-54 on Wednesday in the opening game of the Battle 4 Atlantis that was delayed for over 90 minutes due to leaky roof at Imperi...",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/20-lsu-moves-7-0-rallies-beat-arizona-138454761"
+          "url": "https://abcnews.com/Sports/wireStory/2-virginia-beats-marquette-60-54-after-90-138452990"
+        },
+        {
+          "headline": "Au-Duke and St. Bonaventure knock off Belmont 71-68",
+          "summary": "Taj Au-Duke scored 18 points and sealed the victory with a layup with seven seconds left as St. Bonaventure defeated Belmont 71-68",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/au-duke-st-bonaventure-knock-off-belmont-71-138449855"
         }
       ]
     },
@@ -1003,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T22:09:38-05:00"
+  "updatedAt": "2026-11-25T22:20:01-05:00"
 }
