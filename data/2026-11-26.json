@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "WATCH: The tradition of Thanksgiving",
+          "summary": "ABC News' Michelle Franzen takes us to Plymouth, Massachusetts, where the tradition of Thanksgiving began when English settlers shared a meal with native tribes.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138468476/"
+        },
+        {
           "headline": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
           "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
           "source": "BBC News",
@@ -64,12 +70,6 @@
           "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
-        },
-        {
-          "headline": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
-          "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126081070252650888",
+          "created_at": "2026-11-26T22:30:02.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The waitlist is now open for a new Middle East conflict API from @intelinkai and @BeamTracker_.\n\n• Live, structured OSINT data for your apps, tools and AI agents\n• Every event categorised, timestamped, located where possible and linked to its full source trail\n• Exclusive",
+          "url": "https://x.com/Osint613/status/2126081070252650888",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126080461235728811",
+          "created_at": "2026-11-26T22:27:37.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "George Pickens might be the most entertaining and also frustrating player to root for  https://t.co/GAFEkgUOwR",
+          "url": "https://x.com/Outkick/status/2126080461235728811",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126078646838296903",
+          "created_at": "2026-11-26T22:20:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Thursday morning in Israel, Wednesday night in the U.S. For Twitter, I’d use “Wednesday night.” \n\nDeni Avdija outscored LeBron James 31 to 23 on Monday. On Wednesday night, he had 33 points, 12 rebounds and 7 assists as Portland beat Victor Wembanyama’s Spurs.\n\nAfter the game,",
+          "url": "https://x.com/Osint613/status/2126078646838296903",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126078615158960232",
+          "created_at": "2026-11-26T22:20:17.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "NRF CEO Matt Shay says 60% of Thanksgiving weekend shoppers plan to use AI, with 183 million people expected to shop\n\n\"This weekend 60% of those that we surveyed indicated they're going to be using AI\"\n\n\"It's price discovery, it's gift discovery, it's gift ideas, it's comparison https://t.co/6KUDTlCM5K",
+          "url": "https://x.com/_Investinq/status/2126078615158960232",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126077552787894369",
           "created_at": "2026-11-26T22:16:03.000Z",
@@ -219,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126056773610246386",
-          "created_at": "2026-11-26T20:53:29.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Fantasy managers extra thankful for Gibbs today  https://t.co/aWcSARy3KH",
-          "url": "https://x.com/Outkick/status/2126056773610246386",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126056621667438710",
           "created_at": "2026-11-26T20:52:53.000Z",
           "author_name": "Clay Travis",
@@ -319,26 +349,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126037052039045207",
-          "created_at": "2026-11-26T19:35:07.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Bekaa Valley, Lebanon - Rockets struck https://t.co/HSvh3hxGBu",
-          "url": "https://x.com/Osint613/status/2126037052039045207",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126036819309404617",
-          "created_at": "2026-11-26T19:34:12.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "INTERESTING: The IDF says it struck dozens of Hezbollah rockets and launchers at a Radwan Force training camp near Ayn al Tina in Lebanon’s Beqaa Valley, about 25 km north of the Israeli border. https://t.co/7w8PuzY1T6",
-          "url": "https://x.com/Osint613/status/2126036819309404617",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126036798048768305",
           "created_at": "2026-11-26T19:34:07.000Z",
           "author_name": "SightBringer",
@@ -375,16 +385,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Happy Thanksgiving, signal-bearers. \n\nMarkets rest today. The signal never sleeps.",
           "url": "https://x.com/_The_Prophet__/status/2126026948719923242",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126022765056848283",
-          "created_at": "2026-11-26T18:38:21.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "$SAP is preparing to cut at least 10,000 jobs to rebuild its software business for the AI era, per Bloomberg\n\nThat would be at least 9% of the more than 110,000 people Europe's most valuable software company employs worldwide\n\nEvery department has been asked to find cuts, with https://t.co/114M9YBH2L",
-          "url": "https://x.com/_Investinq/status/2126022765056848283",
           "verified": true,
           "verified_type": "blue"
         },
@@ -619,16 +619,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125720495043879268",
-          "created_at": "2026-11-25T22:37:14.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "🚨 EXCLUSIVE 🚨 \n\n‼️ Live Animals Vanish Overnight at Orlando Halal Islamic Slaughterhouse Shortly After Florida Court Signs Off On Livestock Seizure Order For AG and @FDACS — Dead Goats Found Hours Later with Foaming Mouths ‼️ \n\nLate last night, the Florida Attorney General https://t.co/XVZwKSkDE0 https://t.co/gwwiAR89rj",
-          "url": "https://x.com/LauraLoomer/status/2125720495043879268",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125707395691430008",
           "created_at": "2026-11-25T21:45:11.000Z",
           "author_name": "Matt Walsh",
@@ -837,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Hoffenheim fight back to claim 3-1 win over Graz in Europa League",
-          "summary": "Sturm Graz' Jon Gorenc Stankovic (L) and Hoffenheim's and Leon Avdullahu battle for the ball during the UEFA Europa League soccer match between TSG 1899 Hoffenheim and Sturm Graz at SNP Arena. (is associated with: «Hoffenheim fight back to claim 3-1 win over Graz in Europa League») Uwe Anspach/dpa Hoffenheim fought back from a 1-0 deficit to claim a 3-1…",
+          "headline": "Bears stun Lions in NFL Thanksgiving thriller",
+          "summary": "Chicago's Rome Odunze celebrates his game-winning touchdown catch with Bears teammate Kalif Raymond after the team's NFL win over the Detroit Lions (Gregory Shamus) Caleb Williams hit Rome Odunze for a game-winning touchdown with three seconds remaining on Thursday as the Chicago Bears beat the Detroit Lions 39-35 in an NFL Thanksgiving holiday thriller.…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/hoffenheim-fight-back-claim-3-220329287.html"
+          "url": "https://sports.yahoo.com/nfl/articles/bears-stun-lions-nfl-thanksgiving-222354081.html"
         },
         {
-          "headline": "Bears stun Lions on Thanksgiving with Rome Odunze last-second catch",
-          "summary": "End zones in the NFL are 10 yards deep and 53 ⅓ yards wide. And Rome Odunze needed every last inch to score the game-winning touchdown on Thanksgiving.",
+          "headline": "Maryland men’s basketball wastes lead in 75-71 loss to San Diego State",
+          "summary": "Be thankful for Buzz Williams’ theatrics. There has been considerably less to appreciate about the basketball.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bears-stun-lions-thanksgiving-rome-220153066.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/maryland-men-basketball-wastes-lead-222100153.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -861,10 +851,10 @@
           "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
         },
         {
-          "headline": "UECL | Borac 2-3 Atalanta: Another amazing Dea comeback against 9 men",
-          "summary": "Atalanta wasted so many chances in Bosnia, but after Borac went down to nine men, completed another incredible comeback to win 3-2 with Nikola Krstovic, Sead Kolasinac and Davide Zappacosta. La Dea needed to get back on their feet, as after beating Pafos in the opener, they lost to Ajax and were held 1-1 by Kairat Almaty.",
+          "headline": "Freiburg claim stoppage-time win over Twente in Conference League",
+          "summary": "Freiburg's Yuito Suzuki and Enschede's Aske Adelgaard battle for the ball during the UEFA Europa League soccer match between SC Freiburg and Twente Enschede at Europa-Park Stadium. (is associated with: «Freiburg claim stoppage-time win over Twente in Conference League») Tom Weller/dpa Freiburg needed a goal in stoppage time to secure a 2-1 victory…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/uecl-borac-2-3-atalanta-220000306.html"
+          "url": "https://sports.yahoo.com/soccer/articles/freiburg-claim-stoppage-time-win-221840515.html"
         }
       ]
     },
@@ -873,22 +863,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, “Oh My God, He’s the Devil”’",
-          "summary": "John Travolta rarely connects with all his characters. Sometimes, he even loves to hate them.",
+          "headline": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
+          "summary": "Asha Bhosle and S. Janaki, two of Indian cinema’s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/"
+          "url": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/"
         },
         {
-          "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
-          "summary": "a selective peek at what Hollywood has in store for the rest of the year, from awards contenders to romcoms to potential blockbusters. ,",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-6010507/17-films-to-see-before-new-years-from-oscar-bait-to-blockbusters"
-        },
-        {
-          "headline": "Chiwetel Ejiofor on How Stephen Frears’ ‘Dirty Pretty Things’ Led Him to Fall in Love With Film",
-          "summary": "Chiwetel Ejiofor started his film career by doing something that many would consider as the absolute peak: he made a film with Steven Spielberg. “Amistad” was his very first film and, understandably, he was afraid of peaking too soon.",
+          "headline": "Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character’s Motivations",
+          "summary": "“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film. Plemons plays Plutarch Heavensbee, a Capitol insider, who becomes a key figure in the rebellion that sparks in the latter half of Suzanne Collins’ original trilogy of dystopian novels.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/"
+          "url": "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/"
         },
         {
           "headline": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
@@ -897,10 +881,16 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/"
         },
         {
-          "headline": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch",
-          "summary": "Lionsgate's sixth film in its dystopian franchise looks to win its sophomore frame after notching series records with its debut Monday and Tuesday.",
+          "headline": "Scott Caan Is “100 Percent” Open to Reprising Role in ‘Ocean’s 14’ With Casey Affleck",
+          "summary": "The pair played Turk and Virgil Malloy, respectively, in the 2001 heist movie and its sequels.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/"
+        },
+        {
+          "headline": "John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, “Oh My God, He’s the Devil”’",
+          "summary": "John Travolta rarely connects with all his characters. Sometimes, he even loves to hate them.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/"
         }
       ]
     },
@@ -1013,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T17:18:25-05:00"
+  "updatedAt": "2026-11-26T17:41:39-05:00"
 }
