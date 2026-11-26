@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "BBC launches partnership with Met Office for weather coverage",
-          "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-          "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Army detonates toxic explosives at Iowa plant despite concerns",
-          "summary": "The U.S. Army detonated a stockpile of degrading explosives at a munitions plant in Iowa on Wednesday, after days of back-and-forth between politicians and the courts.",
+          "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+          "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-army-ammunition-plant-unstable-explosives-detonation/"
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
         },
         {
-          "headline": "Advocacy group urges Democrats to build relationships with working class voters",
-          "summary": "A political advocacy group, Winning Working People Action, is urging Democrats not to be complacent after their midterm victories and to continue forging relationships with working class voters. Steve Pierce, Winning Working People Action's executive director, joins \"The Takeout\" to discuss.",
+          "headline": "Watch: Kilmar Abrego Garcia arrives in Spain after leaving U.S.",
+          "summary": "Kilmar Abrego Garcia, who was mistakenly deported and sent to a prison in El Salvador last year, has left the U.S. for Spain.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/advocacy-group-urges-democrats-to-build-relationships-with-working-class-voters/"
+          "url": "https://www.cbsnews.com/video/kilmar-abrego-garcia-arrives-in-spain/"
         },
         {
-          "headline": "Macy's Thanksgiving Day parade postponed due to weather",
-          "summary": "New York City officials, the NYPD and Macy's have decided to postpone the annual Thanksgiving Day parade, sources familiar with the decision told ABC News.",
+          "headline": "The US pastor who wants to see women's right to vote overturned",
+          "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "France's political mainstream risks presidential vote debacle with no clear candidate",
+          "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "WATCH: Tips for staying healthy and keeping the peace at the Thanksgiving table",
+          "summary": "Nutrition specialist J.J. Virgin and etiquette expert Thomas Farley discuss how you can navigate some of Thanksgiving's tricky problems.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401"
+          "url": "https://abcnews.com/video/138454493/"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125752144041329111",
+          "created_at": "2026-11-26T00:43:00.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Horrible scenes unfolding in Orlando, Florida tonight.\n\nNow, 50 to 200 animals are missing and there’s fears they were taken out of spite by Muslims who may slaughter the animals who were state evidence and were set to be seized from the Islamic Halal slaughterhouse today. \n\nI https://t.co/q11MhM7UoN",
+          "url": "https://x.com/LauraLoomer/status/2125752144041329111",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125751563474141567",
+          "created_at": "2026-11-26T00:40:41.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A large wave damages part of Pacifica Pier as powerful surf driven by peak king tides pounds the California coast. https://t.co/sTagSya5Bw",
+          "url": "https://x.com/Osint613/status/2125751563474141567",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125749523452510647",
+          "created_at": "2026-11-26T00:32:35.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: US M2 money supply surged +$119 billion in October, to a record $23.53 trillion.\n\nYoY, M2 growth accelerated to +5.9%, its highest since May 2022.\n\nThis also marks its 32nd consecutive month of YoY growth.\n\nSince October 2023, M2 has soared +$2.82 trillion, or +$78 https://t.co/xf06pDRnZs",
+          "url": "https://x.com/KobeissiLetter/status/2125749523452510647",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125748871750197709",
+          "created_at": "2026-11-26T00:30:00.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I've got a Thanksgiving Day parlay boosted to +1557 on @HardRockBet. Make a first bet and if the bet hits you get your winnings. If it loses you get a bonus bet back equal to your first wager, up to $1500. Great day of football ahead. https://t.co/7TGVPvpwR7",
+          "url": "https://x.com/ClayTravis/status/2125748871750197709",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125745504843595960",
           "created_at": "2026-11-26T00:16:37.000Z",
@@ -429,16 +469,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125693254981034091",
-          "created_at": "2026-11-25T20:49:00.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Trump: \"Fake News CNN was hoping for a bad outcome in Iowa.\" https://t.co/KE73LJgFbe",
-          "url": "https://x.com/Osint613/status/2125693254981034091",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125690742635221165",
           "created_at": "2026-11-25T20:39:01.000Z",
           "author_name": "Glenn Beck",
@@ -549,16 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125664128849133695",
-          "created_at": "2026-11-25T18:53:15.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Fiona the Hippo's death has sparked outrage, a father survives a terrifying bear attack in Idaho, a Pakistani TikTok influencer is caught up in a deadly lion attack and cover-up, and a killer lioness is finally captured in India. @DannyGradio and I react on Animal Thunderdome.",
-          "url": "https://x.com/ClayTravis/status/2125664128849133695",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125663368333737994",
           "created_at": "2026-11-25T18:50:14.000Z",
           "author_name": "Laura Loomer",
@@ -567,16 +587,6 @@
           "url": "https://x.com/LauraLoomer/status/2125663368333737994",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125649652917612803",
-          "created_at": "2026-11-25T17:55:44.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Dow Jones Industrial Average erases all losses and turns green on the day. https://t.co/HYCmFEAtTW",
-          "url": "https://x.com/KobeissiLetter/status/2125649652917612803",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125649126398591003",
@@ -597,16 +607,6 @@
           "url": "https://x.com/SpaceX/status/2125637438710153247",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125632723079385166",
-          "created_at": "2026-11-25T16:48:28.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "“Some of us put America First”.\n\nWow. I didn’t know “the jihad” was America First. \n\nYou learn something new everyday. https://t.co/SEvwTxDu9g https://t.co/lZEdhkIDMU",
-          "url": "https://x.com/LauraLoomer/status/2125632723079385166",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125626726835229073",
@@ -803,16 +803,16 @@
           "url": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china"
         },
         {
+          "headline": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+          "summary": "Macy's announced Wednesday that its annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+        },
+        {
           "headline": "How major US stock indexes fared Wednesday 11/25/2026",
           "summary": "Stocks on Wall Street recovered most of their steep early losses as a pullback in AI stocks eased",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-11252026-138453529"
-        },
-        {
-          "headline": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-          "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html"
         },
         {
           "headline": "Credit card perks are fueling airline profitability",
@@ -827,34 +827,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Mike Nwoko has double-double and Xavier hangs on to defeat Texas A&M 88-83 in Bahamas",
-          "summary": "NASSAU, Bahamas (AP) — Mike Nwoko had 20 points and 10 rebounds and Xavier defeated Texas A&M 88-83 on Wednesday at the Battle 4 Atlantis Signature Series. The Musketeers won despite blowing a double-digit lead in each half.",
+          "headline": "LeBron James’ triple-double powers Sixers to NBA Cup win over Heat",
+          "summary": "Nov 25, 2026; Philadelphia, Pennsylvania, USA; Philadelphia 76ers forward LeBron James (23) reacts after a play against the Miami Heat during the second quarter at Xfinity Mobile Arena. Mandatory Credit: Bill Streicher-Imagn Images LeBron James had a 25-point triple-double to lead the Sixers to a 111-104 victory over the Miami Heat in the NBA Cup,…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/mike-nwoko-double-double-xavier-000623364.html"
+          "url": "https://sports.yahoo.com/nba/articles/lebron-james-triple-double-powers-003622524.html"
         },
         {
-          "headline": "Digging Deeper Into Liverpool’s 3-0 Beating of Club Brugge",
-          "summary": "BRUGES, BELGIUM - NOVEMBER 25: Bradley Barcola of Liverpool looks on during the UEFA Champions League 2026/27 League Phase MD5 match between Club Brugge KV and Liverpool FC at Jan Breydel Stadium on November 25, 2026 in Bruges, Belgium. (Photo by Rene Nijhuis/MB Media/Getty Images) | Getty Images Andoni Iraola warned fans that with Club Brugge playing an…",
+          "headline": "Texas A&M basketball drops 88-83 decision to Xavier",
+          "summary": "Texas A&M basketball tied the game with under a minute left, but eventually dropped its first game of the season to Xavier, 88-83, at the Battle 4 Atlantis in the Bahamas on Wednesday. The intense battle between the Aggies and Musketeers featured both teams with at least three players scoring in double figures.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/digging-deeper-liverpool-3-0-000000194.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/texas-m-basketball-drops-88-001644440.html"
         },
         {
-          "headline": "Arkansas State secures 92-88 win against Florida International",
-          "summary": "Layne Taylor’s 26 points helped Arkansas State defeat Florida International 92-88",
+          "headline": "Hicke, O’Keefe lead Princeton past Liberty 79-72",
+          "summary": "Jackson Hicke scored 15 points and Princeton knocked off Liberty 79-72",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/arkansas-state-secures-92-88-win-florida-international-138455929"
+          "url": "https://abcnews.com/Sports/wireStory/hicke-okeefe-lead-princeton-past-liberty-79-72-138455693"
         },
         {
-          "headline": "SE Louisiana earns 73-72 win against North Dakota",
-          "summary": "Tyler Rolison scored 22 points, including the go-ahead basket with seven seconds remaining, and SE Louisiana beat North Dakota 73-72 at the Cancun Challenge",
+          "headline": "Mackay scores 27 in Utah Tech’s 124-54 win against Bethesda (CA)",
+          "summary": "Owen Mackay had 27 points in Utah Tech’s 124-54 win over Bethesda (Calif",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/se-louisiana-earns-73-72-win-north-dakota-138455034"
+          "url": "https://abcnews.com/Sports/wireStory/mackay-scores-27-utah-techs-124-54-win-138455928"
         },
         {
-          "headline": "Ndjonga puts up 22 as Stony Brook downs Lindenwood 69-63",
-          "summary": "Bryan Ndjonga scores 22 points as Stony Brook beats Lindenwood 69-63",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ndjonga-puts-22-stony-brook-downs-lindenwood-69-138452503"
+          "headline": "Depleted PSG attack shows vulnerability in 2-2 Champions League draw with Roma",
+          "summary": "A 2-2 draw with Roma revealed an attack missing its usual bite, raising questions about whether long-term knee injuries to Khvicha Kvaratskhelia and Desire Doue have stripped the European champions of their fear factor",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/psg-attack-injury-2-2-champions-league-draw-roma/"
         }
       ]
     },
@@ -911,12 +911,6 @@
           "url": "https://deadline.com/2026/11/constance-wang-the-altruists-very-stereotypical-racist-1237233708/"
         },
         {
-          "headline": "NBC Plans to Give Thanksgiving Parade Ads Extra Run After Macy’s Postponement",
-          "summary": "NBC has a Thanksgiving Week present for advertisers scheduled to appear in the now-postponed Macy’s Thanksgiving Day Parade. The network plans to run commercials from sponsors of the event twice this week — once when the 2026 parade airs on Saturday and once on Thursday, when the network will run a repeat of last year’s […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/nbc-macys-thanksgiving-parade-commercials-twice-1236958525/"
-        },
-        {
           "headline": "Will Ferrell’s Netflix Golf Comedy ‘The Hawk’ Canceled After One Season",
           "summary": "So you can forget about the back nine.",
           "source": "The Hollywood Reporter",
@@ -927,6 +921,12 @@
           "summary": "Early ratings are at a 12-year high among adults 18-49 and even with last year in total viewers.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-season-35-finale-tv-ratings-1236763448/"
+        },
+        {
+          "headline": "Tony Romo, After Parting Ways With CBS Sports, Named ‘Chief Predictions Officer’ of Jake Paul’s Betr Betting App",
+          "summary": "Former NFL quarterback and football analyst Tony Romo has landed his next gig: He’s joined Betr, the sports gambling app co-founded by Jake Paul, as its first-ever “chief predictions officer.” In the new role, Romo will serve as “a prominent face of the Betr brand,” appearing in original content, delivering sports predictions and engaging with […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/tony-romo-jake-paul-betr-betting-app-chief-predictions-officer-1236958444/"
         }
       ]
     },
@@ -935,10 +935,10 @@
       "title": "Media",
       "stories": [
         {
-          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
-          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
+          "headline": "Judge Sides With ABC In First Amendment Lawsuit Against FCC, Puts Halt To Early License Renewal Proceeding",
+          "summary": "A federal judge has largely sided with ABC in its First Amendment lawsuit claiming that an FCC order to review its broadcast licenses was a retaliatory act by the Trump administration, which for months had attacked its news content, The View and Jimmy Kimmel. U.S.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/abc-fcc-trump-first-amendment-lawsuit-1237158218/"
         },
         {
           "headline": "‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’",
@@ -953,16 +953,16 @@
           "url": "https://www.hollywoodreporter.com/business/business-news/ryan-reynolds-signs-kelly-bush-novak-idpr-blake-lively-1236763140/"
         },
         {
-          "headline": "As ‘Hello Kitty’ Joins Thanksgiving Parade, Sanrio Execs Tease ‘Magical’ Warner Bros. Animated Movie, Video Game Plans and 50-Year-Old Brand’s Gen Alpha Strategy",
-          "summary": "For those uninitiated into the Sanrio community, the beloved character Hello Kitty is a little girl (yes, girl) who is five apples tall. On Thursday, she’ll reach 107 apples tall when she takes flight (New York City weather permitting) as a balloon in Macy’s 100th Thanksgiving Day Parade.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/hello-kitty-balloon-movie-update-sanrio-merch-events-1236956985/"
-        },
-        {
           "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
           "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        },
+        {
+          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
+          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-25T19:19:44-05:00"
+  "updatedAt": "2026-11-25T19:44:07-05:00"
 }
