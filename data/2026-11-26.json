@@ -24,16 +24,16 @@
           "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/"
         },
         {
-          "headline": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-          "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
-        },
-        {
           "headline": "How to talk AI around the Thanksgiving table",
           "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table"
+        },
+        {
+          "headline": "FCC approves SpaceX plan to put AI data centers in space",
+          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
         }
       ]
     },
@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
-          "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
+          "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
+          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+        },
+        {
+          "headline": "When will Poundland shops close? Five key questions answered",
+          "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Food banks see influx of families ahead of Thanksgiving",
@@ -54,16 +60,10 @@
           "url": "https://www.cbsnews.com/news/thanksgiving-food-bank-demand-meal-costs/"
         },
         {
-          "headline": "Burnham joined by former PMs at Ann Widdecombe service",
-          "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+          "headline": "Huw Edwards gives first interviews since child abuse image conviction",
+          "summary": "The disgraced ex-BBC News presenter will appear in a TV documentary, newspaper interview and podcast.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-          "summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "New York declares emergency as Thanksgiving storm threatens East Coast",
@@ -78,6 +78,106 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126008166206849265",
+          "created_at": "2026-11-26T17:40:20.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Three games and plenty of storylines to enjoy between family debates. \n\n🏈 No. 1 in NFC North up for grabs\n🏈 Cowboys-Eagles renew rivalry\n🏈 Allen vs. Mahomes -- is there anything better?\n🏈 @ClayTravis’ picks at @HardRockBet\n\n✍️: @markjburns88\nhttps://t.co/K5I0SXO01O",
+          "url": "https://x.com/SportNState/status/2126008166206849265",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126007068456854006",
+          "created_at": "2026-11-26T17:35:59.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Investors are piling into leveraged semiconductor trades:\n\nThe 3x leveraged long semiconductor ETF, SOXL, has attracted +$1.9 billion in inflows so far this week.\n\nOn Monday alone, the fund recorded +$1.7 billion in inflows, its largest daily intake since November 6th.\n\nThis https://t.co/Jw34E9rEki",
+          "url": "https://x.com/KobeissiLetter/status/2126007068456854006",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126006922239185373",
+          "created_at": "2026-11-26T17:35:24.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iranian Foreign Minister Abbas Araghchi accused French Foreign Minister Jean-Noël Barrot of double standards after Barrot posted on X about the rights and free expression of Iranians. \"Mr. Barrot should perhaps focus on ensuring freedom of expression for Iranians in France before",
+          "url": "https://x.com/Osint613/status/2126006922239185373",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126006895689503199",
+          "created_at": "2026-11-26T17:35:17.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Billionaire Todd Boehly says his group's deal for Lukoil's international oil and gas assets \"is not a win for Putin\"\n\n\"We think it's a great transaction for energy security, helps our allies, helps market stability\"\n\n\"It actually reduces funding that goes to the Russian https://t.co/9Qb9ZzlO4K",
+          "url": "https://x.com/_Investinq/status/2126006895689503199",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126006318586646741",
+          "created_at": "2026-11-26T17:33:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HALF THE PILGRIMS DIED BEFORE THE FIRST THANKSGIVING!\n\nStarvation. Disease. Bitter cold. Families torn apart.\n\nBy the spring of 1621, nearly HALF of the Mayflower passengers were dead. Those who survived faced unimaginable hardship, relying on faith, determination, and help from https://t.co/q9aGIdY35J",
+          "url": "https://x.com/RealAmVoice/status/2126006318586646741",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126006295572721881",
+          "created_at": "2026-11-26T17:32:54.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Mamdani visits a Sikh temple in Queens to mark Guru Nanak’s birthday.  https://t.co/uBlmPXhloC",
+          "url": "https://x.com/Osint613/status/2126006295572721881",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126004975117414425",
+          "created_at": "2026-11-26T17:27:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Putin on AI:\n\nAlmost ten years ago, I said that if any country achieved leadership in the development of artificial intelligence, that country would become the ruler of the world.\n\nThe situation has changed dramatically since then.\n\nSimply possessing even the latest generation of https://t.co/iVnI4fN7sg",
+          "url": "https://x.com/Osint613/status/2126004975117414425",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126004962673226182",
+          "created_at": "2026-11-26T17:27:37.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "All the hot takes! \nhttps://t.co/kpeUdaFSe3",
+          "url": "https://x.com/Outkick/status/2126004962673226182",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126004402763051375",
+          "created_at": "2026-11-26T17:25:23.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️ https://t.co/lx9naIeXED https://t.co/NvAeS8TDpm",
+          "url": "https://x.com/_The_Prophet__/status/2126004402763051375",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126004336090308991",
+          "created_at": "2026-11-26T17:25:07.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "The Med Emre, a Maltese-flagged tanker, went down 25 nautical miles northwest of Ibiza with 7,000 tons of diesel fuel on board.\n\nOne crew member is confirmed dead. https://t.co/7AmHnS9lBh",
+          "url": "https://x.com/Osint613/status/2126004336090308991",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126001788859892066",
           "created_at": "2026-11-26T17:15:00.000Z",
@@ -139,16 +239,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125998424734523490",
-          "created_at": "2026-11-26T17:01:38.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "A bill banning Chinese-linked vehicles from the U.S. is headed for a House fast-track after a bipartisan Senate deal.\n\nA planned voice vote in the senate is planned for December.",
-          "url": "https://x.com/Osint613/status/2125998424734523490",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125998014594519270",
           "created_at": "2026-11-26T17:00:00.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -175,26 +265,6 @@
           "author_handle": "ClayTravis",
           "text": "President Trump’s Thanksgiving message is hysterical. Enjoy. And Happy Thanksgiving to all.  https://t.co/ALaalmiAEK",
           "url": "https://x.com/ClayTravis/status/2125996931260506487",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125995044846948576",
-          "created_at": "2026-11-26T16:48:12.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iran's Marandi:\n\nIt is widely believed in Iran that the attack on Kuwait was a false flag operation, likely carried out by the Ukrainian regime, because its operatives are now present across the region, including in northern Iraq and Syria. Ukraine aims to demonstrate its https://t.co/kI29rz0Gs5",
-          "url": "https://x.com/Osint613/status/2125995044846948576",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125993126632341837",
-          "created_at": "2026-11-26T16:40:35.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Sweden's center-left bloc, led by former Prime Minister Magdalena Andersson, won a narrow majority in parliament but was unable to form a government. Prime Minister Ulf Kristersson is now close to announcing a coalition agreement that would let him lead a minority government and https://t.co/YDLlG8lsbs",
-          "url": "https://x.com/Osint613/status/2125993126632341837",
           "verified": true,
           "verified_type": "blue"
         },
@@ -227,16 +297,6 @@
           "url": "https://x.com/Outkick/status/2125990467653222506",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2125988792003649635",
-          "created_at": "2026-11-26T16:23:21.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hamas political bureau head Khalil al-Hayya, after the latest eliminations:\n\n\"Palestinian blood is precious.\"\n\nHamas is holding talks with other factions on how to respond to Israeli \"violations\" of the agreement. He called the Board of Peace's silence \"unacceptable.\" https://t.co/F0GZuuwz9C",
-          "url": "https://x.com/Osint613/status/2125988792003649635",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2125987669205254402",
@@ -279,16 +339,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125982907315503248",
-          "created_at": "2026-11-26T15:59:58.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "The quiet part out loud https://t.co/AfLE2Uo2on",
-          "url": "https://x.com/RealAmVoice/status/2125982907315503248",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125980206053708183",
           "created_at": "2026-11-26T15:49:14.000Z",
           "author_name": "The Kobeissi Letter",
@@ -305,16 +355,6 @@
           "author_handle": "_Investinq",
           "text": "You know what happens if Tesla and SpaceX merge, right?? https://t.co/Yf0Z8yPYkI https://t.co/xPyN7WtDnA",
           "url": "https://x.com/_Investinq/status/2125979313761833455",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125975457225211988",
-          "created_at": "2026-11-26T15:30:22.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Ed Yardeni says baby boomers \"collectively have $100 trillion of net worth\" and rejects the idea that the economy only works because of AI\n\n\"There's all this talk that the economy would be dead if it wasn't for AI. I don't buy that at all\"\n\n\"They didn't blink when there was a https://t.co/XGqFlvPuLH",
-          "url": "https://x.com/_Investinq/status/2125975457225211988",
           "verified": true,
           "verified_type": "blue"
         },
@@ -439,16 +479,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125804760053989735",
-          "created_at": "2026-11-26T04:12:04.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "I would’ve rage quit in Madden already https://t.co/RzW4Oj7RJi",
-          "url": "https://x.com/Outkick/status/2125804760053989735",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125782865455751359",
           "created_at": "2026-11-26T02:45:04.000Z",
           "author_name": "Matt Walsh",
@@ -487,16 +517,6 @@
           "url": "https://x.com/LauraLoomer/status/2125752144041329111",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125749523452510647",
-          "created_at": "2026-11-26T00:32:35.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: US M2 money supply surged +$119 billion in October, to a record $23.53 trillion.\n\nYoY, M2 growth accelerated to +5.9%, its highest since May 2022.\n\nThis also marks its 32nd consecutive month of YoY growth.\n\nSince October 2023, M2 has soared +$2.82 trillion, or +$78 https://t.co/xf06pDRnZs",
-          "url": "https://x.com/KobeissiLetter/status/2125749523452510647",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125745504843595960",
@@ -629,16 +649,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125678956875780451",
-          "created_at": "2026-11-25T19:52:11.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️What a legend. https://t.co/mfAjQUCACW",
-          "url": "https://x.com/_The_Prophet__/status/2125678956875780451",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125671356339499494",
           "created_at": "2026-11-25T19:21:59.000Z",
           "author_name": "SpaceX",
@@ -679,42 +689,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125620198912692615",
-          "created_at": "2026-11-25T15:58:42.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Michigan needed stability with its next AD hire.\n\nInstead, it rescinded its offer to Trev Alberts, torpedoed the search, created another PR nightmare and potentially exposed itself to tens of millions in payouts.\n\nSo much for the Leaders and Best, writes @markjburns88.",
-          "url": "https://x.com/SportNState/status/2125620198912692615",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125616248184820164",
-          "created_at": "2026-11-25T15:43:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The WNBA seems to be headed toward an iceberg. The league needs old heads to steer away from it. That means seeking wisdom from the generation that paved the way for the league but never participated in it, writes @Kayceeunplugged.\nhttps://t.co/3MGFgYXEz3",
-          "url": "https://x.com/SportNState/status/2125616248184820164",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125602930891853975",
           "created_at": "2026-11-25T14:50:05.000Z",
           "author_name": "Matt Walsh",
           "author_handle": "MattWalshBlog",
           "text": "Everything You Need To Know About The Jensen Huang Scandal | Ep. 1879\n\nhttps://t.co/IU3BUL923Q",
           "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125575837747458516",
-          "created_at": "2026-11-25T13:02:25.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Did Vols fans just \"Schiano Sunday\" the CFP committee?\n\n🏈 Michigan rescinds Trev Alberts offer\n🏈 Top 10 games of Rivalry Week\n🏈 The Rams' insane NFL schedule\n🏈 Thanksgiving football preview\n\nHutton &amp; Withrow LIVE! https://t.co/IeunpNoA7p",
-          "url": "https://x.com/SportNState/status/2125575837747458516",
           "verified": true,
           "verified_type": "blue"
         },
@@ -821,10 +801,10 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
-          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+          "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+          "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
         },
         {
           "headline": "China and other US trading partners hit back at Trump's new tariff plans",
@@ -839,16 +819,16 @@
           "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
         },
         {
-          "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-          "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
-        },
-        {
           "headline": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
           "summary": "Shares have advanced in Europe and Asia while U.S. markets are closed for the Thanksgiving holiday",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
+        },
+        {
+          "headline": "What's open and closed today on Thanksgiving Day 2026?",
+          "summary": "A handful of grocery stores will welcome customers on Thanksgiving this year, while most retailers will be closed. Here's what to know.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/"
         }
       ]
     },
@@ -857,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "3 quick takeaways from Wisconsin’s win over Northeastern: The bench provides a spark",
-          "summary": "Hayden Jones #13 of the Wisconsin Badgers shoots while defended by Petar Pinter #13 of the Northeastern Huskies at the Kohl Center in Madison, Wisconsin, United States, on November 25, 2026. (Photo by Ross Harried/NurPhoto via Getty Images) | NurPhoto via Getty Images The Wisconsin Badgers blew past the Northeastern Huskies 91-54 on Wednesday evening,…",
+          "headline": "Spain beat Morocco to advance as U17 World Cup group winners",
+          "summary": "Spain have beaten Morocco 2-0 in their final group-stage match at the U-17 World Cup, advancing to the round of 32 with a perfect record, 22 goals scored and none conceded. Morocco, meanwhile, finished second and also secured their place in the next round.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/3-quick-takeaways-wisconsin-win-170201100.html"
+          "url": "https://sports.yahoo.com/soccer/articles/spain-beat-morocco-advance-u17-173300216.html"
         },
         {
-          "headline": "Adepoju Adebawore reveals what it will take to beat Missouri",
-          "summary": "The Oklahoma Sooners are heading into their final game of the 2026 regular season. The season has been disappointing overall, as the Sooners entered ranked No.",
+          "headline": "Why Florida State will beat Florida",
+          "summary": "Friday afternoon inside Doak Campbell Stadium is the scene for the Florida State Seminoles to battle the Florida Gators . If FSU wants to play in a bowl for the first time in three years, this is a must-win as they come into the contest with a 5-6 record.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/adepoju-adebawore-reveals-beat-missouri-170144624.html"
+          "url": "https://sports.yahoo.com/college-football/articles/why-florida-state-beat-florida-173049623.html"
         },
         {
           "headline": "Montana State takes down Northwest Indian 110-43",
@@ -881,10 +861,10 @@
           "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
         },
         {
-          "headline": "No. 2 Virginia beats Marquette 60-54 after 90-minute delay due to a leaky roof in Bahamas",
-          "summary": "Johann Grunloh scored 14 points, Elijah Gertrude made a key 3-pointer with 2:32 remaining and No. 2 Virginia beat Marquette 60-54 on Wednesday in the opening game of the Battle 4 Atlantis that was delayed for over 90 minutes due to leaky roof at Imperi...",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/2-virginia-beats-marquette-60-54-after-90-138452990"
+          "headline": "Todd Golden calls out Florida's performance in win over Milwaukee",
+          "summary": "A nine-point victory over Milwaukee wasn’t enough to satisfy Florida basketball head coach Todd Golden, who expressed frustration with his team’s defensive effort and bench production following Tuesday night’s 76-67 win. The Gators entered the contest as favorites by more than 30 points.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/todd-golden-calls-floridas-performance-172511041.html"
         }
       ]
     },
@@ -947,16 +927,16 @@
           "url": "https://www.hollywoodreporter.com/tv/tv-news/dark-creators-revisit-eerie-german-forests-sonnental-teaser-1236763983/"
         },
         {
-          "headline": "Huw Edwards Lets Cameras Into His Home in Channel 4 Doc Confronting Child Sex Abuse Images Conviction",
-          "summary": "\"I'd lost the plot,\" says the disgraced ex-BBC newsreader in a teaser for 'Huw Edwards - Guilty.'",
+          "headline": "How ‘The Lowdown’ Season 2 Finale Sets Up a (Hoped for) Third Season",
+          "summary": "Creator Sterlin Harjo and Ethan Hawke break down Lee's growth as a person and the loose threads still left to explore.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/huw-edwards-guilty-channel-4-documentary-abuse-scandal-tv-1236763981/"
+          "url": "https://www.hollywoodreporter.com/tv/tv-features/the-lowdown-season-2-finale-ethan-hawke-sterlin-harjo-1236763783/"
         },
         {
-          "headline": "BBC Set to Be Investigated Over Antisemitism as Former Producer Says: ‘It Is a Hostile Environment for Jews Who Want to Be Openly Jewish’",
-          "summary": "The BBC is set to be investigated over antisemitism. The government’s independent adviser on antisemitism, Lord John Mann, has written to the broadcaster to outline his investigation.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/bbc-investigation-antisemitism-lord-mann-1236958910/"
+          "headline": "BBC Being Investigated Over Antisemitism By Government Adviser",
+          "summary": "The UK government’s antisemitism tsar is probing the BBC. John Mann told the Today programme he has opened an investigation to see how “widespread” Jewish staff’s “feeling of discomfort” is within the corporation.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/bbc-antisemitism-investigation-john-mann-government-1237233983/"
         }
       ]
     },
@@ -1001,6 +981,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Snoop Dogg Teams Up With Feid for Thanksgiving Single ‘Gracias x Todo’",
+          "summary": "The musicians recently previewed the track during a performance at the Latin Grammy Awards",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/"
+        },
+        {
           "headline": "Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’",
           "summary": "At the 2026 Billboard Latin Music Awards last month, a mob of Chuyíns in white straitjackets turned the stage into a psychiatric ward during a performance of “Pues Ya Ni Pedo.” The show’s closing gag revealed members of Fuerza Regida beneath the oversized masks — a fitting glimpse into the wonderfully chaotic world of the música mexicana breakout star’s…",
           "source": "Billboard",
@@ -1023,15 +1009,9 @@
           "summary": "Taylor revealed his battle with Stage 4 metastatic prostate cancer in 2022. He was the guitarist of the 1980s English band Duran Duran, whose pop hits included \"Hungry Like the Wolf\" and \"Rio\".",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit"
-        },
-        {
-          "headline": "U2 Perform Dolly Parton’s Final Recording During NFL Halftime Show",
-          "summary": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-26T12:18:32-05:00"
+  "updatedAt": "2026-11-26T12:44:21-05:00"
 }
