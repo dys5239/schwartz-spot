@@ -48,8 +48,20 @@
           "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss"
         },
         {
+          "headline": "ICE detains man in Mass. after he picks up lottery winnings",
+          "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
+        },
+        {
+          "headline": "Texas band raises $350,000 to stay for Macy's Thanksgiving parade",
+          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+        },
+        {
           "headline": "Burnham joined by former PMs at Ann Widdecombe service",
-          "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+          "summary": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
         },
@@ -58,18 +70,6 @@
           "summary": "Gov. Kathy Hochul's office declared a State of Emergency on Thanksgiving.",
           "source": "ABC News",
           "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
-        },
-        {
-          "headline": "Oil prices inch back up as Iran and the Houthis escalate threats",
-          "summary": "Increased fighting between Iran's Houthi allies and Saudi Arabia and Tehran's unrelenting threats in the Strait of Hormuz appear to be reversing weeks of oil price declines.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
-        },
-        {
-          "headline": "Where to get the latest CBS Mornings Deals",
-          "summary": "It's Day 2 of CBS Mornings Deals' special series, 12 Days of Gifting, where we show viewers even more products at even lower prices. Visit cbsdeals.com to take advantage of these exclusive deals today.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112626/"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2125993126632341837",
+          "created_at": "2026-11-26T16:40:35.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Sweden's center-left bloc, led by former Prime Minister Magdalena Andersson, won a narrow majority in parliament but was unable to form a government. Prime Minister Ulf Kristersson is now close to announcing a coalition agreement that would let him lead a minority government and https://t.co/YDLlG8lsbs",
+          "url": "https://x.com/Osint613/status/2125993126632341837",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125991227694956800",
+          "created_at": "2026-11-26T16:33:02.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Huawei is about to unveil an AI memory chip with twice the data pins of anything Samsung and SK Hynix mass produce today\n\nThe Shenzhen company is set to present a custom HBM design with 64 channels and a 4,096-bit interface at the ISSCC chip conference in San Francisco on https://t.co/R7ZBpciBpS",
+          "url": "https://x.com/_Investinq/status/2125991227694956800",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125991219121492093",
+          "created_at": "2026-11-26T16:33:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Obama promised to transform America. Larry Schweikart argues Trump actually did.\n\nThe historian joins Steve Bannon to break down the defining political figures of the 21st century.\n\n“The most transformational political figure has been Donald Trump. Far and away, he's changed https://t.co/x0bLPoe4io",
+          "url": "https://x.com/RealAmVoice/status/2125991219121492093",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125990467653222506",
+          "created_at": "2026-11-26T16:30:01.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "HARD PASS! on these Thanksgiving dishes. \n\nJalen Brunson, Trevor Lawrence and more reveal what they're leaving off their plates this Turkey Day. https://t.co/UnxDxWmlmL",
+          "url": "https://x.com/Outkick/status/2125990467653222506",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125988792003649635",
+          "created_at": "2026-11-26T16:23:21.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Hamas political bureau head Khalil al-Hayya, after the latest eliminations:\n\n\"Palestinian blood is precious.\"\n\nHamas is holding talks with other factions on how to respond to Israeli \"violations\" of the agreement. He called the Board of Peace's silence \"unacceptable.\" https://t.co/F0GZuuwz9C",
+          "url": "https://x.com/Osint613/status/2125988792003649635",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2125987669205254402",
           "created_at": "2026-11-26T16:18:53.000Z",
@@ -189,16 +239,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2125977367948525589",
-          "created_at": "2026-11-26T15:37:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Trump demands an IMMEDIATE investigation into pre-election economic data!\n\nPresident Trump says third-quarter GDP growth has been revised upward from 3.4% to 4.3%, accusing government officials of deliberately releasing inaccurate numbers before the midterms.\n\n“This is not a https://t.co/hCfYLCAQ7W",
-          "url": "https://x.com/RealAmVoice/status/2125977367948525589",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2125977198452744338",
           "created_at": "2026-11-26T15:37:17.000Z",
           "author_name": "Open Source Intel",
@@ -229,26 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125970664762855569",
-          "created_at": "2026-11-26T15:11:19.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "GCC Secretary General, after Iran hit critical facilities in Kuwait:\n\n\"Iran will be responsible for all the consequences of this attack.\" https://t.co/kI29rz0Gs5",
-          "url": "https://x.com/Osint613/status/2125970664762855569",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125970296368771575",
-          "created_at": "2026-11-26T15:09:51.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The Jazan refinery in southern Saudi Arabia was hit by the Houthis.\n\nAttacks on civilians and civilian sites will bring a powerful military response, Riyadh warns.\n\nSaudi military spokesman",
-          "url": "https://x.com/Osint613/status/2125970296368771575",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125967835348247018",
           "created_at": "2026-11-26T15:00:05.000Z",
           "author_name": "OutKick",
@@ -275,16 +295,6 @@
           "author_handle": "_Investinq",
           "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
           "url": "https://x.com/_Investinq/status/2125960672928489614",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125960381415977046",
-          "created_at": "2026-11-26T14:30:28.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Wall Street banks are now trying to offload their AI loans\n\n$C and $JPM are marketing portfolios of AI-related loans to investors, Semafor reports, either to cut risk or to free up room to lend even more\n\nSome banks are pitching synthetic risk transfers, which keep the loans on https://t.co/e10s677Lro",
-          "url": "https://x.com/_Investinq/status/2125960381415977046",
           "verified": true,
           "verified_type": "blue"
         },
@@ -405,16 +415,6 @@
           "author_handle": "Outkick",
           "text": "I would’ve rage quit in Madden already https://t.co/RzW4Oj7RJi",
           "url": "https://x.com/Outkick/status/2125804760053989735",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2125797443963076662",
-          "created_at": "2026-11-26T03:43:00.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Jordan Love… who we throwing to there? https://t.co/rCB3CQRTro",
-          "url": "https://x.com/Outkick/status/2125797443963076662",
           "verified": true,
           "verified_type": "business"
         },
@@ -699,12 +699,32 @@
           "verified_type": "blue"
         },
         {
+          "id": "2125602930891853975",
+          "created_at": "2026-11-25T14:50:05.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Everything You Need To Know About The Jensen Huang Scandal | Ep. 1879\n\nhttps://t.co/IU3BUL923Q",
+          "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2125575837747458516",
           "created_at": "2026-11-25T13:02:25.000Z",
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Did Vols fans just \"Schiano Sunday\" the CFP committee?\n\n🏈 Michigan rescinds Trev Alberts offer\n🏈 Top 10 games of Rivalry Week\n🏈 The Rams' insane NFL schedule\n🏈 Thanksgiving football preview\n\nHutton &amp; Withrow LIVE! https://t.co/IeunpNoA7p",
           "url": "https://x.com/SportNState/status/2125575837747458516",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125572185649492132",
+          "created_at": "2026-11-25T12:47:54.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "I'm beginning to understand why all the Canadians are euthanizing themselves https://t.co/nDjz7RGGSm",
+          "url": "https://x.com/MattWalshBlog/status/2125572185649492132",
           "verified": true,
           "verified_type": "blue"
         },
@@ -781,6 +801,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "China and other US trading partners hit back at Trump's new tariff plans",
+          "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
+        },
+        {
           "headline": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
           "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
           "source": "CNBC",
@@ -791,12 +817,6 @@
           "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
-        },
-        {
-          "headline": "China and other U.S. trading partners hit back at Trump's new tariff plans",
-          "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
         },
         {
           "headline": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
@@ -817,6 +837,12 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "U17 World Cup: Italy maintain perfect record with 3-1 victory",
+          "summary": "Italy maintained their 100 per cent record in the FIFA Under-17 World Cup, winning all three group games to secure top spot and passage to the Round of 32. The Azzurrini had already thumped Jamaica 6-0 and saw off the Ivory Coast 2-1, then this afternoon got the better of Uzbekistan 3-1.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/u17-world-cup-italy-maintain-163100699.html"
+        },
+        {
           "headline": "Duke beat UConn, which was big. John Blackwell's night was even bigger — and so crucial for Duke's title hopes",
           "summary": "Duke was on the verge of a crisis, and then Blackwell finally showed why he's so key to everything the Blue Devils want to be this season",
           "source": "CBS Sports",
@@ -829,22 +855,16 @@
           "url": "https://abcnews.com/Sports/wireStory/montana-state-takes-northwest-indian-110-43-138462338"
         },
         {
-          "headline": "Stokes, Esso-Essis lead UC Davis to 80-78 OT win over Omaha",
-          "summary": "Jalen Stokes scored 24 points and Ylan Esso-Essis added five points in the overtime as UC Davis beat Omaha 80-78 on Wednesday",
+          "headline": "Avdija, Lillard lead Trail Blazers to 116-111 win over Spurs in NBA Cup play",
+          "summary": "Deni Avdija scored 33 points to lead the Portland Trail Blazers to a 116-111 win over the San Antonio Spurs in both teams’ third NBA Cup matchup of the group stage on Wednesday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/stokes-esso-essis-lead-uc-davis-80-78-138462340"
+          "url": "https://abcnews.com/Sports/wireStory/avdija-lillard-lead-trail-blazers-116-111-win-138463076"
         },
         {
-          "headline": "Alabama, Tennessee, Iowa among top 25 teams on upset alert during Rivalry Week",
-          "summary": "We've got five ranked teams on upset alert in games that could rattle the College Football Playoff picture",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/alabama-tennessee-iowa-ohio-state-upset-alert-rivalry-week/"
-        },
-        {
-          "headline": "De'Anthony Melton scores 24 points, matches career high with eight 3s as Warriors beat Kings 129-110",
-          "summary": "De’Anthony Melton scored 24 points and matched his career high with eight 3-pointers and the Golden State Warriors made 20 total 3s on the way to beating the Sacramento Kings 129-110 in an NBA Cup game",
+          "headline": "No. 2 Virginia beats Marquette 60-54 after 90-minute delay due to a leaky roof in Bahamas",
+          "summary": "Johann Grunloh scored 14 points, Elijah Gertrude made a key 3-pointer with 2:32 remaining and No. 2 Virginia beat Marquette 60-54 on Wednesday in the opening game of the Battle 4 Atlantis that was delayed for over 90 minutes due to leaky roof at Imperi...",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/deanthony-melton-scores-24-points-matches-career-high-138462716"
+          "url": "https://abcnews.com/Sports/wireStory/2-virginia-beats-marquette-60-54-after-90-138452990"
         }
       ]
     },
@@ -852,6 +872,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Mark Tildesley, Production Designer on ‘No Time to Die,’ ‘28 Days Later’ and Upcoming Beatles Biopics, Dies at 63",
+          "summary": "Mark Tildesley, the acclaimed British production designer who worked on major titles including the most recent James Bond movie “No Time to Die,” has died. He was 63.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/mark-tildesley-dead-no-time-to-die-production-designer-1236958968/"
+        },
         {
           "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Leads With $15 Million on Thanksgiving Eve, ‘Focker In-Law’ Earns $5 Million on Opening Day",
           "summary": "“Sunrise on the Reaping” stuffed the box office competition ahead of Thanksgiving, generating $15 million on Wednesday. Fueled by positive word-of-mouth, Lionsgate’s “Hunger Games” prequel looks to collect $85 million over the five-day holiday period, which would push its domestic tally to $233 million.",
@@ -863,12 +889,6 @@
           "summary": "StudioCanal and Mediatoon Distribution have struck a distribution agreement for the popular European comic book franchise.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/asterix-film-festival-three-restored-asterix-movies-coming-1236763992/"
-        },
-        {
-          "headline": "Danny Boyle Backs Jack O’Connell as a Bond Villain, but Says He ‘Would Have Been Great’ as 007",
-          "summary": "Danny Boyle has thrown his support behind his “Ink” star Jack O’Connell as the man to battle Robert Pattinson’s James Bond in the next 007 movie. The director — who himself was due to direct the last Bond “No Time to Die” before leaving over creative differences — has acknowledged that with the lead role now cast, […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/danny-boyle-backs-jack-oconnell-as-bond-villain-1236958935/"
         },
         {
           "headline": "‘Roma’ Producer Nicolás Celis, Warwick Thornton Films Set for Rotterdam Market IFFR Pro",
@@ -993,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T11:20:28-05:00"
+  "updatedAt": "2026-11-26T11:48:53-05:00"
 }
