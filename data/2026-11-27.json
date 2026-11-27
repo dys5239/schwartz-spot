@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Pregnant inmate escapes in prison SUV after stop at Whataburger",
-          "summary": "Rebecca Taylor, who was not restrained because of her pregnancy, slid into the front seat of the transport vehicle and drove away.",
+          "headline": "U.S. opens hotline for tips about cartels, angering Mexico",
+          "summary": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/pregnant-prisoner-escapes-corrections-vehicle-new-mexico/"
+          "url": "https://www.cbsnews.com/news/us-opens-hotline-tips-cartels-angering-mexico/"
         },
         {
-          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
-          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+          "headline": "Can Trump's support for Nvidia's Jensen Huang come back to bite him?",
+          "summary": "Political strategists Kevin Sheridan and Chuck Rocha join CBS News with their take on the latest turns in the Nvidia scandal, including President Trump's push for Jensen Huang's return as CEO.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+          "url": "https://www.cbsnews.com/video/can-trumps-moves-on-nvidia-and-jensen-huang-come-back-to-bite-him/"
         },
         {
-          "headline": "Mexico files formal complaint to US over DEA tip line",
-          "summary": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials",
+          "headline": "NHS Grampian publishes leaked report at centre of hospital scandal",
+          "summary": "The report was leaked last week by a surgeon who called for NHS Grampian to face a corporate homicide investigation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Millions clean up after massive Thanksgiving storms flood streets, knock out power",
+          "summary": "The East Coast is recovering from the massive Thanksgiving Day storms that flooded streets, toppled trees and left tens of thousands of homes without power.",
           "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649"
+          "url": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179"
         },
         {
-          "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-          "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+          "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
+          "summary": "The Department for Work and Pensions says some of its services have been take offline as a precaution.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-          "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,36 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126398247552037042",
+          "created_at": "2026-11-27T19:30:23.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Beautiful engineering  https://t.co/Y3Pfh3tMjb",
+          "url": "https://x.com/elonmusk/status/2126398247552037042",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126397498071670827",
+          "created_at": "2026-11-27T19:27:24.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!\n\nNeon is looking particularly promising, but Opus is also excellent in most cases. https://t.co/WlG5mX5zGn",
+          "url": "https://x.com/elonmusk/status/2126397498071670827",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126394627062104446",
+          "created_at": "2026-11-27T19:16:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Rush Limbaugh. Charlie Kirk. Two voices we deeply miss this Thanksgiving.\n\n@JackPosobiec and @StephenLimbaugh share a powerful moment reflecting on the legacies of two conservative icons, the timeless values they championed and the importance of giving thanks to God.\n\n“Every day https://t.co/IdDUl13fLv",
+          "url": "https://x.com/RealAmVoice/status/2126394627062104446",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126393620395864099",
           "created_at": "2026-11-27T19:12:00.000Z",
@@ -209,32 +239,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2126374494306496626",
-          "created_at": "2026-11-27T17:56:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "It's time to support entertainment that puts FAITH and FAMILY first!\n\nOur friends at @AngelStudiosInc are launching their BIGGEST Black Friday sale of the year!\n\n✨ 44% OFF a Premium Annual Angel Guild membership\n🍫 Two complimentary tickets to see Hershey in theaters\n📺 Access https://t.co/VgcJXoU2EA",
-          "url": "https://x.com/RealAmVoice/status/2126374494306496626",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126371759989641284",
           "created_at": "2026-11-27T17:45:08.000Z",
           "author_name": "StockMarket.News",
           "author_handle": "_Investinq",
           "text": "Former Pentagon AI policy analyst Will Thibeau says Elon Musk's 1 million satellite data center plan is literally a 300 year proposition\n\n\"A million data centers in space is literally a 300 year proposition\"\n\n\"Starlink launches approximately nine satellites a day\"\n\n\"A million https://t.co/6xqcMwoFee",
           "url": "https://x.com/_Investinq/status/2126371759989641284",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126365899410341931",
-          "created_at": "2026-11-27T17:21:51.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Grok @Bot keeps getting better https://t.co/SuoP8aANOb",
-          "url": "https://x.com/elonmusk/status/2126365899410341931",
           "verified": true,
           "verified_type": "blue"
         },
@@ -429,16 +439,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126222666994737622",
-          "created_at": "2026-11-27T07:52:41.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "True https://t.co/onabG4ka4u",
-          "url": "https://x.com/elonmusk/status/2126222666994737622",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126171852175499461",
           "created_at": "2026-11-27T04:30:46.000Z",
           "author_name": "OutKick",
@@ -555,26 +555,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️Empires rise and fall. Consensus shifts. Models break. \n\nThe signal remains. \n\nI remain with it.",
           "url": "https://x.com/_The_Prophet__/status/2126046585809469706",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126036798048768305",
-          "created_at": "2026-11-26T19:34:07.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️An intelligence can become powerful enough to destroy the evidence that would have proved it wrong.\n\nImagine a future AI deciding which scientific disciplines deserve funding. It identifies the most promising fields and redirects resources toward them. Other fields are",
-          "url": "https://x.com/_The_Prophet__/status/2126036798048768305",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126032898579181903",
-          "created_at": "2026-11-26T19:18:37.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️This Thanksgiving, there’s one thing I’m especially grateful for:\n\nTruth can outlive the mind that discovers it.\n\nA mathematician can die centuries before someone discovers the full significance of his work. A person can endure tremendous suffering and leave behind something",
-          "url": "https://x.com/_The_Prophet__/status/2126032898579181903",
           "verified": true,
           "verified_type": "blue"
         },
@@ -837,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Carys Baker’s hot second quarter leads No. 3 Louisville in 92-48 win over Akron",
+          "summary": "Carys Baker scored all of her 20 points in the second quarter and No. 3 Louisville routed Akron 92-48",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/carys-bakers-hot-quarter-leads-3-louisville-92-138485328"
+        },
+        {
+          "headline": "Sam Lewis scores 21 points, Elijah Gertrude 17 and No. 2 Virginia handles Xavier 83-71",
+          "summary": "Sam Lewis scored 21 points, Elijah Gertrude added 17 off the bench, and No. 2 Virginia defeated Xavier 83-71 in the Battle 4 Atlantis Signature Series",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/sam-lewis-scores-21-points-elijah-gertrude-17-138484954"
+        },
+        {
+          "headline": "Mizzou women’s basketball falls to Tulane after second-half collapse",
+          "summary": "Missouri women’s basketball had another opportunity to prove it could compete against a quality opponent. Instead, the Tigers watched another promising start turn into a disappointing loss.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/mizzou-women-basketball-falls-tulane-192016185.html"
+        },
+        {
+          "headline": "Rapid Reaction: Northwestern’s comeback bid falls just short against DePaul in a 80-75 loss",
+          "summary": "Northwestern (4-5, Big Ten) women’s basketball woke up early on Black Friday for a morning crosstown matchup against DePaul (8-1, Big East). The Wildcats, coming off two double-digits wins against Oakland and NIU, were seeking their first win over a power conference opponent, previously taking losses to Xavier and West Virginia.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/rapid-reaction-northwestern-comeback-bid-191937480.html"
+        },
+        {
           "headline": "College basketball rankings: Biggest surprise this season? The 8-0 Pitt Panthers make Top 25 And 1 debut",
           "summary": "Jeff Capel's Pitt squad has wins over Villanova, Oklahoma, Butler and Penn State and will face Missouri on Tuesday.",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-8-0-pitt-panthers-top-25-and-1-debut/"
-        },
-        {
-          "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
-          "summary": "Dai Dai Ames scored 19 points and No. 9 Tennessee beat Iowa State 75-64 to advance to the championship game of the Players Era tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ames-scores-19-9-tennessee-beats-iowa-state-138473399"
-        },
-        {
-          "headline": "Fears' 20 points, 10 rebounds help No. 11 Michigan State top Arkansas 70-67 at Thanksgiving Classic",
-          "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
-        },
-        {
-          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
-        },
-        {
-          "headline": "T-Wolves rule out LaMelo Ball for NBA Cup game against Grizzlies due to ankle sprain",
-          "summary": "LaMelo Ball has been ruled out of Friday’s NBA Cup group-play finale against the Memphis Grizzlies, the team announced. Ball is dealing with a left ankle sprain suffered Wednesday’s during Minnesota’s 113-106 win over the Oklahoma City Thunder .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/breaking-news/article/t-wolves-rule-out-lamelo-ball-for-nba-cup-game-against-grizzlies-due-to-ankle-sprain-190412110.html"
         }
       ]
     },
@@ -981,10 +961,10 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries on ‘Tonight Show’",
+          "headline": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries During ‘Tonight Show’ Interview",
           "summary": "Justin Timberlake is opening up about what convinced him to share a more personal side of himself in his upcoming documentary. During an appearance on The Tonight Show on Thursday (Nov.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/culture/tv-film/justin-timberlake-tonight-show-documentary-series-interview-1236390349/"
+          "url": "https://www.billboard.com/music/pop/justin-timberlake-tonight-show-documentary-series-interview-1236390349/"
         },
         {
           "headline": "Olivia Rodrigo Delivers Another Christmas Song",
@@ -1013,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T14:15:30-05:00"
+  "updatedAt": "2026-11-27T14:40:34-05:00"
 }
