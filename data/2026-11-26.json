@@ -753,16 +753,16 @@
           "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
         },
         {
-          "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
-          "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
-        },
-        {
           "headline": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
           "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+        },
+        {
+          "headline": "Judge halts order requiring Fulton County to turn over copies of 2020 ballots",
+          "summary": "The judge previously ruled the county had to turn over unredacted digital copies of election materials to the State Election Board, which is run by Trump allies.",
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353"
         }
       ]
     },
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T22:14:14-05:00"
+  "updatedAt": "2026-11-26T22:20:37-05:00"
 }

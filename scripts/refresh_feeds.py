@@ -69,6 +69,11 @@ TOPIC_MAX_PER_EDITION = 2
 # A subject story this many hours older than the subject's newest story is
 # superseded (dropped), as is a departure headline once a return/reversal exists.
 SUPERSEDE_HOURS = 24
+# Editor (Nov 26): within a section, two stories whose headline + summary lead
+# share this many named entities are the same subject even if no single name is
+# hot (CBS "Trump claims 'fake economic numbers'..." + ABC "Trump calls the
+# pre-election GDP figures 'fake'..." both name GDP / Commerce / Department).
+TOPIC_SHARED_ENTITIES = 3
 
 # section -> list of feeds. "prefer" is an optional URL-path substring
 # list; if set, items whose URL matches are preferred for that section.
@@ -82,7 +87,12 @@ FEEDS: list[dict] = [
     {"url": "https://feeds.npr.org/1014/rss.xml", "source": "NPR", "section": "politics"},
     {"url": "https://www.cbsnews.com/latest/rss/politics", "source": "CBS News", "section": "politics"},
     {"url": "https://abcnews.go.com/abcnews/politicsheadlines", "source": "ABC News", "section": "politics"},
-    {"url": "https://rss.politico.com/politics-news.xml", "source": "Politico", "section": "politics"},
+    # Editor (Nov 26): NBC News politics replaces Politico, whose article pages
+    # return a Cloudflare 403 challenge to this box, so no Politico story ever
+    # passed link verification (0 appearances Nov 19-26).
+    # Only nbcnews.com/politics/ articles (the feed also carries U.S.-news
+    # items and TODAY / Meet the Press video clips).
+    {"url": "https://feeds.nbcnews.com/nbcnews/public/politics", "source": "NBC News", "section": "politics", "prefer": ["nbcnews.com/politics/"]},
     # Economy
     {"url": "https://feeds.npr.org/1006/rss.xml", "source": "NPR", "section": "economy"},
     {"url": "https://www.cbsnews.com/latest/rss/moneywatch", "source": "CBS News", "section": "economy"},
@@ -202,7 +212,8 @@ LOCAL_OUTLET_RE = re.compile(
 JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter|/biz/lifestyle/|events-calendar", re.I)
 JUNK_HEAD_RE = re.compile(
     r"black friday|cyber monday|gift guide|prime day|promo code|bonus code|"
-    r"bonus(es)? (from|at|with) (betting|sportsbook)",  # Editor (Nov 21)
+    r"bonus(es)? (from|at|with) (betting|sportsbook)|"  # Editor (Nov 21)
+    r"^\d{1,2}/\d{1,2}(/\d{2,4})?: (CBS|Face the Nation)",  # Editor (Nov 26): full-episode videos ("11/26: CBS Evening News")
     re.I,
 )
 # Editor (Nov 23): Sports only — sportsbook / betting-app guides and promos
@@ -229,6 +240,10 @@ SPORTS_TEMPLATE_RE = re.compile(
     # Bethesda (CA)" / "Name scores 20 as Cleveland State beats Case Western 76-46"
     # (7 seen Nov 15-25, none with a ranked team). Ranked ("No. 16") games still pass.
     r"^(?!.*\bNo\. \d)[^,]+ (scores|puts up|posts|totals|has) \d+ (points )?(in|as) [^,]+ \d+-\d+|"
+    # Editor (Nov 26): AP small-college "Montana State takes down Northwest Indian 110-43"
+    # (20 runs on Nov 26) / "Odih scores 15 off the bench, Fordham knocks off Mercy 104-56".
+    # Headline must end on the score; ranked games still pass.
+    r"^(?!.*\bNo\. \d)(?:[^,]+, )?[^,]+ (takes down|knocks off) [^,]+ \d+-\d+$|"
     r"\bodds\b.*\b(picks?|prediction|best bets?)\b|\b(prediction|picks?)\b.*\bodds\b",
     re.I,
 )
@@ -368,10 +383,16 @@ def strip_html(raw: str) -> str:
     return text
 
 
+# Editor (Nov 26): Yahoo/USA TODAY network summaries can open with a photo
+# credit ("IMAGN IMAGES via Reuters Connect Gabe Landeskog didn't ...").
+PHOTO_CREDIT_RE = re.compile(r"^(?:IMAGN IMAGES|Imagn Images|USA TODAY Sports|Getty Images)(?: via Reuters Connect)?\s*[-|:]?\s*")
+
+
 def summarize(raw: str, headline: str = "") -> str:
     text = strip_html(raw)
     if not text:
         return ""
+    text = PHOTO_CREDIT_RE.sub("", text)
     # Drop a leading headline echo
     if headline and text.lower().startswith(headline.lower()):
         text = text[len(headline) :].lstrip(" -–—:|")
@@ -874,6 +895,10 @@ class TopicBudget:
                 return False
             if self.edition.get(ent, 0) >= edition_cap:
                 return False
+        ents = story_entities(story, self.vocab)
+        for other in section_counts.get("__ents", []):
+            if len(ents & other) >= TOPIC_SHARED_ENTITIES:
+                return False
         return True
 
     def take(self, story: dict, section_counts: dict[str, int]) -> None:
@@ -882,6 +907,7 @@ class TopicBudget:
         for ent in self.subjects(story):
             section_counts[ent] = section_counts.get(ent, 0) + 1
             self.edition[ent] = self.edition.get(ent, 0) + 1
+        section_counts.setdefault("__ents", []).append(story_entities(story, self.vocab))
 
 
 def story_key(story: dict) -> str:
