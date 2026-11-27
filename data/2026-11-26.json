@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
-          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+          "headline": "Trump claims \"fake economic numbers\" were released before election",
+          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
+        },
+        {
+          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
+          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
         },
         {
           "headline": "Huw Edwards gives first interviews since child abuse image conviction",
@@ -54,16 +60,10 @@
           "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Trump claims \"fake economic numbers\" were released before election",
-          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
-        },
-        {
-          "headline": "UK to pay 'participation' fee to deliver EU deals",
-          "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+          "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
+          "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "WATCH: Tips for navigating the holiday travel rush",
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126112658919506061",
+          "created_at": "2026-11-27T00:35:33.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "EAGLES HAVE LIFE https://t.co/TFRX0wqQzX",
+          "url": "https://x.com/Outkick/status/2126112658919506061",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126112149093093569",
+          "created_at": "2026-11-27T00:33:32.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Eagles! https://t.co/EJ1isMBTPD",
+          "url": "https://x.com/Outkick/status/2126112149093093569",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126111263075823717",
+          "created_at": "2026-11-27T00:30:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BERGQUAM WARNS OF TWO YEARS OF OBSTRUCTION, ICE ATTACKS\n\n@BenBergquam is warning that the next two years could bring relentless investigations, impeachment efforts, and legislation targeting President Trump’s immigration agenda as Democrats take greater control in Washington. https://t.co/xHi6FMjHnV",
+          "url": "https://x.com/RealAmVoice/status/2126111263075823717",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126110344120762593",
+          "created_at": "2026-11-27T00:26:21.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Vital that children have a stake in the future https://t.co/KtSGi3dSF7",
+          "url": "https://x.com/elonmusk/status/2126110344120762593",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126110029476708661",
+          "created_at": "2026-11-27T00:25:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Gordon Chang says China's economy is probably growing around zero, not the 4.5% Beijing reported for Q3\n\n\"Nobody this side of heaven knows where the Chinese economy is, but it's probably around zero\"\n\n\"The core of their economy, property, consumption, is really faltering\" https://t.co/37DHXxMyiP",
+          "url": "https://x.com/_Investinq/status/2126110029476708661",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126109352788693467",
+          "created_at": "2026-11-27T00:22:25.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Say what you want about the Eagles, but Bazooka Joe is a fun watch at least https://t.co/lEGHBgij57",
+          "url": "https://x.com/Outkick/status/2126109352788693467",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126104462385135922",
           "created_at": "2026-11-27T00:02:59.000Z",
@@ -159,16 +219,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126092135719932140",
-          "created_at": "2026-11-26T23:14:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS and @FLOTUS call members of the @USArmy 1st Battalion of the 7th Air Defense Artillery Regiment: \n\n\"As your Commander-in-Chief, I am proud to say, 'A JOB WELL DONE!' The job you do is incredible.\" https://t.co/5wahwKSMC6",
-          "url": "https://x.com/RealAmVoice/status/2126092135719932140",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126091152407531656",
           "created_at": "2026-11-26T23:10:06.000Z",
           "author_name": "StockMarket.News",
@@ -185,16 +235,6 @@
           "author_handle": "Outkick",
           "text": "“IF YOU WANT A F*CKIN STANKY LEG YOU’LL GET A STANKY LEG!”  https://t.co/P2uK2I0UKX",
           "url": "https://x.com/Outkick/status/2126091027635114320",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126090751100756344",
-          "created_at": "2026-11-26T23:08:30.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "BAZOOKA JOEEEE https://t.co/rSIlaUXw02",
-          "url": "https://x.com/Outkick/status/2126090751100756344",
           "verified": true,
           "verified_type": "business"
         },
@@ -239,16 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126080461235728811",
-          "created_at": "2026-11-26T22:27:37.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "George Pickens might be the most entertaining and also frustrating player to root for  https://t.co/GAFEkgUOwR",
-          "url": "https://x.com/Outkick/status/2126080461235728811",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126078646838296903",
           "created_at": "2026-11-26T22:20:24.000Z",
           "author_name": "Open Source Intel",
@@ -257,26 +287,6 @@
           "url": "https://x.com/Osint613/status/2126078646838296903",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126078615158960232",
-          "created_at": "2026-11-26T22:20:17.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "NRF CEO Matt Shay says 60% of Thanksgiving weekend shoppers plan to use AI, with 183 million people expected to shop\n\n\"This weekend 60% of those that we surveyed indicated they're going to be using AI\"\n\n\"It's price discovery, it's gift discovery, it's gift ideas, it's comparison https://t.co/6KUDTlCM5K",
-          "url": "https://x.com/_Investinq/status/2126078615158960232",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126077552787894369",
-          "created_at": "2026-11-26T22:16:03.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Bro took a whole ass turkey 😂  https://t.co/ZUloQuuqpk",
-          "url": "https://x.com/Outkick/status/2126077552787894369",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126073707353239637",
@@ -569,16 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125867208358105441",
-          "created_at": "2026-11-26T08:20:13.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "If SpaceX succeeds in making life multiplanetary and harnessing even a millionth of the Sun’s energy, it will be worth about a million times the current global economy.\n\nThese are obviously absurdly difficult goals, but there is a path to achieving them.\n\nI recommend holding on",
-          "url": "https://x.com/elonmusk/status/2125867208358105441",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125782865455751359",
           "created_at": "2026-11-26T02:45:04.000Z",
           "author_name": "Matt Walsh",
@@ -791,16 +791,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+          "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
+        },
+        {
           "headline": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
           "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
-        },
-        {
-          "headline": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
-          "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html"
         },
         {
           "headline": "Elon Musk doubles SpaceX share pledge for U.S. children",
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Fears' 20 points, 10 rebounds help No. 11 Michigan State top Arkansas 70-67 at Thanksgiving Classic",
-          "summary": "DETROIT (AP) — Jeremy Fears Jr. had 20 points and 10 assists as No.",
+          "headline": "Studs and duds from Bears' thrilling comeback win vs. Lions",
+          "summary": "The Chicago Bears mounted an impressive 39-35 fourth-quarter comeback win against the Detroit Lions, improving to 9-2. They've now won six straight games, earned their first victory over an NFC North team this season and took sole possession of first place in the division.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/fears-20-points-10-rebounds-000300016.html"
+          "url": "https://sports.yahoo.com/nfl/articles/studs-duds-bears-thrilling-comeback-003713059.html"
         },
         {
-          "headline": "3 takeaways from Arkansas basketball's loss to Michigan State",
-          "summary": "The search for a Power 4 victory in the nonconference slate will continue for Arkansas basketball . For the third consecutive year, the Razorbacks (4-3) dropped a Thanksgiving showdown as No.",
+          "headline": "Lions-Bears takeaways as Detroit drops Thanksgiving thriller",
+          "summary": "Welp, that was a heartbreaker. The Detroit Lions fell to 8-3 after ending up on the wrong end of a 39-35 Thanksgiving thriller against the Chicago Bears (9-2).",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/3-takeaways-arkansas-basketballs-loss-235503165.html"
+          "url": "https://sports.yahoo.com/nfl/articles/lions-bears-takeaways-detroit-drops-003030279.html"
         },
         {
           "headline": "Henderson, Allen power No. 17 Miami to a 97-70 win over Michigan at Players Era 16 tournament",
@@ -845,16 +845,16 @@
           "url": "https://abcnews.com/Sports/wireStory/henderson-allen-power-17-miami-97-70-win-138473156"
         },
         {
-          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
-        },
-        {
           "headline": "Money Williams scores 27, scores with 2 seconds left as BC beats UCF 75-73 at ESPN Events invite",
           "summary": "Money Williams made 10 of 10 from the free-throw line, finished with 27 points and scored with 2 seconds left to help Boston College beat UCF 75-73 in a battle of cold-shooting teams at the ESPN Events Invitational - Magic Bracket",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/money-williams-scores-27-scores-2-seconds-left-138472528"
+        },
+        {
+          "headline": "Three takeaways from Michigan State basketball's win over Arkansas",
+          "summary": "On Thanksgiving night, No. 11 Michigan State basketball was able to stave off a surge from the Arkansas Razorbacks and head coach John Calipari to move to 6-1 on the season .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/three-takeaways-michigan-state-basketballs-002010729.html"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T19:18:13-05:00"
+  "updatedAt": "2026-11-26T19:43:03-05:00"
 }
