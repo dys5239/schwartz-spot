@@ -79,6 +79,56 @@
       "stories": [],
       "posts": [
         {
+          "id": "2126152220127408214",
+          "created_at": "2026-11-27T03:12:45.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Goo Goo Dolls in the rain 😤 https://t.co/3VWwl71GBc",
+          "url": "https://x.com/Outkick/status/2126152220127408214",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126150504283881883",
+          "created_at": "2026-11-27T03:05:56.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "\"It's a dumpster fire.\"\n\nMike Tomlin taking time from Minecraft to comment on the Steelers’ mess https://t.co/ceSRtEuUeZ",
+          "url": "https://x.com/Outkick/status/2126150504283881883",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126149528588095974",
+          "created_at": "2026-11-27T03:02:04.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Nearly 1 million customers across five states, Pennsylvania, New Jersey, Maryland, Virginia and New York, are without power as severe storms disrupt Thanksgiving travel, according to an outage tracker. https://t.co/mmHUUNvY6y",
+          "url": "https://x.com/Osint613/status/2126149528588095974",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126148995462631432",
+          "created_at": "2026-11-27T02:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TURNING POINT TONIGHT https://t.co/i2UaLZYQd2",
+          "url": "https://x.com/RealAmVoice/status/2126148995462631432",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126147641423937581",
+          "created_at": "2026-11-27T02:54:34.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nasdaq 100 futures surge +2.5% as the Thanksgiving rally gains momentum.\n\nThe S&amp;P 500 is now on track to open near 7,300. https://t.co/UGpZyimMpd",
+          "url": "https://x.com/KobeissiLetter/status/2126147641423937581",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2126139556470874213",
           "created_at": "2026-11-27T02:22:26.000Z",
           "author_name": "OutKick",
@@ -117,26 +167,6 @@
           "url": "https://x.com/ClayTravis/status/2126127595360244064",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126127468763402240",
-          "created_at": "2026-11-27T01:34:24.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Eagles/Cowboys in a nutshell https://t.co/XYF6VPrObi",
-          "url": "https://x.com/Outkick/status/2126127468763402240",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126127049794257400",
-          "created_at": "2026-11-27T01:32:44.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "WHAT A COMEBACK FOR THE EAGLES  https://t.co/PVSj62ZGwu",
-          "url": "https://x.com/Outkick/status/2126127049794257400",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126126803542819170",
@@ -279,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126100248833769522",
-          "created_at": "2026-11-26T23:46:15.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS: \"I also want to congratulate the @USArmy on the incredible job they did yesterday in Iowa... 0.000 particles of problems got into the atmosphere. The job they did was incredible.\" https://t.co/oGTAaikqDZ",
-          "url": "https://x.com/RealAmVoice/status/2126100248833769522",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126097449702097110",
           "created_at": "2026-11-26T23:35:07.000Z",
           "author_name": "StockMarket.News",
@@ -409,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126046022514217256",
-          "created_at": "2026-11-26T20:10:46.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Fox News: North Korea has halted missile shipments to Russia for now amid tensions over South Korea, Ukrainian intelligence says.",
-          "url": "https://x.com/Osint613/status/2126046022514217256",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126045116624216127",
           "created_at": "2026-11-26T20:07:10.000Z",
           "author_name": "Elon Musk",
@@ -517,16 +527,6 @@
           "url": "https://x.com/SportNState/status/2126008166206849265",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126007068456854006",
-          "created_at": "2026-11-26T17:35:59.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Investors are piling into leveraged semiconductor trades:\n\nThe 3x leveraged long semiconductor ETF, SOXL, has attracted +$1.9 billion in inflows so far this week.\n\nOn Monday alone, the fund recorded +$1.7 billion in inflows, its largest daily intake since November 6th.\n\nThis https://t.co/Jw34E9rEki",
-          "url": "https://x.com/KobeissiLetter/status/2126007068456854006",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126004402763051375",
@@ -771,6 +771,18 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Argentina bans its central bank from printing money for the government",
+          "summary": "Argentina’s Congress has approved a law that bans the central bank from printing money to cover government spending",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/argentina-bans-central-bank-printing-money-government-138472439"
+        },
+        {
+          "headline": "Asian shares mostly rise ahead of Wall Street's reopening after the Thanksgiving holiday",
+          "summary": "Asian shares are mostly higher, following a market holiday on Wall Street for Thanksgiving",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/asian-shares-rise-ahead-wall-streets-reopening-after-138475583"
+        },
+        {
           "headline": "China industrial profits growth surges to a 5-month high of 20.1% in October",
           "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
           "source": "CNBC",
@@ -787,18 +799,6 @@
           "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
-        },
-        {
-          "headline": "Elon Musk doubles SpaceX share pledge for U.S. children",
-          "summary": "Every child in the U.S. will receive one share of SpaceX from the company and one from Elon Musk.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
-        },
-        {
-          "headline": "China and other US trading partners hit back at Trump's new tariff plans",
-          "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
         }
       ]
     },
@@ -807,16 +807,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Eagles make NFL history in massive Thanksgiving Day comeback win",
-          "summary": "If you had a late Thanksgiving meal and decided to take your post-dinner nap around the third quarter of the NFC East showdown between the Philadelphia Eagles and Dallas Cowboys, you probably woke up to a surprise. That's because at one point, the Cowboys held a 31-10 lead with just over three minutes remaining in the third period.",
+          "headline": "3 Nets takeaways from 104-97 NBA Cup win over Tyler Herro, Bucks",
+          "summary": "The Brooklyn Nets (4-13) were coming off one of their most disappointing losses of the season when they lost to the Minnesota Timberwolves 142-116 on Monday. Following the loss, Brooklyn looked like they needed to get back to locking down on the defensive end of the floor to win games and after visiting the Milwaukee Bucks (2-17) on Wednesday, the Nets…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/eagles-nfl-history-massive-thanksgiving-022819561.html"
+          "url": "https://sports.yahoo.com/nba/articles/3-nets-takeaways-104-97-025824004.html"
         },
         {
-          "headline": "James Cook touchdown gives Bills 7-0 lead over Chiefs",
-          "summary": "There is some nasty weather in Western New York on Thanksgiving night. Will one touchdown be enough to win it?",
+          "headline": "Eagles' Nick Sirianni pulled away from fans after wild Thanksgiving win over Cowboys",
+          "summary": "Philadelphia Eagles head coach Nick Sirianni has been known to lose his cool on sidelines before. A dramatic 39-38 come-from-behind Thanksgiving Day victory over the rival Dallas Cowboys, punctuated by a 60-yard field goal from Jake Elliott with 2 seconds remaining, was certainly cause for celebration.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/james-cook-touchdown-gives-bills-021232631.html"
+          "url": "https://sports.yahoo.com/nfl/articles/eagles-nick-sirianni-pulled-away-025755865.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -831,10 +831,10 @@
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
         },
         {
-          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
+          "headline": "Bills lead Chiefs 7-3 at halftime on Thanksgiving night",
+          "summary": "There is some nasty weather in Western New York for Thanksgiving night and the Bills look like they have a home-field advance over the Chiefs. Buffalo leads Kansas City 7-3 at halftime.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/bills-lead-chiefs-7-3-025211797.html"
         }
       ]
     },
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T21:42:34-05:00"
+  "updatedAt": "2026-11-26T22:14:14-05:00"
 }
