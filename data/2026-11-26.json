@@ -79,6 +79,16 @@
       "stories": [],
       "posts": [
         {
+          "id": "2126165560002015515",
+          "created_at": "2026-11-27T04:05:46.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: S&amp;P 500 futures extend gains to rise above 7,300 for the first time since November 19th, now up +6% from Friday's low.\n\nBoth the S&amp;P 500 and Dow have are pushing further out of correction territory. https://t.co/NQTuQoXzy8",
+          "url": "https://x.com/KobeissiLetter/status/2126165560002015515",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2126153788407136277",
           "created_at": "2026-11-27T03:18:59.000Z",
           "author_name": "The Kobeissi Letter",
@@ -417,16 +427,6 @@
           "url": "https://x.com/ClayTravis/status/2126056621667438710",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126050442513961064",
-          "created_at": "2026-11-26T20:28:20.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "The US Dollar is experiencing one of its strongest rallies in years:\n\nThe US Dollar Index has surged +7.0% over the last 9 months, its strongest 9-month rolling performance since November 2022.\n\nThis also marks its 2nd-strongest such run since October 2015.\n\nOver the last 3 https://t.co/1a00rqXH9H",
-          "url": "https://x.com/KobeissiLetter/status/2126050442513961064",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126046585809469706",
@@ -807,16 +807,22 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Prisco's Week 12 NFL picks: Browns over Raiders, Steelers overcome issues to upset Broncos",
+          "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/"
+        },
+        {
           "headline": "No. 20 LSU pulls away in OT to beat SMU 95-86 in California desert",
           "summary": "PALM DESERT, Calif. (AP) — Mo Dioubate scored 28 points, Skyy Clark and Donovan Dent each had five in overtime and No.",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-20-lsu-pulls-away-033601801.html"
         },
         {
-          "headline": "10 takeaways from the Eagles' stunning 39-38 win over the Cowboys",
-          "summary": "The Eagles delivered their most entertaining performance of the season, overcoming a 21-point deficit to defeat the Dallas Cowboys, 39-38, on Thanksgiving Day. Philadelphia improved to 4-7 after scoring 22 fourth-quarter points and receiving significant contributions from its quarterback, wide receivers and special teams.",
+          "headline": "Eagles make Thanksgiving history with unbelievable comeback win vs. Cowboys",
+          "summary": "Eric Hartline-Imagn Images Eagles make Thanksgiving history with unbelievable comeback win vs. Cowboys appeared first on ClutchPoints .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/10-takeaways-eagles-stunning-39-032222373.html"
+          "url": "https://sports.yahoo.com/nfl/articles/eagles-thanksgiving-history-unbelievable-comeback-032731566.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -829,12 +835,6 @@
           "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
-        },
-        {
-          "headline": "Hannah Hidalgo becomes No. 13 Notre Dame women's all-time leading scorer in win over West Virginia",
-          "summary": "NASSAU, Bahamas (AP) — Hannah Hidalgo had 22 points and nine steals to become Notre Dame’s all-time leading scorer as the 13th-ranked Fighting Irish beat No. 22 West Virginia 78-64 on Thursday at the Battle 4 Atlantis.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/hannah-hidalgo-becomes-no-13-031618670.html"
         }
       ]
     },
@@ -951,16 +951,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "It’s a Shaolin Thanksgiving! Wu-Tang Clan, Chad Smith Light Up Halftime at Detroit Lions NFL Game",
+          "summary": "Wu-Tang Clan created a Shaolin Thanksgiving experience in Detroit on Thursday afternoon (Nov. 26), joined by Red Hot Chili Peppers drummer — and homeboy — Chad Smith for a halftime performance at Ford Field for the Lions’ annual Thanksgiving game.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/wu-tang-clan-thanksgiving-halftime-detroit-lions-nfl-game/"
+        },
+        {
           "headline": "Anuel AA’s ‘RHLM2’ Album Is Finally Here: ‘I Made It With My Heart and Soul’",
           "summary": "Anuel AA is celebrating his 34th birthday on Thursday (Nov. 26) with the release of his long-awaited RHLM2 album.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/"
-        },
-        {
-          "headline": "Lana Del Rey Says New Albums Are ‘Getting Close’ to Completion: ‘I’m Happy With Them’",
-          "summary": "Lana Del Rey is giving fans an update on her long-awaited new music. In a Thanksgiving Day Instagram post on Thursday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/"
         },
         {
           "headline": "Singer Tinashe is a 'Popstar' who enjoys exploring genres on her latest album",
@@ -969,19 +969,19 @@
           "url": "https://www.npr.org/2026/11/26/nx-s1-5936561-e1/singer-tinashe-is-a-popstar-who-enjoys-exploring-genres-on-her-latest-album"
         },
         {
-          "headline": "Watch Wu-Tang Clan Perform ‘Triumph,’ ‘Bring Da Ruckus’ at NFL Thanksgiving Halftime Show",
-          "summary": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/"
-        },
-        {
           "headline": "PUP Compose New Music for Sample Pack Benefitting Kids in Toronto",
           "summary": "Proceeds from the eight new songs will go to Community Music Schools of Toronto",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/pup-compose-new-music-for-sample-pack-benefitting-kids-in-toronto/"
+        },
+        {
+          "headline": "Snoop Dogg Teams Up With Feid for Thanksgiving Single ‘Gracias x Todo’",
+          "summary": "The musicians recently previewed the track during a performance at the Latin Grammy Awards",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-26T22:46:19-05:00"
+  "updatedAt": "2026-11-26T23:11:04-05:00"
 }
