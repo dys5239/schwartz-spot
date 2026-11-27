@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
+          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+        },
+        {
           "headline": "UK papers: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
           "summary": "Labour MPs oppose Rosebank oilfield and 'Shameless Huw'",
           "source": "BBC News",
@@ -60,16 +66,10 @@
           "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "High school band raises $350K to stay for Macy's Thanksgiving parade",
-          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
-        },
-        {
-          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
-          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
+          "headline": "WATCH: Tips for navigating the holiday travel rush",
+          "summary": "The Points Guy Clint Henderson provides some tips and tricks travelers can use to navigate the Thanksgiving weekend.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+          "url": "https://abcnews.com/video/138472441/"
         }
       ]
     },
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126131712392622283",
+          "created_at": "2026-11-27T01:51:16.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Cowboys continuing to embarrass themselves in nationally televised games  https://t.co/KsODYMJcoD",
+          "url": "https://x.com/Outkick/status/2126131712392622283",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126128344668455173",
           "created_at": "2026-11-27T01:37:53.000Z",
@@ -177,16 +187,6 @@
           "url": "https://x.com/ClayTravis/status/2126122192110784541",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126121943132692727",
-          "created_at": "2026-11-27T01:12:27.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "JOE MILTON \n\nWE ARE ALL WITNESSES https://t.co/o6lq4Hcmhi",
-          "url": "https://x.com/Outkick/status/2126121943132692727",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126118814958207040",
@@ -777,6 +777,12 @@
           "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
         },
         {
+          "headline": "High school band raises $350K to stay for Macy's Thanksgiving parade",
+          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+        },
+        {
           "headline": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
           "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
           "source": "CNBC",
@@ -793,12 +799,6 @@
           "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
-        },
-        {
-          "headline": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
-          "summary": "Shares have advanced in Europe and Asia while U.S. markets are closed for the Thanksgiving holiday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
         }
       ]
     },
@@ -807,16 +807,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Cowboys vs. Eagles recap: Dallas embarrassed by Philadelphia on Thanksgiving Day",
-          "summary": "ARLINGTON, TEXAS - NOVEMBER 26: Ceedee Lamb #88 of the Dallas Cowboys is tackled by Andrew Mukuba #24 of the Philadelphia Eagles during the second quarter at AT&T Stadium on November 26, 2026 in Arlington, Texas. (Photo by Stacy Revere/Getty Images) | Getty Images It will go down in history as one of the darkest Thanksgiving Day games ever for the Dallas…",
+          "headline": "Nick Sirianni confronts Cowboys fans after comeback win",
+          "summary": "Good or bad, right or wrong, Eagles coach Nick Sirianni has had from time to time the demeanor of a fan who won a contest to be the head coach for a day. On Thursday in Dallas, he displayed those qualities after a stunning come-from-way-behind win over the Cowboys.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/cowboys-vs-eagles-recap-dallas-013557295.html"
+          "url": "https://sports.yahoo.com/nfl/articles/nick-sirianni-confronts-cowboys-fans-020851729.html"
         },
         {
-          "headline": "At MorumBIS, São Paulo beat Remo in the Brasileirão",
-          "summary": "On Thursday (26), São Paulo beat Remo 3–1 at MorumBIS in Matchweek 37 of the Brazilian Championship. Calleri (2) and Ryan scored for the Tricolor, while Gabriel Poveda pulled one back for the visitors.",
+          "headline": "Michigan State Gets Past Arkansas, 70-67",
+          "summary": "DETROIT, MICHIGAN - NOVEMBER 26: Jeremy Fears Jr. #1 and Kur Teng #2 of the Michigan State Spartans celebrate following a made three point basket basket from Teng during the second half against the Arkansas Razorbacks in the CBS Thanksgiving Classic at Little Caesars Arena on November 26, 2026 in Detroit, Michigan.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/morumbis-o-paulo-beat-remo-013000910.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/michigan-state-gets-past-arkansas-015428990.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -831,10 +831,10 @@
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
         },
         {
-          "headline": "Travis Kelce’s feelings about Dancing with the Stars winner Ezra Frech revealed with social media move",
-          "summary": "appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/travis-kelce-feelings-dancing-stars-012057562.html"
+          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
+          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
         }
       ]
     },
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T20:44:15-05:00"
+  "updatedAt": "2026-11-26T21:17:16-05:00"
 }
