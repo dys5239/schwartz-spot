@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-27",
+  "sections": [
+    {
+      "id": "ai",
+      "title": "AI",
+      "stories": [
+        {
+          "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+          "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+          "source": "Wired",
+          "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+        },
+        {
+          "headline": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
+          "summary": "Los Angeles school officials have disabled AI-generated summaries in Google searches on school-issued devices",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/google-threatens-cut-schools-search-access-los-angeles-138476437"
+        },
+        {
+          "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "headline": "Fake online stores may fool AI shopping bots on Black Friday",
+          "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
+        },
+        {
+          "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "stories": [
+        {
+          "headline": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
+          "summary": "Ukrainian President Volodymyr Zelenskyy is expressing frustration with the U.S. approach to Russian leader Vladimir Putin",
+          "source": "ABC News",
+          "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386"
+        },
+        {
+          "headline": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts. (Image credit: Aurelien Morissard)",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
+        },
+        {
+          "headline": "WATCH: 12-year-old soccer star turns hearing loss into inspiration",
+          "summary": "ABC News' Danny New has the story of Delaney Anbardan, a young soccer player in Southern California who has continued pursuing the sport while navigating progressive hearing loss.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/video/138478123/"
+        },
+        {
+          "headline": "U.S. opens hotline for tips about cartels, angering Mexico",
+          "summary": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/us-opens-hotline-tips-cartels-angering-mexico/"
+        },
+        {
+          "headline": "Trump says he's giving Iran \"a chance to be smart\"",
+          "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "title": "Politics",
+      "stories": [
+        {
+          "headline": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+          "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+        },
+        {
+          "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
+          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
+        },
+        {
+          "headline": "Iowa lead detonation results expected soon, EPA says",
+          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
+        },
+        {
+          "headline": "After Democrats' midterm wins, some hope attacks on DEI will ease",
+          "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
+        },
+        {
+          "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
+          "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "title": "Economy",
+      "stories": [
+        {
+          "headline": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+          "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html"
+        },
+        {
+          "headline": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+          "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        },
+        {
+          "headline": "Here's how GLP-1 drugs are changing people's shopping habits",
+          "summary": "More than 60 million Americans could be using the drugs by 2030, double the number that currently use them, according to a new forecast.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/glp-1-drugs-food-apparel-shopping-habits/"
+        },
+        {
+          "headline": "Can luxury save Macy's?",
+          "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
+        },
+        {
+          "headline": "Here are the main issues driving Spain's national election",
+          "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/main-issues-driving-spains-national-election-matter-europe-138476511"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "stories": [
+        {
+          "headline": "Bernie’s Dugout Open Thread: 11/27-12/3",
+          "summary": "Sep 10, 2024; San Francisco, California, USA; General view of the helmet used by the Milwaukee Brewers before the start of the first inning against the San Francisco Giants at Oracle Park. Mandatory Credit: Stan Szeto-Imagn Images | Stan Szeto-Imagn Images Greetings, Brew Crew Ball community.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mlb/articles/bernie-dugout-open-thread-11-120000729.html"
+        },
+        {
+          "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
+          "summary": "Controversy, a near-mega collapse, Rick Pitino vs. his old school and a 3-pointer for the win: Everything to know about what happened in Vegas after dark",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/louisville-buzzer-beater-st-johns-comeback-players-era-16/"
+        },
+        {
+          "headline": "Prisco's Week 12 NFL picks: Browns over Raiders, Steelers overcome issues to upset Broncos",
+          "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/"
+        },
+        {
+          "headline": "Fears' 20 points, 10 rebounds help No. 11 Michigan State top Arkansas 70-67 at Thanksgiving Classic",
+          "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
+        },
+        {
+          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
+          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "stories": [
+        {
+          "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
+          "summary": "Dune: Part Three. The finale to the intergalactic trilogy will be released in theaters and on IMAX on Dec.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6010507/avengers-doomsday-dune-part-three-artificial-jumanji-the-debut-movies-in-theaters"
+        },
+        {
+          "headline": "Luc Besson Jokes That He Could Make the Next ‘Terminator,’ but Only if the Terminator ‘Sat Down and Said He Missed His Mom’",
+          "summary": "Luc Besson rejects the idea that he reinvented action cinema. He simply used to have the freedom to experiment.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/luc-besson-terminator-1236959275/"
+        },
+        {
+          "headline": "‘Dangal’ Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass",
+          "summary": "Mukesh Chhabra, the casting director behind “Dangal” and Shah Rukh Khan’s upcoming “King,” took aspiring actors and filmmakers behind the scenes of the casting process at a masterclass at the 57th International Film Festival of India (IFFI) in Goa. The session, “The Casting Magic: Auditions Unplugged,” turned into an extended conversation, with…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/dangal-casting-director-mukesh-chhabra-14000-auditions-1236959312/"
+        },
+        {
+          "headline": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
+          "summary": "All of a Sudden .'/> Justin Chang says this is the best movie he's seen all year. It follows a friendship between two women in Paris — one runs an elder-care facility; the other is a theater director visiting from Kyoto.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6053224/all-of-a-sudden-review"
+        },
+        {
+          "headline": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
+          "summary": "He also worked with Steven Spielberg on ‘Jurassic Park,’ ‘Minority Report,’ ‘The Color Purple’ and ‘Twister’ and headed production at Amblin Entertainment.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/gerald-molen-dead-schindlers-list-jurassic-park-spielberg-1236764035/"
+        }
+      ]
+    },
+    {
+      "id": "tv",
+      "title": "TV",
+      "stories": [
+        {
+          "headline": "Netflix Tunes Into Music-Driven Chinese Fantasy Series ‘The Melody Of Love’",
+          "summary": "Netflix has snapped up The Melody Of Love and is launching the music-driven Chinese fantasy drama in the U.S. and internationally on its platform on 29 Nov.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-buys-chinese-drama-the-melody-of-love-release-date-1237234243/"
+        },
+        {
+          "headline": "Canal+ Sends Signal To African Creative Community With Academy Launch Backed By President Of South Africa",
+          "summary": "The President of South Africa joined with Canal+ boss Maxime Saada today to launch a skills academy that Canal+ hopes will benefit 800 to 1,000 people in its first year. A year after Canal+ bought African pay-TV giant MultiChoice for $2B, Cyril Ramaphosa gave his full-throated backing to Canal+’s actions in South Africa and beyond, […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/canal-plus-academy-backed-south-africa-pres-cyril-ramaphosa-1237234238/"
+        },
+        {
+          "headline": "Barun Sobti, Abhishek Banerjee Star as ‘Paatal Lok’ Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix’s IFFI Selection ‘Pushpak Vimaan’",
+          "summary": "After the crime dramas “Paatal Lok” on Prime Video and “Kohrra” on Netflix, creator Sudip Sharma is changing lanes with “Pushpak Vimaan,” a black comedy and crime caper starring Jaideep Ahlawat, Abhishek Banerjee and Barun Sobti that is expected on Netflix in early 2027. Two episodes of the series screened at the 57th International Film […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/festivals/barun-sobti-abhishek-banerjee-netflix-comedy-pushpak-vimaan-1236959303/"
+        },
+        {
+          "headline": "Candace Cameron Bure Says She Gets “Substantial” Residuals From ‘Full House’",
+          "summary": "The actress played D.J. Tanner throughout the show's run from 1987 to 1995, and later reprised her role in the sitcom’s spin-off 'Fuller House.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049/"
+        },
+        {
+          "headline": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+          "summary": "SPOILER ALERT: This article contains major spoilers for the finale of “Blade Runner 2099,” now streaming on Prime Video. In the finale of “Blade Runner 2099,” the future of humanity is anything but certain.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Media",
+      "stories": [
+        {
+          "headline": "New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To “Traumatic Termination Procedure”",
+          "summary": "A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in “a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125/"
+        },
+        {
+          "headline": "NBC Uses Thanksgiving TV to Kickstart 2028 LA Olympics Marketing Push",
+          "summary": "Olympic gold medalists Sydney Levrone and Rai Benjamin star in the spots, which sees the Olympic rings appearing in some of the city's most iconic locations.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/nbc-new-2028-la-olympics-spot-thanksgiving-1236763173/"
+        },
+        {
+          "headline": "FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network",
+          "summary": "The ruling is a major setback for the administration in the government's campaign against ABC and national media.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790/"
+        },
+        {
+          "headline": "‘Gugu’s World’ Team on the Diversity of Brazilian Cinema and Championing Films That ‘Respect the Storyteller’",
+          "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
+        },
+        {
+          "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
+          "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "stories": [
+        {
+          "headline": "Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
+          "summary": "London’s The O2 Arena is celebrating its 20th anniversary with a massive run of special shows throughout 2027. Artists announced to headline performances at the 20,000-capacity arena so far include Sombr , Backstreet Boys , Jorja Smith , Pet Shop Boys , Jamiroquai , Alt-J and more.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/"
+        },
+        {
+          "headline": "John Farnham’s Family Gives Rare Update on Legendary Singer’s Health",
+          "summary": "John Farnham ’s spirits remain high, his mind is sharp, but his body is failing. That’s the gist of a rare health update, shared from the legendary Australian singer’s family.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/"
+        },
+        {
+          "headline": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
+          "summary": "Earlier this week, the singer debuted the piano ballad at a Nashville concert",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/"
+        },
+        {
+          "headline": "Singer Tinashe is a 'Popstar' who enjoys exploring genres on her latest album",
+          "summary": "The singer Tinashe has a new album out Friday. It's called Popstar.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-5936561-e1/singer-tinashe-is-a-popstar-who-enjoys-exploring-genres-on-her-latest-album"
+        },
+        {
+          "headline": "Watch Wu-Tang Clan Perform ‘Triumph,’ ‘Bring Da Ruckus’ at NFL Thanksgiving Halftime Show",
+          "summary": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-27T07:15:07-05:00"
+}
