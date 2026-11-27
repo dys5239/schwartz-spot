@@ -6,6 +6,18 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Fake online stores may fool AI shopping bots on Black Friday",
+          "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
+        },
+        {
+          "headline": "AI shopping agents face huge threats on Black Friday. Here's what to know.",
+          "summary": "Visa is bracing for a battle online among AI shopping agents targeted by fraudulent bots. Ash-har Quraishi has more.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/ai-shopping-agents-face-huge-threats-on-black-friday-heres-what-to-know/"
+        },
+        {
           "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
           "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar , there's one thing I want AI to do: tell me if I'm about to miss the bus.",
           "source": "The Verge",
@@ -22,18 +34,6 @@
           "summary": "Los Angeles school officials have disabled AI-generated summaries in Google searches on school-issued devices",
           "source": "ABC News",
           "url": "https://abcnews.com/Technology/wireStory/google-threatens-cut-schools-search-access-los-angeles-138476437"
-        },
-        {
-          "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
-          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-        },
-        {
-          "headline": "Fake online stores may fool AI shopping bots on Black Friday",
-          "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
         }
       ]
     },
@@ -48,28 +48,28 @@
           "url": "https://www.cbsnews.com/video/112726-48-hours-case-by-case-episode-32/"
         },
         {
-          "headline": "What we know about Department for Work and Pensions 'cyber incident'",
-          "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications.",
+          "headline": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+          "summary": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Mother dies after walking into plane propeller at Alaska airport",
-          "summary": "Christina Blake, 38, drove a car onto the taxiway of Big Lake Airport, then got out of the vehicle and walked towards a stopped plane.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/alaska-airport-propeller-death-christina-blake/"
-        },
-        {
-          "headline": "Beach attacker sentenced to 10 years after victim, 17, loses leg in bank holiday stabbing",
-          "summary": "Idris Ahmed, 19, stabbed the 17-year-old victim in an unprovoked attack on Barry Island beach.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckjwj6p6n597o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
-          "summary": "Democrats are looking to blunt some of President Donald Trump's tariffs as they take control of Congress",
+          "headline": "WATCH: The Children's Hospital Thanksgiving Day Parade",
+          "summary": "Staff and families put on their own Thanksgiving Day parade at Cook Children's Medical Center in Fort Worth, Texas.",
           "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
+          "url": "https://abcnews.com/video/138479018/"
+        },
+        {
+          "headline": "Investigator says Russia is \"brainwashing\" Ukrainian children at so-called summer camps",
+          "summary": "Since Russia's invasion of Ukraine, many Ukrainian children have ended up at Russian camps where the Ukrainian language is banned and the Russian anthem is played each day. More Sunday on 60 Minutes.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/investigator-says-russia-is-brainwashing-ukrainian-children-at-so-called-summer-camps/"
+        },
+        {
+          "headline": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
+          "summary": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126324866903400536",
+          "created_at": "2026-11-27T14:38:48.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Kuwaiti Foreign Ministry: \n\nThe Iranian ambassador has been summoned to protest his country's continued aggression, the latest of which was yesterday's drone attack.",
+          "url": "https://x.com/Osint613/status/2126324866903400536",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126323916427903220",
+          "created_at": "2026-11-27T14:35:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "🇺🇸 @POTUS &amp; @FLOTUS spotted at Mar A Lago Thanksgiving celebration! https://t.co/8WS1NtKWQJ",
+          "url": "https://x.com/RealAmVoice/status/2126323916427903220",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126323636508197202",
+          "created_at": "2026-11-27T14:33:54.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "GET THE VINYL AT https://t.co/21oaE7ckUb",
+          "url": "https://x.com/RealAmVoice/status/2126323636508197202",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126322323557085389",
+          "created_at": "2026-11-27T14:28:41.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Americans just spent $7.1B online on Thanksgiving Day 🦃\n\nThat's up 10.4% from last year and above Adobe's $6.9B forecast, per Adobe Analytics\n\nAdobe now expects a record $12.9B in online spending today on Black Friday, up 9.2% from $11.8B last year\n\nCyber Monday is projected at https://t.co/bNCzFTfBny",
+          "url": "https://x.com/_Investinq/status/2126322323557085389",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126321424155525496",
+          "created_at": "2026-11-27T14:25:07.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "The @SportNState college football picks start today. We have been on fire. Get rich, kids: https://t.co/JnxBA7NQuk",
+          "url": "https://x.com/ClayTravis/status/2126321424155525496",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126317619502612967",
+          "created_at": "2026-11-27T14:10:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "The Ferrari vs. Dollar General economy: Two Americas. Two very different realities.\n\n@MW_Stormwall joins American Sunrise to break down America's widening economic divide, persistent inflation and mounting signs of stress across financial markets. https://t.co/tTrAJ8Gy0B",
+          "url": "https://x.com/RealAmVoice/status/2126317619502612967",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126316613310001524",
           "created_at": "2026-11-27T14:06:00.000Z",
@@ -99,16 +159,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126313741687853548",
-          "created_at": "2026-11-27T13:54:35.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "JUST IN: Hackers reportedly BREACH critical U.S. Air Force cloud platform!\n\nReuters reports that Cloud One, which supports bomb and missile tracking across more than 200 Air Force locations worldwide, air defense radar feeds and sensitive personnel data, has been compromised. https://t.co/eKMKVD9Pxs",
-          "url": "https://x.com/RealAmVoice/status/2126313741687853548",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126312685604123104",
           "created_at": "2026-11-27T13:50:23.000Z",
           "author_name": "Open Source Intel",
@@ -117,16 +167,6 @@
           "url": "https://x.com/Osint613/status/2126312685604123104",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126311987386703935",
-          "created_at": "2026-11-27T13:47:37.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": ".@POTUS backs Iraqi Prime Minister Ali al-Zaidi’s push to restore state authority across Iraq.\n\nThe statement pledges support for efforts to stop oil smuggling, eliminate corruption and bring ALL weapons under government control. https://t.co/mAzVoZO58a",
-          "url": "https://x.com/RealAmVoice/status/2126311987386703935",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126311579918405919",
@@ -147,16 +187,6 @@
           "url": "https://x.com/Osint613/status/2126309436142596586",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126306798458298823",
-          "created_at": "2026-11-27T13:27:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Protect your family without taking a life\n\nWith millions of Americans traveling and shopping this holiday season, Conn Davis joins American Sunrise to discuss personal safety and alternatives to deadly force.\n\nDr. Gina gets candid about her own concerns: “I hate that I can't take https://t.co/U3KRQO5RvC",
-          "url": "https://x.com/RealAmVoice/status/2126306798458298823",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126305672618795425",
@@ -195,16 +225,6 @@
           "author_handle": "Osint613",
           "text": "The last remaining son of Hamas political bureau head Khalil al-Hiya survived an Israeli strike on an apartment in Gaza City's Rimal neighborhood early this morning, according to senior Hamas official Bassem Naim, who added that the son's family also survived. Sky News Arabia had https://t.co/n42y6TctqY",
           "url": "https://x.com/Osint613/status/2126298957043134695",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126298474320703674",
-          "created_at": "2026-11-27T12:53:55.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iraq is negotiating with OPEC for a higher production ceiling and expects its oil production capacity to grow, according to the country's oil minister. Baghdad also held discussions with the Kurdish Regional Government aimed at ensuring the nation's oil is shared by all Iraqis.",
-          "url": "https://x.com/Osint613/status/2126298474320703674",
           "verified": true,
           "verified_type": "blue"
         },
@@ -389,16 +409,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126115864739262709",
-          "created_at": "2026-11-27T00:48:18.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Joe Milton is making himself a ton of money tonight.",
-          "url": "https://x.com/ClayTravis/status/2126115864739262709",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126110344120762593",
           "created_at": "2026-11-27T00:26:21.000Z",
           "author_name": "Elon Musk",
@@ -435,16 +445,6 @@
           "author_handle": "LauraLoomer",
           "text": "Grateful that he’s both kind and cute. \n\n🌟 https://t.co/aWPskPNzEz",
           "url": "https://x.com/LauraLoomer/status/2126102290733940961",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126097449702097110",
-          "created_at": "2026-11-26T23:35:07.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "XPeng President Brian Gu says the company could deliver tens of thousands of humanoid robots next year, priced like a mid-range EV\n\n\"Next year will be a critical year for scale up and commercialization\"\n\n\"We see the delivery potentially in the tens of thousands\"\n\n\"Robots will be https://t.co/iYmafTdrGu",
-          "url": "https://x.com/_Investinq/status/2126097449702097110",
           "verified": true,
           "verified_type": "blue"
         },
@@ -585,26 +585,6 @@
           "author_handle": "glennbeck",
           "text": "Turkey is in the oven, for Thanksgiving in Florida. Four people short this year, but always grateful for the love we all share.  FYI: We are grateful to be current stewards of the place settings.  Once owned and used by John F and Jackie Kennedy in their Nantucket home. https://t.co/aXqHZ8qDsb",
           "url": "https://x.com/glennbeck/status/2125987669205254402",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125959386514260377",
-          "created_at": "2026-11-26T14:26:30.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Muslim mayor destroys 100 years of tradition. https://t.co/gPFU0wxQz3",
-          "url": "https://x.com/LauraLoomer/status/2125959386514260377",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125959025032581450",
-          "created_at": "2026-11-26T14:25:04.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Of course he is… \n\nJust like last year. And notice the Doha Forum is scheduled during Hanukkah. \n\nI’m sure that was done on purpose too. https://t.co/Z4PI15jxfk",
-          "url": "https://x.com/LauraLoomer/status/2125959025032581450",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,6 +735,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump slams foes and threatens future vetoes in Thanksgiving posts",
+          "summary": "President Trump took questions from reporters during the Thanksgiving holiday. He touched on Jensen Huang's return to Nvidia and lauded his latest meeting with Russia's Vladimir Putin and China's Xi Jinping.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/trump-slams-foes-and-threatens-future-vetoes-in-thanksgiving-posts/"
+        },
+        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
@@ -765,12 +751,6 @@
           "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
-        },
-        {
-          "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
-          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
         },
         {
           "headline": "After Democrats' midterm wins, some hope attacks on DEI will ease",
@@ -791,16 +771,22 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-          "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+          "headline": "Top 10 things to watch in the stock market on Black Friday",
+          "summary": "Stocks are on pace for a record Black Friday as Anthropic tries to regain its IPO price.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+          "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html"
         },
         {
-          "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
-          "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+          "headline": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+          "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+          "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+        },
+        {
+          "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+          "summary": "Democrats are looking to blunt some of President Donald Trump's tariffs as they take control of Congress",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
         },
         {
           "headline": "Here's how GLP-1 drugs are changing people's shopping habits",
@@ -813,12 +799,6 @@
           "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
-        },
-        {
-          "headline": "Here are the main issues driving Spain's national election",
-          "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/main-issues-driving-spains-national-election-matter-europe-138476511"
         }
       ]
     },
@@ -826,18 +806,6 @@
       "id": "sports",
       "title": "Sports",
       "stories": [
-        {
-          "headline": "Swift Absent As Kelce And Chiefs Fall To Bills In Thanksgiving Showdown",
-          "summary": "Gregory Fisher-Imagn Images Taylor Swift did not appear at Highmark Stadium on Thursday night to watch her husband, Travis Kelce, play for the Kansas City Chiefs. The Chiefs lost 13-10 to the Buffalo Bills in a game marked by heavy rain and strong winds.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/swift-absent-kelce-chiefs-fall-140659709.html"
-        },
-        {
-          "headline": "Enzo Maresca backs ‘winner’ Erling Haaland and says there is ‘no panic’ over Man City slump",
-          "summary": "Manchester City manager Enzo Maresca has downplayed concerns about his team’s togetherness and insisted he is not worried about star striker Erling Haaland following downcast post-match interviews. City had won 11 of their first 12 matches in all competitions this season but have suffered an alarming downturn in form, only winning two of their last seven…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/enzo-maresca-backs-winner-erling-140539813.html"
-        },
         {
           "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
           "summary": "Controversy, a near-mega collapse, Rick Pitino vs. his old school and a 3-pointer for the win: Everything to know about what happened in Vegas after dark",
@@ -855,6 +823,18 @@
           "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
+        },
+        {
+          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
+          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
+        },
+        {
+          "headline": "Bournemouth tops Europa League after beating Celta Vigo, Benfica stunned, AC Milan rallies",
+          "summary": "Bournemouth has extended its winning streak to 10 games by defeating Celta Vigo 2-1 in the Europa League",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338"
         }
       ]
     },
@@ -881,10 +861,10 @@
           "url": "https://www.npr.org/2026/11/27/nx-s1-6010507/avengers-doomsday-dune-part-three-artificial-jumanji-the-debut-movies-in-theaters"
         },
         {
-          "headline": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
-          "summary": "All of a Sudden .'/> Justin Chang says this is the best movie he's seen all year. It follows a friendship between two women in Paris — one runs an elder-care facility; the other is a theater director visiting from Kyoto.",
+          "headline": "Robert Pattinson does not want to play an English prince, thank you very much",
+          "summary": "Pattinson became famous playing a teenage vampire in the Twilight trilogy. Since then he's pivoted between indie and mainstream films.",
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6053224/all-of-a-sudden-review"
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6053222/robert-pattinson-bond"
         },
         {
           "headline": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
@@ -935,6 +915,12 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "Trump’s “Noisy Name-Calling” Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter’s Nvidia Dispatch",
+          "summary": "Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141/"
+        },
+        {
           "headline": "New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To “Traumatic Termination Procedure”",
           "summary": "A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in “a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by […]",
           "source": "Deadline",
@@ -957,12 +943,6 @@
           "summary": "In the nine months since “Gugu’s World” premiered in Berlin, director Allan Deberton has had only the most “joyful experiences.” By the time the filmmaker sits down with Variety to discuss the whirlwind, the film has just opened in its home country of Brazil, turning its young star into a phenomenon. That star is Yuri […]",
           "source": "Variety",
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
-        },
-        {
-          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
-          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -970,6 +950,12 @@
       "id": "music",
       "title": "Music",
       "stories": [
+        {
+          "headline": "Justin Timberlake Says Making Upcoming Doc Series Was ‘Really Cathartic’",
+          "summary": "The pop star took over The Tonight Show on Thanksgiving with an interview, performances, and sketches",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/justin-timberlake-upcoming-doc-series-interview-fallon-1235665140/"
+        },
         {
           "headline": "Chart Rewind: In 2021, Taylor Swift’s Rerecorded ‘All Too Well’ Ruled the Hot 100",
           "summary": "“I was going through a bit of sad time,” Taylor Swift told Jimmy Fallon in 2021 about the lyrics in “ All Too Well ,” which she cowrote with Liz Rose. “I started ad-libbing what I was going through and what I was feeling.” Originally released on Swift’s 2012 album Red , at just under five-and-a-half minutes in length, the song became the focus of her…",
@@ -993,15 +979,9 @@
           "summary": "The singer Tinashe has a new album out Friday. It's called Popstar.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-5936561-e1/singer-tinashe-is-a-popstar-who-enjoys-exploring-genres-on-her-latest-album"
-        },
-        {
-          "headline": "Watch Wu-Tang Clan Perform ‘Triumph,’ ‘Bring Da Ruckus’ at NFL Thanksgiving Halftime Show",
-          "summary": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-27T09:10:20-05:00"
+  "updatedAt": "2026-11-27T09:44:12-05:00"
 }
