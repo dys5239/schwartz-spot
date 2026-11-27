@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
+          "headline": "UK papers: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
+          "summary": "Labour MPs oppose Rosebank oilfield and 'Shameless Huw'",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm62p75vwn9xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Iowa lead detonation results expected soon, EPA says",
+          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
+        },
+        {
           "headline": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
           "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "I spend £200 a month on fancy meals by myself - would you dine solo?",
-          "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "High school band raises $350K to stay for Macy's Thanksgiving parade",
           "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
-        },
-        {
-          "headline": "Trump claims \"fake economic numbers\" were released before election",
-          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
         },
         {
           "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126128344668455173",
+          "created_at": "2026-11-27T01:37:53.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Sirianni ready to throw hands with Dallas fans 😂  https://t.co/o4tZ8KJCcu",
+          "url": "https://x.com/Outkick/status/2126128344668455173",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126127595360244064",
+          "created_at": "2026-11-27T01:34:54.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Really funny. https://t.co/HVfZIJfCLi",
+          "url": "https://x.com/ClayTravis/status/2126127595360244064",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126127468763402240",
+          "created_at": "2026-11-27T01:34:24.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Eagles/Cowboys in a nutshell https://t.co/XYF6VPrObi",
+          "url": "https://x.com/Outkick/status/2126127468763402240",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126127049794257400",
+          "created_at": "2026-11-27T01:32:44.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "WHAT A COMEBACK FOR THE EAGLES  https://t.co/PVSj62ZGwu",
+          "url": "https://x.com/Outkick/status/2126127049794257400",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126126803542819170",
+          "created_at": "2026-11-27T01:31:46.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I watched the entire game and I legit can’t believe the Cowboys lost this game.",
+          "url": "https://x.com/ClayTravis/status/2126126803542819170",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126122795838984669",
+          "created_at": "2026-11-27T01:15:50.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "President Trump just INVITED Russian President Vladimir Putin to Florida for the summit in Doral https://t.co/CNUydNNoVt",
+          "url": "https://x.com/RealAmVoice/status/2126122795838984669",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126122696014442977",
+          "created_at": "2026-11-27T01:15:26.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "A service member just asked President Trump his favorite dessert and his response is perfect  https://t.co/TLn4T92LFh",
+          "url": "https://x.com/RealAmVoice/status/2126122696014442977",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126122506209874264",
+          "created_at": "2026-11-27T01:14:41.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Thanksgiving Joe Milton https://t.co/XzZ6BdVRlX",
+          "url": "https://x.com/Outkick/status/2126122506209874264",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126122444461048174",
+          "created_at": "2026-11-27T01:14:26.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "NOW: President Trump signals it’s time for a HUGE corruption investigation into the Somali Minnesota fraud  https://t.co/dZmvmTmGUj",
+          "url": "https://x.com/RealAmVoice/status/2126122444461048174",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126122192110784541",
           "created_at": "2026-11-27T01:13:26.000Z",
@@ -95,16 +185,6 @@
           "author_handle": "Outkick",
           "text": "JOE MILTON \n\nWE ARE ALL WITNESSES https://t.co/o6lq4Hcmhi",
           "url": "https://x.com/Outkick/status/2126121943132692727",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126120069834928428",
-          "created_at": "2026-11-27T01:05:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "RAV THANKSGIVING  SPECIALS https://t.co/ii0oCbIwMM",
-          "url": "https://x.com/RealAmVoice/status/2126120069834928428",
           "verified": true,
           "verified_type": "business"
         },
@@ -139,52 +219,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126115800142483467",
-          "created_at": "2026-11-27T00:48:02.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "BAZOOKA JOE ANSWERS DAK\n\nCowboys defense can’t stop a nosebleed https://t.co/lbT2cbsDcV",
-          "url": "https://x.com/Outkick/status/2126115800142483467",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126114568061538638",
           "created_at": "2026-11-27T00:43:08.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "Inflationary is intensifying in Japan:\n\nJapan’s Services Producer Price Index (SPPI) jumped +4.2% YoY in October, its largest annual increase since 1990, and far above expectations of +3.6%.\n\nThis index tracks domestic prices businesses charge each other for services, and serves https://t.co/EizW3bumTw",
           "url": "https://x.com/KobeissiLetter/status/2126114568061538638",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126114399630881247",
-          "created_at": "2026-11-27T00:42:28.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Talk about putting your body on the line https://t.co/AmJPW387Ab",
-          "url": "https://x.com/Outkick/status/2126114399630881247",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126112658919506061",
-          "created_at": "2026-11-27T00:35:33.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "EAGLES HAVE LIFE https://t.co/TFRX0wqQzX",
-          "url": "https://x.com/Outkick/status/2126112658919506061",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126112149093093569",
-          "created_at": "2026-11-27T00:33:32.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Eagles! https://t.co/EJ1isMBTPD",
-          "url": "https://x.com/Outkick/status/2126112149093093569",
           "verified": true,
           "verified_type": "business"
         },
@@ -219,16 +259,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126104462385135922",
-          "created_at": "2026-11-27T00:02:59.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "GRANT STINCHFIELD TONIGHT SHOW https://t.co/t8ahpToEWi",
-          "url": "https://x.com/RealAmVoice/status/2126104462385135922",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126103806677340600",
           "created_at": "2026-11-27T00:00:23.000Z",
           "author_name": "StockMarket.News",
@@ -255,16 +285,6 @@
           "author_handle": "RealAmVoice",
           "text": ".@POTUS: \"I also want to congratulate the @USArmy on the incredible job they did yesterday in Iowa... 0.000 particles of problems got into the atmosphere. The job they did was incredible.\" https://t.co/oGTAaikqDZ",
           "url": "https://x.com/RealAmVoice/status/2126100248833769522",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126099909501677773",
-          "created_at": "2026-11-26T23:44:54.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DOWNLOAD it now at https://t.co/21oaE7ckUb",
-          "url": "https://x.com/RealAmVoice/status/2126099909501677773",
           "verified": true,
           "verified_type": "business"
         },
@@ -365,16 +385,6 @@
           "author_handle": "ClayTravis",
           "text": "Loser! #respectthepicks #happythanksgivingtoeveryonebutkelly https://t.co/6AYrouZTDy",
           "url": "https://x.com/ClayTravis/status/2126056621667438710",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126056360114581687",
-          "created_at": "2026-11-26T20:51:51.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Gibbs, that speed, insane. Cha Ching, nice over win to start off the day!",
-          "url": "https://x.com/ClayTravis/status/2126056360114581687",
           "verified": true,
           "verified_type": "blue"
         },
@@ -529,16 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125998958841675795",
-          "created_at": "2026-11-26T17:03:45.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Happy Thanksgiving to my favorite people on the planet, Alabama fans! https://t.co/5EqGrymdny",
-          "url": "https://x.com/ClayTravis/status/2125998958841675795",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125987669205254402",
           "created_at": "2026-11-26T16:18:53.000Z",
           "author_name": "Glenn Beck",
@@ -595,16 +595,6 @@
           "author_handle": "MattWalshBlog",
           "text": "This is probably the most important point I’ve ever made https://t.co/Xk81Ww438T",
           "url": "https://x.com/MattWalshBlog/status/2125782865455751359",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125766936109646067",
-          "created_at": "2026-11-26T01:41:47.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Its soooooo over\n\n2027 is going to be fucking insane https://t.co/jKDJEx0C0N",
-          "url": "https://x.com/Timcast/status/2125766936109646067",
           "verified": true,
           "verified_type": "blue"
         },
@@ -745,13 +735,19 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump claims \"fake economic numbers\" were released before election",
+          "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
+        },
+        {
           "headline": "After Democrats' midterm wins, some hope attacks on DEI will ease",
           "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
         },
         {
-          "headline": "Trump to visit Arizona manufacturer of semiconductor chips",
+          "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
           "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
@@ -761,12 +757,6 @@
           "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
-        },
-        {
-          "headline": "ICE detains man after he picked up $1 million lottery winnings",
-          "summary": "The Massachusetts State Lottery posted on social media last week a photo of Ariel Velasquez-Morales, who won $1 million from a scratch-off ticket purchased in Boston.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ice-arrest-lottery-winnings-massachusetts/"
         },
         {
           "headline": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
@@ -781,16 +771,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+          "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+        },
+        {
           "headline": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
           "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
-        },
-        {
-          "headline": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-          "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
         },
         {
           "headline": "Elon Musk doubles SpaceX share pledge for U.S. children",
@@ -817,10 +807,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Eagles vs. Cowboys, live updates: Joe Milton going nuclear in upset bid",
-          "summary": "Happy Thanksgiving, Philadelphia Eagles fans. Let’s see if the Birds can score an upset win against the Dallas Cowboys at AT&T Stadium in Week 12 NFL action.",
+          "headline": "Cowboys vs. Eagles recap: Dallas embarrassed by Philadelphia on Thanksgiving Day",
+          "summary": "ARLINGTON, TEXAS - NOVEMBER 26: Ceedee Lamb #88 of the Dallas Cowboys is tackled by Andrew Mukuba #24 of the Philadelphia Eagles during the second quarter at AT&T Stadium on November 26, 2026 in Arlington, Texas. (Photo by Stacy Revere/Getty Images) | Getty Images It will go down in history as one of the darkest Thanksgiving Day games ever for the Dallas…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/philadelphia-eagles-vs-dallas-cowboys-205917262.html"
+          "url": "https://sports.yahoo.com/nfl/articles/cowboys-vs-eagles-recap-dallas-013557295.html"
+        },
+        {
+          "headline": "At MorumBIS, São Paulo beat Remo in the Brasileirão",
+          "summary": "On Thursday (26), São Paulo beat Remo 3–1 at MorumBIS in Matchweek 37 of the Brazilian Championship. Calleri (2) and Ryan scored for the Tricolor, while Gabriel Poveda pulled one back for the visitors.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/soccer/articles/morumbis-o-paulo-beat-remo-013000910.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -835,16 +831,10 @@
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
         },
         {
-          "headline": "Jordan Scott Makes Impressive Return as Michigan State Edges Arkansas",
-          "summary": "Tom Izzo and Michigan State beat Arkansas 70-67 on Thanksgiving Day at Little Caesars Arena in Detroit. The Spartans had forward Jordan Scott return after missing their last game against Detroit Mercy and being questionable to start before game time , per reporter Chris Solari.",
+          "headline": "Travis Kelce’s feelings about Dancing with the Stars winner Ezra Frech revealed with social media move",
+          "summary": "appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/jordan-scott-makes-impressive-return-004000584.html"
-        },
-        {
-          "headline": "Studs and duds from Bears' thrilling comeback win vs. Lions",
-          "summary": "The Chicago Bears mounted an impressive 39-35 fourth-quarter comeback win against the Detroit Lions, improving to 9-2. They've now won six straight games, earned their first victory over an NFC North team this season and took sole possession of first place in the division.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/studs-duds-bears-thrilling-comeback-003713059.html"
+          "url": "https://sports.yahoo.com/nfl/articles/travis-kelce-feelings-dancing-stars-012057562.html"
         }
       ]
     },
@@ -993,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T20:15:01-05:00"
+  "updatedAt": "2026-11-26T20:44:15-05:00"
 }
