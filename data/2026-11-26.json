@@ -12,6 +12,12 @@
           "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
         },
         {
+          "headline": "Fake online stores may fool AI shopping bots on Black Friday",
+          "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
+        },
+        {
           "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
           "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "You're gathered with family this Thanksgiving when the topic of AI comes up. How can you have a productive, fact-based conversation?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/25/nx-s1-6053216/how-to-talk-ai-around-the-thanksgiving-table"
-        },
-        {
-          "headline": "How people use AI agents to handle annoying tasks and save money",
-          "summary": "Shrugging off fears of AI, some consumers say the technology is simplifying their lives and helping them save money.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/"
         }
       ]
     },
@@ -807,16 +807,16 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Emmett Johnson TD gives Chiefs 10-7 lead early in third quarter",
+          "summary": "The Chiefs got a little something going at the end of the first half. But they have taken off to start the second.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/emmett-johnson-td-gives-chiefs-031543741.html"
+        },
+        {
           "headline": "3 Nets takeaways from 104-97 NBA Cup win over Tyler Herro, Bucks",
           "summary": "The Brooklyn Nets (4-13) were coming off one of their most disappointing losses of the season when they lost to the Minnesota Timberwolves 142-116 on Monday. Following the loss, Brooklyn looked like they needed to get back to locking down on the defensive end of the floor to win games and after visiting the Milwaukee Bucks (2-17) on Wednesday, the Nets…",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/nba/articles/3-nets-takeaways-104-97-025824004.html"
-        },
-        {
-          "headline": "Eagles' Nick Sirianni pulled away from fans after wild Thanksgiving win over Cowboys",
-          "summary": "Philadelphia Eagles head coach Nick Sirianni has been known to lose his cool on sidelines before. A dramatic 39-38 come-from-behind Thanksgiving Day victory over the rival Dallas Cowboys, punctuated by a 60-yard field goal from Jake Elliott with 2 seconds remaining, was certainly cause for celebration.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/eagles-nick-sirianni-pulled-away-025755865.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -831,10 +831,10 @@
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
         },
         {
-          "headline": "Bills lead Chiefs 7-3 at halftime on Thanksgiving night",
-          "summary": "There is some nasty weather in Western New York for Thanksgiving night and the Bills look like they have a home-field advance over the Chiefs. Buffalo leads Kansas City 7-3 at halftime.",
+          "headline": "Eagles' Nick Sirianni pulled away from fans after wild Thanksgiving win over Cowboys",
+          "summary": "Philadelphia Eagles head coach Nick Sirianni has been known to lose his cool on sidelines before. A dramatic 39-38 come-from-behind Thanksgiving Day victory over the rival Dallas Cowboys, punctuated by a 60-yard field goal from Jake Elliott with 2 seconds remaining, was certainly cause for celebration.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bills-lead-chiefs-7-3-025211797.html"
+          "url": "https://sports.yahoo.com/nfl/articles/eagles-nick-sirianni-pulled-away-025755865.html"
         }
       ]
     },
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T22:20:37-05:00"
+  "updatedAt": "2026-11-26T22:23:18-05:00"
 }

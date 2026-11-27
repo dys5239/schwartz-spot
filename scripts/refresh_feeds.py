@@ -211,7 +211,11 @@ LOCAL_OUTLET_RE = re.compile(
 # in Media for 14 runs; Billboard's evergreen "Music Industry Events Calendar".
 JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter|/biz/lifestyle/|events-calendar", re.I)
 JUNK_HEAD_RE = re.compile(
-    r"black friday|cyber monday|gift guide|prime day|promo code|bonus code|"
+    # Editor (Nov 26): only Black Friday / Cyber Monday DEAL posts, not retail news
+    # ("Necessities join gifts in Black Friday shopping carts", scam warnings).
+    r"(black friday|cyber monday)\b.*\b(deals?|sales?|discounts?|off|savings|doorbusters?|picks)\b|"
+    r"\b(deals?|sales?|discounts?|percent off|savings)\b.*\b(black friday|cyber monday)|\bup to \d+% off|coupons?\b|discount codes?|what stores are open|store hours|what's open (and closed )?on|"
+    r"gift guide|prime day|promo code|bonus code|"
     r"bonus(es)? (from|at|with) (betting|sportsbook)|"  # Editor (Nov 21)
     r"^\d{1,2}/\d{1,2}(/\d{2,4})?: (CBS|Face the Nation)",  # Editor (Nov 26): full-episode videos ("11/26: CBS Evening News")
     re.I,
