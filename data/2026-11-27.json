@@ -48,28 +48,28 @@
           "url": "https://www.cbsnews.com/video/112726-48-hours-case-by-case-episode-32/"
         },
         {
-          "headline": "Trump says Iran war will end whenever he wants",
-          "summary": "President Trump took questions about the Iran war on the Thanksgiving holiday, suggesting he has the power to end the conflict whenever he wants. CBS News' Weijia Jiang reports.",
+          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
+          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-says-iran-war-will-end-whenever-he-wants-to/"
+          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+        },
+        {
+          "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "GTA 6 crashes into top end of music chart after its record launch",
+          "summary": "Several songs on the game's soundtrack have climbed the UK's singles chart.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Pizza Hut cofounder Dan Carney dies, nearly seven decades after launching business",
           "summary": "Dan Carney, who co-founded Pizza Hut with his brother nearly seven decades ago, has died",
           "source": "ABC News",
           "url": "https://abcnews.com/US/wireStory/pizza-hut-cofounder-dan-carney-dies-decades-after-138483035"
-        },
-        {
-          "headline": "Kenyan doomsday cult leader convicted over further 123 deaths",
-          "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Watch: What has happened to DWP online services?",
-          "summary": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126377609302888834",
+          "created_at": "2026-11-27T18:08:22.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Mississippi State has a lead in an SEC game for the first time since September 26th 😲 https://t.co/OdjmLvnNKK",
+          "url": "https://x.com/SportNState/status/2126377609302888834",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126377514167886091",
+          "created_at": "2026-11-27T18:08:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Give the gift of American pride this Christmas!\n\nThe Real America's Voice BLACK FRIDAY SALE is your chance to score big savings on your favorite RAV gear!\n\n🇺🇸 Up to 30% OFF merchandise\n📦 FREE U.S. shipping on orders of $75+\n📲 Exclusive VIP offer for RAV App members\n\nFill those https://t.co/MZx9T7lBUG",
+          "url": "https://x.com/RealAmVoice/status/2126377514167886091",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126375863121834116",
+          "created_at": "2026-11-27T18:01:26.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The S&amp;P 500 rises +1.6% to close at its highest level since November 18th.\n\nThe index added +$1 trillion worth of market cap today. https://t.co/dWAHCOHAJr",
+          "url": "https://x.com/KobeissiLetter/status/2126375863121834116",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126374494306496626",
+          "created_at": "2026-11-27T17:56:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "It's time to support entertainment that puts FAITH and FAMILY first!\n\nOur friends at @AngelStudiosInc are launching their BIGGEST Black Friday sale of the year!\n\n✨ 44% OFF a Premium Annual Angel Guild membership\n🍫 Two complimentary tickets to see Hershey in theaters\n📺 Access https://t.co/VgcJXoU2EA",
+          "url": "https://x.com/RealAmVoice/status/2126374494306496626",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126371759989641284",
+          "created_at": "2026-11-27T17:45:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Former Pentagon AI policy analyst Will Thibeau says Elon Musk's 1 million satellite data center plan is literally a 300 year proposition\n\n\"A million data centers in space is literally a 300 year proposition\"\n\n\"Starlink launches approximately nine satellites a day\"\n\n\"A million https://t.co/6xqcMwoFee",
+          "url": "https://x.com/_Investinq/status/2126371759989641284",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126370971229520003",
           "created_at": "2026-11-27T17:42:00.000Z",
@@ -219,16 +269,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126352348620406873",
-          "created_at": "2026-11-27T16:28:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "“WE WERE HOURS AWAY FROM SHUTTING EVERY MARKET IN THE WORLD!”\n\n@RealJimRickards gives Steve Bannon a stunning firsthand account of the 1998 financial crisis, revealing how a hedge fund run by financial geniuses nearly triggered a global meltdown.\n\n$4 BILLION. Five days. No due https://t.co/JcjYWbZYEh",
-          "url": "https://x.com/RealAmVoice/status/2126352348620406873",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126350600979853488",
           "created_at": "2026-11-27T16:21:03.000Z",
           "author_name": "Sport & State",
@@ -289,16 +329,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126335738988089763",
-          "created_at": "2026-11-27T15:22:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "COULD AI CYBERATTACKS CRIPPLE AMERICA'S CRITICAL INFRASTRUCTURE?\n\n@chrishoar warns Steve Bannon that autonomous AI attacks and alleged backdoors in Chinese-made equipment could leave America's power grid, water supply and communications networks dangerously vulnerable.\n\nHis https://t.co/b53deVZKrw",
-          "url": "https://x.com/RealAmVoice/status/2126335738988089763",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126332790677643661",
           "created_at": "2026-11-27T15:10:17.000Z",
           "author_name": "StockMarket.News",
@@ -319,16 +349,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126322323557085389",
-          "created_at": "2026-11-27T14:28:41.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Americans just spent $7.1B online on Thanksgiving Day 🦃\n\nThat's up 10.4% from last year and above Adobe's $6.9B forecast, per Adobe Analytics\n\nAdobe now expects a record $12.9B in online spending today on Black Friday, up 9.2% from $11.8B last year\n\nCyber Monday is projected at https://t.co/bNCzFTfBny",
-          "url": "https://x.com/_Investinq/status/2126322323557085389",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126321424155525496",
           "created_at": "2026-11-27T14:25:07.000Z",
           "author_name": "Clay Travis",
@@ -345,16 +365,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: US consumers spent $7.1 billion online on Thanksgiving Day, up +10.4% year-over-year and above expectations, per Adobe data. \n\nAdobe now expects US consumers to spend a record $12.9 billion online today, on Black Friday, which would mark a +9.2% year-over-year increase.",
           "url": "https://x.com/KobeissiLetter/status/2126311579918405919",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126304264553144509",
-          "created_at": "2026-11-27T13:16:56.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: S&amp;P 500 is on track for a 4th consecutive week with a return of at least 2.5% in either direction, its longest such streak since the 2022 bear market.\n\nThis would also match the 4-week streaks recorded during the 2020 sell-off and the 2000 decline following the Dot-com https://t.co/cuCQaUMlHL",
-          "url": "https://x.com/KobeissiLetter/status/2126304264553144509",
           "verified": true,
           "verified_type": "business"
         },
@@ -569,16 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126014371755131164",
-          "created_at": "2026-11-26T18:05:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "They should be sworn enemies in this cancel culture era. Instead, coaches Rita Gary and  Andrea Grove-McDonough are fast friends. How to amiably coexist with someone with opposing beliefs.\nhttps://t.co/hsPQbemisj",
-          "url": "https://x.com/SportNState/status/2126014371755131164",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126012054838362509",
           "created_at": "2026-11-26T17:55:47.000Z",
           "author_name": "Tim Pool",
@@ -615,6 +615,16 @@
           "author_handle": "MattWalshBlog",
           "text": "This is probably the most important point I’ve ever made https://t.co/Xk81Ww438T",
           "url": "https://x.com/MattWalshBlog/status/2125782865455751359",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125766936109646067",
+          "created_at": "2026-11-26T01:41:47.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Its soooooo over\n\n2027 is going to be fucking insane https://t.co/jKDJEx0C0N",
+          "url": "https://x.com/Timcast/status/2125766936109646067",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,16 +765,16 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Sen. Deb Fischer's husband died by suicide, her office says",
-          "summary": "\"His kindness, integrity, and quiet strength left a lasting impression on all who knew him,\" Sen. Deb Fischer said of her late husband, Bruce.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/"
-        },
-        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "President Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+        },
+        {
+          "headline": "Sen. Deb Fischer's husband died by suicide, her office says",
+          "summary": "\"His kindness, integrity, and quiet strength left a lasting impression on all who knew him,\" Sen. Deb Fischer said of her late husband, Bruce.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/"
         },
         {
           "headline": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
@@ -791,6 +801,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+          "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+        },
+        {
           "headline": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
           "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
           "source": "CNBC",
@@ -801,12 +817,6 @@
           "summary": "Democrats are looking to blunt some of President Donald Trump's tariffs as they take control of Congress",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
-        },
-        {
-          "headline": "It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs",
-          "summary": "A wide swath of consumer products are becoming less reliable and durable, even as their prices rise, research shows.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html"
         },
         {
           "headline": "How Nestlé chefs are making meals to target GLP-1 users",
@@ -827,28 +837,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "5 takeaways from Bills win over Chiefs",
-          "summary": "The Buffalo Bills beat the Chiefs 13-10 in dramatic fashion in Week 12 at Highmark Stadium to provide all of Western New York and Bills fans everywhere an idyllic ending to Thanksgiving. The Bills are now 10-1, which is tied for the best start in franchise history.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/5-takeaways-bills-win-over-173553399.html"
+          "headline": "College basketball rankings: Biggest surprise this season? The 8-0 Pitt Panthers make Top 25 And 1 debut",
+          "summary": "Jeff Capel's Pitt squad has wins over Villanova, Oklahoma, Butler and Penn State and will face Missouri on Tuesday.",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-8-0-pitt-panthers-top-25-and-1-debut/"
         },
         {
-          "headline": "Montana Gets Tough First-Round Playoff Draw with Incarnate Word",
-          "summary": "The Montana Grizzlies found out their postseason fate on Sunday afternoon and it’s a challenging one. UM, after losing to rival to Montana State 42-16 in the regular season finale, fell to 8-4 on the season and thus will have to play a first round game this weekend.",
+          "headline": "João Couto named player of the match in U17s' win over Costa Rica",
+          "summary": "João Couto celebrates victory and individual award Credits: Glauber Guerra / CBF Brazil Under-17 forward João Couto was named FIFA Player of the Match in Brazil’s 3-0 win over Costa Rica on Friday (27), in the final round of the World Cup group stage. After receiving the trophy, the player praised the team’s collective performance and shared the…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/montana-gets-tough-first-round-173305494.html"
+          "url": "https://sports.yahoo.com/college-sports/articles/jo-o-couto-named-player-175600124.html"
+        },
+        {
+          "headline": "Rohit Sharma back as Mumbai Indians captain; five-time winner to lead MI in IPL 2027",
+          "summary": "Rohit Sharma will return as Mumbai Indians captain for the 2027 Indian Premier League (IPL) season, the franchise announced on Friday. The 39-year-old, who led Mumbai to five IPL titles during his previous stint as captain, will be back in charge as the franchise enters its 20th season in the competition.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/general/articles/rohit-sharma-back-mumbai-indians-174900611.html"
         },
         {
           "headline": "Steelers vs. Broncos prediction: Why Mason Rudolph can lead upset after Aaron Rodgers drama",
           "summary": "Rudolph is replacing Rodgers, who was surprisingly benched on Tuesday night and then went on a scorched-earth tirade against his now-former head coach",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/nfl/news/steelers-vs-broncos-prediction-why-mason-rudolph-lead-upset-aaron-rodgers/"
-        },
-        {
-          "headline": "College basketball rankings: Biggest surprise this season? The 8-0 Pitt Panthers make Top 25 And 1 debut",
-          "summary": "Jeff Capel's Pitt squad has wins over Villanova, Oklahoma, Butler and Penn State and will face Missouri on Tuesday.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-8-0-pitt-panthers-top-25-and-1-debut/"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -863,28 +873,28 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "‘Club Kid’ Star Reggie Absolom on His Friendship With Jordan Firstman and Missing Out on a ‘Harry Potter’ Role: ‘J.K. Rowling Is a No Anyway’",
+          "summary": "Walking the red carpet at the Cannes Film Festival and receiving a seven-minute standing ovation is an emotional event for anyone — but especially when you’re 14, and it’s your first time acting in a feature film. Such was the case for “Club Kid” star Reggie Absolom.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/features/club-kid-reggie-absolom-jordan-firstman-harry-potter-audition-1236941846/"
+        },
+        {
+          "headline": "Sebastian Stan Says ‘Thunderbolts’ Had ‘More Nuance’ Than ‘Some of the Recent’ Marvel Movies and Was a ‘Success’ Despite Disappointing Box Office",
+          "summary": "Marvel veteran Sebastian Stan is sticking up for last year’s “Thunderbolts,” despite it being one of the lowest-grossing MCU movies. In the team-up movie, he reprised his role as Bucky Barnes, aka the Winter Soldier, alongside Florence Pugh as Yelena Belova and David Harbour as the Red Guardian to form the Thunderbolts, a new group […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632/"
+        },
+        {
+          "headline": "Denis Villeneuve Pledges Traditional, “Unapologetic” Bond: “Not Here to Change the DNA”",
+          "summary": "The director teases a classic approach to his Amazon MGM film starring Robert Pattinson: \"I love the way the character behaves.\"",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-bond-movie-denis-villeneuve-1236764148/"
+        },
+        {
           "headline": "Masaaki Yuasa’s ‘Daisy’s Life’ Unveils First Look Images From Japanese Anime Giant’s Next Feature",
           "summary": "The first images from the animated adaptation of Banana Yoshimoto’s novel comes ahead of the movie now scheduled to hit theaters in Japan in 2027.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/masaaki-yuasas-daisys-life-first-look-1236764141/"
-        },
-        {
-          "headline": "Denis Villeneuve “Deeply Disappointed” Disney Put ‘Avengers: Doomsday’ Against ‘Dune 3’",
-          "summary": "The director breaks silence on going head-to-head against Marvel's titan on \"Dunesday.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/denis-villeneuve-dune-3-avengers-doomsday-dunesday-date-1236764139/"
-        },
-        {
-          "headline": "‘Club Kid’ Breakout Saturn Risin9 on Auditioning Weeks After Facial Feminization Surgery and a New Era for Queer Cinema: ‘Straight People Want to See Things They Don’t Know About’",
-          "summary": "When Saturn Risin9 auditioned for Jordan Firstman’s “Club Kid,” her face was still swollen from facial feminization surgery. The musician, DJ and nightlife fixture, who had undergone the procedure a month earlier in April 2025, hadn’t even attempted to put on a wig since her surgery.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/club-kid-breakout-saturn-risin9-audition-queer-cinema-1236958122/"
-        },
-        {
-          "headline": "Thanksgiving Box Office: ‘Hunger Games: Sunrise on the Reaping’ Rules With $11.6 Million, ‘Focker-in-Law’ Follows With $7.7 Million",
-          "summary": "As people traveled back home for Thanksgiving, a lot of moviegoers made a stop at Panem to return to the world of “The Hunger Games.” The new prequel, “Sunrise on the Reaping,” ruled the Thanksgiving box office with $11.6 million on Thursday. Lionsgate’s latest entry in the YA action franchise will dominate the box office […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-reaping-thanksgiving-1236959537/"
         },
         {
           "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
@@ -1003,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T12:45:15-05:00"
+  "updatedAt": "2026-11-27T13:13:41-05:00"
 }
