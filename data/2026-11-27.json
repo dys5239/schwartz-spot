@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
+          "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar , there's one thing I want AI to do: tell me if I'm about to miss the bus.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
+        },
+        {
           "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
           "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
           "source": "Wired",
@@ -28,12 +34,6 @@
           "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
-        },
-        {
-          "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
-          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+          "headline": "Restless Ghosts: One Case, A Century of Doubt | Case by Case | \"48 Hours\" Podcast",
+          "summary": "Nearly 100 years ago, two young socialites were found dead in a New Jersey mansion. Ruled a murder-suicide, the case sparked rumors of a cover-up, a controversial investigation, and questions that still linger today.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+          "url": "https://www.cbsnews.com/video/112726-48-hours-case-by-case-episode-32/"
+        },
+        {
+          "headline": "What we know about Department for Work and Pensions 'cyber incident'",
+          "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Mother dies after walking into plane propeller at Alaska airport",
+          "summary": "Christina Blake, 38, drove a car onto the taxiway of Big Lake Airport, then got out of the vehicle and walked towards a stopped plane.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/alaska-airport-propeller-death-christina-blake/"
+        },
+        {
+          "headline": "Beach attacker sentenced to 10 years after victim, 17, loses leg in bank holiday stabbing",
+          "summary": "Idris Ahmed, 19, stabbed the 17-year-old victim in an unprovoked attack on Barry Island beach.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj6p6n597o?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
           "summary": "Democrats are looking to blunt some of President Donald Trump's tariffs as they take control of Congress",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
-        },
-        {
-          "headline": "Government to limit 'abusive lawsuits' aimed at silencing whistleblowers",
-          "summary": "An MP cited former Harrods owner Mohamed Al Fayed as someone who used legal action to suppress his \"appalling abuse\".",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cw24ez2zvge0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Trump says he's giving Iran \"a chance to be smart\"",
-          "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
-        },
-        {
-          "headline": "WATCH: The Children's Hospital Thanksgiving Day Parade",
-          "summary": "Staff and families put on their own Thanksgiving Day parade at Cook Children's Medical Center in Fort Worth, Texas.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138479018/"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126316613310001524",
+          "created_at": "2026-11-27T14:06:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BIG SAVINGS. AMERICAN PRIDE. BLACK FRIDAY IS HERE!\n\nSave up to 30% OFF merchandise from Real America's Voice and your favorite shows! Shop hats, T-shirts, hoodies, mugs and more — perfect Christmas gifts and stocking stuffers for the patriots on your list. 🎁\n\n📦 FREE U.S. https://t.co/FBbtJbek52",
+          "url": "https://x.com/RealAmVoice/status/2126316613310001524",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126316362821726585",
+          "created_at": "2026-11-27T14:05:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BLACK FRIDAY SAVINGS: Bring home the sound of an American Christmas for 15% OFF!\n\nGet \"Real America's Christmas\" on classic 12-inch black vinyl, featuring seven incredible Christmas songs from Chad Prather, Natasha Owens, Beau Davidson, and more!\n\n🎁 Regularly $100 — NOW JUST https://t.co/2GdL0okvmm",
+          "url": "https://x.com/RealAmVoice/status/2126316362821726585",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126313741687853548",
+          "created_at": "2026-11-27T13:54:35.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "JUST IN: Hackers reportedly BREACH critical U.S. Air Force cloud platform!\n\nReuters reports that Cloud One, which supports bomb and missile tracking across more than 200 Air Force locations worldwide, air defense radar feeds and sensitive personnel data, has been compromised. https://t.co/eKMKVD9Pxs",
+          "url": "https://x.com/RealAmVoice/status/2126313741687853548",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126312685604123104",
+          "created_at": "2026-11-27T13:50:23.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Eisenkot: \"Unity is not about a game of political chairs. The Likud is dragging its feet. I will form a new government within eight days.\"\n\nThis follows word that Netanyahu is weighing an offer to go second in a rotation with Eisenkot for a unity government. He had refused that",
+          "url": "https://x.com/Osint613/status/2126312685604123104",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126311987386703935",
+          "created_at": "2026-11-27T13:47:37.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS backs Iraqi Prime Minister Ali al-Zaidi’s push to restore state authority across Iraq.\n\nThe statement pledges support for efforts to stop oil smuggling, eliminate corruption and bring ALL weapons under government control. https://t.co/mAzVoZO58a",
+          "url": "https://x.com/RealAmVoice/status/2126311987386703935",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126311579918405919",
+          "created_at": "2026-11-27T13:46:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: US consumers spent $7.1 billion online on Thanksgiving Day, up +10.4% year-over-year and above expectations, per Adobe data. \n\nAdobe now expects US consumers to spend a record $12.9 billion online today, on Black Friday, which would mark a +9.2% year-over-year increase.",
+          "url": "https://x.com/KobeissiLetter/status/2126311579918405919",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126309436142596586",
           "created_at": "2026-11-27T13:37:29.000Z",
@@ -119,16 +179,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126301585034641776",
-          "created_at": "2026-11-27T13:06:17.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DEMOCRATS DOMINATE 2028 POLL, NEWSOM UNLEASHES AI RULES | AMERICAN SUNRISE https://t.co/J57plrDKom",
-          "url": "https://x.com/RealAmVoice/status/2126301585034641776",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126301037514407975",
           "created_at": "2026-11-27T13:04:06.000Z",
           "author_name": "Laura Loomer",
@@ -137,16 +187,6 @@
           "url": "https://x.com/LauraLoomer/status/2126301037514407975",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126298996901835056",
-          "created_at": "2026-11-27T12:56:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICA WAS TEARING ITSELF APART WHEN LINCOLN CALLED THE NATION TO GIVE THANKS!\n\nIn 1863, with the Civil War raging and families mourning unimaginable losses, President Abraham Lincoln issued the proclamation that helped establish Thanksgiving as an annual national tradition. https://t.co/sLLsPRzMMQ",
-          "url": "https://x.com/RealAmVoice/status/2126298996901835056",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126298957043134695",
@@ -169,16 +209,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126294415719145962",
-          "created_at": "2026-11-27T12:37:48.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "IDF:  IDF forces foiled an attempt to smuggle six pistols on the eastern border Last night (Friday), during searches by IDF forces from the Valley and Valleys Brigade, six pistols were located in the Valley area on the eastern border. The weapons that were located were https://t.co/R7idAz2MIL",
-          "url": "https://x.com/Osint613/status/2126294415719145962",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126293036749713422",
           "created_at": "2026-11-27T12:32:19.000Z",
           "author_name": "StockMarket.News",
@@ -187,16 +217,6 @@
           "url": "https://x.com/_Investinq/status/2126293036749713422",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126292957229932983",
-          "created_at": "2026-11-27T12:32:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "HALF THE PILGRIMS DIED BEFORE THE FIRST THANKSGIVING!\n\nStarvation. Disease. Bitter cold. Families torn apart.\n\nBy the spring of 1621, nearly HALF of the Mayflower passengers were dead. Those who survived faced unimaginable hardship, relying on faith, determination, and help from https://t.co/sq4uksdxq5",
-          "url": "https://x.com/RealAmVoice/status/2126292957229932983",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126284727720050893",
@@ -225,16 +245,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: Gold rises over +4% and silver surges +10% as dip buyers continue to rotate into precious metals. https://t.co/Hxvvm7MvRu",
           "url": "https://x.com/KobeissiLetter/status/2126274285538832812",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126255206338036123",
-          "created_at": "2026-11-27T10:01:59.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "THE EARLY BIRD WITH ED MARTIN https://t.co/xM5ME9fwJI",
-          "url": "https://x.com/RealAmVoice/status/2126255206338036123",
           "verified": true,
           "verified_type": "business"
         },
@@ -295,16 +305,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: S&amp;P 500 futures extend gains to rise above 7,300 for the first time since November 19th, now up +6% from Friday's low.\n\nBoth the S&amp;P 500 and Dow have are pushing further out of correction territory. https://t.co/NQTuQoXzy8",
           "url": "https://x.com/KobeissiLetter/status/2126165560002015515",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126153788407136277",
-          "created_at": "2026-11-27T03:18:59.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Gold surges above $3,600/oz and silver rises over +5% as dip buyers rotate back into the market.\n\nS&amp;P 500 futures are up to their highest level since November 19th. https://t.co/e1YCNBKAmM",
-          "url": "https://x.com/KobeissiLetter/status/2126153788407136277",
           "verified": true,
           "verified_type": "business"
         },
@@ -755,6 +755,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Trump says he's giving Iran \"a chance to be smart\"",
+          "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+        },
+        {
           "headline": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
           "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
           "source": "NPR",
@@ -765,12 +771,6 @@
           "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
-        },
-        {
-          "headline": "Iowa lead detonation results expected soon, EPA says",
-          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
         },
         {
           "headline": "After Democrats' midterm wins, some hope attacks on DEI will ease",
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Ben Johnson sounds off on Bears' comeback win vs. Lions",
-          "summary": "The Chicago Bears have spent most of the 2026 season leading football games. But they went vintage 2025 Bears with Thursday's impressive 39-35 win over the Detroit Lions on Thanksgiving.",
+          "headline": "Swift Absent As Kelce And Chiefs Fall To Bills In Thanksgiving Showdown",
+          "summary": "Gregory Fisher-Imagn Images Taylor Swift did not appear at Highmark Stadium on Thursday night to watch her husband, Travis Kelce, play for the Kansas City Chiefs. The Chiefs lost 13-10 to the Buffalo Bills in a game marked by heavy rain and strong winds.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/ben-johnson-sounds-off-bears-132029256.html"
+          "url": "https://sports.yahoo.com/nfl/articles/swift-absent-kelce-chiefs-fall-140659709.html"
         },
         {
-          "headline": "Joe Milton had Tom Brady losing his mind in comeback win over Cowboys",
-          "summary": "ARLINGTON, TEXAS- NOVEMBER 26: Joe Milton #14 of the Philadelphia Eagles celebrates after an NFL football game against the Dallas Cowboys at AT&T Stadium on November 26, 2026 in Arlington, Texas. (Photo by Logan Bowles/Getty Images) | Getty Images Did anyone have Joe Milton becoming a Thanksgiving day legend on your bingo card?",
+          "headline": "Enzo Maresca backs ‘winner’ Erling Haaland and says there is ‘no panic’ over Man City slump",
+          "summary": "Manchester City manager Enzo Maresca has downplayed concerns about his team’s togetherness and insisted he is not worried about star striker Erling Haaland following downcast post-match interviews. City had won 11 of their first 12 matches in all competitions this season but have suffered an alarming downturn in form, only winning two of their last seven…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/joe-milton-had-tom-brady-131014591.html"
+          "url": "https://sports.yahoo.com/soccer/articles/enzo-maresca-backs-winner-erling-140539813.html"
         },
         {
           "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
@@ -863,22 +863,22 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Spain Nears New India Co-Production Pact as It Wraps Country of Honor Run at IFFI Goa, WAVES Film Bazaar",
-          "summary": "Spain and India have moved closer to a fresh film and audiovisual co-production treaty as Spain wrapped its run as Country of Honor at the 57th International Film Festival of India (IFFI) in Goa and its market, WAVES Film Bazaar. On Nov.",
+          "headline": "Iranian Activist and ‘It Was Just an Accident’ Screenwriter Mehdi Mahmoudian Arrested in Tehran on Charges of ‘Anti-Government Propaganda’",
+          "summary": "Iranian activist Mehdi Mahmoudian, who is also the co-writer of revered auteur Jafar Panahi’s Palme d’Or-winning drama “It Was Just an Accident,” has been arrested at his home in Tehran, according to several sources. Mahmoudian, who is a human rights defender and political journalist, was taken away by police agents from his home on Wednesday […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/spain-new-india-co-production-pact-iffi-goa-honor-run-1236959353/"
+          "url": "https://variety.com/2026/film/global/it-was-just-an-accident-writer-mehdi-mahmoudian-arrested-iran-1236959405/"
+        },
+        {
+          "headline": "Producer of Oscar-Nominated ‘A Friend Of Dorothy’ to Make Directorial Debut With Disability Drama ‘Hidden Creatures,’ Easyjet Founder Boards as EP (EXCLUSIVE)",
+          "summary": "Max Marlow, who produced this year’s Oscar-nominated short film “A Friend of Dorothy” starring Miriam Margolyes and Stephen Fry, is set to make his directorial debut. “Hidden Creatures” is a magical-realist short drama exploring invisible disability through what’s described as an “unconventional coming-of-age story.” Set in a cinema, the film follows…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/a-friend-of-dorothy-max-marlow-directing-hidden-creatures-1236959288/"
         },
         {
           "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
           "summary": "Dune: Part Three. The finale to the intergalactic trilogy will be released in theaters and on IMAX on Dec.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/27/nx-s1-6010507/avengers-doomsday-dune-part-three-artificial-jumanji-the-debut-movies-in-theaters"
-        },
-        {
-          "headline": "Luc Besson Jokes That He Could Make the Next ‘Terminator,’ but Only if the Terminator ‘Sat Down and Said He Missed His Mom’",
-          "summary": "Luc Besson rejects the idea that he reinvented action cinema. He simply used to have the freedom to experiment.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/luc-besson-terminator-1236959275/"
         },
         {
           "headline": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
@@ -959,10 +959,10 @@
           "url": "https://variety.com/2026/biz/news/gugus-world-team-brazilian-cinema-diversity-storytelling-1236955739/"
         },
         {
-          "headline": "Jane Fonda, Robert De Niro & Other Figures Sign Letter Backing Chris Van Hollen For Majority Leader — Amid A Chuck Schumer Aide’s Prank",
-          "summary": "Jane Fonda, Robert De Niro and Chelsea Handler are among the entertainment figures who have signed on to a letter backing Sen. Chris Van Hollen (D-MD) in his bid to become Senate majority leader over Sen.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/"
+          "headline": "‘Hold Onto Me’: Myrsini Aristidou’s Debut Feature Proves Power of Reconnection Through Complex, Powerful Father-Daughter Bond",
+          "summary": "“You’re lucky you don’t have a father.” So says Danae, 16, to Iris, 11, as the older girl heads home to face her strict and reliably angry dad, the friends’ carefree summer day on the Mediterranean island of Cyprus about to come to a crashing halt. For Iris, though, parental absence isn’t anything like a […]",
+          "source": "Variety",
+          "url": "https://variety.com/2026/biz/news/hold-onto-me-myrsini-aristidou-debut-feature-proves-power-of-reconnection-1236955823/"
         }
       ]
     },
@@ -971,16 +971,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Chart Rewind: In 2021, Taylor Swift’s Rerecorded ‘All Too Well’ Ruled the Hot 100",
+          "summary": "“I was going through a bit of sad time,” Taylor Swift told Jimmy Fallon in 2021 about the lyrics in “ All Too Well ,” which she cowrote with Liz Rose. “I started ad-libbing what I was going through and what I was feeling.” Originally released on Swift’s 2012 album Red , at just under five-and-a-half minutes in length, the song became the focus of her…",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/taylor-swift-all-too-well-chart-rewind-2021-1236389622/"
+        },
+        {
           "headline": "Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’",
           "summary": "The Muppets of Sesame Street don’t want a lot for Christmas — there’s just one thing they need: literally U! Related Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No.",
           "source": "Billboard",
           "url": "https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/"
-        },
-        {
-          "headline": "Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
-          "summary": "London’s The O2 Arena is celebrating its 20th anniversary with a massive run of special shows throughout 2027. Artists announced to headline performances at the 20,000-capacity arena so far include Sombr , Backstreet Boys , Jorja Smith , Pet Shop Boys , Jamiroquai , Alt-J and more.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/"
         },
         {
           "headline": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T08:40:44-05:00"
+  "updatedAt": "2026-11-27T09:10:20-05:00"
 }
