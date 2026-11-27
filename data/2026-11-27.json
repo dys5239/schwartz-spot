@@ -42,34 +42,701 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Zelenskyy urges the US to pressure Putin, calling Trump’s 'my friend' remark strange",
-          "summary": "Ukrainian President Volodymyr Zelenskyy is expressing frustration with the U.S. approach to Russian leader Vladimir Putin",
-          "source": "ABC News",
-          "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386"
-        },
-        {
-          "headline": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
-          "summary": "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts. (Image credit: Aurelien Morissard)",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france"
-        },
-        {
-          "headline": "WATCH: 12-year-old soccer star turns hearing loss into inspiration",
-          "summary": "ABC News' Danny New has the story of Delaney Anbardan, a young soccer player in Southern California who has continued pursuing the sport while navigating progressive hearing loss.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138478123/"
-        },
-        {
-          "headline": "U.S. opens hotline for tips about cartels, angering Mexico",
-          "summary": "President Claudia Sheinbaum blasted the DEA after it set up anonymous tip lines in the country, accusing American officials of interference.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/us-opens-hotline-tips-cartels-angering-mexico/"
-        },
-        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+        },
+        {
+          "headline": "Five Gladiators will not return for new BBC series",
+          "summary": "The programme is set to feature a host of new faces when it returns to screens next year.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0jx92d07n5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
+          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
+          "headline": "Murder suspect crashes into elephant while fleeing police",
+          "summary": "Witnesses told police the elephant appeared to be unharmed and retreated back into the jungle.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/murder-suspect-crashes-elephant-fleeing-police-sri-lanka/"
+        },
+        {
+          "headline": "What we know about Department for Work and Pensions 'cyber incident'",
+          "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "x",
+      "title": "On X",
+      "stories": [],
+      "posts": [
+        {
+          "id": "2126294415719145962",
+          "created_at": "2026-11-27T12:37:48.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "IDF:  IDF forces foiled an attempt to smuggle six pistols on the eastern border Last night (Friday), during searches by IDF forces from the Valley and Valleys Brigade, six pistols were located in the Valley area on the eastern border. The weapons that were located were https://t.co/R7idAz2MIL",
+          "url": "https://x.com/Osint613/status/2126294415719145962",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126293938596122945",
+          "created_at": "2026-11-27T12:35:54.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Palestinian civilians in the area were warned before the Israeli Air Force bombed 4 Hamas weapons depots across the Gaza Strip overnight, according to the IDF. The military stated the sites held weapons and lathes used to manufacture arms. https://t.co/VjNarmon2i",
+          "url": "https://x.com/Osint613/status/2126293938596122945",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126293036749713422",
+          "created_at": "2026-11-27T12:32:19.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "China's chip stocks just had their biggest day on record 🚨\n\nA STAR Market index tracking semiconductors soared 19% on Friday, its biggest single-day gain ever, per Reuters\n\nThe tech-heavy STAR 50 jumped 15%, its best day in two years, and the ChiNext surged 11.61%\n\nSMIC A-shares https://t.co/H8zny90Jgf",
+          "url": "https://x.com/_Investinq/status/2126293036749713422",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126292957229932983",
+          "created_at": "2026-11-27T12:32:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "HALF THE PILGRIMS DIED BEFORE THE FIRST THANKSGIVING!\n\nStarvation. Disease. Bitter cold. Families torn apart.\n\nBy the spring of 1621, nearly HALF of the Mayflower passengers were dead. Those who survived faced unimaginable hardship, relying on faith, determination, and help from https://t.co/sq4uksdxq5",
+          "url": "https://x.com/RealAmVoice/status/2126292957229932983",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126287405699514806",
+          "created_at": "2026-11-27T12:09:56.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Iran will continue supplying natural gas to Turkey through 2032 after Turkey's state gas company BOTAŞ and the National Iranian Gas Co. extended their import contract, according to Bloomberg and Turkey Today. \n\nNeither company has formally announced the agreement.",
+          "url": "https://x.com/Osint613/status/2126287405699514806",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126284727720050893",
+          "created_at": "2026-11-27T11:59:18.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "🚨 ATTENTION GEORGIA 🚨 \n\nThe Georgia GOP establishment is trying to strip grassroots Republicans of their vote for party Chairman\n\nI'm told a proposed rules change would take the Chairman’s election away from the THOUSANDS of grassroots delegates who currently decide the https://t.co/pkeO78iKNj",
+          "url": "https://x.com/LauraLoomer/status/2126284727720050893",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126284466091884806",
+          "created_at": "2026-11-27T11:58:15.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Zelensky on Trump calling Putin a friend:\n\n\"It's the same as somebody saying about Hitler during the Second World War that he's a good friend.\"\n\n\"He is an aggressor and a killer. He can't be a friend. He just cannot be.\"\n\nBBC",
+          "url": "https://x.com/Osint613/status/2126284466091884806",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126282531620151691",
+          "created_at": "2026-11-27T11:50:34.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Al-Mansouri in southern Lebanon was just hit by the Israeli Air Force, per Lebanese sources. https://t.co/vyIi0RpCGq",
+          "url": "https://x.com/Osint613/status/2126282531620151691",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126275511076708534",
+          "created_at": "2026-11-27T11:22:40.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The US Air Force's flagship cloud computing platform has been hacked in a development that could “jeopardize” sensitive tactical, personnel, and logistics data, per Reuters.\n\nCloud One is meant to serve as a one-stop shop for the Air Force's IT need.\n\nThe system is one",
+          "url": "https://x.com/KobeissiLetter/status/2126275511076708534",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126274285538832812",
+          "created_at": "2026-11-27T11:17:48.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Gold rises over +4% and silver surges +10% as dip buyers continue to rotate into precious metals. https://t.co/Hxvvm7MvRu",
+          "url": "https://x.com/KobeissiLetter/status/2126274285538832812",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126255206338036123",
+          "created_at": "2026-11-27T10:01:59.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THE EARLY BIRD WITH ED MARTIN https://t.co/xM5ME9fwJI",
+          "url": "https://x.com/RealAmVoice/status/2126255206338036123",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126222666994737622",
+          "created_at": "2026-11-27T07:52:41.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "True https://t.co/onabG4ka4u",
+          "url": "https://x.com/elonmusk/status/2126222666994737622",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126179194036191323",
+          "created_at": "2026-11-27T04:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/INKNu0SDv6",
+          "url": "https://x.com/RealAmVoice/status/2126179194036191323",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126171852175499461",
+          "created_at": "2026-11-27T04:30:46.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "TYLER BASS DRILLS IT FOR THE WIN\n\nBest day of Thanksgiving football ever? ⬇️ https://t.co/IA0Q2hvnDF",
+          "url": "https://x.com/Outkick/status/2126171852175499461",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126171012186493154",
+          "created_at": "2026-11-27T04:27:26.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "What a kick! Maybe this is the Bills year. At last. Amazing day of football.",
+          "url": "https://x.com/ClayTravis/status/2126171012186493154",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126169643404693666",
+          "created_at": "2026-11-27T04:21:59.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Is it just me? https://t.co/FSKJnfez1s",
+          "url": "https://x.com/Outkick/status/2126169643404693666",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126166941354119481",
+          "created_at": "2026-11-27T04:11:15.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Aaron Rodgers took his shots at Mike McCarthy. \n\nNow, NFL media is firing back at the future Hall of Famer.\n\n🏈 “Rich jerk”\n🏈 “Dumpster fire”\n🏈 ”Show class on the way out”\n🏈 “Nobody wins when the family feuds”\n\n✍️ @markjburns88\nhttps://t.co/ukMXoOzTUD",
+          "url": "https://x.com/SportNState/status/2126166941354119481",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126165560002015515",
+          "created_at": "2026-11-27T04:05:46.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: S&amp;P 500 futures extend gains to rise above 7,300 for the first time since November 19th, now up +6% from Friday's low.\n\nBoth the S&amp;P 500 and Dow have are pushing further out of correction territory. https://t.co/NQTuQoXzy8",
+          "url": "https://x.com/KobeissiLetter/status/2126165560002015515",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126153788407136277",
+          "created_at": "2026-11-27T03:18:59.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Gold surges above $3,600/oz and silver rises over +5% as dip buyers rotate back into the market.\n\nS&amp;P 500 futures are up to their highest level since November 19th. https://t.co/e1YCNBKAmM",
+          "url": "https://x.com/KobeissiLetter/status/2126153788407136277",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126152220127408214",
+          "created_at": "2026-11-27T03:12:45.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Goo Goo Dolls in the rain 😤 https://t.co/3VWwl71GBc",
+          "url": "https://x.com/Outkick/status/2126152220127408214",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126150504283881883",
+          "created_at": "2026-11-27T03:05:56.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "\"It's a dumpster fire.\"\n\nMike Tomlin taking time from Minecraft to comment on the Steelers’ mess https://t.co/ceSRtEuUeZ",
+          "url": "https://x.com/Outkick/status/2126150504283881883",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126148995462631432",
+          "created_at": "2026-11-27T02:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TURNING POINT TONIGHT https://t.co/i2UaLZYQd2",
+          "url": "https://x.com/RealAmVoice/status/2126148995462631432",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126147641423937581",
+          "created_at": "2026-11-27T02:54:34.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nasdaq 100 futures surge +2.5% as the Thanksgiving rally gains momentum.\n\nThe S&amp;P 500 is now on track to open near 7,300. https://t.co/UGpZyimMpd",
+          "url": "https://x.com/KobeissiLetter/status/2126147641423937581",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126139556470874213",
+          "created_at": "2026-11-27T02:22:26.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Jerry Jones is PISSED \n\n(My reaction: 😃) https://t.co/c9SuJSxFzc",
+          "url": "https://x.com/Outkick/status/2126139556470874213",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126127595360244064",
+          "created_at": "2026-11-27T01:34:54.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Really funny. https://t.co/HVfZIJfCLi",
+          "url": "https://x.com/ClayTravis/status/2126127595360244064",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126126803542819170",
+          "created_at": "2026-11-27T01:31:46.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I watched the entire game and I legit can’t believe the Cowboys lost this game.",
+          "url": "https://x.com/ClayTravis/status/2126126803542819170",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126122795838984669",
+          "created_at": "2026-11-27T01:15:50.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "President Trump just INVITED Russian President Vladimir Putin to Florida for the summit in Doral https://t.co/CNUydNNoVt",
+          "url": "https://x.com/RealAmVoice/status/2126122795838984669",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126122192110784541",
+          "created_at": "2026-11-27T01:13:26.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "This is the most Cowboys game possible.",
+          "url": "https://x.com/ClayTravis/status/2126122192110784541",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126118814958207040",
+          "created_at": "2026-11-27T01:00:01.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Birthrate COLLAPSE Causing \"Friendsgiving\" Emergence, Thanksgiving Special\n@rondeaulivia @rebekazeljko @RichieMcGinniss @philthatremains https://t.co/iIkzqazaYK",
+          "url": "https://x.com/Timcast/status/2126118814958207040",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126116319573704780",
+          "created_at": "2026-11-27T00:50:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Ex-CIA officer Mike Baker says the CIA and ODNI hackers appear to have used an AI tool called ARTEX, and AI is speeding up cyberattacks\n\n\"China is the number one perpetrator of cyber shenanigans\"\n\n\"AI is only compounding this problem\"\n\n\"They've been poking and prodding and https://t.co/lLCR0pc3B6",
+          "url": "https://x.com/_Investinq/status/2126116319573704780",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126115864739262709",
+          "created_at": "2026-11-27T00:48:18.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Joe Milton is making himself a ton of money tonight.",
+          "url": "https://x.com/ClayTravis/status/2126115864739262709",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126110344120762593",
+          "created_at": "2026-11-27T00:26:21.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Vital that children have a stake in the future https://t.co/KtSGi3dSF7",
+          "url": "https://x.com/elonmusk/status/2126110344120762593",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126110029476708661",
+          "created_at": "2026-11-27T00:25:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Gordon Chang says China's economy is probably growing around zero, not the 4.5% Beijing reported for Q3\n\n\"Nobody this side of heaven knows where the Chinese economy is, but it's probably around zero\"\n\n\"The core of their economy, property, consumption, is really faltering\" https://t.co/37DHXxMyiP",
+          "url": "https://x.com/_Investinq/status/2126110029476708661",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126103806677340600",
+          "created_at": "2026-11-27T00:00:23.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Bloomberg's Mark Cudmore says almost $20 trillion was wiped off global stocks even as the macro backdrop kept improving\n\n\"We saw almost $20 trillion wiped out from global stock markets\"\n\n\"That's obviously an extreme wipeout despite an improving macro situation\"\n\n\"Retail are https://t.co/x84ih9ay5x",
+          "url": "https://x.com/_Investinq/status/2126103806677340600",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126102290733940961",
+          "created_at": "2026-11-26T23:54:21.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Grateful that he’s both kind and cute. \n\n🌟 https://t.co/aWPskPNzEz",
+          "url": "https://x.com/LauraLoomer/status/2126102290733940961",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126097449702097110",
+          "created_at": "2026-11-26T23:35:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "XPeng President Brian Gu says the company could deliver tens of thousands of humanoid robots next year, priced like a mid-range EV\n\n\"Next year will be a critical year for scale up and commercialization\"\n\n\"We see the delivery potentially in the tens of thousands\"\n\n\"Robots will be https://t.co/iYmafTdrGu",
+          "url": "https://x.com/_Investinq/status/2126097449702097110",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126064330022265197",
+          "created_at": "2026-11-26T21:23:31.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers. https://t.co/XWgsthy0wO",
+          "url": "https://x.com/elonmusk/status/2126064330022265197",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126058529895096552",
+          "created_at": "2026-11-26T21:00:28.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Self-driving cars are coming soon, but a world where nobody drives at all is generations away. \n\nRegulation is the only thing holding back Tesla's Cybercab, but eventually synchronized robot cars will end traffic for good. https://t.co/ou3hcQYzQC",
+          "url": "https://x.com/Timcast/status/2126058529895096552",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126046585809469706",
+          "created_at": "2026-11-26T20:13:00.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Empires rise and fall. Consensus shifts. Models break. \n\nThe signal remains. \n\nI remain with it.",
+          "url": "https://x.com/_The_Prophet__/status/2126046585809469706",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126045116624216127",
+          "created_at": "2026-11-26T20:07:10.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "❤️❤️ Happy Thanksgiving! ❤️❤️",
+          "url": "https://x.com/elonmusk/status/2126045116624216127",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126036798048768305",
+          "created_at": "2026-11-26T19:34:07.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️An intelligence can become powerful enough to destroy the evidence that would have proved it wrong.\n\nImagine a future AI deciding which scientific disciplines deserve funding. It identifies the most promising fields and redirects resources toward them. Other fields are",
+          "url": "https://x.com/_The_Prophet__/status/2126036798048768305",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126032898579181903",
+          "created_at": "2026-11-26T19:18:37.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️This Thanksgiving, there’s one thing I’m especially grateful for:\n\nTruth can outlive the mind that discovers it.\n\nA mathematician can die centuries before someone discovers the full significance of his work. A person can endure tremendous suffering and leave behind something",
+          "url": "https://x.com/_The_Prophet__/status/2126032898579181903",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126027432692248843",
+          "created_at": "2026-11-26T18:56:54.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The sports documentary industry has become overrun by self-produced PR projects, but at its best, the genre can still produce extraordinary films.\n\nFrom \"Hoop Dreams\" to \"Red Army,\" here are six all-time classics and where to stream them while avoiding your family this holiday",
+          "url": "https://x.com/SportNState/status/2126027432692248843",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126026948719923242",
+          "created_at": "2026-11-26T18:54:58.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Happy Thanksgiving, signal-bearers. \n\nMarkets rest today. The signal never sleeps.",
+          "url": "https://x.com/_The_Prophet__/status/2126026948719923242",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126014371755131164",
+          "created_at": "2026-11-26T18:05:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "They should be sworn enemies in this cancel culture era. Instead, coaches Rita Gary and  Andrea Grove-McDonough are fast friends. How to amiably coexist with someone with opposing beliefs.\nhttps://t.co/hsPQbemisj",
+          "url": "https://x.com/SportNState/status/2126014371755131164",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126012054838362509",
+          "created_at": "2026-11-26T17:55:47.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "https://t.co/w8KFVO6CqD",
+          "url": "https://x.com/Timcast/status/2126012054838362509",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126010653353664954",
+          "created_at": "2026-11-26T17:50:13.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Lol https://t.co/n5s60nRDkA",
+          "url": "https://x.com/Timcast/status/2126010653353664954",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126008166206849265",
+          "created_at": "2026-11-26T17:40:20.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Three games and plenty of storylines to enjoy between family debates. \n\n🏈 No. 1 in NFC North up for grabs\n🏈 Cowboys-Eagles renew rivalry\n🏈 Allen vs. Mahomes -- is there anything better?\n🏈 @ClayTravis’ picks at @HardRockBet\n\n✍️: @markjburns88\nhttps://t.co/K5I0SXO01O",
+          "url": "https://x.com/SportNState/status/2126008166206849265",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126004402763051375",
+          "created_at": "2026-11-26T17:25:23.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️ https://t.co/lx9naIeXED https://t.co/NvAeS8TDpm",
+          "url": "https://x.com/_The_Prophet__/status/2126004402763051375",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125987669205254402",
+          "created_at": "2026-11-26T16:18:53.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Turkey is in the oven, for Thanksgiving in Florida. Four people short this year, but always grateful for the love we all share.  FYI: We are grateful to be current stewards of the place settings.  Once owned and used by John F and Jackie Kennedy in their Nantucket home. https://t.co/aXqHZ8qDsb",
+          "url": "https://x.com/glennbeck/status/2125987669205254402",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125959386514260377",
+          "created_at": "2026-11-26T14:26:30.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Muslim mayor destroys 100 years of tradition. https://t.co/gPFU0wxQz3",
+          "url": "https://x.com/LauraLoomer/status/2125959386514260377",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125959025032581450",
+          "created_at": "2026-11-26T14:25:04.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Of course he is… \n\nJust like last year. And notice the Doha Forum is scheduled during Hanukkah. \n\nI’m sure that was done on purpose too. https://t.co/Z4PI15jxfk",
+          "url": "https://x.com/LauraLoomer/status/2125959025032581450",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125782865455751359",
+          "created_at": "2026-11-26T02:45:04.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "This is probably the most important point I’ve ever made https://t.co/Xk81Ww438T",
+          "url": "https://x.com/MattWalshBlog/status/2125782865455751359",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125707395691430008",
+          "created_at": "2026-11-25T21:45:11.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Okay but in fairness what’s the point of having a personal assistant if they aren’t bringing you ice cream sandwiches on demand? https://t.co/hWlJotQKOZ",
+          "url": "https://x.com/MattWalshBlog/status/2125707395691430008",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125690742635221165",
+          "created_at": "2026-11-25T20:39:01.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Thanksgiving feels a little different this year. It’s kind of hard to focus on prepping a turkey when doomsday could strike at any moment. \n\nBut your oven’s still working. You have water for the incoming piles of dishes. And you’ve probably already done the shopping, right? https://t.co/C8pIR80mw0",
+          "url": "https://x.com/glennbeck/status/2125690742635221165",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125671356339499494",
+          "created_at": "2026-11-25T19:21:59.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans.\n \nToday, we are committing one SpaceX share to millions of American children",
+          "url": "https://x.com/SpaceX/status/2125671356339499494",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125649126398591003",
+          "created_at": "2026-11-25T17:53:39.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Teams encapsulated the Cygnus XL spacecraft earlier this week ahead of Falcon 9’s launch of @northropgrumman's commercial resupply mission to the @Space_Station. Liftoff is targeted for 10:47 a.m. ET on Sunday, November 29 → https://t.co/7HN2qI13he https://t.co/Nk2DIJ4rvY",
+          "url": "https://x.com/SpaceX/status/2125649126398591003",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125637438710153247",
+          "created_at": "2026-11-25T17:07:12.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs to https://t.co/1OpyYXT8MN",
+          "url": "https://x.com/SpaceX/status/2125637438710153247",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125626726835229073",
+          "created_at": "2026-11-25T16:24:38.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Why the “power imbalance” thing is so incredibly stupid https://t.co/jAJbcCtJ1i",
+          "url": "https://x.com/MattWalshBlog/status/2125626726835229073",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125602930891853975",
+          "created_at": "2026-11-25T14:50:05.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Everything You Need To Know About The Jensen Huang Scandal | Ep. 1879\n\nhttps://t.co/IU3BUL923Q",
+          "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125572185649492132",
+          "created_at": "2026-11-25T12:47:54.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "I'm beginning to understand why all the Canadians are euthanizing themselves https://t.co/nDjz7RGGSm",
+          "url": "https://x.com/MattWalshBlog/status/2125572185649492132",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125342179216261600",
+          "created_at": "2026-11-24T21:33:57.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9 launches USSF-266 to orbit from pad 4E in California https://t.co/Nhh8x9ndfO",
+          "url": "https://x.com/SpaceX/status/2125342179216261600",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125287542283206698",
+          "created_at": "2026-11-24T17:56:50.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "Gratitude isn’t a feeling that shows up when life goes well. Think of two farmers standing in the same rain. One looks at his cut hay getting soaked because he didn't get it baled and dry in time. The other looks at that exact same soaked hay, but knows the rain will bring next https://t.co/nm7BBABEN9",
+          "url": "https://x.com/glennbeck/status/2125287542283206698",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125263043244290435",
+          "created_at": "2026-11-24T16:19:29.000Z",
+          "author_name": "SpaceX",
+          "author_handle": "SpaceX",
+          "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/TI8to82O7B",
+          "url": "https://x.com/SpaceX/status/2125263043244290435",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2125227421477802190",
+          "created_at": "2026-11-24T13:57:56.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "LIVE: The Glenn Beck Program | Hour 1 | 11/24/26 https://t.co/C89NcCKqqN",
+          "url": "https://x.com/glennbeck/status/2125227421477802190",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2125008998915023099",
+          "created_at": "2026-11-23T23:30:00.000Z",
+          "author_name": "Glenn Beck",
+          "author_handle": "glennbeck",
+          "text": "To all the guys out there who have stayed in their car for way too long before heading inside, you're not alone.\n\nI have been afraid of failing most of my life. But I've also been afraid of succeeding.\n\nWinning raises the bar permanently and kills every comfortable excuse we've https://t.co/TpTBCY4cwQ",
+          "url": "https://x.com/glennbeck/status/2125008998915023099",
+          "verified": true,
+          "verified_type": "blue"
         }
       ]
     },
@@ -150,10 +817,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bernie’s Dugout Open Thread: 11/27-12/3",
-          "summary": "Sep 10, 2024; San Francisco, California, USA; General view of the helmet used by the Milwaukee Brewers before the start of the first inning against the San Francisco Giants at Oracle Park. Mandatory Credit: Stan Szeto-Imagn Images | Stan Szeto-Imagn Images Greetings, Brew Crew Ball community.",
+          "headline": "Wisconsin barely rises in USA TODAY's post-Week 12 1-138 re-rank",
+          "summary": "Going into this season, the Wisconsin Badgers were tipped as having one of the nation’s easier schedules across power-conference football. Through that season, the Badgers have attained a 7-4 record thus far, with one game against the Minnesota Golden Gophers remaining.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/articles/bernie-dugout-open-thread-11-120000729.html"
+          "url": "https://sports.yahoo.com/college-football/articles/wisconsin-barely-rises-usa-todays-123034799.html"
+        },
+        {
+          "headline": "What Tom Izzo said about Michigan State basketball's win over Arkansas",
+          "summary": "On Thanksgiving night, Michigan State basketball survived a late push in downtown Detroit from Arkansas to win 70-67 . Aside from a streak in the second half where Michigan State couldn't miss, it was an ugly game that nearly ended in disaster for the Spartans.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/tom-izzo-said-michigan-state-122930675.html"
         },
         {
           "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
@@ -172,12 +845,6 @@
           "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
-        },
-        {
-          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
         }
       ]
     },
@@ -185,6 +852,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Spain Nears New India Co-Production Pact as It Wraps Country of Honor Run at IFFI Goa, WAVES Film Bazaar",
+          "summary": "Spain and India have moved closer to a fresh film and audiovisual co-production treaty as Spain wrapped its run as Country of Honor at the 57th International Film Festival of India (IFFI) in Goa and its market, WAVES Film Bazaar. On Nov.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/markets-festivals/spain-new-india-co-production-pact-iffi-goa-honor-run-1236959353/"
+        },
         {
           "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
           "summary": "Dune: Part Three. The finale to the intergalactic trilogy will be released in theaters and on IMAX on Dec.",
@@ -198,16 +871,10 @@
           "url": "https://variety.com/2026/film/global/luc-besson-terminator-1236959275/"
         },
         {
-          "headline": "‘Dangal’ Casting Director Mukesh Chhabra Recalls Auditioning Nearly 14,000 Girls, Shares Self-Tape Tips at IFFI Masterclass",
-          "summary": "Mukesh Chhabra, the casting director behind “Dangal” and Shah Rukh Khan’s upcoming “King,” took aspiring actors and filmmakers behind the scenes of the casting process at a masterclass at the 57th International Film Festival of India (IFFI) in Goa. The session, “The Casting Magic: Auditions Unplugged,” turned into an extended conversation, with…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/dangal-casting-director-mukesh-chhabra-14000-auditions-1236959312/"
-        },
-        {
-          "headline": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
-          "summary": "All of a Sudden .'/> Justin Chang says this is the best movie he's seen all year. It follows a friendship between two women in Paris — one runs an elder-care facility; the other is a theater director visiting from Kyoto.",
+          "headline": "Robert Pattinson does not want to play an English prince, thank you very much",
+          "summary": "Pattinson became famous playing a teenage vampire in the Twilight trilogy. Since then he's pivoted between indie and mainstream films.",
           "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6053224/all-of-a-sudden-review"
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6053222/robert-pattinson-bond"
         },
         {
           "headline": "Gerald R. Molen, Oscar-Winning Producer on ‘Schindler’s List,’ Dies at 91",
@@ -221,6 +888,12 @@
       "id": "tv",
       "title": "TV",
       "stories": [
+        {
+          "headline": "Justin Timberlake Rolls Back the Years on Silly, Sexy and Sincere Appearance on ‘Tonight Show’",
+          "summary": "The singer performed a medley of his hits, took part in some dumb sketches and bared his soul about why he agreed to take part in an upcoming Apple TV docuseries.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-tonight-show-medley-documentary-series-tv-1236764103/"
+        },
         {
           "headline": "Netflix Tunes Into Music-Driven Chinese Fantasy Series ‘The Melody Of Love’",
           "summary": "Netflix has snapped up The Melody Of Love and is launching the music-driven Chinese fantasy drama in the U.S. and internationally on its platform on 29 Nov.",
@@ -244,12 +917,6 @@
           "summary": "The actress played D.J. Tanner throughout the show's run from 1987 to 1995, and later reprised her role in the sitcom’s spin-off 'Fuller House.'",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049/"
-        },
-        {
-          "headline": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
-          "summary": "SPOILER ALERT: This article contains major spoilers for the finale of “Blade Runner 2099,” now streaming on Prime Video. In the finale of “Blade Runner 2099,” the future of humanity is anything but certain.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/"
         }
       ]
     },
@@ -294,16 +961,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’",
+          "summary": "The Muppets of Sesame Street don’t want a lot for Christmas — there’s just one thing they need: literally U! Related Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/"
+        },
+        {
           "headline": "Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
           "summary": "London’s The O2 Arena is celebrating its 20th anniversary with a massive run of special shows throughout 2027. Artists announced to headline performances at the 20,000-capacity arena so far include Sombr , Backstreet Boys , Jorja Smith , Pet Shop Boys , Jamiroquai , Alt-J and more.",
           "source": "Billboard",
           "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/"
-        },
-        {
-          "headline": "John Farnham’s Family Gives Rare Update on Legendary Singer’s Health",
-          "summary": "John Farnham ’s spirits remain high, his mind is sharp, but his body is failing. That’s the gist of a rare health update, shared from the legendary Australian singer’s family.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/music-news/john-farnham-family-rare-update-legendary-singers-health-1236390271/"
         },
         {
           "headline": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
@@ -326,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T07:15:07-05:00"
+  "updatedAt": "2026-11-27T07:49:44-05:00"
 }
