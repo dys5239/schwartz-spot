@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
-          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+          "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
+          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
+        },
+        {
+          "headline": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
+          "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
           "headline": "UK papers: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
@@ -54,22 +60,16 @@
           "url": "https://www.bbc.co.uk/news/articles/cm62p75vwn9xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Iowa lead detonation results expected soon, EPA says",
-          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
-        },
-        {
           "headline": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
           "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "WATCH: Tips for navigating the holiday travel rush",
-          "summary": "The Points Guy Clint Henderson provides some tips and tricks travelers can use to navigate the Thanksgiving weekend.",
+          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
+          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138472441/"
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
         }
       ]
     },
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126139556470874213",
+          "created_at": "2026-11-27T02:22:26.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Jerry Jones is PISSED \n\n(My reaction: 😃) https://t.co/c9SuJSxFzc",
+          "url": "https://x.com/Outkick/status/2126139556470874213",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126131712392622283",
           "created_at": "2026-11-27T01:51:16.000Z",
@@ -155,16 +165,6 @@
           "author_handle": "RealAmVoice",
           "text": "A service member just asked President Trump his favorite dessert and his response is perfect  https://t.co/TLn4T92LFh",
           "url": "https://x.com/RealAmVoice/status/2126122696014442977",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126122506209874264",
-          "created_at": "2026-11-27T01:14:41.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Thanksgiving Joe Milton https://t.co/XzZ6BdVRlX",
-          "url": "https://x.com/Outkick/status/2126122506209874264",
           "verified": true,
           "verified_type": "business"
         },
@@ -735,6 +735,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "Iowa lead detonation results expected soon, EPA says",
+          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
+        },
+        {
           "headline": "Trump claims \"fake economic numbers\" were released before election",
           "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
           "source": "CBS News",
@@ -745,12 +751,6 @@
           "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration relentlessly attacked?",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease"
-        },
-        {
-          "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
-          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
         },
         {
           "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
@@ -807,16 +807,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Nick Sirianni confronts Cowboys fans after comeback win",
-          "summary": "Good or bad, right or wrong, Eagles coach Nick Sirianni has had from time to time the demeanor of a fan who won a contest to be the head coach for a day. On Thursday in Dallas, he displayed those qualities after a stunning come-from-way-behind win over the Cowboys.",
+          "headline": "Eagles make NFL history in massive Thanksgiving Day comeback win",
+          "summary": "If you had a late Thanksgiving meal and decided to take your post-dinner nap around the third quarter of the NFC East showdown between the Philadelphia Eagles and Dallas Cowboys, you probably woke up to a surprise. That's because at one point, the Cowboys held a 31-10 lead with just over three minutes remaining in the third period.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/nick-sirianni-confronts-cowboys-fans-020851729.html"
+          "url": "https://sports.yahoo.com/nfl/articles/eagles-nfl-history-massive-thanksgiving-022819561.html"
         },
         {
-          "headline": "Michigan State Gets Past Arkansas, 70-67",
-          "summary": "DETROIT, MICHIGAN - NOVEMBER 26: Jeremy Fears Jr. #1 and Kur Teng #2 of the Michigan State Spartans celebrate following a made three point basket basket from Teng during the second half against the Arkansas Razorbacks in the CBS Thanksgiving Classic at Little Caesars Arena on November 26, 2026 in Detroit, Michigan.",
+          "headline": "James Cook touchdown gives Bills 7-0 lead over Chiefs",
+          "summary": "There is some nasty weather in Western New York on Thanksgiving night. Will one touchdown be enough to win it?",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/michigan-state-gets-past-arkansas-015428990.html"
+          "url": "https://sports.yahoo.com/nfl/articles/james-cook-touchdown-gives-bills-021232631.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -879,6 +879,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Julianne Hough’s Stylist Addresses Fan Backlash To Her ‘Dancing With the Stars’ Wardrobe This Season",
+          "summary": "Fans had a lot to say about this season of Dancing with the Stars — and not just about who should or shouldn’t have gone home before the Nov. 24 finale.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/julianne-hough-stylist-fan-backlash-dwts-wardrobe-1237234193/"
+        },
+        {
           "headline": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
           "summary": "SPOILER ALERT: This article contains major spoilers for the finale of “Blade Runner 2099,” now streaming on Prime Video. In the finale of “Blade Runner 2099,” the future of humanity is anything but certain.",
           "source": "Variety",
@@ -889,12 +895,6 @@
           "summary": "As the gods and demigods of Percy Jackson and the Olympians return for Season 3, Courtney B. Vance had a mighty toga to fill.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/percy-jackson-courtney-b-vance-doing-late-lance-reddick-1237234178/"
-        },
-        {
-          "headline": "Erika Hammond Teases “Drama” & “Resolution” At ‘RHONY’ Season 16 Reunion, Says Devyn Simone Is “Not A Friend I Want”",
-          "summary": "Erika Hammond is teasing The Real Housewives of New York City Season 16 reunion, revealing there will be “drama” and “resolution.” In a new interview, Hammond hinted that although some problems among the group will be resolved, she doesn’t see a path forward with the new “friend of” Devyn Simone. “I will say it is […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/erika-hammond-drama-rhony-season-16-reunion-devyn-simone-1237234147/"
         },
         {
           "headline": "‘A Paw Patrol Christmas’: When and Where to Stream the Animated Holiday Special Online Free",
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T21:17:16-05:00"
+  "updatedAt": "2026-11-26T21:42:34-05:00"
 }
