@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
+          "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
+        },
+        {
           "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
           "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
-        },
-        {
-          "headline": "Iran accused of carrying out drone attack killing 2 Italians in Kuwait",
-          "summary": "Iran denies being behind a deadly attack on a Kuwaiti military facility that killed two Italian nationals.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-military-ai-weapons-oil/"
         },
         {
           "headline": "UK papers: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126153788407136277",
+          "created_at": "2026-11-27T03:18:59.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Gold surges above $3,600/oz and silver rises over +5% as dip buyers rotate back into the market.\n\nS&amp;P 500 futures are up to their highest level since November 19th. https://t.co/e1YCNBKAmM",
+          "url": "https://x.com/KobeissiLetter/status/2126153788407136277",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126152220127408214",
           "created_at": "2026-11-27T03:12:45.000Z",
@@ -479,16 +489,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126022743519101369",
-          "created_at": "2026-11-26T18:38:16.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "Demand for corporate default protection is rapidly rising.\n\nCumulative trading volume in US corporate credit default swap (CDS) indexes is up to a record $9.6 trillion so far in 2026.\n\nThis already surpasses the full-year 2025 record of $9.0 trillion and exceeds the full-year https://t.co/cr56PUvjjz",
-          "url": "https://x.com/KobeissiLetter/status/2126022743519101369",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126014371755131164",
           "created_at": "2026-11-26T18:05:00.000Z",
           "author_name": "Sport & State",
@@ -771,6 +771,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+          "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+        },
+        {
           "headline": "Argentina bans its central bank from printing money for the government",
           "summary": "Argentina’s Congress has approved a law that bans the central bank from printing money to cover government spending",
           "source": "ABC News",
@@ -793,12 +799,6 @@
           "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
-        },
-        {
-          "headline": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-          "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html"
         }
       ]
     },
@@ -807,16 +807,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Emmett Johnson TD gives Chiefs 10-7 lead early in third quarter",
-          "summary": "The Chiefs got a little something going at the end of the first half. But they have taken off to start the second.",
+          "headline": "No. 20 LSU pulls away in OT to beat SMU 95-86 in California desert",
+          "summary": "PALM DESERT, Calif. (AP) — Mo Dioubate scored 28 points, Skyy Clark and Donovan Dent each had five in overtime and No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/emmett-johnson-td-gives-chiefs-031543741.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-20-lsu-pulls-away-033601801.html"
         },
         {
-          "headline": "3 Nets takeaways from 104-97 NBA Cup win over Tyler Herro, Bucks",
-          "summary": "The Brooklyn Nets (4-13) were coming off one of their most disappointing losses of the season when they lost to the Minnesota Timberwolves 142-116 on Monday. Following the loss, Brooklyn looked like they needed to get back to locking down on the defensive end of the floor to win games and after visiting the Milwaukee Bucks (2-17) on Wednesday, the Nets…",
+          "headline": "10 takeaways from the Eagles' stunning 39-38 win over the Cowboys",
+          "summary": "The Eagles delivered their most entertaining performance of the season, overcoming a 21-point deficit to defeat the Dallas Cowboys, 39-38, on Thanksgiving Day. Philadelphia improved to 4-7 after scoring 22 fourth-quarter points and receiving significant contributions from its quarterback, wide receivers and special teams.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/3-nets-takeaways-104-97-025824004.html"
+          "url": "https://sports.yahoo.com/nfl/articles/10-takeaways-eagles-stunning-39-032222373.html"
         },
         {
           "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
@@ -831,10 +831,10 @@
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
         },
         {
-          "headline": "Eagles' Nick Sirianni pulled away from fans after wild Thanksgiving win over Cowboys",
-          "summary": "Philadelphia Eagles head coach Nick Sirianni has been known to lose his cool on sidelines before. A dramatic 39-38 come-from-behind Thanksgiving Day victory over the rival Dallas Cowboys, punctuated by a 60-yard field goal from Jake Elliott with 2 seconds remaining, was certainly cause for celebration.",
+          "headline": "Hannah Hidalgo becomes No. 13 Notre Dame women's all-time leading scorer in win over West Virginia",
+          "summary": "NASSAU, Bahamas (AP) — Hannah Hidalgo had 22 points and nine steals to become Notre Dame’s all-time leading scorer as the 13th-ranked Fighting Irish beat No. 22 West Virginia 78-64 on Thursday at the Battle 4 Atlantis.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/eagles-nick-sirianni-pulled-away-025755865.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/hannah-hidalgo-becomes-no-13-031618670.html"
         }
       ]
     },
@@ -983,5 +983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T22:23:18-05:00"
+  "updatedAt": "2026-11-26T22:46:19-05:00"
 }
