@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "MoD has no email addresses for about half of its reservists",
+          "summary": "There are an estimated 95,000 reservists but the MoD has only been able to send letters to about 50,000 of them.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9vg23m2zzkko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
+          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
+        },
+        {
           "headline": "Macy's Thanksgiving Day Parade postponed for 1st time in history",
           "summary": "For the first time in history, the Macy's Thanksgiving Day Parade has been postponed due to weather, Macy's said Wednesday.",
           "source": "CBS News",
@@ -58,18 +70,6 @@
           "summary": "Labour MPs oppose Rosebank oilfield and 'Shameless Huw'",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cm62p75vwn9xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
-          "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
-          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126171852175499461",
+          "created_at": "2026-11-27T04:30:46.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "TYLER BASS DRILLS IT FOR THE WIN\n\nBest day of Thanksgiving football ever? ⬇️ https://t.co/IA0Q2hvnDF",
+          "url": "https://x.com/Outkick/status/2126171852175499461",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126171012186493154",
+          "created_at": "2026-11-27T04:27:26.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "What a kick! Maybe this is the Bills year. At last. Amazing day of football.",
+          "url": "https://x.com/ClayTravis/status/2126171012186493154",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126169643404693666",
+          "created_at": "2026-11-27T04:21:59.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Is it just me? https://t.co/FSKJnfez1s",
+          "url": "https://x.com/Outkick/status/2126169643404693666",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126167654570562025",
+          "created_at": "2026-11-27T04:14:05.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "U.S. President Donald Trump on Iran earlier today:\n\n\"We're trying to give them a chance to be smart. They have no military... If we did anything, we would absolutely hit Pickaxe Mountain, but we haven't seen any real activity there.\"\n\n https://t.co/w9bKeRPnFH",
+          "url": "https://x.com/Osint613/status/2126167654570562025",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126166941354119481",
+          "created_at": "2026-11-27T04:11:15.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Aaron Rodgers took his shots at Mike McCarthy. \n\nNow, NFL media is firing back at the future Hall of Famer.\n\n🏈 “Rich jerk”\n🏈 “Dumpster fire”\n🏈 ”Show class on the way out”\n🏈 “Nobody wins when the family feuds”\n\n✍️ @markjburns88\nhttps://t.co/ukMXoOzTUD",
+          "url": "https://x.com/SportNState/status/2126166941354119481",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126165560002015515",
           "created_at": "2026-11-27T04:05:46.000Z",
@@ -155,26 +205,6 @@
           "author_handle": "Outkick",
           "text": "Jerry Jones is PISSED \n\n(My reaction: 😃) https://t.co/c9SuJSxFzc",
           "url": "https://x.com/Outkick/status/2126139556470874213",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126131712392622283",
-          "created_at": "2026-11-27T01:51:16.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Cowboys continuing to embarrass themselves in nationally televised games  https://t.co/KsODYMJcoD",
-          "url": "https://x.com/Outkick/status/2126131712392622283",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126128344668455173",
-          "created_at": "2026-11-27T01:37:53.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Sirianni ready to throw hands with Dallas fans 😂  https://t.co/o4tZ8KJCcu",
-          "url": "https://x.com/Outkick/status/2126128344668455173",
           "verified": true,
           "verified_type": "business"
         },
@@ -389,16 +419,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126073707353239637",
-          "created_at": "2026-11-26T22:00:47.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Hezbollah perking up https://t.co/sjSe1HroDh",
-          "url": "https://x.com/Osint613/status/2126073707353239637",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126064330022265197",
           "created_at": "2026-11-26T21:23:31.000Z",
           "author_name": "Elon Musk",
@@ -415,16 +435,6 @@
           "author_handle": "Timcast",
           "text": "Self-driving cars are coming soon, but a world where nobody drives at all is generations away. \n\nRegulation is the only thing holding back Tesla's Cybercab, but eventually synchronized robot cars will end traffic for good. https://t.co/ou3hcQYzQC",
           "url": "https://x.com/Timcast/status/2126058529895096552",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126056621667438710",
-          "created_at": "2026-11-26T20:52:53.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Loser! #respectthepicks #happythanksgivingtoeveryonebutkelly https://t.co/6AYrouZTDy",
-          "url": "https://x.com/ClayTravis/status/2126056621667438710",
           "verified": true,
           "verified_type": "blue"
         },
@@ -771,6 +781,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+          "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+        },
+        {
           "headline": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
           "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
           "source": "CNBC",
@@ -789,12 +805,6 @@
           "url": "https://abcnews.com/Business/wireStory/asian-shares-rise-ahead-wall-streets-reopening-after-138475583"
         },
         {
-          "headline": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-          "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
-        },
-        {
           "headline": "High school band raises $350K to stay for Macy's Thanksgiving parade",
           "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
           "source": "CBS News",
@@ -807,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "No. 15 Alabama uses balanced scoring to beat Kansas State 104-91 at Players Era 16 tourney",
+          "summary": "LAS VEGAS (AP) — Qayden Samuels scored 14 points and led seven players in double figures as No. 15 Alabama defeated Kansas State 104-91 in a consolation-round game of the Players Era 16 tournament on Thursday night.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-15-alabama-uses-balanced-043943607.html"
+        },
+        {
+          "headline": "Who's in Big 12 Championship game? Texas Tech's win clinches matchup vs Utah",
+          "summary": "Texas Tech entered Thanksgiving needing only a win over TCU to secure a second straight trip to the Big 12 championship game. The Red Raiders didn't make it easy on themselves, but Joey McGuire's team ultimately got the job done and punched its ticket.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/college-football/articles/whos-big-12-championship-game-043650879.html"
+        },
+        {
           "headline": "Prisco's Week 12 NFL picks: Browns over Raiders, Steelers overcome issues to upset Broncos",
           "summary": "Pete Prisco reveals all of his Week 12 picks, including the Steelers to upset the Broncos on Black Friday",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/nfl/news/pete-priscos-week-12-nfl-picks-odds-expert-picks/"
         },
         {
-          "headline": "No. 20 LSU pulls away in OT to beat SMU 95-86 in California desert",
-          "summary": "PALM DESERT, Calif. (AP) — Mo Dioubate scored 28 points, Skyy Clark and Donovan Dent each had five in overtime and No.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/no-20-lsu-pulls-away-033601801.html"
-        },
-        {
-          "headline": "Eagles make Thanksgiving history with unbelievable comeback win vs. Cowboys",
-          "summary": "Eric Hartline-Imagn Images Eagles make Thanksgiving history with unbelievable comeback win vs. Cowboys appeared first on ClutchPoints .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/eagles-thanksgiving-history-unbelievable-comeback-032731566.html"
-        },
-        {
-          "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
-          "summary": "Dai Dai Ames scored 19 points and No. 9 Tennessee beat Iowa State 75-64 to advance to the championship game of the Players Era tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ames-scores-19-9-tennessee-beats-iowa-state-138473399"
-        },
-        {
           "headline": "Fears' 20 points, 10 rebounds help No. 11 Michigan State top Arkansas 70-67 at Thanksgiving Classic",
           "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
+        },
+        {
+          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
+          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
         }
       ]
     },
@@ -843,16 +853,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan Set New Films With Bhushan Kumar’s T-Series (EXCLUSIVE)",
+          "summary": "Directors Laxman Utekar, Rajkumar Periasamy and Vishnuvardhan are set to collaborate with Indian studio T-Series chair and managing director Bhushan Kumar on three new films. Title, story, cast and production details have not been disclosed yet.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/news/laxman-utekar-rajkumar-periasamy-vishnuvardhan-films-tseries-1236958689/"
+        },
+        {
           "headline": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
           "summary": "Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/news/gerald-r-molen-dead-schindlers-list-producer-1236959200/"
-        },
-        {
-          "headline": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
-          "summary": "Asha Bhosle and S. Janaki, two of Indian cinema’s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/"
         },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Devouring $85M Over Thanksgiving Weekend as ‘Focker-in-Law,’ ‘Hexed’ Launch",
@@ -867,10 +877,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-news/scott-caan-open-reprising-role-oceans-14-casey-affleck-1236761302/"
         },
         {
-          "headline": "John Travolta Didn’t Recognize Himself as Alleged JFK Assassin Johnny Roselli in ‘November 1963’: ‘I Went, “Oh My God, He’s the Devil”’",
-          "summary": "John Travolta rarely connects with all his characters. Sometimes, he even loves to hate them.",
+          "headline": "Asha Bhosle and S. Janaki Remembered by Singer K.S. Chithra and Suhasini Maniratnam at IFFI’s Lata Mangeshkar Talk",
+          "summary": "Asha Bhosle and S. Janaki, two of Indian cinema’s most celebrated playback singers, were remembered at the 57th International Film Festival of India (IFFI) in Goa by singer K.S.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/john-travolta-jfk-assassin-johnny-roselli-november-1963-1236959137/"
+          "url": "https://variety.com/2026/film/festivals/asha-bhosle-s-janaki-ks-chithra-suhasini-iffi-1236959192/"
         }
       ]
     },
@@ -983,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T23:11:04-05:00"
+  "updatedAt": "2026-11-26T23:49:52-05:00"
 }
