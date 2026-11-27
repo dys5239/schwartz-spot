@@ -42,16 +42,22 @@
       "title": "News",
       "stories": [
         {
+          "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
+          "summary": "New York City Mayor Zohran Mamdani underwent a \"successful\" surgery on Friday for his torn Achilles tendon.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/nyc-mayor-mamdani-successful-surgery-torn-achilles-tendon/story?id=138488280"
+        },
+        {
+          "headline": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76",
+          "summary": "New York state Senate Majority Leader Andrea Stewart-Cousins has died",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/ny-senate-leader-andrea-stewart-cousins-woman-role-138488279"
+        },
+        {
           "headline": "OpenAI countersues Apple over allegations of stealing trade secrets",
           "summary": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
-        },
-        {
-          "headline": "WATCH: Breaking down the best holiday movies",
-          "summary": "Andscape senior entertainment reporter Kelley Carter discusses what defines a classic holiday film, shares her top picks and weighs in on if \"Die Hard\" qualifies as a holiday movie.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138487748/"
         },
         {
           "headline": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
@@ -64,12 +70,6 @@
           "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Millions clean up after massive Thanksgiving storms on East Coast",
-          "summary": "The East Coast is recovering from the massive Thanksgiving Day storms that flooded streets, toppled trees and left tens of thousands of homes without power.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126447345894055937",
+          "created_at": "2026-11-27T22:45:29.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "“F*ck you Rodgers” chants are swirling in Pittsburgh  https://t.co/C25VCkvtCo",
+          "url": "https://x.com/Outkick/status/2126447345894055937",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126447254689210452",
+          "created_at": "2026-11-27T22:45:07.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Dan Ives says Jensen Huang is worth $1 trillion to Nvidia and $8 to $10 trillion to the overall market\n\n\"Jensen's worth a trillion dollars to the valuation of it, and I'd argue probably 8 to 10 trillion to the overall market value\"\n\nBloomberg pushed back, \"If there is one man who https://t.co/yN9P4uEXo4",
+          "url": "https://x.com/_Investinq/status/2126447254689210452",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126445892106432794",
+          "created_at": "2026-11-27T22:39:42.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Bo Nix turning the ball over https://t.co/ANgBSBYIww",
+          "url": "https://x.com/Outkick/status/2126445892106432794",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126445574849241529",
+          "created_at": "2026-11-27T22:38:27.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Mac Jones time this weekend for the Niners😈  https://t.co/WssLH5Gk1D",
+          "url": "https://x.com/Outkick/status/2126445574849241529",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126440668168098281",
+          "created_at": "2026-11-27T22:18:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THE BEAST rolls through the Sunshine State!\n\nWATCH: President Trump's iconic presidential limousine and motorcade make their way through Florida following a visit to Trump International Golf Club. Trump is expected to return to the White House on Sunday.\n\nhttps://t.co/r4XdONgmrm",
+          "url": "https://x.com/RealAmVoice/status/2126440668168098281",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126439700475048080",
           "created_at": "2026-11-27T22:15:06.000Z",
@@ -137,16 +187,6 @@
           "url": "https://x.com/_The_Prophet__/status/2126436956490137642",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126435885956948202",
-          "created_at": "2026-11-27T21:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WAR ROOM WITH STEVE BANNON PM EDITION https://t.co/vBhcs8ZKeK",
-          "url": "https://x.com/RealAmVoice/status/2126435885956948202",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126435678947070089",
@@ -269,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126420558321533379",
-          "created_at": "2026-11-27T20:59:02.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Broncos defense trolling after the safety 😭  https://t.co/4UCzRjE4uT",
-          "url": "https://x.com/Outkick/status/2126420558321533379",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126419201221136709",
           "created_at": "2026-11-27T20:53:39.000Z",
           "author_name": "Sport & State",
@@ -329,16 +359,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126414936264056872",
-          "created_at": "2026-11-27T20:36:42.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Uhhh Broncos?  https://t.co/tufChxraE8",
-          "url": "https://x.com/Outkick/status/2126414936264056872",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126413294034649244",
           "created_at": "2026-11-27T20:30:10.000Z",
           "author_name": "StockMarket.News",
@@ -357,16 +377,6 @@
           "url": "https://x.com/SportNState/status/2126412643636527484",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126412189716373595",
-          "created_at": "2026-11-27T20:25:47.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "The Bo Nix Experience  https://t.co/Nr3bwLMWFu",
-          "url": "https://x.com/Outkick/status/2126412189716373595",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126412161828446696",
@@ -457,16 +467,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126375863121834116",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126371759989641284",
-          "created_at": "2026-11-27T17:45:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Former Pentagon AI policy analyst Will Thibeau says Elon Musk's 1 million satellite data center plan is literally a 300 year proposition\n\n\"A million data centers in space is literally a 300 year proposition\"\n\n\"Starlink launches approximately nine satellites a day\"\n\n\"A million https://t.co/6xqcMwoFee",
-          "url": "https://x.com/_Investinq/status/2126371759989641284",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126360829151068191",
@@ -755,6 +755,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "With Abbott out, what does the future look like for data centers in Texas?",
+          "summary": "Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas"
+        },
+        {
           "headline": "Postmortem of AI ads",
           "summary": "The data AI companies have been accumulating in this cycle will help serve future ads to hyper-specific audiences.",
           "source": "NPR",
@@ -771,12 +777,6 @@
           "summary": "\"His kindness, integrity, and quiet strength left a lasting impression on all who knew him,\" Sen. Deb Fischer said of her late husband, Bruce.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/"
-        },
-        {
-          "headline": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
-          "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
         },
         {
           "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
@@ -827,28 +827,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Premier League: Chelsea suffer third straight defeat as Forest hang on to win",
-          "summary": "Nottingham Forest hang on to beat Chelsea 3-2 in third successive defeat for Alonso's side Substitute Emegha gave visitors hope with second-half double Gibbs-White scored twice after Igor Jesus opener for Forest Fofana repeatedly booed by his own fans after controversial interview How to follow the Premier League on the BBC this weekend Premier League:…",
+          "headline": "Xabi Alonso under huge pressure as Chelsea slip to dispiriting defeat at Nottingham Forest",
+          "summary": "Chelsea slumped to a third successive Premier League defeat as they went down 3-2 at Nottingham Forest to mount the pressure on boss Xabi Alonso . The London club were second-best to Forest, who won it through Igor Jesus’ brilliant opener and a Morgan Gibbs-White double after the break.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/premier-league-nottingham-forest-lead-203222372.html"
+          "url": "https://sports.yahoo.com/soccer/articles/xabi-alonso-under-huge-pressure-223255633.html"
         },
         {
-          "headline": "Greece hand Northern Ireland fifth consecutive defeat",
-          "summary": "Internationals Women Northern Ireland 0 - 2 Greece FT Northern Ireland fell to their fifth consecutive defeat after Greece were 2-0 victors in a friendly at Inver Park. Konstantina Kallisti Brouksair gave the dominant away side the lead on 47 minutes before Marianna Rapani's late goal doubled their lead late on.",
+          "headline": "Five-try Ireland beat Australia in autumn finale",
+          "summary": "Nations Championship Ireland (17) 38 Tries: Henshaw, Timoney, Baloucoune, McNabney 2 Cons: Prendergast 5 Pen: Prendergast Australia (7) 14 Tries: Williams, Thomas Cons: Gordon 2 Ireland secured a fifth-place finish in the inaugural Nations Championship thanks to a 38-14 victory over Australia in London. While last week's 20-17 win over South Africa was…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/greece-hand-northern-ireland-fifth-205056055.html"
+          "url": "https://sports.yahoo.com/general/articles/five-try-ireland-beat-australia-221750798.html"
         },
         {
-          "headline": "Morgan Rielly scores twice as Maple Leafs defeat Bruins, who lose David Pastrnak to injury",
-          "summary": "Morgan Rielly scored his first two goals of the season, including the 100th of his career, to lead the Toronto Maple Leafs to a 3-1 victory over the Boston Bruins",
+          "headline": "Asim Djulovic’s 20 points help Butler take down Bellarmine 92-56",
+          "summary": "Asim Djulovic scored 20 points on 8-of-12 shooting, 4 of 6 from 3-point range, as Butler beat Bellarmine 92-56",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/morgan-rielly-scores-maple-leafs-defeat-bruins-lose-138487209"
+          "url": "https://abcnews.com/Sports/wireStory/asim-djulovics-20-points-butler-bellarmine-92-56-138488289"
         },
         {
-          "headline": "Hank Brown rushes for three touchdowns, throws for another in No. 13 Iowa's 31-7 win over Nebraska",
-          "summary": "Iowa quarterback Hank Brown ran for three touchdowns and threw for another, and the No. 13 Hawkeyes defeated Nebraska 31-7",
+          "headline": "Vanderbilt’s bench-clearing blowout ends 111-56 as Southern gets buried early",
+          "summary": "Ace Glass and Bangot Dak each scored 18 points leading six Commodores in double figures as Vanderbilt routed Southern 111-56 Friday afternoon to remain undefeated",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/hank-brown-rushes-touchdowns-throws-13-iowas-31-138486767"
+          "url": "https://abcnews.com/Sports/wireStory/vanderbilts-bench-clearing-blowout-ends-111-56-southern-138487657"
         },
         {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
@@ -863,16 +863,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "BAFTA 2027 Entries Revealed: 126 Best Film Contenders, 728 Performances and No Spot for ‘You Can See Everything’ Star Amanda Seyfried",
+          "summary": "There are 44 movies that want it all. That’s how many titles appear on BAFTA’s draft Entered Films List for the 2027 EE BAFTA Film Awards, with submissions across every category open to them: best film, director, screenplay and all nine craft races, right down to special visual effects.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/awards/bafta-2027-entries-full-list-amanda-seyfried-1236959765/"
+        },
+        {
           "headline": "Oscar-Nominated Director Rachid Bouchareb on the Challenges of Shooting ‘Reggane’: ‘We’re Making a Period Film in the Depths of the Sahara’",
           "summary": "Among the challenges facing Franco-Algerian filmmaker Rachid Bouchareb as he prepares to shoot his next feature, “Reggane,” are rebuilding a French military base in the Algerian Sahara, sourcing military vehicles dating back to the final years of French colonial rule and dressing some 2,000 extras. The three-time Oscar-nominated director, whose companion…",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/rachid-bouchareb-reggane-1236959750/"
-        },
-        {
-          "headline": "Filming the Moroccan Horse-Riding Doc ‘Bardi’ Took Director Tala Hadid Into a ‘Terrain That Was Totally Unknown’ to Her: ‘I Was Almost Like an Alien’",
-          "summary": "For the making of “Bardi,” director Tala Hadid spent over four years embedded in the Moroccan communities involved in the centuries-old tradition of the Tbourida, an equestrian ritual rooted in warfare where horsemen charge in a single line and fire their rifles in calculated alignment. Still, despite living and breathing the rituals around the…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520/"
         },
         {
           "headline": "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film",
@@ -899,6 +899,24 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth’s Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A ‘Dream Came True’",
+          "summary": "SPOILER ALERT: The following story contains plot details from “I Learn How to Grow Zombies,” Season 3, Episode 3 of “Percy Jackson and the Olympians,” now streaming on Disney+. Seventeen-year-old Leah Sava Jeffries carries the weight of the world on her shoulders in Season 3 of “Percy Jackson and the Olympians” — literally.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/percy-jackson-season-3-gray-contacts-finale-1236958463/"
+        },
+        {
+          "headline": "How to Stream 2026 Soul Train Awards, Featuring Tributes to Dolly Parton and Freddie Jackson",
+          "summary": "After last airing in 2023, the awards show makes its TV return, hosted this year by Anthony Anderson.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-soul-train-awards-2026-free-bet-cbs-live-stream-1236764242/"
+        },
+        {
+          "headline": "‘The Hunting Wives’ Stars and Creator Break Down Margo and Sophie’s Dangerous Love Affair in Season 2: ‘It’s a F—-ed Up Commitment’ to ‘Move Past’ Murder",
+          "summary": "SPOILER ALERT: This story contains spoilers for Season 2 of “The Hunting Wives,” now streaming on Netflix. Earlier this month, Texas shocked the nation by electing Democrats to the governorship, the U.S.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/hunting-wives-brittany-snow-malin-akerman-season-2-sex-murder-1236952232/"
+        },
+        {
           "headline": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
           "summary": "Gayle King will be absent from CBS Mornings for one week beginning Monday, November 30, following the death of her son-in-law, Virgil Miller, over the Thanksgiving holiday. CBS Mornings executive producer Jon Tower revealed the sad news about Miller’s death Friday in a memo to staff, which was obtained by People.",
           "source": "Deadline",
@@ -909,24 +927,6 @@
           "summary": "We now have the official cause of death for MTV’s The Challenge alum Tyler Duckworth. The reality TV personality died from hypertensive cardiovascular disease, according to the North Dakota State Forensic Examiner’s Office as reported by TMZ.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/tyler-duckworth-cause-of-death-the-challenge-mtv-1237234390/"
-        },
-        {
-          "headline": "Huw Edwards Channel 4 Doc Slammed by U.K. Prime Minister: ‘We Have No Interest in Hearing What He Has to Say’",
-          "summary": "U.K. Prime Minister Andy Burnham’s office has spoken out against an upcoming Channel 4 documentary featuring an interview with disgraced former BBC presenter Huw Edwards.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/huw-edwards-channel-4-doc-slammed-uk-prime-minister-1236959473/"
-        },
-        {
-          "headline": "Justin Timberlake Rolls Back the Years on Silly, Sexy and Sincere Appearance on ‘Tonight Show’",
-          "summary": "The singer performed a medley of his hits, took part in some dumb sketches and bared his soul about why he agreed to take part in an upcoming Apple TV docuseries.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-tonight-show-medley-documentary-series-tv-1236764103/"
-        },
-        {
-          "headline": "South African President Cyril Ramaphosa Gives Speech at Canal+ Academy Training Program Launch: ‘You Are Living My Dream’",
-          "summary": "South African President Cyril Ramaphosa on Friday attended the launch of French media giant Canal+ Group’s Canal+ Academy at MultiChoice City in Johannesburg. The new pan-African initiative will expand training and professional development opportunities for local aspiring professionals in the creative industries.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/south-african-president-canal-plus-academy-training-program-1236959278/"
         }
       ]
     },
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T17:17:11-05:00"
+  "updatedAt": "2026-11-27T17:46:25-05:00"
 }
