@@ -42,22 +42,22 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
+          "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "President Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
-        },
-        {
-          "headline": "NHS Grampian publishes leaked report at centre of hospital scandal",
-          "summary": "The report was leaked last week by a surgeon who called for NHS Grampian to face a corporate homicide investigation.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cq36gjdkdn2xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-          "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
@@ -78,6 +78,136 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126415725548228614",
+          "created_at": "2026-11-27T20:39:50.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Yeah https://t.co/7lpXyR60Xb",
+          "url": "https://x.com/elonmusk/status/2126415725548228614",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126415580823757101",
+          "created_at": "2026-11-27T20:39:16.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️Before corporations start firing accountants, they'll stop renting them.\n\nThis is why the staffing industry faces a much greater structural threat from AI than most investors realize.\n\nCompanies like Robert Half and Randstad have spent decades monetizing the gap between what a https://t.co/imPZNIhRHr",
+          "url": "https://x.com/_The_Prophet__/status/2126415580823757101",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126414936264056872",
+          "created_at": "2026-11-27T20:36:42.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Uhhh Broncos?  https://t.co/tufChxraE8",
+          "url": "https://x.com/Outkick/status/2126414936264056872",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126413886576590925",
+          "created_at": "2026-11-27T20:32:32.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work.\n\nJust like a human employee, if you overload a single bot with a massive array of work, it will start",
+          "url": "https://x.com/elonmusk/status/2126413886576590925",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126413294034649244",
+          "created_at": "2026-11-27T20:30:10.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Shopify president Harley Finkelstein says Shopify merchants are doing $2.3 million in sales per minute on Black Friday, and this is the first real agentic Black Friday\n\n\"We're seeing about $2.3 million in sales per minute, but 27,000 orders per minute\"\n\n\"We're not seeing more https://t.co/T0lpzcBBgv",
+          "url": "https://x.com/_Investinq/status/2126413294034649244",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126412643636527484",
+          "created_at": "2026-11-27T20:27:35.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 22 OIe Miss wins their 4th straight Egg Bowl over Mississippi State https://t.co/ffxIydA8zC",
+          "url": "https://x.com/SportNState/status/2126412643636527484",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126412189716373595",
+          "created_at": "2026-11-27T20:25:47.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "The Bo Nix Experience  https://t.co/Nr3bwLMWFu",
+          "url": "https://x.com/Outkick/status/2126412189716373595",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126412161828446696",
+          "created_at": "2026-11-27T20:25:40.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡️The Indian IT outsourcing model is facing its greatest structural threat since it became a global industry. \n\nAI is attacking the economics that made outsourcing attractive in the first place.\n\nFor decades, American corporations tolerated time-zone differences, communication https://t.co/231H462mvA",
+          "url": "https://x.com/_The_Prophet__/status/2126412161828446696",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126411800035889192",
+          "created_at": "2026-11-27T20:24:14.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Steelers fans making sure they all have ice cream sandwiches 💀  https://t.co/PtGEQkmSDK",
+          "url": "https://x.com/Outkick/status/2126411800035889192",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126411760169066508",
+          "created_at": "2026-11-27T20:24:05.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "THE PEE CELEBRATION IS BACK 😂 https://t.co/mHPm9dfKZ4",
+          "url": "https://x.com/SportNState/status/2126411760169066508",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126411365548224710",
+          "created_at": "2026-11-27T20:22:31.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Major Second Amendment showdown heads to the Supreme Court!\n\nSCOTUS will hear arguments December 2 over whether states and local governments can ban AR-15-style rifles, which an estimated 26 MILLION Americans own.\n\nThe Trump administration is backing gun rights groups in a legal https://t.co/waaSqnIErU",
+          "url": "https://x.com/RealAmVoice/status/2126411365548224710",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126411239232610730",
+          "created_at": "2026-11-27T20:22:00.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 13 Iowa HAMMERS No. 25 Nebraska, and potentially clinches a spot in the Big Ten Title Game. https://t.co/GaZPNwrIIw",
+          "url": "https://x.com/SportNState/status/2126411239232610730",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126409223328149876",
+          "created_at": "2026-11-27T20:14:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "RFK JR. DROPS BOMBSHELL CLAIMS ABOUT THE MUSLIM BROTHERHOOD'S NAZI AND KGB CONNECTIONS!\n\nIn an interview with Steve Gruber, RFK Jr. traces the organization's history, alleging Nazi funding and Soviet efforts to disguise its objectives through Marxist rhetoric.\n\n“The Muslim https://t.co/CV0NfqVJNH",
+          "url": "https://x.com/RealAmVoice/status/2126409223328149876",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126408623609782437",
           "created_at": "2026-11-27T20:11:37.000Z",
@@ -169,46 +299,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126393620395864099",
-          "created_at": "2026-11-27T19:12:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Turn up the Christmas spirit with music that celebrates what matters most!\n\n\"Real America's Christmas\" is officially HERE! From festive favorites to powerful songs of faith, this collection celebrates the traditions, joy and spirit of an American Christmas.\n\nMake it the https://t.co/YXdRDNXSIF",
-          "url": "https://x.com/RealAmVoice/status/2126393620395864099",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126390911168893291",
-          "created_at": "2026-11-27T19:01:14.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Here’s your Daily dose of Human Events with @JackPosobiec. Tune in every M-F at 2PM ET. @HumanEventsLive https://t.co/LfMT2E4G8t",
-          "url": "https://x.com/RealAmVoice/status/2126390911168893291",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126390700660920546",
-          "created_at": "2026-11-27T19:00:24.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Grok Build upgrades https://t.co/BTUCEsEPhi",
-          "url": "https://x.com/elonmusk/status/2126390700660920546",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126388828852105325",
-          "created_at": "2026-11-27T18:52:57.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Accurate https://t.co/lPxk3m1Ji3",
-          "url": "https://x.com/elonmusk/status/2126388828852105325",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126387343246393709",
           "created_at": "2026-11-27T18:47:03.000Z",
           "author_name": "Open Source Intel",
@@ -245,16 +335,6 @@
           "author_handle": "SportNState",
           "text": "Ole Miss LB Luke Ferrelli with an excessive head butt 😂 https://t.co/s5BocP7zRf",
           "url": "https://x.com/SportNState/status/2126382738395861121",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126377609302888834",
-          "created_at": "2026-11-27T18:08:22.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Mississippi State has a lead in an SEC game for the first time since September 26th 😲 https://t.co/OdjmLvnNKK",
-          "url": "https://x.com/SportNState/status/2126377609302888834",
           "verified": true,
           "verified_type": "blue"
         },
@@ -359,16 +439,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126350600979853488",
-          "created_at": "2026-11-27T16:21:03.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "College basketball rosters turn over faster than ever. Florida is proving they don’t have to.\n\nThe Gators returned 12 players with previous experience in the program and have built another title contender around development, continuity and selective portal additions.",
-          "url": "https://x.com/SportNState/status/2126350600979853488",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126347119699149227",
           "created_at": "2026-11-27T16:07:13.000Z",
           "author_name": "The Kobeissi Letter",
@@ -385,36 +455,6 @@
           "author_handle": "_Investinq",
           "text": "At this point, Nvidia's biggest risk isn't competition from AMD, Google, or custom ASICs.\n\nIt's Nvidia itself.\n\nIt's genuinely ridiculous how a company with arguably one of the strongest businesses in the world has managed to become such a massive headache for its shareholders. https://t.co/d2GnsRS6U5 https://t.co/ZeCft012UM",
           "url": "https://x.com/_Investinq/status/2126343460320149747",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126341559755079686",
-          "created_at": "2026-11-27T15:45:08.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "State Street's Marija Veitmane says big institutions have sold about half of their tech overweight, and she sees a very good chance of a Santa rally\n\n\"They sold about half of the overweight positions they had\"\n\n\"Major semi stocks trading at very, very depressed valuations\"\n\n\"I https://t.co/LcwQU16gix",
-          "url": "https://x.com/_Investinq/status/2126341559755079686",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126339460413751714",
-          "created_at": "2026-11-27T15:36:47.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Leftovers and football 😌",
-          "url": "https://x.com/Outkick/status/2126339460413751714",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126338553408057709",
-          "created_at": "2026-11-27T15:33:11.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "It's the Day After, and leftovers are takng up a lot of space in the fridge. That means it's time to let Thanksgiving pizza change your life, writes @ByJasonFoster.\nhttps://t.co/Gbw5VrGZJX",
-          "url": "https://x.com/SportNState/status/2126338553408057709",
           "verified": true,
           "verified_type": "blue"
         },
@@ -459,16 +499,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126171852175499461",
-          "created_at": "2026-11-27T04:30:46.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "TYLER BASS DRILLS IT FOR THE WIN\n\nBest day of Thanksgiving football ever? ⬇️ https://t.co/IA0Q2hvnDF",
-          "url": "https://x.com/Outkick/status/2126171852175499461",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126171012186493154",
           "created_at": "2026-11-27T04:27:26.000Z",
           "author_name": "Clay Travis",
@@ -477,16 +507,6 @@
           "url": "https://x.com/ClayTravis/status/2126171012186493154",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126169643404693666",
-          "created_at": "2026-11-27T04:21:59.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Is it just me? https://t.co/FSKJnfez1s",
-          "url": "https://x.com/Outkick/status/2126169643404693666",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126127595360244064",
@@ -545,16 +565,6 @@
           "author_handle": "Timcast",
           "text": "Self-driving cars are coming soon, but a world where nobody drives at all is generations away. \n\nRegulation is the only thing holding back Tesla's Cybercab, but eventually synchronized robot cars will end traffic for good. https://t.co/ou3hcQYzQC",
           "url": "https://x.com/Timcast/status/2126058529895096552",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126046585809469706",
-          "created_at": "2026-11-26T20:13:00.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Empires rise and fall. Consensus shifts. Models break. \n\nThe signal remains. \n\nI remain with it.",
-          "url": "https://x.com/_The_Prophet__/status/2126046585809469706",
           "verified": true,
           "verified_type": "blue"
         },
@@ -817,10 +827,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "3 reasons why Alabama will defeat Auburn in Iron Bowl, 3 why not",
-          "summary": "Every time Alabama and Auburn get together it is a big game, and once again, this year's Iron Bowl also has a lot at stake. Alabama (9-2 overall, 6-2 SEC) is looking to lock up their spot in the College Football Playoff (CFP), while Auburn (7-4, 4-4) is looking to keep up their momentum under first-year head coach Alex Golesh and to wrap up the regular…",
+          "headline": "Mason Rudolph hits DK Metcalf for touchdown pass as Steelers take 14-0 lead over Broncos",
+          "summary": "More than anyone else, the two players the Steelers needed to step up today were Mason Rudolph and DK Metcalf. And they did just that in the first quarter against the Broncos.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/3-reasons-why-alabama-defeat-195036910.html"
+          "url": "https://sports.yahoo.com/nfl/articles/mason-rudolph-hits-dk-metcalf-203927483.html"
+        },
+        {
+          "headline": "Egg Bowl 2026: Winners, Losers from Ole Miss Rebels’ 41-17 Victory Over Mississippi State",
+          "summary": "Rivalry Week kicked off on Friday, with the 2026 Egg Bowl between the Mississippi State Bulldogs and Ole Miss Rebels in Oxford. Mississippi has dominated this in-state battle as of late, winning the last three and it is 67-46-6 overall entering today, with Friday afternoon’s victory over the Bulldogs adding to that historic excellence over its biggest rival.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/college-football/articles/egg-bowl-2026-winners-losers-202855624.html"
+        },
+        {
+          "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
+          "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
         },
         {
           "headline": "Carys Baker’s hot second quarter leads No. 3 Louisville in 92-48 win over Akron",
@@ -833,18 +855,6 @@
           "summary": "Sam Lewis scored 21 points, Elijah Gertrude added 17 off the bench, and No. 2 Virginia defeated Xavier 83-71 in the Battle 4 Atlantis Signature Series",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/sam-lewis-scores-21-points-elijah-gertrude-17-138484954"
-        },
-        {
-          "headline": "College basketball rankings: Biggest surprise this season? The 8-0 Pitt Panthers make Top 25 And 1 debut",
-          "summary": "Jeff Capel's Pitt squad has wins over Villanova, Oklahoma, Butler and Penn State and will face Missouri on Tuesday.",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-basketball/news/college-basketball-rankings-8-0-pitt-panthers-top-25-and-1-debut/"
-        },
-        {
-          "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
-          "summary": "Dai Dai Ames scored 19 points and No. 9 Tennessee beat Iowa State 75-64 to advance to the championship game of the Players Era tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/ames-scores-19-9-tennessee-beats-iowa-state-138473399"
         }
       ]
     },
@@ -852,6 +862,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film",
+          "summary": "The actor also tells The Hollywood Reporter about filming a musical scene in front of the pop star and whether there's more story to tell in the 26-year-old franchise.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285/"
+        },
         {
           "headline": "‘A Girl Unknown,’ ‘Crawling Into Myself,’ ‘Concrete Land’ Take Main Prizes at Doha Film Festival",
           "summary": "Zou Jing’s “A Girl Unknown,” Asmahan Bkerat’s “Concrete Land” and Hamad Al-Fayhani’s “Crawling Into Myself” won the top prizes at the sophomore edition of the revamped Doha Film Festival, which took place between Nov. 19-27 in the Qatari capital.",
@@ -869,12 +885,6 @@
           "summary": "The director teases a classic approach to his Amazon MGM film starring Robert Pattinson: \"I love the way the character behaves.\"",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-bond-movie-denis-villeneuve-1236764148/"
-        },
-        {
-          "headline": "Masaaki Yuasa’s ‘Daisy’s Life’ Unveils First Look Images From Japanese Anime Giant’s Next Feature",
-          "summary": "The first images from the animated adaptation of Banana Yoshimoto’s novel comes ahead of the movie now scheduled to hit theaters in Japan in 2027.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/masaaki-yuasas-daisys-life-first-look-1236764141/"
         },
         {
           "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
@@ -993,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T15:12:40-05:00"
+  "updatedAt": "2026-11-27T15:44:09-05:00"
 }
