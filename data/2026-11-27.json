@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
+          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
+        },
+        {
+          "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+          "summary": "Democrats are looking to blunt some of President Donald Trump's tariffs as they take control of Congress",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
+        },
+        {
+          "headline": "Government to limit 'abusive lawsuits' aimed at silencing whistleblowers",
+          "summary": "An MP cited former Harrods owner Mohamed Al Fayed as someone who used legal action to suppress his \"appalling abuse\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw24ez2zvge0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
         },
         {
-          "headline": "Five Gladiators will not return for new BBC series",
-          "summary": "The programme is set to feature a host of new faces when it returns to screens next year.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm0jx92d07n5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
-          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
+          "headline": "WATCH: The Children's Hospital Thanksgiving Day Parade",
+          "summary": "Staff and families put on their own Thanksgiving Day parade at Cook Children's Medical Center in Fort Worth, Texas.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
-        },
-        {
-          "headline": "Murder suspect crashes into elephant while fleeing police",
-          "summary": "Witnesses told police the elephant appeared to be unharmed and retreated back into the jungle.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/murder-suspect-crashes-elephant-fleeing-police-sri-lanka/"
-        },
-        {
-          "headline": "What we know about Department for Work and Pensions 'cyber incident'",
-          "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss"
+          "url": "https://abcnews.com/video/138479018/"
         }
       ]
     },
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126309436142596586",
+          "created_at": "2026-11-27T13:37:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Israel and Morocco agreed to draft a joint military work plan for 2027 at the fourth session of their joint military committee, held yesterday at Moroccan army general headquarters in Rabat. The two sides also reviewed their joint activities for 2026 and set the committee's fifth https://t.co/haU1dj1ob1",
+          "url": "https://x.com/Osint613/status/2126309436142596586",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126306798458298823",
+          "created_at": "2026-11-27T13:27:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Protect your family without taking a life\n\nWith millions of Americans traveling and shopping this holiday season, Conn Davis joins American Sunrise to discuss personal safety and alternatives to deadly force.\n\nDr. Gina gets candid about her own concerns: “I hate that I can't take https://t.co/U3KRQO5RvC",
+          "url": "https://x.com/RealAmVoice/status/2126306798458298823",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126305672618795425",
+          "created_at": "2026-11-27T13:22:31.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Spanish PM Pedro Sánchez:\n\nI ask you: Has a president like Trump brought anything good to the United States or to the world? \n\nHas Milei in Argentina or Bolsonaro in Brazil brought anything good? Have they represented change or regression?\n\nIn 2023, we were the first to stop the",
+          "url": "https://x.com/Osint613/status/2126305672618795425",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126304264553144509",
+          "created_at": "2026-11-27T13:16:56.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: S&amp;P 500 is on track for a 4th consecutive week with a return of at least 2.5% in either direction, its longest such streak since the 2022 bear market.\n\nThis would also match the 4-week streaks recorded during the 2020 sell-off and the 2000 decline following the Dot-com https://t.co/cuCQaUMlHL",
+          "url": "https://x.com/KobeissiLetter/status/2126304264553144509",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126301585034641776",
           "created_at": "2026-11-27T13:06:17.000Z",
@@ -139,16 +179,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126293938596122945",
-          "created_at": "2026-11-27T12:35:54.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Palestinian civilians in the area were warned before the Israeli Air Force bombed 4 Hamas weapons depots across the Gaza Strip overnight, according to the IDF. The military stated the sites held weapons and lathes used to manufacture arms. https://t.co/VjNarmon2i",
-          "url": "https://x.com/Osint613/status/2126293938596122945",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126293036749713422",
           "created_at": "2026-11-27T12:32:19.000Z",
           "author_name": "StockMarket.News",
@@ -167,16 +197,6 @@
           "url": "https://x.com/RealAmVoice/status/2126292957229932983",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126287405699514806",
-          "created_at": "2026-11-27T12:09:56.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Iran will continue supplying natural gas to Turkey through 2032 after Turkey's state gas company BOTAŞ and the National Iranian Gas Co. extended their import contract, according to Bloomberg and Turkey Today. \n\nNeither company has formally announced the agreement.",
-          "url": "https://x.com/Osint613/status/2126287405699514806",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126284727720050893",
@@ -227,16 +247,6 @@
           "url": "https://x.com/elonmusk/status/2126222666994737622",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126179194036191323",
-          "created_at": "2026-11-27T04:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "AMERICA SPEAKS WITH WAYNE ALLYN ROOT https://t.co/INKNu0SDv6",
-          "url": "https://x.com/RealAmVoice/status/2126179194036191323",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126171852175499461",
@@ -315,16 +325,6 @@
           "author_handle": "Outkick",
           "text": "\"It's a dumpster fire.\"\n\nMike Tomlin taking time from Minecraft to comment on the Steelers’ mess https://t.co/ceSRtEuUeZ",
           "url": "https://x.com/Outkick/status/2126150504283881883",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126147641423937581",
-          "created_at": "2026-11-27T02:54:34.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nasdaq 100 futures surge +2.5% as the Thanksgiving rally gains momentum.\n\nThe S&amp;P 500 is now on track to open near 7,300. https://t.co/UGpZyimMpd",
-          "url": "https://x.com/KobeissiLetter/status/2126147641423937581",
           "verified": true,
           "verified_type": "business"
         },
@@ -791,16 +791,16 @@
       "title": "Economy",
       "stories": [
         {
-          "headline": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
-          "summary": "The German arms maker vows a \"more prudent approch\" to forecast sales of tanks and ammunition.",
+          "headline": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+          "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html"
+          "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
         },
         {
-          "headline": "Spain’s election could pull Madrid closer to Trump’s Washington",
-          "summary": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro Sánchez's eight years in power to an end.",
+          "headline": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+          "summary": "The November sell-off has so far pushed the S&P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html"
+          "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
         },
         {
           "headline": "Here's how GLP-1 drugs are changing people's shopping habits",
@@ -815,10 +815,10 @@
           "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
         },
         {
-          "headline": "Argentina bans its central bank from printing money for the government",
-          "summary": "Argentina’s Congress has approved a law that bans the central bank from printing money to cover government spending",
+          "headline": "Here are the main issues driving Spain's national election",
+          "summary": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
           "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/argentina-bans-central-bank-printing-money-government-138472439"
+          "url": "https://abcnews.com/Business/wireStory/main-issues-driving-spains-national-election-matter-europe-138476511"
         }
       ]
     },
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "The Aftermath Of Duke’s Win Over UConn Was Pretty Fun Too",
-          "summary": "LAS VEGAS, NEVADA - NOVEMBER 25: Cayden Boozer #2 of the Duke Blue Devils drives against Na'jai Hines #9 and Silas Demary Jr. #5 of the Connecticut Huskies in the first half at T-Mobile Arena on November 25, 2026 in Las Vegas, Nevada.",
+          "headline": "Ben Johnson sounds off on Bears' comeback win vs. Lions",
+          "summary": "The Chicago Bears have spent most of the 2026 season leading football games. But they went vintage 2025 Bears with Thursday's impressive 39-35 win over the Detroit Lions on Thanksgiving.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/aftermath-duke-win-over-uconn-130000012.html"
+          "url": "https://sports.yahoo.com/nfl/articles/ben-johnson-sounds-off-bears-132029256.html"
         },
         {
-          "headline": "Reacts Results: Teetering on the edge of the playoffs",
-          "summary": "CHARLOTTE, NC - OCTOBER 25: Carolina Panthers quarter back Bryce Young (9) fumbles the ball in a pass attempt from a hit by Tampa Bay Buccaneers Payne Durham (87) during an NFL football game between the Tampa Bay Buccaneers and the Carolina Panthers on October 25, 2026 at Bank of America Stadium in Charlotte, N.C. (Photo by John Byrum/Icon Sportswire via…",
+          "headline": "Joe Milton had Tom Brady losing his mind in comeback win over Cowboys",
+          "summary": "ARLINGTON, TEXAS- NOVEMBER 26: Joe Milton #14 of the Philadelphia Eagles celebrates after an NFL football game against the Dallas Cowboys at AT&T Stadium on November 26, 2026 in Arlington, Texas. (Photo by Logan Bowles/Getty Images) | Getty Images Did anyone have Joe Milton becoming a Thanksgiving day legend on your bingo card?",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/reacts-results-teetering-edge-playoffs-130000941.html"
+          "url": "https://sports.yahoo.com/nfl/articles/joe-milton-had-tom-brady-131014591.html"
         },
         {
           "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T08:11:34-05:00"
+  "updatedAt": "2026-11-27T08:40:44-05:00"
 }
