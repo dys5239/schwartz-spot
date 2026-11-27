@@ -48,6 +48,18 @@
           "url": "https://www.cbsnews.com/video/112726-48-hours-case-by-case-episode-32/"
         },
         {
+          "headline": "Allstate roiled by tech outage over Thanksgiving week",
+          "summary": "The insurer's systems are out of commission during the busiest road travel period of the year, leaving customers unable to access roadside assistance.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/allstate-roiled-tech-outage-thanksgiving-week/"
+        },
+        {
+          "headline": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+          "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "'We have no interest in hearing from Huw Edwards', Downing Street says",
           "summary": "There has been a backlash against new interviews with the disgraced former BBC News presenter.",
           "source": "BBC News",
@@ -58,18 +70,6 @@
           "summary": "Staff and families put on their own Thanksgiving Day parade at Cook Children's Medical Center in Fort Worth, Texas.",
           "source": "ABC News",
           "url": "https://abcnews.com/video/138479018/"
-        },
-        {
-          "headline": "Investigator says Russia is \"brainwashing\" Ukrainian children at so-called summer camps",
-          "summary": "Since Russia's invasion of Ukraine, many Ukrainian children have ended up at Russian camps where the Ukrainian language is banned and the Russian anthem is played each day. More Sunday on 60 Minutes.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/investigator-says-russia-is-brainwashing-ukrainian-children-at-so-called-summer-camps/"
-        },
-        {
-          "headline": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
-          "summary": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126332790677643661",
+          "created_at": "2026-11-27T15:10:17.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Jefferies' Mohit Kumar says we have spent more on AI than on anything in the last 500 years, and he sees the Dec 8 to 9 Fed meeting as the turning point for markets\n\n\"We have spent more on AI than we have spent on anything ever in the last 500 years\"\n\n\"Even now the market is https://t.co/axxBsjihwS",
+          "url": "https://x.com/_Investinq/status/2126332790677643661",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126330189416476977",
+          "created_at": "2026-11-27T14:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "WAR ROOM WITH STEVE BANNON AM EDITION https://t.co/a82O2i1uLY",
+          "url": "https://x.com/RealAmVoice/status/2126330189416476977",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126328743710933334",
+          "created_at": "2026-11-27T14:54:12.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Kinder chocolate bearing Hebrew writing was found on supermarket shelves in Beirut, according to documentation by a Lebanese citizen. Officials in Beirut have opened a full investigation into how the product reached stores in the Lebanese capital. https://t.co/QNeLxk4mwe",
+          "url": "https://x.com/Osint613/status/2126328743710933334",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126327729712968167",
+          "created_at": "2026-11-27T14:50:10.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Nvidia stock, $NVDA, erases gains and turns negative on the day after Bloomberg claims that Nvidia's Blackwell chips have been found at a site in China linked to Alice Huang. https://t.co/L9uwBs0ZIl",
+          "url": "https://x.com/KobeissiLetter/status/2126327729712968167",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126327207350153456",
+          "created_at": "2026-11-27T14:48:06.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "EXCLUSIVE VIDEO: Spotted today, the VLCC GHAZAL - seen severely damaged. The Supertanker has not reported as struck by either the IRGC or UKMTO in any of it's reports. Image 2 is a yet to be identified supertanker pictured earlier this week.\n\nContributed by @live_ais_com https://t.co/LHA2hHvLG3",
+          "url": "https://x.com/Osint613/status/2126327207350153456",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126326872006971593",
+          "created_at": "2026-11-27T14:46:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Lebanese President Joseph Aoun, meeting with a French organization, laid out Lebanon's goals:\n\n• Israeli forces withdraw from southern Lebanon\n• The Lebanese army deploys\n• Displaced residents return\n• Lebanese prisoners are released\n• Weapons held only by the state, meaning",
+          "url": "https://x.com/Osint613/status/2126326872006971593",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126324866903400536",
           "created_at": "2026-11-27T14:38:48.000Z",
@@ -149,16 +209,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126316362821726585",
-          "created_at": "2026-11-27T14:05:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BLACK FRIDAY SAVINGS: Bring home the sound of an American Christmas for 15% OFF!\n\nGet \"Real America's Christmas\" on classic 12-inch black vinyl, featuring seven incredible Christmas songs from Chad Prather, Natasha Owens, Beau Davidson, and more!\n\n🎁 Regularly $100 — NOW JUST https://t.co/2GdL0okvmm",
-          "url": "https://x.com/RealAmVoice/status/2126316362821726585",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126312685604123104",
           "created_at": "2026-11-27T13:50:23.000Z",
           "author_name": "Open Source Intel",
@@ -179,26 +229,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126309436142596586",
-          "created_at": "2026-11-27T13:37:29.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Israel and Morocco agreed to draft a joint military work plan for 2027 at the fourth session of their joint military committee, held yesterday at Moroccan army general headquarters in Rabat. The two sides also reviewed their joint activities for 2026 and set the committee's fifth https://t.co/haU1dj1ob1",
-          "url": "https://x.com/Osint613/status/2126309436142596586",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126305672618795425",
-          "created_at": "2026-11-27T13:22:31.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Spanish PM Pedro Sánchez:\n\nI ask you: Has a president like Trump brought anything good to the United States or to the world? \n\nHas Milei in Argentina or Bolsonaro in Brazil brought anything good? Have they represented change or regression?\n\nIn 2023, we were the first to stop the",
-          "url": "https://x.com/Osint613/status/2126305672618795425",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126304264553144509",
           "created_at": "2026-11-27T13:16:56.000Z",
           "author_name": "The Kobeissi Letter",
@@ -215,16 +245,6 @@
           "author_handle": "LauraLoomer",
           "text": "Oh I’m sure it’s just one big coincidence right? 🤡 https://t.co/dxT4WNqwv9",
           "url": "https://x.com/LauraLoomer/status/2126301037514407975",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126298957043134695",
-          "created_at": "2026-11-27T12:55:50.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The last remaining son of Hamas political bureau head Khalil al-Hiya survived an Israeli strike on an apartment in Gaza City's Rimal neighborhood early this morning, according to senior Hamas official Bassem Naim, who added that the son's family also survived. Sky News Arabia had https://t.co/n42y6TctqY",
-          "url": "https://x.com/Osint613/status/2126298957043134695",
           "verified": true,
           "verified_type": "blue"
         },
@@ -317,16 +337,6 @@
           "url": "https://x.com/SportNState/status/2126166941354119481",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126165560002015515",
-          "created_at": "2026-11-27T04:05:46.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: S&amp;P 500 futures extend gains to rise above 7,300 for the first time since November 19th, now up +6% from Friday's low.\n\nBoth the S&amp;P 500 and Dow have are pushing further out of correction territory. https://t.co/NQTuQoXzy8",
-          "url": "https://x.com/KobeissiLetter/status/2126165560002015515",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126152220127408214",
@@ -425,16 +435,6 @@
           "author_handle": "_Investinq",
           "text": "Gordon Chang says China's economy is probably growing around zero, not the 4.5% Beijing reported for Q3\n\n\"Nobody this side of heaven knows where the Chinese economy is, but it's probably around zero\"\n\n\"The core of their economy, property, consumption, is really faltering\" https://t.co/37DHXxMyiP",
           "url": "https://x.com/_Investinq/status/2126110029476708661",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126103806677340600",
-          "created_at": "2026-11-27T00:00:23.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Bloomberg's Mark Cudmore says almost $20 trillion was wiped off global stocks even as the macro backdrop kept improving\n\n\"We saw almost $20 trillion wiped out from global stock markets\"\n\n\"That's obviously an extreme wipeout despite an improving macro situation\"\n\n\"Retail are https://t.co/x84ih9ay5x",
-          "url": "https://x.com/_Investinq/status/2126103806677340600",
           "verified": true,
           "verified_type": "blue"
         },
@@ -735,12 +735,6 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "Trump slams foes and threatens future vetoes in Thanksgiving posts",
-          "summary": "President Trump took questions from reporters during the Thanksgiving holiday. He touched on Jensen Huang's return to Nvidia and lauded his latest meeting with Russia's Vladimir Putin and China's Xi Jinping.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-slams-foes-and-threatens-future-vetoes-in-thanksgiving-posts/"
-        },
-        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
@@ -751,6 +745,12 @@
           "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+        },
+        {
+          "headline": "Trump to visit maker of semiconductor chips, including Nvidia's",
+          "summary": "President Trump will visit the Phoenix TSMC facility, one of the largest manufacturers of advanced chips, including Nvidia's.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-visit-tsmc-semiconductor-facility-phoenix-nvidia/"
         },
         {
           "headline": "After Democrats' midterm wins, some hope attacks on DEI will ease",
@@ -777,10 +777,16 @@
           "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html"
         },
         {
-          "headline": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
-          "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
+          "headline": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+          "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        },
+        {
+          "headline": "Inside a Nestlé test kitchen where chefs are creating GLP-1-friendly meals",
+          "summary": "More Americans are taking GLP-1 drugs, prompting food manufacturers to rethink some of their recipes. Kelly O'Grady gets an inside look at how Nestlé is making meals targeting the growing population.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/inside-a-nestle-test-kitchen-where-chefs-are-creating-glp-1-friendly-meals/"
         },
         {
           "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
@@ -793,12 +799,6 @@
           "summary": "More than 60 million Americans could be using the drugs by 2030, double the number that currently use them, according to a new forecast.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/glp-1-drugs-food-apparel-shopping-habits/"
-        },
-        {
-          "headline": "Can luxury save Macy's?",
-          "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury"
         }
       ]
     },
@@ -806,6 +806,18 @@
       "id": "sports",
       "title": "Sports",
       "stories": [
+        {
+          "headline": "Duval Dispatch: Jaguars-Titans final score predictions",
+          "summary": "EAST RUTHERFORD, NEW JERSEY - NOVEMBER 22: Chris Rodriguez Jr. #24 of the Jacksonville Jaguars runs with the football during the first half during the NFL game against the New York Giants at MetLife Stadium on November 22, 2026 in East Rutherford, New Jersey.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/duval-dispatch-jaguars-titans-final-150127876.html"
+        },
+        {
+          "headline": "10 Bears Takes: Superman is back, a 9-2 start, and more on the last-second win",
+          "summary": "Chicago Bears wide receiver Rome Odunze catches a touchdown pass in the end zone with three seconds left against the Detroit Lions on Thursday, Nov. 26, 2026, at Ford Field in Detroit, Mich.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/10-bears-takes-superman-back-150000659.html"
+        },
         {
           "headline": "Louisville's buzzer-beater ends St. John's comeback try: Five takeaways from craziest Players Era game to date",
           "summary": "Controversy, a near-mega collapse, Rick Pitino vs. his old school and a 3-pointer for the win: Everything to know about what happened in Vegas after dark",
@@ -823,18 +835,6 @@
           "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
-        },
-        {
-          "headline": "Caleb Williams' TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "summary": "Caleb Williams threw a go-ahead, 6-yard touchdown pass to Rome Odunze with 3 seconds left to give the Chicago Bears their first lead of the game in a 39-35 win over the Detroit Lions on Thursday to break a first-place tie in the NFC North",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/caleb-williams-td-pass-3-seconds-left-bears-138472672"
-        },
-        {
-          "headline": "Bournemouth tops Europa League after beating Celta Vigo, Benfica stunned, AC Milan rallies",
-          "summary": "Bournemouth has extended its winning streak to 10 games by defeating Celta Vigo 2-1 in the Europa League",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/bournemouth-tops-europa-league-after-beating-celta-vigo-138472338"
         }
       ]
     },
@@ -879,6 +879,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Netflix Edits Schizophrenia Scene Out Of Tyson Fury Doc After Wife Reveals Boxer Does Not Have Condition",
+          "summary": "Tyson Fury does not have schizophrenia and a scene in which his wife claims he does has been edited out of the Netflix movie about the British boxing superstar. The doc, titled Tyson Fury, provides a tell-all account of Fury’s mental health struggles as he builds up to his fight with Anthony Joshua next month, […]",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/netflix-edits-tyson-fury-schizophrenia-scene-paris-fury-1237234272/"
+        },
+        {
           "headline": "International Insider: Doha Days; Tricky Week For BAFTA; ‘Remarried Empress’ Interview",
           "summary": "Welcome, welcome and a Happy Thanksgiving to those across the pond, Max Goldbart here taking you through the week. Please do scroll down.",
           "source": "Deadline",
@@ -889,12 +895,6 @@
           "summary": "The singer performed a medley of his hits, took part in some dumb sketches and bared his soul about why he agreed to take part in an upcoming Apple TV docuseries.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-tonight-show-medley-documentary-series-tv-1236764103/"
-        },
-        {
-          "headline": "Netflix Tunes Into Music-Driven Chinese Fantasy Series ‘The Melody Of Love’",
-          "summary": "Netflix has snapped up The Melody Of Love and is launching the music-driven Chinese fantasy drama in the U.S. and internationally on its platform on 29 Nov.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/netflix-buys-chinese-drama-the-melody-of-love-release-date-1237234243/"
         },
         {
           "headline": "South African President Cyril Ramaphosa Gives Speech at Canal+ Academy Training Program Launch: ‘You Are Living My Dream’",
@@ -951,6 +951,18 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Pz’ Recruits Don Toliver for New Song “Subliminals”",
+          "summary": "The Georgia model-turned-rapper seals a big year off the back of No Turning Back",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/pz-recruits-don-toliver-for-new-song-subliminals/"
+        },
+        {
+          "headline": "Watch ‘Sesame Street’ Pay Homage to Mariah Carey’s ‘All I Want for Christmas Is You’",
+          "summary": "This year the characters need the letter \"U\" to help the holidays stay festive and bright",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/sesame-street-mariah-carey-christmas-song-homage-1235665152/"
+        },
+        {
           "headline": "Justin Timberlake Says Making Upcoming Doc Series Was ‘Really Cathartic’",
           "summary": "The pop star took over The Tonight Show on Thanksgiving with an interview, performances, and sketches",
           "source": "Rolling Stone",
@@ -963,25 +975,13 @@
           "url": "https://www.billboard.com/music/chart-beat/taylor-swift-all-too-well-chart-rewind-2021-1236389622/"
         },
         {
-          "headline": "Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’",
-          "summary": "The Muppets of Sesame Street don’t want a lot for Christmas — there’s just one thing they need: literally U! Related Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No.",
+          "headline": "Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
+          "summary": "London’s The O2 Arena is celebrating its 20th anniversary with a massive run of special shows throughout 2027. Artists announced to headline performances at the 20,000-capacity arena so far include Sombr , Backstreet Boys , Jorja Smith , Pet Shop Boys , Jamiroquai , Alt-J and more.",
           "source": "Billboard",
-          "url": "https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/"
-        },
-        {
-          "headline": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
-          "summary": "Earlier this week, the singer debuted the piano ballad at a Nashville concert",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/"
-        },
-        {
-          "headline": "Singer Tinashe is a 'Popstar' who enjoys exploring genres on her latest album",
-          "summary": "The singer Tinashe has a new album out Friday. It's called Popstar.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-5936561-e1/singer-tinashe-is-a-popstar-who-enjoys-exploring-genres-on-her-latest-album"
+          "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-27T09:44:12-05:00"
+  "updatedAt": "2026-11-27T10:13:02-05:00"
 }
