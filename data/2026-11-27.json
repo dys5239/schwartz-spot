@@ -24,16 +24,16 @@
           "url": "https://abcnews.com/Technology/wireStory/google-threatens-cut-schools-search-access-los-angeles-138476437"
         },
         {
-          "headline": "Android’s DIY widgets are a bit of vibe-coding fun",
-          "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge Aside from dealing with my calendar , there's one thing I want AI to do: tell me if I'm about to miss the bus.",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
-        },
-        {
           "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
           "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
           "source": "Wired",
           "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+        },
+        {
+          "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
         }
       ]
     },
@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
-          "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
           "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "headline": "25-year sentence sought for former chef who aided 14 suicides",
+          "summary": "Kenneth Law pleaded guilty earlier this year to aiding 14 suicides in Canada, but he has admitted to selling his so-called suicide kits globally.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/former-chef-kennth-law-poison-suicides-prosecutors-seek-25-years/"
+        },
+        {
+          "headline": "Millions clean up after massive Thanksgiving storms on East Coast",
+          "summary": "The East Coast is recovering from the massive Thanksgiving Day storms that flooded streets, toppled trees and left tens of thousands of homes without power.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179"
+        },
+        {
+          "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
+          "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Trump says he's giving Iran \"a chance to be smart\"",
           "summary": "President Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
-        },
-        {
-          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
-          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
-        },
-        {
-          "headline": "Millions clean up after massive Thanksgiving storms flood streets, knock out power",
-          "summary": "The East Coast is recovering from the massive Thanksgiving Day storms that flooded streets, toppled trees and left tens of thousands of homes without power.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179"
         }
       ]
     },
@@ -78,6 +78,86 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126422474812465551",
+          "created_at": "2026-11-27T21:06:39.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡ Sometimes the signal arrives centuries before the mind capable of understanding its significance.\n\nIn 1854, Bernhard Riemann explored geometries that would eventually allow Einstein to describe the curvature of spacetime.\n\nThat same year, George Boole gave logic a mathematical https://t.co/4qnAelVn3i",
+          "url": "https://x.com/_The_Prophet__/status/2126422474812465551",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126422030102704272",
+          "created_at": "2026-11-27T21:04:53.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CCP KILLS PRISONERS TO HARVEST ORGANS, NUGENT RELEASES GONZO LIFE | BOLLING SHOW https://t.co/4UcNAbpEsF",
+          "url": "https://x.com/RealAmVoice/status/2126422030102704272",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126420926036058203",
+          "created_at": "2026-11-27T21:00:30.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "This is how protests recruit college kids...\n\nCollege kids are sorted into \"green,\" \"yellow,\" and \"red.\" The red group instigates a fight with the cops, so the green recruits get arrested, and the organizers then win those students over by telling them the police are the enemy https://t.co/Vem7KUPZb0",
+          "url": "https://x.com/Timcast/status/2126420926036058203",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126420558321533379",
+          "created_at": "2026-11-27T20:59:02.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Broncos defense trolling after the safety 😭  https://t.co/4UCzRjE4uT",
+          "url": "https://x.com/Outkick/status/2126420558321533379",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126419201221136709",
+          "created_at": "2026-11-27T20:53:39.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Burning down the door to show outsiders what's going on inside -- isn't that something the media should be applauding? \n\nSo why is everyone so mad at Aaron Rodgers?\n\n@kayceeunplugged column on exposed NFL insiders.\nhttps://t.co/xuNf0RinEI",
+          "url": "https://x.com/SportNState/status/2126419201221136709",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126417919219286283",
+          "created_at": "2026-11-27T20:48:33.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: China’s non-monetary gold imports rose to a record $209.0 billion in the first 10 months of the year.\n\nThis represents a record ~8% of China’s total imports over the same period.\n\nBy comparison, full-year 2025 gold imports totaled $96.5 billion.\n\nIn October alone, https://t.co/vlD4EZXznQ",
+          "url": "https://x.com/KobeissiLetter/status/2126417919219286283",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126417215620775936",
+          "created_at": "2026-11-27T20:45:45.000Z",
+          "author_name": "SightBringer",
+          "author_handle": "_The_Prophet__",
+          "text": "⚡Signal Core is #1 rising in crypto on Substack again.\n\nThank you to everyone reading along through this market. Hope you all had a great Thanksgiving.\n\nA lot more to come. https://t.co/gLxWn5Cl0b",
+          "url": "https://x.com/_The_Prophet__/status/2126417215620775936",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126417024440270961",
+          "created_at": "2026-11-27T20:45:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "RFK JR. SOUNDS THE ALARM ON WHAT HE CALLS THE MUSLIM BROTHERHOOD'S GENOCIDAL IDEOLOGY!\n\nSpeaking with Steve Gruber, Kennedy argues the organization's hostility toward Jews goes far beyond the Israeli-Palestinian conflict.\n\n“Genocidal Jew hatred is at the core of its ideology.” https://t.co/q06cv8dhnT",
+          "url": "https://x.com/RealAmVoice/status/2126417024440270961",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126415725548228614",
           "created_at": "2026-11-27T20:39:50.000Z",
@@ -229,16 +309,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126406415946244161",
-          "created_at": "2026-11-27T20:02:50.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DOWNLOAD NOW at https://t.co/21oaE7ckUb",
-          "url": "https://x.com/RealAmVoice/status/2126406415946244161",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126405164315910354",
           "created_at": "2026-11-27T19:57:52.000Z",
           "author_name": "Sport & State",
@@ -289,16 +359,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126394627062104446",
-          "created_at": "2026-11-27T19:16:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Rush Limbaugh. Charlie Kirk. Two voices we deeply miss this Thanksgiving.\n\n@JackPosobiec and @StephenLimbaugh share a powerful moment reflecting on the legacies of two conservative icons, the timeless values they championed and the importance of giving thanks to God.\n\n“Every day https://t.co/IdDUl13fLv",
-          "url": "https://x.com/RealAmVoice/status/2126394627062104446",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126387343246393709",
           "created_at": "2026-11-27T18:47:03.000Z",
           "author_name": "Open Source Intel",
@@ -329,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126382738395861121",
-          "created_at": "2026-11-27T18:28:45.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Ole Miss LB Luke Ferrelli with an excessive head butt 😂 https://t.co/s5BocP7zRf",
-          "url": "https://x.com/SportNState/status/2126382738395861121",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126375863121834116",
           "created_at": "2026-11-27T18:01:26.000Z",
           "author_name": "The Kobeissi Letter",
@@ -357,16 +407,6 @@
           "url": "https://x.com/_Investinq/status/2126371759989641284",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126365478000214362",
-          "created_at": "2026-11-27T17:20:10.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "AEW's @GabeKidd0115 missed his flight and needed a Thanksgiving plate.\n\nA stranger in Nebraska answered the call and welcomed him into his home.\n\nThis is what Thanksgiving is all about. \nhttps://t.co/As9j2xaMNc",
-          "url": "https://x.com/Outkick/status/2126365478000214362",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126365027406172167",
@@ -397,16 +437,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126360829151068191",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126359924989145199",
-          "created_at": "2026-11-27T16:58:06.000Z",
-          "author_name": "SightBringer",
-          "author_handle": "_The_Prophet__",
-          "text": "⚡️Interesting https://t.co/4I05m5iPTi",
-          "url": "https://x.com/_The_Prophet__/status/2126359924989145199",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126357655161606324",
@@ -457,16 +487,6 @@
           "url": "https://x.com/_Investinq/status/2126343460320149747",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126327729712968167",
-          "created_at": "2026-11-27T14:50:10.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Nvidia stock, $NVDA, erases gains and turns negative on the day after Bloomberg claims that Nvidia's Blackwell chips have been found at a site in China linked to Alice Huang. https://t.co/L9uwBs0ZIl",
-          "url": "https://x.com/KobeissiLetter/status/2126327729712968167",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126321424155525496",
@@ -605,16 +625,6 @@
           "author_handle": "MattWalshBlog",
           "text": "This is probably the most important point I’ve ever made https://t.co/Xk81Ww438T",
           "url": "https://x.com/MattWalshBlog/status/2125782865455751359",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125766936109646067",
-          "created_at": "2026-11-26T01:41:47.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Its soooooo over\n\n2027 is going to be fucking insane https://t.co/jKDJEx0C0N",
-          "url": "https://x.com/Timcast/status/2125766936109646067",
           "verified": true,
           "verified_type": "blue"
         },
@@ -827,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Mason Rudolph hits DK Metcalf for touchdown pass as Steelers take 14-0 lead over Broncos",
-          "summary": "More than anyone else, the two players the Steelers needed to step up today were Mason Rudolph and DK Metcalf. And they did just that in the first quarter against the Broncos.",
+          "headline": "Alex Singleton tackles Jaylen Warren in the end zone for a safety as Steelers lead 14-5",
+          "summary": "On Black Friday in Pittsburgh, the defenses are outplaying the offenses. The latest big play on defense came via Broncos linebacker Alex Singleton, who tackled Steelers running back Jaylen Warren in the end zone for a safety.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/mason-rudolph-hits-dk-metcalf-203927483.html"
+          "url": "https://sports.yahoo.com/nfl/articles/alex-singleton-tackles-jaylen-warren-210038680.html"
         },
         {
-          "headline": "Egg Bowl 2026: Winners, Losers from Ole Miss Rebels’ 41-17 Victory Over Mississippi State",
-          "summary": "Rivalry Week kicked off on Friday, with the 2026 Egg Bowl between the Mississippi State Bulldogs and Ole Miss Rebels in Oxford. Mississippi has dominated this in-state battle as of late, winning the last three and it is 67-46-6 overall entering today, with Friday afternoon’s victory over the Bulldogs adding to that historic excellence over its biggest rival.",
+          "headline": "Sayvia Sellers scores 16 points and well-balanced No. 16 Washington women top Oklahoma State 73-62",
+          "summary": "FORT MYERS, Fla. (AP) — Sayvia Sellers scored 16 points, two teammates had double-doubles and No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/egg-bowl-2026-winners-losers-202855624.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/sayvia-sellers-scores-16-points-205915814.html"
         },
         {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
@@ -899,16 +909,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "William Shatner Responds After ‘Halloween’ Director John Carpenter Called Him “A Piece Of S***” For Snub",
+          "summary": "William Shatner is speaking out after Halloween director John Carpenter recently called him “piece of s***” for allegedly ignoring him when he tried to introduce himself to the Star Trek legend at an event in Orlando, Fla. “This guy, he’s sitting in the greenroom, on his phone like this [scrolling].",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380/"
+        },
+        {
           "headline": "‘The Hunting Wives’ Pays Tribute To Lionsgate Exec Salli Newman",
           "summary": "Viewers of the second season of The Hunting Wives, currently streaming on Netflix, will find a poignant message at the end of the season finale: “In Loving Memory of Salli Newman.” Newman was the senior vice president of television production at Lionsgate, producer of The Hunting Wives. She died of a heart attack on December […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/salli-newman-hunting-wives-tribute-1237234359/"
-        },
-        {
-          "headline": "Justin Timberlake Visits Jimmy Fallon And Shares Thanksgiving Dish On New Apple TV Doc Series, How David Bowie Influenced ‘SexyBack’ & Performs Dance Classics",
-          "summary": "Thursday was a dual celebration for Justin Timberlake’s visit with Jimmy Fallon on NBC’s Tonight Show: There was Thanksgiving, of course, which you can see in the photo above was most certainly not ignored by the two old friends, and then for the former boy bander the visit was an opportunity to celebrate the 20th […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/justin-timberlake-jimmy-fallon-thanksgiving-1237234321/"
         },
         {
           "headline": "Huw Edwards Channel 4 Doc Slammed by U.K. Prime Minister: ‘We Have No Interest in Hearing What He Has to Say’",
@@ -917,16 +927,16 @@
           "url": "https://variety.com/2026/tv/global/huw-edwards-channel-4-doc-slammed-uk-prime-minister-1236959473/"
         },
         {
+          "headline": "Justin Timberlake Rolls Back the Years on Silly, Sexy and Sincere Appearance on ‘Tonight Show’",
+          "summary": "The singer performed a medley of his hits, took part in some dumb sketches and bared his soul about why he agreed to take part in an upcoming Apple TV docuseries.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-tonight-show-medley-documentary-series-tv-1236764103/"
+        },
+        {
           "headline": "South African President Cyril Ramaphosa Gives Speech at Canal+ Academy Training Program Launch: ‘You Are Living My Dream’",
           "summary": "South African President Cyril Ramaphosa on Friday attended the launch of French media giant Canal+ Group’s Canal+ Academy at MultiChoice City in Johannesburg. The new pan-African initiative will expand training and professional development opportunities for local aspiring professionals in the creative industries.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/global/south-african-president-canal-plus-academy-training-program-1236959278/"
-        },
-        {
-          "headline": "Candace Cameron Bure Says She Gets “Substantial” Residuals From ‘Full House’",
-          "summary": "The actress played D.J. Tanner throughout the show's run from 1987 to 1995, and later reprised her role in the sitcom’s spin-off 'Fuller House.'",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/candace-cameron-bure-substantial-residuals-full-house-1236764049/"
         }
       ]
     },
@@ -1003,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T15:44:09-05:00"
+  "updatedAt": "2026-11-27T16:10:39-05:00"
 }
