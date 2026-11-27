@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
+          "headline": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+          "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "High school band raises $350K to stay for Macy's Thanksgiving parade",
+          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
+        },
+        {
           "headline": "Trump claims \"fake economic numbers\" were released before election",
           "summary": "President Trump demanded an investigation into the Commerce Department's recent revising of the GDP, which happens routinely.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/trump-thanksgiving-commerce-department-gdp-investigation/"
         },
         {
-          "headline": "Powerful Thanksgiving Day storm causes flooding, power outages",
-          "summary": "The storm hammered sections of the East Coast with torrential rain, high winds and flooding, knocking out power to hundreds of thousands of customers.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
-        },
-        {
-          "headline": "Huw Edwards gives first interviews since child abuse image conviction",
-          "summary": "Minister Anna Turley said she was \"deeply uncomfortable\" with the interviews, while Channel 4 has insisted it \"holds Edwards to account\".",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
-          "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "WATCH: Tips for navigating the holiday travel rush",
-          "summary": "The Points Guy Clint Henderson provides some tips and tricks travelers can use to navigate the Thanksgiving weekend.",
+          "headline": "Thanksgiving storm damages buildings, floods streets, causes power outages",
+          "summary": "Strong winds ripped the roof off a building in Maryland, as an extreme storm began to move up the East Coast on Thanksgiving morning.",
           "source": "ABC News",
-          "url": "https://abcnews.com/video/138472441/"
+          "url": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273"
         }
       ]
     },
@@ -78,6 +78,96 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126122192110784541",
+          "created_at": "2026-11-27T01:13:26.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "This is the most Cowboys game possible.",
+          "url": "https://x.com/ClayTravis/status/2126122192110784541",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126121943132692727",
+          "created_at": "2026-11-27T01:12:27.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "JOE MILTON \n\nWE ARE ALL WITNESSES https://t.co/o6lq4Hcmhi",
+          "url": "https://x.com/Outkick/status/2126121943132692727",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126120069834928428",
+          "created_at": "2026-11-27T01:05:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "RAV THANKSGIVING  SPECIALS https://t.co/ii0oCbIwMM",
+          "url": "https://x.com/RealAmVoice/status/2126120069834928428",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126118814958207040",
+          "created_at": "2026-11-27T01:00:01.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Birthrate COLLAPSE Causing \"Friendsgiving\" Emergence, Thanksgiving Special\n@rondeaulivia @rebekazeljko @RichieMcGinniss @philthatremains https://t.co/iIkzqazaYK",
+          "url": "https://x.com/Timcast/status/2126118814958207040",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126116319573704780",
+          "created_at": "2026-11-27T00:50:06.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Ex-CIA officer Mike Baker says the CIA and ODNI hackers appear to have used an AI tool called ARTEX, and AI is speeding up cyberattacks\n\n\"China is the number one perpetrator of cyber shenanigans\"\n\n\"AI is only compounding this problem\"\n\n\"They've been poking and prodding and https://t.co/lLCR0pc3B6",
+          "url": "https://x.com/_Investinq/status/2126116319573704780",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126115864739262709",
+          "created_at": "2026-11-27T00:48:18.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Joe Milton is making himself a ton of money tonight.",
+          "url": "https://x.com/ClayTravis/status/2126115864739262709",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126115800142483467",
+          "created_at": "2026-11-27T00:48:02.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "BAZOOKA JOE ANSWERS DAK\n\nCowboys defense can’t stop a nosebleed https://t.co/lbT2cbsDcV",
+          "url": "https://x.com/Outkick/status/2126115800142483467",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126114568061538638",
+          "created_at": "2026-11-27T00:43:08.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "Inflationary is intensifying in Japan:\n\nJapan’s Services Producer Price Index (SPPI) jumped +4.2% YoY in October, its largest annual increase since 1990, and far above expectations of +3.6%.\n\nThis index tracks domestic prices businesses charge each other for services, and serves https://t.co/EizW3bumTw",
+          "url": "https://x.com/KobeissiLetter/status/2126114568061538638",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126114399630881247",
+          "created_at": "2026-11-27T00:42:28.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Talk about putting your body on the line https://t.co/AmJPW387Ab",
+          "url": "https://x.com/Outkick/status/2126114399630881247",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126112658919506061",
           "created_at": "2026-11-27T00:35:33.000Z",
@@ -127,16 +217,6 @@
           "url": "https://x.com/_Investinq/status/2126110029476708661",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126109352788693467",
-          "created_at": "2026-11-27T00:22:25.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Say what you want about the Eagles, but Bazooka Joe is a fun watch at least https://t.co/lEGHBgij57",
-          "url": "https://x.com/Outkick/status/2126109352788693467",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126104462385135922",
@@ -199,26 +279,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126096160389501167",
-          "created_at": "2026-11-26T23:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "DR. MCCULLOUGH: PREPARE FOR AN EMERGENCY BEFORE IT HAPPENS\n\nWith recent service outages and uncertainty surrounding potential national security threats, @P_McCulloughMD stresses the importance of medical preparedness.\n\nThe Wellness Company’s emergency medical kits are designed to https://t.co/oaDsrLxHNs",
-          "url": "https://x.com/RealAmVoice/status/2126096160389501167",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126095480543117373",
-          "created_at": "2026-11-26T23:27:18.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Javonte Williams already has 3 TD’s\n\nThis games getting ugly https://t.co/4pk1hzqC8q",
-          "url": "https://x.com/Outkick/status/2126095480543117373",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126091152407531656",
           "created_at": "2026-11-26T23:10:06.000Z",
           "author_name": "StockMarket.News",
@@ -229,16 +289,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126091027635114320",
-          "created_at": "2026-11-26T23:09:36.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "“IF YOU WANT A F*CKIN STANKY LEG YOU’LL GET A STANKY LEG!”  https://t.co/P2uK2I0UKX",
-          "url": "https://x.com/Outkick/status/2126091027635114320",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126086064679047463",
           "created_at": "2026-11-26T22:49:53.000Z",
           "author_name": "The Kobeissi Letter",
@@ -247,16 +297,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126086064679047463",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126084861861781815",
-          "created_at": "2026-11-26T22:45:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "BondCliQ CEO Chris White says AI hyperscalers are now 13% of the entire corporate bond market\n\n\"Right now, AI hyperscalers are 13% of the overall corporate bond market. That is such a massive number, it's mind-boggling\"\n\n\"There are no suckers out here\"\n\n\"Oracle is the one with https://t.co/7m2peDxgaN",
-          "url": "https://x.com/_Investinq/status/2126084861861781815",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126083988905230502",
@@ -499,26 +539,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125998543437516910",
-          "created_at": "2026-11-26T17:02:06.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "They even X’d out my head?!",
-          "url": "https://x.com/ClayTravis/status/2125998543437516910",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125997278842466512",
-          "created_at": "2026-11-26T16:57:05.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I can’t believe this is up on the @HardRockBet app today. Outrageous. The HR file just keeps getting more extensive. https://t.co/6AYrouZTDy",
-          "url": "https://x.com/ClayTravis/status/2125997278842466512",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125987669205254402",
           "created_at": "2026-11-26T16:18:53.000Z",
           "author_name": "Glenn Beck",
@@ -527,16 +547,6 @@
           "url": "https://x.com/glennbeck/status/2125987669205254402",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2125983454097543386",
-          "created_at": "2026-11-26T16:02:08.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: President Trump issues a Thanksgiving message and claims that fake US economic data was released prior to the US Midterm Elections.\n\n“It should be immediately investigated, Trump says. https://t.co/TU0Mnnj8kW",
-          "url": "https://x.com/KobeissiLetter/status/2125983454097543386",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2125959386514260377",
@@ -595,26 +605,6 @@
           "author_handle": "Timcast",
           "text": "Its soooooo over\n\n2027 is going to be fucking insane https://t.co/jKDJEx0C0N",
           "url": "https://x.com/Timcast/status/2125766936109646067",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125756423187661042",
-          "created_at": "2026-11-26T01:00:00.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "American Empire Is COLLAPSING, Its A SUPERSTORM of Chaos\n\n@JeremyRyanSlate @mattmiller757 @philthatremains @realTateBrown https://t.co/kjXdZaBNlc",
-          "url": "https://x.com/Timcast/status/2125756423187661042",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125752144041329111",
-          "created_at": "2026-11-26T00:43:00.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Horrible scenes unfolding in Orlando, Florida tonight.\n\nNow, 50 to 200 animals are missing and there’s fears they were taken out of spite by Muslims who may slaughter the animals who were state evidence and were set to be seized from the Islamic Halal slaughterhouse today. \n\nI https://t.co/q11MhM7UoN",
-          "url": "https://x.com/LauraLoomer/status/2125752144041329111",
           "verified": true,
           "verified_type": "blue"
         },
@@ -809,16 +799,16 @@
           "url": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/"
         },
         {
-          "headline": "High school band raises $350K to stay for Macy's Thanksgiving parade",
-          "summary": "Other marching bands from around the U.S. are also raising funds to cover the cost of staying in New York City after the parade was rescheduled for Saturday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-parade-marching-bands-delay-cost/"
-        },
-        {
           "headline": "China and other US trading partners hit back at Trump's new tariff plans",
           "summary": "China, Japan, and other U.S. trading partners have protested planned tariff hikes by President Donald Trump's administration",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214"
+        },
+        {
+          "headline": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
+          "summary": "Shares have advanced in Europe and Asia while U.S. markets are closed for the Thanksgiving holiday",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/global-stocks-rise-tech-shares-rebound-us-closes-138462620"
         }
       ]
     },
@@ -827,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Eagles vs. Cowboys, live updates: Joe Milton going nuclear in upset bid",
+          "summary": "Happy Thanksgiving, Philadelphia Eagles fans. Let’s see if the Birds can score an upset win against the Dallas Cowboys at AT&T Stadium in Week 12 NFL action.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/philadelphia-eagles-vs-dallas-cowboys-205917262.html"
+        },
+        {
+          "headline": "Ames scores 19 as No. 9 Tennessee beats Iowa State 75-64 to reach the Players Era title game",
+          "summary": "Dai Dai Ames scored 19 points and No. 9 Tennessee beat Iowa State 75-64 to advance to the championship game of the Players Era tournament",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/ames-scores-19-9-tennessee-beats-iowa-state-138473399"
+        },
+        {
+          "headline": "Fears' 20 points, 10 rebounds help No. 11 Michigan State top Arkansas 70-67 at Thanksgiving Classic",
+          "summary": "Jeremy Fears Jr. had 20 points and 10 assists as No.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/fears-20-points-10-rebounds-11-michigan-state-138473495"
+        },
+        {
+          "headline": "Jordan Scott Makes Impressive Return as Michigan State Edges Arkansas",
+          "summary": "Tom Izzo and Michigan State beat Arkansas 70-67 on Thanksgiving Day at Little Caesars Arena in Detroit. The Spartans had forward Jordan Scott return after missing their last game against Detroit Mercy and being questionable to start before game time , per reporter Chris Solari.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/jordan-scott-makes-impressive-return-004000584.html"
+        },
+        {
           "headline": "Studs and duds from Bears' thrilling comeback win vs. Lions",
           "summary": "The Chicago Bears mounted an impressive 39-35 fourth-quarter comeback win against the Detroit Lions, improving to 9-2. They've now won six straight games, earned their first victory over an NFC North team this season and took sole possession of first place in the division.",
           "source": "Yahoo Sports",
           "url": "https://sports.yahoo.com/nfl/articles/studs-duds-bears-thrilling-comeback-003713059.html"
-        },
-        {
-          "headline": "Lions-Bears takeaways as Detroit drops Thanksgiving thriller",
-          "summary": "Welp, that was a heartbreaker. The Detroit Lions fell to 8-3 after ending up on the wrong end of a 39-35 Thanksgiving thriller against the Chicago Bears (9-2).",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/lions-bears-takeaways-detroit-drops-003030279.html"
-        },
-        {
-          "headline": "Henderson, Allen power No. 17 Miami to a 97-70 win over Michigan at Players Era 16 tournament",
-          "summary": "Shelton Henderson had 25 points, 10 rebounds and six assists as No. 17 Miami cruised past Michigan 97-70 in a consolation-round game of the Players Era 16 tournament on Thursday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/henderson-allen-power-17-miami-97-70-win-138473156"
-        },
-        {
-          "headline": "Money Williams scores 27, scores with 2 seconds left as BC beats UCF 75-73 at ESPN Events invite",
-          "summary": "Money Williams made 10 of 10 from the free-throw line, finished with 27 points and scored with 2 seconds left to help Boston College beat UCF 75-73 in a battle of cold-shooting teams at the ESPN Events Invitational - Magic Bracket",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/money-williams-scores-27-scores-2-seconds-left-138472528"
-        },
-        {
-          "headline": "Three takeaways from Michigan State basketball's win over Arkansas",
-          "summary": "On Thanksgiving night, No. 11 Michigan State basketball was able to stave off a surge from the Arkansas Razorbacks and head coach John Calipari to move to 6-1 on the season .",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/three-takeaways-michigan-state-basketballs-002010729.html"
         }
       ]
     },
@@ -899,6 +889,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘Blade Runner 2099’ Boss Silka Luisa on What the Finale Means for Replicants and the Fate of Cora and Olwen",
+          "summary": "SPOILER ALERT: This article contains major spoilers for the finale of “Blade Runner 2099,” now streaming on Prime Video. In the finale of “Blade Runner 2099,” the future of humanity is anything but certain.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/blade-runner-2099-finale-cora-olwen-fates-1236958380/"
+        },
+        {
           "headline": "‘Percy Jackson’s Courtney B. Vance On “Doing Right By” Late Lance Reddick After Taking Over Zeus Role",
           "summary": "As the gods and demigods of Percy Jackson and the Olympians return for Season 3, Courtney B. Vance had a mighty toga to fill.",
           "source": "Deadline",
@@ -921,12 +917,6 @@
           "summary": "Ford Racing tapped Matt Damon, star of “Ford v Ferrari,” to introduce the all-new Ford GT41 Hypercar in a new ad directed by filmmaker Zack Snyder. The ad is slated to air during CBS’s broadcast of the Detroit Lions-Chicago Bears Thanksgiving Day NFL game, which starts at 1 p.m.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/matt-damon-ford-racing-go-like-hell-ad-zack-snyder-1236958375/"
-        },
-        {
-          "headline": "BBC’s Antisemitism Crisis Represents an Unprecedented Chapter for the World’s Most Trusted News Organization",
-          "summary": "It is a dark day for the BBC. On Thursday, government adviser Lord John Mann announced he is launching an investigation into alleged antisemitism at the broadcaster.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/global/bbc-antisemitism-crisis-1236958965/"
         }
       ]
     },
@@ -1003,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-26T19:43:03-05:00"
+  "updatedAt": "2026-11-26T20:15:01-05:00"
 }
