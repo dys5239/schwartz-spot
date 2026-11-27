@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Iowa lead detonation results expected soon, EPA says",
+          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
+        },
+        {
+          "headline": "Power being slowly restored as heavy Thanksgiving storm eases",
+          "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/"
+        },
+        {
           "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
           "summary": "New York City Mayor Zohran Mamdani underwent a \"successful\" surgery on Friday for his torn Achilles tendon.",
           "source": "ABC News",
@@ -54,22 +66,10 @@
           "url": "https://abcnews.com/Politics/wireStory/ny-senate-leader-andrea-stewart-cousins-woman-role-138488279"
         },
         {
-          "headline": "OpenAI countersues Apple over allegations of stealing trade secrets",
-          "summary": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
-        },
-        {
           "headline": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
           "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Catherine's emotional cancer documentary strips away the stiff upper lip",
-          "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126453063091110355",
+          "created_at": "2026-11-27T23:08:12.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "The majority of Americans are not saving enough for their retirement:\n\nJust 14% of participants in Vanguard-managed 401(k) plans contributed the maximum to their plans in 2025.\n\nAmong those earning $150,000 or more, 51% contributed the maximum, compared with 10% of those earning https://t.co/DZaS7gQRfK",
+          "url": "https://x.com/KobeissiLetter/status/2126453063091110355",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126452708626546809",
+          "created_at": "2026-11-27T23:06:47.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Ole Miss QB Trinidad Chambliss was seen soaking it all in at an empty Vaught-Hemingway Stadium nearly two hours after the Rebels defeated Mississippi State 41-17 in the Egg Bowl.\n\nOne of the best in Ole Miss history 🇹🇹 https://t.co/OVZLhoY2RH",
+          "url": "https://x.com/SportNState/status/2126452708626546809",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126447345894055937",
           "created_at": "2026-11-27T22:45:29.000Z",
@@ -409,16 +429,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126411239232610730",
-          "created_at": "2026-11-27T20:22:00.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "No. 13 Iowa HAMMERS No. 25 Nebraska, and potentially clinches a spot in the Big Ten Title Game. https://t.co/GaZPNwrIIw",
-          "url": "https://x.com/SportNState/status/2126411239232610730",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126401401831985156",
           "created_at": "2026-11-27T19:42:55.000Z",
           "author_name": "The Kobeissi Letter",
@@ -465,16 +475,6 @@
           "author_handle": "KobeissiLetter",
           "text": "BREAKING: The S&amp;P 500 rises +1.6% to close at its highest level since November 18th.\n\nThe index added +$1 trillion worth of market cap today. https://t.co/dWAHCOHAJr",
           "url": "https://x.com/KobeissiLetter/status/2126375863121834116",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126360829151068191",
-          "created_at": "2026-11-27T17:01:42.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Anthropic stock, $ANT, extends gains to over +11% as the S&amp;P 500 hits a new high of the day.\n\nAnthropic is now nearing $92/share, up +11% from its IPO price. https://t.co/tAf0R6Ii5d",
-          "url": "https://x.com/KobeissiLetter/status/2126360829151068191",
           "verified": true,
           "verified_type": "business"
         },
@@ -791,6 +791,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "OpenAI countersues Apple over allegations of stealing trade secrets",
+          "summary": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
+        },
+        {
           "headline": "Norwegian budget airline Norse Atlantic files for bankruptcy after halting flights",
           "summary": "A Norwegian budget airline has filed for bankruptcy after halting flights and ticket sales",
           "source": "ABC News",
@@ -813,12 +819,6 @@
           "summary": "Democrats are looking to blunt some of President Donald Trump's tariffs as they take control of Congress",
           "source": "ABC News",
           "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
-        },
-        {
-          "headline": "How Nestlé chefs are making meals to target GLP-1 users",
-          "summary": "Major chains and food companies are trying new products targeted at GLP-1 users, estimated at about 11% of the U.S. population.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/nestle-test-kitchen-glp-1-meals/"
         }
       ]
     },
@@ -827,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Xabi Alonso under huge pressure as Chelsea slip to dispiriting defeat at Nottingham Forest",
-          "summary": "Chelsea slumped to a third successive Premier League defeat as they went down 3-2 at Nottingham Forest to mount the pressure on boss Xabi Alonso . The London club were second-best to Forest, who won it through Igor Jesus’ brilliant opener and a Morgan Gibbs-White double after the break.",
+          "headline": "Last-gasp McMenamin earns Glentoran draw with Larne",
+          "summary": "Irish Premiership Glentoran 1 - 1 Larne FT Late drama at the Oval saw Conor McMenamin rescue a 1-1 draw for Glentoran against Larne. Paul O'Neill's penalty two minutes from time gave Larne the lead but it was cancelled out by McMenamin's strike in the sixth minute of added time.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/xabi-alonso-under-huge-pressure-223255633.html"
+          "url": "https://sports.yahoo.com/soccer/articles/last-gasp-mcmenamin-earns-glentoran-220829940.html"
         },
         {
-          "headline": "Five-try Ireland beat Australia in autumn finale",
-          "summary": "Nations Championship Ireland (17) 38 Tries: Henshaw, Timoney, Baloucoune, McNabney 2 Cons: Prendergast 5 Pen: Prendergast Australia (7) 14 Tries: Williams, Thomas Cons: Gordon 2 Ireland secured a fifth-place finish in the inaugural Nations Championship thanks to a 38-14 victory over Australia in London. While last week's 20-17 win over South Africa was…",
+          "headline": "Broncos drop to 8-3 following ugly 27-5 Black Friday loss to Steelers",
+          "summary": "The Denver Broncos (8-3) were thoroughly whipped by the Pittsburgh Steelers (7-4) 27-5 in Week 12 of the 2026 NFL season on Black Friday. It was all Pittsburgh in the first quarter.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/general/articles/five-try-ireland-beat-australia-221750798.html"
+          "url": "https://sports.yahoo.com/nfl/articles/broncos-drop-8-3-following-225954288.html"
         },
         {
           "headline": "Asim Djulovic’s 20 points help Butler take down Bellarmine 92-56",
@@ -845,10 +845,10 @@
           "url": "https://abcnews.com/Sports/wireStory/asim-djulovics-20-points-butler-bellarmine-92-56-138488289"
         },
         {
-          "headline": "Vanderbilt’s bench-clearing blowout ends 111-56 as Southern gets buried early",
-          "summary": "Ace Glass and Bangot Dak each scored 18 points leading six Commodores in double figures as Vanderbilt routed Southern 111-56 Friday afternoon to remain undefeated",
+          "headline": "Jayden Reid scores 24 and hits 2 late free throws to help No. 24 Memphis hold off Wake Forest 88-85",
+          "summary": "Jayden Reid scored 24 points and his two free throws with 5 seconds left helped No. 24 Memphis hold off Wake Forest 88-85 on Friday in the Championship Series at the Battle 4 Atlantis",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/vanderbilts-bench-clearing-blowout-ends-111-56-southern-138487657"
+          "url": "https://abcnews.com/Sports/wireStory/jayden-reid-scores-24-hits-2-late-free-138487747"
         },
         {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
@@ -924,7 +924,7 @@
         },
         {
           "headline": "‘The Challenge’ Alum Tyler Duckworth’s Cause Of Death Revealed",
-          "summary": "We now have the official cause of death for MTV’s The Challenge alum Tyler Duckworth. The reality TV personality died from hypertensive cardiovascular disease, according to the North Dakota State Forensic Examiner’s Office as reported by TMZ.",
+          "summary": "We now have the official cause of death for MTV’s The Challenge alum Tyler Duckworth. The reality TV personality died from hypertensive cardiovascular disease, the North Dakota State Forensic Examiner’s Office confirmed to Deadline.",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/tyler-duckworth-cause-of-death-the-challenge-mtv-1237234390/"
         }
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T17:46:25-05:00"
+  "updatedAt": "2026-11-27T18:11:51-05:00"
 }
