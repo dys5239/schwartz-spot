@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
+          "headline": "U.S. Air Force cloud platform breached by hackers, report says",
+          "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
+        },
+        {
           "headline": "Iowa lead detonation results expected soon, EPA says",
           "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
-        },
-        {
-          "headline": "Power being slowly restored as heavy Thanksgiving storm eases",
-          "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/"
         },
         {
           "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126462392628654522",
+          "created_at": "2026-11-27T23:45:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Ariel Investments vice chair Charlie Bobrinskoy says the AI trade has gone from bubble to modestly overpriced, and he still won't touch Nvidia at 9 times earnings\n\n\"On a scale of 1 to 10, I thought that AI stocks and technology were at an 8, but now that's probably down to a 6\" https://t.co/eV8qYzGL3n",
+          "url": "https://x.com/_Investinq/status/2126462392628654522",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126459806730870948",
+          "created_at": "2026-11-27T23:35:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "SEAN SPICER TO REPUBLICANS: THE CLOCK IS TICKING, ‘DO YOUR JOB’\n\n@seanspicer says Republicans cannot afford to waste another day before Democrats take control on January 3, stressing the urgency of confirming nominees and codifying President Trump’s victories into law. https://t.co/coVqrs2D2i",
+          "url": "https://x.com/RealAmVoice/status/2126459806730870948",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126456288775164179",
+          "created_at": "2026-11-27T23:21:01.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CRAZY FLOODING in New Jersey from coastal storm! https://t.co/SyCHtI786Z",
+          "url": "https://x.com/RealAmVoice/status/2126456288775164179",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126454806386806895",
+          "created_at": "2026-11-27T23:15:08.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "FCC Chairman Brendan Carr says SpaceX's orbital data center satellites start going up next year, after the FCC green lit up to 1 million of them\n\n\"We have about almost 30,000 satellites, perhaps, that have gone up in the history of humanity, and we're now giving the green light https://t.co/vvAr7wGMxh",
+          "url": "https://x.com/_Investinq/status/2126454806386806895",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126453063091110355",
           "created_at": "2026-11-27T23:08:12.000Z",
@@ -359,32 +399,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126417024440270961",
-          "created_at": "2026-11-27T20:45:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "RFK JR. SOUNDS THE ALARM ON WHAT HE CALLS THE MUSLIM BROTHERHOOD'S GENOCIDAL IDEOLOGY!\n\nSpeaking with Steve Gruber, Kennedy argues the organization's hostility toward Jews goes far beyond the Israeli-Palestinian conflict.\n\n“Genocidal Jew hatred is at the core of its ideology.” https://t.co/q06cv8dhnT",
-          "url": "https://x.com/RealAmVoice/status/2126417024440270961",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126415580823757101",
           "created_at": "2026-11-27T20:39:16.000Z",
           "author_name": "SightBringer",
           "author_handle": "_The_Prophet__",
           "text": "⚡️Before corporations start firing accountants, they'll stop renting them.\n\nThis is why the staffing industry faces a much greater structural threat from AI than most investors realize.\n\nCompanies like Robert Half and Randstad have spent decades monetizing the gap between what a https://t.co/imPZNIhRHr",
           "url": "https://x.com/_The_Prophet__/status/2126415580823757101",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126413294034649244",
-          "created_at": "2026-11-27T20:30:10.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Shopify president Harley Finkelstein says Shopify merchants are doing $2.3 million in sales per minute on Black Friday, and this is the first real agentic Black Friday\n\n\"We're seeing about $2.3 million in sales per minute, but 27,000 orders per minute\"\n\n\"We're not seeing more https://t.co/T0lpzcBBgv",
-          "url": "https://x.com/_Investinq/status/2126413294034649244",
           "verified": true,
           "verified_type": "blue"
         },
@@ -419,16 +439,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126411365548224710",
-          "created_at": "2026-11-27T20:22:31.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Major Second Amendment showdown heads to the Supreme Court!\n\nSCOTUS will hear arguments December 2 over whether states and local governments can ban AR-15-style rifles, which an estimated 26 MILLION Americans own.\n\nThe Trump administration is backing gun rights groups in a legal https://t.co/waaSqnIErU",
-          "url": "https://x.com/RealAmVoice/status/2126411365548224710",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126401401831985156",
           "created_at": "2026-11-27T19:42:55.000Z",
           "author_name": "The Kobeissi Letter",
@@ -455,16 +465,6 @@
           "author_handle": "Osint613",
           "text": "Fans clashed in the stands today during an Iraqi league football match. The game pitted Al-Karma, a club from the predominantly Sunni western province of Anbar, against Ghaz al-Shamal of Kirkuk, a northern city also identified with the Kurds. https://t.co/GMLPaJMdam",
           "url": "https://x.com/Osint613/status/2126385428492079507",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126384141096923194",
-          "created_at": "2026-11-27T18:34:20.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "The S&amp;P 500 just posted its biggest weekly gain since April 2025\n\nWall Street closed the Black Friday half day higher, with the S&amp;P 500 up 1.61% to 7,298.34\n\nThe Nasdaq jumped 2.31% to 24,129.50 and the Dow added 597.69 points (+1.19%) to 50,780.64\n\nFor the week, the S&amp;P 500 rose https://t.co/fnB3CL1STG",
-          "url": "https://x.com/_Investinq/status/2126384141096923194",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,6 +755,18 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media",
+          "summary": "Civil rights attorneys claim the Trump administration is abusing the grand jury process in an effort to unmask social media users anonymously criticizing its immigration enforcement tactics",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/aclu-seeks-court-order-blocking-trump-administrations-efforts-138488643"
+        },
+        {
+          "headline": "Lions have long break and hope to get healthy after falling out of division lead with loss to Bears",
+          "summary": "The Detroit Lions will have more than a week off before their next game",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/lions-long-break-hope-healthy-after-falling-division-138489463"
+        },
+        {
           "headline": "With Abbott out, what does the future look like for data centers in Texas?",
           "summary": "Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in.",
           "source": "NPR",
@@ -771,18 +783,6 @@
           "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
-        },
-        {
-          "headline": "Sen. Deb Fischer's husband died by suicide, her office says",
-          "summary": "\"His kindness, integrity, and quiet strength left a lasting impression on all who knew him,\" Sen. Deb Fischer said of her late husband, Bruce.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/"
-        },
-        {
-          "headline": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department",
-          "summary": "President Donald Trump is suggesting without evidence a conspiracy within the government to report upwardly revised economic growth figures after the midterm elections that were disastrous for Republicans",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/trump-calls-gdp-figures-fake-demands-investigation-commerce-138469221"
         }
       ]
     },
@@ -827,16 +827,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Last-gasp McMenamin earns Glentoran draw with Larne",
-          "summary": "Irish Premiership Glentoran 1 - 1 Larne FT Late drama at the Oval saw Conor McMenamin rescue a 1-1 draw for Glentoran against Larne. Paul O'Neill's penalty two minutes from time gave Larne the lead but it was cancelled out by McMenamin's strike in the sixth minute of added time.",
+          "headline": "Jeremy Elyzee's double-double sends UAB to 102-62 victory over D-II's Auburn Montgomery",
+          "summary": "BIRMINGHAM, Ala. (AP) — Jeremy Elyzee had 16 points and 13 rebounds in UAB’s 102-62 victory over Division II's Auburn Montgomery on Friday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/last-gasp-mcmenamin-earns-glentoran-220829940.html"
+          "url": "https://sports.yahoo.com/college-sports/articles/jeremy-elyzees-double-double-sends-233536803.html"
         },
         {
-          "headline": "Broncos drop to 8-3 following ugly 27-5 Black Friday loss to Steelers",
-          "summary": "The Denver Broncos (8-3) were thoroughly whipped by the Pittsburgh Steelers (7-4) 27-5 in Week 12 of the 2026 NFL season on Black Friday. It was all Pittsburgh in the first quarter.",
+          "headline": "Big second half gives Oregon a win over Maryland in Las Vegas",
+          "summary": "Welcome to the party Andrew Meadow. The transfer from Boise State came to Oregon as a scorer, and that hasn't quite come to fruition in the first six games of the season.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/broncos-drop-8-3-following-225954288.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/big-second-half-gives-oregon-232952871.html"
+        },
+        {
+          "headline": "Black Friday scorigami: Steelers-Broncos ends with final score that's never happened before in NFL history",
+          "summary": "The Broncos and Steelers combined to make NFL history on Black Friday",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/black-friday-scorigami-steelers-broncos-final-score-nfl-history/"
         },
         {
           "headline": "Asim Djulovic’s 20 points help Butler take down Bellarmine 92-56",
@@ -849,12 +855,6 @@
           "summary": "Jayden Reid scored 24 points and his two free throws with 5 seconds left helped No. 24 Memphis hold off Wake Forest 88-85 on Friday in the Championship Series at the Battle 4 Atlantis",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/jayden-reid-scores-24-hits-2-late-free-138487747"
-        },
-        {
-          "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
-          "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
         }
       ]
     },
@@ -863,16 +863,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Farhan Akhtar, Ashutosh Gowariker and Madhur Bhandarkar Look Back at ‘Dil Chahta Hai,’ ‘Lagaan’ and ‘Chandni Bar’ at 25",
+          "summary": "In 2001, three films challenged familiar conventions of Hindi-language cinema in very different ways. Farhan Akhtar’s “Dil Chahta Hai” offered a new screen language for friendship and young adulthood; Ashutosh Gowariker’s “Lagaan” turned a village cricket match into an epic about resistance; and Madhur Bhandarkar’s “Chandni Bar” took audiences into the…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/farhan-akhtar-ashutosh-gowariker-madhur-bhandarkar-iffi-goa-1236959836/"
+        },
+        {
           "headline": "BAFTA 2027 Entries Revealed: 126 Best Film Contenders, 728 Performances and No Spot for ‘You Can See Everything’ Star Amanda Seyfried",
           "summary": "There are 44 movies that want it all. That’s how many titles appear on BAFTA’s draft Entered Films List for the 2027 EE BAFTA Film Awards, with submissions across every category open to them: best film, director, screenplay and all nine craft races, right down to special visual effects.",
           "source": "Variety",
           "url": "https://variety.com/2026/film/awards/bafta-2027-entries-full-list-amanda-seyfried-1236959765/"
-        },
-        {
-          "headline": "Oscar-Nominated Director Rachid Bouchareb on the Challenges of Shooting ‘Reggane’: ‘We’re Making a Period Film in the Depths of the Sahara’",
-          "summary": "Among the challenges facing Franco-Algerian filmmaker Rachid Bouchareb as he prepares to shoot his next feature, “Reggane,” are rebuilding a French military base in the Algerian Sahara, sourcing military vehicles dating back to the final years of French colonial rule and dressing some 2,000 extras. The three-time Oscar-nominated director, whose companion…",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/rachid-bouchareb-reggane-1236959750/"
         },
         {
           "headline": "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film",
@@ -899,28 +899,28 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Gayle King to Miss Week of ‘CBS Mornings’ Shows Amid Death of Her Son-in-Law Virgil Miller",
+          "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
+        },
+        {
+          "headline": "NBC Pulls Ad Criticizing U.S. Military Aid to Israel After Backlash, Reviews Approval Process",
+          "summary": "The ad aired during Wednesday's 'SNL' Thanksgiving special without senior NBC management's knowledge, a source familiar with the situation tells The Hollywood Reporter.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-pulls-ad-criticizing-us-military-aid-israel-backlash-1236764243/"
+        },
+        {
           "headline": "‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth’s Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A ‘Dream Came True’",
           "summary": "SPOILER ALERT: The following story contains plot details from “I Learn How to Grow Zombies,” Season 3, Episode 3 of “Percy Jackson and the Olympians,” now streaming on Disney+. Seventeen-year-old Leah Sava Jeffries carries the weight of the world on her shoulders in Season 3 of “Percy Jackson and the Olympians” — literally.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/percy-jackson-season-3-gray-contacts-finale-1236958463/"
         },
         {
-          "headline": "How to Stream 2026 Soul Train Awards, Featuring Tributes to Dolly Parton and Freddie Jackson",
-          "summary": "After last airing in 2023, the awards show makes its TV return, hosted this year by Anthony Anderson.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-soul-train-awards-2026-free-bet-cbs-live-stream-1236764242/"
-        },
-        {
           "headline": "‘The Hunting Wives’ Stars and Creator Break Down Margo and Sophie’s Dangerous Love Affair in Season 2: ‘It’s a F—-ed Up Commitment’ to ‘Move Past’ Murder",
           "summary": "SPOILER ALERT: This story contains spoilers for Season 2 of “The Hunting Wives,” now streaming on Netflix. Earlier this month, Texas shocked the nation by electing Democrats to the governorship, the U.S.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/hunting-wives-brittany-snow-malin-akerman-season-2-sex-murder-1236952232/"
-        },
-        {
-          "headline": "Gayle King Taking Next Week Off From ‘CBS Mornings’ Following Son-In-Law’s Death",
-          "summary": "Gayle King will be absent from CBS Mornings for one week beginning Monday, November 30, following the death of her son-in-law, Virgil Miller, over the Thanksgiving holiday. CBS Mornings executive producer Jon Tower revealed the sad news about Miller’s death Friday in a memo to staff, which was obtained by People.",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/gayle-king-cbs-mornings-absent-week-son-in-laws-death-1237234404/"
         },
         {
           "headline": "‘The Challenge’ Alum Tyler Duckworth’s Cause Of Death Revealed",
@@ -941,6 +941,12 @@
           "url": "https://deadline.com/2026/11/federal-film-tv-incentive-guest-column-ruth-vitale-1237234279/"
         },
         {
+          "headline": "2026 Deaths Photo Gallery: Hollywood & Media Obituaries",
+          "summary": "Click through a photo gallery of Hollywood and media figures we’ve lost during 2026.",
+          "source": "Deadline",
+          "url": "https://deadline.com/gallery/2026-hollywood-media-deaths-photo-gallery-obituaries/"
+        },
+        {
           "headline": "Trump’s “Noisy Name-Calling” Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter’s Nvidia Dispatch",
           "summary": "Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different.",
           "source": "Deadline",
@@ -957,12 +963,6 @@
           "summary": "The ruling is a major setback for the administration in the government's campaign against ABC and national media.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790/"
-        },
-        {
-          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
-          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
         }
       ]
     },
@@ -971,16 +971,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Fuerza Regida Announces ‘Pisteando Con La Regida Vol. 4’ After Partial Legal Victory Against Rancho Humilde",
+          "summary": "Fuerza Regida is moving forward with new music following a partial legal victory in its ongoing dispute with regional Mexican label Rancho Humilde. On Thursday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/fuerza-regida-pisteando-con-la-regida-vol-4-rancho-humilde-1236390434/"
+        },
+        {
           "headline": "Goo Goo Dolls Fans Slam NBC Over Thanksgiving Halftime Show Snub: ‘Badly Handled’",
           "summary": "Goo Goo Dolls fans are outraged after NBC cut short the band’s Thanksgiving Day halftime performance. The network is facing backlash after airing just 90 seconds of the John Rzeznik -fronted group’s nine-minute set during Thursday’s (Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/music-news/goo-goo-dolls-fans-slam-thanksgiving-halftime-show-snub-1236390401/"
-        },
-        {
-          "headline": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries During ‘Tonight Show’ Interview",
-          "summary": "Justin Timberlake is opening up about what convinced him to share a more personal side of himself in his upcoming documentary. During an appearance on The Tonight Show on Thursday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/justin-timberlake-tonight-show-documentary-series-interview-1236390349/"
         },
         {
           "headline": "Olivia Rodrigo Delivers Another Christmas Song",
@@ -1003,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T18:11:51-05:00"
+  "updatedAt": "2026-11-27T18:46:22-05:00"
 }
