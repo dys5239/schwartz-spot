@@ -48,10 +48,16 @@
           "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "25-year sentence sought for former chef who aided 14 suicides",
-          "summary": "Kenneth Law pleaded guilty earlier this year to aiding 14 suicides in Canada, but he has admitted to selling his so-called suicide kits globally.",
+          "headline": "Charity in Capt Tom's name bids to be struck off",
+          "summary": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "OpenAI countersues Apple over allegations of stealing trade secrets",
+          "summary": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/former-chef-kennth-law-poison-suicides-prosecutors-seek-25-years/"
+          "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
         },
         {
           "headline": "Millions clean up after massive Thanksgiving storms on East Coast",
@@ -60,14 +66,8 @@
           "url": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179"
         },
         {
-          "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
-          "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Trump says he's giving Iran \"a chance to be smart\"",
-          "summary": "President Trump says victory over Iran will come \"whenever I want it,\" but he's giving the regime \"a chance to be smart\" while his threat of new strikes looms.",
+          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
         }
@@ -79,6 +79,106 @@
       "stories": [],
       "posts": [
         {
+          "id": "2126430075939955165",
+          "created_at": "2026-11-27T21:36:51.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "China just imported a record $209.2B of gold in the first 10 months of 2026 🇨🇳\n\nThat's more than double the $100.5B it imported in all of 2025, per China Customs data\n\nGold now makes up about 8% of China's total imports and more than 20% of its trade surplus, both all-time highs https://t.co/mqzJGE1UHf",
+          "url": "https://x.com/_Investinq/status/2126430075939955165",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126429365504229400",
+          "created_at": "2026-11-27T21:34:02.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Worth trying https://t.co/oqe53VZr0X",
+          "url": "https://x.com/elonmusk/status/2126429365504229400",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126429095680692353",
+          "created_at": "2026-11-27T21:32:58.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "I will never again order from a company that only has Fedex as an option\n\nFedex is shit",
+          "url": "https://x.com/Timcast/status/2126429095680692353",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126428324012446090",
+          "created_at": "2026-11-27T21:29:54.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "The goal with Grok Bots is to enable you to build a whole company! https://t.co/rLPoReaR6R",
+          "url": "https://x.com/elonmusk/status/2126428324012446090",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126426934431404067",
+          "created_at": "2026-11-27T21:24:22.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Major improvements land every week for Grok Bot https://t.co/DgXF6c3iQa",
+          "url": "https://x.com/elonmusk/status/2126426934431404067",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126426706500313500",
+          "created_at": "2026-11-27T21:23:28.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Brian Kelly’s performance in the Iowa-Nebraska booth left plenty to be desired.\n\nThe former LSU and Notre Dame coach repeatedly mixed up players’ names and added little beyond basic analysis throughout the broadcast.\n\n@ByGusWilson on the latest example of why three-man booths",
+          "url": "https://x.com/SportNState/status/2126426706500313500",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126425909276143690",
+          "created_at": "2026-11-27T21:20:18.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Sorry, it’s the Bo Pix Experience  https://t.co/i954o2UlML https://t.co/23AXkRsa4W",
+          "url": "https://x.com/Outkick/status/2126425909276143690",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126424460639313922",
+          "created_at": "2026-11-27T21:14:33.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Tesla super vision https://t.co/MGGvOmR9MZ",
+          "url": "https://x.com/elonmusk/status/2126424460639313922",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126424190475501877",
+          "created_at": "2026-11-27T21:13:28.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "Upgrades https://t.co/M9ICCetk9d",
+          "url": "https://x.com/elonmusk/status/2126424190475501877",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126423478253547550",
+          "created_at": "2026-11-27T21:10:38.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "After his touchdown, DK Metcalf signed “stand on business 8” 👀  https://t.co/jfGPzaEjdl",
+          "url": "https://x.com/Outkick/status/2126423478253547550",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
           "id": "2126422474812465551",
           "created_at": "2026-11-27T21:06:39.000Z",
           "author_name": "SightBringer",
@@ -87,16 +187,6 @@
           "url": "https://x.com/_The_Prophet__/status/2126422474812465551",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126422030102704272",
-          "created_at": "2026-11-27T21:04:53.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "CCP KILLS PRISONERS TO HARVEST ORGANS, NUGENT RELEASES GONZO LIFE | BOLLING SHOW https://t.co/4UcNAbpEsF",
-          "url": "https://x.com/RealAmVoice/status/2126422030102704272",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126420926036058203",
@@ -159,16 +249,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126415725548228614",
-          "created_at": "2026-11-27T20:39:50.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Yeah https://t.co/7lpXyR60Xb",
-          "url": "https://x.com/elonmusk/status/2126415725548228614",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126415580823757101",
           "created_at": "2026-11-27T20:39:16.000Z",
           "author_name": "SightBringer",
@@ -187,16 +267,6 @@
           "url": "https://x.com/Outkick/status/2126414936264056872",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126413886576590925",
-          "created_at": "2026-11-27T20:32:32.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "When using Grok Bots, it is important to create Bots with specialized roles, just like a human company. You can then have a manager bot oversee and coordinate their work.\n\nJust like a human employee, if you overload a single bot with a massive array of work, it will start",
-          "url": "https://x.com/elonmusk/status/2126413886576590925",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126413294034649244",
@@ -239,16 +309,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126411800035889192",
-          "created_at": "2026-11-27T20:24:14.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Steelers fans making sure they all have ice cream sandwiches 💀  https://t.co/PtGEQkmSDK",
-          "url": "https://x.com/Outkick/status/2126411800035889192",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126411760169066508",
           "created_at": "2026-11-27T20:24:05.000Z",
           "author_name": "Sport & State",
@@ -289,16 +349,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126408623609782437",
-          "created_at": "2026-11-27T20:11:37.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Mike McCarthy is never gonna live this down 😂  https://t.co/Eh6ANlIGXL",
-          "url": "https://x.com/Outkick/status/2126408623609782437",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126407375821455531",
           "created_at": "2026-11-27T20:06:39.000Z",
           "author_name": "Real America's Voice (RAV)",
@@ -309,24 +359,14 @@
           "verified_type": "business"
         },
         {
-          "id": "2126405164315910354",
-          "created_at": "2026-11-27T19:57:52.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Should this have been ruled a big man touchdown?🤔\n\nOfficials determined Ole Miss DE Blake Purchase was short of the end zone on this play: https://t.co/wh1N8xO3K4",
-          "url": "https://x.com/SportNState/status/2126405164315910354",
+          "id": "2126406415946244161",
+          "created_at": "2026-11-27T20:02:50.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "DOWNLOAD NOW at https://t.co/21oaE7ckUb",
+          "url": "https://x.com/RealAmVoice/status/2126406415946244161",
           "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126404709628129388",
-          "created_at": "2026-11-27T19:56:04.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "This will be fully automated and sped up to be &lt;5 mins https://t.co/TRlBdnlMDE",
-          "url": "https://x.com/elonmusk/status/2126404709628129388",
-          "verified": true,
-          "verified_type": "blue"
+          "verified_type": "business"
         },
         {
           "id": "2126401401831985156",
@@ -337,26 +377,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126401401831985156",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126398247552037042",
-          "created_at": "2026-11-27T19:30:23.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Beautiful engineering  https://t.co/Y3Pfh3tMjb",
-          "url": "https://x.com/elonmusk/status/2126398247552037042",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126397498071670827",
-          "created_at": "2026-11-27T19:27:24.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Every model has its strengths and weaknesses. Grok @Bot aims to use whichever one does the best job for the task you give it!\n\nNeon is looking particularly promising, but Opus is also excellent in most cases. https://t.co/WlG5mX5zGn",
-          "url": "https://x.com/elonmusk/status/2126397498071670827",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126387343246393709",
@@ -479,16 +499,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126343460320149747",
-          "created_at": "2026-11-27T15:52:41.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "At this point, Nvidia's biggest risk isn't competition from AMD, Google, or custom ASICs.\n\nIt's Nvidia itself.\n\nIt's genuinely ridiculous how a company with arguably one of the strongest businesses in the world has managed to become such a massive headache for its shareholders. https://t.co/d2GnsRS6U5 https://t.co/ZeCft012UM",
-          "url": "https://x.com/_Investinq/status/2126343460320149747",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126321424155525496",
           "created_at": "2026-11-27T14:25:07.000Z",
           "author_name": "Clay Travis",
@@ -575,36 +585,6 @@
           "author_handle": "LauraLoomer",
           "text": "Grateful that he’s both kind and cute. \n\n🌟 https://t.co/aWPskPNzEz",
           "url": "https://x.com/LauraLoomer/status/2126102290733940961",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126058529895096552",
-          "created_at": "2026-11-26T21:00:28.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Self-driving cars are coming soon, but a world where nobody drives at all is generations away. \n\nRegulation is the only thing holding back Tesla's Cybercab, but eventually synchronized robot cars will end traffic for good. https://t.co/ou3hcQYzQC",
-          "url": "https://x.com/Timcast/status/2126058529895096552",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126012054838362509",
-          "created_at": "2026-11-26T17:55:47.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "https://t.co/w8KFVO6CqD",
-          "url": "https://x.com/Timcast/status/2126012054838362509",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126010653353664954",
-          "created_at": "2026-11-26T17:50:13.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Lol https://t.co/n5s60nRDkA",
-          "url": "https://x.com/Timcast/status/2126010653353664954",
           "verified": true,
           "verified_type": "blue"
         },
@@ -801,6 +781,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+          "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html"
+        },
+        {
           "headline": "Norwegian budget airline Norse Atlantic files for bankruptcy after halting flights",
           "summary": "A Norwegian budget airline has filed for bankruptcy after halting flights and ticket sales",
           "source": "ABC News",
@@ -811,12 +797,6 @@
           "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html"
-        },
-        {
-          "headline": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-          "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
         },
         {
           "headline": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
@@ -837,34 +817,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Alex Singleton tackles Jaylen Warren in the end zone for a safety as Steelers lead 14-5",
-          "summary": "On Black Friday in Pittsburgh, the defenses are outplaying the offenses. The latest big play on defense came via Broncos linebacker Alex Singleton, who tackled Steelers running back Jaylen Warren in the end zone for a safety.",
+          "headline": "Greece hand Northern Ireland fifth consecutive defeat",
+          "summary": "Internationals Women Northern Ireland 0 - 2 Greece FT Northern Ireland fell to their fifth consecutive defeat after Greece were 2-0 victors in a friendly at Inver Park. Konstantina Kallisti Brouksair gave the dominant away side the lead on 47 minutes before Marianna Rapani's late goal doubled their lead late on.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/alex-singleton-tackles-jaylen-warren-210038680.html"
+          "url": "https://sports.yahoo.com/soccer/articles/greece-hand-northern-ireland-fifth-205056055.html"
         },
         {
-          "headline": "Sayvia Sellers scores 16 points and well-balanced No. 16 Washington women top Oklahoma State 73-62",
-          "summary": "FORT MYERS, Fla. (AP) — Sayvia Sellers scored 16 points, two teammates had double-doubles and No.",
+          "headline": "Vanderbilt’s bench-clearing blowout ends 111-56 as Southern gets buried early",
+          "summary": "NASHVILLE, Tenn. (AP) — Ace Glass and Bangot Dak each scored 18 points leading six Commodores in double figures as Vanderbilt routed Southern 111-56 Friday afternoon to remain undefeated.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/sayvia-sellers-scores-16-points-205915814.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/vanderbilt-bench-clearing-blowout-ends-213025514.html"
+        },
+        {
+          "headline": "Morgan Rielly scores twice as Maple Leafs defeat Bruins, who lose David Pastrnak to injury",
+          "summary": "Morgan Rielly scored his first two goals of the season, including the 100th of his career, to lead the Toronto Maple Leafs to a 3-1 victory over the Boston Bruins",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/morgan-rielly-scores-maple-leafs-defeat-bruins-lose-138487209"
+        },
+        {
+          "headline": "Hank Brown rushes for three touchdowns, throws for another in No. 13 Iowa's 31-7 win over Nebraska",
+          "summary": "Iowa quarterback Hank Brown ran for three touchdowns and threw for another, and the No. 13 Hawkeyes defeated Nebraska 31-7",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/hank-brown-rushes-touchdowns-throws-13-iowas-31-138486767"
         },
         {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
           "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
-        },
-        {
-          "headline": "Carys Baker’s hot second quarter leads No. 3 Louisville in 92-48 win over Akron",
-          "summary": "Carys Baker scored all of her 20 points in the second quarter and No. 3 Louisville routed Akron 92-48",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/carys-bakers-hot-quarter-leads-3-louisville-92-138485328"
-        },
-        {
-          "headline": "Sam Lewis scores 21 points, Elijah Gertrude 17 and No. 2 Virginia handles Xavier 83-71",
-          "summary": "Sam Lewis scored 21 points, Elijah Gertrude added 17 off the bench, and No. 2 Virginia defeated Xavier 83-71 in the Battle 4 Atlantis Signature Series",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/sam-lewis-scores-21-points-elijah-gertrude-17-138484954"
         }
       ]
     },
@@ -873,22 +853,22 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Filming the Moroccan Horse-Riding Doc ‘Bardi’ Took Director Tala Hadid Into a ‘Terrain That Was Totally Unknown’ to Her: ‘I Was Almost Like an Alien’",
+          "summary": "For the making of “Bardi,” director Tala Hadid spent over four years embedded in the Moroccan communities involved in the centuries-old tradition of the Tbourida, an equestrian ritual rooted in warfare where horsemen charge in a single line and fire their rifles in calculated alignment. Still, despite living and breathing the rituals around the…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/bardi-tala-hadid-documentary-1236959520/"
+        },
+        {
           "headline": "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film",
           "summary": "The actor also tells The Hollywood Reporter about filming a musical scene in front of the pop star and whether there's more story to tell in the 26-year-old franchise.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285/"
         },
         {
-          "headline": "‘A Girl Unknown,’ ‘Crawling Into Myself,’ ‘Concrete Land’ Take Main Prizes at Doha Film Festival",
-          "summary": "Zou Jing’s “A Girl Unknown,” Asmahan Bkerat’s “Concrete Land” and Hamad Al-Fayhani’s “Crawling Into Myself” won the top prizes at the sophomore edition of the revamped Doha Film Festival, which took place between Nov. 19-27 in the Qatari capital.",
+          "headline": "‘Club Kid’ Star Reggie Absolom on His Friendship With Jordan Firstman and Missing Out on a ‘Harry Potter’ Role: ‘J.K. Rowling Is a No Anyway’",
+          "summary": "Walking the red carpet at the Cannes Film Festival and receiving a seven-minute standing ovation is an emotional event for anyone — but especially when you’re 14, and it’s your first time acting in a feature film. Such was the case for “Club Kid” star Reggie Absolom.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/global/a-girl-unknown-concrete-land-doha-awards-1236959683/"
-        },
-        {
-          "headline": "Sebastian Stan Says ‘Thunderbolts’ Had ‘More Nuance’ Than ‘Some of the Recent’ Marvel Movies and Was a ‘Success’ Despite Disappointing Box Office",
-          "summary": "Marvel veteran Sebastian Stan is sticking up for last year’s “Thunderbolts,” despite it being one of the lowest-grossing MCU movies. In the team-up movie, he reprised his role as Bucky Barnes, aka the Winter Soldier, alongside Florence Pugh as Yelena Belova and David Harbour as the Red Guardian to form the Thunderbolts, a new group […]",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/news/sebastian-stan-thunderbolts-marvel-success-box-office-1236959632/"
+          "url": "https://variety.com/2026/film/features/club-kid-reggie-absolom-jordan-firstman-harry-potter-audition-1236941846/"
         },
         {
           "headline": "Denis Villeneuve Pledges Traditional, “Unapologetic” Bond: “Not Here to Change the DNA”",
@@ -909,16 +889,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "‘The Challenge’ Alum Tyler Duckworth’s Cause Of Death Revealed",
+          "summary": "We now have the official cause of death for MTV’s The Challenge alum Tyler Duckworth. The reality TV personality died from hypertensive cardiovascular disease, according to the North Dakota State Forensic Examiner’s Office as reported by TMZ.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/tyler-duckworth-cause-of-death-the-challenge-mtv-1237234390/"
+        },
+        {
           "headline": "William Shatner Responds After ‘Halloween’ Director John Carpenter Called Him “A Piece Of S***” For Snub",
           "summary": "William Shatner is speaking out after Halloween director John Carpenter recently called him “piece of s***” for allegedly ignoring him when he tried to introduce himself to the Star Trek legend at an event in Orlando, Fla. “This guy, he’s sitting in the greenroom, on his phone like this [scrolling].",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/william-shatner-responds-john-carpenter-snub-1237234380/"
-        },
-        {
-          "headline": "‘The Hunting Wives’ Pays Tribute To Lionsgate Exec Salli Newman",
-          "summary": "Viewers of the second season of The Hunting Wives, currently streaming on Netflix, will find a poignant message at the end of the season finale: “In Loving Memory of Salli Newman.” Newman was the senior vice president of television production at Lionsgate, producer of The Hunting Wives. She died of a heart attack on December […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/salli-newman-hunting-wives-tribute-1237234359/"
         },
         {
           "headline": "Huw Edwards Channel 4 Doc Slammed by U.K. Prime Minister: ‘We Have No Interest in Hearing What He Has to Say’",
@@ -1013,5 +993,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T16:10:39-05:00"
+  "updatedAt": "2026-11-27T16:44:37-05:00"
 }
