@@ -42,6 +42,18 @@
       "title": "News",
       "stories": [
         {
+          "headline": "U.S. Air Force cloud platform breached by hackers, report says",
+          "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
+        },
+        {
+          "headline": "Set time aside for children to read for pleasure, schools to be told",
+          "summary": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
           "summary": "With an official PC version potentially still months away, fans are getting impatient.",
           "source": "BBC News",
@@ -52,18 +64,6 @@
           "summary": "Breast cancer survivor Kate Fink credits hospital valet Jon Avery with helping her fight the disease. She surprised the Buffalo Bills fan with tickets and field passes.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/woman-surprises-hospital-valet-who-supported-her-through-cancer-treatment-with-bills-tickets/"
-        },
-        {
-          "headline": "'I don't know what I'd do without it': Why shoppers and staff fear losing Poundland",
-          "summary": "The discount retailer has collapsed into administration after its US owners failed to secure a rescue deal.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
-          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
         },
         {
           "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
@@ -78,6 +78,66 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126507691178946884",
+          "created_at": "2026-11-28T02:45:16.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Gene Munster says AI fundamentals keep beating expectations, but focusing on them has been \"a mistake that I've made\"\n\n\"NVIDIA reported in terms of expectations for calendar 27, 75% growth. The street was at 70\"\n\n\"I think we're still sub 1% in terms of the adoption\"\n\n\"Right now https://t.co/cgvtmz4ecS",
+          "url": "https://x.com/_Investinq/status/2126507691178946884",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126507592075907581",
+          "created_at": "2026-11-28T02:44:53.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "President Trump should have banned CCP Tik Tok when he had the chance. \n\nBrain rot for the youth. https://t.co/LyIlO3LUxx",
+          "url": "https://x.com/LauraLoomer/status/2126507592075907581",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126505770988548516",
+          "created_at": "2026-11-28T02:37:39.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "❤️ https://t.co/qrRAdB14PN",
+          "url": "https://x.com/elonmusk/status/2126505770988548516",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126505455862288553",
+          "created_at": "2026-11-28T02:36:23.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Im not a conservative\n\nI really dont care if people want to sterilize themselves https://t.co/vF4B1Wc4r7",
+          "url": "https://x.com/Timcast/status/2126505455862288553",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126504297328255207",
+          "created_at": "2026-11-28T02:31:47.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Welcome to the new world https://t.co/drtKXkWdPJ",
+          "url": "https://x.com/Timcast/status/2126504297328255207",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126502249212031178",
+          "created_at": "2026-11-28T02:23:39.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: Black Friday shoppers flee Alderwood Mall in Lynnwood, Washington, amid reports of a possible shooting.\n\nWATCH as people rush out of the shopping center.\n\nDetails remain limited, and reports of a shooting have yet to be confirmed. https://t.co/Tt0XwyXJKv",
+          "url": "https://x.com/RealAmVoice/status/2126502249212031178",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126497119154618450",
           "created_at": "2026-11-28T02:03:16.000Z",
@@ -165,16 +225,6 @@
           "author_handle": "LauraLoomer",
           "text": "As exclusively uncovered and reported by @LoomeredStrat Loomered Strategies:\n\n🚨 MEET THE 5 OWNERS OF BIKE PLANT 🚨 \n\nBike Plant, a communist bike shop where the anti-Jewish ad was filmed, is owned by 5 “worker-owners”:\n\n1. Robin Graven-Milne\n\n2. Rae Pellerin\n\n3. Sean Patterson https://t.co/o9yYprX9ns",
           "url": "https://x.com/LauraLoomer/status/2126480023662026882",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126479727066272164",
-          "created_at": "2026-11-28T00:54:09.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Extremely troubling https://t.co/36CuHTvPxY",
-          "url": "https://x.com/elonmusk/status/2126479727066272164",
           "verified": true,
           "verified_type": "blue"
         },
@@ -349,26 +399,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126439700475048080",
-          "created_at": "2026-11-27T22:15:06.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Peter Boockvar says this rally is exit liquidity and that strength is going to be sold, with 75% of Q3 earnings growth tied to the AI build out\n\n\"I think a lot of these stocks topped out June, July, and those are going to be the highs for a while\"\n\n\"Q3, 75% ish of earnings https://t.co/a9LkGRvHBn",
-          "url": "https://x.com/_Investinq/status/2126439700475048080",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126438415956676931",
-          "created_at": "2026-11-27T22:10:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Your favorite RAV gear. Your favorite shows. Our BLACK FRIDAY savings!\n\nTake up to 30% OFF hats, tees, hoodies, mugs and more during the Real America's Voice Black Friday Sale!\n\nGet FREE U.S. shipping on orders of $75 or more, PLUS unlock an exclusive VIP offer when you download https://t.co/MTsY9qBuxI",
-          "url": "https://x.com/RealAmVoice/status/2126438415956676931",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126436956490137642",
           "created_at": "2026-11-27T22:04:12.000Z",
           "author_name": "SightBringer",
@@ -435,16 +465,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡ Sometimes the signal arrives centuries before the mind capable of understanding its significance.\n\nIn 1854, Bernhard Riemann explored geometries that would eventually allow Einstein to describe the curvature of spacetime.\n\nThat same year, George Boole gave logic a mathematical https://t.co/4qnAelVn3i",
           "url": "https://x.com/_The_Prophet__/status/2126422474812465551",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126420926036058203",
-          "created_at": "2026-11-27T21:00:30.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "This is how protests recruit college kids...\n\nCollege kids are sorted into \"green,\" \"yellow,\" and \"red.\" The red group instigates a fight with the cops, so the green recruits get arrested, and the organizers then win those students over by telling them the police are the enemy https://t.co/Vem7KUPZb0",
-          "url": "https://x.com/Timcast/status/2126420926036058203",
           "verified": true,
           "verified_type": "blue"
         },
@@ -575,16 +595,6 @@
           "author_handle": "ClayTravis",
           "text": "The @SportNState college football picks start today. We have been on fire. Get rich, kids: https://t.co/JnxBA7NQuk",
           "url": "https://x.com/ClayTravis/status/2126321424155525496",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126301037514407975",
-          "created_at": "2026-11-27T13:04:06.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Oh I’m sure it’s just one big coincidence right? 🤡 https://t.co/dxT4WNqwv9",
-          "url": "https://x.com/LauraLoomer/status/2126301037514407975",
           "verified": true,
           "verified_type": "blue"
         },
@@ -755,10 +765,10 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "U.S. Air Force cloud platform breached by hackers, report says",
-          "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
         },
         {
           "headline": "Lawmakers ask Trump to rescind Putin's G20 invitation over alleged intelligence-sharing with Iran",
@@ -827,28 +837,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Lady Vols defeat Florida Gulf Coast in Coconut Hoops Tournament",
-          "summary": "Tennessee (7-1) defeated Florida Gulf Coast (4-4), 88-80, on Friday in the Coconut Hoops Tournament at Alico Arena in Fort Myers, Florida. Tennessee and Florida Gulf Coast are in the Great Egret Division bracket.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/lady-vols-defeat-florida-gulf-015906741.html"
-        },
-        {
-          "headline": "Rangers’ slide reaches three games as they outplay Blackhawks but lose 2-1",
-          "summary": "The New York Rangers dominated the Chicago Blackhawks at United Center on Friday night everywhere but where it counted — on the scoreboard. New York’s losing streak reached three games when the Hawks rode two first-period power-play goals by Andrew Mangiapane and a 30-save performance by Spencer Knight to a 2-1 victory, their fourth straight win.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nhl/articles/rangers-slide-reaches-three-games-015113243.html"
-        },
-        {
-          "headline": "Cincinnati knocks off previously unbeaten Boston College 70-59 in the ESPN Events Invitational",
-          "summary": "Tyler Tejada scores a season-high 24 points to lead Cincinnati to a 70-59 victory over previously unbeaten Boston College in the ESPN Events Invitational",
+          "headline": "Trio rallies Texas A&M to 76-74 victory over Marquette at Battle 4 Atlantis",
+          "summary": "PJ Haggerty and Mackenzie Mgbako both scored 21 points, and Jordan Pope picked up a loose ball and scored at the buzzer to lift Texas A&M to a 76-74 victory over Marquette in the Signature Series of the Battle 4 Atlantis",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/cincinnati-knocks-off-previously-unbeaten-boston-college-70-138489746"
+          "url": "https://abcnews.com/Sports/wireStory/trio-rallies-texas-76-74-victory-marquette-battle-138490482"
         },
         {
-          "headline": "Sam Bennett scores 200th career goal with 24 seconds left as Panthers beat Capitals 3-2",
-          "summary": "Sam Bennett scored with 24 seconds remaining, the 200th goal of his career, and the Florida Panthers rallied past the Washington Capitals 3-2",
+          "headline": "Vokietaitis has 29 points, 11 rebounds as No. 7 Texas beats Saint Mary's 76-73 to win Rady title",
+          "summary": "Matas Vokietaitis had 29 points and 11 rebounds for No. 7 Texas, which used a late 13-0 run to overtake Saint Mary’s and win 76-73 in the Rady Children’s Invitational championship game",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/sam-bennett-scores-200th-career-goal-24-seconds-138489647"
+          "url": "https://abcnews.com/Sports/wireStory/vokietaitis-29-points-11-rebounds-7-texas-beats-138490579"
+        },
+        {
+          "headline": "Kugel, Johnson and Bol propel UCF to 88-76 victory over Georgia at ESPN Events Invitational",
+          "summary": "KISSIMMEE, Fla. (AP) — Riley Kugel and Dior Johnson both scored 24 points, and John Bol posted a double-double to lead UCF to an 88-76 victory over Georgia on Friday night in the Magic Bracket of the ESPN Events Invitational.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/kugel-johnson-bol-propel-ucf-023821601.html"
+        },
+        {
+          "headline": "No. 24 North Carolina women beat Army 85-65 behind Kate Harping's 23 points",
+          "summary": "CHAPEL HILL, N.C. (AP) — Kate Harpring scored 23 points and No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/no-24-north-carolina-women-023258096.html"
         },
         {
           "headline": "Black Friday scorigami: Steelers-Broncos ends with final score that's never happened before in NFL history",
@@ -899,6 +909,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "When and Where to Stream the 100th Macy’s Thanksgiving Day Parade After Its Historic Delay",
+          "summary": "For the first time since its inaugural 1924 march, the annual event was postponed due to weather.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275/"
+        },
+        {
           "headline": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
           "summary": "NBC has pulled from its air a controversial ad that is critical of the United States’ policy of sending financial aid to Israel. The ad ran Wednesday night during the network’s Saturday Night Live Thanksgiving special.",
           "source": "Deadline",
@@ -921,12 +937,6 @@
           "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
-        },
-        {
-          "headline": "‘Percy Jackson and the Olympians’ Star Leah Sava Jeffries on Her Idea for Annabeth’s Gray Contacts and the Big Fan Surprise Coming in the Season 3 Finale: A ‘Dream Came True’",
-          "summary": "SPOILER ALERT: The following story contains plot details from “I Learn How to Grow Zombies,” Season 3, Episode 3 of “Percy Jackson and the Olympians,” now streaming on Disney+. Seventeen-year-old Leah Sava Jeffries carries the weight of the world on her shoulders in Season 3 of “Percy Jackson and the Olympians” — literally.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/tv/news/percy-jackson-season-3-gray-contacts-finale-1236958463/"
         }
       ]
     },
@@ -1003,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T21:13:31-05:00"
+  "updatedAt": "2026-11-27T21:47:19-05:00"
 }
