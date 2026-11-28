@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Power being slowly restored as heavy Thanksgiving storm eases",
+          "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/"
+        },
+        {
           "headline": "Carly Rae Jepsen's viral hit proves what fans knew all along",
           "summary": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
           "source": "BBC News",
@@ -60,12 +66,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Woman surprises hospital valet who supported her through cancer treatment with Bills tickets",
-          "summary": "Breast cancer survivor Kate Fink credits hospital valet Jon Avery with helping her fight the disease. She surprised the Buffalo Bills fan with tickets and field passes.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/woman-surprises-hospital-valet-who-supported-her-through-cancer-treatment-with-bills-tickets/"
-        },
-        {
           "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
           "summary": "New York City Mayor Zohran Mamdani underwent a \"successful\" surgery on Friday for his torn Achilles tendon.",
           "source": "ABC News",
@@ -78,6 +78,46 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126527405397565748",
+          "created_at": "2026-11-28T04:03:37.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "No. 3 Texas punches their ticket to the SEC Championship Game, and likely the CFB Playoff with a win over Texas A&amp;M https://t.co/rc5DPHYskI",
+          "url": "https://x.com/SportNState/status/2126527405397565748",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126527334400532507",
+          "created_at": "2026-11-28T04:03:20.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Texas vs. Georgia for the SEC title ‼️",
+          "url": "https://x.com/Outkick/status/2126527334400532507",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126526349892329570",
+          "created_at": "2026-11-28T03:59:25.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Texas A&amp;M spent over $40 million dollars on this team to go 4-8, 1-8 in the SEC. Has to be the worst money investment in college sports history. Not even sure what second place is, but when you get results like this you do wonder when big money guys stop donating.",
+          "url": "https://x.com/ClayTravis/status/2126526349892329570",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126525764665528778",
+          "created_at": "2026-11-28T03:57:05.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Texas advances to the final SEC title game to play Georgia. Longhorns and Dawgs have punched their tickets to the playoff. Tennessee and Alabama have the chance to join them tomorrow.",
+          "url": "https://x.com/ClayTravis/status/2126525764665528778",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126518994043859225",
           "created_at": "2026-11-28T03:30:11.000Z",
@@ -449,26 +489,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126426706500313500",
-          "created_at": "2026-11-27T21:23:28.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Brian Kelly’s performance in the Iowa-Nebraska booth left plenty to be desired.\n\nThe former LSU and Notre Dame coach repeatedly mixed up players’ names and added little beyond basic analysis throughout the broadcast.\n\n@ByGusWilson on the latest example of why three-man booths",
-          "url": "https://x.com/SportNState/status/2126426706500313500",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126425909276143690",
-          "created_at": "2026-11-27T21:20:18.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Sorry, it’s the Bo Pix Experience  https://t.co/i954o2UlML https://t.co/23AXkRsa4W",
-          "url": "https://x.com/Outkick/status/2126425909276143690",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126422474812465551",
           "created_at": "2026-11-27T21:06:39.000Z",
           "author_name": "SightBringer",
@@ -837,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Big takeaways from the Steelers win over the Broncos",
-          "summary": "Friday was a must-win game for the Pittsburgh Steelers and thanks to an inspired performance by the defense, the Steelers blew out the Denver Broncos . It was an exhausting week but Pittsburgh shut out the noise well enough to get past Denver and improve to 7-4 on the season and stay in the playoff hunt.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/big-takeaways-steelers-win-over-033249924.html"
-        },
-        {
-          "headline": "USWNT qualifies for 2027 Women's World Cup with 8-0 rout of El Salvador behind Ashley Sanchez's hat trick",
-          "summary": "There was an understandable presumption that every U.S. women’s camp, friendly and tournament the past two years has just been groundwork for the 2027 World Cup in Brazil.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/article/uswnt-qualifies-for-2027-womens-world-cup-with-8-0-rout-of-el-salvador-behind-ashley-sanchezs-hat-trick-033020919.html"
-        },
-        {
-          "headline": "Jadan Baugh helps No. 20 Florida beat Florida State for third straight time, 26-10",
-          "summary": "Jadan Baugh became the first Florida tailback with consecutive 1,000-yard rushing seasons and scored on a 3-yard run to help the No. 20 Gators beat Florida State 26-10 on Friday",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/jadan-baugh-helps-20-florida-beat-florida-state-138490230"
-        },
-        {
-          "headline": "Temple rallies from 17 down in 4th quarter to stun Memphis 35-31 in regular-season finale",
-          "summary": "Jaxon Smolik threw an 11-yard touchdown pass to JoJo Bermudez with 13 seconds left and Temple rallied from a 17-point fourth-quarter deficit, stunning Memphis 35-31 to close out the regular season and end a six-game losing streak",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/temple-rallies-17-4th-quarter-stun-memphis-35-138490473"
-        },
-        {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
           "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
+        },
+        {
+          "headline": "Penguins snap a 5-game skid with a 6-3 victory over the Sabres",
+          "summary": "BUFFALO, N.Y. (AP) — Ben Kindel, Rutger McGroarty, Ville Koivunen and Evgeni Malkin each had a goal and an assist, and the Pittsburgh Penguins beat the Buffalo Sabres 6-3 on Friday night to snap a five-game losing streak.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nhl/articles/penguins-snap-5-game-skid-040606847.html"
+        },
+        {
+          "headline": "USWNT player ratings vs. El Salvador: Ashley Sanchez steals the show with hat trick as Americans clinch 2027 World Cup berth",
+          "summary": "Ashley Sanchez scored a first-half hat trick as Emma Hayes' side booked their ticket to Brazil with a commanding 8-0 victory. The U.S.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/wnba/articles/uswnt-player-ratings-vs-el-040400911.html"
+        },
+        {
+          "headline": "Trio rallies Texas A&M to 76-74 victory over Marquette at Battle 4 Atlantis",
+          "summary": "PJ Haggerty and Mackenzie Mgbako both scored 21 points, and Jordan Pope picked up a loose ball and scored at the buzzer to lift Texas A&M to a 76-74 victory over Marquette in the Signature Series of the Battle 4 Atlantis",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/trio-rallies-texas-76-74-victory-marquette-battle-138490482"
+        },
+        {
+          "headline": "Vokietaitis has 29 points, 11 rebounds as No. 7 Texas beats Saint Mary's 76-73 to win Rady title",
+          "summary": "Matas Vokietaitis had 29 points and 11 rebounds for No. 7 Texas, which used a late 13-0 run to overtake Saint Mary’s and win 76-73 in the Rady Children’s Invitational championship game",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/vokietaitis-29-points-11-rebounds-7-texas-beats-138490579"
         }
       ]
     },
@@ -1013,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T22:47:56-05:00"
+  "updatedAt": "2026-11-27T23:13:59-05:00"
 }
