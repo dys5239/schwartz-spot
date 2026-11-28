@@ -42,28 +42,28 @@
       "title": "News",
       "stories": [
         {
-          "headline": "New film explores Princess Kate's cancer recovery journey",
-          "summary": "Catherine, Princess of Wales, is opening up about her experience living with and recovering from cancer in a new documentary.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/new-film-explores-princess-kates-cancer-recovery-journey/"
-        },
-        {
-          "headline": "Argentina's bid to halt oil drilling off Falkland Islands rejected",
-          "summary": "The International Tribunal for the Law of the Sea voted against Argentina's request to halt drilling at an offshore oil project in Falkland Islands waters.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/argentina-united-kingdom-falkland-islands-oil-drilling-international-court/"
-        },
-        {
-          "headline": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
-          "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+          "headline": "Argentina's bid to stop Falklands oil drilling rejected",
+          "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
-          "summary": "Prime ministers have always chased audiences - but does the backlash over Max Balegde’s video show Burnham’s strategy has gone too far?",
+          "headline": "Man arrested on suspicion of murdering girl, 16",
+          "summary": "The girl was found at a property in east London on Friday afternoon after fears about her welfare.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckq5vj3ldpx5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "How to save money and shop local on Small Business Saturday",
+          "summary": "Americans have already spent billions on Black Friday purchases. The shopping extravaganza continues over the weekend, and numbers look good for local vendors on Small Business Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/how-to-save-money-and-shop-local-on-small-business-saturday/"
+        },
+        {
+          "headline": "Charity honoring veteran who raised millions with walks to be disbanded",
+          "summary": "Capt. Tom Moore raised almost $49 million with daily walks in his yard during the early days of the coronavirus pandemic.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/tom-moore-charity-disbanded-coronavirus-fundraiser/"
         },
         {
           "headline": "What to know about the weather-delayed 100th Macy's Thanksgiving Day Parade",
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126725709477683700",
+          "created_at": "2026-11-28T17:11:36.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Do you think LSU has not been spinning everyone they can with their own PR team too? Arguing that the SEC is unfairly targeting them and that they are doing nothing wrong? This is legit how every battle like this goes. https://t.co/lZxSbgZ8Ha",
+          "url": "https://x.com/ClayTravis/status/2126725709477683700",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126724116174565884",
+          "created_at": "2026-11-28T17:05:16.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The US goods trade deficit widened by -$14.6 billion in October, or -10.8%, to -$149.5 billion, its 3rd-widest monthly gap on record.\n\nThis marks the 4th consecutive monthly increase in the shortfall, totalling -$48.4 billion.\n\nGoods imports soared +$21.1 billion, or https://t.co/scB01X3Mcy",
+          "url": "https://x.com/KobeissiLetter/status/2126724116174565884",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126723697730015598",
+          "created_at": "2026-11-28T17:03:36.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: Israeli Prime Minister Benjamin Netanyahu announced he is willing to let Yashar party leader Gadi Eisenkot serve first as prime minister in a proposed national unity government rotation while Netanyahu serves initially as alternate prime minister.\n\nJpost. https://t.co/Go7A9SC4X7",
+          "url": "https://x.com/Osint613/status/2126723697730015598",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126722553129390393",
+          "created_at": "2026-11-28T16:59:03.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "If you are in media you get spun by both sides top PR people on every controversial issue. And then you look at all the facts and decide who has the best argument. Unless media are getting paid by one side and not disclosing it, this is how the sausage gets made.",
+          "url": "https://x.com/ClayTravis/status/2126722553129390393",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126722526609076533",
+          "created_at": "2026-11-28T16:58:57.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "For the second consecutive year, Outsports is pointing the outrage machine at Christian athletes participating in the NFL’s My Cause My Cleats charity campaign. \n\nThis year's target? Brock Purdy, who wants to help (GASP) feed hungry children.\nhttps://t.co/YL1v9v6DOI",
+          "url": "https://x.com/SportNState/status/2126722526609076533",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126721957949571340",
+          "created_at": "2026-11-28T16:56:42.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Of course the SEC had a PR team advising them on the LSU legal battle. You know who else had a PR team advising them in their legal battle with the SEC? LSU! Every big entity pays a ton for high level PR. I can’t believe this is a story or any fans are surprised by this.",
+          "url": "https://x.com/ClayTravis/status/2126721957949571340",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126721786247000373",
+          "created_at": "2026-11-28T16:56:01.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "An underground marijuana bunker was found directly beneath a children's playground in Las Gabias, Granada.\n\nPolice seized 1,954 plants.\n\nSpain's Civil Guard https://t.co/ORzXDZ5Ddv",
+          "url": "https://x.com/Osint613/status/2126721786247000373",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126720397559394458",
+          "created_at": "2026-11-28T16:50:29.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "If hot girls didn’t exist, we would all still live in caves. They are the reason for 99% of male accomplishment. No telling how much ass the guy who invented the wheel got.",
+          "url": "https://x.com/ClayTravis/status/2126720397559394458",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126720298250842507",
+          "created_at": "2026-11-28T16:50:06.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Let me just say, I cannot wait to start digging into campaigns come 2028.\n\nAt Loomered Strategies, we will be destroying candidates before their campaigns even get off the ground.",
+          "url": "https://x.com/LauraLoomer/status/2126720298250842507",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126719591951040858",
+          "created_at": "2026-11-28T16:47:17.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "We got replay audio. Next up? There should be a channel with the live audio of camera guys looking for hot girls in the crowd at college games. Hell, make it an alt cast option. Would dominate in ratings. https://t.co/tPvsk7oFUL",
+          "url": "https://x.com/ClayTravis/status/2126719591951040858",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126718834237378632",
+          "created_at": "2026-11-28T16:44:17.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "According to the Financial Times, RAF Lakenheath, the largest U.S. fighter base in Europe, went on \"Charlie alert\" on November 13 after a swarm of 6 drones flew over the base. Charlie is the 2nd highest alert level. The USAF repelled the drones but did not recover them.",
+          "url": "https://x.com/Osint613/status/2126718834237378632",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126718504690983132",
+          "created_at": "2026-11-28T16:42:58.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Almost Kickoff Time in Columbus 🌰 https://t.co/LtoWXpRnPC",
+          "url": "https://x.com/SportNState/status/2126718504690983132",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126717504697340054",
           "created_at": "2026-11-28T16:39:00.000Z",
@@ -125,16 +245,6 @@
           "author_handle": "Osint613",
           "text": "Following talks in Islamabad, Saudi Arabia, Pakistan and Turkey announced their intention to combine military and defense industrial capabilities through the Mecca Alliance. Specifics of the arrangement have not been disclosed.",
           "url": "https://x.com/Osint613/status/2126716202533978376",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126716168602104040",
-          "created_at": "2026-11-28T16:33:41.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Nine winners with @HardRockBet for the final Saturday of the college football regular season. The blood bank guarantee is the under on USC-UCLA. Get rich, kids: https://t.co/JnxBA7OojS",
-          "url": "https://x.com/ClayTravis/status/2126716168602104040",
           "verified": true,
           "verified_type": "blue"
         },
@@ -189,26 +299,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126712878971625830",
-          "created_at": "2026-11-28T16:20:37.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Tap the veins, boys and girls, my Blood Bank for the week is the under in USC-UCLA on @HardRockBet. I feel bad for UCLA with its QB situation, but their defense has held teams to 3, 15, 7, 10, 0, 20, 14, 18 (in triple overtime) in the past eight games. Get it boosted on the app. https://t.co/UAig3a7OQj",
-          "url": "https://x.com/ClayTravis/status/2126712878971625830",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126710288632213593",
-          "created_at": "2026-11-28T16:10:19.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Nvidia Blackwell chips, including a GB300 NVL72 rack, are running at a Shanghai data center connected to Alice Huang.\n\nTwo Chinese firms installed the hardware. One used it as collateral for a $14 million bank loan.\n\nBloomberg",
-          "url": "https://x.com/Osint613/status/2126710288632213593",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126709792861536502",
           "created_at": "2026-11-28T16:08:21.000Z",
           "author_name": "Laura Loomer",
@@ -219,32 +309,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126708723573744039",
-          "created_at": "2026-11-28T16:04:06.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Zelensky on U.S. bases in Ukraine:\n\nThe Americans told us, \"We are not sure that bases can be there,\" because it's about NATO.\n\nIn the Middle East, they are also not in NATO, but you have bases, Patriots, defense systems, and soldiers there.\n\nI'm not sure that when they built",
-          "url": "https://x.com/Osint613/status/2126708723573744039",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126708501716111865",
           "created_at": "2026-11-28T16:03:13.000Z",
           "author_name": "Sport & State",
           "author_handle": "SportNState",
           "text": "Ohio State HC Ryan Day introduces Jeremiah Smith for one final Skull Session 🥹❤️\n\n@StephOtey is on the scene for The Game: https://t.co/8hF4xPAafy",
           "url": "https://x.com/SportNState/status/2126708501716111865",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126708163600625820",
-          "created_at": "2026-11-28T16:01:53.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Former Qatari Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani:\n\nIran is threatening the countries of the region over something that the countries of the region did not do, something that Israel and America did.\n\nI believe that we are now in a state of war with Iran, to",
-          "url": "https://x.com/Osint613/status/2126708163600625820",
           "verified": true,
           "verified_type": "blue"
         },
@@ -329,26 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126689662320210385",
-          "created_at": "2026-11-28T14:48:22.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "If any of the double digit favorites lose, that throws things up in the air in a big way. But Big Ten holds key barring major upsets. Both Big Ten title game spots are still up for grabs. If USC beats UCLA, Iowa is in. If Oregon beats Washington, Ducks are in.",
-          "url": "https://x.com/ClayTravis/status/2126689662320210385",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126688811975692591",
-          "created_at": "2026-11-28T14:44:59.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Playoff picture on final Saturday: Georgia, Utah, Texas and Texas Tech, I believe, are in. Notre Dame, Tennessee, Alabama, Miami, and Wake Forest are all double digit favorites and in with wins. That leaves two spots: Big Ten champ and either second Big Ten team or BYU.",
-          "url": "https://x.com/ClayTravis/status/2126688811975692591",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126687262406512870",
           "created_at": "2026-11-28T14:38:49.000Z",
           "author_name": "The Kobeissi Letter",
@@ -427,16 +477,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126666775706169620",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126666565126860965",
-          "created_at": "2026-11-28T13:16:35.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Exclusive? I reported this days ago lol \n\n11/20/2026\n\nhttps://t.co/2aewAdDuKQ\n\nIt’s why I call him Markwayne Muslim. \n\nI had him pegged a a useless POS before he was even selected for his role.\n\nIt all goes back to his trip to Qatar. \n\nNobody normal spends New Year in Qatar. https://t.co/dTY7R67RpG",
-          "url": "https://x.com/LauraLoomer/status/2126666565126860965",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126662396957839712",
@@ -559,36 +599,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126539025808810402",
-          "created_at": "2026-11-28T04:49:47.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Cameraman turned his attention elsewhere with Utah up 52-14 😂 https://t.co/whUdHwno2w",
-          "url": "https://x.com/SportNState/status/2126539025808810402",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126533033268527489",
-          "created_at": "2026-11-28T04:25:58.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "It’s a sign of why the title game is ending this year that both Tennessee and Alabama fans would rather win tomorrow and have an extra week of rest.",
-          "url": "https://x.com/ClayTravis/status/2126533033268527489",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126527405397565748",
-          "created_at": "2026-11-28T04:03:37.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "No. 3 Texas punches their ticket to the SEC Championship Game, and likely the CFB Playoff with a win over Texas A&amp;M https://t.co/rc5DPHYskI",
-          "url": "https://x.com/SportNState/status/2126527405397565748",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126518994043859225",
           "created_at": "2026-11-28T03:30:11.000Z",
           "author_name": "StockMarket.News",
@@ -617,16 +627,6 @@
           "url": "https://x.com/_Investinq/status/2126496392206315699",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126453063091110355",
-          "created_at": "2026-11-27T23:08:12.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "The majority of Americans are not saving enough for their retirement:\n\nJust 14% of participants in Vanguard-managed 401(k) plans contributed the maximum to their plans in 2025.\n\nAmong those earning $150,000 or more, 51% contributed the maximum, compared with 10% of those earning https://t.co/DZaS7gQRfK",
-          "url": "https://x.com/KobeissiLetter/status/2126453063091110355",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126436956490137642",
@@ -857,16 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Rampant Köln dismantle Elversberg 5-0 to spark European dreams",
-          "summary": "Carrying the momentum from their hard-earned draw in Munich straight onto their home turf, 1. FC Köln delivered an attacking masterclass to sweep aside SV Elversberg 5-0 on Saturday.",
+          "headline": "Bills’ win over Chiefs is proof this Buffalo team is different than past playoff failures",
+          "summary": "Mandatory Credit: Mark Konezny-Imagn Images Bills’ win over Chiefs is proof this Buffalo team is different than past playoff failures appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/rampant-k-ln-dismantle-elversberg-163100131.html"
+          "url": "https://sports.yahoo.com/nfl/articles/bills-win-over-chiefs-proof-165542467.html"
         },
         {
-          "headline": "Nations Championship: England aim for back-to-back wins over New Zealand",
-          "summary": "England face New Zealand in third-place play-off in inaugural Nations Championship finals weekend England seeking back-to-back wins over the All Blacks after record 37-12 victory last weekend at Allianz Stadium Hard-hitting back row Greg Fisilau makes his first England start while Freddie Steward is preferred at full-back Nations Championship: England…",
+          "headline": "0 saves, 0 punches: Senne Lammens’ disastrous form continues in Man United’s 4-0 Brentford defeat",
+          "summary": "Manchester United suffered a 3-0 defeat at the hands of Brentford on Saturday, 28 November, at Old Trafford in the Premier League. A Callum Wilson brace, coupled with goals from Kristoffer Ajer and Kevin Schade helped the Bees secure all three points and kept Mauricio Pochettino waiting for his first win.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/general/articles/nations-championship-england-aim-back-154606591.html"
+          "url": "https://sports.yahoo.com/soccer/articles/0-saves-0-punches-senne-165400828.html"
         },
         {
           "headline": "B.J. Davis takes over in OT, Creighton beats No. 22 Gonzaga 97-89",
@@ -881,10 +881,10 @@
           "url": "https://abcnews.com/Sports/wireStory/trail-blazers-beat-warriors-116-94-advance-nba-138493414"
         },
         {
-          "headline": "The Giants Made a Statement With Their Win Over the Jaguars",
-          "summary": "The New York Giants are coming off an impressive 23-18 victory over the Jacksonville Jaguars, improving their record to 6-3-1 and maintaining their position atop the NFC East. Jacksonville entered the matchup as one of the AFC’s top playoff contenders, making this win particularly significant for New York.",
+          "headline": "Evangel, Peyton Houston lead way on All-District 1-5A football team",
+          "summary": "Led by District 1-5A champion Evangel Christian , the 2026 All-District 1-5A football team is loaded with Eagles, including the offensive and defensive MVPs. LSU commit Peyton “Pop” Houston is the offensive MVP for a second consecutive season, with ECA’s Bennett Speer selected the defensive MVP.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/giants-made-statement-win-over-162618534.html"
+          "url": "https://sports.yahoo.com/high-school-sports/articles/evangel-peyton-houston-lead-way-165023534.html"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T11:41:51-05:00"
+  "updatedAt": "2026-11-28T12:13:05-05:00"
 }
