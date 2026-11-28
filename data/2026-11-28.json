@@ -42,16 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Magnitude 5.0 earthquake reported in Southern California",
-          "summary": "A magnitude 5.0 earthquake was reported 6 km west of Manhattan Beach, California, on Saturday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/magnitude-50-earthquake-reported-west-manhattan-beach-california/story?id=138501975"
-        },
-        {
           "headline": "Los Angeles hit by 5.0 magnitude earthquake, tremors felt down coastline",
           "summary": "The initial quake was reported at 9:30 a.m.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/4-7-earthquake-manhattan-beach/"
+        },
+        {
+          "headline": "Magnitude 5.0 earthquake reported in Southern California",
+          "summary": "A magnitude 5.0 earthquake was reported 6 km west of Manhattan Beach, California, on Saturday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/magnitude-50-earthquake-reported-west-manhattan-beach-california/story?id=138501975"
         },
         {
           "headline": "Swinney insists Scotland's NHS is safe despite hospital scandal",
@@ -78,6 +78,136 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126747342715941191",
+          "created_at": "2026-11-28T18:37:34.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "I want Jeremiah Smith number one overall to the Titans. I don’t even think the Titans can screw him up.",
+          "url": "https://x.com/ClayTravis/status/2126747342715941191",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126747111471423668",
+          "created_at": "2026-11-28T18:36:39.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "A strong earthquake hit the Los Angeles region, leaving shattered windows at Los Angeles International Airport (LAX). https://t.co/Dmiq7wVEwn",
+          "url": "https://x.com/Osint613/status/2126747111471423668",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126746976800633306",
+          "created_at": "2026-11-28T18:36:06.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Line brawl! Benches clear in Ohio State–Michigan! https://t.co/8xORrgoNCB",
+          "url": "https://x.com/Outkick/status/2126746976800633306",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126746689692475485",
+          "created_at": "2026-11-28T18:34:58.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Los Angeles M5.0 earthquake, caught on a Manhattan Beach live cam. Damage minimal.\n\n https://t.co/pa6TL2BnHo",
+          "url": "https://x.com/Osint613/status/2126746689692475485",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126746243737280526",
+          "created_at": "2026-11-28T18:33:12.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Tough look for the ref 😂 https://t.co/ZHr8gOBS4y",
+          "url": "https://x.com/Outkick/status/2126746243737280526",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126745978430689487",
+          "created_at": "2026-11-28T18:32:08.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "And if they fire Kyle Whittingham they owe him another $25 million too. Just insane mismanagement.",
+          "url": "https://x.com/ClayTravis/status/2126745978430689487",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126745766383284573",
+          "created_at": "2026-11-28T18:31:18.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: The number of Americans unemployed for 27+ weeks jumped +19,000 in October, to 1.96 million, the 2nd-highest number since December 2021.\n\nSince February 2023, this figure has surged by +901,000 people.\n\nAs a % of total unemployment, this metric increased +0.5 percentage https://t.co/heFKMBPZDD",
+          "url": "https://x.com/KobeissiLetter/status/2126745766383284573",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126744044428763201",
+          "created_at": "2026-11-28T18:24:27.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "21-0 Ohio State. Michigan has the biggest game deficit against OSU in 25 years, owes $20 million to an AD they hired then fired, $7 million to the retiring AD, $3 million to a fired OC, and gave $12 million to a quarterback who can’t throw. Other than that things are great.",
+          "url": "https://x.com/ClayTravis/status/2126744044428763201",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126743955400519984",
+          "created_at": "2026-11-28T18:24:06.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: A ~5.0 magnitude earthquake just SLAMMED Los Angeles, and there's BROKEN GLASS all over the floor of LAX airport https://t.co/praXuxIxnn",
+          "url": "https://x.com/RealAmVoice/status/2126743955400519984",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126743632593973487",
+          "created_at": "2026-11-28T18:22:49.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "NEW: magnitude 5.0 quake struck 6 miles off Manhattan Beach, shaking the Southern California coast. Early reports indicate windows shattered at LAX.",
+          "url": "https://x.com/Osint613/status/2126743632593973487",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126743469917942120",
+          "created_at": "2026-11-28T18:22:10.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Masked gunmen ambushed an armored Jeep headed to Peru’s main airport Friday morning, wounding an Indian man, 29, and a Peruvian woman, 35, before making off with a green suitcase and 2 bags.\n\nA Nissan sedan hit the Jeep from behind around 6:30 a.m. on the Santa Rosa exit in https://t.co/GaeJnfmPGP",
+          "url": "https://x.com/Osint613/status/2126743469917942120",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126742962818502967",
+          "created_at": "2026-11-28T18:20:09.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "THE BUCKEYES ARE RUNNING IT UP ON MICHIGAN 🌰 https://t.co/vRzsPwyulL",
+          "url": "https://x.com/SportNState/status/2126742962818502967",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126742863195275567",
+          "created_at": "2026-11-28T18:19:46.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Rivalry Week 😳 https://t.co/IDeiYIbabT",
+          "url": "https://x.com/Outkick/status/2126742863195275567",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126742434466189624",
           "created_at": "2026-11-28T18:18:03.000Z",
@@ -169,16 +299,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126737875538755805",
-          "created_at": "2026-11-28T17:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "REAL AMERICA'S MUSIC (RAM) LIVE https://t.co/c6zeK43FUw",
-          "url": "https://x.com/RealAmVoice/status/2126737875538755805",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126737417285873997",
           "created_at": "2026-11-28T17:58:07.000Z",
           "author_name": "Laura Loomer",
@@ -199,26 +319,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126736866904854769",
-          "created_at": "2026-11-28T17:55:56.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Those close to Eisenkot are pushing him to set a clear deadline for coalition negotiations and to put pressure on Bennett.\n\nEisenkot is weighing an announcement, possibly as early as tonight, that he has succeeded in forming a government.\n\nNetanyahu officially announced he is https://t.co/iqVMB09ujr",
-          "url": "https://x.com/Osint613/status/2126736866904854769",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126736855143969219",
-          "created_at": "2026-11-28T17:55:53.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "What a start for UNC. 59-yard TD 🤯 https://t.co/AQDexrnbWT",
-          "url": "https://x.com/Outkick/status/2126736855143969219",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126736556111380793",
           "created_at": "2026-11-28T17:54:42.000Z",
           "author_name": "Sport & State",
@@ -235,36 +335,6 @@
           "author_handle": "ClayTravis",
           "text": "Who is Michigan’s next coach going to be?",
           "url": "https://x.com/ClayTravis/status/2126736259557065210",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126736207790973287",
-          "created_at": "2026-11-28T17:53:19.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Who else but Jeremiah Smith?! 😮‍💨 https://t.co/PhS2YMgiiw",
-          "url": "https://x.com/Outkick/status/2126736207790973287",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126733084259151944",
-          "created_at": "2026-11-28T17:40:54.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "EU's Von der Leyen:\n\nRussia is paying an increasingly heavy price on its war. On the battlefield, its offensive has stalled.\n\nIn September and October, Russia lost more territory than it gained. \n\nAnd even this came at an enormous human cost, more than 50,000 casualties in",
-          "url": "https://x.com/Osint613/status/2126733084259151944",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126732596050583618",
-          "created_at": "2026-11-28T17:38:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "JUST IN: 5.2 magnitude earthquake felt in Santa Monica Bay, California.\n\nContributed by @AZ_Intel_. https://t.co/0DiMn91ecY",
-          "url": "https://x.com/Osint613/status/2126732596050583618",
           "verified": true,
           "verified_type": "blue"
         },
@@ -299,36 +369,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126729479955562669",
-          "created_at": "2026-11-28T17:26:35.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Funny AI commercials are going to dominate the 2028 election with young voters. This Jensen Huang rap is really funny. But it’s going to be wild how quickly they take over the discourse. https://t.co/pTA5S2KYyv",
-          "url": "https://x.com/ClayTravis/status/2126729479955562669",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126729354038112760",
-          "created_at": "2026-11-28T17:26:05.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "BO JACKSON gets Ohio State on the board first! https://t.co/icub7M3ofP",
-          "url": "https://x.com/Outkick/status/2126729354038112760",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126729011451826347",
-          "created_at": "2026-11-28T17:24:43.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Earlier today, UKMTO reported Armed boarders left a cargo ship they seized off Yemen, and the crew is safe. The vessel was boarded at 0630 UTC about 64 nautical miles southwest of Balhaf, where the intruders took command before later vacating. The ship is now continuing to its https://t.co/vTfzdQ5J3E",
-          "url": "https://x.com/Osint613/status/2126729011451826347",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126728659394539985",
           "created_at": "2026-11-28T17:23:19.000Z",
           "author_name": "StockMarket.News",
@@ -349,26 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126726557381415077",
-          "created_at": "2026-11-28T17:14:58.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Yes, you should definitely boycott me. Tell everyone you know to never watch or listen to anything I say on any subject. Boycotts have never worked on any media figure in history. But, who knows, maybe yours will work. Please try. Good luck! https://t.co/Tq2zoUNY0f",
-          "url": "https://x.com/ClayTravis/status/2126726557381415077",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126725709477683700",
-          "created_at": "2026-11-28T17:11:36.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Do you think LSU has not been spinning everyone they can with their own PR team too? Arguing that the SEC is unfairly targeting them and that they are doing nothing wrong? This is legit how every battle like this goes. https://t.co/lZxSbgZ8Ha",
-          "url": "https://x.com/ClayTravis/status/2126725709477683700",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126724116174565884",
           "created_at": "2026-11-28T17:05:16.000Z",
           "author_name": "The Kobeissi Letter",
@@ -377,16 +397,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126724116174565884",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126722526609076533",
-          "created_at": "2026-11-28T16:58:57.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "For the second consecutive year, Outsports is pointing the outrage machine at Christian athletes participating in the NFL’s My Cause My Cleats charity campaign. \n\nThis year's target? Brock Purdy, who wants to help (GASP) feed hungry children.\nhttps://t.co/YL1v9v6DOI",
-          "url": "https://x.com/SportNState/status/2126722526609076533",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126720298250842507",
@@ -547,16 +557,6 @@
           "url": "https://x.com/MattWalshBlog/status/2126658818595586278",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126651808328396947",
-          "created_at": "2026-11-28T12:17:57.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Trump Family’s World Liberty Financial token, $WLFI, falls over -50% in minutes and their stablecoin depegs from the US Dollar. https://t.co/4rEwZOMoPB",
-          "url": "https://x.com/KobeissiLetter/status/2126651808328396947",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126649881611899155",
@@ -857,16 +857,22 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bayern Munich’s Joshua Kimmich speaks out after his red card in 0-0 draw with Hamburg",
-          "summary": "Photo by Ibrahim OT / AFP via Getty Images | AFP via Getty Images Bayern Munich were awful in the 0-0 draw with Hamburger SV, getting their work cut out for them after Joshua Kimmich was sent off for pulling someone’s hair. Speaking after the match, the Bayern captain made it clear that he had let the team down and that his lashing out was inexcusable.",
+          "headline": "Takeaways from FSU's loss to Florida",
+          "summary": "The Florida State Seminoles had a chance to become bowl-eligible with a win in their regular season finale against the Florida Gators. It was a valiant effort defensively for most of the game, but eventually the Seminoles fell 26-10 in Doak Campbell Stadium.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/bayern-munich-joshua-kimmich-speaks-180441628.html"
+          "url": "https://sports.yahoo.com/college-football/articles/takeaways-fsus-loss-florida-181943156.html"
         },
         {
-          "headline": "Ben Roethlisberger, Antonio Brown reunite after Steelers win over Broncos",
-          "summary": "(Photo by Justin K. Aller/Getty Images) | Getty Images This week continues to be filled with surprises.",
+          "headline": "Vincent Kompany explains heavy rotation in Bayern Munich’s goalless draw with Hamburger SV",
+          "summary": "Photo by Christina Pahnke - sampics/Getty Images | Getty Images Bayern Munich rolled out a heavily rotated starting XI against Hamburger SV, but had to abandon whatever plans they had after Joshua Kimmich was given his marching orders just before halftime. Speaking after the game, the Belgian coach explained his in-game decisions.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/ben-roethlisberger-antonio-brown-reunite-180239739.html"
+          "url": "https://sports.yahoo.com/soccer/articles/vincent-kompany-explains-heavy-rotation-181914108.html"
+        },
+        {
+          "headline": "Pittsburgh's win over Denver turned down the noise, but coach Mike McCarthy’s real test starts now",
+          "summary": "Steelers coach Mike McCarthy faces a tough road ahead even after Pittsburgh's victory over Denver",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/pittsburghs-win-denver-turned-noise-coach-mike-mccarthys-138501897"
         },
         {
           "headline": "Jeers for Man United after second 4-0 rout for Pochettino in Premier League",
@@ -879,12 +885,6 @@
           "summary": "Carlos Alcaraz has powered Spain to the Davis Cup final and it will play Italy for the title in Bologna",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/alcaraz-spain-davis-cup-final-after-2-0-138497301"
-        },
-        {
-          "headline": "Bears Discussion: Lions recap, NFC North race preview, 2027 NFL Draft risers",
-          "summary": "Newly acquired Chicago Bears defensive tackle Jeffery Simmons (99) warms up before practice at Halas Hall on Friday, Oct. 30, 2026, in Lake Forest, Illinois.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bears-discussion-lions-recap-nfc-180000017.html"
         }
       ]
     },
@@ -893,16 +893,22 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Continues Its Rule With $22.5 Million as ‘Focker-In-Law’ Makes $10.5 Million on Friday",
-          "summary": "“The Hunger Games” may have first hit theaters 14 years ago, but moviegoers are proving they still can’t get enough of the dystopian franchise as “Sunrise on the Reaping,” the latest entry, continues to rule the box office. “Sunrise on the Reaping” took the No.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-on-the-reaping-focker-in-law-1236960026/"
+          "headline": "‘Hunger Games: Sunrise on the Reaping’ Carts Away $22.5M at Black Friday Box Office as ‘Hexed’ Fizzles",
+          "summary": "Lionsgate's latest offering in its dystopian franchise eyes $83.5 million for the five-day Thanksgiving frame, outpacing 'Focker-in-Law' and Disney's pricey original animated feature 'Hexed.'",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-reaping-thanksgiving-box-office-hexed-1236764376/"
         },
         {
           "headline": "‘His Weakest Creatures’ Director on Offering Hope to Egyptians With His Feel-Good Crime Comedy, Starring Ahmed Helmy and Hend Sabry",
           "summary": "Egyptian filmmaker Omar Hilal (“Voy! Voy!",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/his-weakest-creatures-crime-comedy-ahmed-helmy-hend-sabry-1236959991/"
+        },
+        {
+          "headline": "‘Clarissa’ Directing Duo on How Sophie Okonedo and Star-Studded Ensemble Brought Neon’s Lagos-Set ‘Mrs. Dalloway’ Adaptation to Life",
+          "summary": "It’s been a whirlwind year for Chuko and Arie Esiri, the breakout Nigerian directing duo whose star-studded, Lagos-set “Mrs. Dalloway” reinterpretation “Clarissa” wowed audiences at this year’s Cannes Film Festival.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/global/clarissa-sophie-okonedo-neon-lagos-mrs-dalloway-1236959943/"
         },
         {
           "headline": "In 'All of a Sudden,' Ryusuke Hamaguchi shifts focus from spoken words to pure feeling",
@@ -915,12 +921,6 @@
           "summary": "Kevin Wilson tells The Hollywood Reporter about the 'Rocky' origin story's \"great start,\" 'How to Rob a Bank' underperforming (\"Still trying to figure it out\") and the 'Ali G' strategy: \"That theatrical hurdle is just tough.\"",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/"
-        },
-        {
-          "headline": "Masaaki Yuasa’s ‘Daisy’s Life’ Unveils First Look Images From Japanese Anime Giant’s Next Feature",
-          "summary": "The first images from the animated adaptation of Banana Yoshimoto’s novel comes ahead of the movie now scheduled to hit theaters in Japan in 2027.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/masaaki-yuasas-daisys-life-first-look-1236764141/"
         }
       ]
     },
@@ -1001,6 +1001,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Ye Releases New Song ‘Out of My Mind’: Stream It Here",
+          "summary": "Ye surprised fans with a new song on Black Friday. The 49-year-old rap superstar, formerly known as Kanye West , released his latest single, “Out of My Mind,” on streaming platforms Friday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-out-of-my-mind-stream-here-1236390515/"
+        },
+        {
           "headline": "Devo Bring ‘Whip It’ to Thanksgiving Day Parade",
           "summary": "New-wave legends hop aboard the GEICO float to bring their 1980 classic to the postponed parade",
           "source": "Rolling Stone",
@@ -1019,12 +1025,6 @@
           "url": "https://www.billboard.com/music/music-news/raye-2026-macys-thanksgiving-day-parade-joy-1236390509/"
         },
         {
-          "headline": "Tyla & PARTYNEXTDOOR, Dolly Parton & Freddie Jackson Tributes & More Highlights From 2026 Soul Train Awards",
-          "summary": "The Tyla hit “Chanel” was crowned R&B/soul song of the year and PARTYNEXTDOOR was honored as Spotify’s RNB X international artist during the 2026 Soul Train Awards. The Friday (Nov.",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/lists/soul-train-awards-2026-recap-tyla-partynextdoor/"
-        },
-        {
           "headline": "Olivia Rodrigo Delivers Another Christmas Song",
           "summary": "Listen to “Miss This Christmas”",
           "source": "Pitchfork",
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T13:20:07-05:00"
+  "updatedAt": "2026-11-28T13:40:37-05:00"
 }
