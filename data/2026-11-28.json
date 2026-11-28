@@ -42,10 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Macy's Thanksgiving Day Parade kicks off after being postponed",
-          "summary": "The Macy's Thanksgiving Day Parade is kicking off in New York City Saturday morning after it was postponed for the first time in its 100-year history.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-2026-nyc/"
+          "headline": "What to know about the weather-delayed 100th Macy's Thanksgiving Day Parade",
+          "summary": "The 100th annual Macy's Thanksgiving Day Parade will take place Saturday morning.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/GMA/Living/weather-delayed-100th-macys-thanksgiving-day-parade/story?id=138486032"
         },
         {
           "headline": "WWE star Bronson Reed dies at 38 due to 'medical complications'",
@@ -79,6 +79,66 @@
       "stories": [],
       "posts": [
         {
+          "id": "2126702600024473810",
+          "created_at": "2026-11-28T15:39:46.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Israeli troops recovered 15 Kalashnikov rifles, 2 mobile phones and more than 100 kg of drugs overnight from balloons that crossed into Israel from the west. The items were transferred to security forces, according to the IDF. https://t.co/C9x9mRbWdE",
+          "url": "https://x.com/Osint613/status/2126702600024473810",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126702405157060997",
+          "created_at": "2026-11-28T15:39:00.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "US semiconductor stocks are seeing nearly unprecedented volatility:\n\nOn Tuesday, the Semiconductor Index, SOX, underperformed the Nasdaq 100 by 5.9 percentage points, its 4th-biggest daily underperformance on record.\n\nThis was exceeded only in 2 trading sessions in 2000 and one https://t.co/MFY3TmuNrd",
+          "url": "https://x.com/KobeissiLetter/status/2126702405157060997",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126700895907799049",
+          "created_at": "2026-11-28T15:33:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Bannon: Charlie Kirk's assassination had a direct impact on the midterm elections.\n\nSteve Bannon gets brutally candid about what the conservative movement lost with Charlie Kirk, revealing his behind-the-scenes efforts to prevent a regime-change war and questioning why Christian https://t.co/MbqkUoMsXi",
+          "url": "https://x.com/RealAmVoice/status/2126700895907799049",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126700582689800339",
+          "created_at": "2026-11-28T15:31:45.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Mark Pope had his team looking like fools last night 🤪 https://t.co/KxXPgLeyFE",
+          "url": "https://x.com/Outkick/status/2126700582689800339",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126699459035664689",
+          "created_at": "2026-11-28T15:27:17.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Trump declares an “Act of God” after a storm devastates the golf course at the center of his legal battle with Judge Reyes!\n\nTrump says the Potomac seawalls have collapsed, leaving the property submerged and forcing the Department of the Interior to close the course.\n\nThe https://t.co/N6dIeujnJm",
+          "url": "https://x.com/RealAmVoice/status/2126699459035664689",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126698476394475703",
+          "created_at": "2026-11-28T15:23:23.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
+          "url": "https://x.com/_Investinq/status/2126698476394475703",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2126696434288267700",
           "created_at": "2026-11-28T15:15:16.000Z",
           "author_name": "Laura Loomer",
@@ -107,16 +167,6 @@
           "url": "https://x.com/MattWalshBlog/status/2126693225570369854",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126692576862646403",
-          "created_at": "2026-11-28T14:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "WAR ROOM SATURDAY EDITION https://t.co/5oDfyUp5vA",
-          "url": "https://x.com/RealAmVoice/status/2126692576862646403",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126689662320210385",
@@ -197,16 +247,6 @@
           "url": "https://x.com/MattWalshBlog/status/2126681196436292080",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126680396838600830",
-          "created_at": "2026-11-28T14:11:33.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "GET THE VINYL at https://t.co/21oaE7cSJJ",
-          "url": "https://x.com/RealAmVoice/status/2126680396838600830",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126677459252744242",
@@ -529,16 +569,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126462392628654522",
-          "created_at": "2026-11-27T23:45:16.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Ariel Investments vice chair Charlie Bobrinskoy says the AI trade has gone from bubble to modestly overpriced, and he still won't touch Nvidia at 9 times earnings\n\n\"On a scale of 1 to 10, I thought that AI stocks and technology were at an 8, but now that's probably down to a 6\" https://t.co/eV8qYzGL3n",
-          "url": "https://x.com/_Investinq/status/2126462392628654522",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126453063091110355",
           "created_at": "2026-11-27T23:08:12.000Z",
           "author_name": "The Kobeissi Letter",
@@ -559,16 +589,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126445892106432794",
-          "created_at": "2026-11-27T22:39:42.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Bo Nix turning the ball over https://t.co/ANgBSBYIww",
-          "url": "https://x.com/Outkick/status/2126445892106432794",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126436956490137642",
           "created_at": "2026-11-27T22:04:12.000Z",
           "author_name": "SightBringer",
@@ -577,16 +597,6 @@
           "url": "https://x.com/_The_Prophet__/status/2126436956490137642",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126434072331534650",
-          "created_at": "2026-11-27T21:52:44.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: Speculative investors have reduced their Nasdaq 100 futures positioning by an amount equivalent to 17% of total open interest over the last 6 weeks, the largest 6-week reduction since the 2022 bear market.\n\nThis marks a sharp reversal from the 6-week increase that ended https://t.co/SlimjZpxoE",
-          "url": "https://x.com/KobeissiLetter/status/2126434072331534650",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126422474812465551",
@@ -665,16 +675,6 @@
           "author_handle": "Osint613",
           "text": "The UN peacekeeping force in southern Lebanon may stay past its end-of-year expiry.\n\nLebanon's PM to AP: a proposal is taking shape for the Security Council to allow it. https://t.co/fJSXxXWkgw",
           "url": "https://x.com/Osint613/status/2126356527904854427",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126355174226530619",
-          "created_at": "2026-11-27T16:39:13.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Russia's Foreign Ministry accuses Latvia of putting up obstacles to Russian grain exports to world markets.\n\nThe ministry also alleges Latvia allowed Ukrainian drones to pass through Latvian airspace to attack targets in Russia.\n\nOvernight, the Latvian army detected a threat in",
-          "url": "https://x.com/Osint613/status/2126355174226530619",
           "verified": true,
           "verified_type": "blue"
         },
@@ -857,16 +857,10 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Venables joins 250 goal club as Penybont beat Ferry",
-          "summary": "Friday, 27 November Briton Ferry Llansawel 1-2 Penybont Ferry were on the back foot as early as the third minute after conceding a penalty that Chris Venables converted for the visitors. It was the striker's 250th goal in the top flight that sees him join Marc Lloyd Williams and Rhys Griffiths as the only players to reach that mark in the league.",
+          "headline": "Mesa football stuns Brophy Prep to reach 6A title game",
+          "summary": "In the first half of the 6A state semifinals on Friday, Nov. 27, it was all Phoenix Brophy Prep.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/venables-joins-250-goal-club-214906094.html"
-        },
-        {
-          "headline": "Nottingham Forest Stun Chelsea 3-2 as London Side Keeps Losing",
-          "summary": "Jul 13, 2025; East Rutherford, New Jersey, USA; Chelsea FC midfielder Cole Palmer (10) reacts during the final of the 2025 FIFA Club World Cup at MetLife Stadium. Mandatory Credit: Vincent Carchietta-Imagn Images Nottingham Forest held off a late Chelsea push to win 3-2 at the City Ground on Friday, handing the Blues their third consecutive Premier…",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/nottingham-forest-stun-chelsea-3-150000004.html"
+          "url": "https://sports.yahoo.com/high-school-sports/articles/mesa-football-stuns-brophy-prep-152704503.html"
         },
         {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC; Indiana path narrows",
@@ -885,6 +879,12 @@
           "summary": "United States needed a win to secure one of four direct World Cup berths for the region",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/soccer/news/uswnt-vs-el-salvador-takeaways-ashley-sanchez-six-minute-hat-trick-helps-clinch-spot-in-2027-world-cup/"
+        },
+        {
+          "headline": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals",
+          "summary": "Deni Avdija had 26 points and eight rebounds, Toumani Camara added 20 points and eight rebounds and the Portland Trail Blazers beat the Golden State Warriors 116-94 on Friday night to advance to the NBA Cup quarterfinals",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/trail-blazers-beat-warriors-116-94-advance-nba-138493414"
         }
       ]
     },
@@ -929,16 +929,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "The Weekend Read: Is Netflix The New Cable? Do You Trust Joe Rogan? A Metaphorical Marriage ‘Bunker’, Remembering British Legend Jeremy Conway & Inside The Making Of ‘Hoppers’",
+          "summary": "It’s time for The Weekend Read — Deadline’s curated collection of the long-form stories you might have missed this week. First off, we have a deep dive into Netflix’s evolution from network television’s foe into a lifesaving friend.",
+          "source": "Deadline",
+          "url": "https://deadline.com/lists/the-weekend-read-netflix-as-cable-joe-rogan-bunker-tribute/"
+        },
+        {
           "headline": "Broadway Gets Speed-Dating-Style Tribute At Macy’s Thanksgiving Day Parade",
           "summary": "The Macy’s Thanksgiving Day Parade’s “All-Star Broadway Thanksgiving Day Celebration” went off without a hitch, even if it seemed more like a Broadway-themed speed-dating exercise. Nine musical productions – a mix of long-running shows and newcomers – were each given about a minute to show their stuff and pitch a nationwide audience on buying a […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/macys-thanksgiving-parade-broadway-medley-1237234533/"
-        },
-        {
-          "headline": "Channel 4 Defends Huw Edwards Doc After Government Criticism: “There Is Clear Public Interest In Confronting Him With Questions”",
-          "summary": "Channel 4 has been forced to defend its Huw Edwards doc three days before it premieres, with the network’s news chief saying the film has “clear public interest.” Channel 4 unveiled Huw Edwards – Guilty last week and it will air Tuesday night. It has already been met with a barrage of criticism including from […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/channel-4-responds-huw-edwards-doc-government-criticism-1237234520/"
         },
         {
           "headline": "‘Outlander: Blood of My Blood’ Bosses on the Season 2 Finale Twist That Would Rewrite the Series’ Lore, Who Won’t Appear on the Show — and Its Uncertain Future",
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T10:17:49-05:00"
+  "updatedAt": "2026-11-28T10:46:33-05:00"
 }
