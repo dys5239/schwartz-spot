@@ -79,6 +79,26 @@
       "stories": [],
       "posts": [
         {
+          "id": "2126497119154618450",
+          "created_at": "2026-11-28T02:03:16.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Elite argument. https://t.co/yUlOlRpmbq",
+          "url": "https://x.com/ClayTravis/status/2126497119154618450",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126496392206315699",
+          "created_at": "2026-11-28T02:00:22.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "Fundstrat's Tom Lee says this might be the best entry point for stocks in 18 months, and high yield has never posted two negative years in a row\n\n\"I mean, this might be the best entry point in the last 18 months to own stocks to expect double digit gains\"\n\n\"High Yield in its https://t.co/IyoieXURj0",
+          "url": "https://x.com/_Investinq/status/2126496392206315699",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
           "id": "2126491449722302494",
           "created_at": "2026-11-28T01:40:44.000Z",
           "author_name": "Elon Musk",
@@ -379,16 +399,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126430075939955165",
-          "created_at": "2026-11-27T21:36:51.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "China just imported a record $209.2B of gold in the first 10 months of 2026 🇨🇳\n\nThat's more than double the $100.5B it imported in all of 2025, per China Customs data\n\nGold now makes up about 8% of China's total imports and more than 20% of its trade surplus, both all-time highs https://t.co/mqzJGE1UHf",
-          "url": "https://x.com/_Investinq/status/2126430075939955165",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126429095680692353",
           "created_at": "2026-11-27T21:32:58.000Z",
           "author_name": "Tim Pool",
@@ -585,36 +595,6 @@
           "author_handle": "ClayTravis",
           "text": "What a kick! Maybe this is the Bills year. At last. Amazing day of football.",
           "url": "https://x.com/ClayTravis/status/2126171012186493154",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126127595360244064",
-          "created_at": "2026-11-27T01:34:54.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Really funny. https://t.co/HVfZIJfCLi",
-          "url": "https://x.com/ClayTravis/status/2126127595360244064",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126126803542819170",
-          "created_at": "2026-11-27T01:31:46.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "I watched the entire game and I legit can’t believe the Cowboys lost this game.",
-          "url": "https://x.com/ClayTravis/status/2126126803542819170",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126122192110784541",
-          "created_at": "2026-11-27T01:13:26.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "This is the most Cowboys game possible.",
-          "url": "https://x.com/ClayTravis/status/2126122192110784541",
           "verified": true,
           "verified_type": "blue"
         },
@@ -847,16 +827,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Jamaica earns World Cup spot by defeating Costa Rica 3-0 in Concacaf W Championship",
-          "summary": "For just the third time, Jamaica has qualified for the 2027 Women’s World Cup. Jody Brown, Kiki Van Zanten and Khadija “Bunny” Shaw scored the goals in a 3-0 win over Costa Rica at Texas Health Stadium in Mansfield, Texas, on Friday night.",
+          "headline": "Lady Vols defeat Florida Gulf Coast in Coconut Hoops Tournament",
+          "summary": "Tennessee (7-1) defeated Florida Gulf Coast (4-4), 88-80, on Friday in the Coconut Hoops Tournament at Alico Arena in Fort Myers, Florida. Tennessee and Florida Gulf Coast are in the Great Egret Division bracket.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/jamaica-earns-world-cup-spot-013105872.html"
+          "url": "https://sports.yahoo.com/womens-college-basketball/articles/lady-vols-defeat-florida-gulf-015906741.html"
         },
         {
-          "headline": "Mangiapane scores twice, Knight makes 30 saves to help Blackhawks edge Rangers 2-1",
-          "summary": "CHICAGO (AP) — Andrew Mangiapane scored two power-play goals in the first period, Spencer Knight made 30 saves and the Chicago Blackhawks held off the New York Rangers 2-1 on Friday night for their fourth straight victory. Mika Zibanejad connected on the power play for the Rangers, who lost their third straight despite outshooting Chicago 31-10 overall…",
+          "headline": "Rangers’ slide reaches three games as they outplay Blackhawks but lose 2-1",
+          "summary": "The New York Rangers dominated the Chicago Blackhawks at United Center on Friday night everywhere but where it counted — on the scoreboard. New York’s losing streak reached three games when the Hawks rode two first-period power-play goals by Andrew Mangiapane and a 30-save performance by Spencer Knight to a 2-1 victory, their fourth straight win.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nhl/articles/mangiapane-scores-twice-knight-makes-012402920.html"
+          "url": "https://sports.yahoo.com/nhl/articles/rangers-slide-reaches-three-games-015113243.html"
         },
         {
           "headline": "Cincinnati knocks off previously unbeaten Boston College 70-59 in the ESPN Events Invitational",
@@ -865,10 +845,10 @@
           "url": "https://abcnews.com/Sports/wireStory/cincinnati-knocks-off-previously-unbeaten-boston-college-70-138489746"
         },
         {
-          "headline": "Flyers beat Canucks 5-2 after leading scorer Matvei Michkov is benched for 'internal team matter'",
-          "summary": "Travis Konecny, Porter Martone and Tyson Foerster scored on the power play and the Flyers beat the Vancouver Canucks 5-2, with Philadelphia leading scorer Matvei Michkov benched",
+          "headline": "Sam Bennett scores 200th career goal with 24 seconds left as Panthers beat Capitals 3-2",
+          "summary": "Sam Bennett scored with 24 seconds remaining, the 200th goal of his career, and the Florida Panthers rallied past the Washington Capitals 3-2",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/flyers-beat-canucks-5-2-after-leading-scorer-138489646"
+          "url": "https://abcnews.com/Sports/wireStory/sam-bennett-scores-200th-career-goal-24-seconds-138489647"
         },
         {
           "headline": "Black Friday scorigami: Steelers-Broncos ends with final score that's never happened before in NFL history",
@@ -1023,5 +1003,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T20:43:12-05:00"
+  "updatedAt": "2026-11-27T21:13:31-05:00"
 }
