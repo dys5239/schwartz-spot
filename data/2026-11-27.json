@@ -12,12 +12,6 @@
           "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
         },
         {
-          "headline": "AI shopping agents face huge threats on Black Friday. Here's what to know.",
-          "summary": "Visa is bracing for a battle online among AI shopping agents targeted by fraudulent bots. Ash-har Quraishi has more.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/ai-shopping-agents-face-huge-threats-on-black-friday-heres-what-to-know/"
-        },
-        {
           "headline": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
           "summary": "Los Angeles school officials have disabled AI-generated summaries in Google searches on school-issued devices",
           "source": "ABC News",
@@ -34,6 +28,12 @@
           "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
         }
       ]
     },
@@ -78,16 +78,6 @@
       "title": "On X",
       "stories": [],
       "posts": [
-        {
-          "id": "2126511383013630090",
-          "created_at": "2026-11-28T02:59:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "TURNING POINT TONIGHT SHOW https://t.co/gAHLaZcvY5",
-          "url": "https://x.com/RealAmVoice/status/2126511383013630090",
-          "verified": true,
-          "verified_type": "business"
-        },
         {
           "id": "2126510132473352489",
           "created_at": "2026-11-28T02:54:58.000Z",
@@ -405,6 +395,16 @@
           "author_handle": "Outkick",
           "text": "Mac Jones time this weekend for the Niners😈  https://t.co/WssLH5Gk1D",
           "url": "https://x.com/Outkick/status/2126445574849241529",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126440668168098281",
+          "created_at": "2026-11-27T22:18:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "THE BEAST rolls through the Sunshine State!\n\nWATCH: President Trump's iconic presidential limousine and motorcade make their way through Florida following a visit to Trump International Golf Club. Trump is expected to return to the White House on Sunday.\n\nhttps://t.co/r4XdONgmrm",
+          "url": "https://x.com/RealAmVoice/status/2126440668168098281",
           "verified": true,
           "verified_type": "business"
         },
@@ -777,16 +777,16 @@
           "url": "https://www.cbsnews.com/video/lawmakers-ask-trump-to-rescind-putins-g20-invitation-over-alleged-intelligence-sharing-with-iran/"
         },
         {
-          "headline": "Lions have long break and hope to get healthy after falling out of division lead with loss to Bears",
-          "summary": "The Detroit Lions will have more than a week off before their next game",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Politics/wireStory/lions-long-break-hope-healthy-after-falling-division-138489463"
-        },
-        {
           "headline": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media",
           "summary": "Civil rights attorneys claim the Trump administration is abusing the grand jury process in an effort to unmask social media users anonymously criticizing its immigration enforcement tactics",
           "source": "ABC News",
           "url": "https://abcnews.com/Politics/wireStory/aclu-seeks-court-order-blocking-trump-administrations-efforts-138488643"
+        },
+        {
+          "headline": "NY Senate leader Andrea Stewart-Cousins, first woman in the role, dies at 76",
+          "summary": "New York state Senate Majority Leader Andrea Stewart-Cousins has died",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Politics/wireStory/ny-senate-leader-andrea-stewart-cousins-woman-role-138488279"
         },
         {
           "headline": "With Abbott out, what does the future look like for data centers in Texas?",
@@ -837,28 +837,28 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "ESPN predicts Colorado vs. UCF winner for Week 13 season finale",
-          "summary": "Colorado heads into the final weekend of the season with nothing to play for except pride and perhaps its head coach, as Deion Sanders' job status behind this season remains up in the air. The Buffaloes' offense needs to limit turnovers after a four-turnover outing last weekend against Cincinnati.",
+          "headline": "Lionel Messi, Inter Miami crash out of MLS playoffs in first round with 1-0 loss to Columbus Crew",
+          "summary": "Just one year after taking home the MLS Cup, Inter Miami is out of the playoffs in the first round. The No.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/espn-predicts-colorado-vs-ucf-025327987.html"
+          "url": "https://sports.yahoo.com/soccer/article/lionel-messi-inter-miami-crash-out-of-mls-playoffs-in-first-round-with-1-0-loss-to-columbus-crew-031346072.html"
         },
         {
-          "headline": "Heat eliminate Knicks from NBA Cup contention behind Giannis Antetokounmpo's 20-20 game",
-          "summary": "NBA: FINAL: Heat hold off Knicks 108-105. Giannis Antetokounmpo grabs a career-high 23 rebounds as Miami eliminates the defending NBA Cup champs .",
+          "headline": "Isaiah Joe scores 22 points, Pistons' reserves power NBA Cup win over Bucks",
+          "summary": "DETROIT (AP) — Isaiah Joe scored 22 points to help the Detroit Pistons overcome a slow start and beat the Milwaukee Bucks 113-98 in an NBA Cup game Friday night. The Pistons wpn East Group A at 3-1 with a better points differential than the Toronto Raptors and Orlando Magic.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nba/articles/heat-eliminate-knicks-nba-cup-025159018.html"
+          "url": "https://sports.yahoo.com/nba/articles/isaiah-joe-scores-22-points-030958560.html"
         },
         {
-          "headline": "Trio rallies Texas A&M to 76-74 victory over Marquette at Battle 4 Atlantis",
-          "summary": "PJ Haggerty and Mackenzie Mgbako both scored 21 points, and Jordan Pope picked up a loose ball and scored at the buzzer to lift Texas A&M to a 76-74 victory over Marquette in the Signature Series of the Battle 4 Atlantis",
+          "headline": "Jadan Baugh helps No. 20 Florida beat Florida State for third straight time, 26-10",
+          "summary": "Jadan Baugh became the first Florida tailback with consecutive 1,000-yard rushing seasons and scored on a 3-yard run to help the No. 20 Gators beat Florida State 26-10 on Friday",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/trio-rallies-texas-76-74-victory-marquette-battle-138490482"
+          "url": "https://abcnews.com/Sports/wireStory/jadan-baugh-helps-20-florida-beat-florida-state-138490230"
         },
         {
-          "headline": "Vokietaitis has 29 points, 11 rebounds as No. 7 Texas beats Saint Mary's 76-73 to win Rady title",
-          "summary": "Matas Vokietaitis had 29 points and 11 rebounds for No. 7 Texas, which used a late 13-0 run to overtake Saint Mary’s and win 76-73 in the Rady Children’s Invitational championship game",
+          "headline": "Temple rallies from 17 down in 4th quarter to stun Memphis 35-31 in regular-season finale",
+          "summary": "Jaxon Smolik threw an 11-yard touchdown pass to JoJo Bermudez with 13 seconds left and Temple rallied from a 17-point fourth-quarter deficit, stunning Memphis 35-31 to close out the regular season and end a six-game losing streak",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/vokietaitis-29-points-11-rebounds-7-texas-beats-138490579"
+          "url": "https://abcnews.com/Sports/wireStory/temple-rallies-17-4th-quarter-stun-memphis-35-138490473"
         },
         {
           "headline": "Black Friday scorigami: Steelers-Broncos ends with final score that's never happened before in NFL history",
@@ -951,12 +951,6 @@
           "url": "https://deadline.com/2026/11/federal-film-tv-incentive-guest-column-ruth-vitale-1237234279/"
         },
         {
-          "headline": "2026 Deaths Photo Gallery: Hollywood & Media Obituaries",
-          "summary": "Click through a photo gallery of Hollywood and media figures we’ve lost during 2026.",
-          "source": "Deadline",
-          "url": "https://deadline.com/gallery/2026-hollywood-media-deaths-photo-gallery-obituaries/"
-        },
-        {
           "headline": "Trump’s “Noisy Name-Calling” Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter’s Nvidia Dispatch",
           "summary": "Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different.",
           "source": "Deadline",
@@ -973,6 +967,12 @@
           "summary": "The ruling is a major setback for the administration in the government's campaign against ABC and national media.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790/"
+        },
+        {
+          "headline": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
+          "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163/"
         }
       ]
     },
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T22:14:24-05:00"
+  "updatedAt": "2026-11-27T22:18:18-05:00"
 }

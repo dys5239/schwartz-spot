@@ -74,6 +74,14 @@ SUPERSEDE_HOURS = 24
 # hot (CBS "Trump claims 'fake economic numbers'..." + ABC "Trump calls the
 # pre-election GDP figures 'fake'..." both name GDP / Commerce / Department).
 TOPIC_SHARED_ENTITIES = 3
+# Editor (Nov 27): within a section, two headlines sharing this many content
+# words (any case, digits/scores ignored) are the same subject. CBS ran its
+# article "Fake online stores may fool AI shopping bots on Black Friday" and its
+# video "AI shopping agents face huge threats on Black Friday" together in AI for
+# 25 of 30 runs (shared: ai/shopping/black/friday, all exempt as entities).
+# Replayed Nov 18-27: hits were same-subject pairs (Apple AI agent x2, Mynd
+# Reader sessions, Miley Cyrus, Hunger Games, Fiona hippo, Seattle ICE).
+TOPIC_SHARED_HEADLINE_WORDS = 4
 
 # section -> list of feeds. "prefer" is an optional URL-path substring
 # list; if set, items whose URL matches are preferred for that section.
@@ -207,9 +215,11 @@ LOCAL_OUTLET_RE = re.compile(
 # Editor (Nov 23): sportsbook guides and promo posts live under /betting/ (CBS Sports).
 # Editor (Nov 23, night): NPR "Up First" newsletter digests (several topics in one
 # headline) held a Politics slot 31 of 33 runs and duplicated the House story.
+# Editor (Nov 27): Deadline's year-long "2026 Deaths Photo Gallery" (evergreen)
+# held a Media slot.
 # Editor (Nov 24): Variety ran a BOTOX(R) ad ("Medication Guide, Boxed Warning")
 # in Media for 14 runs; Billboard's evergreen "Music Industry Events Calendar".
-JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter|/biz/lifestyle/|events-calendar", re.I)
+JUNK_URL_RE = re.compile(r"/product-recommendations/|/shopping/|/gift-guide|-strictly-\d+/?$|/betting/|/up-first-newsletter|/biz/lifestyle/|events-calendar|/gallery/[^/]*(deaths|obituar|in-memoriam)", re.I)
 JUNK_HEAD_RE = re.compile(
     # Editor (Nov 26): only Black Friday / Cyber Monday DEAL posts, not retail news
     # ("Necessities join gifts in Black Friday shopping carts", scam warnings).
@@ -474,7 +484,7 @@ SPORTS_TERMS_RE = re.compile(
     r"goalkeeper|goalie|striker|midfielder|hat[- ]trick|Premier League|La Liga|Serie A|Bundesliga|"
     r"Champions League|Europa League|World Cup qualif\w*|Grand Slam|PGA Tour|NASCAR|UFC|"
     r"(first|second) (NFL|NBA|career) start|QB|LB|WR|RB|CB|AFC|NFC|"
-    r"kickers?|punters?|rushing yards|won \d+ straight|\d+-game (skid|winning streak|losing streak))\b|"
+    r"kickers?|punters?|rushing yards|won \d+ straight|division lead|bye week|wild[- ]card (race|spot|berth|round)|\d+-game (skid|winning streak|losing streak))\b|"
     r"\b[Oo]ffense\b.*\b[Dd]efense\b|\b[Dd]efense\b.*\b[Oo]ffense\b|"
     r"\b(Super Bowl|FIFA|LIV|PGA|snapped an? [\w-]+ (losing|winning) streak|"
     r"\d{1,3}-\d{1,3} (win|victory|loss|defeat))\b|\bon offense\b"
@@ -735,6 +745,27 @@ DEPART_RE = re.compile(
     r"\b(resign(s|ed)?|steps? down|stepping down|out at|ousted|ouster|fired|exits?|departs?|quits?|leaves|removed)\b",
     re.I,
 )
+HEADLINE_WORD_RE = re.compile(r"[a-z0-9][a-z0-9'\u2019\-]*")
+HEADLINE_WORD_STOP = set(
+    """
+    the a an and or but of to in on at for with by from as is are was were be been it its his her their our your
+    this that these those how why what who when where which will would can could should may might must new after
+    before over under into out up down off about here what's here's know says say said not no all more most than
+    just now today has have had gets get got amid they them he she we you i my me us via one two three first last
+    next watch live video
+    """.split()
+)
+
+
+def headline_words(story: dict) -> frozenset:
+    out = set()
+    for w in HEADLINE_WORD_RE.findall((story.get("headline") or "").lower()):
+        w = re.sub(r"['\u2019]s$", "", w).strip("'\u2019-")
+        if w and w not in HEADLINE_WORD_STOP and not re.fullmatch(r"[\d\-]+", w):
+            out.add(w)
+    return frozenset(out)
+
+
 RETURN_RE = re.compile(r"\b(returns?|returned|returning|is back|comes back|reinstat\w*|rehired|comeback)\b", re.I)
 
 
@@ -903,6 +934,10 @@ class TopicBudget:
         for other in section_counts.get("__ents", []):
             if len(ents & other) >= TOPIC_SHARED_ENTITIES:
                 return False
+        words = headline_words(story)
+        for other in section_counts.get("__words", []):
+            if len(words & other) >= TOPIC_SHARED_HEADLINE_WORDS:
+                return False
         return True
 
     def take(self, story: dict, section_counts: dict[str, int]) -> None:
@@ -912,6 +947,7 @@ class TopicBudget:
             section_counts[ent] = section_counts.get(ent, 0) + 1
             self.edition[ent] = self.edition.get(ent, 0) + 1
         section_counts.setdefault("__ents", []).append(story_entities(story, self.vocab))
+        section_counts.setdefault("__words", []).append(headline_words(story))
 
 
 def story_key(story: dict) -> str:
