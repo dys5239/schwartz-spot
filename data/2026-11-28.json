@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+          "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Photo Editor app and builds on the existing Move tool.",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera"
+        },
+        {
           "headline": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
           "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/"
-        },
-        {
-          "headline": "As Google threatens to cut schools' search access, Los Angeles blocks AI features",
-          "summary": "Los Angeles school officials have disabled AI-generated summaries in Google searches on school-issued devices",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/google-threatens-cut-schools-search-access-los-angeles-138476437"
         }
       ]
     },
@@ -42,10 +42,16 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Los Angeles hit by 5.0 magnitude earthquake, tremors felt down coastline",
-          "summary": "The initial quake was reported at 9:30 a.m.",
+          "headline": "Los Angeles hit by 5.0 magnitude earthquake",
+          "summary": "The initial quake was reported at 9:30 a.m. The LAFD said no significant damage or injuries were reported.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/4-7-earthquake-manhattan-beach/"
+        },
+        {
+          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
         },
         {
           "headline": "Magnitude 5.0 earthquake reported in Southern California",
@@ -54,22 +60,16 @@
           "url": "https://abcnews.com/US/magnitude-50-earthquake-reported-west-manhattan-beach-california/story?id=138501975"
         },
         {
+          "headline": "Feds find no increase in lead levels in drinking water after Iowa munitions explosion",
+          "summary": "The U.S. Environmental Protection Agency released its preliminary report Saturday on the water conditions following the controlled blast at an Iowa munitions plant.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/feds-find-levels-lead-drinking-water-after-iowa/story?id=138500795"
+        },
+        {
           "headline": "Swinney insists Scotland's NHS is safe despite hospital scandal",
           "summary": "The first minister urged people to attend medical appointments after a leaked report highlighted avoidable deaths at NHS Grampian.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Argentina's bid to stop Falklands oil drilling rejected",
-          "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Thousands without power after Thanksgiving storms",
-          "summary": "The fallout in East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/"
         }
       ]
     },
@@ -78,6 +78,136 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126756149865189679",
+          "created_at": "2026-11-28T19:12:34.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "The Muslim country. \n\nThey also fund global Islamic jihad. \n\nDo fancy planes make up for terror financing? Lmao am I like one of the only people not swayed by fancy shit? \n\nI don’t get it. https://t.co/u4qXqW44dW",
+          "url": "https://x.com/LauraLoomer/status/2126756149865189679",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126754939770700205",
+          "created_at": "2026-11-28T19:07:45.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Ohio State is right where they want to be heading into the second half 🌰\n\nThe Buckeyes' Brotherhood is alive and well on the sideline too...\n\n@StephOtey updates from The Shoe: https://t.co/YXlJeH3sey",
+          "url": "https://x.com/SportNState/status/2126754939770700205",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126754930526417182",
+          "created_at": "2026-11-28T19:07:43.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I don’t care. \n\nAnyone can put lipstick on a pig. https://t.co/SJgVnNQdoJ",
+          "url": "https://x.com/LauraLoomer/status/2126754930526417182",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126754788880867450",
+          "created_at": "2026-11-28T19:07:09.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: President Trump says the US Securities and Exchange Commission (SEC) will soon make the term Super intelligence “mandatory,” replacing Artificial Intelligence. https://t.co/9Ne8YYh3NP",
+          "url": "https://x.com/KobeissiLetter/status/2126754788880867450",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126754369563684927",
+          "created_at": "2026-11-28T19:05:29.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Brazilian President Lula:\n\nGod willing, I want to make Brazil the sixth-largest economy in the world.\n\nI am dreaming very big.",
+          "url": "https://x.com/Osint613/status/2126754369563684927",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126754019704275001",
+          "created_at": "2026-11-28T19:04:06.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "It’s honestly so cringe. Especially for young women. \n\nYoung women do a disservice to other young women when they go on these propaganda tours to the Middle East and pretend like it’s an amazing place.\n\nWomen don’t have rights in the Middle East. It’s all for show. \n\nIt really https://t.co/PuOWXXZQcw",
+          "url": "https://x.com/LauraLoomer/status/2126754019704275001",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126753585819996529",
+          "created_at": "2026-11-28T19:02:22.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING: A large fire and thick smoke are visible at the Chevron refinery following a magnitude 4.7 earthquake Los Angeles County, California. https://t.co/MHqyjVpStV",
+          "url": "https://x.com/RealAmVoice/status/2126753585819996529",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126751751563014465",
+          "created_at": "2026-11-28T18:55:05.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Virginia and Virginia Tech had to be separated after a pregame skirmish ensued at midfield. 🤯\n\nPunches were reportedly thrown, and police officers had to intervene.\n\nvia: @JacquieFran_  https://t.co/e5oudOOyhQ",
+          "url": "https://x.com/SportNState/status/2126751751563014465",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126751737017221395",
+          "created_at": "2026-11-28T18:55:01.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Chevron refinery on fire after a 5.0 earthquake in Los Angeles County. https://t.co/6fOQrjQ1yH",
+          "url": "https://x.com/Osint613/status/2126751737017221395",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126750908545388840",
+          "created_at": "2026-11-28T18:51:44.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Photo shows a commercial vessel engulfed in flames off the coast of Khasab, after being struck by Iranian anti-ship missiles while transiting the Strait of Hormuz under U.S. escort.\n\nContributed by @MoloWarMonitor https://t.co/qDoKIj1HWZ",
+          "url": "https://x.com/Osint613/status/2126750908545388840",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126749574442242328",
+          "created_at": "2026-11-28T18:46:26.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "More Footage: Shaking at LAX caught on camera as a 5.2 magnitude earthquake hit the Los Angeles area.\n https://t.co/K8E23c4lab",
+          "url": "https://x.com/Osint613/status/2126749574442242328",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126749213283467522",
+          "created_at": "2026-11-28T18:45:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "CHRIS PRATT HAS A  SPECIAL MESSAGE FOR YOUTH\n\n\"Be inspired. Making small choices every single day there is a real power in your ability to become the person you want.\"\n\n@prattprattpratt sat down @thebeaudavidson to talks about his new movie \"Way of the Warrior Kid\". https://t.co/bg04M6ReiE",
+          "url": "https://x.com/RealAmVoice/status/2126749213283467522",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126748304700477851",
+          "created_at": "2026-11-28T18:41:23.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "BO JACKSON making it look easy 🤑 https://t.co/feslUK5StK",
+          "url": "https://x.com/Outkick/status/2126748304700477851",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126747342715941191",
           "created_at": "2026-11-28T18:37:34.000Z",
@@ -107,16 +237,6 @@
           "url": "https://x.com/Outkick/status/2126746976800633306",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126746689692475485",
-          "created_at": "2026-11-28T18:34:58.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Los Angeles M5.0 earthquake, caught on a Manhattan Beach live cam. Damage minimal.\n\n https://t.co/pa6TL2BnHo",
-          "url": "https://x.com/Osint613/status/2126746689692475485",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126746243737280526",
@@ -169,26 +289,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126743632593973487",
-          "created_at": "2026-11-28T18:22:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "NEW: magnitude 5.0 quake struck 6 miles off Manhattan Beach, shaking the Southern California coast. Early reports indicate windows shattered at LAX.",
-          "url": "https://x.com/Osint613/status/2126743632593973487",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126743469917942120",
-          "created_at": "2026-11-28T18:22:10.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Masked gunmen ambushed an armored Jeep headed to Peru’s main airport Friday morning, wounding an Indian man, 29, and a Peruvian woman, 35, before making off with a green suitcase and 2 bags.\n\nA Nissan sedan hit the Jeep from behind around 6:30 a.m. on the Santa Rosa exit in https://t.co/GaeJnfmPGP",
-          "url": "https://x.com/Osint613/status/2126743469917942120",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126742962818502967",
           "created_at": "2026-11-28T18:20:09.000Z",
           "author_name": "Sport & State",
@@ -217,16 +317,6 @@
           "url": "https://x.com/Outkick/status/2126742434466189624",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126741712005435745",
-          "created_at": "2026-11-28T18:15:11.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Israel maintains open relations with some Gulf states and secret relations with others, according to former Qatari Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani. He added that Israel has long held contacts with every Gulf country, mainly on security, and that this is",
-          "url": "https://x.com/Osint613/status/2126741712005435745",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126741663611580453",
@@ -269,16 +359,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126738665833443719",
-          "created_at": "2026-11-28T18:03:05.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Cooper Barkate gets the the first TD of the game for the Canes! https://t.co/XVG2KFQFzU",
-          "url": "https://x.com/Outkick/status/2126738665833443719",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126738196616937803",
           "created_at": "2026-11-28T18:01:13.000Z",
           "author_name": "Clay Travis",
@@ -289,16 +369,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126737897671753830",
-          "created_at": "2026-11-28T18:00:02.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "America's Top 10 for 11/28/26 #1 STORY OF THE WEEK\n\n@realwayneroot Breaks Down the Top 10 Stories of the Week https://t.co/bDz3PGMUOw",
-          "url": "https://x.com/RealAmVoice/status/2126737897671753830",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126737417285873997",
           "created_at": "2026-11-28T17:58:07.000Z",
           "author_name": "Laura Loomer",
@@ -307,16 +377,6 @@
           "url": "https://x.com/LauraLoomer/status/2126737417285873997",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126736882352484472",
-          "created_at": "2026-11-28T17:56:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "It's time to support entertainment that puts FAITH and FAMILY first!\n\nOur friends at @AngelStudiosInc are launching their BIGGEST Black Friday sale of the year!\n\n✨ 44% OFF a Premium Annual Angel Guild membership\n🍫 Two complimentary tickets to see Hershey in theaters\n📺 Access https://t.co/DE89Ehoihh",
-          "url": "https://x.com/RealAmVoice/status/2126736882352484472",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126736556111380793",
@@ -335,16 +395,6 @@
           "author_handle": "ClayTravis",
           "text": "Who is Michigan’s next coach going to be?",
           "url": "https://x.com/ClayTravis/status/2126736259557065210",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126730895612666261",
-          "created_at": "2026-11-28T17:32:12.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Game will ALWAYS mean something. Regardless of the records.\n\n@StephOtey sets the table from Columbus: https://t.co/Yhkijek1SZ",
-          "url": "https://x.com/SportNState/status/2126730895612666261",
           "verified": true,
           "verified_type": "blue"
         },
@@ -379,16 +429,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126727215660302554",
-          "created_at": "2026-11-28T17:17:35.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Oh, Michigan said let's get active 😂 https://t.co/aFkhkYm89j",
-          "url": "https://x.com/SportNState/status/2126727215660302554",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126724116174565884",
           "created_at": "2026-11-28T17:05:16.000Z",
           "author_name": "The Kobeissi Letter",
@@ -399,32 +439,12 @@
           "verified_type": "business"
         },
         {
-          "id": "2126720298250842507",
-          "created_at": "2026-11-28T16:50:06.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Let me just say, I cannot wait to start digging into campaigns come 2028.\n\nAt Loomered Strategies, we will be destroying candidates before their campaigns even get off the ground.",
-          "url": "https://x.com/LauraLoomer/status/2126720298250842507",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126714764394967153",
           "created_at": "2026-11-28T16:28:06.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "True https://t.co/WOhFcp2DkP",
           "url": "https://x.com/elonmusk/status/2126714764394967153",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126709792861536502",
-          "created_at": "2026-11-28T16:08:21.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Lmaoooo there’s no such thing as a “normal trip to Afghanistan”. \n\nCry more, commie. @jacksonhinkle https://t.co/XAtZbdinGh",
-          "url": "https://x.com/LauraLoomer/status/2126709792861536502",
           "verified": true,
           "verified_type": "blue"
         },
@@ -445,16 +465,6 @@
           "author_handle": "_Investinq",
           "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
           "url": "https://x.com/_Investinq/status/2126698476394475703",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126696434288267700",
-          "created_at": "2026-11-28T15:15:16.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "Any lawyer who wants to sue @nbc over airing this blood libel ad now has evidence in the post below that “Middle Seat” @MiddleSeatCo, the progressive Democrat ad agency that placed the ad works within the highest levels of the Democrat Party. \n\nThus, there is no way NBC’s senior https://t.co/afkzzIuenj https://t.co/ySlVj5ZIdw",
-          "url": "https://x.com/LauraLoomer/status/2126696434288267700",
           "verified": true,
           "verified_type": "blue"
         },
@@ -527,16 +537,6 @@
           "url": "https://x.com/Timcast/status/2126674955647528980",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126666775706169620",
-          "created_at": "2026-11-28T13:17:25.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: The Trump family's World Liberty Financial, $WLFI, says Binance \"automatically closed\" both long and short perpetual futures positions overnight.\n\nThis supposedly why $WLFI plunged over -50% in minutes and its stablecoin depegged from the US Dollar.\n\nThe company says it https://t.co/eOsfgOs1y1",
-          "url": "https://x.com/KobeissiLetter/status/2126666775706169620",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126658822647566628",
@@ -785,12 +785,6 @@
       "title": "Politics",
       "stories": [
         {
-          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
-          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
-        },
-        {
           "headline": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
           "summary": "We look at President Trump's messaging over Thanksgiving, as well as what Congress can get done before the holidays.",
           "source": "NPR",
@@ -807,6 +801,12 @@
           "summary": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S. (Image credit: Eric Gay)",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas"
+        },
+        {
+          "headline": "U.S. Air Force cloud platform breached by hackers, report says",
+          "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
         },
         {
           "headline": "ACLU seeks court order blocking Trump administration's efforts to unmask ICE critics on social media",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Takeaways from FSU's loss to Florida",
-          "summary": "The Florida State Seminoles had a chance to become bowl-eligible with a win in their regular season finale against the Florida Gators. It was a valiant effort defensively for most of the game, but eventually the Seminoles fell 26-10 in Doak Campbell Stadium.",
+          "headline": "Seton Hall basketball rallies past Siena to keep resume intact",
+          "summary": "NEWARK – The letdown game arrived for Seton Hall basketball, but the Pirates survived it anyway. Turning up the defense just in time, the Hall rallied from a late four-point deficit to edge Siena 92-89 before a relieved crowd of about 3,500 at the Prudential Center Saturday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/takeaways-fsus-loss-florida-181943156.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/seton-hall-basketball-rallies-past-190932010.html"
         },
         {
-          "headline": "Vincent Kompany explains heavy rotation in Bayern Munich’s goalless draw with Hamburger SV",
-          "summary": "Photo by Christina Pahnke - sampics/Getty Images | Getty Images Bayern Munich rolled out a heavily rotated starting XI against Hamburger SV, but had to abandon whatever plans they had after Joshua Kimmich was given his marching orders just before halftime. Speaking after the game, the Belgian coach explained his in-game decisions.",
+          "headline": "Torino 1-2 Lazio: Danish Duo Conquer Turin Again",
+          "summary": "After scoring against Juventus last month, Oliver Provstgaard and Gustav Isaksen led Lazio to an invaluable victory over Torino on their second visit to the city. Lazio Starting lineup In the absence of Kenneth Taylor, Nuno Tavares and Josip Sutalo, Gennaro Gattuso kept his 4-3-3 formation.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/vincent-kompany-explains-heavy-rotation-181914108.html"
+          "url": "https://sports.yahoo.com/soccer/articles/torino-1-2-lazio-danish-190000768.html"
         },
         {
-          "headline": "Pittsburgh's win over Denver turned down the noise, but coach Mike McCarthy’s real test starts now",
-          "summary": "Steelers coach Mike McCarthy faces a tough road ahead even after Pittsburgh's victory over Denver",
+          "headline": "B.J. Davis takes over in OT, Creighton beats No. 22 Gonzaga 97-89",
+          "summary": "B",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/pittsburghs-win-denver-turned-noise-coach-mike-mccarthys-138501897"
+          "url": "https://abcnews.com/Sports/wireStory/bj-davis-takes-ot-creighton-beats-22-gonzaga-138493971"
         },
         {
-          "headline": "Jeers for Man United after second 4-0 rout for Pochettino in Premier League",
-          "summary": "Manchester United fans have jeered and left early as Mauricio Pochettino’s first home game as head coach ended in 4-0 loss to Brentford in the Premier League",
+          "headline": "Spurs ride second-half surge to earn spot in NBA Cup knockout round with 99-96 victory over Lakers",
+          "summary": "Stephon Castle scored 26 points as the San Antonio Spurs secured a 99-96 victory over the Los Angeles Lakers to advance to the NBA Cup knockout round",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/jeers-man-united-after-4-0-rout-pochettino-138500886"
+          "url": "https://abcnews.com/Sports/wireStory/spurs-ride-half-surge-earn-spot-nba-cup-138493687"
         },
         {
-          "headline": "Alcaraz and Spain through to Davis Cup final after 2-0 win against Britain",
-          "summary": "Carlos Alcaraz has powered Spain to the Davis Cup final and it will play Italy for the title in Bologna",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/alcaraz-spain-davis-cup-final-after-2-0-138497301"
+          "headline": "A soggy meltdown for Bo Nix as the Broncos’ 6-game win streak ends in a 27-5 loss at Pittsburgh",
+          "summary": "ENGLEWOOD, Colo. (AP) — Forty-eight hours after Aaron Rodgers' stunning departure from the Pittsburgh Steelers, it was Bo Nix and the Denver Broncos who were thoroughly disjointed, disorganized and discombobulated in a 27-5 road loss in the rain that snapped their six-game winning streak.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/soggy-meltdown-bo-nix-broncos-185737507.html"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "Anime Legend Masaaki Yuasa Talks Time-Bending Take on Banana Yoshimoto Novel in ‘Daisy’s Life’ (Exclusive)",
+          "summary": "The visionary Japanese animator sat down with The Hollywood Reporter to discuss his long-awaited return to filmmaking with a spring 2027 release tentatively set for the first feature from his new studio, ame pippin.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/anime-legend-masaaki-yuasa-1236764367/"
+        },
         {
           "headline": "‘Hunger Games: Sunrise on the Reaping’ Carts Away $22.5M at Black Friday Box Office as ‘Hexed’ Fizzles",
           "summary": "Lionsgate's latest offering in its dystopian franchise eyes $83.5 million for the five-day Thanksgiving frame, outpacing 'Focker-in-Law' and Disney's pricey original animated feature 'Hexed.'",
@@ -915,12 +921,6 @@
           "summary": "Japanese filmmaker Ryusuke Hamaguchi is known for multilingual movies. But as NPR's Ryan Benk reports, his latest film All of a Sudden is less about what's spoken and more about how it makes you feel.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/28/nx-s1-5965544/in-all-of-a-sudden-ryusuke-hamaguchi-shifts-focus-from-spoken-words-to-pure-feeling"
-        },
-        {
-          "headline": "Strong ‘I Play Rocky,’ ‘How to Rob a Bank’ KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows",
-          "summary": "Kevin Wilson tells The Hollywood Reporter about the 'Rocky' origin story's \"great start,\" 'How to Rob a Bank' underperforming (\"Still trying to figure it out\") and the 'Ali G' strategy: \"That theatrical hurdle is just tough.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/"
         }
       ]
     },
@@ -947,16 +947,16 @@
           "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/"
         },
         {
+          "headline": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
+          "summary": "NBC has pulled from its air a controversial ad that is critical of the United States’ policy of sending financial aid to Israel. The ad ran Wednesday night during the network’s Saturday Night Live Thanksgiving special.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472/"
+        },
+        {
           "headline": "Gayle King to Miss Week of ‘CBS Mornings’ Shows Amid Death of Her Son-in-Law Virgil Miller",
           "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
-        },
-        {
-          "headline": "NBC Pulls Ad Criticizing U.S. Military Aid to Israel After Backlash, Reviews Approval Process",
-          "summary": "The ad aired during Wednesday's 'SNL' Thanksgiving special without senior NBC management's knowledge, a source familiar with the situation tells The Hollywood Reporter.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-pulls-ad-criticizing-us-military-aid-israel-backlash-1236764243/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T13:40:37-05:00"
+  "updatedAt": "2026-11-28T14:18:21-05:00"
 }
