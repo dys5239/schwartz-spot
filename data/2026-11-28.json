@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Trump faces scrutiny over support for Jensen Huang, Putin G20 invite",
-          "summary": "President Trump pushed Nvidia to reinstate Jensen Huang as CEO and invited Russian President Vladimir Putin to the the upcoming G20 Summit in Florida, sparking criticism.",
+          "headline": "New film explores Princess Kate's cancer recovery journey",
+          "summary": "Catherine, Princess of Wales, is opening up about her experience living with and recovering from cancer in a new documentary.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/trump-faces-scrutiny-over-support-for-jensen-huang-putin-g20-invite/"
+          "url": "https://www.cbsnews.com/video/new-film-explores-princess-kates-cancer-recovery-journey/"
         },
         {
-          "headline": "Pensions and benefits services still down after 'cyber incident'",
-          "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Macy's Thanksgiving Day Parade kicks off after being postponed",
-          "summary": "The Macy's Thanksgiving Day Parade is kicking off in New York City Saturday morning after it was postponed for the first time in its 100-year history.",
+          "headline": "Argentina's bid to halt oil drilling off Falkland Islands rejected",
+          "summary": "The International Tribunal for the Law of the Sea voted against Argentina's request to halt drilling at an offshore oil project in Falkland Islands waters.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-2026-nyc/"
+          "url": "https://www.cbsnews.com/news/argentina-united-kingdom-falkland-islands-oil-drilling-international-court/"
         },
         {
-          "headline": "Woman, 21, dies in Staffordshire crash following police pursuit",
-          "summary": "Two forces are being investigated after Friday's late night crash on Rugeley Road in Hednesford.",
+          "headline": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+          "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "WWE star Bronson Reed dies at 38 due to 'medical complications'",
-          "summary": "Jermaine Haley, the WWE star known as Bronson Reed, has died at 38 due to \"medical complications,\" the company announced on Friday.",
+          "headline": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
+          "summary": "Prime ministers have always chased audiences - but does the backlash over Max Balegde’s video show Burnham’s strategy has gone too far?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "What to know about the weather-delayed 100th Macy's Thanksgiving Day Parade",
+          "summary": "The 100th annual Macy's Thanksgiving Day Parade will take place Saturday morning.",
           "source": "ABC News",
-          "url": "https://abcnews.com/US/wwe-star-bronson-reed-dies-38-due-medical/story?id=138490946"
+          "url": "https://abcnews.com/GMA/Living/weather-delayed-100th-macys-thanksgiving-day-parade/story?id=138486032"
         }
       ]
     },
@@ -78,6 +78,126 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126717504697340054",
+          "created_at": "2026-11-28T16:39:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Bannon warns of a Republican CIVIL WAR with Texas at ground zero!\n\nSteve Bannon takes aim at Republican leadership, Fox News and Big Tech oligarchs as he sounds the alarm over the future of the GOP following the midterm losses.\n\nHis warning: “If you don't get Texas back, there is https://t.co/AEvulEmbb2",
+          "url": "https://x.com/RealAmVoice/status/2126717504697340054",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126716669951365470",
+          "created_at": "2026-11-28T16:35:41.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "Santa has arrived 🎅✨! \n\nhttps://t.co/REr9k06eOd",
+          "url": "https://x.com/RealAmVoice/status/2126716669951365470",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126716375892652517",
+          "created_at": "2026-11-28T16:34:31.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Big bro never misses an opportunity to annoy little bro 🤣 https://t.co/POvBCc9pci",
+          "url": "https://x.com/Outkick/status/2126716375892652517",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126716279612649719",
+          "created_at": "2026-11-28T16:34:08.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": ".@POTUS still has it!!! https://t.co/1n03Tnc3Zv",
+          "url": "https://x.com/RealAmVoice/status/2126716279612649719",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126716202533978376",
+          "created_at": "2026-11-28T16:33:49.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Following talks in Islamabad, Saudi Arabia, Pakistan and Turkey announced their intention to combine military and defense industrial capabilities through the Mecca Alliance. Specifics of the arrangement have not been disclosed.",
+          "url": "https://x.com/Osint613/status/2126716202533978376",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126716168602104040",
+          "created_at": "2026-11-28T16:33:41.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Nine winners with @HardRockBet for the final Saturday of the college football regular season. The blood bank guarantee is the under on USC-UCLA. Get rich, kids: https://t.co/JnxBA7OojS",
+          "url": "https://x.com/ClayTravis/status/2126716168602104040",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126715685086838865",
+          "created_at": "2026-11-28T16:31:46.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Jeremiah Smith with some words ahead of Ohio State vs Michigan 😳 https://t.co/R3yZJJgjlu",
+          "url": "https://x.com/Outkick/status/2126715685086838865",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126715294282576194",
+          "created_at": "2026-11-28T16:30:13.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Ohio State and Michigan scrapping pregame 👀 https://t.co/vlRNBAkXnX",
+          "url": "https://x.com/Outkick/status/2126715294282576194",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126715242621153579",
+          "created_at": "2026-11-28T16:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "\"Stop Lying About Midterm Election. We All Know It was Stolen by Mail-in Ballots, Illegal Aliens and The Great Replacement. Which Means President Trump Can Invalidate Election for FOREIGN INTERFERENCE.\" - @realwayneroot\n\nAmerica's Top 10 for 11/28/26 - COMMENTARY https://t.co/9yjJJDRcAP",
+          "url": "https://x.com/RealAmVoice/status/2126715242621153579",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126714764394967153",
+          "created_at": "2026-11-28T16:28:06.000Z",
+          "author_name": "Elon Musk",
+          "author_handle": "elonmusk",
+          "text": "True https://t.co/WOhFcp2DkP",
+          "url": "https://x.com/elonmusk/status/2126714764394967153",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126714491505123393",
+          "created_at": "2026-11-28T16:27:01.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Milei on the Falklands ruling: \"Not the final word.\"\n\nArgentina lost 18 to 3 in its bid to halt oil drilling off the islands. The maritime tribunal ruled it has no jurisdiction over sovereignty.\n\nArgentina will respect the decision, Milei added. The islands \"are Argentine.\"",
+          "url": "https://x.com/Osint613/status/2126714491505123393",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126712878971625830",
+          "created_at": "2026-11-28T16:20:37.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Tap the veins, boys and girls, my Blood Bank for the week is the under in USC-UCLA on @HardRockBet. I feel bad for UCLA with its QB situation, but their defense has held teams to 3, 15, 7, 10, 0, 20, 14, 18 (in triple overtime) in the past eight games. Get it boosted on the app. https://t.co/UAig3a7OQj",
+          "url": "https://x.com/ClayTravis/status/2126712878971625830",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126710288632213593",
           "created_at": "2026-11-28T16:10:19.000Z",
@@ -139,26 +259,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126706289438810505",
-          "created_at": "2026-11-28T15:54:26.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Former Qatari Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani:\n\nIsrael still believes that one day Gulf countries might turn to the Israelis and say, \"Come and protect us.\"\n\nThis is the Israeli thinking. What matters is how we, as Arabs and Gulf countries, can find a",
-          "url": "https://x.com/Osint613/status/2126706289438810505",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126705314686738514",
-          "created_at": "2026-11-28T15:50:33.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "WSJ Report: Israeli firm HiSKY's satellite communications terminals were fitted to Ukrainian drones used in this month's strike on the Crimean Bridge. HiSKY's network continues to operate in Russian-occupied territory, where SpaceX's Starlink and Starshield services remain https://t.co/g4BjjFkq9Q",
-          "url": "https://x.com/Osint613/status/2126705314686738514",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126702405157060997",
           "created_at": "2026-11-28T15:39:00.000Z",
           "author_name": "The Kobeissi Letter",
@@ -185,16 +285,6 @@
           "author_handle": "Outkick",
           "text": "Mark Pope had his team looking like fools last night 🤪 https://t.co/KxXPgLeyFE",
           "url": "https://x.com/Outkick/status/2126700582689800339",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126699459035664689",
-          "created_at": "2026-11-28T15:27:17.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Trump declares an “Act of God” after a storm devastates the golf course at the center of his legal battle with Judge Reyes!\n\nTrump says the Potomac seawalls have collapsed, leaving the property submerged and forcing the Department of the Interior to close the course.\n\nThe https://t.co/N6dIeujnJm",
-          "url": "https://x.com/RealAmVoice/status/2126699459035664689",
           "verified": true,
           "verified_type": "business"
         },
@@ -269,16 +359,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126685041875153240",
-          "created_at": "2026-11-28T14:30:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "ROYCE WHITE: AMERICA MUST PROTECT ITS CHILDREN\n\n@Highway_30 calls President Trump’s remarks on the death penalty a landmark moment in the fight to protect America’s children.\n\nWhite points to a recent Minnesota case involving a Somali mother who allegedly shot her two young https://t.co/OfP8Z7RWXL",
-          "url": "https://x.com/RealAmVoice/status/2126685041875153240",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126684393812980206",
           "created_at": "2026-11-28T14:27:26.000Z",
           "author_name": "Tim Pool",
@@ -287,26 +367,6 @@
           "url": "https://x.com/Timcast/status/2126684393812980206",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126681949007696321",
-          "created_at": "2026-11-28T14:17:43.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "😳 🍿 https://t.co/kYvfvuJDK9",
-          "url": "https://x.com/RealAmVoice/status/2126681949007696321",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126681347347403196",
-          "created_at": "2026-11-28T14:15:19.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "😳 Black Friday in… Texas https://t.co/ds8e9329K8",
-          "url": "https://x.com/RealAmVoice/status/2126681347347403196",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126681196436292080",
@@ -469,16 +529,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126556050136662311",
-          "created_at": "2026-11-28T05:57:26.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Luka Doncic gets shoved by a Spurs fan postgame.\n\nNBA is the Wild West.  https://t.co/YoAxDAN1fn",
-          "url": "https://x.com/Outkick/status/2126556050136662311",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126550408273563916",
           "created_at": "2026-11-28T05:35:01.000Z",
           "author_name": "Sport & State",
@@ -505,16 +555,6 @@
           "author_handle": "Timcast",
           "text": "Ill be playing WSOP Paradise Super Main\n\nLets go baby\n\nMin cash\n\nAll I need\n\nBut me @NotMikeHarlow and @thefeatchX will be vlogging and hanging out at pig island",
           "url": "https://x.com/Timcast/status/2126545512970993831",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126539857581511160",
-          "created_at": "2026-11-28T04:53:05.000Z",
-          "author_name": "Elon Musk",
-          "author_handle": "elonmusk",
-          "text": "Still hard to believe that this actually happened  https://t.co/y0lvvz84NS",
-          "url": "https://x.com/elonmusk/status/2126539857581511160",
           "verified": true,
           "verified_type": "blue"
         },
@@ -549,36 +589,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126527334400532507",
-          "created_at": "2026-11-28T04:03:20.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Texas vs. Georgia for the SEC title ‼️",
-          "url": "https://x.com/Outkick/status/2126527334400532507",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126526349892329570",
-          "created_at": "2026-11-28T03:59:25.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Texas A&amp;M spent over $40 million dollars on this team to go 4-8, 1-8 in the SEC. Has to be the worst money investment in college sports history. Not even sure what second place is, but when you get results like this you do wonder when big money guys stop donating.",
-          "url": "https://x.com/ClayTravis/status/2126526349892329570",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126525764665528778",
-          "created_at": "2026-11-28T03:57:05.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "Texas advances to the final SEC title game to play Georgia. Longhorns and Dawgs have punched their tickets to the playoff. Tennessee and Alabama have the chance to join them tomorrow.",
-          "url": "https://x.com/ClayTravis/status/2126525764665528778",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126518994043859225",
           "created_at": "2026-11-28T03:30:11.000Z",
           "author_name": "StockMarket.News",
@@ -607,16 +617,6 @@
           "url": "https://x.com/_Investinq/status/2126496392206315699",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126477807618257091",
-          "created_at": "2026-11-28T00:46:32.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Kid is ruthless 😂 https://t.co/scNgH0COqy",
-          "url": "https://x.com/Outkick/status/2126477807618257091",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126453063091110355",
@@ -857,16 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Three takeaways from UNC’s frustrating loss to West Virginia",
-          "summary": "Nov 27, 2026; Charlotte, North Carolina, USA; West Virginia Mountaineers guard Finley Bizjack (11) passes the ball away from North Carolina Tar Heels guard Matt Able (3) during the first half at the Dick Vitale Invitational at Spectrum Center. Mandatory Credit: Jim Dedmon-Imagn Images | IMAGN IMAGES via Reuters Connect There’s something particularly…",
+          "headline": "Rampant Köln dismantle Elversberg 5-0 to spark European dreams",
+          "summary": "Carrying the momentum from their hard-earned draw in Munich straight onto their home turf, 1. FC Köln delivered an attacking masterclass to sweep aside SV Elversberg 5-0 on Saturday.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/three-takeaways-unc-frustrating-loss-160000239.html"
+          "url": "https://sports.yahoo.com/soccer/articles/rampant-k-ln-dismantle-elversberg-163100131.html"
         },
         {
-          "headline": "Alcaraz and Spain through to Davis Cup final after 2-0 win against Britain",
-          "summary": "Carlos Alcaraz has powered Spain to the Davis Cup final and it will play Italy for the title in Bologna",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/alcaraz-spain-davis-cup-final-after-2-0-138497301"
+          "headline": "Nations Championship: England aim for back-to-back wins over New Zealand",
+          "summary": "England face New Zealand in third-place play-off in inaugural Nations Championship finals weekend England seeking back-to-back wins over the All Blacks after record 37-12 victory last weekend at Allianz Stadium Hard-hitting back row Greg Fisilau makes his first England start while Freddie Steward is preferred at full-back Nations Championship: England…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/general/articles/nations-championship-england-aim-back-154606591.html"
         },
         {
           "headline": "B.J. Davis takes over in OT, Creighton beats No. 22 Gonzaga 97-89",
@@ -875,16 +875,16 @@
           "url": "https://abcnews.com/Sports/wireStory/bj-davis-takes-ot-creighton-beats-22-gonzaga-138493971"
         },
         {
-          "headline": "No. 5 Texas Tech holds off San Diego State 78-75 for fifth in Players Era bracket",
-          "summary": "Donovan Atwell made two free throws with three seconds left, and Darrion Williams stole the ball on the final possession as No. 5 Texas Tech held off San Diego State 78-75 in a fifth-place game at the Players Era 16 tournament",
+          "headline": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals",
+          "summary": "Deni Avdija had 26 points and eight rebounds, Toumani Camara added 20 points and eight rebounds and the Portland Trail Blazers beat the Golden State Warriors 116-94 on Friday night to advance to the NBA Cup quarterfinals",
           "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/5-texas-tech-holds-off-san-diego-state-138494515"
+          "url": "https://abcnews.com/Sports/wireStory/trail-blazers-beat-warriors-116-94-advance-nba-138493414"
         },
         {
-          "headline": "USC vs. Texas Tech to open 2027 season: Trojans, Red Raiders set for Las Vegas meeting in 'MGM Classic'",
-          "summary": "The Red Raiders and Trojans will get next season started in Sin City with a marquee nonconference showdown",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/usc-texas-tech-open-2027-season-las-vegas-mgm-classic/"
+          "headline": "The Giants Made a Statement With Their Win Over the Jaguars",
+          "summary": "The New York Giants are coming off an impressive 23-18 victory over the Jacksonville Jaguars, improving their record to 6-3-1 and maintaining their position atop the NFC East. Jacksonville entered the matchup as one of the AFC’s top playoff contenders, making this win particularly significant for New York.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/giants-made-statement-win-over-162618534.html"
         }
       ]
     },
@@ -893,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Jogja-Netpac Asian Film Festival Opens With Lawrence Fajardo’s ‘Silenced Nights’ and a Call to Face Reality",
-          "summary": "The 21st Jogja-Netpac Asian Film Festival (JAFF) kicked off Nov. 28 at the Empire XXI cinema in Yogyakarta, Indonesia, with Filipino director Lawrence Fajardo’s thriller “Silenced Nights” as its opening film.",
+          "headline": "‘His Weakest Creatures’ Director on Offering Hope to Egyptians With His Feel-Good Crime Comedy, Starring Ahmed Helmy and Hend Sabry",
+          "summary": "Egyptian filmmaker Omar Hilal (“Voy! Voy!",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/jogja-netpac-festival-opens-lawrence-fajardo-silenced-nights-1236960014/"
+          "url": "https://variety.com/2026/film/global/his-weakest-creatures-crime-comedy-ahmed-helmy-hend-sabry-1236959991/"
         },
         {
-          "headline": "Scout Willis, Will Peltz and Kurt Deimer to Star in Indie Thriller ‘The Prostitute’ (EXCLUSIVE)",
-          "summary": "Scout Willis, Will Peltz and Kurt Deimer lead the cast of writer-director Paul Boyd’s dark psychological thriller “The Prostitute.” The indie film stars Peltz (“Euphoria,” “Manifest,” “Unfriended”) as a young, struggling filmmaker living out of his van in Hollywood who becomes fixated on documenting a mysterious blonde woman (Willis) he encounters on the…",
+          "headline": "‘Clarissa’ Directing Duo on How Sophie Okonedo and Star-Studded Ensemble Brought Neon’s Lagos-Set ‘Mrs. Dalloway’ Adaptation to Life",
+          "summary": "It’s been a whirlwind year for Chuko and Arie Esiri, the breakout Nigerian directing duo whose star-studded, Lagos-set “Mrs. Dalloway” reinterpretation “Clarissa” wowed audiences at this year’s Cannes Film Festival.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/columns/scout-willis-thriller-the-prostitute-1236960003/"
+          "url": "https://variety.com/2026/film/global/clarissa-sophie-okonedo-neon-lagos-mrs-dalloway-1236959943/"
         },
         {
           "headline": "In 'All of a Sudden,' Ryusuke Hamaguchi shifts focus from spoken words to pure feeling",
@@ -941,6 +941,12 @@
           "url": "https://deadline.com/2026/11/macys-thanksgiving-parade-broadway-medley-1237234533/"
         },
         {
+          "headline": "WWE Star Bronson Reed Dies at 38",
+          "summary": "WWE star Bronson Reed died Friday at the age of 38, the WWE confirmed in a statement. The Australian-born wrestler, whose real name was Jermaine Haley, died “due to medical complications,” the league said.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/"
+        },
+        {
           "headline": "‘Outlander: Blood of My Blood’ Bosses on the Season 2 Finale Twist That Would Rewrite the Series’ Lore, Who Won’t Appear on the Show — and Its Uncertain Future",
           "summary": "SPOILER ALERT: This post contains spoilers from “Twelfth Night,” the Season 2 finale of “Outlander: Blood of My Blood,” now streaming on Starz. “Outlander” was never a series to hold back on a brainy twist that took a minute to digest.",
           "source": "Variety",
@@ -951,12 +957,6 @@
           "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
-        },
-        {
-          "headline": "NBC Pulls Ad Criticizing U.S. Military Aid to Israel After Backlash, Reviews Approval Process",
-          "summary": "The ad aired during Wednesday's 'SNL' Thanksgiving special without senior NBC management's knowledge, a source familiar with the situation tells The Hollywood Reporter.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-pulls-ad-criticizing-us-military-aid-israel-backlash-1236764243/"
         }
       ]
     },
@@ -965,16 +965,16 @@
       "title": "Media",
       "stories": [
         {
+          "headline": "NBC Pulls Ad That Criticizes U.S.’ Israel Policy & Aired During ‘SNL’ Thanksgiving Special",
+          "summary": "NBC has pulled from its air a controversial ad that is critical of the United States’ policy of sending financial aid to Israel. The ad ran Wednesday night during the network’s Saturday Night Live Thanksgiving special.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/nbc-pulls-ad-israel-gaza-1237234472/"
+        },
+        {
           "headline": "Federal Incentive Will Level The Playing Field For America’s Creatives — Guest Column",
           "summary": "Editor’s note: Ruth Vitale, who previously held top posts at Paramount Classics, Fine Line Features and New Line Cinema, is CEO of CreativeFuture, a nonprofit coalition of more than 500 companies and organizations and nearly 300,000 individuals devoted to promoting the value of creativity in the digital age. For more than a decade, CreativeFuture has […]",
           "source": "Deadline",
           "url": "https://deadline.com/2026/11/federal-film-tv-incentive-guest-column-ruth-vitale-1237234279/"
-        },
-        {
-          "headline": "New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To “Traumatic Termination Procedure”",
-          "summary": "A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in “a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125/"
         },
         {
           "headline": "FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network",
@@ -1001,6 +1001,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Queen Latifah Performs ‘U.N.I.T.Y.’ at Thanksgiving Day Parade",
+          "summary": "Fresh off Rock Hall induction, rap legend delivers her 1993 single from the Peacock float at postponed parade",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/queen-latifah-thanksgiving-day-parade-1235664206/"
+        },
+        {
           "headline": "Tyla’s ‘Chanel’ & PARTYNEXTDOOR Win Fan-Voted Honors at 2026 Soul Train Awards",
           "summary": "The Tyla hit “Chanel” was crowned R&B/soul song of the year and PARTYNEXTDOOR was honored as Spotify’s RNB X international artist during the 2026 Soul Train Awards. The Friday (Nov.",
           "source": "Billboard",
@@ -1023,15 +1029,9 @@
           "summary": "Listen to “Miss This Christmas”",
           "source": "Pitchfork",
           "url": "https://pitchfork.com/story/olivia-rodrigo-delivers-another-christmas-song/"
-        },
-        {
-          "headline": "Former Buzzcocks Drummer Phil Barker Dead at 65",
-          "summary": "The musician performed in the British punk rock band for 14 years and recorded on five of their albums",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-28T11:18:30-05:00"
+  "updatedAt": "2026-11-28T11:41:51-05:00"
 }
