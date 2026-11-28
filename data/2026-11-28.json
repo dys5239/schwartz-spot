@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "What to know about the weather-delayed 100th Macy's Thanksgiving Day Parade",
-          "summary": "The 100th annual Macy's Thanksgiving Day Parade will take place Saturday morning.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/GMA/Living/weather-delayed-100th-macys-thanksgiving-day-parade/story?id=138486032"
-        },
-        {
-          "headline": "WWE star Bronson Reed dies at 38 due to 'medical complications'",
-          "summary": "Jermaine Haley, the WWE star known as Bronson Reed, has died at 38 due to \"medical complications,\" the company announced on Friday.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/US/wwe-star-bronson-reed-dies-38-due-medical/story?id=138490946"
-        },
-        {
-          "headline": "Man arrested on suspicion of murdering girl, 16",
-          "summary": "The girl was found at a property in east London on Friday afternoon after fears about her welfare.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckq5vj3ldpx5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
-          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
+          "headline": "Trump faces scrutiny over support for Jensen Huang, Putin G20 invite",
+          "summary": "President Trump pushed Nvidia to reinstate Jensen Huang as CEO and invited Russian President Vladimir Putin to the the upcoming G20 Summit in Florida, sparking criticism.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+          "url": "https://www.cbsnews.com/video/trump-faces-scrutiny-over-support-for-jensen-huang-putin-g20-invite/"
+        },
+        {
+          "headline": "Pensions and benefits services still down after 'cyber incident'",
+          "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Macy's Thanksgiving Day Parade kicks off after being postponed",
+          "summary": "The Macy's Thanksgiving Day Parade is kicking off in New York City Saturday morning after it was postponed for the first time in its 100-year history.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-2026-nyc/"
         },
         {
           "headline": "Woman, 21, dies in Staffordshire crash following police pursuit",
           "summary": "Two forces are being investigated after Friday's late night crash on Rugeley Road in Hednesford.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "WWE star Bronson Reed dies at 38 due to 'medical complications'",
+          "summary": "Jermaine Haley, the WWE star known as Bronson Reed, has died at 38 due to \"medical complications,\" the company announced on Friday.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/US/wwe-star-bronson-reed-dies-38-due-medical/story?id=138490946"
         }
       ]
     },
@@ -79,12 +79,82 @@
       "stories": [],
       "posts": [
         {
-          "id": "2126702600024473810",
-          "created_at": "2026-11-28T15:39:46.000Z",
+          "id": "2126710288632213593",
+          "created_at": "2026-11-28T16:10:19.000Z",
           "author_name": "Open Source Intel",
           "author_handle": "Osint613",
-          "text": "Israeli troops recovered 15 Kalashnikov rifles, 2 mobile phones and more than 100 kg of drugs overnight from balloons that crossed into Israel from the west. The items were transferred to security forces, according to the IDF. https://t.co/C9x9mRbWdE",
-          "url": "https://x.com/Osint613/status/2126702600024473810",
+          "text": "Nvidia Blackwell chips, including a GB300 NVL72 rack, are running at a Shanghai data center connected to Alice Huang.\n\nTwo Chinese firms installed the hardware. One used it as collateral for a $14 million bank loan.\n\nBloomberg",
+          "url": "https://x.com/Osint613/status/2126710288632213593",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126709792861536502",
+          "created_at": "2026-11-28T16:08:21.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "Lmaoooo there’s no such thing as a “normal trip to Afghanistan”. \n\nCry more, commie. @jacksonhinkle https://t.co/XAtZbdinGh",
+          "url": "https://x.com/LauraLoomer/status/2126709792861536502",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126708723573744039",
+          "created_at": "2026-11-28T16:04:06.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Zelensky on U.S. bases in Ukraine:\n\nThe Americans told us, \"We are not sure that bases can be there,\" because it's about NATO.\n\nIn the Middle East, they are also not in NATO, but you have bases, Patriots, defense systems, and soldiers there.\n\nI'm not sure that when they built",
+          "url": "https://x.com/Osint613/status/2126708723573744039",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126708501716111865",
+          "created_at": "2026-11-28T16:03:13.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Ohio State HC Ryan Day introduces Jeremiah Smith for one final Skull Session 🥹❤️\n\n@StephOtey is on the scene for The Game: https://t.co/8hF4xPAafy",
+          "url": "https://x.com/SportNState/status/2126708501716111865",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126708163600625820",
+          "created_at": "2026-11-28T16:01:53.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Former Qatari Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani:\n\nIran is threatening the countries of the region over something that the countries of the region did not do, something that Israel and America did.\n\nI believe that we are now in a state of war with Iran, to",
+          "url": "https://x.com/Osint613/status/2126708163600625820",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126706346267439537",
+          "created_at": "2026-11-28T15:54:39.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "Not a single lie told https://t.co/AXx8oRPDYk",
+          "url": "https://x.com/Outkick/status/2126706346267439537",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126706289438810505",
+          "created_at": "2026-11-28T15:54:26.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Former Qatari Prime Minister Sheikh Hamad bin Jassim bin Jaber Al Thani:\n\nIsrael still believes that one day Gulf countries might turn to the Israelis and say, \"Come and protect us.\"\n\nThis is the Israeli thinking. What matters is how we, as Arabs and Gulf countries, can find a",
+          "url": "https://x.com/Osint613/status/2126706289438810505",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126705314686738514",
+          "created_at": "2026-11-28T15:50:33.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "WSJ Report: Israeli firm HiSKY's satellite communications terminals were fitted to Ukrainian drones used in this month's strike on the Crimean Bridge. HiSKY's network continues to operate in Russian-occupied territory, where SpaceX's Starlink and Starshield services remain https://t.co/g4BjjFkq9Q",
+          "url": "https://x.com/Osint613/status/2126705314686738514",
           "verified": true,
           "verified_type": "blue"
         },
@@ -309,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126665408149090578",
-          "created_at": "2026-11-28T13:11:59.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "BREAKING:\n\nLoomered Strategies @LoomeredStrat has  uncovered the identity of every single person involved in the creation of the anti-Jewish and anti-Israel blood libel ad that aired on NBC on Thanksgiving. And guess what? It ties back to the highest levels of the Democrat party, https://t.co/o9yYprX9ns",
-          "url": "https://x.com/LauraLoomer/status/2126665408149090578",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126662396957839712",
           "created_at": "2026-11-28T13:00:01.000Z",
           "author_name": "Sport & State",
@@ -529,16 +589,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126510132473352489",
-          "created_at": "2026-11-28T02:54:58.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Things are getting out of hand in Aggie Land 😂 https://t.co/8U5BSv8rkA",
-          "url": "https://x.com/SportNState/status/2126510132473352489",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126507691178946884",
           "created_at": "2026-11-28T02:45:16.000Z",
           "author_name": "StockMarket.News",
@@ -575,16 +625,6 @@
           "author_handle": "KobeissiLetter",
           "text": "The majority of Americans are not saving enough for their retirement:\n\nJust 14% of participants in Vanguard-managed 401(k) plans contributed the maximum to their plans in 2025.\n\nAmong those earning $150,000 or more, 51% contributed the maximum, compared with 10% of those earning https://t.co/DZaS7gQRfK",
           "url": "https://x.com/KobeissiLetter/status/2126453063091110355",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126447345894055937",
-          "created_at": "2026-11-27T22:45:29.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "“F*ck you Rodgers” chants are swirling in Pittsburgh  https://t.co/C25VCkvtCo",
-          "url": "https://x.com/Outkick/status/2126447345894055937",
           "verified": true,
           "verified_type": "business"
         },
@@ -635,46 +675,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡️The Indian IT outsourcing model is facing its greatest structural threat since it became a global industry. \n\nAI is attacking the economics that made outsourcing attractive in the first place.\n\nFor decades, American corporations tolerated time-zone differences, communication https://t.co/231H462mvA",
           "url": "https://x.com/_The_Prophet__/status/2126412161828446696",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126387343246393709",
-          "created_at": "2026-11-27T18:47:03.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "CENTCOM disabled a commercial vessel in the Gulf of Oman, Nov. 26, after the crew attempted to run the U.S. naval blockade, despite multiple warnings, following departure from Bandar Abbas.\n\nA U.S. military aircraft launched precision munitions that struck the stern of",
-          "url": "https://x.com/Osint613/status/2126387343246393709",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126385428492079507",
-          "created_at": "2026-11-27T18:39:27.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Fans clashed in the stands today during an Iraqi league football match. The game pitted Al-Karma, a club from the predominantly Sunni western province of Anbar, against Ghaz al-Shamal of Kirkuk, a northern city also identified with the Kurds. https://t.co/GMLPaJMdam",
-          "url": "https://x.com/Osint613/status/2126385428492079507",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126357655161606324",
-          "created_at": "2026-11-27T16:49:05.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Italian Foreign Minister Antonio Tajani:\n\nWe had two innocent victims. They were two civilians working on the maintenance of a radar belonging to a German company that also has a presence in Italy.\n\nThat was what they were doing. Unfortunately, these civilians became victims of https://t.co/IwUSt4hbno",
-          "url": "https://x.com/Osint613/status/2126357655161606324",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126356527904854427",
-          "created_at": "2026-11-27T16:44:36.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "The UN peacekeeping force in southern Lebanon may stay past its end-of-year expiry.\n\nLebanon's PM to AP: a proposal is taking shape for the Security Council to allow it. https://t.co/fJSXxXWkgw",
-          "url": "https://x.com/Osint613/status/2126356527904854427",
           "verified": true,
           "verified_type": "blue"
         },
@@ -785,6 +785,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+        },
+        {
           "headline": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
           "summary": "We look at President Trump's messaging over Thanksgiving, as well as what Congress can get done before the holidays.",
           "source": "NPR",
@@ -795,12 +801,6 @@
           "summary": "For decades, Spain was relatively resistant to the rise of far-right populism seen elsewhere in Europe.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/spain-elections-pedro-sanchez-peoples-party-vox/"
-        },
-        {
-          "headline": "Iowa detonation did not increase levels of lead in water, EPA says",
-          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
         },
         {
           "headline": "New wave of Democratic attorneys general may reshape the justice system",
@@ -857,16 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Mesa football stuns Brophy Prep to reach 6A title game",
-          "summary": "In the first half of the 6A state semifinals on Friday, Nov. 27, it was all Phoenix Brophy Prep.",
+          "headline": "Three takeaways from UNC’s frustrating loss to West Virginia",
+          "summary": "Nov 27, 2026; Charlotte, North Carolina, USA; West Virginia Mountaineers guard Finley Bizjack (11) passes the ball away from North Carolina Tar Heels guard Matt Able (3) during the first half at the Dick Vitale Invitational at Spectrum Center. Mandatory Credit: Jim Dedmon-Imagn Images | IMAGN IMAGES via Reuters Connect There’s something particularly…",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/high-school-sports/articles/mesa-football-stuns-brophy-prep-152704503.html"
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/three-takeaways-unc-frustrating-loss-160000239.html"
         },
         {
-          "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC; Indiana path narrows",
-          "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
+          "headline": "Alcaraz and Spain through to Davis Cup final after 2-0 win against Britain",
+          "summary": "Carlos Alcaraz has powered Spain to the Davis Cup final and it will play Italy for the title in Bologna",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/alcaraz-spain-davis-cup-final-after-2-0-138497301"
         },
         {
           "headline": "B.J. Davis takes over in OT, Creighton beats No. 22 Gonzaga 97-89",
@@ -875,16 +875,16 @@
           "url": "https://abcnews.com/Sports/wireStory/bj-davis-takes-ot-creighton-beats-22-gonzaga-138493971"
         },
         {
-          "headline": "USWNT vs. El Salvador takeaways: Ashley Sanchez six-minute hat trick helps clinch spot in 2027 World Cup",
-          "summary": "United States needed a win to secure one of four direct World Cup berths for the region",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/uswnt-vs-el-salvador-takeaways-ashley-sanchez-six-minute-hat-trick-helps-clinch-spot-in-2027-world-cup/"
+          "headline": "No. 5 Texas Tech holds off San Diego State 78-75 for fifth in Players Era bracket",
+          "summary": "Donovan Atwell made two free throws with three seconds left, and Darrion Williams stole the ball on the final possession as No. 5 Texas Tech held off San Diego State 78-75 in a fifth-place game at the Players Era 16 tournament",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/5-texas-tech-holds-off-san-diego-state-138494515"
         },
         {
-          "headline": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals",
-          "summary": "Deni Avdija had 26 points and eight rebounds, Toumani Camara added 20 points and eight rebounds and the Portland Trail Blazers beat the Golden State Warriors 116-94 on Friday night to advance to the NBA Cup quarterfinals",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/trail-blazers-beat-warriors-116-94-advance-nba-138493414"
+          "headline": "USC vs. Texas Tech to open 2027 season: Trojans, Red Raiders set for Las Vegas meeting in 'MGM Classic'",
+          "summary": "The Red Raiders and Trojans will get next season started in Sin City with a marquee nonconference showdown",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/college-football/news/usc-texas-tech-open-2027-season-las-vegas-mgm-classic/"
         }
       ]
     },
@@ -893,16 +893,22 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Jogja-Netpac Asian Film Festival Opens With Lawrence Fajardo’s ‘Silenced Nights’ and a Call to Face Reality",
+          "summary": "The 21st Jogja-Netpac Asian Film Festival (JAFF) kicked off Nov. 28 at the Empire XXI cinema in Yogyakarta, Indonesia, with Filipino director Lawrence Fajardo’s thriller “Silenced Nights” as its opening film.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/festivals/jogja-netpac-festival-opens-lawrence-fajardo-silenced-nights-1236960014/"
+        },
+        {
+          "headline": "Scout Willis, Will Peltz and Kurt Deimer to Star in Indie Thriller ‘The Prostitute’ (EXCLUSIVE)",
+          "summary": "Scout Willis, Will Peltz and Kurt Deimer lead the cast of writer-director Paul Boyd’s dark psychological thriller “The Prostitute.” The indie film stars Peltz (“Euphoria,” “Manifest,” “Unfriended”) as a young, struggling filmmaker living out of his van in Hollywood who becomes fixated on documenting a mysterious blonde woman (Willis) he encounters on the…",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/columns/scout-willis-thriller-the-prostitute-1236960003/"
+        },
+        {
           "headline": "In 'All of a Sudden,' Ryusuke Hamaguchi shifts focus from spoken words to pure feeling",
           "summary": "Japanese filmmaker Ryusuke Hamaguchi is known for multilingual movies. But as NPR's Ryan Benk reports, his latest film All of a Sudden is less about what's spoken and more about how it makes you feel.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/28/nx-s1-5965544/in-all-of-a-sudden-ryusuke-hamaguchi-shifts-focus-from-spoken-words-to-pure-feeling"
-        },
-        {
-          "headline": "A Demon Baby and a Contract-Killing Company Anchor Indonesian Dark Comedy ‘Gokill’ at JAFF Market",
-          "summary": "Selected for the 2026 JAFF Future Project, supernatural dark comedy “Gokill” follows Sugeng and Ratna, a married couple who finally conceive a child after years of trying. Their joy turns to desperation when doctors discover that their unborn child is unlikely to survive.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/markets-festivals/demon-baby-contract-killers-indonesian-dark-comedy-gokill-1236959976/"
         },
         {
           "headline": "Strong ‘I Play Rocky,’ ‘How to Rob a Bank’ KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows",
@@ -915,12 +921,6 @@
           "summary": "The actor also tells The Hollywood Reporter about filming a musical scene in front of the pop star and whether there's more story to tell in the 26-year-old franchise.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285/"
-        },
-        {
-          "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
-          "summary": "Dune: Part Three. The finale to the intergalactic trilogy will be released in theaters and on IMAX on Dec.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6010507/avengers-doomsday-dune-part-three-artificial-jumanji-the-debut-movies-in-theaters"
         }
       ]
     },
@@ -971,10 +971,10 @@
           "url": "https://deadline.com/2026/11/federal-film-tv-incentive-guest-column-ruth-vitale-1237234279/"
         },
         {
-          "headline": "Trump’s “Noisy Name-Calling” Mocked By NYT After Bored POTUS Starts Thanksgiving Ranting Against Reporter’s Nvidia Dispatch",
-          "summary": "Like death and taxes, you can always rely on there being an annoying relative at the table on Thanksgiving, and you can always depend on Donald Trump losing his marbles on Turkey Day. This year was no different.",
+          "headline": "New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To “Traumatic Termination Procedure”",
+          "summary": "A bombshell book about former Disney boss Bob Iger alleges that the exec impregnated an underling employee in the early 1990s that resulted in “a traumatic termination procedure.” Details of the book went public in a New York Times article today. The New York Times report, which features excerpts from The House of Mouse by […]",
           "source": "Deadline",
-          "url": "https://deadline.com/2026/11/trumps-thanksgiving-new-york-times-attack-1237234141/"
+          "url": "https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125/"
         },
         {
           "headline": "FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network",
@@ -1001,16 +1001,16 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Tyla’s ‘Chanel’ & PARTYNEXTDOOR Win Fan-Voted Honors at 2026 Soul Train Awards",
+          "summary": "The Tyla hit “Chanel” was crowned R&B/soul song of the year and PARTYNEXTDOOR was honored as Spotify’s RNB X international artist during the 2026 Soul Train Awards. The Friday (Nov.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/soul-train-awards-2026-recap-tyla-partynextdoor/"
+        },
+        {
           "headline": "The Killers’ Dave Keuning Says He Survived a Major Stroke: ‘By Some Miracle I Am Fine’",
           "summary": "The Killers guitarist Dave Keuning has revealed he suffered a major stroke two weeks ago and went straight into surgery. Keuning, 50, shared the news in an Instagram post on Thursday (Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/music/rock/the-killers-dave-keuning-stroke-recovery-instagram-1236390473/"
-        },
-        {
-          "headline": "Olivia Rodrigo Shares Second Holiday Song ‘Miss This Christmas’ on Amazon Music",
-          "summary": "Olivia Rodrigo is keeping the holiday spirit alive with another festive release. Just weeks after making her Christmas debut with “Take Me Home (4 Christmas),” the 23-year-old pop star has returned with a second holiday offering, “Miss This Christmas,” exclusively through Amazon Music .",
-          "source": "Billboard",
-          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-miss-this-christmas-amazon-music-1236390458/"
         },
         {
           "headline": "Watch Goo Goo Dolls’ Complete NFL Halftime Show",
@@ -1019,19 +1019,19 @@
           "url": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349/"
         },
         {
+          "headline": "Olivia Rodrigo Delivers Another Christmas Song",
+          "summary": "Listen to “Miss This Christmas”",
+          "source": "Pitchfork",
+          "url": "https://pitchfork.com/story/olivia-rodrigo-delivers-another-christmas-song/"
+        },
+        {
           "headline": "Former Buzzcocks Drummer Phil Barker Dead at 65",
           "summary": "The musician performed in the British punk rock band for 14 years and recorded on five of their albums",
           "source": "Rolling Stone",
           "url": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/"
-        },
-        {
-          "headline": "Pz’ Recruits Don Toliver for New Song “Subliminals”",
-          "summary": "The Georgia model-turned-rapper seals a big year off the back of No Turning Back",
-          "source": "Pitchfork",
-          "url": "https://pitchfork.com/story/pz-recruits-don-toliver-for-new-song-subliminals/"
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-28T10:46:33-05:00"
+  "updatedAt": "2026-11-28T11:18:30-05:00"
 }
