@@ -42,34 +42,34 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-          "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+          "headline": "Woman, 21, dies in Staffordshire crash following police pursuit",
+          "summary": "Two forces are being investigated after Friday's late night crash on Rugeley Road in Hednesford.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "Afghan women in U.S. fear returning to Taliban rule",
+          "summary": "The threat of imminent deportation may have subsided, but some Afghan women who fled Taliban rule still face anxiety and legal limbo in America.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/afghan-women-us-deportation-threat-taliban/"
+        },
+        {
+          "headline": "Channel 4 executive defends Huw Edwards documentary",
+          "summary": "The broadcaster defends its decision to interview the disgraced ex-BBC newsreader in an upcoming documentary.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5gm3z8y0nxdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "headline": "COP31 climate talks fail to reach an agreement on fossil fuel language",
+          "summary": "U.N. climate talks collapsed over whether to mention fossil fuels that cause global warning.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart"
         },
         {
           "headline": "The Mansion Above Dale Hollow Lake | Post Mortem",
           "summary": "\"48 Hours\" correspondents Peter Van Sant and Natalie Morales go behind the scenes of the murder-for-hire death of Michael Harding. They discuss local rumors that the mansion where he lived with his wife, Julie, was cursed.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/video/112826-48-hours-post-mortem-episode-6/"
-        },
-        {
-          "headline": "Macy's Thanksgiving Day Parade kicks off after being postponed",
-          "summary": "The Macy's Thanksgiving Day Parade is kicking off in New York City Saturday morning after it was postponed for the first time in its 100-year history.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-2026-nyc/"
-        },
-        {
-          "headline": "Argentina's bid to stop Falklands oil drilling rejected",
-          "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "Perspective: A hero's name lives on",
-          "summary": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126688811975692591",
+          "created_at": "2026-11-28T14:44:59.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Playoff picture on final Saturday: Georgia, Utah, Texas and Texas Tech, I believe, are in. Notre Dame, Tennessee, Alabama, Miami, and Wake Forest are all double digit favorites and in with wins. That leaves two spots: Big Ten champ and either second Big Ten team or BYU.",
+          "url": "https://x.com/ClayTravis/status/2126688811975692591",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126687262406512870",
+          "created_at": "2026-11-28T14:38:49.000Z",
+          "author_name": "The Kobeissi Letter",
+          "author_handle": "KobeissiLetter",
+          "text": "BREAKING: Global AI-related debt issuance is up to a record $599 billion year-to-date.\n\nThis more than doubles the previous full-year record of $226 billion set in 2025.\n\nMost of this debt was issued by investment-grade borrowers, followed by high-yield, leveraged loan, and https://t.co/VVPBA0VYhX",
+          "url": "https://x.com/KobeissiLetter/status/2126687262406512870",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126685041875153240",
+          "created_at": "2026-11-28T14:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "ROYCE WHITE: AMERICA MUST PROTECT ITS CHILDREN\n\n@Highway_30 calls President Trump’s remarks on the death penalty a landmark moment in the fight to protect America’s children.\n\nWhite points to a recent Minnesota case involving a Somali mother who allegedly shot her two young https://t.co/OfP8Z7RWXL",
+          "url": "https://x.com/RealAmVoice/status/2126685041875153240",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126684393812980206",
+          "created_at": "2026-11-28T14:27:26.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "Gta 6 is the last Gta\n\nFrom here AI will use the engine and create any and everything",
+          "url": "https://x.com/Timcast/status/2126684393812980206",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126681949007696321",
+          "created_at": "2026-11-28T14:17:43.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "😳 🍿 https://t.co/kYvfvuJDK9",
+          "url": "https://x.com/RealAmVoice/status/2126681949007696321",
+          "verified": true,
+          "verified_type": "business"
+        },
         {
           "id": "2126681347347403196",
           "created_at": "2026-11-28T14:15:19.000Z",
@@ -119,16 +169,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126679001024585868",
-          "created_at": "2026-11-28T14:06:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BLACK FRIDAY SAVINGS: Bring home the sound of an American Christmas for 15% OFF!\n\nGet \"Real America's Christmas\" on classic 12-inch black vinyl, featuring seven incredible Christmas songs from Chad Prather, Natasha Owens, Beau Davidson, and more!\n\n🎁 Regularly $100 — NOW JUST https://t.co/A52ewI3eHM",
-          "url": "https://x.com/RealAmVoice/status/2126679001024585868",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126677459252744242",
           "created_at": "2026-11-28T13:59:52.000Z",
           "author_name": "Tim Pool",
@@ -147,16 +187,6 @@
           "url": "https://x.com/LauraLoomer/status/2126676801996923304",
           "verified": true,
           "verified_type": "blue"
-        },
-        {
-          "id": "2126676232620343662",
-          "created_at": "2026-11-28T13:55:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "BUKELE TAKES ON HAITI’S GANGS WITH TRUMP’S BACKING\n\n@Brady_k6 breaks down how President Trump is reshaping U.S. foreign policy across the Western Hemisphere, with El Salvador President Nayib Bukele taking the fight directly to Haiti’s criminal gangs.\n\nWith U.S. logistical https://t.co/ASSAvV4auq",
-          "url": "https://x.com/RealAmVoice/status/2126676232620343662",
-          "verified": true,
-          "verified_type": "business"
         },
         {
           "id": "2126674955647528980",
@@ -359,16 +389,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126537699855077418",
-          "created_at": "2026-11-28T04:44:31.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Fun https://t.co/4FunzoaMWi",
-          "url": "https://x.com/Timcast/status/2126537699855077418",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126533033268527489",
           "created_at": "2026-11-28T04:25:58.000Z",
           "author_name": "Clay Travis",
@@ -559,16 +579,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126417919219286283",
-          "created_at": "2026-11-27T20:48:33.000Z",
-          "author_name": "The Kobeissi Letter",
-          "author_handle": "KobeissiLetter",
-          "text": "BREAKING: China’s non-monetary gold imports rose to a record $209.0 billion in the first 10 months of the year.\n\nThis represents a record ~8% of China’s total imports over the same period.\n\nBy comparison, full-year 2025 gold imports totaled $96.5 billion.\n\nIn October alone, https://t.co/vlD4EZXznQ",
-          "url": "https://x.com/KobeissiLetter/status/2126417919219286283",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126417215620775936",
           "created_at": "2026-11-27T20:45:45.000Z",
           "author_name": "SightBringer",
@@ -645,16 +655,6 @@
           "author_handle": "Osint613",
           "text": "Russia's Foreign Ministry accuses Latvia of putting up obstacles to Russian grain exports to world markets.\n\nThe ministry also alleges Latvia allowed Ukrainian drones to pass through Latvian airspace to attack targets in Russia.\n\nOvernight, the Latvian army detected a threat in",
           "url": "https://x.com/Osint613/status/2126355174226530619",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126321424155525496",
-          "created_at": "2026-11-27T14:25:07.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "The @SportNState college football picks start today. We have been on fire. Get rich, kids: https://t.co/JnxBA7NQuk",
-          "url": "https://x.com/ClayTravis/status/2126321424155525496",
           "verified": true,
           "verified_type": "blue"
         },
@@ -765,6 +765,12 @@
       "title": "Politics",
       "stories": [
         {
+          "headline": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+          "summary": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+        },
+        {
           "headline": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
           "summary": "We look at President Trump's messaging over Thanksgiving, as well as what Congress can get done before the holidays.",
           "source": "NPR",
@@ -775,12 +781,6 @@
           "summary": "For decades, Spain was relatively resistant to the rise of far-right populism seen elsewhere in Europe.",
           "source": "CBS News",
           "url": "https://www.cbsnews.com/news/spain-elections-pedro-sanchez-peoples-party-vox/"
-        },
-        {
-          "headline": "Iowa detonation did not increase levels of lead in water, EPA says",
-          "summary": "The EPA conducted sampling at more than 130 structures in Iowa, including homes, schools, daycare centers and churches.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
         },
         {
           "headline": "New wave of Democratic attorneys general may reshape the justice system",
@@ -801,16 +801,16 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+          "summary": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html"
+        },
+        {
           "headline": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
           "summary": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html"
-        },
-        {
-          "headline": "Billions on the line for Berkshire utility as Oregon's high court reviews wildfire claims",
-          "summary": "Berkshire Hathaway's PacifiCorp and attorneys for thousands of plaintiffs are welcoming a decision by Oregon's Supreme Court to widen its review of a 2023 lower court trial in which a jury awarded more than one billion in damages over four wildfires in 2020.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/28/berkshire-utility-wildfire-claims.html"
         },
         {
           "headline": "How moneymaxxing can help you manage your finances",
@@ -837,16 +837,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "NC State takes down Kansas State, 85-70",
-          "summary": "RALEIGH, NC - NOVEMBER 19: Qadence Samuels #2 of the NC State Wolfpack shoots over Johnea Donahue #3 of the Georgetown Hoyas during the college basketball game between the Georgetown Hoyas and the NC State Wolfpack on November 19, 2026 at Reynolds Coliseum in Raleigh, NC. (Photo by Nicholas Faulkner/Icon Sportswire via Getty Images) | Icon Sportswire via…",
+          "headline": "Texas QB Arch Manning celebrates win over Texas A&M with Longhorns band",
+          "summary": "Scott Wachter-Imagn Images. Texas QB Arch Manning celebrates win over Texas A&M with Longhorns band appeared first on ClutchPoints .",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/nc-state-takes-down-kansas-140143143.html"
+          "url": "https://sports.yahoo.com/college-football/articles/texas-qb-arch-manning-celebrates-144012196.html"
         },
         {
-          "headline": "Friends, Buckeyes, Lunatic Fringe, it’s time to beat That Team Up North",
-          "summary": "COLUMBUS, OHIO - SEPTEMBER 19: A member of the Ohio State University Marching Band holds up the \"Beat Blue Banana\" following a Ohio State Buckeyes touchdown during the fourth quarter of a game against the Kent State Golden Flashes at Ohio Stadium on September 19, 2026 in Columbus, Ohio. (Photo by Ben Jackson/Getty Images) | Getty Images Friends,…",
+          "headline": "Bills news: Final thoughts on Buffalo’s 13-10 win over Kansas City",
+          "summary": "The Buffalo Bills (10-1) held off the Kansas City Chiefs by a 13-10 score Thanksgiving night to seize control in the race to win the No. 1 seed in the AFC.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/college-football/articles/friends-buckeyes-lunatic-fringe-time-140100657.html"
+          "url": "https://sports.yahoo.com/nfl/articles/bills-news-final-thoughts-buffalo-142705405.html"
         },
         {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC; Indiana path narrows",
@@ -861,10 +861,10 @@
           "url": "https://abcnews.com/Sports/wireStory/bj-davis-takes-ot-creighton-beats-22-gonzaga-138493971"
         },
         {
-          "headline": "No. 5 Texas Tech holds off San Diego State 78-75 for fifth in Players Era bracket",
-          "summary": "Donovan Atwell made two free throws with three seconds left, and Darrion Williams stole the ball on the final possession as No. 5 Texas Tech held off San Diego State 78-75 in a fifth-place game at the Players Era 16 tournament",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/5-texas-tech-holds-off-san-diego-state-138494515"
+          "headline": "USWNT vs. El Salvador takeaways: Ashley Sanchez six-minute hat trick helps clinch spot in 2027 World Cup",
+          "summary": "United States needed a win to secure one of four direct World Cup berths for the region",
+          "source": "CBS Sports",
+          "url": "https://www.cbssports.com/soccer/news/uswnt-vs-el-salvador-takeaways-ashley-sanchez-six-minute-hat-trick-helps-clinch-spot-in-2027-world-cup/"
         }
       ]
     },
@@ -909,6 +909,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Macy’s Thanksgiving Day Parade Kicks Off, Making History On A Dry And Breezy Saturday",
+          "summary": "With New York City temperatures in the mid-40s with some light breezes and no rain, the postponed Macy’s Thanksgiving Day Parade got underway this morning at 8:30 a.m. ET, making history as the first such parade to make its way through Manhattan in the event’s 100 year history.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/macys-thanksgiving-day-parade-2026-saturday-1237234526/"
+        },
+        {
           "headline": "Channel 4 Defends Huw Edwards Doc After Government Criticism: “There Is Clear Public Interest In Confronting Him With Questions”",
           "summary": "Channel 4 has been forced to defend its Huw Edwards doc three days before it premieres, with the network’s news chief saying the film has “clear public interest.” Channel 4 unveiled Huw Edwards – Guilty last week and it will air Tuesday night. It has already been met with a barrage of criticism including from […]",
           "source": "Deadline",
@@ -921,22 +927,16 @@
           "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/"
         },
         {
-          "headline": "Bob Greenblatt Opines Why Viewers Aren’t Sampling New Shows Today: “It’s Easier To Just Escape To Seinfeld or Downton Abbey”",
-          "summary": "Veteran TV producer Bob Greenblatt understands why streaming old shows like Cheers or Mad Men is a far more appealing alternative to viewers these days than trying to vibe with a new series. In an interview with the New York Times, Greenblatt admitted that it’s easier to be a producer on an old hit that’s […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/bob-greenblatt-talks-challenge-launching-new-shows-today-1237234508/"
-        },
-        {
-          "headline": "When and Where to Stream the 100th Macy’s Thanksgiving Day Parade After Its Historic Delay",
-          "summary": "For the first time since its inaugural 1924 march, the annual event was postponed due to weather.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275/"
-        },
-        {
           "headline": "‘Outlander: Blood of My Blood’ Bosses on the Season 2 Finale Twist That Would Rewrite the Series’ Lore, Who Won’t Appear on the Show — and Its Uncertain Future",
           "summary": "SPOILER ALERT: This post contains spoilers from “Twelfth Night,” the Season 2 finale of “Outlander: Blood of My Blood,” now streaming on Starz. “Outlander” was never a series to hold back on a brainy twist that took a minute to digest.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/outlander-blood-of-my-blood-finale-spoiler-is-william-beauchamp-jamies-brother-1236958034/"
+        },
+        {
+          "headline": "Gayle King to Miss Week of ‘CBS Mornings’ Shows Amid Death of Her Son-in-Law Virgil Miller",
+          "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
         }
       ]
     },
@@ -981,6 +981,12 @@
       "title": "Music",
       "stories": [
         {
+          "headline": "Raye Opens Macy’s Thanksgiving Day Parade With ‘Joy’",
+          "summary": "The South London singer was joined by her sisters Amma and Absolutely in a Central Park tunnel",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/raye-macys-thanksgiving-day-parade-amma-absolutely-1235664291/"
+        },
+        {
           "headline": "The Killers’ Dave Keuning Says He Survived a Major Stroke: ‘By Some Miracle I Am Fine’",
           "summary": "The Killers guitarist Dave Keuning has revealed he suffered a major stroke two weeks ago and went straight into surgery. Keuning, 50, shared the news in an Instagram post on Thursday (Nov.",
           "source": "Billboard",
@@ -999,12 +1005,6 @@
           "url": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349/"
         },
         {
-          "headline": "Former Buzzcocks Drummer Phil Barker Dead at 65",
-          "summary": "The musician performed in the British punk rock band for 14 years and recorded on five of their albums",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/"
-        },
-        {
           "headline": "Pz’ Recruits Don Toliver for New Song “Subliminals”",
           "summary": "The Georgia model-turned-rapper seals a big year off the back of No Turning Back",
           "source": "Pitchfork",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T09:16:57-05:00"
+  "updatedAt": "2026-11-28T09:46:17-05:00"
 }
