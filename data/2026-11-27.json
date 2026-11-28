@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+          "summary": "The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgp88p744o?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "U.S. Air Force cloud platform breached by hackers, report says",
           "summary": "The alleged incident follows a series of breaches and outages that have been reported at federal agencies this month.",
           "source": "CBS News",
@@ -52,12 +58,6 @@
           "summary": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
-          "summary": "With an official PC version potentially still months away, fans are getting impatient.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "headline": "Woman surprises hospital valet who supported her through cancer treatment with Bills tickets",
@@ -78,6 +78,26 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126511383013630090",
+          "created_at": "2026-11-28T02:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "TURNING POINT TONIGHT SHOW https://t.co/gAHLaZcvY5",
+          "url": "https://x.com/RealAmVoice/status/2126511383013630090",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126510132473352489",
+          "created_at": "2026-11-28T02:54:58.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Things are getting out of hand in Aggie Land 😂 https://t.co/8U5BSv8rkA",
+          "url": "https://x.com/SportNState/status/2126510132473352489",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126507691178946884",
           "created_at": "2026-11-28T02:45:16.000Z",
@@ -389,16 +409,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126440668168098281",
-          "created_at": "2026-11-27T22:18:57.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "THE BEAST rolls through the Sunshine State!\n\nWATCH: President Trump's iconic presidential limousine and motorcade make their way through Florida following a visit to Trump International Golf Club. Trump is expected to return to the White House on Sunday.\n\nhttps://t.co/r4XdONgmrm",
-          "url": "https://x.com/RealAmVoice/status/2126440668168098281",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126436956490137642",
           "created_at": "2026-11-27T22:04:12.000Z",
           "author_name": "SightBringer",
@@ -465,16 +475,6 @@
           "author_handle": "_The_Prophet__",
           "text": "⚡ Sometimes the signal arrives centuries before the mind capable of understanding its significance.\n\nIn 1854, Bernhard Riemann explored geometries that would eventually allow Einstein to describe the curvature of spacetime.\n\nThat same year, George Boole gave logic a mathematical https://t.co/4qnAelVn3i",
           "url": "https://x.com/_The_Prophet__/status/2126422474812465551",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126419201221136709",
-          "created_at": "2026-11-27T20:53:39.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Burning down the door to show outsiders what's going on inside -- isn't that something the media should be applauding? \n\nSo why is everyone so mad at Aaron Rodgers?\n\n@kayceeunplugged column on exposed NFL insiders.\nhttps://t.co/xuNf0RinEI",
-          "url": "https://x.com/SportNState/status/2126419201221136709",
           "verified": true,
           "verified_type": "blue"
         },
@@ -837,6 +837,18 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "ESPN predicts Colorado vs. UCF winner for Week 13 season finale",
+          "summary": "Colorado heads into the final weekend of the season with nothing to play for except pride and perhaps its head coach, as Deion Sanders' job status behind this season remains up in the air. The Buffaloes' offense needs to limit turnovers after a four-turnover outing last weekend against Cincinnati.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/college-football/articles/espn-predicts-colorado-vs-ucf-025327987.html"
+        },
+        {
+          "headline": "Heat eliminate Knicks from NBA Cup contention behind Giannis Antetokounmpo's 20-20 game",
+          "summary": "NBA: FINAL: Heat hold off Knicks 108-105. Giannis Antetokounmpo grabs a career-high 23 rebounds as Miami eliminates the defending NBA Cup champs .",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nba/articles/heat-eliminate-knicks-nba-cup-025159018.html"
+        },
+        {
           "headline": "Trio rallies Texas A&M to 76-74 victory over Marquette at Battle 4 Atlantis",
           "summary": "PJ Haggerty and Mackenzie Mgbako both scored 21 points, and Jordan Pope picked up a loose ball and scored at the buzzer to lift Texas A&M to a 76-74 victory over Marquette in the Signature Series of the Battle 4 Atlantis",
           "source": "ABC News",
@@ -847,18 +859,6 @@
           "summary": "Matas Vokietaitis had 29 points and 11 rebounds for No. 7 Texas, which used a late 13-0 run to overtake Saint Mary’s and win 76-73 in the Rady Children’s Invitational championship game",
           "source": "ABC News",
           "url": "https://abcnews.com/Sports/wireStory/vokietaitis-29-points-11-rebounds-7-texas-beats-138490579"
-        },
-        {
-          "headline": "Kugel, Johnson and Bol propel UCF to 88-76 victory over Georgia at ESPN Events Invitational",
-          "summary": "KISSIMMEE, Fla. (AP) — Riley Kugel and Dior Johnson both scored 24 points, and John Bol posted a double-double to lead UCF to an 88-76 victory over Georgia on Friday night in the Magic Bracket of the ESPN Events Invitational.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mens-college-basketball/articles/kugel-johnson-bol-propel-ucf-023821601.html"
-        },
-        {
-          "headline": "No. 24 North Carolina women beat Army 85-65 behind Kate Harping's 23 points",
-          "summary": "CHAPEL HILL, N.C. (AP) — Kate Harpring scored 23 points and No.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/womens-college-basketball/articles/no-24-north-carolina-women-023258096.html"
         },
         {
           "headline": "Black Friday scorigami: Steelers-Broncos ends with final score that's never happened before in NFL history",
@@ -873,28 +873,28 @@
       "title": "Movies",
       "stories": [
         {
-          "headline": "Farhan Akhtar, Ashutosh Gowariker and Madhur Bhandarkar Look Back at ‘Dil Chahta Hai,’ ‘Lagaan’ and ‘Chandni Bar’ at 25",
-          "summary": "In 2001, three films challenged familiar conventions of Hindi-language cinema in very different ways. Farhan Akhtar’s “Dil Chahta Hai” offered a new screen language for friendship and young adulthood; Ashutosh Gowariker’s “Lagaan” turned a village cricket match into an epic about resistance; and Madhur Bhandarkar’s “Chandni Bar” took audiences into the…",
+          "headline": "Netflix’s ‘Secrets’ Takes Indonesian Auteur Ravi Bharwani Into Thriller Territory After Eight-Year Gap",
+          "summary": "Indonesian filmmaker Ravi Bharwani’s Netflix thriller “Secrets,” his first feature in eight years, will world premiere at the 21st Jogja-Netpac Asian Film Festival on Nov. 29, four days before it begins streaming on the platform on Dec.",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/festivals/farhan-akhtar-ashutosh-gowariker-madhur-bhandarkar-iffi-goa-1236959836/"
+          "url": "https://variety.com/2026/film/festivals/netflix-secrets-ravi-bharwani-thriller-1236959343/"
         },
         {
-          "headline": "BAFTA 2027 Entries Revealed: 126 Best Film Contenders, 728 Performances and No Spot for ‘You Can See Everything’ Star Amanda Seyfried",
-          "summary": "There are 44 movies that want it all. That’s how many titles appear on BAFTA’s draft Entered Films List for the 2027 EE BAFTA Film Awards, with submissions across every category open to them: best film, director, screenplay and all nine craft races, right down to special visual effects.",
+          "headline": "Jason Iskandar’s ‘First Breath After Coma’ Revisits Lunar New Year’s Public Return to Indonesia After a Three-Decade Ban, First Looks Unveiled (EXCLUSIVE)",
+          "summary": "Indonesian filmmaker Jason Iskandar’s “First Breath After Coma,” a drama set as the country’s Chinese community prepared to celebrate the Lunar New Year openly for the first time in more than 30 years, has revealed first-look images of its three leads. The stills were unveiled at Indonesia’s JAFF Market, which takes place alongside the 21st […]",
           "source": "Variety",
-          "url": "https://variety.com/2026/film/awards/bafta-2027-entries-full-list-amanda-seyfried-1236959765/"
+          "url": "https://variety.com/2026/film/markets-festivals/first-breath-after-coma-indonesia-chinese-culture-ban-1236959324/"
+        },
+        {
+          "headline": "Strong ‘I Play Rocky,’ ‘How to Rob a Bank’ KO and More: Amazon MGM Distribution Head on 2026 Highs and Lows",
+          "summary": "Kevin Wilson tells The Hollywood Reporter about the 'Rocky' origin story's \"great start,\" 'How to Rob a Bank' underperforming (\"Still trying to figure it out\") and the 'Ali G' strategy: \"That theatrical hurdle is just tough.\"",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/"
         },
         {
           "headline": "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film",
           "summary": "The actor also tells The Hollywood Reporter about filming a musical scene in front of the pop star and whether there's more story to tell in the 26-year-old franchise.",
           "source": "The Hollywood Reporter",
           "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285/"
-        },
-        {
-          "headline": "Denis Villeneuve Pledges Traditional, “Unapologetic” Bond: “Not Here to Change the DNA”",
-          "summary": "The director teases a classic approach to his Amazon MGM film starring Robert Pattinson: \"I love the way the character behaves.\"",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-bond-movie-denis-villeneuve-1236764148/"
         },
         {
           "headline": "17 films to see before New Year's, from Oscar-bait to blockbusters",
@@ -1013,5 +1013,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T21:47:19-05:00"
+  "updatedAt": "2026-11-27T22:14:24-05:00"
 }
