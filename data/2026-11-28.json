@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "Did AI just solve a century-old math problem? Mathematicians are trying to find out",
+          "summary": "Mathematicians are trying to work out whether AI really has solved a century old problem.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6053019/did-ai-just-solve-a-century-old-math-problem-mathematicians-are-trying-to-find-out"
+        },
+        {
           "headline": "Fake online stores may fool AI shopping bots on Black Friday",
           "summary": "AI bots are accidentally steering shoppers toward websites and online shops created by scammers using AI.",
           "source": "CBS News",
@@ -28,12 +34,6 @@
           "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
-        },
-        {
-          "headline": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
         }
       ]
     },
@@ -42,10 +42,10 @@
       "title": "News",
       "stories": [
         {
-          "headline": "Power being slowly restored as heavy Thanksgiving storm eases",
-          "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+          "headline": "Charity honoring veteran who raised millions with walks to be disbanded",
+          "summary": "Capt. Tom Moore raised almost $49 million with daily walks in his yard during the early days of the coronavirus pandemic.",
           "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/"
+          "url": "https://www.cbsnews.com/news/tom-moore-charity-disbanded-coronavirus-fundraiser/"
         },
         {
           "headline": "Argentina's bid to stop Falklands oil drilling rejected",
@@ -54,22 +54,22 @@
           "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "Gaza strike kills 2 MSF guards whom Israel claims were Hamas fighters",
-          "summary": "The IDF accused the two men killed of being terrorists posing as humanitarian workers.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/"
-        },
-        {
-          "headline": "Woman, 21, dies in Staffordshire crash following police pursuit",
-          "summary": "The crash happened on Friday just after 23:00 GMT on Rugeley Road in Hednesford.",
+          "headline": "Pensions and benefits services still down after 'cyber incident'",
+          "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "headline": "WATCH: 'Ugly pants exchange' trend goes viral among air travelers",
-          "summary": "A new viral trend at airports has emerged among groups of friends traveling together: bringing extra pairs of pants along for a lighthearted swap and reveal.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/video/138494154/"
+          "headline": "College student finds golf ball-sized brain tumor: \"There's no way\"",
+          "summary": "A scan of Niko Pitinii's heart, lungs and stomach found a rare brain tumor.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/brain-tumor-cleveland-clinic-university-of-pittsburgh-panthers/"
+        },
+        {
+          "headline": "Perspective: A hero's name lives on",
+          "summary": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on"
         }
       ]
     },
@@ -78,6 +78,56 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126665408149090578",
+          "created_at": "2026-11-28T13:11:59.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "BREAKING:\n\nLoomered Strategies @LoomeredStrat has  uncovered the identity of every single person involved in the creation of the anti-Jewish and anti-Israel blood libel ad that aired on NBC on Thanksgiving. And guess what? It ties back to the highest levels of the Democrat party, https://t.co/o9yYprX9ns",
+          "url": "https://x.com/LauraLoomer/status/2126665408149090578",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126662396957839712",
+          "created_at": "2026-11-28T13:00:01.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Rivalry weekend still has plenty left to decide, with major CFP and conference championship implications across Saturday’s slate.\n\nIf Thanksgiving and Black Friday were any indication, expect plenty of chaos along the way.\n\n@ByGusWilson previews what’s ahead:",
+          "url": "https://x.com/SportNState/status/2126662396957839712",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126662377911566837",
+          "created_at": "2026-11-28T12:59:57.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "BREAKING POINT WITH DAVID ZERE https://t.co/GxKUC1G7c4",
+          "url": "https://x.com/RealAmVoice/status/2126662377911566837",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126658822647566628",
+          "created_at": "2026-11-28T12:45:49.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "Wait until these morons find out that white people invented fried chicken, too. It came from the Scottish originally. In fact most “soul food” staples have deep European roots.",
+          "url": "https://x.com/MattWalshBlog/status/2126658822647566628",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126658818595586278",
+          "created_at": "2026-11-28T12:45:48.000Z",
+          "author_name": "Matt Walsh",
+          "author_handle": "MattWalshBlog",
+          "text": "The funny thing about the “cultural appropriation” narrative is that white people invented almost all of the stuff that we are now accused of “appropriating.” Mac and cheese just the latest example. https://t.co/rta1Fta6KT",
+          "url": "https://x.com/MattWalshBlog/status/2126658818595586278",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126651808328396947",
           "created_at": "2026-11-28T12:17:57.000Z",
@@ -359,16 +409,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126488230027817185",
-          "created_at": "2026-11-28T01:27:56.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "The Steelers didn’t miss Aaron Rodgers on the field Friday, but some Pittsburgh players are publicly standing by their old locker room mate.\n\nAfter demolishing the Broncos, here’s which Steelers came to the defense of their former QB — and who decided to toe the company line.",
-          "url": "https://x.com/SportNState/status/2126488230027817185",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126480023662026882",
           "created_at": "2026-11-28T00:55:20.000Z",
           "author_name": "Laura Loomer",
@@ -419,16 +459,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126465053889270009",
-          "created_at": "2026-11-27T23:55:51.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "About to break a big story…\n\nThe Jews and anyone who is actually a decent person will be happy. \n\nThe commies and Jew haters, not so much.",
-          "url": "https://x.com/LauraLoomer/status/2126465053889270009",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126462392628654522",
           "created_at": "2026-11-27T23:45:16.000Z",
           "author_name": "StockMarket.News",
@@ -445,16 +475,6 @@
           "author_handle": "RealAmVoice",
           "text": "SEAN SPICER TO REPUBLICANS: THE CLOCK IS TICKING, ‘DO YOUR JOB’\n\n@seanspicer says Republicans cannot afford to waste another day before Democrats take control on January 3, stressing the urgency of confirming nominees and codifying President Trump’s victories into law. https://t.co/coVqrs2D2i",
           "url": "https://x.com/RealAmVoice/status/2126459806730870948",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126456288775164179",
-          "created_at": "2026-11-27T23:21:01.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "CRAZY FLOODING in New Jersey from coastal storm! https://t.co/SyCHtI786Z",
-          "url": "https://x.com/RealAmVoice/status/2126456288775164179",
           "verified": true,
           "verified_type": "business"
         },
@@ -709,26 +729,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2125602930891853975",
-          "created_at": "2026-11-25T14:50:05.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "Everything You Need To Know About The Jensen Huang Scandal | Ep. 1879\n\nhttps://t.co/IU3BUL923Q",
-          "url": "https://x.com/MattWalshBlog/status/2125602930891853975",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2125572185649492132",
-          "created_at": "2026-11-25T12:47:54.000Z",
-          "author_name": "Matt Walsh",
-          "author_handle": "MattWalshBlog",
-          "text": "I'm beginning to understand why all the Canadians are euthanizing themselves https://t.co/nDjz7RGGSm",
-          "url": "https://x.com/MattWalshBlog/status/2125572185649492132",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125342179216261600",
           "created_at": "2026-11-24T21:33:57.000Z",
           "author_name": "SpaceX",
@@ -821,6 +821,12 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
+          "summary": "Many Americans use a smartwatch or fitness tracker to collect their health data, and doctors say the devices are increasingly becoming part of annual checkups.",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/make-it/2026/11/28/wearable-health-trackers-doctors.html"
+        },
+        {
           "headline": "How moneymaxxing can help you manage your finances",
           "summary": "A new social media trend called moneymaxxing is encouraging people to focus on their finances",
           "source": "ABC News",
@@ -831,12 +837,6 @@
           "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html"
-        },
-        {
-          "headline": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
-          "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html"
         },
         {
           "headline": "Shoppers expected to spend nearly $13 billion this Black Friday, Adobe says",
@@ -857,10 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
-          "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
+          "headline": "League Two: Tranmere go 3-0 up inside 13 minutes at Bristol Rovers; Exeter level with Crawley",
+          "summary": "Follow live text commentary from full League Two programme of 12 matches Tom Ince nets early double for Tranmere at Bristol Rovers in 12:30 GMT kick-off Dylan Jones puts Tranmere 3-0 up inside 13 minutes Bottom side Crawley level with Exeter in other lunchtime start Then leaders Salford host Gillingham and second-placed Barnet go to Rochdale in 15:00 GMT…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/general/articles/league-two-bristol-rovers-host-105243457.html"
+        },
+        {
+          "headline": "Bears Week 12 Flashbacks: Arrowhead Upset, Hester’s Magic, Turkey Day",
+          "summary": "DETROIT, MICHIGAN - NOVEMBER 25: Cairo Santos #2 of the Chicago Bears lines up a field goal attempt in the second quarter against the Detroit Lions at Ford Field on November 25, 2021 in Detroit, Michigan. (Photo by Mike Mulholland/Getty Images) | Getty Images In this week’s edition of the Gridiron Time Machine, we’re revisiting an unlikely comeback at…",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/bears-week-12-flashbacks-arrowhead-130000223.html"
         },
         {
           "headline": "B.J. Davis takes over in OT, Creighton beats No. 22 Gonzaga 97-89",
@@ -879,12 +885,6 @@
           "summary": "United States needed a win to secure one of four direct World Cup berths for the region",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/soccer/news/uswnt-vs-el-salvador-takeaways-ashley-sanchez-six-minute-hat-trick-helps-clinch-spot-in-2027-world-cup/"
-        },
-        {
-          "headline": "Pelicans beat Clippers 105-104 in NBA Cup group finale",
-          "summary": "Zion Williamson and Trey Murphy III each scored 25 points and the New Orleans Pelicans beat the Los Angeles Clippers 105-104 on Friday night in their NBA Cup group finale",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/pelicans-beat-clippers-105-104-nba-cup-group-138493320"
         }
       ]
     },
@@ -892,6 +892,12 @@
       "id": "movies",
       "title": "Movies",
       "stories": [
+        {
+          "headline": "In 'All of a Sudden,' Ryusuke Hamaguchi shifts focus from spoken words to pure feeling",
+          "summary": "Japanese filmmaker Ryusuke Hamaguchi is known for multilingual movies. But as NPR's Ryan Benk reports, his latest film All of a Sudden is less about what's spoken and more about how it makes you feel.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-5965544/in-all-of-a-sudden-ryusuke-hamaguchi-shifts-focus-from-spoken-words-to-pure-feeling"
+        },
         {
           "headline": "A Demon Baby and a Contract-Killing Company Anchor Indonesian Dark Comedy ‘Gokill’ at JAFF Market",
           "summary": "Selected for the 2026 JAFF Future Project, supernatural dark comedy “Gokill” follows Sugeng and Ratna, a married couple who finally conceive a child after years of trying. Their joy turns to desperation when doctors discover that their unborn child is unlikely to survive.",
@@ -915,12 +921,6 @@
           "summary": "Dune: Part Three. The finale to the intergalactic trilogy will be released in theaters and on IMAX on Dec.",
           "source": "NPR",
           "url": "https://www.npr.org/2026/11/27/nx-s1-6010507/avengers-doomsday-dune-part-three-artificial-jumanji-the-debut-movies-in-theaters"
-        },
-        {
-          "headline": "'All of a Sudden' is over 3 hours long. Our critic can't wait to see it a third time",
-          "summary": "All of a Sudden .'/> Justin Chang says this is the best movie he's seen all year. It follows a friendship between two women in Paris — one runs an elder-care facility; the other is a theater director visiting from Kyoto.",
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/11/27/nx-s1-6053224/all-of-a-sudden-review"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T07:41:00-05:00"
+  "updatedAt": "2026-11-28T08:17:16-05:00"
 }
