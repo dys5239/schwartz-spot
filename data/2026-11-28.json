@@ -6,6 +6,12 @@
       "title": "AI",
       "stories": [
         {
+          "headline": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+          "summary": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
+        },
+        {
           "headline": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
           "summary": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
           "source": "TechCrunch",
@@ -28,12 +34,6 @@
           "summary": "Los Angeles school officials have disabled AI-generated summaries in Google searches on school-issued devices",
           "source": "ABC News",
           "url": "https://abcnews.com/Technology/wireStory/google-threatens-cut-schools-search-access-los-angeles-138476437"
-        },
-        {
-          "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
-          "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
-          "source": "Wired",
-          "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
         }
       ]
     },
@@ -41,6 +41,24 @@
       "id": "news",
       "title": "News",
       "stories": [
+        {
+          "headline": "Thousands without power after Thanksgiving storms",
+          "summary": "The fallout in East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/east-coast-thanksgiving-storm-power-outages-cleanup/"
+        },
+        {
+          "headline": "Macy's Thanksgiving Day Parade brings out crowds after being postponed",
+          "summary": "The Macy's Thanksgiving Day Parade took place in New York City Saturday morning after it was postponed for the first time in its 100-year history.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-2026-nyc/"
+        },
+        {
+          "headline": "EPA says initial tests show no toxic lead contamination in Iowa following detonation",
+          "summary": "U.S. Army officials called the controlled detonation of roughly five tons of explosive lead azide on Wednesday a success.",
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/11/28/nx-s1-6056359/epa-results-iowa-lead-testing"
+        },
         {
           "headline": "Argentina's bid to stop Falklands oil drilling rejected",
           "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
@@ -52,24 +70,6 @@
           "summary": "The girl was found at a property in east London on Friday afternoon after fears about her welfare.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/ckq5vj3ldpx5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "headline": "How to save money and shop local on Small Business Saturday",
-          "summary": "Americans have already spent billions on Black Friday purchases. The shopping extravaganza continues over the weekend, and numbers look good for local vendors on Small Business Saturday.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/how-to-save-money-and-shop-local-on-small-business-saturday/"
-        },
-        {
-          "headline": "Charity honoring veteran who raised millions with walks to be disbanded",
-          "summary": "Capt. Tom Moore raised almost $49 million with daily walks in his yard during the early days of the coronavirus pandemic.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/tom-moore-charity-disbanded-coronavirus-fundraiser/"
-        },
-        {
-          "headline": "What to know about the weather-delayed 100th Macy's Thanksgiving Day Parade",
-          "summary": "The 100th annual Macy's Thanksgiving Day Parade will take place Saturday morning.",
-          "source": "ABC News",
-          "url": "https://abcnews.com/GMA/Living/weather-delayed-100th-macys-thanksgiving-day-parade/story?id=138486032"
         }
       ]
     },
@@ -78,6 +78,136 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126733084259151944",
+          "created_at": "2026-11-28T17:40:54.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "EU's Von der Leyen:\n\nRussia is paying an increasingly heavy price on its war. On the battlefield, its offensive has stalled.\n\nIn September and October, Russia lost more territory than it gained. \n\nAnd even this came at an enormous human cost, more than 50,000 casualties in",
+          "url": "https://x.com/Osint613/status/2126733084259151944",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126732596050583618",
+          "created_at": "2026-11-28T17:38:58.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "JUST IN: 5.2 magnitude earthquake felt in Santa Monica Bay, California.\n\nContributed by @AZ_Intel_. https://t.co/0DiMn91ecY",
+          "url": "https://x.com/Osint613/status/2126732596050583618",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126730895612666261",
+          "created_at": "2026-11-28T17:32:12.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "The Game will ALWAYS mean something. Regardless of the records.\n\n@StephOtey sets the table from Columbus: https://t.co/Yhkijek1SZ",
+          "url": "https://x.com/SportNState/status/2126730895612666261",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126730865749205136",
+          "created_at": "2026-11-28T17:32:05.000Z",
+          "author_name": "Laura Loomer",
+          "author_handle": "LauraLoomer",
+          "text": "I’ve noticed a string of so called “Conservative influencers” doing promotions for Qatar Airways this week.\n\nImagine traveling to Qatar and thinking it’s a flex. \n\nThis is the second year in a row @emilysavesusa traveled to Qatar for Thanksgiving… she’s not the only so called https://t.co/u1EdFsgGFV",
+          "url": "https://x.com/LauraLoomer/status/2126730865749205136",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126730341025026187",
+          "created_at": "2026-11-28T17:30:00.000Z",
+          "author_name": "Real America's Voice (RAV)",
+          "author_handle": "RealAmVoice",
+          "text": "America's Top 10 for 11/28/26 Segment 3 - Interview with- @MattElfStudies, Sherrif Bateman &amp; @befaithful10\n\n@realwayneroot Breaks Down the Top 10 Stories of the Week https://t.co/koNnUyPZE9",
+          "url": "https://x.com/RealAmVoice/status/2126730341025026187",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126729575941931417",
+          "created_at": "2026-11-28T17:26:58.000Z",
+          "author_name": "Tim Pool",
+          "author_handle": "Timcast",
+          "text": "https://t.co/8MzVpa3tG8 https://t.co/BZ3HxwqL1J",
+          "url": "https://x.com/Timcast/status/2126729575941931417",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126729479955562669",
+          "created_at": "2026-11-28T17:26:35.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Funny AI commercials are going to dominate the 2028 election with young voters. This Jensen Huang rap is really funny. But it’s going to be wild how quickly they take over the discourse. https://t.co/pTA5S2KYyv",
+          "url": "https://x.com/ClayTravis/status/2126729479955562669",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126729354038112760",
+          "created_at": "2026-11-28T17:26:05.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "BO JACKSON gets Ohio State on the board first! https://t.co/icub7M3ofP",
+          "url": "https://x.com/Outkick/status/2126729354038112760",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126729057890959778",
+          "created_at": "2026-11-28T17:24:54.000Z",
+          "author_name": "OutKick",
+          "author_handle": "Outkick",
+          "text": "This will be an interesting game 😳 https://t.co/jNQqq9oIWm",
+          "url": "https://x.com/Outkick/status/2126729057890959778",
+          "verified": true,
+          "verified_type": "business"
+        },
+        {
+          "id": "2126729011451826347",
+          "created_at": "2026-11-28T17:24:43.000Z",
+          "author_name": "Open Source Intel",
+          "author_handle": "Osint613",
+          "text": "Earlier today, UKMTO reported Armed boarders left a cargo ship they seized off Yemen, and the crew is safe. The vessel was boarded at 0630 UTC about 64 nautical miles southwest of Balhaf, where the intruders took command before later vacating. The ship is now continuing to its https://t.co/vTfzdQ5J3E",
+          "url": "https://x.com/Osint613/status/2126729011451826347",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126728659394539985",
+          "created_at": "2026-11-28T17:23:19.000Z",
+          "author_name": "StockMarket.News",
+          "author_handle": "_Investinq",
+          "text": "We cover what actually matters in the market, as it happens.\n\nJoin the free trading Discord and stay a step ahead.\n\nhttps://t.co/NiZftVhowO",
+          "url": "https://x.com/_Investinq/status/2126728659394539985",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126727215660302554",
+          "created_at": "2026-11-28T17:17:35.000Z",
+          "author_name": "Sport & State",
+          "author_handle": "SportNState",
+          "text": "Oh, Michigan said let's get active 😂 https://t.co/aFkhkYm89j",
+          "url": "https://x.com/SportNState/status/2126727215660302554",
+          "verified": true,
+          "verified_type": "blue"
+        },
+        {
+          "id": "2126726557381415077",
+          "created_at": "2026-11-28T17:14:58.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "Yes, you should definitely boycott me. Tell everyone you know to never watch or listen to anything I say on any subject. Boycotts have never worked on any media figure in history. But, who knows, maybe yours will work. Please try. Good luck! https://t.co/Tq2zoUNY0f",
+          "url": "https://x.com/ClayTravis/status/2126726557381415077",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126725709477683700",
           "created_at": "2026-11-28T17:11:36.000Z",
@@ -149,42 +279,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126720397559394458",
-          "created_at": "2026-11-28T16:50:29.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "If hot girls didn’t exist, we would all still live in caves. They are the reason for 99% of male accomplishment. No telling how much ass the guy who invented the wheel got.",
-          "url": "https://x.com/ClayTravis/status/2126720397559394458",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126720298250842507",
           "created_at": "2026-11-28T16:50:06.000Z",
           "author_name": "Laura Loomer",
           "author_handle": "LauraLoomer",
           "text": "Let me just say, I cannot wait to start digging into campaigns come 2028.\n\nAt Loomered Strategies, we will be destroying candidates before their campaigns even get off the ground.",
           "url": "https://x.com/LauraLoomer/status/2126720298250842507",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126719591951040858",
-          "created_at": "2026-11-28T16:47:17.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "We got replay audio. Next up? There should be a channel with the live audio of camera guys looking for hot girls in the crowd at college games. Hell, make it an alt cast option. Would dominate in ratings. https://t.co/tPvsk7oFUL",
-          "url": "https://x.com/ClayTravis/status/2126719591951040858",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126718834237378632",
-          "created_at": "2026-11-28T16:44:17.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "According to the Financial Times, RAF Lakenheath, the largest U.S. fighter base in Europe, went on \"Charlie alert\" on November 13 after a swarm of 6 drones flew over the base. Charlie is the 2nd highest alert level. The USAF repelled the drones but did not recover them.",
-          "url": "https://x.com/Osint613/status/2126718834237378632",
           "verified": true,
           "verified_type": "blue"
         },
@@ -239,16 +339,6 @@
           "verified_type": "business"
         },
         {
-          "id": "2126716202533978376",
-          "created_at": "2026-11-28T16:33:49.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Following talks in Islamabad, Saudi Arabia, Pakistan and Turkey announced their intention to combine military and defense industrial capabilities through the Mecca Alliance. Specifics of the arrangement have not been disclosed.",
-          "url": "https://x.com/Osint613/status/2126716202533978376",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126715685086838865",
           "created_at": "2026-11-28T16:31:46.000Z",
           "author_name": "OutKick",
@@ -289,16 +379,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126714491505123393",
-          "created_at": "2026-11-28T16:27:01.000Z",
-          "author_name": "Open Source Intel",
-          "author_handle": "Osint613",
-          "text": "Milei on the Falklands ruling: \"Not the final word.\"\n\nArgentina lost 18 to 3 in its bid to halt oil drilling off the islands. The maritime tribunal ruled it has no jurisdiction over sovereignty.\n\nArgentina will respect the decision, Milei added. The islands \"are Argentine.\"",
-          "url": "https://x.com/Osint613/status/2126714491505123393",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126709792861536502",
           "created_at": "2026-11-28T16:08:21.000Z",
           "author_name": "Laura Loomer",
@@ -319,42 +399,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126706346267439537",
-          "created_at": "2026-11-28T15:54:39.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Not a single lie told https://t.co/AXx8oRPDYk",
-          "url": "https://x.com/Outkick/status/2126706346267439537",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
           "id": "2126702405157060997",
           "created_at": "2026-11-28T15:39:00.000Z",
           "author_name": "The Kobeissi Letter",
           "author_handle": "KobeissiLetter",
           "text": "US semiconductor stocks are seeing nearly unprecedented volatility:\n\nOn Tuesday, the Semiconductor Index, SOX, underperformed the Nasdaq 100 by 5.9 percentage points, its 4th-biggest daily underperformance on record.\n\nThis was exceeded only in 2 trading sessions in 2000 and one https://t.co/MFY3TmuNrd",
           "url": "https://x.com/KobeissiLetter/status/2126702405157060997",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126700895907799049",
-          "created_at": "2026-11-28T15:33:00.000Z",
-          "author_name": "Real America's Voice (RAV)",
-          "author_handle": "RealAmVoice",
-          "text": "Bannon: Charlie Kirk's assassination had a direct impact on the midterm elections.\n\nSteve Bannon gets brutally candid about what the conservative movement lost with Charlie Kirk, revealing his behind-the-scenes efforts to prevent a regime-change war and questioning why Christian https://t.co/MbqkUoMsXi",
-          "url": "https://x.com/RealAmVoice/status/2126700895907799049",
-          "verified": true,
-          "verified_type": "business"
-        },
-        {
-          "id": "2126700582689800339",
-          "created_at": "2026-11-28T15:31:45.000Z",
-          "author_name": "OutKick",
-          "author_handle": "Outkick",
-          "text": "Mark Pope had his team looking like fools last night 🤪 https://t.co/KxXPgLeyFE",
-          "url": "https://x.com/Outkick/status/2126700582689800339",
           "verified": true,
           "verified_type": "business"
         },
@@ -459,16 +509,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126669988366831626",
-          "created_at": "2026-11-28T13:30:11.000Z",
-          "author_name": "Laura Loomer",
-          "author_handle": "LauraLoomer",
-          "text": "This is what happens when you elect a Muslim mayor…\n\nMuslims don’t belong in America. https://t.co/xrLFyp7lqn",
-          "url": "https://x.com/LauraLoomer/status/2126669988366831626",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126666775706169620",
           "created_at": "2026-11-28T13:17:25.000Z",
           "author_name": "The Kobeissi Letter",
@@ -477,16 +517,6 @@
           "url": "https://x.com/KobeissiLetter/status/2126666775706169620",
           "verified": true,
           "verified_type": "business"
-        },
-        {
-          "id": "2126662396957839712",
-          "created_at": "2026-11-28T13:00:01.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "Rivalry weekend still has plenty left to decide, with major CFP and conference championship implications across Saturday’s slate.\n\nIf Thanksgiving and Black Friday were any indication, expect plenty of chaos along the way.\n\n@ByGusWilson previews what’s ahead:",
-          "url": "https://x.com/SportNState/status/2126662396957839712",
-          "verified": true,
-          "verified_type": "blue"
         },
         {
           "id": "2126658822647566628",
@@ -569,32 +599,12 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126550408273563916",
-          "created_at": "2026-11-28T05:35:01.000Z",
-          "author_name": "Sport & State",
-          "author_handle": "SportNState",
-          "text": "No. 2 Utah caps off a perfect, 12-0 regular season with a home blowout win over West Virginia https://t.co/82xGlNQyHc",
-          "url": "https://x.com/SportNState/status/2126550408273563916",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2126545857373741563",
           "created_at": "2026-11-28T05:16:56.000Z",
           "author_name": "Elon Musk",
           "author_handle": "elonmusk",
           "text": "Maybe there is some merit to envy minimization https://t.co/muxznmFsOw",
           "url": "https://x.com/elonmusk/status/2126545857373741563",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126545512970993831",
-          "created_at": "2026-11-28T05:15:34.000Z",
-          "author_name": "Tim Pool",
-          "author_handle": "Timcast",
-          "text": "Ill be playing WSOP Paradise Super Main\n\nLets go baby\n\nMin cash\n\nAll I need\n\nBut me @NotMikeHarlow and @thefeatchX will be vlogging and hanging out at pig island",
-          "url": "https://x.com/Timcast/status/2126545512970993831",
           "verified": true,
           "verified_type": "blue"
         },
@@ -615,16 +625,6 @@
           "author_handle": "_Investinq",
           "text": "Gene Munster says AI fundamentals keep beating expectations, but focusing on them has been \"a mistake that I've made\"\n\n\"NVIDIA reported in terms of expectations for calendar 27, 75% growth. The street was at 70\"\n\n\"I think we're still sub 1% in terms of the adoption\"\n\n\"Right now https://t.co/cgvtmz4ecS",
           "url": "https://x.com/_Investinq/status/2126507691178946884",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
-          "id": "2126496392206315699",
-          "created_at": "2026-11-28T02:00:22.000Z",
-          "author_name": "StockMarket.News",
-          "author_handle": "_Investinq",
-          "text": "Fundstrat's Tom Lee says this might be the best entry point for stocks in 18 months, and high yield has never posted two negative years in a row\n\n\"I mean, this might be the best entry point in the last 18 months to own stocks to expect double digit gains\"\n\n\"High Yield in its https://t.co/IyoieXURj0",
-          "url": "https://x.com/_Investinq/status/2126496392206315699",
           "verified": true,
           "verified_type": "blue"
         },
@@ -821,6 +821,24 @@
       "title": "Economy",
       "stories": [
         {
+          "headline": "United Fidelity Bank seized in biggest US bank failure since 2024",
+          "summary": "The bank has branches in four states and the U.S. Virgin Islands.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/united-fidelity-bank-seized-biggest-us-bank-failure-138501489"
+        },
+        {
+          "headline": "UK's biggest-spending government department hit by a cyberattack",
+          "summary": "The cyber incident prompted it to take its systems offline the past couple days.",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Business/wireStory/uks-biggest-spending-government-department-confirms-hit-cyberattack-138501313"
+        },
+        {
+          "headline": "How to save money and shop local on Small Business Saturday",
+          "summary": "Americans have already spent billions on Black Friday purchases. The shopping extravaganza continues over the weekend, and numbers look good for local vendors on Small Business Saturday.",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/video/how-to-save-money-and-shop-local-on-small-business-saturday/"
+        },
+        {
           "headline": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
           "summary": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers.",
           "source": "CNBC",
@@ -831,24 +849,6 @@
           "summary": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began.",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html"
-        },
-        {
-          "headline": "How moneymaxxing can help you manage your finances",
-          "summary": "A new social media trend called moneymaxxing is encouraging people to focus on their finances",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Business/wireStory/moneymaxxing-manage-finances-138494804"
-        },
-        {
-          "headline": "Shoppers expected to spend nearly $13 billion this Black Friday, Adobe says",
-          "summary": "Shoppers are expected to spend nearly $13 billion on Black Friday alone, according to Adobe, as the holiday shopping rush kicks off. Tom Hanson has the story.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/video/shoppers-expected-to-spend-nearly-13-billion-this-black-friday-adobe-says/"
-        },
-        {
-          "headline": "OpenAI countersues Apple over allegations of stealing trade secrets",
-          "summary": "OpenAI alleged in a lawsuit Friday that Apple sets up departing employees to be accused of stealing trade secrets.",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/openai-countersues-apple-trade-secrets-lawsuit/"
         }
       ]
     },
@@ -857,22 +857,16 @@
       "title": "Sports",
       "stories": [
         {
-          "headline": "Bills’ win over Chiefs is proof this Buffalo team is different than past playoff failures",
-          "summary": "Mandatory Credit: Mark Konezny-Imagn Images Bills’ win over Chiefs is proof this Buffalo team is different than past playoff failures appeared first on ClutchPoints . Add ClutchPoints as a Preferred Source by clicking here .",
+          "headline": "😱 What a start for Atleti at Elche! 0-2 in six minutes",
+          "summary": "Atlético de Madrid made a blistering start against Elche, racing into a 2-0 lead in just six minutes. The visitors’ pace and precision caught their opponents off guard from the outset.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/bills-win-over-chiefs-proof-165542467.html"
+          "url": "https://sports.yahoo.com/soccer/articles/start-atleti-elche-0-2-174300806.html"
         },
         {
-          "headline": "0 saves, 0 punches: Senne Lammens’ disastrous form continues in Man United’s 4-0 Brentford defeat",
-          "summary": "Manchester United suffered a 3-0 defeat at the hands of Brentford on Saturday, 28 November, at Old Trafford in the Premier League. A Callum Wilson brace, coupled with goals from Kristoffer Ajer and Kevin Schade helped the Bees secure all three points and kept Mauricio Pochettino waiting for his first win.",
+          "headline": "Pittsburgh's win over Denver turned down the noise, but coach Mike McCarthy’s real test starts now",
+          "summary": "PITTSBURGH (AP) — Winning a game might end up being the easy part for Mike McCarthy . You could hear it in the voices of T.J.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/soccer/articles/0-saves-0-punches-senne-165400828.html"
-        },
-        {
-          "headline": "B.J. Davis takes over in OT, Creighton beats No. 22 Gonzaga 97-89",
-          "summary": "B",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/bj-davis-takes-ot-creighton-beats-22-gonzaga-138493971"
+          "url": "https://sports.yahoo.com/nfl/articles/pittsburghs-win-over-denver-turned-174111923.html"
         },
         {
           "headline": "Trail Blazers beat the Warriors 116-94 to advance to the NBA Cup quarterfinals",
@@ -881,10 +875,16 @@
           "url": "https://abcnews.com/Sports/wireStory/trail-blazers-beat-warriors-116-94-advance-nba-138493414"
         },
         {
-          "headline": "Evangel, Peyton Houston lead way on All-District 1-5A football team",
-          "summary": "Led by District 1-5A champion Evangel Christian , the 2026 All-District 1-5A football team is loaded with Eagles, including the offensive and defensive MVPs. LSU commit Peyton “Pop” Houston is the offensive MVP for a second consecutive season, with ECA’s Bennett Speer selected the defensive MVP.",
+          "headline": "Spurs ride second-half surge to earn spot in NBA Cup knockout round with 99-96 victory over Lakers",
+          "summary": "Stephon Castle scored 26 points as the San Antonio Spurs secured a 99-96 victory over the Los Angeles Lakers to advance to the NBA Cup knockout round",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/spurs-ride-half-surge-earn-spot-nba-cup-138493687"
+        },
+        {
+          "headline": "St Mirren 1-4 Kilmarnock: Have your say",
+          "summary": "[BBC] Kilmarnock racked up four goals in a priceless victory to end their winless run and drag St Mirren into the early Scottish Premiership relegation quagmire as they suffered their ninth defeat in 11 league matches. Read the full match report here.",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/high-school-sports/articles/evangel-peyton-houston-lead-way-165023534.html"
+          "url": "https://sports.yahoo.com/soccer/articles/st-mirren-1-4-kilmarnock-173724895.html"
         }
       ]
     },
@@ -893,16 +893,16 @@
       "title": "Movies",
       "stories": [
         {
+          "headline": "Box Office: ‘Hunger Games: Sunrise on the Reaping’ Continues Its Rule With $22.5 Million as ‘Focker-In-Law’ Makes $10.5 Million on Friday",
+          "summary": "“The Hunger Games” may have first hit theaters 14 years ago, but moviegoers are proving they still can’t get enough of the dystopian franchise as “Sunrise on the Reaping,” the latest entry, continues to rule the box office. “Sunrise on the Reaping” took the No.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/film/box-office/box-office-hunger-games-sunrise-on-the-reaping-focker-in-law-1236960026/"
+        },
+        {
           "headline": "‘His Weakest Creatures’ Director on Offering Hope to Egyptians With His Feel-Good Crime Comedy, Starring Ahmed Helmy and Hend Sabry",
           "summary": "Egyptian filmmaker Omar Hilal (“Voy! Voy!",
           "source": "Variety",
           "url": "https://variety.com/2026/film/global/his-weakest-creatures-crime-comedy-ahmed-helmy-hend-sabry-1236959991/"
-        },
-        {
-          "headline": "‘Clarissa’ Directing Duo on How Sophie Okonedo and Star-Studded Ensemble Brought Neon’s Lagos-Set ‘Mrs. Dalloway’ Adaptation to Life",
-          "summary": "It’s been a whirlwind year for Chuko and Arie Esiri, the breakout Nigerian directing duo whose star-studded, Lagos-set “Mrs. Dalloway” reinterpretation “Clarissa” wowed audiences at this year’s Cannes Film Festival.",
-          "source": "Variety",
-          "url": "https://variety.com/2026/film/global/clarissa-sophie-okonedo-neon-lagos-mrs-dalloway-1236959943/"
         },
         {
           "headline": "In 'All of a Sudden,' Ryusuke Hamaguchi shifts focus from spoken words to pure feeling",
@@ -917,10 +917,10 @@
           "url": "https://www.hollywoodreporter.com/movies/movie-features/amazon-mgm-theatrical-i-play-rocky-rob-a-bank-bond-madden-1236764040/"
         },
         {
-          "headline": "Ben Stiller Says Ariana Grande Exceeded His Expectations in ‘Focker-in-Law,’ Would Do a Fifth ‘Meet the Parents’ Film",
-          "summary": "The actor also tells The Hollywood Reporter about filming a musical scene in front of the pop star and whether there's more story to tell in the 26-year-old franchise.",
+          "headline": "Masaaki Yuasa’s ‘Daisy’s Life’ Unveils First Look Images From Japanese Anime Giant’s Next Feature",
+          "summary": "The first images from the animated adaptation of Banana Yoshimoto’s novel comes ahead of the movie now scheduled to hit theaters in Japan in 2027.",
           "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-praises-ariana-grande-focker-in-law-fifth-film-1236763285/"
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/masaaki-yuasas-daisys-life-first-look-1236764141/"
         }
       ]
     },
@@ -929,16 +929,16 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "Strong Earthquake Strikes Los Angeles Area",
+          "summary": "A strong earthquake has struck the Los Angles area. The quake occurred at 9:30 a.m.",
+          "source": "Deadline",
+          "url": "https://deadline.com/2026/11/earthquake-los-angeles-1237234661/"
+        },
+        {
           "headline": "The Weekend Read: Is Netflix The New Cable? Do You Trust Joe Rogan? A Metaphorical Marriage ‘Bunker’, Remembering British Legend Jeremy Conway & Inside The Making Of ‘Hoppers’",
           "summary": "It’s time for The Weekend Read — Deadline’s curated collection of the long-form stories you might have missed this week. First off, we have a deep dive into Netflix’s evolution from network television’s foe into a lifesaving friend.",
           "source": "Deadline",
           "url": "https://deadline.com/lists/the-weekend-read-netflix-as-cable-joe-rogan-bunker-tribute/"
-        },
-        {
-          "headline": "Broadway Gets Speed-Dating-Style Tribute At Macy’s Thanksgiving Day Parade",
-          "summary": "The Macy’s Thanksgiving Day Parade’s “All-Star Broadway Thanksgiving Day Celebration” went off without a hitch, even if it seemed more like a Broadway-themed speed-dating exercise. Nine musical productions – a mix of long-running shows and newcomers – were each given about a minute to show their stuff and pitch a nationwide audience on buying a […]",
-          "source": "Deadline",
-          "url": "https://deadline.com/2026/11/macys-thanksgiving-parade-broadway-medley-1237234533/"
         },
         {
           "headline": "WWE Star Bronson Reed Dies at 38",
@@ -947,16 +947,16 @@
           "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/"
         },
         {
+          "headline": "When and Where to Stream the 100th Macy’s Thanksgiving Day Parade After Its Historic Delay",
+          "summary": "For the first time since its inaugural 1924 march, the annual event was postponed due to weather.",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-macys-thanksgiving-day-parade-2026-free-saturday-time-1236764275/"
+        },
+        {
           "headline": "‘Outlander: Blood of My Blood’ Bosses on the Season 2 Finale Twist That Would Rewrite the Series’ Lore, Who Won’t Appear on the Show — and Its Uncertain Future",
           "summary": "SPOILER ALERT: This post contains spoilers from “Twelfth Night,” the Season 2 finale of “Outlander: Blood of My Blood,” now streaming on Starz. “Outlander” was never a series to hold back on a brainy twist that took a minute to digest.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/outlander-blood-of-my-blood-finale-spoiler-is-william-beauchamp-jamies-brother-1236958034/"
-        },
-        {
-          "headline": "Gayle King to Miss Week of ‘CBS Mornings’ Shows Amid Death of Her Son-in-Law Virgil Miller",
-          "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
         }
       ]
     },
@@ -1001,13 +1001,19 @@
       "title": "Music",
       "stories": [
         {
-          "headline": "Queen Latifah Performs ‘U.N.I.T.Y.’ at Thanksgiving Day Parade",
-          "summary": "Fresh off Rock Hall induction, rap legend delivers her 1993 single from the Peacock float at postponed parade",
+          "headline": "Devo Bring ‘Whip It’ to Thanksgiving Day Parade",
+          "summary": "New-wave legends hop aboard the GEICO float to bring their 1980 classic to the postponed parade",
           "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/queen-latifah-thanksgiving-day-parade-1235664206/"
+          "url": "https://www.rollingstone.com/music/music-news/devo-whip-it-thanksgiving-day-parade-1235664212/"
         },
         {
-          "headline": "Tyla’s ‘Chanel’ & PARTYNEXTDOOR Win Fan-Voted Honors at 2026 Soul Train Awards",
+          "headline": "How to Watch U2 Live at the Tate Modern Streaming Online Free",
+          "summary": "Tonight's hour-long special features the band performing songs from across their extensive catalogue, alongside tracks from new album, Carnaval De Luz",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/music/music-news/watch-u2-bbc-tate-modern-concert-us-streaming-online-free-1235665592/"
+        },
+        {
+          "headline": "Tyla & PARTYNEXTDOOR, Dolly Parton & Freddie Jackson Tributes & More Highlights From 2026 Soul Train Awards",
           "summary": "The Tyla hit “Chanel” was crowned R&B/soul song of the year and PARTYNEXTDOOR was honored as Spotify’s RNB X international artist during the 2026 Soul Train Awards. The Friday (Nov.",
           "source": "Billboard",
           "url": "https://www.billboard.com/lists/soul-train-awards-2026-recap-tyla-partynextdoor/"
@@ -1019,12 +1025,6 @@
           "url": "https://www.billboard.com/music/rock/the-killers-dave-keuning-stroke-recovery-instagram-1236390473/"
         },
         {
-          "headline": "Watch Goo Goo Dolls’ Complete NFL Halftime Show",
-          "summary": "The band performed \"Iris,\" \"Broadway,\" and \"Slide\" during the Kansas City Chiefs vs. Buffalo Bills game as the broadcast was cut by NBC",
-          "source": "Rolling Stone",
-          "url": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349/"
-        },
-        {
           "headline": "Olivia Rodrigo Delivers Another Christmas Song",
           "summary": "Listen to “Miss This Christmas”",
           "source": "Pitchfork",
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-28T12:13:05-05:00"
+  "updatedAt": "2026-11-28T12:48:58-05:00"
 }
