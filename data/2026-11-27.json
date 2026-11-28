@@ -42,6 +42,12 @@
       "title": "News",
       "stories": [
         {
+          "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+          "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
           "headline": "Power being slowly restored as heavy Thanksgiving storm eases",
           "summary": "Heavy rain over flooded East Coast communities began easing Friday, and power was slowly restored to hundreds of thousands of customers.",
           "source": "CBS News",
@@ -60,12 +66,6 @@
           "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
         },
         {
-          "headline": "Set time aside for children to read for pleasure, schools to be told",
-          "summary": "The government says its new cirriculum hopes to reverse declining literacy rates and combat \"mindless scrolling\".",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
           "summary": "New York City Mayor Zohran Mamdani underwent a \"successful\" surgery on Friday for his torn Achilles tendon.",
           "source": "ABC News",
@@ -78,6 +78,16 @@
       "title": "On X",
       "stories": [],
       "posts": [
+        {
+          "id": "2126533033268527489",
+          "created_at": "2026-11-28T04:25:58.000Z",
+          "author_name": "Clay Travis",
+          "author_handle": "ClayTravis",
+          "text": "It’s a sign of why the title game is ending this year that both Tennessee and Alabama fans would rather win tomorrow and have an extra week of rest.",
+          "url": "https://x.com/ClayTravis/status/2126533033268527489",
+          "verified": true,
+          "verified_type": "blue"
+        },
         {
           "id": "2126527405397565748",
           "created_at": "2026-11-28T04:03:37.000Z",
@@ -619,16 +629,6 @@
           "verified_type": "blue"
         },
         {
-          "id": "2126171012186493154",
-          "created_at": "2026-11-27T04:27:26.000Z",
-          "author_name": "Clay Travis",
-          "author_handle": "ClayTravis",
-          "text": "What a kick! Maybe this is the Bills year. At last. Amazing day of football.",
-          "url": "https://x.com/ClayTravis/status/2126171012186493154",
-          "verified": true,
-          "verified_type": "blue"
-        },
-        {
           "id": "2125987669205254402",
           "created_at": "2026-11-26T16:18:53.000Z",
           "author_name": "Glenn Beck",
@@ -857,34 +857,34 @@
       "title": "Sports",
       "stories": [
         {
+          "headline": "Dante Allen scores 23 as No. 17 Miami beats No. 15 Alabama in the first of back-to-back matchups",
+          "summary": "LAS VEGAS — Dante Allen scored 23 points to lead No. 17 Miami past No.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/articles/dante-allen-scores-23-no-043116412.html"
+        },
+        {
+          "headline": "Pittsburgh Steelers’ dominant win over Denver Broncos creates unique NFL history",
+          "summary": "Photo by Joe Sargent/Getty Images After a torrid few days, Mike McCarthy and the Pittsburgh Steelers have responded by beating the Denver Broncos in a way no NFL team has ever managed before! The Pittsburgh Steelers organisation has been on the receiving end of some highly dramatic headlines this week.",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/nfl/articles/pittsburgh-steelers-dominant-win-over-042500199.html"
+        },
+        {
+          "headline": "Sadler and Bizjack score 15 apiece, West Virginia beats UNC 72-59 at Dick Vitale Invitational",
+          "summary": "Miles Sadler and Finley Bizjack each scored 15 points to help West Virginia beat North Carolina 72-59 at the Dick Vitale Invitational",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/sadler-bizjack-score-15-apiece-west-virginia-beats-138491213"
+        },
+        {
+          "headline": "No. 24 North Carolina women beat Army 85-65 behind Kate Harping's 23 points",
+          "summary": "Kate Harpring scores 23 points as No. 24 North Carolina beats Army 85-65",
+          "source": "ABC News",
+          "url": "https://abcnews.com/Sports/wireStory/24-north-carolina-women-beat-army-85-65-138491214"
+        },
+        {
           "headline": "Big Ten Championship Game scenarios: Iowa's win over Nebraska eliminates Ohio State, USC",
           "summary": "The Hawkeyes remained in position for a berth in the Big Ten title game with Friday's win over Nebraska",
           "source": "CBS Sports",
           "url": "https://www.cbssports.com/college-football/news/big-ten-championship-game-2026-scenarios-tiebreakers-rivalry-week/"
-        },
-        {
-          "headline": "Penguins snap a 5-game skid with a 6-3 victory over the Sabres",
-          "summary": "BUFFALO, N.Y. (AP) — Ben Kindel, Rutger McGroarty, Ville Koivunen and Evgeni Malkin each had a goal and an assist, and the Pittsburgh Penguins beat the Buffalo Sabres 6-3 on Friday night to snap a five-game losing streak.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nhl/articles/penguins-snap-5-game-skid-040606847.html"
-        },
-        {
-          "headline": "USWNT player ratings vs. El Salvador: Ashley Sanchez steals the show with hat trick as Americans clinch 2027 World Cup berth",
-          "summary": "Ashley Sanchez scored a first-half hat trick as Emma Hayes' side booked their ticket to Brazil with a commanding 8-0 victory. The U.S.",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/wnba/articles/uswnt-player-ratings-vs-el-040400911.html"
-        },
-        {
-          "headline": "Trio rallies Texas A&M to 76-74 victory over Marquette at Battle 4 Atlantis",
-          "summary": "PJ Haggerty and Mackenzie Mgbako both scored 21 points, and Jordan Pope picked up a loose ball and scored at the buzzer to lift Texas A&M to a 76-74 victory over Marquette in the Signature Series of the Battle 4 Atlantis",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/trio-rallies-texas-76-74-victory-marquette-battle-138490482"
-        },
-        {
-          "headline": "Vokietaitis has 29 points, 11 rebounds as No. 7 Texas beats Saint Mary's 76-73 to win Rady title",
-          "summary": "Matas Vokietaitis had 29 points and 11 rebounds for No. 7 Texas, which used a late 13-0 run to overtake Saint Mary’s and win 76-73 in the Rady Children’s Invitational championship game",
-          "source": "ABC News",
-          "url": "https://abcnews.com/Sports/wireStory/vokietaitis-29-points-11-rebounds-7-texas-beats-138490579"
         }
       ]
     },
@@ -929,6 +929,12 @@
       "title": "TV",
       "stories": [
         {
+          "headline": "WWE Star Bronson Reed Dies at 38",
+          "summary": "WWE star Bronson Reed died Friday at the age of 38, the WWE confirmed in a statement. The Australian-born wrestler, whose real name was Jermaine Haley, died “due to medical complications,” the league said.",
+          "source": "Variety",
+          "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/"
+        },
+        {
           "headline": "Bob Greenblatt Opines Why Viewers Aren’t Sampling New Shows Today: “It’s Easier To Just Escape To Seinfeld or Downton Abbey”",
           "summary": "Veteran TV producer Bob Greenblatt understands why streaming old shows like Cheers or Mad Men is a far more appealing alternative to viewers these days than trying to vibe with a new series. In an interview with the New York Times, Greenblatt admitted that it’s easier to be a producer on an old hit that’s […]",
           "source": "Deadline",
@@ -951,12 +957,6 @@
           "summary": "SPOILER ALERT: This post contains spoilers from “Twelfth Night,” the Season 2 finale of “Outlander: Blood of My Blood,” now streaming on Starz. “Outlander” was never a series to hold back on a brainy twist that took a minute to digest.",
           "source": "Variety",
           "url": "https://variety.com/2026/tv/news/outlander-blood-of-my-blood-finale-spoiler-is-william-beauchamp-jamies-brother-1236958034/"
-        },
-        {
-          "headline": "Gayle King to Miss Week of ‘CBS Mornings’ Shows Amid Death of Her Son-in-Law Virgil Miller",
-          "summary": "Executive producer Jon Tower wrote in a memo to staff obtained by People that the host will be back the week of Dec. 7.",
-          "source": "The Hollywood Reporter",
-          "url": "https://www.hollywoodreporter.com/tv/tv-news/gayle-king-miss-cbs-mornings-death-son-in-law-virgil-miller-1236764264/"
         }
       ]
     },
@@ -1033,5 +1033,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-27T23:13:59-05:00"
+  "updatedAt": "2026-11-27T23:41:08-05:00"
 }
